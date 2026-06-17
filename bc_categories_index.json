@@ -1,0 +1,2002 @@
+{
+  "23": {
+    "name": "Shop All",
+    "parent": 0
+  },
+  "66": {
+    "name": "Accessories",
+    "parent": 0
+  },
+  "68": {
+    "name": "Apple Products",
+    "parent": 0
+  },
+  "69": {
+    "name": "Cameras & Drones",
+    "parent": 174
+  },
+  "70": {
+    "name": "Action Cams & Camcorders",
+    "parent": 69
+  },
+  "71": {
+    "name": "Action Cameras",
+    "parent": 70
+  },
+  "72": {
+    "name": "Camcorders",
+    "parent": 70
+  },
+  "73": {
+    "name": "Dash Cams",
+    "parent": 70
+  },
+  "75": {
+    "name": "Camera Accessories",
+    "parent": 69
+  },
+  "76": {
+    "name": "Camera Batteries & Power",
+    "parent": 75
+  },
+  "77": {
+    "name": "Camera Bags & Cases",
+    "parent": 75
+  },
+  "78": {
+    "name": "Camera Filters",
+    "parent": 75
+  },
+  "79": {
+    "name": "CPL Filters",
+    "parent": 78
+  },
+  "80": {
+    "name": "Effect Filters",
+    "parent": 78
+  },
+  "81": {
+    "name": "ND Filters",
+    "parent": 78
+  },
+  "82": {
+    "name": "UV Filters",
+    "parent": 78
+  },
+  "83": {
+    "name": "Camera Lenses",
+    "parent": 75
+  },
+  "84": {
+    "name": "Lens Caps",
+    "parent": 83
+  },
+  "85": {
+    "name": "Prime Lenses",
+    "parent": 83
+  },
+  "86": {
+    "name": "Zoom Lenses",
+    "parent": 83
+  },
+  "87": {
+    "name": "Other Camera Accessories",
+    "parent": 75
+  },
+  "88": {
+    "name": "Tripods & Mono Pods",
+    "parent": 75
+  },
+  "89": {
+    "name": "Extension Poles",
+    "parent": 88
+  },
+  "90": {
+    "name": "Gimbal Stabilisers & Rigs",
+    "parent": 88
+  },
+  "91": {
+    "name": "Monopods",
+    "parent": 88
+  },
+  "92": {
+    "name": "Tripods",
+    "parent": 88
+  },
+  "93": {
+    "name": "Cameras",
+    "parent": 69
+  },
+  "94": {
+    "name": "DSLR Cameras",
+    "parent": 93
+  },
+  "95": {
+    "name": "Instant Film Cameras",
+    "parent": 93
+  },
+  "96": {
+    "name": "Mirrorless Cameras",
+    "parent": 93
+  },
+  "97": {
+    "name": "Point & Shoot Cameras",
+    "parent": 93
+  },
+  "98": {
+    "name": "Time Lapse Cameras",
+    "parent": 93
+  },
+  "110": {
+    "name": "Computers & Tablets",
+    "parent": 0
+  },
+  "111": {
+    "name": "All-in-One PCs",
+    "parent": 110
+  },
+  "112": {
+    "name": "Apple \\ Mac All-in-One PCs",
+    "parent": 111
+  },
+  "114": {
+    "name": "Windows All-in-One PCs",
+    "parent": 111
+  },
+  "115": {
+    "name": "Desktop PCs",
+    "parent": 110
+  },
+  "116": {
+    "name": "Barebones PCs",
+    "parent": 115
+  },
+  "117": {
+    "name": "Business PCs",
+    "parent": 115
+  },
+  "118": {
+    "name": "Tiny Gaming PCs",
+    "parent": 115
+  },
+  "119": {
+    "name": "Desktop PCs Accessories",
+    "parent": 115
+  },
+  "120": {
+    "name": "Gaming PCs",
+    "parent": 115
+  },
+  "121": {
+    "name": "AMD Ryzen 9000 Series Gaming PCs",
+    "parent": 120
+  },
+  "123": {
+    "name": "Extreme Gaming PCs",
+    "parent": 120
+  },
+  "124": {
+    "name": "Elden Ring Gaming PCs",
+    "parent": 123
+  },
+  "125": {
+    "name": "Free Upgrade Gaming PCs",
+    "parent": 123
+  },
+  "126": {
+    "name": "Upgrade Box Gaming PCs",
+    "parent": 120
+  },
+  "127": {
+    "name": "Intel 15th Ultra Gaming PCs",
+    "parent": 120
+  },
+  "129": {
+    "name": "Powered By MSI",
+    "parent": 120
+  },
+  "130": {
+    "name": "Home PCs",
+    "parent": 115
+  },
+  "131": {
+    "name": "Upgrade Boxes",
+    "parent": 115
+  },
+  "132": {
+    "name": "Workstations",
+    "parent": 115
+  },
+  "133": {
+    "name": "Laptops",
+    "parent": 110
+  },
+  "134": {
+    "name": "2-in-1 \\ Flip Laptops",
+    "parent": 133
+  },
+  "136": {
+    "name": "Apple MacBook",
+    "parent": 133
+  },
+  "137": {
+    "name": "Business Laptops",
+    "parent": 133
+  },
+  "138": {
+    "name": "Chromebooks - BYOD",
+    "parent": 133
+  },
+  "139": {
+    "name": "Refurbished Laptops",
+    "parent": 133
+  },
+  "140": {
+    "name": "Gaming Laptops",
+    "parent": 133
+  },
+  "142": {
+    "name": "Home & Study Laptops",
+    "parent": 133
+  },
+  "143": {
+    "name": "Laptops Accessories",
+    "parent": 133
+  },
+  "144": {
+    "name": "Cooling Pads",
+    "parent": 143
+  },
+  "145": {
+    "name": "Laptop Bags & Cases",
+    "parent": 143
+  },
+  "146": {
+    "name": "Backpacks",
+    "parent": 145
+  },
+  "147": {
+    "name": "Carrying Case",
+    "parent": 145
+  },
+  "148": {
+    "name": "Sleeves Bag",
+    "parent": 145
+  },
+  "149": {
+    "name": "Laptop Charger",
+    "parent": 143
+  },
+  "150": {
+    "name": "Docking Stations",
+    "parent": 143
+  },
+  "151": {
+    "name": "Laptop Stands",
+    "parent": 143
+  },
+  "152": {
+    "name": "Microsoft Laptops",
+    "parent": 133
+  },
+  "153": {
+    "name": "Thin & Light Laptops",
+    "parent": 133
+  },
+  "154": {
+    "name": "Workstation Laptops",
+    "parent": 133
+  },
+  "155": {
+    "name": "Mining Rigs for Bitcoin",
+    "parent": 110
+  },
+  "157": {
+    "name": "Servers",
+    "parent": 110
+  },
+  "158": {
+    "name": "Barebone Servers",
+    "parent": 157
+  },
+  "159": {
+    "name": "Complete Servers",
+    "parent": 157
+  },
+  "160": {
+    "name": "GPU Servers",
+    "parent": 157
+  },
+  "161": {
+    "name": "Tablets",
+    "parent": 110
+  },
+  "162": {
+    "name": "Android Tablets",
+    "parent": 161
+  },
+  "163": {
+    "name": "Apple Tablets",
+    "parent": 161
+  },
+  "165": {
+    "name": "eReaders",
+    "parent": 161
+  },
+  "166": {
+    "name": "Microsoft Tablets",
+    "parent": 161
+  },
+  "167": {
+    "name": "Other Tablets",
+    "parent": 161
+  },
+  "168": {
+    "name": "Tablets Accessories",
+    "parent": 161
+  },
+  "169": {
+    "name": "Stylus",
+    "parent": 168
+  },
+  "170": {
+    "name": "Tablet Cases",
+    "parent": 168
+  },
+  "171": {
+    "name": "Tablet Keyboards",
+    "parent": 168
+  },
+  "172": {
+    "name": "Tablet Screen Protectors",
+    "parent": 168
+  },
+  "174": {
+    "name": "Electronics",
+    "parent": 0
+  },
+  "175": {
+    "name": "Audio & Video Accessories",
+    "parent": 66
+  },
+  "176": {
+    "name": "AV Extenders",
+    "parent": 175
+  },
+  "177": {
+    "name": "AV Receivers",
+    "parent": 175
+  },
+  "178": {
+    "name": "AV Splitters \\ Switches",
+    "parent": 175
+  },
+  "182": {
+    "name": "Digital Signage",
+    "parent": 174
+  },
+  "183": {
+    "name": "Digital Signage Accessories",
+    "parent": 182
+  },
+  "184": {
+    "name": "Digital Signage Players",
+    "parent": 182
+  },
+  "185": {
+    "name": "Interactive Displays",
+    "parent": 182
+  },
+  "186": {
+    "name": "Standalone Displays",
+    "parent": 182
+  },
+  "187": {
+    "name": "Stretch Displays",
+    "parent": 182
+  },
+  "188": {
+    "name": "Video Walls",
+    "parent": 182
+  },
+  "189": {
+    "name": "Home Electronics",
+    "parent": 174
+  },
+  "190": {
+    "name": "Health & Fitness",
+    "parent": 189
+  },
+  "191": {
+    "name": "Lighting",
+    "parent": 189
+  },
+  "193": {
+    "name": "Smart Lighting",
+    "parent": 191
+  },
+  "194": {
+    "name": "Media Players",
+    "parent": 174
+  },
+  "195": {
+    "name": "CD \\ DVD \\ Blu-ray Players",
+    "parent": 194
+  },
+  "198": {
+    "name": "Home Media Players",
+    "parent": 194
+  },
+  "199": {
+    "name": "Portable Media Players",
+    "parent": 194
+  },
+  "200": {
+    "name": "Turntable Styli",
+    "parent": 194
+  },
+  "201": {
+    "name": "Turntables",
+    "parent": 194
+  },
+  "202": {
+    "name": "Pro Audio & Sound Recording",
+    "parent": 174
+  },
+  "203": {
+    "name": "Audio Interfaces",
+    "parent": 202
+  },
+  "204": {
+    "name": "Audio Software",
+    "parent": 202
+  },
+  "205": {
+    "name": "DJ Mixers",
+    "parent": 202
+  },
+  "206": {
+    "name": "Microphones",
+    "parent": 202
+  },
+  "207": {
+    "name": "MIDI Controllers",
+    "parent": 202
+  },
+  "208": {
+    "name": "Other Audio Accessories",
+    "parent": 202
+  },
+  "209": {
+    "name": "PA Systems",
+    "parent": 202
+  },
+  "210": {
+    "name": "Recording Devices",
+    "parent": 202
+  },
+  "211": {
+    "name": "Studio Monitors",
+    "parent": 202
+  },
+  "212": {
+    "name": "Projectors",
+    "parent": 174
+  },
+  "213": {
+    "name": "Business Projectors",
+    "parent": 212
+  },
+  "214": {
+    "name": "Home Theatre Projectors",
+    "parent": 212
+  },
+  "215": {
+    "name": "Portable Projectors",
+    "parent": 212
+  },
+  "216": {
+    "name": "Presentation Tools",
+    "parent": 212
+  },
+  "217": {
+    "name": "Televisions",
+    "parent": 174
+  },
+  "218": {
+    "name": "4K TVs",
+    "parent": 217
+  },
+  "219": {
+    "name": "Business TVs",
+    "parent": 217
+  },
+  "220": {
+    "name": "LED TVs",
+    "parent": 217
+  },
+  "221": {
+    "name": "OLED TVs",
+    "parent": 217
+  },
+  "222": {
+    "name": "QLED TVs",
+    "parent": 217
+  },
+  "223": {
+    "name": "Smart TVs",
+    "parent": 217
+  },
+  "224": {
+    "name": "TV Accessories",
+    "parent": 217
+  },
+  "226": {
+    "name": "Gaming & Toys",
+    "parent": 174
+  },
+  "227": {
+    "name": "Game Capture & Streaming",
+    "parent": 226
+  },
+  "228": {
+    "name": "Game Capture Devices",
+    "parent": 227
+  },
+  "229": {
+    "name": "Microphones",
+    "parent": 227
+  },
+  "230": {
+    "name": "Webcams",
+    "parent": 227
+  },
+  "231": {
+    "name": "Game Consoles",
+    "parent": 226
+  },
+  "232": {
+    "name": "Nintendo",
+    "parent": 231
+  },
+  "233": {
+    "name": "nVidia",
+    "parent": 231
+  },
+  "234": {
+    "name": "Playstation",
+    "parent": 231
+  },
+  "235": {
+    "name": "Xbox",
+    "parent": 231
+  },
+  "236": {
+    "name": "Games",
+    "parent": 226
+  },
+  "237": {
+    "name": "Nintendo Games",
+    "parent": 236
+  },
+  "238": {
+    "name": "PC Games",
+    "parent": 236
+  },
+  "239": {
+    "name": "Playstation Games",
+    "parent": 236
+  },
+  "240": {
+    "name": "Xbox Games",
+    "parent": 236
+  },
+  "241": {
+    "name": "Gaming Accessories",
+    "parent": 226
+  },
+  "242": {
+    "name": "Game Controllers & Joysticks",
+    "parent": 226
+  },
+  "243": {
+    "name": "Gaming Furniture",
+    "parent": 226
+  },
+  "244": {
+    "name": "Gaming Chairs",
+    "parent": 243
+  },
+  "245": {
+    "name": "Gaming Desks",
+    "parent": 243
+  },
+  "246": {
+    "name": "Gaming Furniture Accessories",
+    "parent": 243
+  },
+  "247": {
+    "name": "Gaming Networking",
+    "parent": 226
+  },
+  "248": {
+    "name": "Toys",
+    "parent": 226
+  },
+  "249": {
+    "name": "Virtual Reality",
+    "parent": 226
+  },
+  "250": {
+    "name": "Virtual Reality Accessories",
+    "parent": 249
+  },
+  "251": {
+    "name": "Virtual Reality Headset",
+    "parent": 249
+  },
+  "252": {
+    "name": "More",
+    "parent": 0
+  },
+  "253": {
+    "name": "CSV import",
+    "parent": 252
+  },
+  "254": {
+    "name": "KGGPC",
+    "parent": 252
+  },
+  "255": {
+    "name": "Networking & Security",
+    "parent": 0
+  },
+  "256": {
+    "name": "Mesh Wi-Fi Solutions",
+    "parent": 304
+  },
+  "257": {
+    "name": "Modems",
+    "parent": 255
+  },
+  "258": {
+    "name": "NAS Devices",
+    "parent": 1341
+  },
+  "259": {
+    "name": "Network Cables",
+    "parent": 255
+  },
+  "260": {
+    "name": "Cat5 5M - 20M",
+    "parent": 259
+  },
+  "261": {
+    "name": "Cat5 Above 20M",
+    "parent": 259
+  },
+  "262": {
+    "name": "Cat5 Under 5M",
+    "parent": 259
+  },
+  "263": {
+    "name": "Cat6 5M - 20M",
+    "parent": 259
+  },
+  "264": {
+    "name": "Cat6 Above 20M",
+    "parent": 259
+  },
+  "265": {
+    "name": "Cat6 Under 5M",
+    "parent": 259
+  },
+  "266": {
+    "name": "Cat7 5M - 20M",
+    "parent": 259
+  },
+  "267": {
+    "name": "Cat7 Above 20M",
+    "parent": 259
+  },
+  "268": {
+    "name": "Cat7 Under 5M",
+    "parent": 259
+  },
+  "269": {
+    "name": "Network Switches",
+    "parent": 255
+  },
+  "270": {
+    "name": "PoE Switches",
+    "parent": 269
+  },
+  "271": {
+    "name": "Networking Accessories",
+    "parent": 255
+  },
+  "272": {
+    "name": "Antennas",
+    "parent": 271
+  },
+  "273": {
+    "name": "Media Converters",
+    "parent": 271
+  },
+  "274": {
+    "name": "Mounts & Brackets",
+    "parent": 271
+  },
+  "275": {
+    "name": "Network Adapters",
+    "parent": 255
+  },
+  "276": {
+    "name": "Network Cards",
+    "parent": 275
+  },
+  "277": {
+    "name": "Wi-Fi & Bluetooth Adapters",
+    "parent": 275
+  },
+  "278": {
+    "name": "Other Networking Accessories",
+    "parent": 271
+  },
+  "279": {
+    "name": "POE Splitters & Injectors",
+    "parent": 271
+  },
+  "280": {
+    "name": "Print Servers",
+    "parent": 271
+  },
+  "281": {
+    "name": "Splitters & Filters",
+    "parent": 271
+  },
+  "282": {
+    "name": "Stacking Module",
+    "parent": 271
+  },
+  "283": {
+    "name": "Switch Module",
+    "parent": 271
+  },
+  "284": {
+    "name": "Transceivers",
+    "parent": 271
+  },
+  "285": {
+    "name": "Powerline Networking",
+    "parent": 255
+  },
+  "286": {
+    "name": "AV1000 -- AV1300",
+    "parent": 285
+  },
+  "287": {
+    "name": "AV2000",
+    "parent": 285
+  },
+  "288": {
+    "name": "AV500 -- AV600",
+    "parent": 285
+  },
+  "289": {
+    "name": "Racks & Cabinets",
+    "parent": 255
+  },
+  "290": {
+    "name": "Blanking Panels",
+    "parent": 289
+  },
+  "291": {
+    "name": "Chassis",
+    "parent": 289
+  },
+  "292": {
+    "name": "Mounts, Rails & Plinths",
+    "parent": 289
+  },
+  "293": {
+    "name": "Open Racks",
+    "parent": 289
+  },
+  "294": {
+    "name": "Outdoor Cabinets",
+    "parent": 289
+  },
+  "295": {
+    "name": "Patch Panels",
+    "parent": 289
+  },
+  "296": {
+    "name": "Port & Cabinet Security",
+    "parent": 289
+  },
+  "297": {
+    "name": "Rack & Cabinet Doors",
+    "parent": 289
+  },
+  "298": {
+    "name": "Rack Cabinets",
+    "parent": 289
+  },
+  "299": {
+    "name": "Rack Cable Management",
+    "parent": 289
+  },
+  "300": {
+    "name": "Rack Cooling",
+    "parent": 289
+  },
+  "301": {
+    "name": "Rack Shelving",
+    "parent": 289
+  },
+  "302": {
+    "name": "Screws, Nuts & Bolts",
+    "parent": 289
+  },
+  "303": {
+    "name": "Wall Mount Cabinets",
+    "parent": 289
+  },
+  "304": {
+    "name": "Routers & Wireless Access Points",
+    "parent": 255
+  },
+  "305": {
+    "name": "3G & 4G Routers",
+    "parent": 304
+  },
+  "306": {
+    "name": "Access Point Accessories",
+    "parent": 304
+  },
+  "307": {
+    "name": "CPE",
+    "parent": 304
+  },
+  "308": {
+    "name": "Indoor Access Points",
+    "parent": 304
+  },
+  "309": {
+    "name": "Non-Wireless Routers",
+    "parent": 304
+  },
+  "310": {
+    "name": "Outdoor Access Points",
+    "parent": 304
+  },
+  "311": {
+    "name": "PoE Routers",
+    "parent": 304
+  },
+  "312": {
+    "name": "VPN Routers",
+    "parent": 304
+  },
+  "313": {
+    "name": "Wireless Routers",
+    "parent": 304
+  },
+  "314": {
+    "name": "Structured Cabling",
+    "parent": 255
+  },
+  "315": {
+    "name": "Cable Boots",
+    "parent": 314
+  },
+  "316": {
+    "name": "Cable Rolls",
+    "parent": 314
+  },
+  "317": {
+    "name": "Distribution & Termination Boxes",
+    "parent": 314
+  },
+  "318": {
+    "name": "Face Plates & Mounting Boxes",
+    "parent": 314
+  },
+  "319": {
+    "name": "Joiners & Couplers",
+    "parent": 314
+  },
+  "320": {
+    "name": "Keystone Jacks & Clips",
+    "parent": 314
+  },
+  "321": {
+    "name": "Modular Connectors",
+    "parent": 314
+  },
+  "322": {
+    "name": "Other Structured Cabling",
+    "parent": 314
+  },
+  "323": {
+    "name": "Wireless Range Extenders",
+    "parent": 255
+  },
+  "324": {
+    "name": "802.11ac",
+    "parent": 323
+  },
+  "325": {
+    "name": "802.11ax",
+    "parent": 323
+  },
+  "326": {
+    "name": "802.11n",
+    "parent": 323
+  },
+  "327": {
+    "name": "Off-Lease",
+    "parent": 0
+  },
+  "328": {
+    "name": "All-in-One PC",
+    "parent": 327
+  },
+  "329": {
+    "name": "Off-Lease Desktops",
+    "parent": 327
+  },
+  "330": {
+    "name": "Off-Lease Laptops",
+    "parent": 327
+  },
+  "331": {
+    "name": "Off-Lease PC Parts",
+    "parent": 327
+  },
+  "332": {
+    "name": "Off-Lease Peripherals",
+    "parent": 327
+  },
+  "333": {
+    "name": "Off-Lease Servers",
+    "parent": 327
+  },
+  "334": {
+    "name": "Off-Lease Tablets",
+    "parent": 327
+  },
+  "335": {
+    "name": "PC Parts",
+    "parent": 0
+  },
+  "336": {
+    "name": "Computer Cases",
+    "parent": 335
+  },
+  "337": {
+    "name": "Full Tower Cases",
+    "parent": 336
+  },
+  "338": {
+    "name": "Micro Tower Cases",
+    "parent": 336
+  },
+  "339": {
+    "name": "Mid Tower Cases",
+    "parent": 336
+  },
+  "340": {
+    "name": "Mini ITX Cases",
+    "parent": 336
+  },
+  "341": {
+    "name": "Other Cases",
+    "parent": 336
+  },
+  "342": {
+    "name": "Server Cases",
+    "parent": 336
+  },
+  "343": {
+    "name": "Computer Parts Accessories",
+    "parent": 66
+  },
+  "344": {
+    "name": "Cable Mods",
+    "parent": 335
+  },
+  "345": {
+    "name": "Cooling Devices",
+    "parent": 335
+  },
+  "346": {
+    "name": "Air Cooling",
+    "parent": 345
+  },
+  "347": {
+    "name": "Case Fans",
+    "parent": 345
+  },
+  "348": {
+    "name": "Cooling Accessories",
+    "parent": 345
+  },
+  "349": {
+    "name": "CPU Coolers",
+    "parent": 346
+  },
+  "351": {
+    "name": "AIO Water Cooling",
+    "parent": 345
+  },
+  "363": {
+    "name": "Thermal Paste",
+    "parent": 345
+  },
+  "364": {
+    "name": "CPU \\ Processors",
+    "parent": 335
+  },
+  "369": {
+    "name": "Internal Hard Drives",
+    "parent": 335
+  },
+  "370": {
+    "name": "HDD 22TB and Above",
+    "parent": 369
+  },
+  "371": {
+    "name": "HDD 1TB - 4TB",
+    "parent": 369
+  },
+  "372": {
+    "name": "HDD 6TB - 10TB",
+    "parent": 369
+  },
+  "373": {
+    "name": "HDD 12TB - 20TB",
+    "parent": 369
+  },
+  "375": {
+    "name": "Internal SSD",
+    "parent": 335
+  },
+  "376": {
+    "name": "M.2 NVMe SSD",
+    "parent": 375
+  },
+  "377": {
+    "name": "M.2 SATA SSD",
+    "parent": 375
+  },
+  "378": {
+    "name": "mSATA SSD",
+    "parent": 375
+  },
+  "379": {
+    "name": "SAS SSD",
+    "parent": 375
+  },
+  "380": {
+    "name": "SATA SSD",
+    "parent": 375
+  },
+  "381": {
+    "name": "SATADOM SSD",
+    "parent": 375
+  },
+  "382": {
+    "name": "U.2 NVMe SSD",
+    "parent": 375
+  },
+  "383": {
+    "name": "USB AND PCIE Cards",
+    "parent": 335
+  },
+  "395": {
+    "name": "Memory",
+    "parent": 335
+  },
+  "403": {
+    "name": "Motherboards",
+    "parent": 335
+  },
+  "404": {
+    "name": "AMD Motherboards",
+    "parent": 403
+  },
+  "405": {
+    "name": "Intel Motherboards",
+    "parent": 403
+  },
+  "406": {
+    "name": "Server Motherboards",
+    "parent": 403
+  },
+  "407": {
+    "name": "Optical Drives",
+    "parent": 335
+  },
+  "408": {
+    "name": "Internal Blu-Ray Drives",
+    "parent": 407
+  },
+  "409": {
+    "name": "Internal CD & DVD Drives",
+    "parent": 407
+  },
+  "410": {
+    "name": "Power Supplies",
+    "parent": 335
+  },
+  "411": {
+    "name": "350W -- 480W",
+    "parent": 410
+  },
+  "412": {
+    "name": "500W -- 550W",
+    "parent": 410
+  },
+  "413": {
+    "name": "600W -- 650W",
+    "parent": 410
+  },
+  "414": {
+    "name": "700W -- 750W",
+    "parent": 410
+  },
+  "415": {
+    "name": "800W -- 850W",
+    "parent": 410
+  },
+  "416": {
+    "name": "Above 900W",
+    "parent": 410
+  },
+  "417": {
+    "name": "Sound Cards",
+    "parent": 335
+  },
+  "418": {
+    "name": "External Sound Cards",
+    "parent": 417
+  },
+  "419": {
+    "name": "Internal Sound Cards",
+    "parent": 417
+  },
+  "420": {
+    "name": "TV \\ Video Capture",
+    "parent": 335
+  },
+  "422": {
+    "name": "Upgrade Kits",
+    "parent": 335
+  },
+  "423": {
+    "name": "AMD Ryzen Upgrade Kits",
+    "parent": 422
+  },
+  "424": {
+    "name": "Intel Upgrade Kits",
+    "parent": 422
+  },
+  "426": {
+    "name": "Video Cards",
+    "parent": 335
+  },
+  "427": {
+    "name": "AMD Radeon",
+    "parent": 426
+  },
+  "428": {
+    "name": "Graphics Docks & Accessories",
+    "parent": 426
+  },
+  "429": {
+    "name": "Nvidia GeForce",
+    "parent": 426
+  },
+  "430": {
+    "name": "RTX 30 Series",
+    "parent": 429
+  },
+  "431": {
+    "name": "RTX 3090 Series",
+    "parent": 430
+  },
+  "432": {
+    "name": "RTX 3090 Ti Graphics Card",
+    "parent": 431
+  },
+  "433": {
+    "name": "Workstation",
+    "parent": 426
+  },
+  "434": {
+    "name": "Peripherals",
+    "parent": 0
+  },
+  "435": {
+    "name": "Drive Enclosures & Docks",
+    "parent": 434
+  },
+  "436": {
+    "name": "2.5&quot Enclosures",
+    "parent": 435
+  },
+  "438": {
+    "name": "HDD Dock",
+    "parent": 435
+  },
+  "439": {
+    "name": "Drive Bays & Mounts",
+    "parent": 435
+  },
+  "440": {
+    "name": "Drive Caddies",
+    "parent": 435
+  },
+  "441": {
+    "name": "M.2 Enclosures",
+    "parent": 435
+  },
+  "442": {
+    "name": "SATA Enclosures",
+    "parent": 435
+  },
+  "443": {
+    "name": "Other Drive Enclosures",
+    "parent": 435
+  },
+  "444": {
+    "name": "Storage Arrays",
+    "parent": 435
+  },
+  "445": {
+    "name": "External HDDs",
+    "parent": 434
+  },
+  "449": {
+    "name": "External HDD 1TB",
+    "parent": 445
+  },
+  "450": {
+    "name": "External HDD 2TB",
+    "parent": 445
+  },
+  "451": {
+    "name": "External HDD 4TB",
+    "parent": 445
+  },
+  "453": {
+    "name": "External Optical Drives",
+    "parent": 434
+  },
+  "454": {
+    "name": "Duplicators",
+    "parent": 453
+  },
+  "455": {
+    "name": "External Blu-Ray Drives",
+    "parent": 453
+  },
+  "456": {
+    "name": "External CD & DVD Drives",
+    "parent": 453
+  },
+  "457": {
+    "name": "Other Optical Drives",
+    "parent": 453
+  },
+  "458": {
+    "name": "External SSDs",
+    "parent": 434
+  },
+  "459": {
+    "name": "External SSD 240GB to 250GB",
+    "parent": 458
+  },
+  "460": {
+    "name": "External SSD 2TB",
+    "parent": 458
+  },
+  "462": {
+    "name": "External SSD 500GB",
+    "parent": 458
+  },
+  "463": {
+    "name": "External SSD 1TB",
+    "parent": 458
+  },
+  "464": {
+    "name": "Graphics Tablets Accessory",
+    "parent": 168
+  },
+  "469": {
+    "name": "Headphones & Earphones",
+    "parent": 434
+  },
+  "470": {
+    "name": "Earphones",
+    "parent": 469
+  },
+  "471": {
+    "name": "Wired Earphones",
+    "parent": 470
+  },
+  "472": {
+    "name": "Wireless Earphones",
+    "parent": 470
+  },
+  "473": {
+    "name": "On Ear Headphones",
+    "parent": 469
+  },
+  "474": {
+    "name": "Wired On Ear",
+    "parent": 473
+  },
+  "475": {
+    "name": "Wireless On Ear",
+    "parent": 473
+  },
+  "476": {
+    "name": "Over Ear Headphones",
+    "parent": 469
+  },
+  "477": {
+    "name": "Wired Over Ear",
+    "parent": 476
+  },
+  "478": {
+    "name": "Wireless Over Ear",
+    "parent": 476
+  },
+  "479": {
+    "name": "Headsets",
+    "parent": 434
+  },
+  "480": {
+    "name": "Business Headsets",
+    "parent": 479
+  },
+  "481": {
+    "name": "Binaural Business Headsets",
+    "parent": 480
+  },
+  "482": {
+    "name": "Ear Hook Business Headsets",
+    "parent": 480
+  },
+  "483": {
+    "name": "Monaural Business Headsets",
+    "parent": 480
+  },
+  "484": {
+    "name": "Gaming Headsets",
+    "parent": 479
+  },
+  "485": {
+    "name": "Keyboards",
+    "parent": 434
+  },
+  "486": {
+    "name": "Gaming Keyboards",
+    "parent": 485
+  },
+  "487": {
+    "name": "Key Caps",
+    "parent": 485
+  },
+  "488": {
+    "name": "Keyboard & Mice Combos",
+    "parent": 485
+  },
+  "489": {
+    "name": "Standard Keyboards",
+    "parent": 485
+  },
+  "490": {
+    "name": "Keypads",
+    "parent": 485
+  },
+  "491": {
+    "name": "KVM Switches & Cable",
+    "parent": 434
+  },
+  "492": {
+    "name": "KVM Accessories",
+    "parent": 540
+  },
+  "493": {
+    "name": "KVM Cables",
+    "parent": 491
+  },
+  "494": {
+    "name": "KVM Cat Switches",
+    "parent": 491
+  },
+  "495": {
+    "name": "KVM Desktop Switches",
+    "parent": 491
+  },
+  "496": {
+    "name": "KVM Extenders",
+    "parent": 491
+  },
+  "497": {
+    "name": "KVM IP Switches",
+    "parent": 491
+  },
+  "498": {
+    "name": "KVM LCD Switches",
+    "parent": 491
+  },
+  "499": {
+    "name": "KVM Modules",
+    "parent": 491
+  },
+  "500": {
+    "name": "KVM Rack Switches",
+    "parent": 491
+  },
+  "501": {
+    "name": "Memory Cards",
+    "parent": 434
+  },
+  "502": {
+    "name": "SD/MicroSD Card 128GB",
+    "parent": 501
+  },
+  "503": {
+    "name": "SD/MicroSD Card 16GB",
+    "parent": 501
+  },
+  "504": {
+    "name": "SD/MicroSD Card 1TB",
+    "parent": 501
+  },
+  "505": {
+    "name": "SD/MicroSD Card 256GB",
+    "parent": 501
+  },
+  "506": {
+    "name": "SD/MicroSD Card 32GB",
+    "parent": 501
+  },
+  "507": {
+    "name": "SD/MicroSD Card 512GB",
+    "parent": 501
+  },
+  "508": {
+    "name": "SD/MicroSD Card 64GB",
+    "parent": 501
+  },
+  "509": {
+    "name": "SD/MicroSD Card 8GB",
+    "parent": 501
+  },
+  "510": {
+    "name": "Memory Card Reader",
+    "parent": 501
+  },
+  "511": {
+    "name": "Mice",
+    "parent": 434
+  },
+  "512": {
+    "name": "Ergonomic Mice",
+    "parent": 511
+  },
+  "513": {
+    "name": "Gaming Mice",
+    "parent": 511
+  },
+  "514": {
+    "name": "Mice & Mouse Pad Accessories",
+    "parent": 511
+  },
+  "515": {
+    "name": "Mouse Pads",
+    "parent": 511
+  },
+  "516": {
+    "name": "Specialist Mice",
+    "parent": 511
+  },
+  "517": {
+    "name": "Standard Mice",
+    "parent": 511
+  },
+  "518": {
+    "name": "Microphones",
+    "parent": 434
+  },
+  "519": {
+    "name": "Monitors",
+    "parent": 434
+  },
+  "523": {
+    "name": "23\" - 24\" Monitors",
+    "parent": 519
+  },
+  "525": {
+    "name": "26\" - 27\" Monitors",
+    "parent": 519
+  },
+  "527": {
+    "name": "30\" - 32\" Monitors",
+    "parent": 519
+  },
+  "528": {
+    "name": "34\" - 36\" Monitors",
+    "parent": 519
+  },
+  "529": {
+    "name": "38\" - 50\" Monitors",
+    "parent": 519
+  },
+  "531": {
+    "name": "Business Monitors",
+    "parent": 519
+  },
+  "532": {
+    "name": "Gaming Monitors",
+    "parent": 519
+  },
+  "533": {
+    "name": "Home Monitors",
+    "parent": 519
+  },
+  "534": {
+    "name": "Monitor Accessories",
+    "parent": 519
+  },
+  "535": {
+    "name": "Monitor Mounts",
+    "parent": 534
+  },
+  "536": {
+    "name": "Portable Monitors",
+    "parent": 519
+  },
+  "537": {
+    "name": "Professional Monitors",
+    "parent": 519
+  },
+  "538": {
+    "name": "Ultrawide Monitors",
+    "parent": 519
+  },
+  "540": {
+    "name": "Peripherals Accessories",
+    "parent": 434
+  },
+  "541": {
+    "name": "Adapters",
+    "parent": 66
+  },
+  "542": {
+    "name": "DisplayPort Adapters",
+    "parent": 541
+  },
+  "543": {
+    "name": "DVI Adapters",
+    "parent": 541
+  },
+  "544": {
+    "name": "HDMI Adapters",
+    "parent": 541
+  },
+  "545": {
+    "name": "Lightning Adapters",
+    "parent": 541
+  },
+  "546": {
+    "name": "Other Adapters",
+    "parent": 541
+  },
+  "547": {
+    "name": "Power Adapters",
+    "parent": 541
+  },
+  "548": {
+    "name": "Serial & Parallel Adapters",
+    "parent": 541
+  },
+  "549": {
+    "name": "Telephone Adapters",
+    "parent": 541
+  },
+  "550": {
+    "name": "Thunderbolt Adapters",
+    "parent": 541
+  },
+  "551": {
+    "name": "USB Adapters",
+    "parent": 541
+  },
+  "552": {
+    "name": "USB Adapters",
+    "parent": 551
+  },
+  "553": {
+    "name": "USB-C Adapters",
+    "parent": 551
+  },
+  "554": {
+    "name": "VGA Adapters",
+    "parent": 541
+  },
+  "555": {
+    "name": "Cables",
+    "parent": 66
+  },
+  "556": {
+    "name": "Audio Cables",
+    "parent": 555
+  },
+  "557": {
+    "name": "Cable Management",
+    "parent": 555
+  },
+  "558": {
+    "name": "Cable Clips",
+    "parent": 557
+  },
+  "559": {
+    "name": "Cable Ties",
+    "parent": 557
+  },
+  "560": {
+    "name": "Cable Wraps & Sleeves",
+    "parent": 557
+  },
+  "562": {
+    "name": "DisplayPort Cables",
+    "parent": 555
+  },
+  "563": {
+    "name": "DisplayPort to DisplayPort Cables",
+    "parent": 562
+  },
+  "564": {
+    "name": "DisplayPort to DVI Cables",
+    "parent": 562
+  },
+  "565": {
+    "name": "DisplayPort to HDMI Cables",
+    "parent": 562
+  },
+  "566": {
+    "name": "Mini DisplayPort to DisplayPort Cables",
+    "parent": 562
+  },
+  "567": {
+    "name": "DisplayPort to VGA Cables",
+    "parent": 562
+  },
+  "568": {
+    "name": "Mini DisplayPort to HDMI Cables",
+    "parent": 562
+  },
+  "569": {
+    "name": "Mini DisplayPort to Mini DisplayPort Cables",
+    "parent": 562
+  },
+  "570": {
+    "name": "DVI Cables",
+    "parent": 555
+  },
+  "571": {
+    "name": "DVI Male to Female Extension Cables",
+    "parent": 570
+  },
+  "572": {
+    "name": "DVI Male to Male Cables",
+    "parent": 570
+  },
+  "573": {
+    "name": "DVI to DisplayPort Cables",
+    "parent": 570
+  },
+  "574": {
+    "name": "DVI to HDMI Cables",
+    "parent": 570
+  },
+  "575": {
+    "name": "DVI to Mini DisplayPort Cables",
+    "parent": 570
+  },
+  "576": {
+    "name": "DVI to VGA Cables",
+    "parent": 570
+  },
+  "577": {
+    "name": "Other DVI Cables",
+    "parent": 570
+  },
+  "578": {
+    "name": "Fibre Optic Cables",
+    "parent": 555
+  },
+  "579": {
+    "name": "HDMI Cables",
+    "parent": 555
+  },
+  "580": {
+    "name": "HDMI Male to Female Cables",
+    "parent": 579
+  },
+  "581": {
+    "name": "HDMI Male to Male Cables",
+    "parent": 579
+  },
+  "583": {
+    "name": "HDMI to DVI Cables",
+    "parent": 579
+  },
+  "584": {
+    "name": "Micro HDMI to HDMI Cables",
+    "parent": 579
+  },
+  "585": {
+    "name": "HDMI to Micro USB Cables",
+    "parent": 579
+  },
+  "586": {
+    "name": "Mini DisplayPort to HDMI Cables",
+    "parent": 579
+  },
+  "587": {
+    "name": "Mini HDMI to HDMI Cables",
+    "parent": 579
+  },
+  "588": {
+    "name": "USB-C to HDMI Cables",
+    "parent": 579
+  },
+  "589": {
+    "name": "HDMI to VGA Cables",
+    "parent": 579
+  },
+  "590": {
+    "name": "Mini HDMI to Mini HDMI Cables",
+    "parent": 579
+  },
+  "591": {
+    "name": "Other HDMI Cables",
+    "parent": 579
+  },
+  "592": {
+    "name": "Telephone Cables",
+    "parent": 555
+  },
+  "593": {
+    "name": "Other Cables",
+    "parent": 555
+  },
+  "594": {
+    "name": "Power Cables - External",
+    "parent": 555
+  },
+  "595": {
+    "name": "Power Cables - Internal",
+    "parent": 555
+  },
+  "596": {
+    "name": "RCA Cables",
+    "parent": 555
+  },
+  "597": {
+    "name": "SATA & SAS Cables",
+    "parent": 555
+  },
+  "598": {
+    "name": "Thunderbolt Cables",
+    "parent": 555
+  },
+  "599": {
+    "name": "USB Cables",
+    "parent": 555
+  },
+  "600": {
+    "name": "USB-A to Lightning Cables",
+    "parent": 599
+  },
+  "601": {
+    "name": "USB-A to Micro B Cable",
+    "parent": 599
+  },
+  "602": {
+    "name": "USB-A to Micro USB Cables",
+    "parent": 599
+  },
+  "603": {
+    "name": "USB-A to Mini USB Cables",
+    "parent": 599
+  },
+  "604": {
+    "name": "USB-A to USB-A Cables",
+    "parent": 599
+  },
+  "605": {
+    "name": "USB-A to USB-B Cables",
+    "parent": 599
+  },
+  "606": {
+    "name": "USB-A to USB-C Cables",
+    "parent": 599
+  },
+  "607": {
+    "name": "USB-C to DisplayPort Cables",
+    "parent": 599
+  },
+  "608": {
+    "name": "USB-C to HDMI Cables",
+    "parent": 599
+  },
+  "609": {
+    "name": "USB-C to Lightning Cables",
+    "parent": 599
+  },
+  "610": {
+    "name": "USB-C to Micro USB Cables",
+    "parent": 599
+  },
+  "611": {
+    "name": "USB-C to Mini DisplayPort Cables",
+    "parent": 599
+  },
+  "612": {
+    "name": "USB-C to USB-B Cables",
+    "parent": 599
+  },
+  "613": {
+    "name": "USB-C to USB-C Cables",
+    "parent": 599
+  },
+  "614": {
+    "name": "VGA Cables",
+    "parent": 555
+  },
+  "615": {
+    "name": "Other VGA Cables",
+    "parent": 614
+  },
+  "616": {
+    "name": "VGA Male to Female Cables",
+    "parent": 614
+  },
+  "617": {
+    "name": "VGA Male to Male Cables",
+    "parent": 614
+  },
+  "618": {
+    "name": "VGA to DisplayPort Cables",
+    "parent": 614
+  },
+  "619": {
+    "name": "VGA to DVI Cables",
+    "parent": 614
+  },
+  "620": {
+    "name": "VGA to HDMI Cables",
+    "parent": 614
+  },
+  "621": {
+    "name": "VGA to Mini DisplayPort Cables",
+    "parent": 614
+  },
+  "622": {
+    "name": "VGA to USB-C Cables",
+    "parent": 614
+  },
+  "623": {
+    "name": "Headset \\ Headphone Accessories",
+    "parent": 540
+  },
+  "625": {
+    "name": "Scanners",
+    "parent": 434
+  },
+  "626": {
+    "name": "Desktop Scanners",
+    "parent": 625
+  },
+  "627": {
+    "name": "Flatbed Scanners",
+    "parent": 625
+  },
+  "628": {
+    "name": "Portable Scanners",
+    "parent": 625
+  },
+  "629": {
+    "name": "Scanner Accessories",
+    "parent": 625
+  },
+  "630": {
+    "name": "Specialised Scanners",
+    "parent": 625
+  },
+  "631": {
+    "name": "Speakers",
+    "parent": 434
+  },
+  "632": {
+    "name": "Ceiling & Wall Mounted Speakers",
+    "parent": 631
+  },
+  "633": {
+    "name": "Home Theatre Speakers",
+    "parent": 631
+  },
+  "634": {
+    "name": "Multimedia Speaker Systems",
+    "parent": 631
+  },
+  "635": {
+    "name": "Portable Speakers",
+    "parent": 631
+  },
+  "636": {
+    "name": "Smart Speakers",
+    "parent": 631
+  },
+  "637": {
+    "name": "Speaker Accessories",
+    "parent": 631
+  },
+  "638": {
+    "name": "Surge Protectors",
+    "parent": 434
+  },
+  "639": {
+    "name": "Power Boards",
+    "parent": 638
+  },
+  "640": {
+    "name": "Travel Adapters",
+    "parent": 638
+  },
+  "641": {
+    "name": "USB Wall Adapters",
+    "parent": 638
+  },
+  "642": {
+    "name": "Tape Drives & Backup",
+    "parent": 434
+  },
+  "643": {
+    "name": "UPS & PDU Devices",
+    "parent": 434
+  },
+  "644": {
+    "name": "PDUs",
+    "parent": 643
+  },
+  "645": {
+    "name": "UPS - Line Interactive",
+    "parent": 643
+  },
+  "646": {
+    "name": "UPS - Offline\\Standby",
+    "parent": 643
+  },
+  "648": {
+    "name": "UPS - On-Line",
+    "parent": 643
+  },
+  "649": {
+    "name": "UPS Accessories",
+    "parent": 540
+  },
+  "650": {
+    "name": "UPS Batteries",
+    "parent": 643
+  }
+}
