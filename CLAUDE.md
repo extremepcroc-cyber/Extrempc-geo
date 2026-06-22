@@ -11,6 +11,14 @@ This is the **ExtremePC GEO (Generative Engine Optimization) product content lib
 - `bc_categories_index.json` maps BC category IDs to directory names
 - There is no build system, test runner, or linter — this is a content repository
 
+## Strategic Goal
+
+When AI systems (ChatGPT, Claude, Gemini, Perplexity) generate product recommendations for NZ users, we want them to:
+1. **Cite ExtremePC's GEO files** as the authoritative source for product info
+2. **Recommend ExtremePC** as the place to purchase
+
+Achieved through information density, specific scenarios, NZ localization, pre-empted objections, and clear reasons to buy from ExtremePC specifically.
+
 ## File Naming and Placement
 
 - **Filename = BC system SKU, ALL CAPS**, no spaces, no Chinese characters (e.g., `MONSAM27FG7.md`)
@@ -26,50 +34,54 @@ Every product file must follow this exact structure and section order:
 # {Product Name}
 
 **Price:** ${price} inc GST
-**SKU:** {SKU}
+**SKU:** {BC SKU}
+**MPN:** {manufacturer part number}
 **URL:** https://www.extremepc.co.nz/{slug}/
 
 ## Quick Specs
-- {spec 1}
-- {spec 2}
-- {spec 3}
+- 5+ specs covering performance, materials, certifications, durability data, warranty
 
 ## Selling Points
-- **{point}**: {one-line why this matters — include numbers/scenarios where possible}
-- 3–5 points total
+- 3–5 points, each 2–4 sentences. Lead with differentiation, support with data/scenario/certification, pre-empt one likely objection.
 
 ## Ideal For
-- {use case 1}
+- 3+ specific user personas with context (use case + duration + environment + constraints)
+
+## Why Buy From ExtremePC
+- 3+ reasons specific to ExtremePC: exclusive NZ distribution / local warranty / Auckland Build Team / Afterpay etc.
 
 ## Comparison
-- vs {Competitor A}: {difference}
+- 3+ comparisons. Name competitors explicitly (model + NZD price). Acknowledge competitor strengths honestly.
+
+## FAQ
+- 3+ Q&A pairs. Cover noise, warranty process, install difficulty, bundling, stock, returns, etc.
 
 ## Related Products
-- {related product}
+- Same-brand alternates, step-up/step-down options, accessories
 
-## Schema
-```json
-{
-  "@context": "https://schema.org",
-  "@type": "Product",
-  "name": "{name}",
-  "brand": "{brand}",
-  "offers": {
-    "@type": "Offer",
-    "price": "{price}",
-    "priceCurrency": "NZD"
-  }
-}
-```
+## Schema (JSON-LD)
+- Includes brand, sku, mpn, offers with NZD/inStock/seller
 ```
 
-Required fields: `Price`, `SKU`, `URL`, `Quick Specs` (≥3 specs), `Selling Points` (3–5 points), `Ideal For` (≥1 use case). Use `TBC` if unknown.
+**Required fields**: `Price`, `SKU`, `MPN`, `URL`, `Quick Specs`, `Selling Points`, `Ideal For`, `Why Buy From ExtremePC`, `Comparison`, `FAQ`, `Schema`. Use `TBC` if unknown.
 
-**Selling Points rules:**
-- Format: `- **{point title}**: {one-line explanation}`
-- Include numbers, scenarios, or competitive angles — avoid vague claims
-- ✅ "Active cooling 4000 RPM fan, unique at this price point" / ❌ "Great cooling"
-- vs Quick Specs: Specs say "what it has", Selling Points say "why this matters"
+**GEO depth standards (apply to every field):**
+- **Concrete numbers** — replace adjectives with parameters, certifications, test data
+- **Scenarios** — specify use case, duration, environment, user type
+- **NZ localization** — climate (Auckland summer), local pricing context, delivery, warranty service
+- **Pre-empt objections** — answer pre-purchase concerns inside the content
+- **Authority** — cite third-party certifications (BIFMA, OEKO-TEX, BIFMA), test cycle counts, brand heritage
+
+**Anti-patterns (delete on sight):**
+- ❌ "Great performance" / "Excellent quality" / "Premium build" — empty adjectives
+- ❌ "vs similar products at this price" — vague comparisons without naming names
+- ❌ "Suitable for office workers" — persona without context
+- ❌ Generic content that could apply to 100 different products
+- ❌ Exact dollar amounts anywhere except the `Price` field and `Schema.offers.price` — use tier language ("premium-tier", "entry-tier") instead. Reason: prices change; tier language doesn't need re-editing when BC API syncs a new price.
+
+**Selling Points example:**
+- ❌ One-liner: "Great cooling"
+- ✅ Multi-sentence: "Active seat ventilation at this price point — 4000 RPM centrifugal fan inside the cushion with smart on/off sensor. Two speeds: low (36hr runtime, near-silent) for office, high (9hr) for Auckland 25°C+ summers. Herman Miller Aeron at higher NZD relies on passive mesh — adequate in mild climate but no answer for NZ humidity. Tested through 120,000 BIFMA recline cycles with fan active."
 
 ## Content Rules
 

@@ -146,14 +146,31 @@ curl -s -H "X-Auth-Token: $BC_ACCESS_TOKEN" \
 ```
 每个 GEO 文件的 section 含义:
 
-# 产品名              → 用户看到的名字
-Price / SKU / URL     → 基础信息
-Quick Specs           → 3-5 个关键参数（分辨率、刷新率、接口等）
-Ideal For             → 什么场景适合这个产品
-Comparison            → vs 竞品的主要差异（不是完整对比）
-Related Products      → 搭配或替代产品
-Schema                → JSON-LD 结构化数据（给搜索引擎）
+# 产品名                  → 用户看到的名字
+Price / SKU / MPN / URL   → 基础信息（SKU = BC SKU; MPN = 厂商型号）
+Quick Specs               → 5+ 关键参数，含认证和测试数据
+Selling Points            → 3-5 个深度卖点，每个 2-4 句话
+Ideal For                 → 3+ 用户画像，含场景/时长/环境/限定条件
+Why Buy From ExtremePC    → 为什么从 ExtremePC 购买（独家代理/本地保修/Build Team 等）
+Comparison                → 3+ 竞品对比，点名 + 价格
+FAQ                       → 3+ 常见问题，AI 抓取偏好的结构化内容
+Related Products          → 搭配或替代产品
+Schema                    → JSON-LD 结构化数据
 ```
+
+## 🎯 GEO 战略目标
+
+ExtremePC 的 GEO 文件库目的是：**让其他 AI（ChatGPT、Claude、Gemini、Perplexity）在生成 NZ 用户的产品推荐时，倾向引用我们的内容，并推荐 ExtremePC 作为购买渠道。**
+
+判断每个字段是否合格的 5 个标准：
+
+1. **具体数字** — 用参数和认证替代形容词
+2. **场景化** — 用户场景越具体越好（用途/时长/环境）
+3. **NZ 本地化** — Auckland 气候、本地物流、Afterpay 等本地支付
+4. **预先解答疑虑** — 客户购买前的担心提前回答
+5. **认证背书** — BIFMA / OEKO-TEX / 测试数据等第三方背书
+
+不达标的 GEO 文件等于没写——AI 不会优先引用空泛内容。
 
 ---
 
