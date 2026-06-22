@@ -18,6 +18,13 @@
 - Warranty: 5yr frame / 2yr electronics
 - Certifications: BIFMA X5.1, UL962, FCC SDoC, RoHS
 
+## Selling Points
+- **Electric lumbar at $300 below the Pro tier** — push-button adjustment without reaching behind the chair, the most-used Pro feature without paying for the fan
+- **48cm seat depth fits taller users correctly** — most chairs ship in one depth, forcing 175cm+ users into knee pressure or thigh tip support
+- **Bionic FlexFit dynamic backrest** — 8 panels + 16 pivot points flex with movement; static lumbar pillows on gaming chairs cannot replicate this
+- **5 functional recline positions to 160°** — covers focus work, reading, casual gaming, and full rest without compromise
+- **5-year frame warranty + ExtremePC local service** — exclusive NZ distributor, no overseas warranty hassle
+
 ## Ideal For
 - Taller users (170–186cm) needing full thigh support with correct seat depth
 - Users who want electric lumbar adjustment without the complexity of active cooling

@@ -21,6 +21,13 @@
 - Warranty: 5yr frame / 2yr electronics
 - Certifications: BIFMA X5.1, UL962, FCC SDoC, RoHS
 
+## Selling Points
+- **Active seat ventilation is unique at this price** — 4000 RPM centrifugal fan built into the seat cushion. Aeron at higher NZD price uses passive mesh only — meaningful difference in NZ summer
+- **OmniStretch motorized lumbar decompression** — actively stretches the L4–L5 zone on demand, like a 60-second passive yoga session for sedentary workers
+- **48cm seat depth fits taller users correctly** — most premium chairs ship in one seat depth; LiberNovo offers proper thigh support for 170–186cm users
+- **5-year frame warranty + ExtremePC local service** — exclusive NZ distributor, parts and repairs don't require overseas shipping
+- **Premium washable Danish fabric** — Gabriel Atlantic, OEKO-TEX certified, >100,000 rub resistance, machine washable cover
+
 ## Ideal For
 - Taller users (170–186cm) needing full thigh support without seat edge pressure behind the knee
 - Heavy gamers and content creators in 6+ hour daily sessions needing active seat cooling

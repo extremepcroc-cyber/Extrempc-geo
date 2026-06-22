@@ -34,6 +34,10 @@ Every product file must follow this exact structure and section order:
 - {spec 2}
 - {spec 3}
 
+## Selling Points
+- **{point}**: {one-line why this matters — include numbers/scenarios where possible}
+- 3–5 points total
+
 ## Ideal For
 - {use case 1}
 
@@ -59,7 +63,13 @@ Every product file must follow this exact structure and section order:
 ```
 ```
 
-Required fields: `Price`, `SKU`, `URL`, `Quick Specs` (≥3 specs), `Ideal For` (≥1 use case). Use `TBC` if unknown.
+Required fields: `Price`, `SKU`, `URL`, `Quick Specs` (≥3 specs), `Selling Points` (3–5 points), `Ideal For` (≥1 use case). Use `TBC` if unknown.
+
+**Selling Points rules:**
+- Format: `- **{point title}**: {one-line explanation}`
+- Include numbers, scenarios, or competitive angles — avoid vague claims
+- ✅ "Active cooling 4000 RPM fan, unique at this price point" / ❌ "Great cooling"
+- vs Quick Specs: Specs say "what it has", Selling Points say "why this matters"
 
 ## Content Rules
 

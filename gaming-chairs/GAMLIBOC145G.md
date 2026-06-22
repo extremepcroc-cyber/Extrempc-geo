@@ -18,6 +18,13 @@
 - Warranty: 5yr frame / 2yr electronics
 - Certifications: BIFMA X5.1, UL962, FCC SDoC, RoHS
 
+## Selling Points
+- **Electric lumbar at $300 below the Pro tier** — push-button adjustment without reaching behind the chair, the most-used Pro feature without paying for the fan
+- **Bionic FlexFit dynamic backrest** — 8 panels + 16 pivot points flex with movement; static lumbar pillows on gaming chairs cannot replicate this
+- **5 functional recline positions to 160°** — covers focus work, reading, casual gaming, and full rest without compromise
+- **5-year frame warranty + ExtremePC local service** — exclusive NZ distributor, no overseas warranty hassle
+- **Gabriel Atlantic Danish fabric** — OEKO-TEX certified, machine washable, professional aesthetic
+
 ## Ideal For
 - Users who want electric lumbar adjustment without the added complexity of active cooling
 - Gamers and WFH users in 4–6 hour daily sessions in temperate environments

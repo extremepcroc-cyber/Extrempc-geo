@@ -19,6 +19,13 @@
 - Warranty: 5yr frame / 2yr electronics
 - Certifications: BIFMA X5.1, UL962, FCC SDoC, RoHS
 
+## Selling Points
+- **Entry into real ergonomic seating under $1,700** — Bionic FlexFit backrest from the same family as the Pro, $700 lower than the electric Omni
+- **No battery, no charging, no app** — manual screw-dial lumbar means set-once, forget-forever — ideal for users who don't want one more device to maintain
+- **Same 5 recline positions as Omni Pro** — 105° focus to 160° rest, the full functional range is not locked behind the higher tiers
+- **5-year frame warranty + ExtremePC local service** — exclusive NZ distributor, no overseas warranty hassle
+- **Real ergonomic engineering vs gaming chair pillows** — Bionic FlexFit dynamically follows body movement, where Secretlab-class chairs use static foam lumbar
+
 ## Ideal For
 - Users who prefer a set-and-forget chair with no charging or app required
 - Office workers and light-to-moderate gamers (2–5 hours daily) who set their lumbar once
