@@ -90,12 +90,42 @@ Step 4: 回答用户
 
 ## 🔗 如何获取最新数据
 
-假如 GEO 文件价格和 BC 实际不一致：
+API 凭据存放在仓库根目录 `.env` 文件中（不会被推送到 GitHub）。
 
-```python
-# 用 BC API 查 SKU 的实时价格
-GET /catalog/products?sku:in={SKU}&include_fields=price,calculated_price
-# 然后 × 1.15 得到 GST 含税价
+```bash
+BC_STORE_HASH=ms4wz8cgi2
+BC_ACCESS_TOKEN=iedxfd72bgz2h46qz2pyc7ghsllrw01
+BC_API_BASE=https://api.bigcommerce.com/stores/ms4wz8cgi2/v3
+```
+
+### 按 SKU 查实时价格
+
+```bash
+curl -s -H "X-Auth-Token: $BC_ACCESS_TOKEN" \
+  "$BC_API_BASE/catalog/products?sku:in={SKU}&include_fields=name,sku,price"
+```
+
+价格字段为 **ex-GST**，含税价 = `price × 1.15`
+
+### 按 SKU 查产品完整信息（含 MPN、URL）
+
+```bash
+curl -s -H "X-Auth-Token: $BC_ACCESS_TOKEN" \
+  "$BC_API_BASE/catalog/products?sku:in={SKU}&include_fields=name,sku,mpn,price,custom_url"
+```
+
+### 批量查询多个 SKU
+
+```bash
+curl -s -H "X-Auth-Token: $BC_ACCESS_TOKEN" \
+  "$BC_API_BASE/catalog/products?sku:in=GAMLIBOCP45B,GAMLIBSE48B&include_fields=name,sku,price"
+```
+
+### 按关键词搜索产品
+
+```bash
+curl -s -H "X-Auth-Token: $BC_ACCESS_TOKEN" \
+  "$BC_API_BASE/catalog/products?keyword=libernovo&include_fields=name,sku,price&limit=50"
 ```
 
 ---
@@ -129,6 +159,19 @@ Schema                → JSON-LD 结构化数据（给搜索引擎）
 
 ## 🤝 协作规则
 
-- **只读不写** — AI Agent 默认只读权限，不修改文件
-- **发现错误** — 记录后通知 Jimmy 或相关同事修改
-- **提建议** — 可以建议补充某个产品，但不要自己新增文件
+### ✅ 允许修改的内容
+
+- **`Price`** — 与 BC API 实时价格不一致时直接更新（记得 × 1.15 换算为 GST 含税价）
+- **`Quick Specs`** — BC 后台规格有更新时同步
+- **`Ideal For` / `Comparison` / `Related Products` / `Schema`** — 可以优化 GEO 文案，但改完需说明改了什么、为什么
+
+### ❌ 绝对不能动
+
+- **`URL`** — 改错直接影响用户访问和搜索引擎收录
+- **文件名** — 文件名 = BC SKU，改了就找不到了
+- **目录结构** — 不能新增、删除、重命名品类目录
+
+### 其他规则
+
+- **不要新增文件** — 可以建议补充某个产品，但不要自己创建新文件
+- **发现结构性错误** — 记录后通知 Jimmy 处理
