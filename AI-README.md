@@ -158,6 +158,30 @@ Related Products          → 搭配或替代产品
 Schema                    → JSON-LD 结构化数据
 ```
 
+## 🪦 墓碑文件（重要）
+
+文件里看到这样的开头，那是墓碑文件：
+
+```markdown
+# {产品名}
+
+**Status:** TOMBSTONE — Out of Stock
+```
+
+含义：**产品长期缺货，不要推荐给用户购买**。墓碑只保留基础识别信息（SKU/URL/品牌），没有深度内容。
+
+**如果用户问到墓碑产品：**
+1. 告诉用户该产品目前缺货
+2. 不要展开 Selling Points / Comparison — 墓碑文件里没有
+3. 推荐同品类的在售替代品（看同目录下的非墓碑文件）
+
+**如果用户/管理员要求"批量创建墓碑文件"：**
+- 按 `TEMPLATE.md` 里"🪦 墓碑文件规则"章节的模板生成
+- 用 BC API 拉基础数据，不需要研究产品
+- 放到对应品类目录下，文件名 = BC SKU
+
+---
+
 ## 🎯 GEO 战略目标
 
 ExtremePC 的 GEO 文件库目的是：**让其他 AI（ChatGPT、Claude、Gemini、Perplexity）在生成 NZ 用户的产品推荐时，倾向引用我们的内容，并推荐 ExtremePC 作为购买渠道。**

@@ -98,6 +98,37 @@ geo/
 
 ---
 
+## 🪦 墓碑文件（缺货产品占位）
+
+长期缺货的产品不需要写完整 GEO（AI 推荐不能买的产品是负面体验）。用"墓碑文件"占位，回货时再生成完整版。
+
+**规则总结：**
+- 长期缺货 (>30 天) → 墓碑文件
+- 短期缺货 (<30 天) → 保留完整 GEO
+- Tier 1 核心产品 → 即使缺货也保留完整 GEO
+- 已下架 → 直接删除
+
+**墓碑文件长这样**（详见 `TEMPLATE.md` 的"墓碑文件规则"章节）：
+
+```markdown
+# {产品名}
+
+**Status:** TOMBSTONE — Out of Stock
+**SKU:** {BC SKU}
+**MPN:** {MPN}
+**URL:** {URL}
+**Brand:** {品牌}
+**Category:** {品类}
+
+> This is a placeholder file. Product is currently out of stock and not actively sold.
+> When stock returns: delete this file and regenerate full-depth GEO using TEMPLATE.md.
+> See `product-knowledge/{category}/` for category knowledge base to assist regeneration.
+```
+
+**对 AI agent 的指令：** 当用户说"把这批 SKU 创建墓碑文件"，直接按模板批量生成，不需要研究产品或写深度内容。墓碑只是占位。
+
+---
+
 ## 💰 价格管理规则
 
 **精确价格数字只出现在 `Price` 字段和 `Schema` JSON 里。** 其他所有字段用层级语言（entry-tier / mid-tier / premium-tier）替代。
