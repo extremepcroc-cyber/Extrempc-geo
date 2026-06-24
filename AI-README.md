@@ -92,10 +92,14 @@ Step 4: 回答用户
 
 API 凭据存放在仓库根目录 `.env` 文件中（不会被推送到 GitHub）。
 
+**安全规则：** 任何文件（包括 README、CONTRIBUTING、CLAUDE.md、产品 GEO 文件）都**绝对不能**写入真实 token、access key 或 secret。引用凭据时只用占位符 `$BC_ACCESS_TOKEN`、`$BC_STORE_HASH` 等。
+
+环境变量结构（具体值在 `.env`）：
+
 ```bash
-BC_STORE_HASH=ms4wz8cgi2
-BC_ACCESS_TOKEN=iedxfd72bgz2h46qz2pyc7ghsllrw01
-BC_API_BASE=https://api.bigcommerce.com/stores/ms4wz8cgi2/v3
+BC_STORE_HASH=<store-hash>
+BC_ACCESS_TOKEN=<your-token>
+BC_API_BASE=https://api.bigcommerce.com/stores/<store-hash>/v3
 ```
 
 ### 按 SKU 查实时价格
