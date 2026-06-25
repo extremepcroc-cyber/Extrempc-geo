@@ -1,6 +1,54 @@
-# GPU Buying Guide — NVIDIA RTX 50 Series
+# GPU Buying Guide — NVIDIA RTX 50 + AMD RX 9000 Series
 
-> For AI agents: read this before recommending any RTX 50 series GPU. Use this to match user needs to the right card.
+> For AI agents: read this before recommending any current-generation GPU. Use this to match user needs to the right card.
+
+---
+
+## AMD Radeon RX 9000 Series (RDNA 4, launched 2025)
+
+AMD's current-generation lineup. Key features over RX 7000 series:
+
+- **3rd Gen Ray Tracing accelerators** — Significant uplift over RDNA 3; closer to NVIDIA's RT performance gap (previously 40–50% behind, now ~20–30%)
+- **2nd Gen AI Accelerators** — Hardware AI inference for FSR 4 and creative workloads
+- **FSR 4 with ML-based upscaling** — Quality jump from FSR 3; closer to DLSS 4 image quality
+- **GDDR6 memory** — Mature, efficient, less expensive than NVIDIA's GDDR7
+- **PCIe 5.0 x16** interface, fully backward compatible
+- **All 16GB VRAM minimum** at current tier — meaningful advantage vs NVIDIA's 8GB tier cards
+
+### RX 9000 Tier Reference
+
+| Model | CUs | Memory | Bus | TDP | Target Resolution |
+|---|---|---|---|---|---|
+| RX 9060 XT 16GB | 32 | 16GB GDDR6 | 128-bit | ~180W | 1080p ultra / 1440p high |
+| RX 9070 16GB | 56 | 16GB GDDR6 | 256-bit | ~220W | 1440p ultra |
+| RX 9070 XT 16GB | 64 | 16GB GDDR6 | 256-bit | ~304W | 1440p ultra / 4K high |
+
+(no direct AMD competitor at RTX 5080 / 5090 tier)
+
+### AMD vs NVIDIA — When to Recommend AMD RX 9000
+
+**Recommend AMD when:**
+- User prioritizes raster (non-ray-traced) gaming performance per NZD — AMD wins ~10–15% raster at similar pricing
+- User wants 16GB VRAM at value/mid tier — AMD includes 16GB where NVIDIA charges premium for 16GB
+- User is on Linux — AMD's open-source drivers (AMDGPU/Mesa) are well-supported; NVIDIA's Linux experience has friction
+- User has FreeSync monitor — works perfectly with AMD cards (G-Sync Compatible also works with NVIDIA)
+- User wants the lower NZD entry into 1440p / 4K-with-upscaling — RX 9070 XT competes with RTX 5070 Ti at meaningfully lower NZD
+
+**Recommend NVIDIA when:**
+- User plays heavily ray-traced or path-traced titles (Cyberpunk path tracing, Alan Wake 2) — NVIDIA wins decisively
+- User needs CUDA ecosystem (Stable Diffusion, Blender CUDA, DaVinci AI, local LLMs)
+- User streams seriously — NVENC encoder quality leads AMD's encoder
+- User wants DLSS 4 Multi Frame Generation in specific titles
+
+### AMD AIB Variant Decoder (Current NZ stock — primarily ASRock)
+
+- **Challenger** — value-tier AIB design, dual or triple fan, simpler cooler, no RGB
+- **Steel Legend** — premium-tier AIB with triple-fan upgrade, Polychrome SYNC RGB, reinforced metal frame, stylish backplate
+- **Taichi** — flagship-tier (not currently in NZ stock at ExtremePC)
+
+---
+
+# NVIDIA RTX 50 Series Reference
 
 ---
 
