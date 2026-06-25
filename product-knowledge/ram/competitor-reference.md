@@ -95,3 +95,42 @@ Use tier labels in GEO files; exact prices live only in the Price field and Sche
 - DDR5 NZD has been steadily decreasing as supply matured; DDR4 NZD has stabilized at end-of-life pricing
 - ExtremePC carries deep stock of value-tier DDR5 brands (Whalekom 94 units 16GB) and reliable supply of premium brands (Kingston, Corsair)
 - For builders on tight budgets, value-tier brands are legitimate picks — performance per dollar is high
+
+## NZ Stock Patterns Observed (from real GEO writing)
+
+After writing GEO for the full ExtremePC desktop RAM lineup, distinct stock patterns:
+
+### Deep-Inventory SKUs (Build-Deadline Reliable)
+These have 50+ units in single Auckland location. Recommend confidently for same-day pickup:
+- **Whalekom DDR5 16GB 5600MHz** (94 units) — value DDR5 16GB
+- **ADATA XPG Gammix D35 32GB DDR4-3200** (80 units) — mainstream DDR4 32GB
+- **PNY XLR8 32GB DDR4-3200** (69 units) — low-profile DDR4 32GB
+- **Predator PALLAS II 32GB DDR5-6000 CL36 Silver** (27 units) — non-RGB AM5 sweet spot
+- **Predator Vesta II 32GB DDR5-6000 CL36 RGB Black** (24 units) — RGB AM5 sweet spot
+
+### Single-Digit Stock SKUs (Confirm Before Recommending)
+Walk-in pickup realistic but verify before promising:
+- **G.SKILL Ripjaws S5 / M5 Neo DDR5-6000 32GB** (5–6 units) — Tier 1 brand premium
+- **Predator Hermes DDR5-7200 / 8200 48GB** (1–6 units) — enthusiast/Z890+X870 tier
+- **Adata DDR5-5600 32GB single stick** (3 units) — single-stick upgrader
+- **Kingston DDR4 ECC Registered 32GB** (1 unit) — server/workstation specialty
+
+### Supplier-Backed SKUs (3–7 Day ETA Restock)
+For build timelines flexible past walk-in:
+- Kingston FURY Beast 16GB DDR4-3200 (100 at supplier)
+- Adata 16GB DDR5-5600 OEM (25 at supplier)
+- ASUS RTX 5060 White (30 at supplier) [GPU example]
+
+## Predator Family vs Other Brand Comparison (Refined)
+
+After writing the Predator PALLAS II / Vesta II / Hermes lineup vs G.SKILL / Kingston / Adata:
+
+| Tier | NZ Stock Reality | Predator Equivalent | G.SKILL Equivalent | Kingston Equivalent |
+|---|---|---|---|---|
+| Value DDR5 | Deep (Whalekom, Netac) | — | — | — |
+| Value-Premium DDR5 | Strong (PALLAS II) | PALLAS II non-RGB | Ripjaws S5 | FURY Beast |
+| Premium RGB DDR5 | Strong (Vesta II) | Vesta II RGB | Trident Z5 / Ripjaws M5 Neo RGB | FURY Beast RGB |
+| Enthusiast DDR5 | Limited (Hermes) | Hermes RGB w/ fan | Trident Z5 Royal | FURY Renegade |
+| Server / Workstation DDR4 ECC | Specialty | — | — | KSM32RD4 series |
+
+For NZ-specific recommendations, Predator family offers the strongest value across tiers with reliable NZ supply — particularly the PALLAS II (deepest non-RGB inventory) and Vesta II (RGB AM5 sweet spot).
