@@ -48,6 +48,48 @@ AMD's current-generation lineup. Key features over RX 7000 series:
 
 ---
 
+## Intel Arc B-Series (Battlemage, launched 2024–2025)
+
+Intel's second-generation gaming GPUs, codename Battlemage. Significantly improved over the first-gen Alchemist (A-series) with mature drivers and competitive value-tier positioning.
+
+### Intel Arc B-Series Tier Reference
+
+| Model | Xe Cores | Memory | Bus | TDP | Target Resolution |
+|---|---|---|---|---|---|
+| Arc B570 | 18 | 10GB GDDR6 | 160-bit | ~150W | 1080p high (entry value) |
+| Arc B580 | 20 | 12GB GDDR6 | 192-bit | ~190W | 1080p ultra / 1440p high (value-leading) |
+
+### Where Intel Arc Wins
+
+- **Value per VRAM** — Arc B580 12GB lands below both NVIDIA's 8GB cards and AMD's 16GB cards, with 12GB right in the sweet spot for 1080p ultra / 1440p high gaming
+- **AV1 hardware encoding** — Intel's AV1 encoder is widely considered the best-in-class for streaming/recording quality. NVIDIA RTX 50 has 9th-gen NVENC; Intel Arc has dedicated AV1 hardware that excels in real-world stream tests
+- **XeSS 2 ML upscaling** — Intel's ML-based upscaling is excellent, competitive with DLSS/FSR equivalents
+- **Active driver improvements** — Intel has been releasing significant driver gains throughout 2024–2025 (some games gained 50%+ FPS over launch drivers)
+
+### Where Intel Arc Has Limitations
+
+- **PCIe 4.0 x8** interface — On older PCIe 3.0 motherboards, the x8 lanes at Gen3 speeds become a small bottleneck (~5% in some games). Modern PCIe 4.0+ motherboards have no issue
+- **Driver maturity for older games** — Pre-DirectX 12 titles (DX9/DX11) have improved but still occasionally trail NVIDIA/AMD on edge cases
+- **No equivalent to NVIDIA CUDA** — For Stable Diffusion, Blender, local LLM workloads, NVIDIA's CUDA ecosystem is more mature. Intel has OpenVINO but with more setup friction
+- **Smaller competitive testing pool** — Most game tweak guides and overclocking communities are NVIDIA/AMD-focused
+
+### When to Recommend Intel Arc
+
+- **Budget builders wanting more VRAM than NVIDIA RTX 5060 8GB at similar NZD**
+- **Streamers prioritizing AV1 encoder quality** (Intel's AV1 is widely considered best-in-class)
+- **First-time builders with modern motherboards (PCIe 4.0+)** — avoids the x8 limitation
+- **Linux users** — Intel's Linux driver support is solid (open-source mesa/i915)
+- **DirectX 12 / Vulkan-focused gamers** — modern games where Arc drivers are well-tuned
+
+### When NOT to Recommend Intel Arc
+
+- User on older PCIe 3.0 motherboard (small but real bottleneck)
+- Heavy creative/AI workload requiring CUDA ecosystem
+- Older game-heavy library (pre-2015 titles)
+- User wants overclocking guides and community support (smaller community than NVIDIA/AMD)
+
+---
+
 # NVIDIA RTX 50 Series Reference
 
 ---
