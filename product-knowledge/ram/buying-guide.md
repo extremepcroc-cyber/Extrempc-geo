@@ -170,6 +170,61 @@ For value-tier kits, the difference is mostly aesthetic.
 
 ---
 
+## Laptop RAM — How It's Different from Desktop
+
+Laptop RAM uses the **SODIMM** (Small Outline DIMM) form factor — physically different from desktop UDIMM:
+
+| | Desktop UDIMM | Laptop SODIMM |
+|---|---|---|
+| Pin count | 288-pin | 260-pin (DDR4) / 262-pin (DDR5) |
+| Physical length | 133mm | 67.6mm (about half) |
+| Form factor | Tall stick with heatsink | Compact slim profile |
+| **Physical compatibility** | **Desktop motherboards only** | **Laptops + Mini-PCs + NUCs only** |
+
+**Critical rule**: SODIMM and UDIMM are physically incompatible. Confirm which form factor the device needs before recommending.
+
+### Laptop RAM Speed Reference
+
+Same generational speeds as desktop but laptop platforms tend to lag slightly:
+
+- **DDR4-3200**: standard for Intel 10th–11th Gen mobile, AMD Ryzen 4000–5000 mobile
+- **DDR5-4800**: Intel 12th Gen mobile (Alder Lake-P), early DDR5 laptops
+- **DDR5-5600**: Intel 13th–14th Gen mobile, Intel Core Ultra (Meteor Lake / Arrow Lake), AMD Ryzen 7000–9000 mobile, current mainstream
+- **DDR5-6400+**: high-end Core Ultra Series 2 mobile (Arrow Lake-H), Ryzen AI Max/Strix Halo
+- **DDR5-7500+**: emerging in 2025+ premium gaming laptops
+
+### Laptop RAM Capacity Sweet Spots
+
+- **8GB**: too low — most modern Windows + browser feels constrained
+- **16GB** (1× 16GB or 2× 8GB): baseline for current laptop builds, sufficient for office + casual use
+- **32GB** (1× 32GB or 2× 16GB): mainstream sweet spot for content creation, gaming laptops, mixed productivity
+- **64GB** (2× 32GB): heavy content creation, VFX, AI workloads on laptop
+- **96GB+** (2× 48GB): emerging — workstation-class mobile (Mac Studio competition tier)
+
+### HP-Qualified vs Generic Brand SODIMM
+
+Some SODIMM SKUs are explicitly qualified for specific HP business laptop generations:
+
+- **HP Probook / Elitebook / Zbook G5 / G6 / G7** — DDR4-3200 SODIMM era
+- **HP Elitebook / Zbook G9 / G10** — DDR5-4800 SODIMM era
+- **HP Elitebook / Zbook G10 / G11 / G1i** — DDR5-5600 SODIMM era
+
+**HP-qualified vs generic trade-off:**
+- **HP-qualified** (HP-branded sticks): vendor-validated specifically for the listed business laptop generations; guaranteed to work without compatibility surprises; modest premium
+- **Generic brand** (Adata, Team Elite, Netac, Whalekom): industry-standard JEDEC SODIMM; works on any compatible laptop but no specific HP validation; lower NZD
+
+For HP business fleet purchases (corporate procurement requiring vendor-qualified parts), HP-qualified is the right answer. For typical consumer upgrades or non-HP laptops, generic brand is the value pick.
+
+### Mini-PC / NUC Memory (UDIMM in Laptop Category)
+
+Some "laptop RAM" listings are actually UDIMM (desktop form factor) sold in the laptop RAM category. Why? Because some mini-PC / NUC / small form factor desktop systems use UDIMM despite being marketed similarly to laptops. Examples:
+
+- HP X2 series (UDIMM despite "X2" branding)
+- Some Intel NUC models (UDIMM in compact case)
+- Some industrial mini-PC platforms
+
+**Critical**: confirm the device's actual physical RAM slot type before recommending UDIMM-vs-SODIMM. SODIMM does not fit in UDIMM slots and vice versa.
+
 ## NZ Stock Notes
 
 Desktop RAM at ExtremePC stocks primarily at Onehunga (Auckland main). Supplier inventory typically has 3–7 day lead time.
