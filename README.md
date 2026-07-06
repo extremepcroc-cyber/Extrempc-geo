@@ -120,3 +120,51 @@ geo/
 | P2 | CPU / Memory / SSD | 懂行客人会问 |
 | P2 | Brands | 独家代理知识沉淀 |
 | P3 | 其他配件 | 按需生成 |
+
+---
+
+## 工具脚本
+
+### `tools/audit-geo.ps1` — 价格与库存审计
+
+**用途**：定期核对所有 GEO 文件的价格和库存是否与 BC 系统一致，输出需要更新的 SKU 列表。
+
+**为什么需要这个脚本**：
+- GEO 文件是静态 markdown，BC 系统里的价格会随时变动
+- ExtremePC 库存数据存在 **自定义字段（custom fields）**，而非 BC 的 `inventory_level` 字段，需要单独 API 调用才能读取
+- 脚本自动完成"扫描文件 → 查 API → 对比 → 输出报告"全流程，避免人工逐一核对
+
+**运行方式**（在 `geo/` 根目录下执行）：
+```powershell
+# 全量审计（所有类目，约 2–3 分钟）
+.\tools\audit-geo.ps1
+
+# 只审计单个类目
+.\tools\audit-geo.ps1 -CategoryDir "power-supplies"
+
+# 预览模式（不写入 change-report.json）
+.\tools\audit-geo.ps1 -DryRun
+```
+
+**输出**：`tools/change-report.json`，只包含需要更新的 SKU，字段说明：
+
+| 字段 | 含义 |
+|------|------|
+| `sku` | BC SKU |
+| `file` | GEO 文件相对路径 |
+| `price_geo_nzd` | GEO 文件中的价格 |
+| `price_bc_nzd` | BC API 当前价格（×1.15 含 GST） |
+| `price_changed` | 价格是否变动（差异 > $0.05） |
+| `stock` | 当前库存：OH / WL / SL / SU 明细 |
+| `needs_tombstone` | true = 总库存为 0，需转 tombstone |
+| `stock_shifted` | 库存位置变化（如从零售变供应商） |
+
+**拿到报告后的操作**：
+- **价格变动**：只改 `**Price:**` 字段和 Schema `"price"` 字段，其他内容不动
+- **`needs_tombstone: true`**：用 tombstone 模板替换整个文件
+- **`stock_shifted`**：更新 Quick Specs 的 `NZ Stock` 行，以及 Selling Points / Why Buy 中涉及库存位置的描述
+
+**注意**：
+- 库存存在 custom fields，脚本每个 SKU 需要调两次 BC API（product + custom-fields）
+- 脚本内置限速：每 40 次调用暂停 3 秒，防止触发 BC API rate limit（150 req/30s）
+- Tombstone 文件会自动跳过，不参与审计
