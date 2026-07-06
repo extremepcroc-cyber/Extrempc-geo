@@ -38,6 +38,12 @@ geo/
 ---
 
 ## 📝 文件规范
+### 编码统一（重要）
+- **所有 .md 文件必须使用 UTF-8 编码**
+- Windows 编辑器（如 Notepad++ / VS Code）默认可能保存为 UTF-16 LE — 创建新文件时务必选择 UTF-8
+- AI agent 生成文件时也统一使用 UTF-8
+- 跨平台兼容性：UTF-8 是 Git、Linux、macOS 的标准编码，避免乱码和读取错误
+
 
 ### 一个产品一个文件
 - Gaming PC 不同配置 → 各写各的
