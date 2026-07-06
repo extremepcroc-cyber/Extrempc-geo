@@ -1,11 +1,11 @@
-# audit-geo.ps1
-# Scans all GEO markdown files, compares Price and Stock against BC API.
+# audit-geo-hermes.ps1
+# Hermes Agent version — scans all GEO markdown files, compares Price and Stock against BC API.
 # Outputs change-report.json with files that need updating.
 #
 # Usage:
-#   .\tools\audit-geo.ps1
-#   .\tools\audit-geo.ps1 -CategoryDir "power-supplies"   # single category
-#   .\tools\audit-geo.ps1 -DryRun                         # show report, no file write
+#   .\tools\audit-geo-hermes.ps1
+#   .\tools\audit-geo-hermes.ps1 -CategoryDir "power-supplies"   # single category
+#   .\tools\audit-geo-hermes.ps1 -DryRun                         # show report, no file write
 #
 # Output: tools\change-report.json
 #
