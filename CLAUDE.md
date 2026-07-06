@@ -156,6 +156,45 @@ For out-of-stock products (>30 days expected OOS), use lightweight **tombstone f
 
 When stock returns, the tombstone must be replaced with full-depth GEO (use category knowledge base in `product-knowledge/{category}/` as foundation).
 
+## Price and Stock Audit (`tools/audit-geo.ps1`)
+
+Use this script to detect GEO files that are out of date — price changed in BC, stock went to zero, or stock location shifted.
+
+**When to run:** before any batch editing session, or when Jimmy reports prices have changed.
+
+**What it checks:**
+- **Price**: parses `**Price:**` from each `.md` file, fetches current BC price (×1.15 for GST), flags if difference > $0.05
+- **Stock**: calls `/catalog/products/{id}/custom-fields` per SKU to read `__Stock Available Onehunga/Wellington/St Lukes/Supplier` — because stock lives in custom fields, NOT `inventory_level`
+- **OOS trigger**: flags `needs_tombstone: true` when total stock (OH+WL+SL+SU) = 0
+- **Stock shift**: detects when GEO describes retail stock but BC now shows supplier-only (or vice versa)
+- **Tombstones**: automatically skipped — not checked
+
+**Usage:**
+```powershell
+# Full audit — all categories
+.\tools\audit-geo.ps1
+
+# Single category only
+.\tools\audit-geo.ps1 -CategoryDir "power-supplies"
+
+# Preview only, no file written
+.\tools\audit-geo.ps1 -DryRun
+```
+
+**Output:** `tools/change-report.json` — contains only SKUs flagged `needs_update: true`, with:
+- `price_geo_nzd` / `price_bc_nzd` — old vs new price
+- `stock` — current OH/WL/SL/SU breakdown
+- `needs_tombstone` — true if total stock = 0
+- `file` — relative path to the GEO file to edit
+
+**After running the script:**
+- Read `change-report.json`
+- For price changes: update `**Price:**` field and `Schema.offers.price` only — do not touch other content
+- For `needs_tombstone: true`: replace full GEO with tombstone template
+- For stock shifts (retail → supplier): update `NZ Stock` line in Quick Specs and any stock references in Selling Points / Why Buy sections
+
+**BC API rate limit:** script pauses every 40 calls to stay within 150 req/30s. Expect ~2–3 minutes for a full audit of 200+ SKUs.
+
 ## Workflow for Adding/Updating Files
 
 1. Copy template from `TEMPLATE.md`
