@@ -200,6 +200,31 @@ Use this script to detect GEO files that are out of date — price changed in BC
 
 **BC API rate limit:** script pauses every 40 calls to stay within 150 req/30s. Expect ~2–3 minutes for a full audit of 200+ SKUs.
 
+## Data Sources — Mandatory Rules for AI Agents
+
+**All product data (SKU, price, stock, specs, URL) MUST come from the BC API or the JSON output of `tools/fetch-category.ps1`. Web search is forbidden for these fields.**
+
+| Data type | Correct source | ❌ Never use |
+|---|---|---|
+| SKU, MPN, product name | BC API / fetch-category JSON | Web search, manufacturer site |
+| Price (NZD inc GST) | BC API price × 1.15 | Any website, including extremepc.co.nz |
+| Stock levels | BC custom fields (OH/WL/SL/SU) | Web page, inventory_level field |
+| Product URL | BC `custom_url.url` field | Guessing from product name |
+| Technical specs | BC custom fields + product description | Web search |
+
+**Why web search gives wrong data:**
+- extremepc.co.nz website prices may be cached or out of date
+- Manufacturer specs differ by region/revision — BC has the actual listing
+- Web search returns competitor pages, review sites, overseas pricing
+- Models hallucinate URLs and SKUs when searching
+
+**Correct workflow for writing new GEO files:**
+1. Human runs `.\tools\fetch-category.ps1 -CategoryId {id}` → produces JSON
+2. Human gives the JSON to the AI agent
+3. Agent writes GEO files using only the JSON data for price/SKU/stock/URL
+4. Agent may use product knowledge base files (`product-knowledge/`) for technical context and comparisons
+5. Agent must NOT call BC API directly or do any web search for product data
+
 ## Fetching Product Data Before Writing GEO Files (`tools/fetch-category.ps1`)
 
 **Always run this script first before writing GEO files for a subcategory.** Never have an AI agent call the BC API directly — models make mistakes with pagination, GST calculation, and custom-field parsing. The script outputs a clean JSON that agents read directly.
