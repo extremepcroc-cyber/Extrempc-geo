@@ -139,7 +139,8 @@ foreach ($p in $products) {
     }
 
     # Price: BC price is ex-GST, multiply x1.15 for NZD inc GST
-    $priceNZD = [math]::Round([decimal]$p.price * 1.15, 2)
+    # Output as plain integer (no commas, no decimals) to avoid PowerShell formatting bugs
+    $priceNZD = [int][math]::Round([decimal]$p.price * 1.15)
 
     # URL: use custom_url if present, else build from slug
     $slug = if ($p.custom_url -and $p.custom_url.url) { $p.custom_url.url.Trim('/') } else { "" }
