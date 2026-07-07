@@ -200,6 +200,21 @@ Use this script to detect GEO files that are out of date — price changed in BC
 
 **BC API rate limit:** script pauses every 40 calls to stay within 150 req/30s. Expect ~2–3 minutes for a full audit of 200+ SKUs.
 
+## File Placement Rules for AI Agents
+
+**Never place any files in the repo root directory.** The root is for permanent project files only.
+
+| File type | Correct location |
+|---|---|
+| Script output JSON (fetch-category, change-report) | `tools/` |
+| Temporary scripts, intermediate data, scratch files | `tools/temp/` |
+| Product GEO files | `{category}/` (e.g., `cooling/`, `monitors/`) |
+| Product knowledge / research notes | `product-knowledge/{category}/` |
+
+**`tools/temp/` is the bin for anything disposable** — batch scripts, one-off query results, intermediate JSON, debug output. This directory is gitignored and will not be committed.
+
+Never create `.ps1`, `.json`, `.txt`, or any other files directly in the repo root.
+
 ## Data Sources — Mandatory Rules for AI Agents
 
 **All product data (SKU, price, stock, specs, URL) MUST come from the BC API or the JSON output of `tools/fetch-category.ps1`. Web search is forbidden for these fields.**

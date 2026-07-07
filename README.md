@@ -125,6 +125,21 @@ geo/
 
 ## 工具脚本
 
+## 文件放置规则（AI 智能体必须遵守）
+
+**严禁在仓库根目录放任何文件。** 根目录只存永久性项目文件。
+
+| 文件类型 | 正确位置 |
+|---|---|
+| 脚本输出 JSON（fetch-category、change-report） | `tools/` |
+| 临时脚本、中间数据、一次性查询结果 | `tools/temp/` |
+| 产品 GEO 文件 | `{分类目录}/`（如 `cooling/`、`monitors/`） |
+| 产品知识库 / 调研笔记 | `product-knowledge/{category}/` |
+
+**`tools/temp/` 是所有一次性文件的垃圾桶** — 批处理脚本、临时 JSON、调试输出等。该目录已加入 `.gitignore`，不会被提交到 git。
+
+---
+
 ## 数据来源规则（AI 智能体必须遵守）
 
 **所有产品数据（SKU、价格、库存、规格、URL）必须来自 BC API 或 `tools/fetch-category.ps1` 输出的 JSON。严禁用 web search 获取这些字段。**

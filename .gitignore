@@ -1,3 +1,6 @@
 .env
 *.env
 .env.*
+
+# Temporary working files — never commit
+tools/temp/
