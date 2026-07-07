@@ -1,6 +1,6 @@
-# Predator Hermes 48GB (24GB×2) DDR5 RGB 8200MHz U-DIMM Desktop Gaming Memory — Black (Z890 / X870 only)
+﻿# Predator Hermes 48GB (24GB×2) DDR5 RGB 8200MHz U-DIMM Desktop Gaming Memory — Black (Z890 / X870 only)
 
-**Price:**  inc GST
+**Price:** $1298.99 inc GST
 **SKU:** RAMPREH8200H48GRD5B
 **MPN:** HERMES-48GB-8200-1R8
 **URL:** https://www.extremepc.co.nz/predator-hermes-48gb-24gbx2-ddr5-rgb-8200mhz-u-dimm-desktop-gaming-memory-black-for-z890-and-x870-only/

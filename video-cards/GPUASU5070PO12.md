@@ -1,6 +1,6 @@
-# ASUS PRIME GeForce RTX 5070 12GB GDDR7 OC Edition Graphics Card
+﻿# ASUS PRIME GeForce RTX 5070 12GB GDDR7 OC Edition Graphics Card
 
-**Price:**  inc GST
+**Price:** $1449.00 inc GST
 **SKU:** GPUASU5070PO12
 **MPN:** PRIME-RTX5070-O12G
 **URL:** https://www.extremepc.co.nz/asus-prime-geforce-rtx-5070-12gb-gddr7-oc-edition-graphics-card/

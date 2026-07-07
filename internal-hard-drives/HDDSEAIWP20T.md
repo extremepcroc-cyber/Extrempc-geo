@@ -1,6 +1,6 @@
-# Seagate IronWolf Pro 20TB 3.5" SATA3 NAS Internal Hard Drive ST20000NE000
+﻿# Seagate IronWolf Pro 20TB 3.5" SATA3 NAS Internal Hard Drive ST20000NE000
 
-**Price:**  inc GST
+**Price:** $1984.00 inc GST
 **SKU:** HDDSEAIWP20T
 **MPN:** ST20000NE000
 **URL:** https://www.extremepc.co.nz/seagate-ironwolf-pro-20tb-3-5-sata3-nas-internal-hard-drive-st20000ne000/

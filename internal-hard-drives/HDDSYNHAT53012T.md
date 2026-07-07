@@ -1,6 +1,6 @@
-# Synology HAT5300 12TB 3.5" SATA3 NAS Hard Drive HAT5300-12T
+﻿# Synology HAT5300 12TB 3.5" SATA3 NAS Hard Drive HAT5300-12T
 
-**Price:**  inc GST
+**Price:** $1592.00 inc GST
 **SKU:** HDDSYNHAT53012T
 **MPN:** HAT5300-12T
 **URL:** https://www.extremepc.co.nz/synology-hat5300-12tb-3-5-sata3-nas-hard-drive-hat5300-12t/

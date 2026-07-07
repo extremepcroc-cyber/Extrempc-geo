@@ -1,6 +1,6 @@
-# Synology HAT3300 4TB 3.5" SATA3 NAS Hard Drive HAT3300-4T
+﻿# Synology HAT3300 4TB 3.5" SATA3 NAS Hard Drive HAT3300-4T
 
-**Price:**  inc GST
+**Price:** $549.00 inc GST
 **SKU:** HDDSYN33004T
 **MPN:** HAT3300-4T
 **URL:** https://www.extremepc.co.nz/synology-hat3300-4tb-3-5-sata3-nas-hard-drive-hat3300-4t/

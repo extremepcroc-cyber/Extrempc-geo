@@ -1,6 +1,6 @@
-# Synology HAT3310 12TB 3.5" SATA3 NAS Hard Drive HAT3310-12T
+﻿# Synology HAT3310 12TB 3.5" SATA3 NAS Hard Drive HAT3310-12T
 
-**Price:**  inc GST
+**Price:** $1289.00 inc GST
 **SKU:** HDDSYNHAT12T
 **MPN:** HAT3310-12T
 **URL:** https://www.extremepc.co.nz/synology-hat3310-12tb-3-5-sata3-nas-hard-drive-hat3310-12t/

@@ -74,9 +74,9 @@ function Parse-GeoFile([string]$path) {
     if ($content -match '\*\*SKU:\*\*\s+([A-Z0-9\-]+)') {
         $result.SKU = $Matches[1].Trim()
     }
-    # **Price:** $179.00 inc GST  (also handles TOMBSTONE files with no price)
-    if ($content -match '\*\*Price:\*\*\s+\$([0-9]+(?:\.[0-9]{1,2})?)') {
-        $result.PriceNZD = [decimal]$Matches[1]
+    # **Price:** $1,299.00 inc GST  — handles comma-formatted prices like $1,299.00
+    if ($content -match '\*\*Price:\*\*\s+\$([0-9,]+(?:\.[0-9]{1,2})?)') {
+        $result.PriceNZD = [decimal]($Matches[1] -replace ',', '')
     }
     # Detect tombstone
     if ($content -match '\*\*Status:\*\*\s+TOMBSTONE') {

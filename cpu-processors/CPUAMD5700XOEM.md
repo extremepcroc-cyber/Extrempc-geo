@@ -1,6 +1,6 @@
-# AMD Ryzen 7 5700X — 8 Core / 16 Thread AM4 OEM (no cooler)
+﻿# AMD Ryzen 7 5700X — 8 Core / 16 Thread AM4 OEM (no cooler)
 
-**Price:**  inc GST
+**Price:** $369.00 inc GST
 **SKU:** CPUAMD5700XOEM
 **MPN:** 100-000000926
 **URL:** https://www.extremepc.co.nz/amd-ryzen-7-5700x-cpu-8-core-16-thread-am4-socket-oem-without-cooler/

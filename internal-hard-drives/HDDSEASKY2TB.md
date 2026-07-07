@@ -1,6 +1,6 @@
-# Seagate SkyHawk 2TB 3.5" SATA3 Surveillance Internal Hard Drive ST2000VX017
+﻿# Seagate SkyHawk 2TB 3.5" SATA3 Surveillance Internal Hard Drive ST2000VX017
 
-**Price:**  inc GST
+**Price:** $325.00 inc GST
 **SKU:** HDDSEASKY2TB
 **MPN:** ST2000VX017
 **URL:** https://www.extremepc.co.nz/seagate-skyhawk-2tb-3-5-sata3-surveillance-internal-hard-drive-st2000vx017/

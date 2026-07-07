@@ -1,6 +1,6 @@
-# Kingston 32GB DDR4-3200 ECC Registered DIMM CL22 — Server / Workstation RAM
+﻿# Kingston 32GB DDR4-3200 ECC Registered DIMM CL22 — Server / Workstation RAM
 
-**Price:**  inc GST
+**Price:** $989.00 inc GST
 **SKU:** RAMKINKSM32RD432HDR
 **MPN:** KSM32RD4/32HDR
 **URL:** https://www.extremepc.co.nz/kingston-32gb-ddr4-3200mt-s-ecc-registered-ram-server-ram/

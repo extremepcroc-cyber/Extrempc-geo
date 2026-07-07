@@ -1,4 +1,4 @@
-# Gigabyte GeForce RTX 5080 AERO OC  16GB Graphics Card
+﻿# Gigabyte GeForce RTX 5080 AERO OC16GB Graphics Card
 
 **Status:** TOMBSTONE — Out of Stock
 **SKU:** GPUGIG5080AOC16

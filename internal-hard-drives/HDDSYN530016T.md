@@ -1,6 +1,6 @@
-# Synology HAT5300 16TB 3.5" SATA3 NAS Hard Drive HAT5300-16T
+﻿# Synology HAT5300 16TB 3.5" SATA3 NAS Hard Drive HAT5300-16T
 
-**Price:**  inc GST
+**Price:** $1740.00 inc GST
 **SKU:** HDDSYN530016T
 **MPN:** HAT5300-16T
 **URL:** https://www.extremepc.co.nz/synology-hat5300-16tb-3-5-sata3-nas-hard-drive-hat5300-16t/

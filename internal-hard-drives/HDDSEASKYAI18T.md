@@ -1,6 +1,6 @@
-# Seagate SkyHawk AI 18TB 3.5" SATA3 Surveillance Internal Hard Drive ST18000VE002
+﻿# Seagate SkyHawk AI 18TB 3.5" SATA3 Surveillance Internal Hard Drive ST18000VE002
 
-**Price:**  inc GST
+**Price:** $1059.00 inc GST
 **SKU:** HDDSEASKYAI18T
 **MPN:** ST18000VE002
 **URL:** https://www.extremepc.co.nz/seagate-skyhawk-ai-18tb-3-5-sata3-surveillance-internal-hard-drive-st18000ve002/

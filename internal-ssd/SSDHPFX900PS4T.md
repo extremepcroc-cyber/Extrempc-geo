@@ -1,6 +1,6 @@
-# HP FX900 Plus 4TB Gen4×4 NVMe M.2 SSD — R/W 7100/6300 MB/s
+﻿# HP FX900 Plus 4TB Gen4×4 NVMe M.2 SSD — R/W 7100/6300 MB/s
 
-**Price:**  inc GST
+**Price:** $1299.01 inc GST
 **SKU:** SSDHPFX900PS4T
 **MPN:** 7F619AA
 **URL:** https://www.extremepc.co.nz/hp-fx900-plus-4tb-gen4x4-nvme-m-2-r-w-7100-6300-ssd-plus-for-pc-and-laptops-7f619aa/

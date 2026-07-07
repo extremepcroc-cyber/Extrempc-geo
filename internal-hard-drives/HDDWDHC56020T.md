@@ -1,6 +1,6 @@
-# WD Ultrastar DC HC560 20TB 3.5" SATA3 Enterprise Hard Drive WUH722020ALE6L4
+﻿# WD Ultrastar DC HC560 20TB 3.5" SATA3 Enterprise Hard Drive WUH722020ALE6L4
 
-**Price:**  inc GST
+**Price:** $2088.00 inc GST
 **SKU:** HDDWDHC56020T
 **MPN:** WUH722020ALE6L4
 **URL:** https://www.extremepc.co.nz/wd-ultrastar-dc-hc560-20tb-3-5-sata3-enterprise-hard-drive-wuh722020ale6l4/

@@ -1,6 +1,6 @@
-# AMD Ryzen 9 9950X — 16 Core / 32 Thread AM5 OEM (no cooler, Zen 5 flagship)
+﻿# AMD Ryzen 9 9950X — 16 Core / 32 Thread AM5 OEM (no cooler, Zen 5 flagship)
 
-**Price:**  inc GST
+**Price:** $1259.00 inc GST
 **SKU:** CPUAMDR99950XOEM
 **MPN:** 100-000001277
 **URL:** https://www.extremepc.co.nz/amd-ryzen-9-9950x-16-core-am5-4-3-ghz-unlocked-cpu-processor-oem-without-cooler/
