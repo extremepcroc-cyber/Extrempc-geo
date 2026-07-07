@@ -103,7 +103,7 @@ Every product file must follow this exact structure and section order:
 | `cpu-processors/` | CPU | 364 / 1430 |
 | `internal-ssd/` | Internal SSD | 375 |
 | `memory-ram/` | Memory / RAM | 395 |
-| `cooling/` | Cooling | 345 |
+| `cooling/` | Cooling Devices | 345 (AIO: 351, Air/CPU: 346/349, Fans: 347, Thermal: 363, Accessories: 348) |
 | `power-supplies/` | PSU | 410 |
 | `motherboards/` | Motherboards | 403 |
 | `streaming-creator/` | Streaming & Creator | 227 |
@@ -189,16 +189,35 @@ Use this script to detect GEO files that are out of date — price changed in BC
 **Output:** `tools/change-report.json` — contains only SKUs flagged `needs_update: true`, with:
 - `price_geo_nzd` / `price_bc_nzd` — old vs new price
 - `stock` — current OH/WL/SL/SU breakdown
-- `needs_tombstone` — true if total stock = 0
+- `needs_oos_flag` — true if total stock = 0
 - `file` — relative path to the GEO file to edit
 
 **After running the script:**
 - Read `change-report.json`
 - For price changes: update `**Price:**` field and `Schema.offers.price` only — do not touch other content
-- For `needs_tombstone: true`: replace full GEO with tombstone template
+- For `needs_oos_flag: true`: add `**Status:** OUT OF STOCK — last checked {date}` below URL, change Schema to `OutOfStock`. **Never delete GEO content.**
 - For stock shifts (retail → supplier): update `NZ Stock` line in Quick Specs and any stock references in Selling Points / Why Buy sections
 
 **BC API rate limit:** script pauses every 40 calls to stay within 150 req/30s. Expect ~2–3 minutes for a full audit of 200+ SKUs.
+
+## Task Planning Rules for AI Agents
+
+**Plan by smallest subcategory branch — never by top-level category.**
+
+A top-level category (e.g., Cooling, Motherboards, Memory) can contain 50–200+ SKUs across multiple subcategories. Processing the whole category in one session will exhaust context and cause degraded output or crashes.
+
+**Required planning unit:** one leaf subcategory at a time. Examples:
+- ✅ "Write GEO files for AIO Water Cooling (BC 351)" — 10–20 SKUs
+- ✅ "Write GEO files for CPU Coolers (BC 349)" — 15–25 SKUs
+- ❌ "Write GEO files for Cooling (BC 345)" — 50+ SKUs, too large
+
+**Workflow:**
+1. Look up the category tree in `categories-tree.md` to find leaf subcategory IDs
+2. Create one task per leaf subcategory (e.g., TaskCreate for each)
+3. Query BC API for that subcategory's in-stock products only
+4. Write GEO files, commit, then move to the next subcategory task
+
+**Why:** GEO files require BC API calls + deep research + full template content per product. Even 20 products × 2 API calls = 40 requests + writing time. A full category session risks context overflow mid-batch, leaving files half-written.
 
 ## Workflow for Adding/Updating Files
 
