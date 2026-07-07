@@ -198,13 +198,15 @@ foreach ($file in $mdFiles) {
     $bcHasRetail    = ($stock.OH + $stock.WL + $stock.SL) -gt 0
     $stockShifted   = ($geoHasRetail -ne $bcHasRetail)
 
-    # Tombstone trigger: total stock = 0
-    $needsTombstone = ($totalStock -eq 0)
+    # OOS flag: total stock = 0 — add status line to file, do NOT delete content
+    $needsOosFlag = ($totalStock -eq 0)
+    # Already flagged OOS in GEO file?
+    $alreadyOos   = $geoContent -match '\*\*Status:\*\*\s+OUT OF STOCK'
 
-    $needsUpdate = ($priceChanged -or $stockShifted -or $needsTombstone)
+    $needsUpdate = ($priceChanged -or $stockShifted -or ($needsOosFlag -and -not $alreadyOos))
 
     # Status indicator
-    if ($needsTombstone) {
+    if ($needsOosFlag -and -not $alreadyOos) {
         $status = "OOS"
         $color  = "Red"
     } elseif ($needsUpdate) {
@@ -218,51 +220,51 @@ foreach ($file in $mdFiles) {
     Write-Host " [$status]" -ForegroundColor $color
 
     if ($needsUpdate) {
-        Write-Host "    GEO price: `$$geoPriceNZD  →  BC price: `$$bcPriceNZD" -ForegroundColor DarkYellow
+        Write-Host "    GEO price: `$$geoPriceNZD  ->  BC price: `$$bcPriceNZD" -ForegroundColor DarkYellow
         Write-Host "    Stock: $stockSummary" -ForegroundColor DarkYellow
     }
 
     $report += [ordered]@{
-        sku             = $geo.SKU
-        file            = $file.FullName.Replace($GEO_ROOT, "").TrimStart("\")
-        needs_update    = $needsUpdate
-        needs_tombstone = $needsTombstone
-        price_geo_nzd   = $geoPriceNZD
-        price_bc_nzd    = $bcPriceNZD
-        price_changed   = $priceChanged
-        stock           = $stockSummary
-        stock_shifted   = $stockShifted
-        bc_name         = $bc.name
+        sku           = $geo.SKU
+        file          = $file.FullName.Replace($GEO_ROOT, "").TrimStart("\")
+        needs_update  = $needsUpdate
+        needs_oos_flag = $needsOosFlag
+        price_geo_nzd  = $geoPriceNZD
+        price_bc_nzd   = $bcPriceNZD
+        price_changed  = $priceChanged
+        stock          = $stockSummary
+        stock_shifted  = $stockShifted
+        bc_name        = $bc.name
     }
 }
 
 # --- Summary ---
 $changed   = @($report | Where-Object { $_.needs_update -eq $true })
-$tombstone = @($report | Where-Object { $_.PSObject.Properties['needs_tombstone'] -and $_.needs_tombstone -eq $true })
+$oosItems  = @($report | Where-Object { $_.PSObject.Properties['needs_oos_flag'] -and $_.needs_oos_flag -eq $true })
 $errors    = @($report | Where-Object { $_.Contains('error') })
 $ok        = @($report | Where-Object { $_.needs_update -eq $false -and -not $_.Contains('error') })
 
 Write-Host ""
 Write-Host "=== Summary ===" -ForegroundColor Cyan
 Write-Host "  Total files scanned : $($mdFiles.Count)"
-Write-Host "  Skipped (no SKU/tomb): $skipped"
+Write-Host "  Skipped (tomb/no SKU): $skipped"
 Write-Host "  OK (no changes)     : $($ok.Count)" -ForegroundColor Green
 Write-Host "  Needs update        : $($changed.Count)" -ForegroundColor Yellow
-Write-Host "  Needs tombstone     : $($tombstone.Count)" -ForegroundColor Red
+Write-Host "  Needs OOS flag      : $($oosItems.Count)" -ForegroundColor Red
 Write-Host "  Errors              : $($errors.Count)" -ForegroundColor Red
 Write-Host "  BC API calls made   : $callCount"
 Write-Host ""
 
 if (-not $DryRun) {
     $reportData = [ordered]@{
-        generated    = (Get-Date -Format "yyyy-MM-dd HH:mm:ss")
-        geo_root     = $GEO_ROOT
-        summary      = [ordered]@{
-            total_scanned   = $mdFiles.Count
-            ok              = $ok.Count
-            needs_update    = $changed.Count
-            needs_tombstone = $tombstone.Count
-            errors          = $errors.Count
+        generated = (Get-Date -Format "yyyy-MM-dd HH:mm:ss")
+        geo_root  = $GEO_ROOT
+        summary   = [ordered]@{
+            total_scanned = $mdFiles.Count
+            ok            = $ok.Count
+            needs_update  = $changed.Count
+            needs_oos_flag = $oosItems.Count
+            errors        = $errors.Count
         }
         changes = $report | Where-Object { $_.needs_update -eq $true -or $_.Contains('error') }
     }
@@ -277,7 +279,7 @@ Write-Host ""
 if ($changed.Count -gt 0) {
     Write-Host "Files needing update:" -ForegroundColor Yellow
     $report | Where-Object { $_.needs_update -eq $true } | ForEach-Object {
-        $flag = if ($_.needs_tombstone) { "[OOS→TOMBSTONE]" } elseif ($_.price_changed) { "[PRICE]" } else { "[STOCK]" }
+        $flag = if ($_.needs_oos_flag) { "[OOS]" } elseif ($_.price_changed) { "[PRICE]" } else { "[STOCK]" }
         Write-Host "  $flag $($_.sku) - $($_.file)"
     }
 }

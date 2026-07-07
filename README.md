@@ -156,15 +156,17 @@ geo/
 | `price_bc_nzd` | BC API 当前价格（×1.15 含 GST） |
 | `price_changed` | 价格是否变动（差异 > $0.05） |
 | `stock` | 当前库存：OH / WL / SL / SU 明细 |
-| `needs_tombstone` | true = 总库存为 0，需转 tombstone |
+| `needs_oos_flag` | true = 总库存为 0，需加 OOS 状态行 |
 | `stock_shifted` | 库存位置变化（如从零售变供应商） |
 
 **拿到报告后的操作**：
 - **价格变动**：只改 `**Price:**` 字段和 Schema `"price"` 字段，其他内容不动
-- **`needs_tombstone: true`**：用 tombstone 模板替换整个文件
+- **`needs_oos_flag: true`**：在 URL 行下方加一行 `**Status:** OUT OF STOCK — last checked YYYY-MM-DD`，Schema 改为 `OutOfStock`。**不删除任何正文内容**
 - **`stock_shifted`**：更新 Quick Specs 的 `NZ Stock` 行，以及 Selling Points / Why Buy 中涉及库存位置的描述
+- **库存回来了**：删掉 `**Status:**` 行，Schema 改回 `InStock`
 
 **注意**：
+- GEO 正文（Selling Points、FAQ、Comparison 等）永远不因缺货而删除，内容是资产
 - 库存存在 custom fields，脚本每个 SKU 需要调两次 BC API（product + custom-fields）
 - 脚本内置限速：每 40 次调用暂停 3 秒，防止触发 BC API rate limit（150 req/30s）
-- Tombstone 文件会自动跳过，不参与审计
+- Tombstone 文件（无 GEO 内容的占位文件）会自动跳过，不参与审计

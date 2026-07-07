@@ -124,17 +124,27 @@ AI agents may modify file content with these rules:
 - **Can optimize with explanation**: `Ideal For`, `Comparison`, `Related Products`, Schema JSON — GEO copy can be improved, but agent must state what changed and why
 - **Never touch**: `URL`, filenames, directory structure
 
-## Tombstone Files (out-of-stock placeholders)
+## Out-of-Stock Products
 
-For out-of-stock products (>30 days expected OOS), use lightweight **tombstone files** instead of full GEO content. Recommending unbuyable products hurts user experience and dilutes GEO quality.
+**Never delete GEO content when a product goes OOS.** The content took significant effort to write — preserve it.
 
-**When to use:**
-- Long-term out of stock (>30 days expected) → tombstone
-- Short-term OOS (<30 days) → keep full GEO
-- Tier 1 core products → keep full GEO even if OOS, mark `availability: OutOfStock`
-- Discontinued → delete the file entirely
+**When a product goes OOS, add one status line** below the URL field and update Schema availability:
 
-**Tombstone template:**
+```markdown
+**Status:** OUT OF STOCK — last checked {YYYY-MM-DD}
+```
+
+And in the Schema block:
+```json
+"availability": "https://schema.org/OutOfStock"
+```
+
+Everything else — Selling Points, Ideal For, Comparison, FAQ — stays untouched.
+
+**When stock returns:** remove the `**Status:**` line and change Schema back to `InStock`.
+
+**Tombstone files** (lightweight placeholders with no GEO content) are only for products that never had a full GEO file written — typically newly discovered OOS SKUs that were batch-created as placeholders before any research was done. Template:
+
 ```markdown
 # {Product Name}
 
@@ -145,16 +155,11 @@ For out-of-stock products (>30 days expected OOS), use lightweight **tombstone f
 **Brand:** {Brand}
 **Category:** {Category}
 
-> This is a placeholder file. Product is currently out of stock and not actively sold.
-> When stock returns: delete this file and regenerate full-depth GEO using TEMPLATE.md.
-> See `product-knowledge/{category}/` for category knowledge base to assist regeneration.
+> Placeholder only — no GEO content written yet.
+> When stock returns: write full GEO using TEMPLATE.md.
 ```
 
-**Filename and location:** Same as full GEO — `{BC SKU}.md` in the matching category directory.
-
-**When the user says "create tombstones for these SKUs":** batch-fetch BC API for basic fields (name/sku/mpn/url/brand/category), generate files from the template above, write them to the matching category directories. Do NOT research products, write selling points, or do competitor comparisons — tombstones are placeholders only.
-
-When stock returns, the tombstone must be replaced with full-depth GEO (use category knowledge base in `product-knowledge/{category}/` as foundation).
+**Discontinued products** (removed from BC entirely) → delete the file.
 
 ## Price and Stock Audit (`tools/audit-geo.ps1`)
 
