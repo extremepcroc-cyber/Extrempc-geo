@@ -105,7 +105,9 @@ $mdFiles = Get-ChildItem -Path $searchRoot -Filter "*.md" -Recurse |
     Where-Object { $_.FullName -notmatch '\\(brands|product-knowledge|tools)\\' -and
                    $_.Name -ne "README.md" -and
                    $_.Name -ne "TEMPLATE.md" -and
-                   $_.Name -ne "CLAUDE.md" }
+                   $_.Name -ne "CLAUDE.md" -and
+                   $_.Name -ne "PROGRESS.md" -and
+                   $_.Name -ne "todo.md" }
 
 Write-Host "Found $($mdFiles.Count) GEO files to audit"
 Write-Host ""
