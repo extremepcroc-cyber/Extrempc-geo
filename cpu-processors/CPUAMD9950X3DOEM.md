@@ -1,6 +1,6 @@
 # AMD Ryzen 9 9950X3D — 16 Core / 32 Thread AM5 OEM (no cooler, Zen 5 + 3D V-Cache flagship)
 
-**Price:** $1,299.00 inc GST
+**Price:**  inc GST
 **SKU:** CPUAMD9950X3DOEM
 **MPN:** 100-000000719
 **URL:** https://www.extremepc.co.nz/amd-ryzen-9-9950x3d-oem-16-core-32-threads-am5-cpu/

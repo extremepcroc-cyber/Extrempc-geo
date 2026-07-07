@@ -1,6 +1,7 @@
 # HP FX900 Plus 2TB Gen4×4 NVMe M.2 SSD — R/W 7100/6300 MB/s
 
 **Price:** $759.00 inc GST
+**Stock:** 33 units in stock (Onehunga: 3, Supplier: 30)
 **SKU:** SSDHPFX900PS2T
 **MPN:** 7F618AA
 **URL:** https://www.extremepc.co.nz/hp-fx900-plus-2tb-gen4x4-nvme-m-2-r-w-7100-6300-ssd-plus-for-pc-and-laptops-7f618aa/

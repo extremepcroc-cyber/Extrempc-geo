@@ -1,6 +1,6 @@
 # Synology HAT5310 20TB 3.5" SATA3 NAS Hard Drive HAT5310-20T
 
-**Price:** $2,250.00 inc GST
+**Price:**  inc GST
 **SKU:** HDDSYNHAT20T
 **MPN:** HAT5310-20T
 **URL:** https://www.extremepc.co.nz/synology-hat5310-20tb-3-5-sata3-nas-hard-drive-hat5310-20t/

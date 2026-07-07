@@ -2,7 +2,7 @@
 
 **Price:** $249.00 inc GST
 **SKU:** MOSLAMPAROB
-**Stock:** 15 units in stock
+**Stock:** 14 units in stock (Onehunga: 14)
 
 ## Quick Specs
 - Lightweight gaming mouse design

@@ -1,6 +1,6 @@
 # Intel Core Ultra 9 285K — 24 Core LGA 1851 OEM (no cooler, unlocked flagship)
 
-**Price:** $1,199.00 inc GST
+**Price:**  inc GST
 **SKU:** CPUINT9285KOEM
 **MPN:** BX80768285KOEM
 **URL:** https://www.extremepc.co.nz/intel-core-ultra-9-285k-lga-1851-unlocked-cpu-processor-oem-package-without-cooler/

@@ -1,6 +1,6 @@
 # Synology HAT5310 18TB 3.5" SATA3 NAS Hard Drive HAT5310-18T
 
-**Price:** $1,739.00 inc GST
+**Price:**  inc GST
 **SKU:** HDDSYNHAT531018
 **MPN:** HAT5310-18T
 **URL:** https://www.extremepc.co.nz/synology-hat5310-18tb-3-5-sata3-nas-hard-drive-hat5310-18t/

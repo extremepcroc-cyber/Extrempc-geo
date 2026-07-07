@@ -1,6 +1,6 @@
 # Seagate IronWolf 12TB 3.5" SATA3 NAS Internal Hard Drive ST12000VN0008
 
-**Price:** $1,044.00 inc GST
+**Price:**  inc GST
 **SKU:** HDDSEAIW12T
 **MPN:** ST12000VN0008
 **URL:** https://www.extremepc.co.nz/seagate-ironwolf-12tb-3-5-sata3-nas-internal-hard-drive-st12000vn0008/

@@ -2,7 +2,7 @@
 
 **Price:** $229.00 inc GST
 **SKU:** MOSLAMMXWH
-**Stock:** 14 units in stock
+**Stock:** 10 units in stock (Onehunga: 10)
 
 ## Quick Specs
 - Lightweight gaming mouse design

@@ -1,6 +1,6 @@
 # WD Purple PRO 22TB 3.5" SATA3 AI Surveillance Hard Drive WD221PURP
 
-**Price:** $2,771.00 inc GST
+**Price:**  inc GST
 **SKU:** HDDWDSPRO22T
 **MPN:** WD221PURP
 **URL:** https://www.extremepc.co.nz/wd-purple-pro-22tb-3-5-sata3-ai-surveillance-hard-drive-wd221purp/

@@ -1,6 +1,6 @@
 # WD Red Plus 8TB 3.5" SATA3 NAS Hard Drive WD80EFPX
 
-**Price:** $997.00 inc GST
+**Price:**  inc GST
 **SKU:** HDDWDRPLUS8T
 **MPN:** WD80EFPX
 **URL:** https://www.extremepc.co.nz/wd-red-plus-8tb-3-5-sata3-nas-hard-drive-wd80efpx/

@@ -1,6 +1,6 @@
 # Seagate SkyHawk AI 8TB 3.5" SATA3 Surveillance Internal Hard Drive ST8000VE001
 
-**Price:** $448.99 inc GST
+**Price:**  inc GST
 **SKU:** HDDSEASKYAI8T
 **MPN:** ST8000VE001
 **URL:** https://www.extremepc.co.nz/seagate-skyhawk-ai-8tb-3-5-sata3-surveillance-internal-hard-drive-st8000ve001/

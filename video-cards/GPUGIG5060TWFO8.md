@@ -1,6 +1,7 @@
 # Gigabyte GeForce RTX 5060 Ti WINDFORCE OC 8GB GDDR7 Graphics Card
 
 **Price:** $929.00 inc GST
+**Stock:** 20 units in stock (Onehunga: 9, Supplier: 11)
 **SKU:** GPUGIG5060TWFO8
 **MPN:** GV-N506TWF2OC-8GD
 **URL:** https://www.extremepc.co.nz/gigabyte-geforce-rtx-5060-ti-windforce-oc-8gb-gddr7-graphics-card-gv-n506twf2-8gd/

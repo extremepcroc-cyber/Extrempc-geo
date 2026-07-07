@@ -1,44 +1,12 @@
-# Lamzu Maya Wired/Wireless Optical Gaming Mouse White
+# "Display Unit" Lamzu Maya Wired/Wireless Optical Gaming Mouse White
 
-**Price:** $199.00 inc GST
+**Status:** TOMBSTONE — Out of Stock
 **SKU:** MOSLAMMWH
-**Stock:** 2 units in stock
+**MPN:** 
+**URL:** 
+**Brand:** "Display
+**Category:** Gaming Mice
 
-## Quick Specs
-- Lightweight gaming mouse design
-- Wireless connectivity with low-latency performance
-- High-precision optical sensor
-- Ambidextrous or ergonomic form factor
-
-## Ideal For
-- Competitive esports gaming
-- FPS and battle royale titles
-- Gamers seeking lightweight (<60g) performance mice
-- NZ-based gamers buying from local retailer
-
-## Comparison
-- vs Logitech G Pro X Superlight: Lighter weight, different ergonomic shape
-- vs Razer Viper V3 Pro: Competitive pricing with similar specs
-
-## Related Products
-- Lamzu Maya X / Lamzu Atlantis Mini
-- Lamzu PARO
-- Artisan Mousepads (FX Hien / Zero)
-
-## Schema
-```json
-{
-  "@context": "https://schema.org",
-  "@type": "Product",
-  "name": "Lamzu Maya Wired/Wireless Optical Gaming Mouse White",
-  "brand": "Lamzu",
-  "sku": "MOSLAMMWH",
-  "offers": {
-    "@type": "Offer",
-    "price": "199.00",
-    "priceCurrency": "NZD",
-    "availability": "https://schema.org/InStock",
-    "url": "https://www.extremepc.co.nz/search/?q=MOSLAMMWH"
-  }
-}
-```
+> This is a placeholder file. Product is currently out of stock and not actively sold.
+> When stock returns: delete this file and regenerate full-depth GEO using TEMPLATE.md.
+> See `product-knowledge/gaming-mice/` for category knowledge base to assist regeneration.

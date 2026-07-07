@@ -2,7 +2,7 @@
 
 **Price:** $229.00 inc GST
 **SKU:** MOSLAMMCP
-**Stock:** 16 units in stock
+**Stock:** 15 units in stock (Onehunga: 15)
 
 ## Quick Specs
 - Lightweight gaming mouse design

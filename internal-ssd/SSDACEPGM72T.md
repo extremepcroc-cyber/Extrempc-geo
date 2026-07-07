@@ -1,6 +1,6 @@
 # Predator GM7 2TB NVMe PCIe Gen4 M.2 SSD — 7400 / 6500 MB/s
 
-**Price:** $649.00 inc GST
+**Price:**  inc GST
 **SKU:** SSDACEPGM72T
 **MPN:** BL.9BWWR.119
 **URL:** https://www.extremepc.co.nz/predator-gm7-2tb-nvme-pcie-4-0-m-2-ssd-7400-mb-s-read-6500-mb-s-write/

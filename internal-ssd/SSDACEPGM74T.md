@@ -1,6 +1,6 @@
 # Predator GM7 4TB NVMe PCIe Gen4 M.2 SSD — 7400/6500 MB/s
 
-**Price:** $1,099.00 inc GST
+**Price:**  inc GST
 **SKU:** SSDACEPGM74T
 **MPN:** BL.9BWWR.120
 **URL:** https://www.extremepc.co.nz/predator-gm7-4tb-nvme-pcie-4-0-m-2-ssd-7400-mb-s-read-6500-mb-s-write/

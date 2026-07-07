@@ -1,6 +1,6 @@
 # Colorful iGame GeForce RTX 5070 Vulcan OC 12GB-V GDDR7 Graphics Card
 
-**Price:** $1,499.00 inc GST
+**Price:**  inc GST
 **SKU:** GPUCOL5070V12
 **MPN:** iGame GeForce RTX 5070 Vulcan OC 12GB-V
 **URL:** https://www.extremepc.co.nz/colorful-igame-geforce-rtx-5070-vulcan-oc-12gb-v-gddr7-graphics-card/

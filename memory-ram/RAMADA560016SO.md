@@ -1,6 +1,7 @@
 # ADATA 16GB DDR5-5600 SODIMM Laptop Memory
 
 **Price:** $529.00 inc GST
+**Stock:** 48 units in stock (Onehunga: 18, Supplier: 30)
 **SKU:** RAMADA560016SO
 **MPN:** AD5S560016G-S
 **URL:** https://www.extremepc.co.nz/adata-16gb-ddr5-5600-2048x8-sodimm-lifetime-wty/

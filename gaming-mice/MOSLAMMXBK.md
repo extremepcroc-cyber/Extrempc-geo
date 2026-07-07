@@ -2,7 +2,7 @@
 
 **Price:** $229.00 inc GST
 **SKU:** MOSLAMMXBK
-**Stock:** 7 units in stock
+**Stock:** 6 units in stock (Onehunga: 6)
 
 ## Quick Specs
 - Lightweight gaming mouse design

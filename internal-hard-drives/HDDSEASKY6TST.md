@@ -1,6 +1,6 @@
 # Seagate SkyHawk 6TB 3.5" SATA3 Surveillance Internal Hard Drive ST6000VX009
 
-**Price:** $299.00 inc GST
+**Price:**  inc GST
 **SKU:** HDDSEASKY6TST
 **MPN:** ST6000VX009
 **URL:** https://www.extremepc.co.nz/seagate-skyhawk-6tb-3-5-sata3-surveillance-internal-hard-drive-st6000vx009/

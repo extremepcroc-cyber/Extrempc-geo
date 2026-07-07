@@ -1,6 +1,6 @@
 # Samsung 9100 PRO 2TB M.2 NVMe Gen5 Internal SSD — 14700/13400 MB/s
 
-**Price:** $1,099.00 inc GST
+**Price:**  inc GST
 **SKU:** SSDSAMPRO2T
 **MPN:** MZ-VAP2T0BW
 **URL:** https://www.extremepc.co.nz/samsung-9100-pro-2tb-m-2-nvme-gen5-internal-ssd-r-w-up-to-14700-13400mb-s/

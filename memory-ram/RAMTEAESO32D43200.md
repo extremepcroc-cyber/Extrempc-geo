@@ -1,6 +1,7 @@
 # Team Elite 32GB (1× 32GB) DDR4 3200MHz SO-DIMM Laptop Memory
 
 **Price:** $459.00 inc GST
+**Stock:** 25 units in stock (Onehunga: 3, Supplier: 22)
 **SKU:** RAMTEAESO32D43200
 **MPN:** TED432G3200C22-S01
 **URL:** https://www.extremepc.co.nz/team-elite-32gb-1x32gb-ddr4-3200mhz-so-dimm-laptop-memory/

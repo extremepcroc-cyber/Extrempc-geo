@@ -1,2 +1,2 @@
 ﻿# Samsung Odyssey G70F
-**SKU:** MONSAM27FG7  **Price:** \ inc GST
+**Price:**  inc GST
