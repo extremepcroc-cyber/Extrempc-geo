@@ -200,6 +200,40 @@ Use this script to detect GEO files that are out of date — price changed in BC
 
 **BC API rate limit:** script pauses every 40 calls to stay within 150 req/30s. Expect ~2–3 minutes for a full audit of 200+ SKUs.
 
+## Fetching Product Data Before Writing GEO Files (`tools/fetch-category.ps1`)
+
+**Always run this script first before writing GEO files for a subcategory.** Never have an AI agent call the BC API directly — models make mistakes with pagination, GST calculation, and custom-field parsing. The script outputs a clean JSON that agents read directly.
+
+**Usage:**
+```powershell
+# Fetch all in-stock products for a subcategory (e.g., AIO Water Cooling = 351)
+.\tools\fetch-category.ps1 -CategoryId 351
+
+# Include OOS products too
+.\tools\fetch-category.ps1 -CategoryId 349 -IncludeOOS
+
+# Custom output path
+.\tools\fetch-category.ps1 -CategoryId 347 -OutputFile "tools\fans.json"
+```
+
+**Output:** `tools/category-{id}-products.json` — one entry per in-stock product:
+
+| Field | Description |
+|---|---|
+| `sku` | BC SKU — use as filename |
+| `name` | Product name |
+| `mpn` | Manufacturer part number |
+| `brand` | Brand name (resolved from BC brands list) |
+| `price_nzd_inc_gst` | Price already ×1.15 — paste directly into `**Price:**` field |
+| `url` | Full extremepc.co.nz URL |
+| `stock` | OH / WL / SL / SU breakdown + total |
+| `custom_fields` | All BC custom fields (specs, stock, etc.) |
+
+**Agent workflow:**
+1. Human runs `fetch-category.ps1 -CategoryId {id}`
+2. Human gives the output JSON to the AI agent
+3. Agent reads the JSON and writes GEO files — no BC API calls needed
+
 ## Task Planning Rules for AI Agents
 
 **Plan by smallest subcategory branch — never by top-level category.**

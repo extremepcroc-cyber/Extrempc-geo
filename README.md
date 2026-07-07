@@ -125,6 +125,48 @@ geo/
 
 ## 工具脚本
 
+### `tools/fetch-category.ps1` — 新建 GEO 前抓取产品数据
+
+**用途**：写新的 GEO 文件之前，先用这个脚本把某个子分类的全部在售产品数据抓下来，生成一个 JSON 文件，再把 JSON 交给 AI 智能体写 GEO 文件。
+
+**为什么要用脚本而不是让 AI 直接调 API**：
+- 小模型不会处理 BC 的分页逻辑，经常漏产品
+- 含税价格需要 ×1.15，模型经常算错或者直接用含税价
+- 库存在 custom fields，模型经常去读 `inventory_level`（错的）
+- 品牌 ID 需要二次查询才能变成品牌名
+
+**运行方式**：
+```powershell
+# 抓取某子分类的所有在售产品（例：AIO 水冷 = 351）
+.\tools\fetch-category.ps1 -CategoryId 351
+
+# 包含缺货产品
+.\tools\fetch-category.ps1 -CategoryId 349 -IncludeOOS
+
+# 自定义输出路径
+.\tools\fetch-category.ps1 -CategoryId 347 -OutputFile "tools\fans.json"
+```
+
+**输出**：`tools/category-{id}-products.json`，每个产品包含：
+
+| 字段 | 说明 |
+|------|------|
+| `sku` | BC SKU，直接用作文件名 |
+| `name` | 产品名称 |
+| `mpn` | 厂商货号 |
+| `brand` | 品牌名（已从 BC 品牌 ID 解析） |
+| `price_nzd_inc_gst` | 已含 GST 的 NZD 价格（×1.15 已算好） |
+| `url` | 完整的 extremepc.co.nz 商品 URL |
+| `stock` | OH / WL / SL / SU 各仓库库存 + 合计 |
+| `custom_fields` | BC 全部自定义字段（规格、库存等） |
+
+**使用流程**：
+1. 运行脚本，生成 JSON
+2. 把 JSON 文件内容交给 AI 智能体
+3. AI 根据 JSON 写 GEO 文件，不需要自己调 API
+
+---
+
 ### `tools/audit-geo.ps1` — 价格与库存审计
 
 **用途**：定期核对所有 GEO 文件的价格和库存是否与 BC 系统一致，输出需要更新的 SKU 列表。
