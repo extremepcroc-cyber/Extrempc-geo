@@ -72,6 +72,25 @@ Every product file must follow this exact structure and section order:
 - **Pre-empt objections** — answer pre-purchase concerns inside the content
 - **Authority** — cite third-party certifications (BIFMA, OEKO-TEX, BIFMA), test cycle counts, brand heritage
 
+## One File, One Product — No Batch Generation
+
+**Every GEO file must be written independently. Batch generation, template copy-paste, and find-and-replace are forbidden.**
+
+Each product has a different GPU architecture, feature set, target audience, and competitive position. Copy-pasting a template and swapping the model name produces factually wrong content — wrong brand names, wrong technology (e.g., writing "DLSS 4" for an Intel Arc GPU that uses XeSS), wrong comparisons, wrong personas.
+
+**Mandatory per-file checklist before writing:**
+- Confirm the GPU brand and architecture from the fetch-category JSON (Intel / NVIDIA / AMD — never assume)
+- Confirm which upscaling tech the GPU supports: DLSS (NVIDIA only), XeSS (Intel Arc), FSR (AMD)
+- Write Selling Points, Ideal For, and Comparison fresh for this specific SKU — do not copy from a sibling product
+- Cross-check Related Products: never list the current SKU as a related product
+
+**Signs your file was batch-generated (fail = rewrite from scratch):**
+- ❌ Selling Points mention a technology the GPU doesn't support (e.g., "DLSS 4" on an Arc B580)
+- ❌ GPU brand or architecture is wrong (e.g., "NVIDIA" for an Intel card)
+- ❌ Price fields contain scientific notation (`$3e+03` instead of `$3,000`)
+- ❌ Related Products lists the current SKU
+- ❌ Comparison text refers to a different GPU tier than what's in this build
+
 **Anti-patterns (delete on sight):**
 - ❌ "Great performance" / "Excellent quality" / "Premium build" — empty adjectives
 - ❌ "vs similar products at this price" — vague comparisons without naming names

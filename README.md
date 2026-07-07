@@ -140,6 +140,27 @@ geo/
 
 ---
 
+## 每个 GEO 文件必须独立生成（禁止批量复制）
+
+**每一个 GEO 文件都必须单独写，禁止批量生成、模板复制粘贴、批量 find-and-replace。**
+
+每个产品的 GPU 架构、技术特性、目标用户、竞品对比都不同。复制模板只换型号名会产生事实性错误——错误的品牌、错误的技术（例如给 Intel Arc GPU 写 "DLSS 4"，Arc 用的是 XeSS）、错误的比较对象。
+
+**写每个文件前必须逐一确认：**
+- 从 fetch-category JSON 确认 GPU 品牌和架构（Intel / NVIDIA / AMD，不能假设）
+- 确认该 GPU 支持的图像升级技术：DLSS（仅 NVIDIA）、XeSS（Intel Arc）、FSR（AMD）
+- Selling Points、Ideal For、Comparison 必须针对这个 SKU 重新写，不能从兄弟产品复制
+- Related Products 不能把当前 SKU 自己列进去
+
+**批量生成的特征（出现任何一条 = 整个文件重写）：**
+- ❌ Selling Points 提到该 GPU 不支持的技术（如 Arc B580 写了 "DLSS 4"）
+- ❌ GPU 品牌或架构错误（如 Intel 显卡写成 "NVIDIA"）
+- ❌ 价格出现科学计数法（`$3e+03` 而不是 `$3,000`）
+- ❌ Related Products 列出了当前文件自己的 SKU
+- ❌ Comparison 的对比对象不符合该机器的实际定位
+
+---
+
 ## 数据来源规则（AI 智能体必须遵守）
 
 **所有产品数据（SKU、价格、库存、规格、URL）必须来自 BC API 或 `tools/fetch-category.ps1` 输出的 JSON。严禁用 web search 获取这些字段。**
