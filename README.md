@@ -125,6 +125,35 @@ geo/
 
 ## 工具脚本
 
+## 数据来源规则（AI 智能体必须遵守）
+
+**所有产品数据（SKU、价格、库存、规格、URL）必须来自 BC API 或 `tools/fetch-category.ps1` 输出的 JSON。严禁用 web search 获取这些字段。**
+
+| 数据类型 | 正确来源 | ❌ 禁止来源 |
+|---|---|---|
+| SKU、MPN、产品名 | BC API / fetch-category JSON | Web search、厂商官网 |
+| 价格（NZD 含 GST） | BC API price × 1.15 | 任何网页，包括 extremepc.co.nz |
+| 库存数量 | BC custom fields（OH/WL/SL/SU） | 网页显示、inventory_level 字段 |
+| 产品 URL | BC `custom_url.url` 字段 | 根据产品名猜测 |
+| 技术规格 | BC custom fields + 产品描述 | Web search |
+
+**为什么 web search 数据不可靠：**
+- extremepc.co.nz 网页价格可能是缓存，不是实时价
+- 厂商规格因地区/版本而异，BC 上挂的才是实际在售版本
+- Web search 会返回竞争对手页面、评测站、海外价格
+- 模型在搜索产品时容易幻觉出错误的 URL 和 SKU
+
+**写新 GEO 文件的正确流程：**
+1. 人工运行 `.\tools\fetch-category.ps1 -CategoryId {id}` → 生成 JSON
+2. 把 JSON 交给 AI 智能体
+3. 智能体只用 JSON 里的数据填写价格 / SKU / 库存 / URL
+4. 技术背景和竞品对比可参考 `product-knowledge/` 知识库
+5. 智能体不得直接调用 BC API，不得做任何 web search 获取产品数据
+
+---
+
+## 工具脚本
+
 ### `tools/fetch-category.ps1` — 新建 GEO 前抓取产品数据
 
 **用途**：写新的 GEO 文件之前，先用这个脚本把某个子分类的全部在售产品数据抓下来，生成一个 JSON 文件，再把 JSON 交给 AI 智能体写 GEO 文件。
