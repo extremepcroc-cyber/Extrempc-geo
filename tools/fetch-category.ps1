@@ -65,22 +65,14 @@ function Get-CustomFields([int]$productId) {
 }
 
 function Get-Stock([hashtable]$cf) {
-    function Parse([string]$key) {
-        $v = $cf[$key]
-        if ($null -eq $v -or $v -eq "") { return 0 }
-        $n = 0
-        if ([int]::TryParse($v, [ref]$n)) { return $n } else { return 0 }
-    }
-    $oh = Parse "__Stock Available Onehunga"
-    $wl = Parse "__Stock Available Wellington"
-    $sl = Parse "__Stock Available St Lukes"
-    $su = Parse "__Stock Available Supplier"
+    # Only OH (Onehunga) = customer-available stock. WL/SL/SU are internal and do not
+    # represent stock customers can actually receive — do not sum them.
+    $v = $cf["__Stock Available Onehunga"]
+    $oh = 0
+    if ($v -and $v -ne "") { [int]::TryParse($v, [ref]$oh) | Out-Null }
     return [ordered]@{
         OH    = $oh
-        WL    = $wl
-        SL    = $sl
-        SU    = $su
-        total = $oh + $wl + $sl + $su
+        total = $oh
     }
 }
 
@@ -131,7 +123,7 @@ foreach ($p in $products) {
 
     $stock = Get-Stock $cf
 
-    # Skip OOS unless -IncludeOOS
+    # Skip OOS unless -IncludeOOS (OOS = OH stock = 0)
     if ($stock.total -eq 0 -and -not $IncludeOOS) {
         Write-Host " [OOS - skipped]" -ForegroundColor DarkGray
         $skipped++
@@ -163,7 +155,7 @@ foreach ($p in $products) {
         custom_fields      = $cf
     }
 
-    $stockStr = "OH=$($stock.OH) WL=$($stock.WL) SL=$($stock.SL) SU=$($stock.SU)"
+    $stockStr = "OH=$($stock.OH)"
     Write-Host " [IN STOCK: $stockStr] `$$priceNZD" -ForegroundColor Green
 
     $results += $entry

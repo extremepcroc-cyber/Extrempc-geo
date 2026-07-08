@@ -188,8 +188,8 @@ Use this script to detect GEO files that are out of date — price changed in BC
 
 **What it checks:**
 - **Price**: parses `**Price:**` from each `.md` file, fetches current BC price (×1.15 for GST), flags if difference > $0.05
-- **Stock**: calls `/catalog/products/{id}/custom-fields` per SKU to read `__Stock Available Onehunga/Wellington/St Lukes/Supplier` — because stock lives in custom fields, NOT `inventory_level`
-- **OOS trigger**: flags `needs_tombstone: true` when total stock (OH+WL+SL+SU) = 0
+- **Stock**: calls `/catalog/products/{id}/custom-fields` per SKU to read `__Stock Available Onehunga` (OH) — because stock lives in custom fields, NOT `inventory_level`. Only OH = customer-available stock; WL/SL/SU are internal and ignored.
+- **OOS trigger**: flags `needs_oos_flag: true` when OH = 0
 - **Stock shift**: detects when GEO describes retail stock but BC now shows supplier-only (or vice versa)
 - **Tombstones**: automatically skipped — not checked
 
@@ -242,7 +242,7 @@ Never create `.ps1`, `.json`, `.txt`, or any other files directly in the repo ro
 |---|---|---|
 | SKU, MPN, product name | BC API / fetch-category JSON | Web search, manufacturer site |
 | Price (NZD inc GST) | BC API price × 1.15 | Any website, including extremepc.co.nz |
-| Stock levels | BC custom fields (OH/WL/SL/SU) | Web page, inventory_level field |
+| Stock levels | BC custom field `__Stock Available Onehunga` (OH only) | Web page, inventory_level field, WL/SL/SU fields |
 | Product URL | BC `custom_url.url` field | Guessing from product name |
 | Technical specs | BC custom fields + product description | Web search |
 

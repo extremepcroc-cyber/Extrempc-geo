@@ -43,26 +43,19 @@ function Get-BCProduct([string]$sku) {
 }
 
 function Get-BCStock([int]$productId) {
+    # Only OH (Onehunga) = customer-available stock. WL/SL/SU are internal —
+    # customers cannot receive those units, so we only check OH for OOS logic.
     $url = "$BASE_URL/catalog/products/$productId/custom-fields"
     $r = Invoke-RestMethod -Uri $url -Headers $headers -Method GET
     $cf = $r.data
 
-    function Get-Field([string]$name) {
-        $val = ($cf | Where-Object { $_.name -eq $name } | Select-Object -First 1).value
-        if ($null -eq $val -or $val -eq "") { return 0 }
-        $n = 0
-        if ([int]::TryParse($val, [ref]$n)) { return $n } else { return 0 }
-    }
+    $val = ($cf | Where-Object { $_.name -eq "__Stock Available Onehunga" } | Select-Object -First 1).value
+    $oh = 0
+    if ($val -and $val -ne "") { [int]::TryParse($val, [ref]$oh) | Out-Null }
 
     return @{
-        OH    = Get-Field "__Stock Available Onehunga"
-        WL    = Get-Field "__Stock Available Wellington"
-        SL    = Get-Field "__Stock Available St Lukes"
-        SU    = Get-Field "__Stock Available Supplier"
-        Total = (Get-Field "__Stock Available Onehunga") +
-                (Get-Field "__Stock Available Wellington") +
-                (Get-Field "__Stock Available St Lukes") +
-                (Get-Field "__Stock Available Supplier")
+        OH    = $oh
+        Total = $oh
     }
 }
 
@@ -191,14 +184,11 @@ foreach ($file in $mdFiles) {
 
     # --- Stock assessment ---
     $totalStock    = $stock.Total
-    $wasOOS        = ($totalStock -eq 0)
-    $stockSummary  = "OH=$($stock.OH) WL=$($stock.WL) SL=$($stock.SL) SU=$($stock.SU) | Total=$totalStock"
+    $stockSummary  = "OH=$($stock.OH)"
 
-    # GEO file stock hint: try to detect if GEO says "supplier only" vs "retail"
-    $geoContent     = Get-Content $file.FullName -Raw -Encoding UTF8
-    $geoHasRetail   = $geoContent -match 'Onehunga|Wellington|St Lukes' -and $geoContent -notmatch 'supplier \(3'
-    $bcHasRetail    = ($stock.OH + $stock.WL + $stock.SL) -gt 0
-    $stockShifted   = ($geoHasRetail -ne $bcHasRetail)
+    # Stock shift detection removed — only OH matters for customer availability
+    $geoContent    = Get-Content $file.FullName -Raw -Encoding UTF8
+    $stockShifted  = $false
 
     # OOS flag: total stock = 0 — add status line to file, do NOT delete content
     $needsOosFlag = ($totalStock -eq 0)

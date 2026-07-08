@@ -84,39 +84,33 @@ def get_brands():
 
 
 def get_stock(product_id):
-    """Fetch stock custom fields for a product."""
+    """Fetch OH stock only. Only Onehunga stock = customer-available.
+    WL/SL/SU are internal — customers cannot receive those units."""
     result = api_get(f"/catalog/products/{product_id}/custom-fields")
     if not result or "data" not in result:
-        return {"oh": 0, "wl": 0, "sl": 0, "su": 0, "total": 0}
+        return {"oh": 0, "total": 0}
 
-    oh = wl = sl = su = 0
+    oh = 0
     for cf in result["data"]:
-        nm = cf["name"]
-        try:
-            v = int(cf["value"])
-        except (ValueError, TypeError):
-            v = 0
-        if "Onehunga" in nm:
-            oh = v
-        elif "Wellington" in nm:
-            wl = v
-        elif "St Lukes" in nm:
-            sl = v
-        elif "Supplier" in nm:
-            su = v
+        if "Onehunga" in cf["name"]:
+            try:
+                oh = int(cf["value"])
+            except (ValueError, TypeError):
+                oh = 0
+            break
 
-    return {"oh": oh, "wl": wl, "sl": sl, "su": su, "total": oh + wl + sl + su}
+    return {"oh": oh, "total": oh}
 
 
 def stock_label(s):
-    """Fuzzy stock label for customer display."""
+    """Stock label based on OH (Onehunga) only — customer-available units."""
     t = s["total"]
     if t == 0:
         return "❌ Out of stock"
-    elif t <= 5:
+    elif t <= 3:
         return "⚠️ Only a few left"
     else:
-        return "✅ Plenty in stock"
+        return "✅ In stock"
 
 
 # === Main ===
@@ -208,7 +202,7 @@ if do_stock or do_instock_only:
         brand = brands.get(p.get("brand_id"), "")
         brand_tag = f" [{brand}]" if brand else ""
         s = stock
-        stock_detail = f"[OH={s['oh']} WL={s['wl']} SL={s['sl']} SU={s['su']}]" if do_stock and not do_instock_only else ""
+        stock_detail = f"[OH={s['oh']}]" if do_stock and not do_instock_only else ""
         print(f"  {label}{brand_tag}  ${price}  {p['name'][:55]}")
         if stock_detail:
             print(f"           {stock_detail}")
