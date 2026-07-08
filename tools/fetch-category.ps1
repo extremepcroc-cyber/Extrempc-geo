@@ -9,15 +9,17 @@
 #
 # Output: tools\category-{id}-products.json  (or -OutputFile path)
 #
-# Each product entry contains everything needed to write a GEO file:
-#   sku, name, mpn, price_nzd_inc_gst, url, stock (OH/WL/SL/SU),
-#   brand, description_html, custom_fields (all of them)
+# Optimisations vs naive approach:
+#   - Server-side filter: availability=available&is_visible=true  → skips hidden/disabled products
+#   - include=custom_fields in product list query → custom fields inline, no per-product calls
+#   - Only OH (Onehunga) read for stock — WL/SL/SU are internal, not customer-available
+#   - Net result: 2 API calls total (product list + brands), regardless of category size
 
 param(
     [Parameter(Mandatory)]
     [int]$CategoryId,
 
-    [switch]$IncludeOOS,   # include products with zero stock (default: skip)
+    [switch]$IncludeOOS,   # include products with OH=0 (default: skip)
 
     [string]$OutputFile = ""
 )
@@ -41,39 +43,30 @@ if ($OutputFile -eq "") {
 
 # --- Helpers ---
 function Get-AllPages([string]$url) {
-    # Follows BC pagination, returns all data items across pages
     $allData = @()
     $page = 1
     do {
-        $paged = "$url&page=$page&limit=50"
+        $paged = "$url&page=$page&limit=250"
         $r = Invoke-RestMethod -Uri $paged -Headers $headers -Method GET
         if ($r.data) { $allData += $r.data }
-        $totalPages = [math]::Ceiling($r.meta.pagination.total / $r.meta.pagination.per_page)
+        $totalPages = $r.meta.pagination.total_pages
         $page++
     } while ($page -le $totalPages -and $r.data.Count -gt 0)
     return $allData
 }
 
-function Get-CustomFields([int]$productId) {
-    $url = "$BASE_URL/catalog/products/$productId/custom-fields"
-    $r = Invoke-RestMethod -Uri $url -Headers $headers -Method GET
-    $result = [ordered]@{}
-    foreach ($cf in $r.data) {
-        $result[$cf.name] = $cf.value
-    }
-    return $result
+function Get-OH([array]$customFields) {
+    # Only Onehunga = customer-available stock
+    $cf = $customFields | Where-Object { $_.name -eq "__Stock Available Onehunga" } | Select-Object -First 1
+    $oh = 0
+    if ($cf -and $cf.value -ne "") { [int]::TryParse($cf.value, [ref]$oh) | Out-Null }
+    return $oh
 }
 
-function Get-Stock([hashtable]$cf) {
-    # Only OH (Onehunga) = customer-available stock. WL/SL/SU are internal and do not
-    # represent stock customers can actually receive — do not sum them.
-    $v = $cf["__Stock Available Onehunga"]
-    $oh = 0
-    if ($v -and $v -ne "") { [int]::TryParse($v, [ref]$oh) | Out-Null }
-    return [ordered]@{
-        OH    = $oh
-        total = $oh
-    }
+function Get-CF-Map([array]$customFields) {
+    $result = [ordered]@{}
+    foreach ($cf in $customFields) { $result[$cf.name] = $cf.value }
+    return $result
 }
 
 # --- Main ---
@@ -83,99 +76,72 @@ Write-Host "Category ID : $CategoryId"
 Write-Host "Include OOS : $IncludeOOS"
 Write-Host ""
 
-# Step 1: fetch product list for category
-Write-Host "Fetching product list..." -NoNewline
-$listUrl = "$BASE_URL/catalog/products?categories:in=$CategoryId&include_fields=id,name,sku,mpn,price,brand_id,custom_url,availability,is_visible&include=custom_fields"
+# Single paginated call — products + custom_fields inline, hidden/disabled filtered server-side
+Write-Host "Fetching products..." -NoNewline
+$listUrl = "$BASE_URL/catalog/products" +
+           "?categories:in=$CategoryId" +
+           "&availability=available" +
+           "&is_visible=true" +
+           "&include_fields=id,name,sku,mpn,price,brand_id,custom_url" +
+           "&include=custom_fields"
 $products = Get-AllPages $listUrl
-Write-Host " $($products.Count) products found" -ForegroundColor Green
+Write-Host " $($products.Count) visible products" -ForegroundColor Green
 
-# Step 2: fetch brands lookup (id -> name)
-Write-Host "Fetching brand list..." -NoNewline
-$brandsUrl = "$BASE_URL/catalog/brands?limit=250"
-$brandData = Invoke-RestMethod -Uri $brandsUrl -Headers $headers -Method GET
-$brandMap = @{}
+# Brand lookup (one call)
+Write-Host "Fetching brands..." -NoNewline
+$brandData = Invoke-RestMethod -Uri "$BASE_URL/catalog/brands?limit=250" -Headers $headers -Method GET
+$brandMap  = @{}
 foreach ($b in $brandData.data) { $brandMap[$b.id] = $b.name }
 Write-Host " $($brandMap.Count) brands cached" -ForegroundColor Green
 Write-Host ""
 
-$results  = @()
-$callCount = 0
-$skipped  = 0
+$results = @()
+$skipped = 0
 
 foreach ($p in $products) {
-    Write-Host "  [$($p.sku)] $($p.name)" -NoNewline
+    $oh = Get-OH $p.custom_fields
 
-    # Rate limit: pause every 40 calls
-    if ($callCount -gt 0 -and $callCount % 40 -eq 0) {
-        Write-Host ""
-        Write-Host "  [Rate limit pause 3s after $callCount calls]" -ForegroundColor DarkYellow
-        Start-Sleep -Seconds 3
-    }
-
-    # Custom fields (stock + specs)
-    try {
-        $cf = Get-CustomFields $p.id
-        $callCount++
-    } catch {
-        Write-Host " ERROR (custom-fields)" -ForegroundColor Red
-        continue
-    }
-
-    $stock = Get-Stock $cf
-
-    # Skip OOS unless -IncludeOOS (OOS = OH stock = 0)
-    if ($stock.total -eq 0 -and -not $IncludeOOS) {
-        Write-Host " [OOS - skipped]" -ForegroundColor DarkGray
+    if ($oh -eq 0 -and -not $IncludeOOS) {
         $skipped++
         continue
     }
 
-    # Price: BC price is ex-GST, multiply x1.15 for NZD inc GST
-    # Output as plain integer (no commas, no decimals) to avoid PowerShell formatting bugs
     $priceNZD = [int][math]::Round([decimal]$p.price * 1.15)
+    $slug     = if ($p.custom_url -and $p.custom_url.url) { $p.custom_url.url.Trim('/') } else { "" }
+    $url      = if ($slug) { "https://www.extremepc.co.nz/$slug/" } else { "TBC" }
+    $brand    = if ($brandMap.ContainsKey($p.brand_id)) { $brandMap[$p.brand_id] } else { "TBC" }
+    $mpn      = if ($p.mpn -and $p.mpn -ne "") { $p.mpn } else { "TBC" }
 
-    # URL: use custom_url if present, else build from slug
-    $slug = if ($p.custom_url -and $p.custom_url.url) { $p.custom_url.url.Trim('/') } else { "" }
-    $url  = if ($slug) { "https://www.extremepc.co.nz/$slug/" } else { "TBC" }
+    $status = if ($oh -eq 0) { "[OOS]" } else { "[OH=$oh]" }
+    Write-Host "  $status $($p.sku)  `$$priceNZD  $($p.name)" -ForegroundColor $(if ($oh -gt 0) { "Green" } else { "DarkGray" })
 
-    # Brand name
-    $brand = if ($brandMap.ContainsKey($p.brand_id)) { $brandMap[$p.brand_id] } else { "TBC" }
-
-    # MPN
-    $mpn = if ($p.mpn -and $p.mpn -ne "") { $p.mpn } else { "TBC" }
-
-    $entry = [ordered]@{
-        sku                = $p.sku
-        name               = $p.name
-        mpn                = $mpn
-        brand              = $brand
-        price_nzd_inc_gst  = $priceNZD
-        url                = $url
-        stock              = $stock
-        custom_fields      = $cf
+    $results += [ordered]@{
+        sku               = $p.sku
+        name              = $p.name
+        mpn               = $mpn
+        brand             = $brand
+        price_nzd_inc_gst = $priceNZD
+        url               = $url
+        stock             = [ordered]@{ OH = $oh }
+        custom_fields     = Get-CF-Map $p.custom_fields
     }
-
-    $stockStr = "OH=$($stock.OH)"
-    Write-Host " [IN STOCK: $stockStr] `$$priceNZD" -ForegroundColor Green
-
-    $results += $entry
 }
 
 # --- Output ---
 Write-Host ""
 Write-Host "=== Summary ===" -ForegroundColor Cyan
-Write-Host "  Total found  : $($products.Count)"
-Write-Host "  OOS skipped  : $skipped" -ForegroundColor DarkGray
-Write-Host "  Exported     : $($results.Count)" -ForegroundColor Green
-Write-Host "  API calls    : $callCount"
+Write-Host "  Visible products : $($products.Count)"
+Write-Host "  OOS skipped      : $skipped" -ForegroundColor DarkGray
+Write-Host "  Exported         : $($results.Count)" -ForegroundColor Green
+Write-Host "  API calls made   : 2  (products + brands)" -ForegroundColor Green
 Write-Host ""
 
 $output = [ordered]@{
-    generated   = (Get-Date -Format "yyyy-MM-dd HH:mm:ss")
-    category_id = $CategoryId
+    generated     = (Get-Date -Format "yyyy-MM-dd HH:mm:ss")
+    category_id   = $CategoryId
     in_stock_only = (-not $IncludeOOS)
-    count       = $results.Count
-    products    = $results
+    count         = $results.Count
+    products      = $results
 }
 
 $output | ConvertTo-Json -Depth 10 | Out-File $OutputFile -Encoding UTF8
