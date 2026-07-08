@@ -32,13 +32,15 @@ HEADERS = {
 # === Args ===
 do_stock = "--stock" in sys.argv or len(sys.argv) > 2  # auto-enable if --instock
 do_instock_only = "--instock" in sys.argv
+do_summary = "--summary" in sys.argv
 
 # Get category ID
 cat_ids = [a for a in sys.argv[1:] if a.isdigit()]
 if not cat_ids:
-    print("Usage: python tools/query-category.py <category_id> [--stock] [--instock]")
+    print("Usage: python tools/query-category.py <category_id> [--stock] [--instock] [--summary]")
     print("       --stock     check real stock via custom-fields (slower but accurate)")
     print("       --instock   only show products with stock > 0 (implies --stock)")
+    print("       --summary   show brand overview instead of individual products")
     sys.exit(1)
 
 CAT_ID = int(cat_ids[0])
@@ -177,6 +179,31 @@ if do_stock or do_instock_only:
         results = [r for r in results if r[0] > 0]
 
     print()
+
+    # --summary mode: show brand overview
+    if do_summary:
+        from collections import Counter
+        brand_counts = Counter()
+        brand_prices = {}
+        for total, p, stock, label, price, url in results:
+            bname = brands.get(p.get("brand_id"), "Unknown")
+            brand_counts[bname] += 1
+            if bname not in brand_prices:
+                brand_prices[bname] = {"min": price, "max": price}
+            else:
+                brand_prices[bname]["min"] = min(brand_prices[bname]["min"], price)
+                brand_prices[bname]["max"] = max(brand_prices[bname]["max"], price)
+
+        # Sort by count descending
+        print(f"  📊 In-stock by brand ({len(results)} products):")
+        print()
+        for bname, cnt in brand_counts.most_common():
+            p = brand_prices[bname]
+            print(f"    {bname:20s}  {cnt:2d} products  (${p['min']} ~ ${p['max']})")
+        print()
+        print(f"  Use --stock --instock to see individual products.")
+        sys.exit(0)
+
     for total, p, stock, label, price, url in results:
         brand = brands.get(p.get("brand_id"), "")
         brand_tag = f" [{brand}]" if brand else ""
