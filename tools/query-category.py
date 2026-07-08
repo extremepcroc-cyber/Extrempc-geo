@@ -117,13 +117,20 @@ if not products:
     print("  No products found.")
     sys.exit(0)
 
-# Brand lookup (one call)
+# Brand lookup (paginate to get all)
 print("  Loading brands...", end="", file=sys.stderr)
-brand_result = api_get("/catalog/brands?limit=250")
 brands = {}
-if brand_result and brand_result.get("data"):
+page = 1
+while True:
+    brand_result = api_get(f"/catalog/brands?limit=250&page={page}")
+    if not brand_result or not brand_result.get("data"):
+        break
     for b in brand_result["data"]:
         brands[b["id"]] = b["name"]
+    meta = brand_result.get("meta", {}).get("pagination", {})
+    if page >= meta.get("total_pages", 1):
+        break
+    page += 1
 print(f" {len(brands)} cached", file=sys.stderr)
 print()
 
