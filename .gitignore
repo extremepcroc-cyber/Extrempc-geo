@@ -4,3 +4,6 @@
 
 # Temporary working files — never commit
 tools/temp/
+
+# Sensitive — proxy contains API keys and internal architecture
+tools/exie-proxy.py
