@@ -5,5 +5,12 @@
 # Temporary working files — never commit
 tools/temp/
 
+# Python cache
+__pycache__/
+*.pyc
+
+# Temporary category JSON (fetch-category output)
+tools/category-*.json
+
 # Sensitive — proxy contains API keys and internal architecture
 tools/exie-proxy.py

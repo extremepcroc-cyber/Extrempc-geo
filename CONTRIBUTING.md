@@ -55,7 +55,7 @@ geo/
 | `Price` | NZD inc GST | 写 `TBC` |
 | `SKU` | BC 系统 SKU | 写 `TBC` |
 | `MPN` | 厂商型号 | 留空 |
-| `URL` | extremepc.co.nz 链接 | 问 Jimmy |
+| `URL` | extremepc.co.nz 链接 | 问管理员 |
 | `Quick Specs` | 至少 5 条，含认证/测试数据/保修 | 查 BC 后台 + 厂商官网 |
 | `Selling Points` | 3–5 个，每个 2–4 句话 | 至少 3 个 |
 | `Ideal For` | 至少 3 个用户画像 | 至少 1 个 |

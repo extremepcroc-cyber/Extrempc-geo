@@ -136,7 +136,7 @@ GET /catalog/products?sku:in={SKU}&include_fields=price,calculated_price
 # Multiply ex-GST price × 1.15 for NZD inc GST
 ```
 
-If a product has no GEO file: use BC API for basic specs, tell the user "this product doesn't have detailed comparison info yet", and notify Jimmy to create the file.
+If a product has no GEO file: use BC API for basic specs, tell the user "this product doesn't have detailed comparison info yet", and notify the store manager to create the file.
 
 AI agents may modify file content with these rules:
 - **Direct update**: `Price` (sync from BC API, ×1.15 for GST) and `Quick Specs` (sync from BC)
@@ -184,7 +184,7 @@ Everything else — Selling Points, Ideal For, Comparison, FAQ — stays untouch
 
 Use this script to detect GEO files that are out of date — price changed in BC, stock went to zero, or stock location shifted.
 
-**When to run:** before any batch editing session, or when Jimmy reports prices have changed.
+**When to run:** before any batch editing session, or when the store manager reports prices have changed.
 
 **What it checks:**
 - **Price**: parses `**Price:**` from each `.md` file, fetches current BC price (×1.15 for GST), flags if difference > $0.05

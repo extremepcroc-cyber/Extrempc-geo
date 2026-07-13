@@ -21,8 +21,29 @@ import urllib.request
 import urllib.error
 
 # === Config ===
-STORE = "ms4wz8cgi2"
-TOKEN = "iedxfd72bgz2h46qz2pyc7ghsllrw01"
+import os, pathlib
+
+# Look for .env in profile dir first, then repo root (~/AppData/Local/hermes/profiles/exie/)
+_env_candidates = [
+    pathlib.Path(os.environ.get("HERMES_PROFILE_DIR", "")) / "extremepc.env",
+    pathlib.Path.home() / "AppData/Local/hermes/profiles/exie/extremepc.env",
+]
+for _p in _env_candidates:
+    if _p.exists():
+        with open(_p) as _f:
+            for _line in _f:
+                _line = _line.strip()
+                if _line and not _line.startswith("#") and "=" in _line:
+                    _k, _v = _line.split("=", 1)
+                    os.environ.setdefault(_k.strip(), _v.strip())
+
+STORE = os.environ.get("BC_STORE_HASH", "ms4wz8cgi2")
+TOKEN = os.environ.get("BC_ACCESS_TOKEN", "")
+if not TOKEN:
+    print("Error: BC_ACCESS_TOKEN not set.", file=sys.stderr)
+    print("Add BC_ACCESS_TOKEN=your_token to extremepc.env", file=sys.stderr)
+    sys.exit(1)
+
 BASE  = f"https://api.bigcommerce.com/stores/{STORE}/v3"
 HEADERS = {
     "X-Auth-Token": TOKEN,
