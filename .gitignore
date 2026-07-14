@@ -15,5 +15,5 @@ tools/category-*.json
 # Backup files
 *.bak
 
-# Sensitive — proxy contains API keys and internal architecture
+# Proxy lives in Hermes workspace (not in this repo)
 tools/exie-proxy.py
