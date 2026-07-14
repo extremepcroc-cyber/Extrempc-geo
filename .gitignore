@@ -12,5 +12,8 @@ __pycache__/
 # Temporary category JSON (fetch-category output)
 tools/category-*.json
 
+# Backup files
+*.bak
+
 # Sensitive — proxy contains API keys and internal architecture
 tools/exie-proxy.py
