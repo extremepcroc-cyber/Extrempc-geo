@@ -132,7 +132,7 @@
 <p style="margin:10px 0; line-height:1.7; color:#333;"><strong style="color:#3B6D11;">Pure competitive gamer with nothing else running? 16GB is fine.</strong></p>
 <p style="margin:10px 0; line-height:1.7; color:#333;"><strong style="color:#185FA5;">Everyone else building new in 2026? Go 32GB and don't think about it again.</strong></p>
 
-<p style="margin:10px 0; line-height:1.7; color:#333;">Browse our full range of DDR5 memory at <a href="https://www.extremepc.co.nz/components/memory-ram/" style="color:#0C447C;">extremepc.co.nz</a> or come talk to us in-store in Auckland.</p>
+<p style="margin:10px 0; line-height:1.7; color:#333;">Browse our full range of DDR5 memory at extremepc.co.nz or come talk to us in-store in Auckland.</p>
 
 <hr>
 
