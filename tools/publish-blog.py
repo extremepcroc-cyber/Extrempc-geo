@@ -112,9 +112,8 @@ def parse_blog_md(path):
     slug_m = re.search(r'/blog/([^/]+)/', url_field)
     slug = slug_m.group(1) if slug_m else path.stem
 
-    meta_desc  = extract_field("Meta Description")
-    thumbnail  = extract_field("Thumbnail")
-    tags_raw   = extract_field("Tags")
+    meta_desc = extract_field("Meta Description")
+    tags_raw  = extract_field("Tags")
     tags = [t.strip() for t in tags_raw.split(",")] if tags_raw else []
     raw_date  = extract_field("发布日期")
     if raw_date and re.match(r'^\d{4}-\d{2}-\d{2}$', raw_date):
@@ -123,7 +122,7 @@ def parse_blog_md(path):
     else:
         pub_date = time.strftime("%a, %d %b %Y %H:%M:%S +0000")
 
-    payload = {
+    return {
         "title":            title,
         "body":             body_html,
         "url":              slug,
@@ -133,9 +132,6 @@ def parse_blog_md(path):
         "is_published":     not draft_mode,
         "author":           "ExtremePC",
     }
-    if thumbnail:
-        payload["thumbnail_path"] = thumbnail
-    return payload
 
 
 def md_to_html(md):

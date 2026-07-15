@@ -6,7 +6,6 @@
 **发布日期:** {YYYY-MM-DD}
 **作者:** ExtremePC Team
 **Meta Description:** {120-155字符，包含目标关键词}
-**Thumbnail:** /product_images/uploaded_images/{filename}.jpg
 **Tags:** {tag1, tag2, tag3}
 
 ---
