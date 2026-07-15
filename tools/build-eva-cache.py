@@ -124,7 +124,7 @@ products = get_all_pages(
     f"/catalog/products"
     f"?availability=available"
     f"&is_visible=true"
-    f"&include_fields=id,name,sku,price,brand_id,custom_url"
+    f"&include_fields=id,name,sku,price,calculated_price,brand_id,custom_url"
     f"&include=custom_fields"
 )
 print(f"  → {len(products)} total products fetched", file=sys.stderr)
@@ -161,7 +161,9 @@ for p in products:
     if oh == 0:
         continue  # skip OOS
 
-    price_gst = round(p["price"] * 1.15, 2)
+    # Use calculated_price (reflects sales/discounts) or fall back to price
+    price_base = p.get("calculated_price") or p.get("price", 0)
+    price_gst = round(price_base * 1.15, 2)
     url = "https://www.extremepc.co.nz" + p["custom_url"]["url"]
     brand = brands.get(p.get("brand_id"), "Unknown")
 
