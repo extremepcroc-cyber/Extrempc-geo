@@ -17,3 +17,4 @@ tools/category-*.json
 
 # Proxy lives in Hermes workspace (not in this repo)
 tools/exie-proxy.py
+tools/audit-geo-hermes.ps1
