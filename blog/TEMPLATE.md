@@ -34,7 +34,7 @@
 
 <hr>
 
-<h2 style="font-size:24px; font-weight:600; margin:48px 0 14px 0; color:#1a1a1a; border-bottom:2px solid #f0f0f0; padding-bottom:8px;">{第一个主要章节标题}</h2>
+<p style="font-size:24px; font-weight:700; margin:48px 0 14px 0; color:#1a1a1a; border-bottom:2px solid #f0f0f0; padding-bottom:8px; line-height:1.3;">{第一个主要章节标题}</p>
 
 <p style="margin:10px 0; line-height:1.7; color:#333;">{正文内容}</p>
 
@@ -62,7 +62,7 @@
 
 <hr>
 
-<h2 style="font-size:24px; font-weight:600; margin:48px 0 14px 0; color:#1a1a1a; border-bottom:2px solid #f0f0f0; padding-bottom:8px;">{场景分析章节}</h2>
+<p style="font-size:24px; font-weight:700; margin:48px 0 14px 0; color:#1a1a1a; border-bottom:2px solid #f0f0f0; padding-bottom:8px; line-height:1.3;">{场景分析章节}</p>
 
 <p style="margin:10px 0; line-height:1.7; color:#333;"><strong>{场景 1，例如：Budget under $800}</strong></p>
 <ul style="margin:6px 0 12px 20px; color:#333; line-height:1.8;">
@@ -77,7 +77,7 @@
 
 <hr>
 
-<h2 style="font-size:24px; font-weight:600; margin:48px 0 14px 0; color:#1a1a1a; border-bottom:2px solid #f0f0f0; padding-bottom:8px;">Which One Should You Choose?</h2>
+<p style="font-size:24px; font-weight:700; margin:48px 0 14px 0; color:#1a1a1a; border-bottom:2px solid #f0f0f0; padding-bottom:8px; line-height:1.3;">Which One Should You Choose?</p>
 
 <p style="margin:10px 0; line-height:1.7; color:#333;"><strong style="color:#3B6D11;">Choose {选项 B} if:</strong></p>
 <ul style="margin:6px 0 14px 20px; color:#333; line-height:1.8;">
@@ -98,7 +98,7 @@
 
 <hr>
 
-<h2 style="font-size:24px; font-weight:600; margin:48px 0 14px 0; color:#1a1a1a; border-bottom:2px solid #f0f0f0; padding-bottom:8px;">ExtremePC Recommendations</h2>
+<p style="font-size:24px; font-weight:700; margin:48px 0 14px 0; color:#1a1a1a; border-bottom:2px solid #f0f0f0; padding-bottom:8px; line-height:1.3;">ExtremePC Recommendations</p>
 
 <p style="margin:10px 0; line-height:1.7; color:#333;"><strong style="color:#3B6D11;">{推荐选项 1 名称}</strong></p>
 <pre style="background:#f5f5f5; padding:12px; border-radius:4px; font-size:13px; line-height:1.8; color:#333; margin:6px 0 14px 0;">{产品规格或配置清单}</pre>
@@ -108,14 +108,14 @@
 
 <hr>
 
-<h2 style="font-size:24px; font-weight:600; margin:48px 0 14px 0; color:#1a1a1a; border-bottom:2px solid #f0f0f0; padding-bottom:8px;">Final Thoughts</h2>
+<p style="font-size:24px; font-weight:700; margin:48px 0 14px 0; color:#1a1a1a; border-bottom:2px solid #f0f0f0; padding-bottom:8px; line-height:1.3;">Final Thoughts</p>
 
 <p style="margin:10px 0; line-height:1.7; color:#333;">{收尾段 — 总结核心判断，呼应开头的用户痛点}</p>
 
 <p style="margin:10px 0; line-height:1.7; color:#333;"><strong style="color:#3B6D11;">{结论句 A}</strong></p>
 <p style="margin:10px 0; line-height:1.7; color:#333;"><strong style="color:#185FA5;">{结论句 B}</strong></p>
 
-<p style="margin:10px 0; line-height:1.7; color:#333;">Both are available at ExtremePC. Come visit us in-store in Auckland or shop online at <a href="https://www.extremepc.co.nz" style="color:#0C447C;">extremepc.co.nz</a>.</p>
+<p style="margin:10px 0; line-height:1.7; color:#333;">Both are available at ExtremePC. Come visit us in-store in Auckland or shop online at extremepc.co.nz.</p>
 
 <hr>
 

@@ -16,7 +16,7 @@
 
 <hr>
 
-<h2 style="font-size:24px; font-weight:600; margin:48px 0 14px 0; color:#1a1a1a; border-bottom:2px solid #f0f0f0; padding-bottom:8px;">What Games Actually Use in 2026</h2>
+<p style="font-size:24px; font-weight:700; margin:48px 0 14px 0; color:#1a1a1a; border-bottom:2px solid #f0f0f0; padding-bottom:8px; line-height:1.3;">What Games Actually Use in 2026</p>
 
 <p style="margin:10px 0; line-height:1.7; color:#333;">A few years ago, 16GB was comfortably more than enough. That's shifted. Modern titles are increasingly memory-hungry, especially open-world games with large asset streaming.</p>
 
@@ -40,7 +40,7 @@
 
 <hr>
 
-<h2 style="font-size:24px; font-weight:600; margin:48px 0 14px 0; color:#1a1a1a; border-bottom:2px solid #f0f0f0; padding-bottom:8px;">16GB vs 32GB: Real-World Difference</h2>
+<p style="font-size:24px; font-weight:700; margin:48px 0 14px 0; color:#1a1a1a; border-bottom:2px solid #f0f0f0; padding-bottom:8px; line-height:1.3;">16GB vs 32GB: Real-World Difference</p>
 
 <table style="width:100%; border-collapse:collapse; font-size:14px; margin:10px 0;">
 <thead><tr>
@@ -81,7 +81,7 @@
 
 <hr>
 
-<h2 style="font-size:24px; font-weight:600; margin:48px 0 14px 0; color:#1a1a1a; border-bottom:2px solid #f0f0f0; padding-bottom:8px;">Does RAM Speed Matter for Gaming?</h2>
+<p style="font-size:24px; font-weight:700; margin:48px 0 14px 0; color:#1a1a1a; border-bottom:2px solid #f0f0f0; padding-bottom:8px; line-height:1.3;">Does RAM Speed Matter for Gaming?</p>
 
 <p style="margin:10px 0; line-height:1.7; color:#333;">Yes — but capacity comes first. A 32GB DDR5-5600 kit will outperform a 16GB DDR5-6400 kit in any scenario where the game pushes past 16GB. Once you're on 32GB, faster speeds (6000–6400 MHz) give a measurable but modest improvement, particularly on AMD Ryzen platforms where the memory controller is tightly coupled to the Infinity Fabric.</p>
 
@@ -89,7 +89,7 @@
 
 <hr>
 
-<h2 style="font-size:24px; font-weight:600; margin:48px 0 14px 0; color:#1a1a1a; border-bottom:2px solid #f0f0f0; padding-bottom:8px;">Should You Upgrade from 16GB?</h2>
+<p style="font-size:24px; font-weight:700; margin:48px 0 14px 0; color:#1a1a1a; border-bottom:2px solid #f0f0f0; padding-bottom:8px; line-height:1.3;">Should You Upgrade from 16GB?</p>
 
 <p style="margin:10px 0; line-height:1.7; color:#333;"><strong style="color:#3B6D11;">Stick with 16GB if:</strong></p>
 <ul style="margin:6px 0 14px 20px; color:#333; line-height:1.8;">
@@ -113,7 +113,7 @@
 
 <hr>
 
-<h2 style="font-size:24px; font-weight:600; margin:48px 0 14px 0; color:#1a1a1a; border-bottom:2px solid #f0f0f0; padding-bottom:8px;">ExtremePC Recommendations</h2>
+<p style="font-size:24px; font-weight:700; margin:48px 0 14px 0; color:#1a1a1a; border-bottom:2px solid #f0f0f0; padding-bottom:8px; line-height:1.3;">ExtremePC Recommendations</p>
 
 <p style="margin:10px 0; line-height:1.7; color:#333;"><strong style="color:#3B6D11;">Budget pick — 32GB DDR5 for most builds</strong></p>
 <pre style="background:#f5f5f5; padding:12px; border-radius:4px; font-size:13px; line-height:1.8; color:#333; margin:6px 0 14px 0;">Kingston Fury Beast 32GB DDR5-5600 (RAMGSKM5360RB)
@@ -125,7 +125,7 @@
 
 <hr>
 
-<h2 style="font-size:24px; font-weight:600; margin:48px 0 14px 0; color:#1a1a1a; border-bottom:2px solid #f0f0f0; padding-bottom:8px;">Final Thoughts</h2>
+<p style="font-size:24px; font-weight:700; margin:48px 0 14px 0; color:#1a1a1a; border-bottom:2px solid #f0f0f0; padding-bottom:8px; line-height:1.3;">Final Thoughts</p>
 
 <p style="margin:10px 0; line-height:1.7; color:#333;">Is 32GB overkill for gaming? In 2024 it arguably was. In 2026, it's the new sensible baseline — especially once you factor in background apps, modern open-world titles, and the way games are trending.</p>
 

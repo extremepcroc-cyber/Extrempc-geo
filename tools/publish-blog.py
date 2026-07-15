@@ -83,7 +83,7 @@ if not md_file.exists():
 
 # === Parse markdown file ===
 def parse_blog_md(path):
-    content = path.read_text(encoding="utf-8")
+    content = path.read_text(encoding="utf-8-sig")
 
     def extract_field(label):
         m = re.search(rf'\*\*{label}:\*\*\s*(.+)', content)
@@ -95,10 +95,17 @@ def parse_blog_md(path):
 
     # Body = everything after the --- separator
     parts = re.split(r'\n---\n', content, maxsplit=1)
-    body_md = parts[1].strip() if len(parts) > 1 else content
+    body_raw = parts[1].strip() if len(parts) > 1 else content
 
-    # Convert basic markdown to HTML (BC accepts HTML body)
-    body_html = md_to_html(body_md)
+    # Strip HTML comments (<!-- ... -->) before sending
+    body_raw = re.sub(r'<!--.*?-->', '', body_raw, flags=re.DOTALL).strip()
+
+    # If body is already HTML (starts with a tag), pass through directly.
+    # Only run md_to_html for plain markdown content.
+    if body_raw.lstrip().startswith('<'):
+        body_html = body_raw
+    else:
+        body_html = md_to_html(body_raw)
 
     # Extract slug from BC URL field
     url_field = extract_field("BC URL")
