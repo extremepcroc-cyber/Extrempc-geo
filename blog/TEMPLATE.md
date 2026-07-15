@@ -11,21 +11,59 @@
 ---
 
 <!--
-  发布命令：
-    python tools/publish-blog.py blog/{filename}.md
-    python tools/publish-blog.py blog/{filename}.md --draft
-    python tools/publish-blog.py blog/{filename}.md --update {BC post ID}
+  ╔══════════════════════════════════════════════════════╗
+  ║  EXTREMEPC BLOG TEMPLATE — 写作 + 样式速查手册      ║
+  ╚══════════════════════════════════════════════════════╝
 
-  写作规范（娜娜风格）：
+  发布命令：
+    python tools/publish-blog.py blog/{filename}.md --draft     ← 先草稿预览
+    python tools/publish-blog.py blog/{filename}.md --update {id} ← 更新已有帖子
+
+  ── 写作规范 ──────────────────────────────────────────
   1. 开头直接切入用户痛点，第二段引出 ExtremePC 顾问视角
   2. 必有对比表格，胜出项用蓝/绿高亮
   3. 场景化分析（按预算 / 分辨率 / 用途分别说）
-  4. TL;DR 和 bottom line 总结句
+  4. 每个章节末尾写 TL;DR 或 bottom line 一句话总结
   5. 结尾给明确推荐，不模棱两可
-  6. 内联 CSS，不依赖外部样式表
-  7. 链接规则：博文正文内禁止使用 <a href="..."> 超链接。
-     原因：BC 站内链接路径容易变动，外部链接无法验证，一律显示为纯文本。
-     唯一例外：Jimmy 人工确认可用的链接，写入时必须标注「已验证」。
+  6. 一篇只回答一个问题 — 不要把选题清单里的多个问题合并
+  7. 禁止 <a href="..."> 超链接（BC 链接经常 404）。
+     唯一例外：Jimmy 人工验证可用，写入时标注「已验证」。
+
+  ── BC 允许的标签 ─────────────────────────────────────
+  ✅ <p>  <strong>  <em>  <ul>/<li>  <table>/<tr>/<td>/<th>  <pre>  <hr>
+  ❌ <h1> <h2> <h3>  → BC 完全剥掉，用下面的「章节标题」<p> 替代
+  ❌ <a href="...">  → 禁止（见上）
+  ❌ <div> <span> <style> → 不可靠，避免使用
+
+  ── 样式速查 ──────────────────────────────────────────
+  正文段落:
+    <p style="margin:10px 0; line-height:1.7; color:#333;">
+
+  章节标题 (替代 h2):
+    <p style="font-size:24px; font-weight:700; margin:48px 0 14px 0; color:#1a1a1a; border-bottom:2px solid #f0f0f0; padding-bottom:8px; line-height:1.3;">
+
+  TL;DR / 小字注释:
+    <p style="margin:10px 0; line-height:1.7; color:#666; font-size:13px;">
+    <strong style="color:#333;">TL;DR:</strong> 内容
+
+  脚注 / 日期行:
+    <p style="margin:10px 0; line-height:1.7; color:#999; font-size:12px;"><em>内容</em></p>
+
+  代码块 / 产品规格:
+    <pre style="background:#f5f5f5; padding:12px; border-radius:4px; font-size:13px; line-height:1.8; color:#333; margin:6px 0 14px 0;">
+
+  ── 表格配色 ──────────────────────────────────────────
+  表头 — 属性列 (灰):  background:#f5f5f5; color:#555; border-bottom:1px solid #ddd
+  表头 — 选项 A (蓝):  background:#E6F1FB; color:#0C447C; border-bottom:1px solid #B5D4F4
+  表头 — 选项 B (绿):  background:#EAF3DE; color:#3B6D11; border-bottom:1px solid #C0DD97
+  普通单元格:          padding:8px 12px; border-bottom:1px solid #eee
+  胜出单元格 — 蓝:     background:#E6F1FB; font-weight:600; color:#185FA5
+  胜出单元格 — 绿:     background:#EAF3DE; font-weight:600; color:#3B6D11
+
+  ── 结论文字颜色 ──────────────────────────────────────
+  绿色结论 (推荐/胜出):  <strong style="color:#3B6D11;">
+  蓝色结论 (次选/说明):  <strong style="color:#185FA5;">
+  链接色 (纯文字提及):   color:#0C447C (仅用于文字，不加 <a> 标签)
 -->
 
 <p style="margin:10px 0; line-height:1.7; color:#333;">{开场白 — 直接点明用户痛点，1-2句话。}</p>
