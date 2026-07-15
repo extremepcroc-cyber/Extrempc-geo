@@ -124,7 +124,7 @@ products = get_all_pages(
     f"/catalog/products"
     f"?availability=available"
     f"&is_visible=true"
-    f"&include_fields=id,name,sku,price,calculated_price,brand_id,custom_url"
+    f"&include_fields=id,name,sku,price,calculated_price,brand_id,custom_url,categories"
     f"&include=custom_fields"
 )
 print(f"  → {len(products)} total products fetched", file=sys.stderr)
@@ -174,6 +174,7 @@ for p in products:
         "brand": brand,
         "price_nzd_inc_gst": price_gst,
         "url": url,
+        "categories": p.get("categories", []),
         "oh_stock": oh,
     }
 
