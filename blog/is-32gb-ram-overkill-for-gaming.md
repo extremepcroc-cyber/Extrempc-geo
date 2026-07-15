@@ -6,6 +6,7 @@
 **发布日期:** 2026-07-15
 **作者:** ExtremePC Team
 **Meta Description:** Is 32GB RAM overkill for gaming in 2026? We break down what games actually use, when 32GB matters, and whether it's worth upgrading from 16GB in NZ.
+**Thumbnail:** /product_images/uploaded_images/untitled-1.jpg
 **Tags:** RAM, Gaming, PC Build, Memory, New Zealand
 
 ---
