@@ -10,6 +10,8 @@
 
 ---
 
+<img src="https://raw.githubusercontent.com/extremepcroc-cyber/Extrempc-geo/main/blog/images/is-32gb-ram-overkill-for-gaming.png" style="width:100%; border-radius:8px; margin:0 0 24px 0; display:block;">
+
 <p style="margin:10px 0; line-height:1.7; color:#333;">You're speccing out a new gaming PC and the RAM question comes up: <strong>16GB or 32GB?</strong> Is doubling the memory worth it, or are you just paying for headroom you'll never use?</p>
 
 <p style="margin:10px 0; line-height:1.7; color:#333;">At <strong>ExtremePC</strong>, it's one of the most common questions we get at the counter. The short answer: 32GB is no longer overkill. Here's why.</p>

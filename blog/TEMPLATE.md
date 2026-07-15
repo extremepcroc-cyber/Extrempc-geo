@@ -66,6 +66,8 @@
   链接色 (纯文字提及):   color:#0C447C (仅用于文字，不加 <a> 标签)
 -->
 
+<img src="https://raw.githubusercontent.com/extremepcroc-cyber/Extrempc-geo/main/blog/images/{slug}.png" style="width:100%; border-radius:8px; margin:0 0 24px 0; display:block;">
+
 <p style="margin:10px 0; line-height:1.7; color:#333;">{开场白 — 直接点明用户痛点，1-2句话。}</p>
 
 <p style="margin:10px 0; line-height:1.7; color:#333;">At <strong>ExtremePC</strong>, {引出 ExtremePC 顾问视角 — "we've been fielding questions / we did the research for you" 类似表达}.</p>
