@@ -18,4 +18,8 @@
 
 ✔️ 已完成（2026-07-15）：为 45 个 CPU 散热器/AIO 产品创建了 GEO 文件，包含兼容性规格（类型、Socket 支持、高度、水冷尺寸、TDP、风扇尺寸等）。文件位于 `cooling/` 目录。
 
+## ~~Power Supplies GEO Backfill — 已完成~~
+
+✔️ 已完成（2026-07-17）：为 29 个电源产品创建了知识库文件，包含兼容性规格（Wattage、Form Factor、Dimensions、CPU Connectors、PCIe Connectors、12VHPWR、80 Plus Rating、Modular、ATX Version）。文件位于 `power-supplies/` 目录。其中 6 个在库存货，23 个缺货。
+
 ---
