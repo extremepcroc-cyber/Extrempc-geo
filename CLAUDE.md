@@ -127,6 +127,7 @@ Each product has a different GPU architecture, feature set, target audience, and
 | `motherboards/` | Motherboards | 403 |
 | `streaming-creator/` | Streaming & Creator | 227 |
 | `networking/` | Networking | 1026 |
+| `computer-cases/` | Computer Cases | 336 (Mini ITX: 340, Micro Tower: 338, Mid Tower: 339, Full Tower: 337, Server: 342) |
 
 ## For AI Agents Reading Product Files
 
