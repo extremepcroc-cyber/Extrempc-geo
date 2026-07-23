@@ -22,4 +22,12 @@
 
 ✔️ 已完成（2026-07-17）：为 29 个电源产品创建了知识库文件，包含兼容性规格（Wattage、Form Factor、Dimensions、CPU Connectors、PCIe Connectors、12VHPWR、80 Plus Rating、Modular、ATX Version）。文件位于 `power-supplies/` 目录。其中 6 个在库存货，23 个缺货。
 
+## ~~GPU GEO Backfill — 已完成~~
+
+✔️ 已完成（2026-07-19）：为 29 个显卡产品创建了知识库文件，包含兼容性规格（GPU 芯片组、Memory、Memory Bus、TDP、Recommended PSU、Power Connectors、Target Resolution、AIB Variant）。文件位于 `gpus/` 目录。覆盖 NVIDIA RTX 50 系列（5060/5060 Ti/5070/5070 Ti/5080/5090）、AMD RX 9000 系列（9060 XT/9070 XT）、Intel Arc B580，以及专业卡（RTX PRO 2000、RTX 2000 Ada、Radeon AI PRO R9700）。
+
+## ~~RAM GEO Backfill — 已完成~~
+
+✔️ 已完成（2026-07-19）：为 27 个内存产品创建了知识库文件，包含兼容性规格（Type、Form Factor、Capacity、Speed、Timings、Voltage、XMP/EXPO、RGB、ECC）。文件位于 `ram/` 目录。覆盖 DDR4 和 DDR5，Desktop U-DIMM 和 Laptop SO-DIMM，品牌包括 Whalekom、ADATA、PNY、HP、Predator、G.SKILL、Crucial、Netac、Kingston、Team。
+
 ---
