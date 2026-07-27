@@ -1,2 +1,3 @@
 ﻿# Enshrouded Gaming PC
-**SKU:** XPC1129  **Price:** \,499 inc GST
+**Price:** $4,899.00 inc GST
+**SKU:** XPC1129

@@ -1,6 +1,6 @@
 # Samsung 990 PRO 2TB PCIe Gen4 NVMe M.2 2280 SSD — MZ-V9P2T0BW
 
-**Price:** $829.00 inc GST
+**Price:** $899.00 inc GST
 **SKU:** SSDSAM990P2T
 **MPN:** MZ-V9P2T0BW
 **URL:** https://www.extremepc.co.nz/samsung-990-pro-2tb-pcie-4-0-nvme-m-2-2280-ssd-mz-v9p2t0bw/
@@ -118,7 +118,7 @@
   },
   "offers": {
     "@type": "Offer",
-    "price": "829.00",
+    "price": "899.00",
     "priceCurrency": "NZD",
     "availability": "https://schema.org/InStock",
     "url": "https://www.extremepc.co.nz/samsung-990-pro-2tb-pcie-4-0-nvme-m-2-2280-ssd-mz-v9p2t0bw/",

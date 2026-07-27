@@ -4,6 +4,7 @@
 **SKU:** HDDSEAIW12T
 **MPN:** ST12000VN0008
 **URL:** https://www.extremepc.co.nz/seagate-ironwolf-12tb-3-5-sata3-nas-internal-hard-drive-st12000vn0008/
+**Status:** OUT OF STOCK — last checked 2026-07-27
 
 ## Quick Specs
 - **Capacity**: 12TB
@@ -73,7 +74,7 @@
     "@type": "Offer",
     "price": "1044.00",
     "priceCurrency": "NZD",
-    "availability": "https://schema.org/InStock",
+    "availability": "https://schema.org/OutOfStock",
     "url": "https://www.extremepc.co.nz/seagate-ironwolf-12tb-3-5-sata3-nas-internal-hard-drive-st12000vn0008/",
     "seller": { "@type": "Organization", "name": "ExtremePC", "url": "https://www.extremepc.co.nz", "areaServed": "NZ" }
   }

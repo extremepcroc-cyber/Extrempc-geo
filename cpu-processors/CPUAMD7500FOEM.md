@@ -1,6 +1,6 @@
 # AMD Ryzen 5 7500F — 6 Core / 12 Thread AM5 OEM (no cooler, no integrated graphics)
 
-**Price:** $259.00 inc GST
+**Price:** $269.00 inc GST
 **SKU:** CPUAMD7500FOEM
 **MPN:** 100-000000597
 **URL:** https://www.extremepc.co.nz/amd-ryzen-5-7500f-cpu-6-core-12-thread-am5-socket-oem-without-cooler/
@@ -122,7 +122,7 @@
   },
   "offers": {
     "@type": "Offer",
-    "price": "259.00",
+    "price": "269.00",
     "priceCurrency": "NZD",
     "availability": "https://schema.org/InStock",
     "url": "https://www.extremepc.co.nz/amd-ryzen-5-7500f-cpu-6-core-12-thread-am5-socket-oem-without-cooler/",

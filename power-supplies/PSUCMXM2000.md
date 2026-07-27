@@ -4,6 +4,7 @@
 **SKU:** PSUCMXM2000
 **MPN:** MPS-K001-AFBP-NBAU
 **URL:** https://www.extremepc.co.nz/cooler-master-x-mighty-80-plus-platinum-2000w-atx-3-1-fully-modular-power-supply-mps-k001-afbp-nbau/
+**Status:** OUT OF STOCK — last checked 2026-07-27
 
 ## Quick Specs
 - **Wattage**: 2000W continuous output
@@ -109,7 +110,7 @@
     "@type": "Offer",
     "price": "788.00",
     "priceCurrency": "NZD",
-    "availability": "https://schema.org/InStock",
+    "availability": "https://schema.org/OutOfStock",
     "url": "https://www.extremepc.co.nz/cooler-master-x-mighty-80-plus-platinum-2000w-atx-3-1-fully-modular-power-supply-mps-k001-afbp-nbau/",
     "seller": {
       "@type": "Organization",

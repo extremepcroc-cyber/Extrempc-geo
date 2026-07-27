@@ -4,6 +4,7 @@
 **SKU:** HDDSYNHAT53012T
 **MPN:** HAT5300-12T
 **URL:** https://www.extremepc.co.nz/synology-hat5300-12tb-3-5-sata3-nas-hard-drive-hat5300-12t/
+**Status:** OUT OF STOCK — last checked 2026-07-27
 
 ## Quick Specs
 - **Capacity**: 12TB
@@ -79,7 +80,7 @@
     "@type": "Offer",
     "price": "1592.00",
     "priceCurrency": "NZD",
-    "availability": "https://schema.org/InStock",
+    "availability": "https://schema.org/OutOfStock",
     "url": "https://www.extremepc.co.nz/synology-hat5300-12tb-3-5-sata3-nas-hard-drive-hat5300-12t/",
     "seller": { "@type": "Organization", "name": "ExtremePC", "url": "https://www.extremepc.co.nz", "areaServed": "NZ" }
   }

@@ -4,6 +4,7 @@
 **SKU:** HDDSEAEX2020
 **MPN:** ST20000NM007D
 **URL:** https://www.extremepc.co.nz/seagate-exos-x20-20tb-3-5-sata3-enterprise-internal-hard-drive-st20000nm007d/
+**Status:** OUT OF STOCK — last checked 2026-07-27
 
 ## Quick Specs
 - **Capacity**: 20TB
@@ -80,7 +81,7 @@
     "@type": "Offer",
     "price": "895.00",
     "priceCurrency": "NZD",
-    "availability": "https://schema.org/InStock",
+    "availability": "https://schema.org/OutOfStock",
     "url": "https://www.extremepc.co.nz/seagate-exos-x20-20tb-3-5-sata3-enterprise-internal-hard-drive-st20000nm007d/",
     "seller": { "@type": "Organization", "name": "ExtremePC", "url": "https://www.extremepc.co.nz", "areaServed": "NZ" }
   }

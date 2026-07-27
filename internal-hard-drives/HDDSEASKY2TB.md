@@ -4,6 +4,7 @@
 **SKU:** HDDSEASKY2TB
 **MPN:** ST2000VX017
 **URL:** https://www.extremepc.co.nz/seagate-skyhawk-2tb-3-5-sata3-surveillance-internal-hard-drive-st2000vx017/
+**Status:** OUT OF STOCK — last checked 2026-07-27
 
 ## Quick Specs
 - **Capacity**: 2TB
@@ -110,7 +111,7 @@
     "@type": "Offer",
     "price": "124.99",
     "priceCurrency": "NZD",
-    "availability": "https://schema.org/InStock",
+    "availability": "https://schema.org/OutOfStock",
     "url": "https://www.extremepc.co.nz/seagate-skyhawk-2tb-3-5-sata3-surveillance-internal-hard-drive-st2000vx017/",
     "seller": { "@type": "Organization", "name": "ExtremePC", "url": "https://www.extremepc.co.nz", "areaServed": "NZ" }
   }

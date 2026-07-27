@@ -4,6 +4,7 @@
 **SKU:** HDDSYNHAT531018
 **MPN:** HAT5310-18T
 **URL:** https://www.extremepc.co.nz/synology-hat5310-18tb-3-5-sata3-nas-hard-drive-hat5310-18t/
+**Status:** OUT OF STOCK — last checked 2026-07-27
 
 ## Quick Specs
 - **Capacity**: 18TB
@@ -70,7 +71,7 @@
     "@type": "Offer",
     "price": "1739.00",
     "priceCurrency": "NZD",
-    "availability": "https://schema.org/InStock",
+    "availability": "https://schema.org/OutOfStock",
     "url": "https://www.extremepc.co.nz/synology-hat5310-18tb-3-5-sata3-nas-hard-drive-hat5310-18t/",
     "seller": { "@type": "Organization", "name": "ExtremePC", "url": "https://www.extremepc.co.nz", "areaServed": "NZ" }
   }

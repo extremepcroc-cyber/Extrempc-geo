@@ -4,6 +4,7 @@
 **SKU:** HDDWDSUPU1T
 **MPN:** WD10PURZ
 **URL:** https://www.extremepc.co.nz/wd-purple-1tb-3-5-sata3-intellipower-surveillance-hard-drive-wd10purz/
+**Status:** OUT OF STOCK — last checked 2026-07-27
 
 ## Quick Specs
 - **Capacity**: 1TB
@@ -77,7 +78,7 @@
     "@type": "Offer",
     "price": "312.00",
     "priceCurrency": "NZD",
-    "availability": "https://schema.org/InStock",
+    "availability": "https://schema.org/OutOfStock",
     "url": "https://www.extremepc.co.nz/wd-purple-1tb-3-5-sata3-intellipower-surveillance-hard-drive-wd10purz/",
     "seller": { "@type": "Organization", "name": "ExtremePC", "url": "https://www.extremepc.co.nz", "areaServed": "NZ" }
   }

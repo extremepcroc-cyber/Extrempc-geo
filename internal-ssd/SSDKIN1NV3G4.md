@@ -4,6 +4,7 @@
 **SKU:** SSDKIN1NV3G4
 **MPN:** SNV3S/1000G
 **URL:** https://www.extremepc.co.nz/kingston-nv3-1tb-m-2-nvme-internal-ssd-pcie-gen-4-up-to-6000mb-s-read-up-to-4000mb-s-write/
+**Status:** OUT OF STOCK — last checked 2026-07-27
 
 ## Quick Specs
 - **Capacity**: 1TB
@@ -116,7 +117,7 @@
     "@type": "Offer",
     "price": "329.00",
     "priceCurrency": "NZD",
-    "availability": "https://schema.org/InStock",
+    "availability": "https://schema.org/OutOfStock",
     "url": "https://www.extremepc.co.nz/kingston-nv3-1tb-m-2-nvme-internal-ssd-pcie-gen-4-up-to-6000mb-s-read-up-to-4000mb-s-write/",
     "seller": {
       "@type": "Organization",

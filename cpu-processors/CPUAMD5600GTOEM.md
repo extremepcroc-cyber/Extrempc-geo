@@ -1,10 +1,9 @@
 ﻿# AMD Ryzen 5 5600GT — 6 Core / 12 Thread AM4 OEM (no cooler, integrated graphics)
 
-**Price:** $349.00 inc GST
+**Price:** $329.00 inc GST
 **SKU:** CPUAMD5600GTOEM
 **MPN:** 100-000001488
 **URL:** https://www.extremepc.co.nz/amd-ryzen-5-5600gt-6-core-am4-3-60-ghz-unlocked-cpu-processor-oem-without-cooler-integrated-radeon-graphics/
-**Status:** OUT OF STOCK — last checked 2026-07-07
 
 ## Quick Specs
 - **Architecture**: Zen 3, 7nm TSMC process (refreshed launch 2024)
@@ -113,9 +112,9 @@
   },
   "offers": {
     "@type": "Offer",
-    "price": "349.00",
+    "price": "329.00",
     "priceCurrency": "NZD",
-    "availability": "https://schema.org/OutOfStock",
+    "availability": "https://schema.org/InStock",
     "url": "https://www.extremepc.co.nz/amd-ryzen-5-5600gt-6-core-am4-3-60-ghz-unlocked-cpu-processor-oem-without-cooler-integrated-radeon-graphics/",
     "seller": {
       "@type": "Organization",

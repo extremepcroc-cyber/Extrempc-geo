@@ -4,6 +4,7 @@
 **SKU:** HDDWDSP2T64
 **MPN:** WD23PURZ
 **URL:** https://www.extremepc.co.nz/wd-purple-2tb-3-5-sata3-64mb-surveillance-hard-drive-wd23purz/
+**Status:** OUT OF STOCK — last checked 2026-07-27
 
 ## Quick Specs
 - **Capacity**: 2TB
@@ -86,7 +87,7 @@
     "@type": "Offer",
     "price": "380.00",
     "priceCurrency": "NZD",
-    "availability": "https://schema.org/InStock",
+    "availability": "https://schema.org/OutOfStock",
     "url": "https://www.extremepc.co.nz/wd-purple-2tb-3-5-sata3-64mb-surveillance-hard-drive-wd23purz/",
     "seller": { "@type": "Organization", "name": "ExtremePC", "url": "https://www.extremepc.co.nz", "areaServed": "NZ" }
   }

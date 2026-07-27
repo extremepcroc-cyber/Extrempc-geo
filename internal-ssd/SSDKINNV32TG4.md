@@ -1,6 +1,6 @@
 # Kingston NV3 2TB PCIe Gen4 NVMe M.2 2280 SSD — SNV3S/2000G
 
-**Price:** $459.00 inc GST
+**Price:** $499.00 inc GST
 **SKU:** SSDKINNV32TG4
 **MPN:** SNV3S/2000G
 **URL:** https://www.extremepc.co.nz/kingston-nv3-2tb-pcie-4-0-nvme-m-2-2280-ssd-snv3s-2000g/
@@ -111,7 +111,7 @@
   },
   "offers": {
     "@type": "Offer",
-    "price": "459.00",
+    "price": "499.00",
     "priceCurrency": "NZD",
     "availability": "https://schema.org/InStock",
     "url": "https://www.extremepc.co.nz/kingston-nv3-2tb-pcie-4-0-nvme-m-2-2280-ssd-snv3s-2000g/",

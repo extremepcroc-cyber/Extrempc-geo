@@ -4,6 +4,7 @@
 **SKU:** HDDSEAIW10T
 **MPN:** ST10000VN0008
 **URL:** https://www.extremepc.co.nz/seagate-ironwolf-10tb-3-5-sata3-nas-internal-hard-drive-st10000vn0008/
+**Status:** OUT OF STOCK — last checked 2026-07-27
 
 ## Quick Specs
 - **Capacity**: 10TB
@@ -85,7 +86,7 @@
     "@type": "Offer",
     "price": "1015.00",
     "priceCurrency": "NZD",
-    "availability": "https://schema.org/InStock",
+    "availability": "https://schema.org/OutOfStock",
     "url": "https://www.extremepc.co.nz/seagate-ironwolf-10tb-3-5-sata3-nas-internal-hard-drive-st10000vn0008/",
     "seller": { "@type": "Organization", "name": "ExtremePC", "url": "https://www.extremepc.co.nz", "areaServed": "NZ" }
   }

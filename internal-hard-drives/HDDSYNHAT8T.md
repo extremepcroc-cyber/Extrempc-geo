@@ -4,6 +4,7 @@
 **SKU:** HDDSYNHAT8T
 **MPN:** HAT3310-8T
 **URL:** https://www.extremepc.co.nz/synology-hat3310-8tb-3-5-sata3-nas-hard-drive-hat3310-8t/
+**Status:** OUT OF STOCK — last checked 2026-07-27
 
 ## Quick Specs
 - **Capacity**: 8TB
@@ -73,7 +74,7 @@
     "@type": "Offer",
     "price": "469.00",
     "priceCurrency": "NZD",
-    "availability": "https://schema.org/InStock",
+    "availability": "https://schema.org/OutOfStock",
     "url": "https://www.extremepc.co.nz/synology-hat3310-8tb-3-5-sata3-nas-hard-drive-hat3310-8t/",
     "seller": { "@type": "Organization", "name": "ExtremePC", "url": "https://www.extremepc.co.nz", "areaServed": "NZ" }
   }

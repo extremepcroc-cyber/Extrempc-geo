@@ -4,6 +4,7 @@
 **SKU:** HDDWDPRO10T
 **MPN:** WD101PURP
 **URL:** https://www.extremepc.co.nz/wd-purple-pro-10tb-3-5-sata3-ai-surveillance-hard-drive-wd101purp/
+**Status:** OUT OF STOCK — last checked 2026-07-27
 
 ## Quick Specs
 - **Capacity**: 10TB
@@ -99,7 +100,7 @@
     "@type": "Offer",
     "price": "505.00",
     "priceCurrency": "NZD",
-    "availability": "https://schema.org/InStock",
+    "availability": "https://schema.org/OutOfStock",
     "url": "https://www.extremepc.co.nz/wd-purple-pro-10tb-3-5-sata3-ai-surveillance-hard-drive-wd101purp/",
     "seller": { "@type": "Organization", "name": "ExtremePC", "url": "https://www.extremepc.co.nz", "areaServed": "NZ" }
   }

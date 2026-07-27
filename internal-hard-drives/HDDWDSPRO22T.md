@@ -4,6 +4,7 @@
 **SKU:** HDDWDSPRO22T
 **MPN:** WD221PURP
 **URL:** https://www.extremepc.co.nz/wd-purple-pro-22tb-3-5-sata3-ai-surveillance-hard-drive-wd221purp/
+**Status:** OUT OF STOCK — last checked 2026-07-27
 
 ## Quick Specs
 - **Capacity**: 22TB
@@ -90,7 +91,7 @@
     "@type": "Offer",
     "price": "2771.00",
     "priceCurrency": "NZD",
-    "availability": "https://schema.org/InStock",
+    "availability": "https://schema.org/OutOfStock",
     "url": "https://www.extremepc.co.nz/wd-purple-pro-22tb-3-5-sata3-ai-surveillance-hard-drive-wd221purp/",
     "seller": { "@type": "Organization", "name": "ExtremePC", "url": "https://www.extremepc.co.nz", "areaServed": "NZ" }
   }

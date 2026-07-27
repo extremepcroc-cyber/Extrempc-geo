@@ -4,6 +4,7 @@
 **SKU:** HDDWDHC52012T
 **MPN:** HUH721212ALE604
 **URL:** https://www.extremepc.co.nz/wd-ultrastar-dc-hc520-12tb-3-5-sata3-enterprise-hard-drive-huh721212ale604/
+**Status:** OUT OF STOCK — last checked 2026-07-27
 
 ## Quick Specs
 - **Capacity**: 12TB
@@ -93,7 +94,7 @@
     "@type": "Offer",
     "price": "645.00",
     "priceCurrency": "NZD",
-    "availability": "https://schema.org/InStock",
+    "availability": "https://schema.org/OutOfStock",
     "url": "https://www.extremepc.co.nz/wd-ultrastar-dc-hc520-12tb-3-5-sata3-enterprise-hard-drive-huh721212ale604/",
     "seller": { "@type": "Organization", "name": "ExtremePC", "url": "https://www.extremepc.co.nz", "areaServed": "NZ" }
   }

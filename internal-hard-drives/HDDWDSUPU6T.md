@@ -4,7 +4,7 @@
 **SKU:** HDDWDSUPU6T
 **MPN:** WD60PURZ
 **URL:** https://www.extremepc.co.nz/wd-purple-6tb-3-5-sata3-surveillance-hard-drive-wd60purz/
-**Status:** OUT OF STOCK — last checked 2026-07-07
+**Status:** OUT OF STOCK — last checked 2026-07-27
 
 ## Quick Specs
 - **Capacity**: 6TB
@@ -85,7 +85,7 @@
     "@type": "Offer",
     "price": "752.00",
     "priceCurrency": "NZD",
-    "availability": "https://schema.org/OutOfStock",
+    "availability": "https://schema.org/OutOfStock"
     "url": "https://www.extremepc.co.nz/wd-purple-6tb-3-5-sata3-surveillance-hard-drive-wd60purz/",
     "seller": { "@type": "Organization", "name": "ExtremePC", "url": "https://www.extremepc.co.nz", "areaServed": "NZ" }
   }

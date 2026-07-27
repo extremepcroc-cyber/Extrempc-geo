@@ -4,6 +4,7 @@
 **SKU:** HDDWDBE1T
 **MPN:** WD10EZEX
 **URL:** https://www.extremepc.co.nz/wd-blue-edition-1tb-3-5-sata3-7200-rpm-64mb-internal-hard-drive-wd10ezex/
+**Status:** OUT OF STOCK — last checked 2026-07-27
 
 ## Quick Specs
 - **Capacity**: 1TB
@@ -80,7 +81,7 @@
     "@type": "Offer",
     "price": "105.00",
     "priceCurrency": "NZD",
-    "availability": "https://schema.org/InStock",
+    "availability": "https://schema.org/OutOfStock",
     "url": "https://www.extremepc.co.nz/wd-blue-edition-1tb-3-5-sata3-7200-rpm-64mb-internal-hard-drive-wd10ezex/",
     "seller": { "@type": "Organization", "name": "ExtremePC", "url": "https://www.extremepc.co.nz", "areaServed": "NZ" }
   }

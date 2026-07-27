@@ -4,6 +4,7 @@
 **SKU:** GPUASU5070PO12
 **MPN:** PRIME-RTX5070-O12G
 **URL:** https://www.extremepc.co.nz/asus-prime-geforce-rtx-5070-12gb-gddr7-oc-edition-graphics-card/
+**Status:** OUT OF STOCK — last checked 2026-07-27
 
 ## Quick Specs
 - **GPU**: NVIDIA GeForce RTX 5070 (Blackwell architecture)
@@ -126,7 +127,7 @@
     "@type": "Offer",
     "price": "1449.00",
     "priceCurrency": "NZD",
-    "availability": "https://schema.org/InStock",
+    "availability": "https://schema.org/OutOfStock",
     "url": "https://www.extremepc.co.nz/asus-prime-geforce-rtx-5070-12gb-gddr7-oc-edition-graphics-card/",
     "seller": {
       "@type": "Organization",

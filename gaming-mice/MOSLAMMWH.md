@@ -2,7 +2,8 @@
 
 **Price:** $199.00 inc GST
 **SKU:** MOSLAMMWH
-**Stock:** 2 units in stock
+**URL:** https://www.extremepc.co.nz/search/?q=MOSLAMMWH
+**Status:** OUT OF STOCK — last checked 2026-07-27
 
 ## Quick Specs
 - Lightweight gaming mouse design
@@ -37,7 +38,7 @@
     "@type": "Offer",
     "price": "199.00",
     "priceCurrency": "NZD",
-    "availability": "https://schema.org/OutOfStock",
+    "availability": "https://schema.org/OutOfStock"
     "url": "https://www.extremepc.co.nz/search/?q=MOSLAMMWH"
   }
 }

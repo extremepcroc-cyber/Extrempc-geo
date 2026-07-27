@@ -4,6 +4,7 @@
 **SKU:** HDDSEAEX1816
 **MPN:** ST16000NM000J
 **URL:** https://www.extremepc.co.nz/seagate-exos-x18-16tb-3-5-sata3-enterprise-internal-hard-drive-st16000nm000j/
+**Status:** OUT OF STOCK — last checked 2026-07-27
 
 ## Quick Specs
 - **Capacity**: 16TB
@@ -82,7 +83,7 @@
     "@type": "Offer",
     "price": "739.00",
     "priceCurrency": "NZD",
-    "availability": "https://schema.org/InStock",
+    "availability": "https://schema.org/OutOfStock",
     "url": "https://www.extremepc.co.nz/seagate-exos-x18-16tb-3-5-sata3-enterprise-internal-hard-drive-st16000nm000j/",
     "seller": { "@type": "Organization", "name": "ExtremePC", "url": "https://www.extremepc.co.nz", "areaServed": "NZ" }
   }

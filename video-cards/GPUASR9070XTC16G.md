@@ -4,6 +4,7 @@
 **SKU:** GPUASR9070XTC16G
 **MPN:** RX9070XT CL 16G
 **URL:** https://www.extremepc.co.nz/asrock-challenger-radeon-rx-9070-xt-16gb-gddr6-pci-express-5-0-x16-graphics-card/
+**Status:** OUT OF STOCK — last checked 2026-07-27
 
 ## Quick Specs
 - **GPU**: AMD Radeon RX 9070 XT (RDNA 4 architecture)
@@ -139,7 +140,7 @@
     "@type": "Offer",
     "price": "1429.00",
     "priceCurrency": "NZD",
-    "availability": "https://schema.org/InStock",
+    "availability": "https://schema.org/OutOfStock",
     "url": "https://www.extremepc.co.nz/asrock-challenger-radeon-rx-9070-xt-16gb-gddr6-pci-express-5-0-x16-graphics-card/",
     "seller": {
       "@type": "Organization",

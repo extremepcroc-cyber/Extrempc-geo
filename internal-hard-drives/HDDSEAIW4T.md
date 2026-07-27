@@ -4,6 +4,7 @@
 **SKU:** HDDSEAIW4T
 **MPN:** ST4000VN006
 **URL:** https://www.extremepc.co.nz/seagate-ironwolf-4tb-3-5-sata3-nas-internal-hard-drive-st4000vn006/
+**Status:** OUT OF STOCK — last checked 2026-07-27
 
 ## Quick Specs
 - **Capacity**: 4TB
@@ -108,7 +109,7 @@
     "@type": "Offer",
     "price": "549.00",
     "priceCurrency": "NZD",
-    "availability": "https://schema.org/InStock",
+    "availability": "https://schema.org/OutOfStock",
     "url": "https://www.extremepc.co.nz/seagate-ironwolf-4tb-3-5-sata3-nas-internal-hard-drive-st4000vn006/",
     "seller": {
       "@type": "Organization",

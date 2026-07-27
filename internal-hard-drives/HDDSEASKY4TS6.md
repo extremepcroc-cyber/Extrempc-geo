@@ -1,6 +1,6 @@
 ﻿# Seagate SkyHawk 4TB 3.5" SATA3 Surveillance Internal Hard Drive ST4000VX016
 
-**Price:** $459.00 inc GST
+**Price:** $439.00 inc GST
 **SKU:** HDDSEASKY4TS6
 **MPN:** ST4000VX016
 **URL:** https://www.extremepc.co.nz/seagate-skyhawk-4tb-3-5-sata3-surveillance-internal-hard-drive-st4000vx016/
@@ -78,7 +78,7 @@
   "description": "Seagate SkyHawk 4TB 3.5\" SATA3 surveillance HDD. ImagePerfect firmware, 64 HD streams, 180 TB/year workload. For 8–16 camera CCTV systems with 20–30 day retention target. 3-year Seagate warranty via ExtremePC NZ.",
   "offers": {
     "@type": "Offer",
-    "price": "199.00",
+    "price": "439.00",
     "priceCurrency": "NZD",
     "availability": "https://schema.org/InStock",
     "url": "https://www.extremepc.co.nz/seagate-skyhawk-4tb-3-5-sata3-surveillance-internal-hard-drive-st4000vx016/",

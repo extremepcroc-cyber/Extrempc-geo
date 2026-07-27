@@ -4,6 +4,7 @@
 **SKU:** HDDSEABC4T35
 **MPN:** ST4000DM004
 **URL:** https://www.extremepc.co.nz/seagate-barracuda-4tb-3-5-sata3-5400-rpm-256mb-internal-hard-drive-st4000dm004/
+**Status:** OUT OF STOCK — last checked 2026-07-27
 
 ## Quick Specs
 - **Capacity**: 4TB
@@ -87,7 +88,7 @@
     "@type": "Offer",
     "price": "429.00",
     "priceCurrency": "NZD",
-    "availability": "https://schema.org/InStock",
+    "availability": "https://schema.org/OutOfStock",
     "url": "https://www.extremepc.co.nz/seagate-barracuda-4tb-3-5-sata3-5400-rpm-256mb-internal-hard-drive-st4000dm004/",
     "seller": { "@type": "Organization", "name": "ExtremePC", "url": "https://www.extremepc.co.nz", "areaServed": "NZ" }
   }

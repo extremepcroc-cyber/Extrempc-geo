@@ -4,6 +4,7 @@
 **SKU:** HDDWDSP3T256
 **MPN:** WD30PURZ
 **URL:** https://www.extremepc.co.nz/wd-purple-3tb-3-5-sata3-256mb-surveillance-hard-drive-wd30purz/
+**Status:** OUT OF STOCK — last checked 2026-07-27
 
 ## Quick Specs
 - **Capacity**: 3TB
@@ -74,7 +75,7 @@
     "@type": "Offer",
     "price": "491.00",
     "priceCurrency": "NZD",
-    "availability": "https://schema.org/InStock",
+    "availability": "https://schema.org/OutOfStock",
     "url": "https://www.extremepc.co.nz/wd-purple-3tb-3-5-sata3-256mb-surveillance-hard-drive-wd30purz/",
     "seller": { "@type": "Organization", "name": "ExtremePC", "url": "https://www.extremepc.co.nz", "areaServed": "NZ" }
   }

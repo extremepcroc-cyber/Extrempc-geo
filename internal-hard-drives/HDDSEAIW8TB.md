@@ -4,6 +4,7 @@
 **SKU:** HDDSEAIW8TB
 **MPN:** ST8000VN004
 **URL:** https://www.extremepc.co.nz/seagate-ironwolf-8tb-3-5-sata3-nas-internal-hard-drive-st8000vn004/
+**Status:** OUT OF STOCK — last checked 2026-07-27
 
 ## Quick Specs
 - **Capacity**: 8TB
@@ -101,7 +102,7 @@
     "@type": "Offer",
     "price": "699.00",
     "priceCurrency": "NZD",
-    "availability": "https://schema.org/InStock",
+    "availability": "https://schema.org/OutOfStock",
     "url": "https://www.extremepc.co.nz/seagate-ironwolf-8tb-3-5-sata3-nas-internal-hard-drive-st8000vn004/",
     "seller": { "@type": "Organization", "name": "ExtremePC", "url": "https://www.extremepc.co.nz", "areaServed": "NZ" }
   }

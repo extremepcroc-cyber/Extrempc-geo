@@ -4,6 +4,7 @@
 **SKU:** HDDSEAIWP8T
 **MPN:** ST8000NE001
 **URL:** https://www.extremepc.co.nz/seagate-ironwolf-pro-8tb-3-5-sata3-nas-internal-hard-drive-st8000ne001/
+**Status:** OUT OF STOCK — last checked 2026-07-27
 
 ## Quick Specs
 - **Capacity**: 8TB
@@ -91,7 +92,7 @@
     "@type": "Offer",
     "price": "964.99",
     "priceCurrency": "NZD",
-    "availability": "https://schema.org/InStock",
+    "availability": "https://schema.org/OutOfStock",
     "url": "https://www.extremepc.co.nz/seagate-ironwolf-pro-8tb-3-5-sata3-nas-internal-hard-drive-st8000ne001/",
     "seller": { "@type": "Organization", "name": "ExtremePC", "url": "https://www.extremepc.co.nz", "areaServed": "NZ" }
   }

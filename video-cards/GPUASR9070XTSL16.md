@@ -1,6 +1,6 @@
 ﻿# ASRock AMD Radeon RX 9070 XT STEEL LEGEND 16GB GDDR6 Graphics Card
 
-**Price:** $1479.00 inc GST
+**Price:** $1449.00 inc GST
 **SKU:** GPUASR9070XTSL16
 **MPN:** RX9070XT SL 16G
 **URL:** https://www.extremepc.co.nz/asrock-radeon-rx-9070-xt-16gb-steel-legend-graphics-card-1/
@@ -134,7 +134,7 @@
   },
   "offers": {
     "@type": "Offer",
-    "price": "1479.00",
+    "price": "1449.00",
     "priceCurrency": "NZD",
     "availability": "https://schema.org/InStock",
     "url": "https://www.extremepc.co.nz/asrock-radeon-rx-9070-xt-16gb-steel-legend-graphics-card-1/",

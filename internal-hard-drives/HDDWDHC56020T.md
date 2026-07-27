@@ -4,6 +4,7 @@
 **SKU:** HDDWDHC56020T
 **MPN:** WUH722020ALE6L4
 **URL:** https://www.extremepc.co.nz/wd-ultrastar-dc-hc560-20tb-3-5-sata3-enterprise-hard-drive-wuh722020ale6l4/
+**Status:** OUT OF STOCK — last checked 2026-07-27
 
 ## Quick Specs
 - **Capacity**: 20TB
@@ -93,7 +94,7 @@
     "@type": "Offer",
     "price": "1877.00",
     "priceCurrency": "NZD",
-    "availability": "https://schema.org/InStock",
+    "availability": "https://schema.org/OutOfStock",
     "url": "https://www.extremepc.co.nz/wd-ultrastar-dc-hc560-20tb-3-5-sata3-enterprise-hard-drive-wuh722020ale6l4/",
     "seller": { "@type": "Organization", "name": "ExtremePC", "url": "https://www.extremepc.co.nz", "areaServed": "NZ" }
   }

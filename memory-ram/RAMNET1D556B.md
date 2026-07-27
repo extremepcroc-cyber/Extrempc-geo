@@ -5,6 +5,7 @@
 **SKU:** RAMNET1D556B
 **MPN:** NTBSD5P56SP-16
 **URL:** https://www.extremepc.co.nz/netac-basic-16gb-ddr5-5600-cl46-desktop-ram-black/
+**Status:** OUT OF STOCK — last checked 2026-07-27
 
 ## Quick Specs
 - **Capacity**: 16GB single stick
@@ -128,7 +129,7 @@
     "@type": "Offer",
     "price": "299.00",
     "priceCurrency": "NZD",
-    "availability": "https://schema.org/InStock",
+    "availability": "https://schema.org/OutOfStock",
     "url": "https://www.extremepc.co.nz/netac-basic-16gb-ddr5-5600-cl46-desktop-ram-black/",
     "seller": {
       "@type": "Organization",

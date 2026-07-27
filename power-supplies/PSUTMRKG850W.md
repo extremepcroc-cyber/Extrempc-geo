@@ -4,6 +4,7 @@
 **SKU:** PSUTMRKG850W
 **MPN:** TR-KG850W
 **URL:** https://www.extremepc.co.nz/thermalright-tr-kg850w-850w-atx3-1-80-plus-gold-fully-modular-power-supply-white/
+**Status:** OUT OF STOCK — last checked 2026-07-27
 
 ## Quick Specs
 - **Wattage**: 850W continuous output
@@ -105,7 +106,7 @@
     "@type": "Offer",
     "price": "179.00",
     "priceCurrency": "NZD",
-    "availability": "https://schema.org/InStock",
+    "availability": "https://schema.org/OutOfStock",
     "url": "https://www.extremepc.co.nz/thermalright-tr-kg850w-850w-atx3-1-80-plus-gold-fully-modular-power-supply-white/",
     "seller": {
       "@type": "Organization",

@@ -4,6 +4,7 @@
 **SKU:** HDDWDRPLUS8T
 **MPN:** WD80EFPX
 **URL:** https://www.extremepc.co.nz/wd-red-plus-8tb-3-5-sata3-nas-hard-drive-wd80efpx/
+**Status:** OUT OF STOCK — last checked 2026-07-27
 
 ## Quick Specs
 - **Capacity**: 8TB
@@ -84,7 +85,7 @@
     "@type": "Offer",
     "price": "997.00",
     "priceCurrency": "NZD",
-    "availability": "https://schema.org/InStock",
+    "availability": "https://schema.org/OutOfStock",
     "url": "https://www.extremepc.co.nz/wd-red-plus-8tb-3-5-sata3-nas-hard-drive-wd80efpx/",
     "seller": { "@type": "Organization", "name": "ExtremePC", "url": "https://www.extremepc.co.nz", "areaServed": "NZ" }
   }
