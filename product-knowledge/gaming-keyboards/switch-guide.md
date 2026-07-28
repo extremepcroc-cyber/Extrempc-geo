@@ -5,6 +5,70 @@
 
 ---
 
+## HE vs Traditional Mechanical — Key Differences
+
+### How Traditional Mechanical Switches Work
+
+Two metal contacts inside the switch touch each other when the key is pressed down far enough — that contact completes the circuit and registers the keypress. When you release, a spring pushes the key back up and the contacts separate.
+
+**Limitations:**
+- Fixed actuation point — the keypress only registers at one specific depth (e.g. 2.0mm). The key must physically return past that point before it can register again.
+- Contact wear — metal-on-metal contact oxidises and degrades over time. Industry rating: 50–100 million keystrokes.
+- Binary input — the switch is either on or off. No analog position data.
+
+### How Hall Effect (HE / Magnetic) Switches Work
+
+No metal contacts. The switch contains a small magnet. A Hall Effect sensor beneath it continuously reads the magnetic field strength, converting key position into an analog signal (0–100% of travel depth) at all times.
+
+**What this enables:**
+
+| Feature | Traditional Mechanical | Hall Effect |
+|---|---|---|
+| Actuation point | Fixed (e.g. 2.0mm) | Adjustable 0.1–4.0mm via software |
+| Re-actuation | Must return past reset point (~1.8mm) | Re-actuates after any movement ≥ 0.1mm (Rapid Trigger) |
+| Input type | Digital (on/off) | Analog (continuous position) |
+| Lifespan | 50–100M keystrokes | No wear mechanism — indefinite |
+| Consistency over time | Contacts degrade | Magnetic sensor doesn't change |
+
+### Rapid Trigger — The Competitive Advantage
+
+Traditional switch: press → actuate at 2.0mm → release → key must travel back to ~1.8mm reset point before it can actuate again. In fast games, this reset distance costs time.
+
+HE switch with Rapid Trigger enabled: press → actuate → release by 0.1mm → ready to actuate again immediately. No fixed reset point. The key responds to the direction of movement, not a position threshold.
+
+**Real-world impact in CS2 / Valorant:**
+- Counter-strafing (tap opposite direction to stop momentum): HE keys reset the instant you start moving the other direction. Traditional keys require full reset travel first.
+- Bunny hopping: jump key re-registers as soon as it starts moving up, not after returning to reset point.
+- Movement control is faster and more consistent.
+
+### Lifespan — Customer Talking Points
+
+**Short version:**
+> Hall Effect switches use magnets instead of metal contacts — there's nothing to wear out, so they last the lifetime of the keyboard.
+
+**With comparison:**
+> Standard mechanical switches are rated for 50–100 million keystrokes before the contacts start to degrade. Hall Effect switches don't have contacts at all — the keypress is detected magnetically, so there's no wear mechanism. For a keyboard you're planning to keep long-term, that's a meaningful difference.
+
+**Most conversational (chat/customer service):**
+> Because there are no metal contacts inside, the switch literally can't wear out from use. Most mechanical switches are rated to around 50–100 million keypresses — HE switches don't have that ceiling.
+
+### When to Recommend HE over Traditional
+
+Recommend HE when the customer mentions:
+- CS2, Valorant, competitive FPS gaming
+- Rapid Trigger by name
+- Counter-strafing, bunny hopping, fast key re-press
+- Wanting a keyboard that lasts many years without degrading
+- Budget $99+ (AULA WIN68 HE is the entry point in our range)
+
+Recommend Traditional when:
+- Budget under $99
+- Primarily typing / office use (Rapid Trigger irrelevant)
+- Casual gaming (RPG, MMO, single-player) where reaction-speed advantage doesn't apply
+- Customer specifically wants a particular switch feel (e.g. clicky blue) not available in HE
+
+---
+
 ## Switch Families Overview
 
 ### 1. Hall Effect / Magnetic (HE) Switches
@@ -12,7 +76,7 @@
 Analog magnetic input — no physical contact, no fixed actuation point.
 Key advantage: **Rapid Trigger** (re-actuation from as low as 0.1mm on key release).
 Competitive gaming use: CS2, Valorant counter-strafing is faster than any traditional mechanical switch.
-Lifespan: theoretically unlimited (no metal contact wear).
+Lifespan: indefinite — no metal contacts to wear out.
 
 **Sub-types:**
 
