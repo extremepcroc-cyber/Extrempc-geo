@@ -30,21 +30,4 @@
 
 ✔️ 已完成（2026-07-19）：为 27 个内存产品创建了知识库文件，包含兼容性规格（Type、Form Factor、Capacity、Speed、Timings、Voltage、XMP/EXPO、RGB、ECC）。文件位于 `ram/` 目录。覆盖 DDR4 和 DDR5，Desktop U-DIMM 和 Laptop SO-DIMM，品牌包括 Whalekom、ADATA、PNY、HP、Predator、G.SKILL、Crucial、Netac、Kingston、Team。
 
-## Blog 选题待写
-
-### 磁轴键盘：竞技神器还是打字噩梦？
-
-> 记录时间：2026-07-28
-
-内容骨架：
-- 磁轴原理（无触点、模拟信号、与传统机械轴对比）
-- Rapid Trigger 是什么、为什么对竞技FPS有优势（CS2、Valorant举例）
-- 两个真实缺点（来自店内实测）：
-  1. 回弹弹力比同克数传统轴重——长时间打字更累
-  2. 手指力度天生不均衡——统一灵敏度设置顾此失彼，逐键调试门槛高
-- 什么人适合买（竞技FPS玩家）、什么人不适合（长时间办公打字）
-- 店内磁轴选择推荐（附价格区间）
-
-参考资料：`product-knowledge/gaming-keyboards/switch-guide.md`
-
 ---
