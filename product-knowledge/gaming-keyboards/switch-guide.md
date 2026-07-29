@@ -52,6 +52,35 @@ HE switch with Rapid Trigger enabled: press → actuate → release by 0.1mm →
 **Most conversational (chat/customer service):**
 > Because there are no metal contacts inside, the switch literally can't wear out from use. Most mechanical switches are rated to around 50–100 million keypresses — HE switches don't have that ceiling.
 
+### HE Real-World Limitations (from in-store testing)
+
+**1. Return spring is heavier than equivalent traditional switches**
+
+HE switches require a stronger spring to overcome the magnetic pull between the magnet and sensor. A switch rated "35g actuation" on an HE keyboard feels heavier in practice than a traditional 35g switch because the spring must fight the magnet on the way back up. For long typing sessions (4–8 hours), this causes more hand fatigue than a comparably-rated traditional linear switch.
+
+Customer talking point:
+> Hall Effect keyboards tend to have a heavier return spring than traditional switches — the magnet creates resistance the spring has to overcome. If you type for long sessions, it can feel more fatiguing than a light linear like a red switch.
+
+**2. Finger strength is not uniform — one sensitivity setting doesn't fit all keys**
+
+Every person's fingers have different natural strength:
+- Index and middle fingers are strongest
+- Ring finger and pinky are significantly weaker
+- Left and right hand strength also differs
+
+Traditional mechanical switches use a physical spring to "equalise" this — every key requires the same force, and fingers adapt naturally over time.
+
+HE switches expose this imbalance. Because actuation is analog and sensitivity is set globally:
+- Set sensitivity too high (low actuation force) → weak fingers (ring/pinky) accidentally trigger keys, causing mistyping
+- Set sensitivity too low (high actuation force) → strong fingers feel fine but weak fingers have to work harder, causing fatigue
+
+**The solution** — per-key actuation point adjustment — is available in most HE keyboard software, but requires testing each finger's natural press force individually and tuning each key. This is a time-consuming process that most non-enthusiast users will not do.
+
+**Practical implication:** HE keyboards work best for competitive gaming (where Rapid Trigger matters and finger fatigue is short-session) rather than all-day typing (where fatigue and per-finger sensitivity mismatch accumulates over hours).
+
+Customer talking point:
+> Hall Effect keyboards expose the natural difference in finger strength — one sensitivity setting rarely works perfectly for all fingers. Fine-tuning per-key actuation helps, but takes time and patience. For all-day typing, a traditional light linear switch is often more comfortable.
+
 ### When to Recommend HE over Traditional
 
 Recommend HE when the customer mentions:
@@ -64,6 +93,7 @@ Recommend HE when the customer mentions:
 Recommend Traditional when:
 - Budget under $99
 - Primarily typing / office use (Rapid Trigger irrelevant)
+- All-day typing (4–8 hours) — HE return spring fatigue and per-finger sensitivity mismatch add up
 - Casual gaming (RPG, MMO, single-player) where reaction-speed advantage doesn't apply
 - Customer specifically wants a particular switch feel (e.g. clicky blue) not available in HE
 
