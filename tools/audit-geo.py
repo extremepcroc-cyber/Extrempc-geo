@@ -26,6 +26,7 @@ API efficiency:
 Output: tools/change-report.json
 """
 
+import collections
 import json
 import os
 import pathlib
@@ -79,17 +80,44 @@ SKIP_FILES = {"README.md", "TEMPLATE.md", "CLAUDE.md", "PROGRESS.md", "todo.md",
               "categories-tree.md", "内容选题清单.md"}
 
 # ── API helpers ───────────────────────────────────────────────────────────────
+#
+# BC's documented limit is 150 requests / 30s per store token. This is a
+# sliding-window throttle so the tool stays safe regardless of catalog size —
+# 259 SKUs today, 7000+ once GEO coverage rolls out further. It self-paces
+# instead of relying on a fixed "pause every N calls" tied to chunk_size.
+
+_RATE_LIMIT      = 150   # BC's cap per window
+_RATE_WINDOW_SEC = 30
+_SAFETY_MARGIN   = 20    # stay under the cap, leave room for other tools sharing the token
+_call_times = collections.deque()
+
+
+def _throttle():
+    now = time.monotonic()
+    while _call_times and now - _call_times[0] > _RATE_WINDOW_SEC:
+        _call_times.popleft()
+    if len(_call_times) >= (_RATE_LIMIT - _SAFETY_MARGIN):
+        sleep_for = _RATE_WINDOW_SEC - (now - _call_times[0]) + 0.5
+        if sleep_for > 0:
+            print(f"\n  [rate limit] pacing — sleeping {sleep_for:.1f}s "
+                  f"({len(_call_times)} calls in trailing {_RATE_WINDOW_SEC}s)", file=sys.stderr)
+            time.sleep(sleep_for)
+    _call_times.append(time.monotonic())
+
 
 def api_get(path: str) -> dict | None:
     url = f"{BASE}{path}"
     req = urllib.request.Request(url, headers=HEADERS, method="GET")
     for attempt in range(3):
+        _throttle()
         try:
             with urllib.request.urlopen(req, timeout=20) as resp:
                 return json.loads(resp.read().decode())
         except urllib.error.HTTPError as e:
             if e.code == 429 and attempt < 2:
-                time.sleep(3)
+                # Server-side 429 despite our own pacing — back off harder than
+                # a normal throttle sleep, then retry.
+                time.sleep(5)
                 continue
             print(f"  [API {e.code}] {url}", file=sys.stderr)
             return None
@@ -104,15 +132,21 @@ def fetch_products_by_skus(skus: list[str]) -> dict[str, dict]:
     Batch-fetch products by SKU list.
     Uses include=custom_fields so stock is inline — no per-product calls.
     Returns dict keyed by SKU (uppercase).
-    BC limit: 250 per page, 600 SKUs per sku:in query.
+
+    Chunk size is kept small because the URL itself (not just the SKU count)
+    has a hard length limit — BC's edge/WAF returns 414 well before BC's own
+    600-SKU sku:in cap is reached. ~40 SKUs keeps the encoded query string
+    safely under ~1500 chars even for long SKUs.
     """
     result = {}
-    chunk_size = 200  # stay well under 600-char URL limit per chunk
+    failed_skus = set()
+    chunk_size = 40
 
     for i in range(0, len(skus), chunk_size):
         chunk = skus[i:i + chunk_size]
         sku_param = ",".join(urllib.parse.quote(s) for s in chunk)
         page = 1
+        chunk_failed = False
         while True:
             path = (
                 f"/catalog/products"
@@ -122,7 +156,13 @@ def fetch_products_by_skus(skus: list[str]) -> dict[str, dict]:
                 f"&limit=250&page={page}"
             )
             data = api_get(path)
-            if not data or not data.get("data"):
+            if data is None:
+                # api_get already logged the error (e.g. 414/429/timeout).
+                # Mark this chunk's SKUs as fetch-failed, NOT "not found in BC" —
+                # those are different failure modes and must not be conflated.
+                chunk_failed = True
+                break
+            if not data.get("data"):
                 break
             for p in data["data"]:
                 result[p["sku"].upper()] = p
@@ -130,8 +170,14 @@ def fetch_products_by_skus(skus: list[str]) -> dict[str, dict]:
             if page >= pagination.get("total_pages", 1):
                 break
             page += 1
+        if chunk_failed:
+            failed_skus.update(chunk)
 
-    return result
+    if failed_skus:
+        print(f"\n  [WARNING] {len(failed_skus)} SKUs failed to fetch (API error, "
+              f"not a BC lookup miss) — flagged separately below.", file=sys.stderr)
+
+    return result, failed_skus
 
 
 # ── GEO file parser ───────────────────────────────────────────────────────────
@@ -264,7 +310,7 @@ print(f"Skipped: {skipped} (tombstones / no SKU)\n")
 
 all_skus = [g["sku"] for g in geo_records]
 print(f"Fetching {len(all_skus)} SKUs from BC API (batched)...", end="", flush=True)
-bc_by_sku = fetch_products_by_skus(all_skus)
+bc_by_sku, fetch_failed_skus = fetch_products_by_skus(all_skus)
 print(f" done. {len(bc_by_sku)} matched.\n")
 
 # ── Compare and report ────────────────────────────────────────────────────────
@@ -278,8 +324,12 @@ for geo in geo_records:
     bc  = bc_by_sku.get(sku)
 
     if not bc:
-        errors.append({"sku": sku, "file": str(geo["path"].relative_to(GEO_ROOT)), "error": "SKU not found in BC"})
-        print(f"  [NOT FOUND] {sku}")
+        if sku in fetch_failed_skus:
+            errors.append({"sku": sku, "file": str(geo["path"].relative_to(GEO_ROOT)), "error": "API fetch failed (not a BC lookup miss) — re-run to retry"})
+            print(f"  [FETCH FAILED] {sku}")
+        else:
+            errors.append({"sku": sku, "file": str(geo["path"].relative_to(GEO_ROOT)), "error": "SKU not found in BC"})
+            print(f"  [NOT FOUND] {sku}")
         continue
 
     bc_price_nzd = round(float(bc["price"]) * 1.15, 2)
