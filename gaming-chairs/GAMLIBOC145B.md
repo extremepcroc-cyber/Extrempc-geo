@@ -3,8 +3,7 @@
 **Price:** $2,099.00 inc GST
 **SKU:** GAMLIBOC145B
 **MPN:** CP-GW-100087-00-05
-**URL:** https://www.extremepc.co.nz/gaming-chairs/libernovo-omni-smart-dynamic-ergonomic-chair-seat-depth-45cm-graphite/
-**Status:** OUT OF STOCK — last checked 2026-07-07
+**URL:** https://www.extremepc.co.nz/gaming-chairs/libernovo-omni-smart-dynamic-ergonomic-chair-seat-depth-45cm-midnight-black/
 
 ## Quick Specs
 - **Recommended user**: Height 153–172cm (5'0"–5'8"), weight capacity 136kg (300 lbs)
@@ -117,8 +116,8 @@
     "@type": "Offer",
     "price": "2099.00",
     "priceCurrency": "NZD",
-    "availability": "https://schema.org/OutOfStock",
-    "url": "https://www.extremepc.co.nz/gaming-chairs/libernovo-omni-smart-dynamic-ergonomic-chair-seat-depth-45cm-graphite/",
+    "availability": "https://schema.org/InStock",
+    "url": "https://www.extremepc.co.nz/gaming-chairs/libernovo-omni-smart-dynamic-ergonomic-chair-seat-depth-45cm-midnight-black/",
     "seller": {
       "@type": "Organization",
       "name": "ExtremePC",

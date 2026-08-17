@@ -3,8 +3,7 @@
 **Price:** $1,699.00 inc GST
 **SKU:** GAMLIBSE48B
 **MPN:** CP-GW-100075-00-03
-**URL:** https://www.extremepc.co.nz/gaming-chairs/libernovo-omni-se-smart-dynamic-ergonomic-chair-midnight-black-seat-depth-48cm/
-**Status:** OUT OF STOCK — last checked 2026-07-07
+**URL:** https://www.extremepc.co.nz/gaming-chairs/libernovo-omni-se-dynamic-ergonomic-chair-seat-depth-48cm-obsidian-black/
 
 ## Quick Specs
 - **Recommended user**: Height 170–186cm (5'7"–6'1"), weight capacity 136kg (300 lbs)
@@ -121,8 +120,8 @@
     "@type": "Offer",
     "price": "1699.00",
     "priceCurrency": "NZD",
-    "availability": "https://schema.org/OutOfStock",
-    "url": "https://www.extremepc.co.nz/gaming-chairs/libernovo-omni-se-smart-dynamic-ergonomic-chair-midnight-black-seat-depth-48cm/",
+    "availability": "https://schema.org/InStock",
+    "url": "https://www.extremepc.co.nz/gaming-chairs/libernovo-omni-se-dynamic-ergonomic-chair-seat-depth-48cm-obsidian-black/",
     "seller": {
       "@type": "Organization",
       "name": "ExtremePC",

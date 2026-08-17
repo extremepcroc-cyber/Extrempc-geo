@@ -116,7 +116,7 @@
     "@type": "Offer",
     "price": "2099.00",
     "priceCurrency": "NZD",
-    "availability": "https://schema.org/OutOfStock",
+    "availability": "https://schema.org/InStock",
     "url": "https://www.extremepc.co.nz/gaming-chairs/libernovo-omni-smart-dynamic-ergonomic-chair-seat-depth-48cm-midnight-black/",
     "seller": {
       "@type": "Organization",

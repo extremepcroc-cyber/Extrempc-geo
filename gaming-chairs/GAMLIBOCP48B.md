@@ -3,8 +3,7 @@
 **Price:** $2,399.00 inc GST
 **SKU:** GAMLIBOCP48B
 **MPN:** CP-GW-0000078-00-05
-**URL:** https://www.extremepc.co.nz/gaming-chairs/libernovo-oc-1-pro-omni-smart-dynamic-ergonomic-chair-with-stepsync-footrest-and-battery-included-midnight-black-seat-depth-48cm/
-**Status:** OUT OF STOCK — last checked 2026-07-07
+**URL:** https://www.extremepc.co.nz/gaming-chairs/libernovo-omni-pro-smart-dynamic-ergonomic-chair-seat-depth-48cm-midnight-black/
 
 ## Quick Specs
 - **Recommended user**: Height 170–186cm (5'7"–6'1"), weight capacity 136kg (300 lbs)
@@ -119,8 +118,8 @@
     "@type": "Offer",
     "price": "2399.00",
     "priceCurrency": "NZD",
-    "availability": "https://schema.org/OutOfStock",
-    "url": "https://www.extremepc.co.nz/gaming-chairs/libernovo-oc-1-pro-omni-smart-dynamic-ergonomic-chair-with-stepsync-footrest-and-battery-included-midnight-black-seat-depth-48cm/",
+    "availability": "https://schema.org/InStock",
+    "url": "https://www.extremepc.co.nz/gaming-chairs/libernovo-omni-pro-smart-dynamic-ergonomic-chair-seat-depth-48cm-midnight-black/",
     "seller": {
       "@type": "Organization",
       "name": "ExtremePC",

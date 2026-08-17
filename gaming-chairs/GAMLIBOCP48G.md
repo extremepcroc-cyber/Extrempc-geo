@@ -3,8 +3,7 @@
 **Price:** $2,399.00 inc GST
 **SKU:** GAMLIBOCP48G
 **MPN:** CP-GW-0000078-00-04
-**URL:** https://www.extremepc.co.nz/gaming-chairs/libernovo-omni-smart-dynamic-ergonomic-chair-seat-depth-48cm-space-grey-38hh/
-**Status:** OUT OF STOCK — last checked 2026-07-07
+**URL:** https://www.extremepc.co.nz/gaming-chairs/libernovo-omni-pro-smart-dynamic-ergonomic-chair-seat-depth-48cm-space-grey/
 
 ## Quick Specs
 - **Recommended user**: Height 170–186cm (5'7"–6'1"), weight capacity 136kg (300 lbs)
@@ -119,8 +118,8 @@
     "@type": "Offer",
     "price": "2399.00",
     "priceCurrency": "NZD",
-    "availability": "https://schema.org/OutOfStock",
-    "url": "https://www.extremepc.co.nz/gaming-chairs/libernovo-omni-smart-dynamic-ergonomic-chair-seat-depth-48cm-space-grey-38hh/",
+    "availability": "https://schema.org/InStock",
+    "url": "https://www.extremepc.co.nz/gaming-chairs/libernovo-omni-pro-smart-dynamic-ergonomic-chair-seat-depth-48cm-space-grey/",
     "seller": {
       "@type": "Organization",
       "name": "ExtremePC",

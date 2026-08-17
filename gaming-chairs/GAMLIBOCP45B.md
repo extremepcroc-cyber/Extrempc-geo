@@ -4,7 +4,6 @@
 **SKU:** GAMLIBOCP45B
 **MPN:** CP-GW-0000077-00-05
 **URL:** https://www.extremepc.co.nz/gaming-chairs/libernovo-omni-pro-smart-dynamic-ergonomic-chair-seat-depth-45cm-midnight-black/
-**Status:** OUT OF STOCK — last checked 2026-07-07
 
 ## Quick Specs
 - **Recommended user**: Height 153–172cm (5'0"–5'8"), weight capacity 136kg (300 lbs)
@@ -119,7 +118,7 @@
     "@type": "Offer",
     "price": "2399.00",
     "priceCurrency": "NZD",
-    "availability": "https://schema.org/OutOfStock",
+    "availability": "https://schema.org/InStock",
     "url": "https://www.extremepc.co.nz/gaming-chairs/libernovo-omni-pro-smart-dynamic-ergonomic-chair-seat-depth-45cm-midnight-black/",
     "seller": {
       "@type": "Organization",
