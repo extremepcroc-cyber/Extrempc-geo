@@ -4,6 +4,7 @@
 **SKU:** PSUSEGGM650WB
 **MPN:** GM-650W
 **URL:** https://www.extremepc.co.nz/segotep-gm-650w-80-plus-gold-fully-modular-power-supply-black/
+**Status:** OUT OF STOCK — last checked 2026-08-18
 
 ## Quick Specs
 - **Wattage**: 650W continuous output
@@ -108,7 +109,7 @@
     "@type": "Offer",
     "price": "129.00",
     "priceCurrency": "NZD",
-    "availability": "https://schema.org/InStock",
+    "availability": "https://schema.org/OutOfStock",
     "url": "https://www.extremepc.co.nz/segotep-gm-650w-80-plus-gold-fully-modular-power-supply-black/",
     "seller": {
       "@type": "Organization",

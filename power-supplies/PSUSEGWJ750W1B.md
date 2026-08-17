@@ -4,6 +4,7 @@
 **SKU:** PSUSEGWJ750W1B
 **MPN:** WJ-750W
 **URL:** https://www.extremepc.co.nz/segotep-wj750w-atx3-1-80-plus-gold-full-modular-power-supply-black/
+**Status:** OUT OF STOCK — last checked 2026-08-18
 
 ## Quick Specs
 - **Wattage**: 750W continuous output
@@ -105,7 +106,7 @@
     "@type": "Offer",
     "price": "159.00",
     "priceCurrency": "NZD",
-    "availability": "https://schema.org/InStock",
+    "availability": "https://schema.org/OutOfStock",
     "url": "https://www.extremepc.co.nz/segotep-wj750w-atx3-1-80-plus-gold-full-modular-power-supply-black/",
     "seller": {
       "@type": "Organization",

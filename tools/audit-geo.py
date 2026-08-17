@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-audit-geo.py — Audit GEO markdown files against BC API. Auto-applies changes.
+audit-geo.py - Audit GEO markdown files against BC API. Auto-applies changes.
 
 Usage:
     python tools/audit-geo.py                          # full audit + auto-apply
@@ -9,15 +9,15 @@ Usage:
     python tools/audit-geo.py --dry-run --category monitors
 
 What it checks:
-    - Price: GEO **Price:** vs BC API price × 1.15 (NZD inc GST)
-    - Stock: OH (Onehunga) only — WL/SL/SU are internal, never customer-available
+    - Price: GEO **Price:** vs BC API price x 1.15 (NZD inc GST)
+    - Stock: OH (Onehunga) only - WL/SL/SU are internal, never customer-available
     - URL: GEO **URL:** vs BC API custom_url.url
 
 What it auto-applies (unless --dry-run):
-    - Price change → updates **Price:** line and Schema "price" field
-    - OH = 0 → inserts **Status:** OUT OF STOCK line, sets Schema to OutOfStock
-    - OH > 0 and file already flagged OOS → removes Status line, sets Schema to InStock
-    - URL changed → updates **URL:** line
+    - Price change -> updates **Price:** line and Schema "price" field
+    - OH = 0 -> inserts **Status:** OUT OF STOCK line, sets Schema to OutOfStock
+    - OH > 0 and file already flagged OOS -> removes Status line, sets Schema to InStock
+    - URL changed -> updates **URL:** line
 
 API efficiency:
     - Batch fetch with sku:in=... + include=custom_fields (inline, no per-product calls)
@@ -38,7 +38,15 @@ import urllib.parse
 import urllib.request
 from datetime import date
 
-# ── Credentials ──────────────────────────────────────────────────────────────
+# Windows consoles often default to a non-UTF-8 codepage (e.g. GBK). Without
+# this, printing plain checkmarks/arrows raises UnicodeEncodeError - which
+# previously got caught by the apply try/except and misreported a successful
+# file write as a failure. Force UTF-8 output so console symbols never crash.
+if hasattr(sys.stdout, "reconfigure"):
+    sys.stdout.reconfigure(encoding="utf-8", errors="replace")
+    sys.stderr.reconfigure(encoding="utf-8", errors="replace")
+
+# --- Credentials ---
 
 _env_candidates = [
     pathlib.Path(os.environ.get("HERMES_PROFILE_DIR", "")) / "extremepc.env",
@@ -62,7 +70,7 @@ if not TOKEN:
 BASE    = f"https://api.bigcommerce.com/stores/{STORE}/v3"
 HEADERS = {"X-Auth-Token": TOKEN, "Accept": "application/json"}
 
-# ── Args ──────────────────────────────────────────────────────────────────────
+# --- Args ---
 
 DRY_RUN      = "--dry-run" in sys.argv
 CATEGORY_DIR = None
@@ -79,10 +87,10 @@ SKIP_DIRS  = {"brands", "product-knowledge", "tools", "blog"}
 SKIP_FILES = {"README.md", "TEMPLATE.md", "CLAUDE.md", "PROGRESS.md", "todo.md",
               "categories-tree.md", "内容选题清单.md"}
 
-# ── API helpers ───────────────────────────────────────────────────────────────
+# --- API helpers ---
 #
 # BC's documented limit is 150 requests / 30s per store token. This is a
-# sliding-window throttle so the tool stays safe regardless of catalog size —
+# sliding-window throttle so the tool stays safe regardless of catalog size -
 # 259 SKUs today, 7000+ once GEO coverage rolls out further. It self-paces
 # instead of relying on a fixed "pause every N calls" tied to chunk_size.
 
@@ -99,7 +107,7 @@ def _throttle():
     if len(_call_times) >= (_RATE_LIMIT - _SAFETY_MARGIN):
         sleep_for = _RATE_WINDOW_SEC - (now - _call_times[0]) + 0.5
         if sleep_for > 0:
-            print(f"\n  [rate limit] pacing — sleeping {sleep_for:.1f}s "
+            print(f"\n  [rate limit] pacing - sleeping {sleep_for:.1f}s "
                   f"({len(_call_times)} calls in trailing {_RATE_WINDOW_SEC}s)", file=sys.stderr)
             time.sleep(sleep_for)
     _call_times.append(time.monotonic())
@@ -115,7 +123,7 @@ def api_get(path: str) -> dict | None:
                 return json.loads(resp.read().decode())
         except urllib.error.HTTPError as e:
             if e.code == 429 and attempt < 2:
-                # Server-side 429 despite our own pacing — back off harder than
+                # Server-side 429 despite our own pacing - back off harder than
                 # a normal throttle sleep, then retry.
                 time.sleep(5)
                 continue
@@ -130,11 +138,11 @@ def api_get(path: str) -> dict | None:
 def fetch_products_by_skus(skus: list[str]) -> dict[str, dict]:
     """
     Batch-fetch products by SKU list.
-    Uses include=custom_fields so stock is inline — no per-product calls.
+    Uses include=custom_fields so stock is inline - no per-product calls.
     Returns dict keyed by SKU (uppercase).
 
     Chunk size is kept small because the URL itself (not just the SKU count)
-    has a hard length limit — BC's edge/WAF returns 414 well before BC's own
+    has a hard length limit - BC's edge/WAF returns 414 well before BC's own
     600-SKU sku:in cap is reached. ~40 SKUs keeps the encoded query string
     safely under ~1500 chars even for long SKUs.
     """
@@ -158,7 +166,7 @@ def fetch_products_by_skus(skus: list[str]) -> dict[str, dict]:
             data = api_get(path)
             if data is None:
                 # api_get already logged the error (e.g. 414/429/timeout).
-                # Mark this chunk's SKUs as fetch-failed, NOT "not found in BC" —
+                # Mark this chunk's SKUs as fetch-failed, NOT "not found in BC" -
                 # those are different failure modes and must not be conflated.
                 chunk_failed = True
                 break
@@ -175,12 +183,12 @@ def fetch_products_by_skus(skus: list[str]) -> dict[str, dict]:
 
     if failed_skus:
         print(f"\n  [WARNING] {len(failed_skus)} SKUs failed to fetch (API error, "
-              f"not a BC lookup miss) — flagged separately below.", file=sys.stderr)
+              f"not a BC lookup miss) - flagged separately below.", file=sys.stderr)
 
     return result, failed_skus
 
 
-# ── GEO file parser ───────────────────────────────────────────────────────────
+# --- GEO file parser ---
 
 _RE_SKU   = re.compile(r"\*\*SKU:\*\*\s+([A-Z0-9\-]+)")
 _RE_PRICE = re.compile(r"\*\*Price:\*\*\s+\$([0-9,]+(?:\.[0-9]{1,2})?)")
@@ -205,7 +213,7 @@ def parse_geo(path: pathlib.Path) -> dict:
     }
 
 
-# ── Stock helper ──────────────────────────────────────────────────────────────
+# --- Stock helper ---
 
 def get_oh(custom_fields: list) -> int:
     for cf in (custom_fields or []):
@@ -217,7 +225,7 @@ def get_oh(custom_fields: list) -> int:
     return 0
 
 
-# ── Auto-apply helpers ────────────────────────────────────────────────────────
+# --- Auto-apply helpers ---
 
 def _apply_price(text: str, new_price: float) -> str:
     """Update **Price:** line and Schema "price" field."""
@@ -239,7 +247,7 @@ def _apply_price(text: str, new_price: float) -> str:
 
 def _apply_oos(text: str) -> str:
     """Insert OUT OF STOCK status line after URL line. Update Schema availability."""
-    status_line = f"**Status:** OUT OF STOCK — last checked {TODAY}"
+    status_line = f"**Status:** OUT OF STOCK - last checked {TODAY}"
     # Remove any existing Status line first (avoid duplicates)
     text = re.sub(r"\*\*Status:\*\*\s+OUT OF STOCK[^\n]*\n", "", text)
     # Insert after **URL:** line
@@ -277,7 +285,7 @@ def _apply_url(text: str, new_url: str) -> str:
     )
 
 
-# ── Scan GEO files ────────────────────────────────────────────────────────────
+# --- Scan GEO files ---
 
 search_root = GEO_ROOT / CATEGORY_DIR if CATEGORY_DIR else GEO_ROOT
 
@@ -306,14 +314,14 @@ for f in md_files:
 print(f"Parsed : {len(geo_records)} files with valid SKU")
 print(f"Skipped: {skipped} (tombstones / no SKU)\n")
 
-# ── Batch fetch from BC ───────────────────────────────────────────────────────
+# --- Batch fetch from BC ---
 
 all_skus = [g["sku"] for g in geo_records]
 print(f"Fetching {len(all_skus)} SKUs from BC API (batched)...", end="", flush=True)
 bc_by_sku, fetch_failed_skus = fetch_products_by_skus(all_skus)
 print(f" done. {len(bc_by_sku)} matched.\n")
 
-# ── Compare and report ────────────────────────────────────────────────────────
+# --- Compare and report ---
 
 report   = []
 changed  = []
@@ -325,7 +333,7 @@ for geo in geo_records:
 
     if not bc:
         if sku in fetch_failed_skus:
-            errors.append({"sku": sku, "file": str(geo["path"].relative_to(GEO_ROOT)), "error": "API fetch failed (not a BC lookup miss) — re-run to retry"})
+            errors.append({"sku": sku, "file": str(geo["path"].relative_to(GEO_ROOT)), "error": "API fetch failed (not a BC lookup miss) - re-run to retry"})
             print(f"  [FETCH FAILED] {sku}")
         else:
             errors.append({"sku": sku, "file": str(geo["path"].relative_to(GEO_ROOT)), "error": "SKU not found in BC"})
@@ -367,6 +375,7 @@ for geo in geo_records:
         "url_changed":   url_changed,
         "applied":       False,
         "apply_error":   None,
+        "backup":        None,
     }
 
     if not needs_update:
@@ -383,11 +392,11 @@ for geo in geo_records:
     reset = "\033[0m"
     print(f"  [{color}{tag}{reset}] {sku}", end="")
     if price_changed:
-        print(f"  ${geo_price} → ${bc_price_nzd}", end="")
+        print(f"  ${geo_price} -> ${bc_price_nzd}", end="")
     if needs_oos:
-        print(f"  OH=0 → OOS", end="")
+        print(f"  OH=0 -> OOS", end="")
     if back_in_stock:
-        print(f"  OH={oh} → back in stock", end="")
+        print(f"  OH={oh} -> back in stock", end="")
     if url_changed:
         print(f"  URL changed", end="")
     print()
@@ -396,14 +405,28 @@ for geo in geo_records:
     if needs_update:
         changed.append(entry)
 
-# ── Auto-apply ────────────────────────────────────────────────────────────────
+# --- Auto-apply ---
+#
+# Every file about to be overwritten is backed up first (original content,
+# pre-edit) under tools/backups/<run-timestamp>/<same-relative-path>.bak.
+# To roll back a bad run: copy the .bak files back over the originals, or
+# just `git checkout -- <file>` since the repo is version-controlled anyway -
+# the backup exists for the fast path (no need to touch git history to undo).
+
+BACKUP_ROOT = pathlib.Path(__file__).parent / "backups" / time.strftime("%Y-%m-%d_%H%M%S")
 
 if changed and not DRY_RUN:
     print(f"\nApplying {len(changed)} changes...")
+    print(f"Backups: {BACKUP_ROOT}")
     for entry in changed:
         geo = next(g for g in geo_records if g["sku"] == entry["sku"])
         text = geo["text"]
         try:
+            # Backup original content before any modification
+            backup_path = BACKUP_ROOT / geo["path"].relative_to(GEO_ROOT).with_suffix(".md.bak")
+            backup_path.parent.mkdir(parents=True, exist_ok=True)
+            backup_path.write_text(geo["text"], encoding="utf-8")
+
             if entry["price_changed"]:
                 text = _apply_price(text, entry["price_bc_nzd"])
             if entry["needs_oos_flag"]:
@@ -414,14 +437,21 @@ if changed and not DRY_RUN:
                 text = _apply_url(text, entry["url_bc"])
             geo["path"].write_text(text, encoding="utf-8")
             entry["applied"] = True
-            print(f"  ✓ {entry['sku']} — {geo['path'].relative_to(GEO_ROOT)}")
+            entry["backup"] = str(backup_path.relative_to(GEO_ROOT))
         except Exception as e:
+            # Only reachable for genuine backup/write failures - nothing after
+            # this point (console output) can turn a real success into a
+            # false "failed" report.
             entry["apply_error"] = str(e)
-            print(f"  ✗ {entry['sku']} — {e}", file=sys.stderr)
-elif DRY_RUN and changed:
-    print(f"\n[Dry run] {len(changed)} files would be updated — no changes written.")
+            print(f"  [FAIL] {entry['sku']} - {e}", file=sys.stderr)
+            continue
 
-# ── Summary ───────────────────────────────────────────────────────────────────
+        print(f"  [OK] {entry['sku']} - {geo['path'].relative_to(GEO_ROOT)}")
+    print(f"\nTo roll back this run: restore files from {BACKUP_ROOT}")
+elif DRY_RUN and changed:
+    print(f"\n[Dry run] {len(changed)} files would be updated - no changes written.")
+
+# --- Summary ---
 
 ok_count    = len([r for r in report if not r["needs_update"]])
 oos_count   = len([r for r in report if r["needs_oos_flag"]])
@@ -435,15 +465,15 @@ print(f"""
   Scanned  : {len(geo_records)}
   Skipped  : {skipped}
   OK       : {ok_count}
-  Price Δ  : {price_count}
+  Price chg: {price_count}
   OOS      : {oos_count}
-  Back→Stock: {back_count}
-  URL Δ    : {url_count}
+  Back->Stock: {back_count}
+  URL chg  : {url_count}
   Errors   : {len(errors)}
   Applied  : {applied if not DRY_RUN else 'n/a (dry run)'}
 """)
 
-# ── Write report ──────────────────────────────────────────────────────────────
+# --- Write report ---
 
 report_data = {
     "generated":  TODAY,
