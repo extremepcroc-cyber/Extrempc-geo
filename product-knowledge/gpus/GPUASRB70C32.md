@@ -1,21 +1,29 @@
-# ASRock Intel Arc Pro B70 Creator 32G Graphics card
+# ASRock Intel Arc Pro B70 Creator 32G Graphics Card
 
-**Price:** NZD $0.00 (incl. GST) — verify with BC API
+**Price:** NZD $2199.00 (incl. GST)
 **SKU:** GPUASRB70C32
-**Stock:** In stock (verify with BC API)
+**URL:** https://www.extremepc.co.nz/workstation/asrock-intel-arc-pro-b70-creator-32g-graphics-card/
+**Stock:** We have plenty in stock
 
 ## Quick Specs
-- GPU Chipset: Intel Arc B70
-- Memory: 10GB GDDR6
-- TDP: 150W
-- Recommended PSU: 500W
-- Target Resolution: 1080p
+- GPU: Intel Arc Pro B70 (Professional workstation GPU)
+- Memory: 32GB GDDR6
+- Memory Bus: 256-bit
+- TDP: 175W
+- Recommended PSU: 550W 80+ Gold
+- Power Connectors: 1x 8-pin
+- Target Use: Professional workstation — 3D rendering, video editing, AI inference
+- AIB Variant: Creator (ASRock's professional workstation line)
 
 ## Compatibility Notes
-This GPU is available at ExtremePC in Auckland, NZ. Verify case GPU length clearance and PSU wattage before purchase. For detailed compatibility questions, visit the product page or contact the store.
+- Dual-fan design — check case GPU clearance (typically ~240-260mm)
+- Works with PCIe 4.0 motherboards
+- 32GB VRAM for professional workloads — CAD, video editing, AI/ML
+- Intel oneAPI ecosystem for compute workloads
+- Not optimized for gaming — this is a professional workstation card
 
 ## Why Buy From ExtremePC
 - Local NZ stock with fast availability
 - In-store pickup at Onehunga or Wellington
 - Expert build service available ($80 build fee)
-- 2-year NZ warranty support
+- 3-year NZ manufacturer warranty

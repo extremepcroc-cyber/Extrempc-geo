@@ -3,24 +3,27 @@
 **Price:** NZD $599.00 (incl. GST)
 **SKU:** PSUABEPT1380
 **URL:** https://www.extremepc.co.nz/abee-stem-pt1380w-80-plus-platinum-fully-modular-power-supply/
-**Stock:** Only a few left in stock
+**Stock:** We have plenty in stock
 
 ## Quick Specs
 - Wattage: 1380W
 - Form Factor: ATX
-- Dimensions: 180 x 150 x 86mm (oversized ATX)
-- CPU Connectors: 3x 4+4pin (8-pin EPS)
-- PCIe Connectors: 4x 6+2pin
-- 12VHPWR Connector: Yes (native 12VHPWR for RTX 40/50 series)
 - 80 Plus Rating: Platinum
-- Modular: Fully Modular
-- ATX Version: ATX 3.0
+- Modularity: Full Modular
+- ATX Version: ATX 3.1
+- CPU Connectors: 3x 8-pin EPS
+- PCIe Connectors: 6x 8-pin
+- 12VHPWR Connector: Yes (native 16-pin)
+- Dimensions: 180mm x 150mm x 86mm
 
 ## Compatibility Notes
-High-wattage PSU for RTX 4090/5090 enthusiast builds and workstations. 1380W provides ample headroom for single high-end GPU with overclocking. Platinum efficiency for reduced power consumption. Note: oversized dimensions may not fit all cases.
+- ATX 3.1 ready — native 12VHPWR for RTX 50 series GPUs
+- 1380W — suitable for RTX 5090 + high-end CPU builds
+- Platinum efficiency — lower power consumption and heat at high loads
+- Full modular — clean cable management
 
 ## Why Buy From ExtremePC
 - Local NZ stock with fast availability
 - In-store pickup at Onehunga or Wellington
 - Expert build service available ($80 build fee)
-- Warranty support
+- 3-year NZ manufacturer warranty

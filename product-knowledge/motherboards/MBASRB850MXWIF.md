@@ -1,23 +1,29 @@
-# ASRock B850M-X WiFi R2.0 M-ATX  AMD Motherboard
+# ASRock B850M-X WiFi R2.0 M-ATX AMD Motherboard
 
-**Price:** NZD $259.0 (incl. GST)
+**Price:** NZD $249.00 (incl. GST)
 **SKU:** MBASRB850MXWIF
 **URL:** https://www.extremepc.co.nz/asrock-b850m-x-wifi-r2-0-m-atx-amd-motherboard/
-**Stock:** Plenty in stock
+**Stock:** We have plenty in stock
 
 ## Quick Specs
 - CPU Socket: AM5
-- Chipset: B850
+- Chipset: AMD B850
 - Memory Type: DDR5
-- Max Memory: 128GB
-- Memory Slots: 0 slots
-- Form Factor: ATX
+- Max Memory: 128GB (2x DIMM)
+- Memory Slots: 2
+- M.2 Slots: 2 (PCIe 4.0 x4)
+- Form Factor: mATX
+- WiFi: WiFi 6E
+- Bluetooth: BT 5.4
 
 ## Compatibility Notes
-This motherboard is available at ExtremePC in Auckland, NZ. For detailed compatibility questions, visit the product page or contact the store.
+- AM5 socket — supports Ryzen 7000/8000/9000 series CPUs
+- DDR5 only — no DDR4 support
+- 2 DIMM slots — budget-friendly option
+- mATX form factor — fits most mid-tower and micro-tower cases
 
 ## Why Buy From ExtremePC
 - Local NZ stock with fast availability
 - In-store pickup at Onehunga or Wellington
 - Expert build service available ($80 build fee)
-- 2-year NZ warranty support
+- 3-year NZ manufacturer warranty

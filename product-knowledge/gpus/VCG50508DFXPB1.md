@@ -1,7 +1,8 @@
 # PNY NVIDIA GeForce RTX 5050 8GB GDDR6 Dual Fan Graphics Card
 
-**Price:** NZD $600.00 (incl. GST)
-**SKU:** VCG50508DFXPB1
+**Price:** NZD $659.00 (incl. GST)
+**SKU:** GPUPNY55DF8
+**MPN:** VCG50508DFXPB1
 **URL:** https://www.extremepc.co.nz/pny-nvidia-geforce-rtx-5050-8gb-gddr6-dual-fan-graphics-card-pcie-5-0-2-slot-1x-8-pin-power-minimum-550w-psu/
 **Stock:** Only a few left in stock
 

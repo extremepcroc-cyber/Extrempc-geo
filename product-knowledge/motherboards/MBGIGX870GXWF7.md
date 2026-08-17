@@ -1,21 +1,30 @@
 # Gigabyte X870 GAMING X WIFI7 AM5 ATX Motherboard
 
-**Price:** NZD $549.0 (incl. GST)
+**Price:** NZD $549.00 (incl. GST)
 **SKU:** MBGIGX870GXWF7
 **URL:** https://www.extremepc.co.nz/gigabyte-x870-gaming-x-wifi7-am5-atx-motherboard/
-**Stock:** Plenty in stock
+**Stock:** We have plenty in stock
 
 ## Quick Specs
 - CPU Socket: AM5
+- Chipset: AMD X870
 - Memory Type: DDR5
-- Memory Slots: 4 slots
+- Max Memory: 192GB (4x DIMM)
+- Memory Slots: 4
+- M.2 Slots: 3 (PCIe 5.0 x4)
 - Form Factor: ATX
+- WiFi: WiFi 7
+- Bluetooth: BT 5.4
 
 ## Compatibility Notes
-This motherboard is available at ExtremePC in Auckland, NZ. For detailed compatibility questions, visit the product page or contact the store.
+- AM5 socket — supports Ryzen 7000/8000/9000 series CPUs
+- DDR5 only — no DDR4 support
+- X870 chipset — full PCIe 5.0 support for GPU and storage
+- 3 M.2 slots — good for multi-drive setups
+- ATX form factor — fits standard mid-tower and full-tower cases
 
 ## Why Buy From ExtremePC
 - Local NZ stock with fast availability
 - In-store pickup at Onehunga or Wellington
 - Expert build service available ($80 build fee)
-- 2-year NZ warranty support
+- 3-year NZ manufacturer warranty

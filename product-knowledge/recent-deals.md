@@ -27,6 +27,24 @@
 
 ---
 
+<!-- AUTO-DEALS-START -->
+## Auto-Detected Campaigns (updated 2026-08-17)
+
+### Active Time-Bound Campaigns
+
+- **Intel Gamer Day**: Buy an eligible Intel Core, Core Ultra or Arc product between 10 Aug–13 Sep 2026, and get STAR WARS: Galactic Racer (releasing 6 Oct 2026) and Tomb Raider: Legacy of Atlantis (releasing 12 Feb 2027) f...
+
+### Deal Statistics
+
+- **Total on-sale items**: 40
+- **Biggest single saving**: NZD $604
+- **Category breakdown**:
+  - Gaming PC / Workstation: 36 items
+  - Other: 3 items
+  - GPU: 1 items
+
+<!-- AUTO-DEALS-END -->
+
 ## How to Use This File
 
 - Check here before answering customer questions about promotions, sales, or discounts

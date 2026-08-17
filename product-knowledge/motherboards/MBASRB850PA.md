@@ -1,23 +1,29 @@
 # ASRock B850 PRO-A WIFI Socket AM5 ATX Motherboard
 
-**Price:** NZD $349.0 (incl. GST)
+**Price:** NZD $429.00 (incl. GST)
 **SKU:** MBASRB850PA
-**URL:** https://www.extremepc.co.nz/asrock-b850-pro-a-wifi-socket-am5-matx-motherboard/
-**Stock:** Plenty in stock
+**URL:** https://www.extremepc.co.nz/asrock-b850-pro-a-wifi-socket-am5-atx-motherboard/
+**Stock:** We have plenty in stock
 
 ## Quick Specs
 - CPU Socket: AM5
-- Chipset: B850
+- Chipset: AMD B850
 - Memory Type: DDR5
-- Max Memory: 256GB
-- Memory Slots: 5 slots
+- Max Memory: 128GB (4x DIMM)
+- Memory Slots: 4
+- M.2 Slots: 2 (PCIe 4.0 x4)
 - Form Factor: ATX
+- WiFi: WiFi 6E
+- Bluetooth: BT 5.4
 
 ## Compatibility Notes
-This motherboard is available at ExtremePC in Auckland, NZ. For detailed compatibility questions, visit the product page or contact the store.
+- AM5 socket — supports Ryzen 7000/8000/9000 series CPUs
+- DDR5 only — no DDR4 support
+- 4 DIMM slots — supports dual or quad channel configurations
+- ATX form factor — fits standard mid-tower and full-tower cases
 
 ## Why Buy From ExtremePC
 - Local NZ stock with fast availability
 - In-store pickup at Onehunga or Wellington
 - Expert build service available ($80 build fee)
-- 2-year NZ warranty support
+- 3-year NZ manufacturer warranty
