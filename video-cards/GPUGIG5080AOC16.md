@@ -3,7 +3,7 @@
 **Price:** $3,059.00 inc GST
 **SKU:** GPUGIG5080AOC16
 **MPN:** GV-N5080AERO-OC-16GD
-**URL:** https://www.extremepc.co.nz/gigabyte-geforce-rtx-5080-aero-oc-16gb-graphics-card/
+**URL:** https://www.extremepc.co.nz/rtx-50-series/gigabyte-geforce-rtx-5080-aero-oc-16gb-graphics-card/
 **Status:** OUT OF STOCK — last checked 2026-07-07
 
 ## Quick Specs

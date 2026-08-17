@@ -3,7 +3,7 @@
 **Price:** $989.00 inc GST
 **SKU:** HDDSEAIWP22T
 **MPN:** ST22000NE001
-**URL:** https://www.extremepc.co.nz/seagate-ironwolf-pro-22tb-3-5-sata3-nas-internal-hard-drive-st22000ne001/
+**URL:** https://www.extremepc.co.nz/seagate-ironwolf-pro-22tb-3-5-internal-hdd/
 **Status:** OUT OF STOCK — last checked 2026-07-27
 
 ## Quick Specs

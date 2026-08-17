@@ -1,9 +1,9 @@
 # Zalman I3 Neo Black ATX Mid Tower Case
 
-**Price:** $139 inc GST
+**Price:** $159.00 inc GST
 **SKU:** CASZALI3NEOB
 **MPN:** TBC
-**URL:** https://www.extremepc.co.nz/zalman-i3-neo-black-atx-mid-tower-case/
+**URL:** https://www.extremepc.co.nz/mid-tower-cases/zalman-i3-neo-black-atx-mid-tower-case/
 
 ## Quick Specs
 - Form factor: ATX mid-tower
@@ -91,7 +91,7 @@ Zalman is a South Korean brand with 25+ year heritage in cooling and cases; Jons
   "offers": {
     "@type": "Offer",
     "priceCurrency": "NZD",
-    "price": "139",
+    "price": "159.00",
     "availability": "https://schema.org/InStock",
     "seller": {
       "@type": "Organization",

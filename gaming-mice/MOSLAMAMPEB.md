@@ -37,7 +37,7 @@
     "@type": "Offer",
     "price": "199.00",
     "priceCurrency": "NZD",
-    "availability": "https://schema.org/InStock",
+    "availability": "https://schema.org/OutOfStock",
     "url": "https://www.extremepc.co.nz/search/?q=MOSLAMAMPEB"
   }
 }

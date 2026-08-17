@@ -3,7 +3,7 @@
 **Price:** $469.00 inc GST
 **SKU:** HDDSYNHAT8T
 **MPN:** HAT3310-8T
-**URL:** https://www.extremepc.co.nz/synology-hat3310-8tb-3-5-sata3-nas-hard-drive-hat3310-8t/
+**URL:** https://www.extremepc.co.nz/synology-hat3310-8tb-3-5-plus-series-nas-hdd-sata-6gb-s-7200-rpm-256mb-cache-3-years-warranty/
 **Status:** OUT OF STOCK — last checked 2026-07-27
 
 ## Quick Specs

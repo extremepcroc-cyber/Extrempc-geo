@@ -3,7 +3,7 @@
 **Price:** $739.00 inc GST
 **SKU:** HDDSEAEX1816
 **MPN:** ST16000NM000J
-**URL:** https://www.extremepc.co.nz/seagate-exos-x18-16tb-3-5-sata3-enterprise-internal-hard-drive-st16000nm000j/
+**URL:** https://www.extremepc.co.nz/seagate-exos-x18-16tb-3-5-512e-4kn-sata3-internal-hard-drive-st16000nm000j/
 **Status:** OUT OF STOCK — last checked 2026-07-27
 
 ## Quick Specs

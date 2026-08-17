@@ -3,7 +3,7 @@
 **Price:** $1739.00 inc GST
 **SKU:** HDDSYNHAT531018
 **MPN:** HAT5310-18T
-**URL:** https://www.extremepc.co.nz/synology-hat5310-18tb-3-5-sata3-nas-hard-drive-hat5310-18t/
+**URL:** https://www.extremepc.co.nz/synology-hat5310-18tb-3-5-sata-6gb-s-512e-7200rpm-enterprise-server-hard-drive/
 **Status:** OUT OF STOCK — last checked 2026-07-27
 
 ## Quick Specs

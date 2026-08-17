@@ -3,7 +3,7 @@
 **Price:** $961.00 inc GST
 **SKU:** HDDWDRPLUS8T
 **MPN:** WD80EFPX
-**URL:** https://www.extremepc.co.nz/wd-red-plus-8tb-3-5-sata3-nas-hard-drive-wd80efpx/
+**URL:** https://www.extremepc.co.nz/wd-red-plus-8tb-3-5-nas-internal-hdd-sata3-256mb-cache-cmr-designed-and-tested-for-raid-environments-1-8-bay-nas-3-years-warranty/
 **Status:** OUT OF STOCK — last checked 2026-07-27
 
 ## Quick Specs

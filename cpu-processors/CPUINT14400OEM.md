@@ -1,6 +1,6 @@
 # Intel Core i5-14400 — 10 Core LGA 1700 OEM (no cooler, with iGPU)
 
-**Price:** $389.00 inc GST
+**Price:** $369.00 inc GST
 **SKU:** CPUINT14400OEM
 **MPN:** BX8071514400OEM
 **URL:** https://www.extremepc.co.nz/intel-core-i5-14400-10-core-lga-1700-cpu-processor-oem-package-without-cooler/
@@ -123,7 +123,7 @@
   },
   "offers": {
     "@type": "Offer",
-    "price": "389.00",
+    "price": "369.00",
     "priceCurrency": "NZD",
     "availability": "https://schema.org/InStock",
     "url": "https://www.extremepc.co.nz/intel-core-i5-14400-10-core-lga-1700-cpu-processor-oem-package-without-cooler/",

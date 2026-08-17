@@ -5,6 +5,7 @@
 **SKU:** RAMADA16D556U
 **MPN:** AD5U560016G-B
 **URL:** https://www.extremepc.co.nz/adata-16gb-ddr5-5600-ram-dimm-lifetime-wty/
+**Status:** OUT OF STOCK - last checked 2026-08-18
 
 ## Quick Specs
 - **Capacity**: 16GB single stick
@@ -129,7 +130,7 @@
     "@type": "Offer",
     "price": "399.00",
     "priceCurrency": "NZD",
-    "availability": "https://schema.org/InStock",
+    "availability": "https://schema.org/OutOfStock",
     "url": "https://www.extremepc.co.nz/adata-16gb-ddr5-5600-ram-dimm-lifetime-wty/",
     "seller": {
       "@type": "Organization",

@@ -3,7 +3,7 @@
 **Price:** $139 inc GST
 **SKU:** CASZALN7PV2
 **MPN:** TBC
-**URL:** https://www.extremepc.co.nz/zalman-n7-plus-v2-atx-mid-tower-case/
+**URL:** https://www.extremepc.co.nz/mid-tower-cases/zalman-n7-plus-v2-atx-mid-tower-case/
 
 ## Quick Specs
 - Form factor: ATX mid-tower

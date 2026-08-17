@@ -3,7 +3,7 @@
 **Price:** $219 inc GST
 **SKU:** CASVALVK03LW
 **MPN:** TBC
-**URL:** https://www.extremepc.co.nz/valkyrie-vk03-lcd-touch-screen-tempered-glass-atx-mid-tower-gaming-case-white/
+**URL:** https://www.extremepc.co.nz/valkyrie-vk03-lcd-tempered-glass-atx-mid-tower-gaming-case-white/
 
 ## Quick Specs
 - Form factor: ATX mid-tower

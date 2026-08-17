@@ -1,9 +1,10 @@
 # Jonsbo D41 MESH Tempered Glass ATX Mid Tower Case - Black
 
-**Price:** $119 inc GST
+**Price:** $139.00 inc GST
 **SKU:** CASJOND41MEB
 **MPN:** TBC
-**URL:** https://www.extremepc.co.nz/jonsbo-d41-mesh-tempered-glass-atx-mid-tower-case-black/
+**URL:** https://www.extremepc.co.nz/shop-all/jonsbo-d41-mesh-tempered-glass-atx-mid-tower-case-black/
+**Status:** OUT OF STOCK - last checked 2026-08-18
 
 ## Quick Specs
 - Form factor: ATX mid-tower
@@ -91,8 +92,8 @@ Not currently in stock at ExtremePC. The D41 range is available in black; for wh
   "offers": {
     "@type": "Offer",
     "priceCurrency": "NZD",
-    "price": "119",
-    "availability": "https://schema.org/InStock",
+    "price": "139.00",
+    "availability": "https://schema.org/OutOfStock",
     "seller": {
       "@type": "Organization",
       "name": "ExtremePC"

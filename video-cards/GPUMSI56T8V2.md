@@ -1,6 +1,6 @@
 # MSI GeForce RTX 5060 Ti 8G VENTUS 2X PLUS GDDR7 Graphics Card
 
-**Price:** $839.00 inc GST
+**Price:** $1,039.00 inc GST
 **SKU:** GPUMSI56T8V2
 **MPN:** GEFORCE RTX 5060 TI 8G VENTUS 2X PLUS
 **URL:** https://www.extremepc.co.nz/msi-geforce-rtx-5060-ti-8g-ventus-2x-plus-gddr7-graphics-card/
@@ -132,7 +132,7 @@
   },
   "offers": {
     "@type": "Offer",
-    "price": "839.00",
+    "price": "1039.00",
     "priceCurrency": "NZD",
     "availability": "https://schema.org/InStock",
     "url": "https://www.extremepc.co.nz/msi-geforce-rtx-5060-ti-8g-ventus-2x-plus-gddr7-graphics-card/",

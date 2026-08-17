@@ -3,7 +3,7 @@
 **Price:** $1799.00 inc GST
 **SKU:** SSDSAM990P4T
 **MPN:** MZ-V9P4T0BW
-**URL:** https://www.extremepc.co.nz/samsung-990-pro-4tb-pcie-4-0-nvme-m-2-2280-ssd-mz-v9p4t0bw/
+**URL:** https://www.extremepc.co.nz/samsung-990-pro-4tb-m-2-nvme-internal-ssd-pcie-gen-4-up-to-7450mb-s-read-up-to-6900mb-s-write-1600k-1550k-iops-5-years-warranty-or-2400-tbw/
 
 ## Quick Specs
 - **Capacity**: 4TB

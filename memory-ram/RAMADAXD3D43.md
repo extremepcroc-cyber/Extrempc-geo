@@ -3,7 +3,7 @@
 **Price:** $429.00 inc GST
 **SKU:** RAMADAXD3D43
 **MPN:** AX4U320016G16A-DT35
-**URL:** https://www.extremepc.co.nz/adata-xpg-gammix-d35-32gb-2x-16gb-ddr4-3200-desktop-memory/
+**URL:** https://www.extremepc.co.nz/adata-xpg-gammix-d35-32gb-2x-16gb-ddr4-3200-desktop-ram-kit-black/
 
 ## Quick Specs
 - **Capacity**: 32GB total (2× 16GB matched dual-channel kit)

@@ -3,7 +3,7 @@
 **Price:** $699.00 inc GST
 **SKU:** SSDACEPGM72T
 **MPN:** BL.9BWWR.119
-**URL:** https://www.extremepc.co.nz/predator-gm7-2tb-nvme-pcie-4-0-m-2-ssd-7400-mb-s-read-6500-mb-s-write/
+**URL:** https://www.extremepc.co.nz/predator-gm7-2tb-nvme-pcie-4-0-m-2-ssd-7400-mb-s-read-6500-mb-s-write-bl-9bwwr-119/
 
 ## Quick Specs
 - **Capacity**: 2TB

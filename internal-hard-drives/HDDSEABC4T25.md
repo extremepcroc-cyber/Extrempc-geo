@@ -3,7 +3,7 @@
 **Price:** $399.00 inc GST
 **SKU:** HDDSEABC4T25
 **MPN:** ST4000LM024
-**URL:** https://www.extremepc.co.nz/seagate-barracuda-4tb-2-5-15mm-internal-hard-laptop-drive/
+**URL:** https://www.extremepc.co.nz/shop-all/seagate-barracuda-4tb-2-5-15mm-internal-laptop-hard-drive/
 
 ## Quick Specs
 - **Capacity**: 4TB

@@ -4,6 +4,7 @@
 **SKU:** HDDSEASKYAI18T
 **MPN:** ST18000VE002
 **URL:** https://www.extremepc.co.nz/seagate-skyhawk-ai-18tb-3-5-sata3-surveillance-internal-hard-drive-st18000ve002/
+**Status:** OUT OF STOCK - last checked 2026-08-18
 
 ## Quick Specs
 - **Capacity**: 18TB
@@ -72,7 +73,7 @@
     "@type": "Offer",
     "price": "1059.00",
     "priceCurrency": "NZD",
-    "availability": "https://schema.org/InStock",
+    "availability": "https://schema.org/OutOfStock",
     "url": "https://www.extremepc.co.nz/seagate-skyhawk-ai-18tb-3-5-sata3-surveillance-internal-hard-drive-st18000ve002/",
     "seller": { "@type": "Organization", "name": "ExtremePC", "url": "https://www.extremepc.co.nz", "areaServed": "NZ" }
   }

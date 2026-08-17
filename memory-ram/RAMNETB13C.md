@@ -4,7 +4,7 @@
 **Stock:** 23 units in stock (Onehunga: 9, Supplier: 14)
 **SKU:** RAMNETB13C
 **MPN:** NTBSD4N32SP-16
-**URL:** https://www.extremepc.co.nz/netac-basic-16gb-ddr4-3200-sodimm-laptop-ram-ntbsd4n32sp-16/
+**URL:** https://www.extremepc.co.nz/netac-basic-16gb-ddr4-3200-c22-sodimm-lifetime-wty/
 
 ## Quick Specs
 - **Capacity**: 16GB single SODIMM

@@ -3,7 +3,7 @@
 **Price:** $645.00 inc GST
 **SKU:** HDDWDHC52012T
 **MPN:** HUH721212ALE604
-**URL:** https://www.extremepc.co.nz/wd-ultrastar-dc-hc520-12tb-3-5-sata3-enterprise-hard-drive-huh721212ale604/
+**URL:** https://www.extremepc.co.nz/wd-ultrastar-hc520-12tb-3-5-enterprise-hdd-sata-6gb-s-7200-rpm-256mb-cache-5-years-warranty/
 **Status:** OUT OF STOCK — last checked 2026-07-27
 
 ## Quick Specs

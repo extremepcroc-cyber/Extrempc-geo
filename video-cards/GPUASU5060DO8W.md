@@ -1,6 +1,6 @@
 # ASUS DUAL GeForce RTX 5060 OC White 8GB GDDR7 Graphics Card
 
-**Price:** $709.00 inc GST
+**Price:** $929.00 inc GST
 **SKU:** GPUASU5060DO8W
 **MPN:** DUAL-RTX5060-O8G-WHITE
 **URL:** https://www.extremepc.co.nz/asus-dual-nvidia-geforce-rtx-5060-oc-white-8gb-gddr7-graphics-card/
@@ -125,7 +125,7 @@
   },
   "offers": {
     "@type": "Offer",
-    "price": "709.00",
+    "price": "929.00",
     "priceCurrency": "NZD",
     "availability": "https://schema.org/InStock",
     "url": "https://www.extremepc.co.nz/asus-dual-nvidia-geforce-rtx-5060-oc-white-8gb-gddr7-graphics-card/",

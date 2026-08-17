@@ -3,7 +3,7 @@
 **Price:** $2088.00 inc GST
 **SKU:** HDDWDHC56020T
 **MPN:** WUH722020ALE6L4
-**URL:** https://www.extremepc.co.nz/wd-ultrastar-dc-hc560-20tb-3-5-sata3-enterprise-hard-drive-wuh722020ale6l4/
+**URL:** https://www.extremepc.co.nz/wd-ultrastar-hc560-20tb-3-5-enterprise-hdd-sata-6gb-s-7200-rpm-512mb-cache-5-years-warranty/
 **Status:** OUT OF STOCK — last checked 2026-07-27
 
 ## Quick Specs

@@ -3,7 +3,7 @@
 **Price:** $115 inc GST
 **SKU:** CASSEGEPPW
 **MPN:** TBC
-**URL:** https://www.extremepc.co.nz/segotep-endura-pro-plus-eatx-tempered-glass-full-tower-case-white/
+**URL:** https://www.extremepc.co.nz/segotep-endura-pro-eatx-tempered-glass-full-tower-case-white/
 
 ## Quick Specs
 - Form factor: EATX / Full Tower (supports Extended ATX boards up to 305×330mm)

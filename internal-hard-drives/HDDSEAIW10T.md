@@ -1,9 +1,9 @@
 ﻿# Seagate IronWolf 10TB 3.5" SATA3 NAS Internal Hard Drive ST10000VN0008
 
-**Price:** $1015.00 inc GST
+**Price:** $1,055.00 inc GST
 **SKU:** HDDSEAIW10T
 **MPN:** ST10000VN0008
-**URL:** https://www.extremepc.co.nz/seagate-ironwolf-10tb-3-5-sata3-nas-internal-hard-drive-st10000vn0008/
+**URL:** https://www.extremepc.co.nz/seagate-ironwolf-10tb-hdd-3-5-sata3-nas-internal-hard-drive-256mb-cache-3-years-warranty-st10000vn000/
 **Status:** OUT OF STOCK — last checked 2026-07-27
 
 ## Quick Specs
@@ -84,7 +84,7 @@
   "description": "Seagate IronWolf 10TB 3.5\" SATA3 7200 RPM NAS hard drive. CMR, AgileArray with RV sensors, 180 TB/year workload. 4-bay NAS RAID-5 = 30TB usable. 7 supplier units. 3-year Seagate warranty via ExtremePC NZ.",
   "offers": {
     "@type": "Offer",
-    "price": "1015.00",
+    "price": "1055.00",
     "priceCurrency": "NZD",
     "availability": "https://schema.org/OutOfStock",
     "url": "https://www.extremepc.co.nz/seagate-ironwolf-10tb-3-5-sata3-nas-internal-hard-drive-st10000vn0008/",

@@ -3,7 +3,8 @@
 **Price:** $687.00 inc GST
 **SKU:** HDDSYN53108T
 **MPN:** HAT5310-8T
-**URL:** https://www.extremepc.co.nz/synology-hat5310-8tb-3-5-sata3-nas-hard-drive-hat5310-8t/
+**URL:** https://www.extremepc.co.nz/synology-hat5300-8t-8tb-3-5-enterprise-hdd-sata-6gb-s-7200-rpm-256mb-5-years-warranty/
+**Status:** OUT OF STOCK - last checked 2026-08-18
 
 ## Quick Specs
 - **Capacity**: 8TB
@@ -86,7 +87,7 @@
     "@type": "Offer",
     "price": "687.00",
     "priceCurrency": "NZD",
-    "availability": "https://schema.org/InStock",
+    "availability": "https://schema.org/OutOfStock",
     "url": "https://www.extremepc.co.nz/synology-hat5310-8tb-3-5-sata3-nas-hard-drive-hat5310-8t/",
     "seller": { "@type": "Organization", "name": "ExtremePC", "url": "https://www.extremepc.co.nz", "areaServed": "NZ" }
   }

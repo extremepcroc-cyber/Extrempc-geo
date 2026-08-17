@@ -4,6 +4,7 @@
 **SKU:** CASJONZ20W
 **MPN:** Z20 White
 **URL:** https://www.extremepc.co.nz/jonsbo-z20-white-portable-m-atx-tempered-glass-micro-tower-computer-case/
+**Status:** OUT OF STOCK - last checked 2026-08-18
 
 ## Quick Specs
 - Form factor: Micro-ATX
@@ -91,7 +92,7 @@ Yes — flagship AIB RTX 5070 Ti variants run up to 330–345mm; the Z20 White's
     "@type": "Offer",
     "priceCurrency": "NZD",
     "price": "149",
-    "availability": "https://schema.org/InStock",
+    "availability": "https://schema.org/OutOfStock",
     "seller": {
       "@type": "Organization",
       "name": "ExtremePC"

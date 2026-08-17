@@ -3,7 +3,7 @@
 **Price:** $575.00 inc GST
 **SKU:** HDDSEASKY6TST
 **MPN:** ST6000VX009
-**URL:** https://www.extremepc.co.nz/seagate-skyhawk-6tb-3-5-sata3-surveillance-internal-hard-drive-st6000vx009/
+**URL:** https://www.extremepc.co.nz/seagate-skyhawk-surveillance-internal-3-5-sata-drive-6tb-6gb-s-5400rpm-3yr-wty/
 **Status:** OUT OF STOCK — last checked 2026-07-27
 
 ## Quick Specs

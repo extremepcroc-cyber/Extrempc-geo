@@ -1,6 +1,6 @@
 # Intel Core i5-12400F — 6 Core LGA 1700 OEM (no cooler, no iGPU)
 
-**Price:** $269.00 inc GST
+**Price:** $259.00 inc GST
 **SKU:** CPUINT12400FOEM
 **MPN:** BX8071512400FOEM
 **URL:** https://www.extremepc.co.nz/intel-core-i5-12400f-6-core-lga-1700-cpu-oem-package-without-cooler/
@@ -123,7 +123,7 @@
   },
   "offers": {
     "@type": "Offer",
-    "price": "269.00",
+    "price": "259.00",
     "priceCurrency": "NZD",
     "availability": "https://schema.org/InStock",
     "url": "https://www.extremepc.co.nz/intel-core-i5-12400f-6-core-lga-1700-cpu-oem-package-without-cooler/",

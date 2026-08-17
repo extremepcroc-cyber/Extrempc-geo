@@ -3,7 +3,7 @@
 **Price:** $505.00 inc GST
 **SKU:** HDDWDPRO10T
 **MPN:** WD101PURP
-**URL:** https://www.extremepc.co.nz/wd-purple-pro-10tb-3-5-sata3-ai-surveillance-hard-drive-wd101purp/
+**URL:** https://www.extremepc.co.nz/wd-surveillance-purple-pro-3-5-10tb-256mb-sata3-hdd/
 **Status:** OUT OF STOCK — last checked 2026-07-27
 
 ## Quick Specs

@@ -3,7 +3,7 @@
 **Price:** $529.00 inc GST
 **SKU:** SSDSAM990P1T
 **MPN:** MZ-V9P1T0BW
-**URL:** https://www.extremepc.co.nz/samsung-990-pro-1tb-pcie-4-0-nvme-m-2-2280-ssd-mz-v9p1t0bw/
+**URL:** https://www.extremepc.co.nz/ssd-990-pro-m-2-2280-1tb-pcie-gen-4-0-x4-nvme-2-0-r-w-max-7-450mb-s-6-900mb-s/
 
 ## Quick Specs
 - **Capacity**: 1TB

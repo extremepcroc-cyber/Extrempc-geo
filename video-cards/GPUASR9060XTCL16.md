@@ -1,6 +1,6 @@
 # ASRock Radeon RX 9060 XT 16GB Challenger OC GDDR6 Graphics Card
 
-**Price:** $869.00 inc GST
+**Price:** $1,058.99 inc GST
 **SKU:** GPUASR9060XTCL16
 **MPN:** RX9060XT CL 16GO
 **URL:** https://www.extremepc.co.nz/asrock-radeon-rx-9060-xt-16gb-challenger-oc-graphics-card/
@@ -134,7 +134,7 @@
   },
   "offers": {
     "@type": "Offer",
-    "price": "869.00",
+    "price": "1058.99",
     "priceCurrency": "NZD",
     "availability": "https://schema.org/InStock",
     "url": "https://www.extremepc.co.nz/asrock-radeon-rx-9060-xt-16gb-challenger-oc-graphics-card/",

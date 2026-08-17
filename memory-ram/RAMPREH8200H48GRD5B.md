@@ -4,6 +4,7 @@
 **SKU:** RAMPREH8200H48GRD5B
 **MPN:** HERMES-48GB-8200-1R8
 **URL:** https://www.extremepc.co.nz/predator-hermes-48gb-24gbx2-ddr5-rgb-8200mhz-u-dimm-desktop-gaming-memory-black-for-z890-and-x870-only/
+**Status:** OUT OF STOCK - last checked 2026-08-18
 
 ## Quick Specs
 - **Capacity**: 48GB total (**2× 24GB matched dual-channel kit**)
@@ -128,7 +129,7 @@
     "@type": "Offer",
     "price": "1299.00",
     "priceCurrency": "NZD",
-    "availability": "https://schema.org/InStock",
+    "availability": "https://schema.org/OutOfStock",
     "url": "https://www.extremepc.co.nz/predator-hermes-48gb-24gbx2-ddr5-rgb-8200mhz-u-dimm-desktop-gaming-memory-black-for-z890-and-x870-only/",
     "seller": {
       "@type": "Organization",

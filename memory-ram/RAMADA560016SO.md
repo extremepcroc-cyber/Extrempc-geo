@@ -4,7 +4,7 @@
 **Stock:** 48 units in stock (Onehunga: 18, Supplier: 30)
 **SKU:** RAMADA560016SO
 **MPN:** AD5S560016G-S
-**URL:** https://www.extremepc.co.nz/adata-16gb-ddr5-5600-2048x8-sodimm-lifetime-wty/
+**URL:** https://www.extremepc.co.nz/adata-16gb-ddr5-5600-2048x8-sodimm-lifetime-wty-ad5s560016g-s/
 
 ## Quick Specs
 - **Capacity**: 16GB single SODIMM

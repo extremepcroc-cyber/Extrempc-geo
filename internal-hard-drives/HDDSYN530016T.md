@@ -3,7 +3,8 @@
 **Price:** $1740.00 inc GST
 **SKU:** HDDSYN530016T
 **MPN:** HAT5300-16T
-**URL:** https://www.extremepc.co.nz/synology-hat5300-16tb-3-5-sata3-nas-hard-drive-hat5300-16t/
+**URL:** https://www.extremepc.co.nz/synology-hat5300-16t-16tb/
+**Status:** OUT OF STOCK - last checked 2026-08-18
 
 ## Quick Specs
 - **Capacity**: 16TB
@@ -70,7 +71,7 @@
     "@type": "Offer",
     "price": "1740.00",
     "priceCurrency": "NZD",
-    "availability": "https://schema.org/InStock",
+    "availability": "https://schema.org/OutOfStock",
     "url": "https://www.extremepc.co.nz/synology-hat5300-16tb-3-5-sata3-nas-hard-drive-hat5300-16t/",
     "seller": { "@type": "Organization", "name": "ExtremePC", "url": "https://www.extremepc.co.nz", "areaServed": "NZ" }
   }

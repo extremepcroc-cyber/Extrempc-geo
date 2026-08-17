@@ -3,7 +3,8 @@
 **Price:** $229 inc GST
 **SKU:** CASCOR3000DAFRW
 **MPN:** TBC
-**URL:** https://www.extremepc.co.nz/corsair-3000d-airflow-rgb-tempered-glass-mid-tower-atx-case-white/
+**URL:** https://www.extremepc.co.nz/corsair-3000d-rgb-tempered-glass-mid-tower-case-white/
+**Status:** OUT OF STOCK - last checked 2026-08-18
 
 ## Quick Specs
 - Form factor: ATX mid-tower
@@ -93,7 +94,7 @@ The 3000D Airflow has a mesh front for higher airflow at the cost of a less poli
     "@type": "Offer",
     "priceCurrency": "NZD",
     "price": "229",
-    "availability": "https://schema.org/InStock",
+    "availability": "https://schema.org/OutOfStock",
     "seller": {
       "@type": "Organization",
       "name": "ExtremePC"

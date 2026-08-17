@@ -1,9 +1,9 @@
 # Team T-Force G50 1TB M.2 PCIe Gen4×4 NVMe SSD — 5000/4800 MB/s
 
-**Price:** $349.00 inc GST
+**Price:** $329.00 inc GST
 **SKU:** SSDTEATG501NG4
 **MPN:** TM8FFE001T0C129
-**URL:** https://www.extremepc.co.nz/team-teamgroup-t-force-g50-1tb-m-2-pcie-gen-4x4-with-nvme-ssd/
+**URL:** https://www.extremepc.co.nz/team-teamgroup-t-force-g50-1tb-m-2-pcie-gen-4x4-with-nvme-ssd-5000mb-s-read-4800mb-s-write/
 
 ## Quick Specs
 - **Capacity**: 1TB
@@ -112,7 +112,7 @@
   },
   "offers": {
     "@type": "Offer",
-    "price": "349.00",
+    "price": "329.00",
     "priceCurrency": "NZD",
     "availability": "https://schema.org/InStock",
     "url": "https://www.extremepc.co.nz/team-teamgroup-t-force-g50-1tb-m-2-pcie-gen-4x4-with-nvme-ssd/",

@@ -3,7 +3,8 @@
 **Price:** $1545.00 inc GST
 **SKU:** HDDSYN331016T
 **MPN:** HAT3310-16T
-**URL:** https://www.extremepc.co.nz/synology-hat3310-16tb-3-5-sata3-nas-hard-drive-hat3310-16t/
+**URL:** https://www.extremepc.co.nz/synology-hat3310-16tb-3-5-plus-series-nas-hdd-sata-6gb-s-7200-rpm-256mb-cache-3-years-warranty/
+**Status:** OUT OF STOCK - last checked 2026-08-18
 
 ## Quick Specs
 - **Capacity**: 16TB
@@ -71,7 +72,7 @@
     "@type": "Offer",
     "price": "1521.00",
     "priceCurrency": "NZD",
-    "availability": "https://schema.org/InStock",
+    "availability": "https://schema.org/OutOfStock",
     "url": "https://www.extremepc.co.nz/synology-hat3310-16tb-3-5-sata3-nas-hard-drive-hat3310-16t/",
     "seller": { "@type": "Organization", "name": "ExtremePC", "url": "https://www.extremepc.co.nz", "areaServed": "NZ" }
   }

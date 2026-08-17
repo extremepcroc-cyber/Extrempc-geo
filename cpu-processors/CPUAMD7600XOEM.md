@@ -3,7 +3,7 @@
 **Price:** $379.00 inc GST
 **SKU:** CPUAMD7600XOEM
 **MPN:** 100-000000593
-**URL:** https://www.extremepc.co.nz/amd-ryzen-5-7600x-cpu-6-core-12-thread-am5-socket-105w-tdp-oem-package-without-cooler/
+**URL:** https://www.extremepc.co.nz/amd-ryzen-5-7600x-cpu-6-core-12-thread-38mb-cache-am5-socket-105w-tdp-oem-package-without-cooler/
 
 ## Quick Specs
 - **Architecture**: Zen 4, 5nm TSMC process

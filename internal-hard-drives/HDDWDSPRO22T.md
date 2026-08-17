@@ -1,9 +1,9 @@
 ﻿# WD Purple PRO 22TB 3.5" SATA3 AI Surveillance Hard Drive WD221PURP
 
-**Price:** $2771.01 inc GST
+**Price:** $2,619.00 inc GST
 **SKU:** HDDWDSPRO22T
 **MPN:** WD221PURP
-**URL:** https://www.extremepc.co.nz/wd-purple-pro-22tb-3-5-sata3-ai-surveillance-hard-drive-wd221purp/
+**URL:** https://www.extremepc.co.nz/wd-surveillance-purple-pro-22tb-3-5-internal-hdd-sata3-512mb-cache-built-for-business-enterprise-surveillance-system-up-to-64-cameras-up-to-550tb-year-5-years-warranty/
 **Status:** OUT OF STOCK — last checked 2026-07-27
 
 ## Quick Specs
@@ -89,7 +89,7 @@
   "description": "WD Purple PRO 22TB 3.5\" SATA3 AI surveillance HDD. 512MB cache, 360 TB/year workload, 64 AI streams. 5-year WD warranty. For enterprise AI NVR with 90-day retention mandates. 14 supplier units. Via ExtremePC NZ.",
   "offers": {
     "@type": "Offer",
-    "price": "2771.00",
+    "price": "2619.00",
     "priceCurrency": "NZD",
     "availability": "https://schema.org/OutOfStock",
     "url": "https://www.extremepc.co.nz/wd-purple-pro-22tb-3-5-sata3-ai-surveillance-hard-drive-wd221purp/",

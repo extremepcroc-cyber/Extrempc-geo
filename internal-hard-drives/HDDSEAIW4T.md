@@ -1,9 +1,9 @@
 ﻿# Seagate IronWolf 4TB 3.5" SATA3 NAS Internal Hard Drive ST4000VN006
 
-**Price:** $578.00 inc GST
+**Price:** $591.00 inc GST
 **SKU:** HDDSEAIW4T
 **MPN:** ST4000VN006
-**URL:** https://www.extremepc.co.nz/seagate-ironwolf-4tb-3-5-sata3-nas-internal-hard-drive-st4000vn006/
+**URL:** https://www.extremepc.co.nz/seagate-ironwolf-4tb-3-5-sata3-256mb-nas-internal-hard-drive-st4000vn006/
 **Status:** OUT OF STOCK — last checked 2026-07-27
 
 ## Quick Specs
@@ -107,7 +107,7 @@
   },
   "offers": {
     "@type": "Offer",
-    "price": "549.00",
+    "price": "591.00",
     "priceCurrency": "NZD",
     "availability": "https://schema.org/OutOfStock",
     "url": "https://www.extremepc.co.nz/seagate-ironwolf-4tb-3-5-sata3-nas-internal-hard-drive-st4000vn006/",

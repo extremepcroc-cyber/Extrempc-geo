@@ -3,7 +3,7 @@
 **Price:** $1984.00 inc GST
 **SKU:** HDDSEAIWP20T
 **MPN:** ST20000NE000
-**URL:** https://www.extremepc.co.nz/seagate-ironwolf-pro-20tb-3-5-sata3-nas-internal-hard-drive-st20000ne000/
+**URL:** https://www.extremepc.co.nz/seagate-ironwolf-pro-20tb-3-5-internal-hdd/
 **Status:** OUT OF STOCK — last checked 2026-07-27
 
 ## Quick Specs

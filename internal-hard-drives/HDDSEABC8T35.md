@@ -3,7 +3,7 @@
 **Price:** $699.00 inc GST
 **SKU:** HDDSEABC8T35
 **MPN:** ST8000DM004
-**URL:** https://www.extremepc.co.nz/seagate-barracuda-8tb-3-5-sata3-sata3-256mb-desktop-hard-drive-st8000dm004-1-year-warranty/
+**URL:** https://www.extremepc.co.nz/seagate-barracuda-8tb-3-5-sata3-desktop-hard-drive/
 
 ## Quick Specs
 - **Capacity**: 8TB

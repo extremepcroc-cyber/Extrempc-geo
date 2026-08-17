@@ -3,7 +3,7 @@
 **Price:** $1592.00 inc GST
 **SKU:** HDDSYNHAT53012T
 **MPN:** HAT5300-12T
-**URL:** https://www.extremepc.co.nz/synology-hat5300-12tb-3-5-sata3-nas-hard-drive-hat5300-12t/
+**URL:** https://www.extremepc.co.nz/synology-hat5300-12t-12tb-3-5-sata-enterprise-hdd-5-years-warranty/
 **Status:** OUT OF STOCK — last checked 2026-07-27
 
 ## Quick Specs

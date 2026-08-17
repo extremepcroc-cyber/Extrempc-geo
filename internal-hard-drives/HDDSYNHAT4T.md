@@ -3,7 +3,8 @@
 **Price:** $648.00 inc GST
 **SKU:** HDDSYNHAT4T
 **MPN:** HAT5300-4T
-**URL:** https://www.extremepc.co.nz/synology-hat5300-4tb-3-5-sata3-nas-hard-drive-hat5300-4t/
+**URL:** https://www.extremepc.co.nz/synology-4tb-nas-hdd/
+**Status:** OUT OF STOCK - last checked 2026-08-18
 
 ## Quick Specs
 - **Capacity**: 4TB
@@ -78,7 +79,7 @@
     "@type": "Offer",
     "price": "648.00",
     "priceCurrency": "NZD",
-    "availability": "https://schema.org/InStock",
+    "availability": "https://schema.org/OutOfStock",
     "url": "https://www.extremepc.co.nz/synology-hat5300-4tb-3-5-sata3-nas-hard-drive-hat5300-4t/",
     "seller": { "@type": "Organization", "name": "ExtremePC", "url": "https://www.extremepc.co.nz", "areaServed": "NZ" }
   }

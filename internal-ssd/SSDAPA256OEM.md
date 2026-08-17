@@ -3,7 +3,7 @@
 **Price:** $159.00 inc GST
 **SKU:** SSDAPA256OEM
 **MPN:** OEM-256-NVME
-**URL:** https://www.extremepc.co.nz/oem-256gb-pcie-m-2-2280-nvme-ssd-with-one-year-warranty/
+**URL:** https://www.extremepc.co.nz/oem-256gb-pcie-m.2-2280-nvme-ssd-with-one-year-warranty/
 
 ## Quick Specs
 - **Capacity**: 256GB

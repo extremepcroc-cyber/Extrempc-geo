@@ -3,7 +3,7 @@
 **Price:** $249 inc GST
 **SKU:** CASLIAL217BI
 **MPN:** TBC
-**URL:** https://www.extremepc.co.nz/lian-li-lancool-217-inf-tempered-glass-atx-mid-tower-gaming-case-black-infinity/
+**URL:** https://www.extremepc.co.nz/mid-tower-cases/lian-li-lancool-217-inf-tempered-glass-atx-mid-tower-gaming-case-black-infinity/
 
 ## Quick Specs
 - Form factor: ATX mid-tower

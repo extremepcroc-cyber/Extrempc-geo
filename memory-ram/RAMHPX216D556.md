@@ -3,7 +3,7 @@
 **Price:** $529.00 inc GST
 **SKU:** RAMHPX216D556
 **MPN:** HP-X2-DDR5-5600-16GB-UDIMM
-**URL:** https://www.extremepc.co.nz/hp-x2-ddr5-5600mhz-16gb-udimm-cl46-1-1v-memory/
+**URL:** https://www.extremepc.co.nz/hp-x2-ddr5-5600mhz-16gb-udimm-cl46-1-1v-laptop-memory/
 
 ## Quick Specs
 - **Capacity**: 16GB single module

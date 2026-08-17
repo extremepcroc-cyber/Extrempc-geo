@@ -4,6 +4,7 @@
 **SKU:** MONSAM27FG7
 **MPN:** LS27FG702EEXXY
 **URL:** https://www.extremepc.co.nz/samsung-odyssey-g70f-27-uhd-4k-180hz-1ms-ips-gaming-monitor-ls27fg702eexxy/
+**Status:** OUT OF STOCK - last checked 2026-08-18
 
 ## Quick Specs
 - **Panel**: 27" IPS, UHD 4K (3840×2160)
@@ -101,7 +102,7 @@
     "@type": "Offer",
     "price": "999.00",
     "priceCurrency": "NZD",
-    "availability": "https://schema.org/InStock",
+    "availability": "https://schema.org/OutOfStock",
     "url": "https://www.extremepc.co.nz/samsung-odyssey-g70f-27-uhd-4k-180hz-1ms-ips-gaming-monitor-ls27fg702eexxy/",
     "seller": {
       "@type": "Organization",

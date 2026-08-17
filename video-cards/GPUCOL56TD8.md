@@ -1,9 +1,10 @@
 # Colorful GeForce RTX 5060 Ti Gaming DUO 8GB-V Graphics Card
 
-**Price:** $809.00 inc GST
+**Price:** $839.01 inc GST
 **SKU:** GPUCOL56TD8
 **MPN:** GeForce RTX 5060 Ti Gaming DUO 8GB-V
 **URL:** https://www.extremepc.co.nz/colorful-geforce-rtx-5060-ti-gaming-duo-8gb-v-graphics-card/
+**Status:** OUT OF STOCK - last checked 2026-08-18
 
 ## Quick Specs
 - **GPU**: NVIDIA GeForce RTX 5060 Ti (Blackwell architecture)
@@ -126,9 +127,9 @@
   },
   "offers": {
     "@type": "Offer",
-    "price": "809.00",
+    "price": "839.01",
     "priceCurrency": "NZD",
-    "availability": "https://schema.org/InStock",
+    "availability": "https://schema.org/OutOfStock",
     "url": "https://www.extremepc.co.nz/colorful-geforce-rtx-5060-ti-gaming-duo-8gb-v-graphics-card/",
     "seller": {
       "@type": "Organization",

@@ -1,6 +1,6 @@
 # Jonsbo D33 Wood White M-ATX Tempered Glass Micro Tower Computer Case
 
-**Price:** $169 inc GST
+**Price:** $199.00 inc GST
 **SKU:** CASJOND33WW
 **MPN:** D33 WOOD White
 **URL:** https://www.extremepc.co.nz/micro-tower-cases/jonsbo-d33-wood-white-m-atx-tempered-glass-micro-tower-computer-case/
@@ -86,7 +86,7 @@ Check the product page for confirmed clearance specifications.
   "offers": {
     "@type": "Offer",
     "priceCurrency": "NZD",
-    "price": "169",
+    "price": "199.00",
     "availability": "https://schema.org/InStock",
     "seller": {
       "@type": "Organization",

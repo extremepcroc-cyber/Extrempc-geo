@@ -1,9 +1,9 @@
 # WD Purple 2TB 3.5" SATA3 64MB Surveillance Hard Drive WD23PURZ
 
-**Price:** $380.00 inc GST
+**Price:** $429.00 inc GST
 **SKU:** HDDWDSP2T64
 **MPN:** WD23PURZ
-**URL:** https://www.extremepc.co.nz/wd-purple-2tb-3-5-sata3-64mb-surveillance-hard-drive-wd23purz/
+**URL:** https://www.extremepc.co.nz/wd-surveillance-purple-2tb-64mb-3-5-sata3-internal-hdd/
 **Status:** OUT OF STOCK — last checked 2026-07-27
 
 ## Quick Specs
@@ -85,7 +85,7 @@
   "description": "WD Purple 2TB 3.5\" SATA3 surveillance HDD. AllFrame AI firmware, 64 streams, 180 TB/year workload. 31 units supplier stock. For home CCTV 4–8 cameras. 3-year WD warranty via ExtremePC NZ.",
   "offers": {
     "@type": "Offer",
-    "price": "380.00",
+    "price": "429.00",
     "priceCurrency": "NZD",
     "availability": "https://schema.org/OutOfStock",
     "url": "https://www.extremepc.co.nz/wd-purple-2tb-3-5-sata3-64mb-surveillance-hard-drive-wd23purz/",

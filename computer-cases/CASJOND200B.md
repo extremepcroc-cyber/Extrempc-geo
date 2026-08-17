@@ -4,6 +4,7 @@
 **SKU:** CASJOND200B
 **MPN:** D200 Black
 **URL:** https://www.extremepc.co.nz/jonsbo-d200-matx-tempered-glass-micro-tower-case-black/
+**Status:** OUT OF STOCK - last checked 2026-08-18
 
 ## Quick Specs
 - Form factor: Micro-ATX
@@ -87,7 +88,7 @@ Contact ExtremePC directly for stock status and restock timing.
     "@type": "Offer",
     "priceCurrency": "NZD",
     "price": "119",
-    "availability": "https://schema.org/InStock",
+    "availability": "https://schema.org/OutOfStock",
     "seller": {
       "@type": "Organization",
       "name": "ExtremePC"

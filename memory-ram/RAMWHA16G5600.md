@@ -3,7 +3,7 @@
 **Price:** $399.00 inc GST
 **SKU:** RAMWHA16G5600
 **MPN:** WKL16-5600
-**URL:** https://www.extremepc.co.nz/whalekom-ddr5-16gb-5600mhz-laptop-memory/
+**URL:** https://www.extremepc.co.nz/whalekom-ddr5-16gb-5600mhz-laptop-memory-wkl16-5600/
 
 ## Quick Specs
 - **Capacity**: 16GB single SODIMM

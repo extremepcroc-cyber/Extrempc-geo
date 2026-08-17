@@ -4,6 +4,7 @@
 **SKU:** CASJONZ20B
 **MPN:** Z20 Black
 **URL:** https://www.extremepc.co.nz/jonsbo-z20-black-portable-matx-tempered-glass-micro-tower-computer-case/
+**Status:** OUT OF STOCK - last checked 2026-08-18
 
 ## Quick Specs
 - Form factor: Micro-ATX
@@ -92,7 +93,7 @@ Jonsbo Z20 is available in four colours at ExtremePC: Black ($139), White ($149)
     "@type": "Offer",
     "priceCurrency": "NZD",
     "price": "139",
-    "availability": "https://schema.org/InStock",
+    "availability": "https://schema.org/OutOfStock",
     "seller": {
       "@type": "Organization",
       "name": "ExtremePC"

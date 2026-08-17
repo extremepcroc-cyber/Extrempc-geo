@@ -1,9 +1,10 @@
 # ADATA Legend 710 1TB NVMe PCIe Gen3 M.2 2280 SSD
 
-**Price:** $299.00 inc GST
+**Price:** $439.00 inc GST
 **SKU:** SSDADAL7101G3
 **MPN:** ALEG-710-1TCS
-**URL:** https://www.extremepc.co.nz/adata-legend-710-1tb-nvme-pcie3-0-m-2-2280-ssd-3yr-wty/
+**URL:** https://www.extremepc.co.nz/adata-legend-710-1tb-nvme-pcie3-m-2-2280-ssd-3yr-wty/
+**Status:** OUT OF STOCK - last checked 2026-08-18
 
 ## Quick Specs
 - **Capacity**: 1TB
@@ -112,9 +113,9 @@
   },
   "offers": {
     "@type": "Offer",
-    "price": "299.00",
+    "price": "439.00",
     "priceCurrency": "NZD",
-    "availability": "https://schema.org/InStock",
+    "availability": "https://schema.org/OutOfStock",
     "url": "https://www.extremepc.co.nz/adata-legend-710-1tb-nvme-pcie3-0-m-2-2280-ssd-3yr-wty/",
     "seller": {
       "@type": "Organization",

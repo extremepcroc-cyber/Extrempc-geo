@@ -1,9 +1,9 @@
 # WD Purple 3TB 3.5" SATA3 256MB Surveillance Hard Drive WD30PURZ
 
-**Price:** $491.00 inc GST
+**Price:** $468.00 inc GST
 **SKU:** HDDWDSP3T256
 **MPN:** WD30PURZ
-**URL:** https://www.extremepc.co.nz/wd-purple-3tb-3-5-sata3-256mb-surveillance-hard-drive-wd30purz/
+**URL:** https://www.extremepc.co.nz/wd-surveillance-purple-3tb-3-5-internal-hdd-sata3-256mb-cache-24x7-always-on-reliability-built-for-personal-home-office-or-small-business-up-to-64-cameras-allframe-4k-technology-3-years-warranty/
 **Status:** OUT OF STOCK — last checked 2026-07-27
 
 ## Quick Specs
@@ -73,7 +73,7 @@
   "description": "WD Purple 3TB 3.5\" SATA3 256MB surveillance HDD. AllFrame AI firmware, 64 streams, 180 TB/year workload. Mid-tier surveillance capacity for 8–16 camera CCTV. 3-year WD warranty via ExtremePC NZ.",
   "offers": {
     "@type": "Offer",
-    "price": "491.00",
+    "price": "468.00",
     "priceCurrency": "NZD",
     "availability": "https://schema.org/OutOfStock",
     "url": "https://www.extremepc.co.nz/wd-purple-3tb-3-5-sata3-256mb-surveillance-hard-drive-wd30purz/",

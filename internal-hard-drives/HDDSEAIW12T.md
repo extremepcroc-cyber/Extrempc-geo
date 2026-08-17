@@ -1,6 +1,6 @@
 ﻿# Seagate IronWolf 12TB 3.5" SATA3 NAS Internal Hard Drive ST12000VN0008
 
-**Price:** $1187.00 inc GST
+**Price:** $1,120.00 inc GST
 **SKU:** HDDSEAIW12T
 **MPN:** ST12000VN0008
 **URL:** https://www.extremepc.co.nz/seagate-ironwolf-12tb-3-5-sata3-nas-internal-hard-drive-st12000vn0008/
@@ -72,7 +72,7 @@
   "description": "Seagate IronWolf 12TB 3.5\" SATA3 7200 RPM NAS hard drive. CMR, AgileArray with RV sensors, 180 TB/year workload. 4-bay RAID-5 = 36TB usable. 1 supplier unit. 3-year Seagate warranty via ExtremePC NZ.",
   "offers": {
     "@type": "Offer",
-    "price": "1044.00",
+    "price": "1120.00",
     "priceCurrency": "NZD",
     "availability": "https://schema.org/OutOfStock",
     "url": "https://www.extremepc.co.nz/seagate-ironwolf-12tb-3-5-sata3-nas-internal-hard-drive-st12000vn0008/",

@@ -2,7 +2,7 @@
 
 **Price:** $199.00 inc GST
 **SKU:** MOSLAMMWH
-**URL:** https://www.extremepc.co.nz/search/?q=MOSLAMMWH
+**URL:** https://www.extremepc.co.nz/lamzu-maya-wired-wireless-optical-gaming-mouse-white/
 **Status:** OUT OF STOCK — last checked 2026-07-27
 
 ## Quick Specs

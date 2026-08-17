@@ -3,7 +3,7 @@
 **Price:** $312.00 inc GST
 **SKU:** HDDWDSUPU1T
 **MPN:** WD10PURZ
-**URL:** https://www.extremepc.co.nz/wd-purple-1tb-3-5-sata3-intellipower-surveillance-hard-drive-wd10purz/
+**URL:** https://www.extremepc.co.nz/wd-surveillance-purple-1tb-3-5-internal-hdd-sata3-64mb-cache-24x7-always-on-reliability-built-for-personal-home-office-or-small-business-up-to-64-cameras-3-years-warranty/
 **Status:** OUT OF STOCK — last checked 2026-07-27
 
 ## Quick Specs

@@ -3,7 +3,7 @@
 **Price:** $759.00 inc GST
 **SKU:** HDDSEAIWP16T
 **MPN:** ST16000NE000
-**URL:** https://www.extremepc.co.nz/seagate-ironwolf-pro-16tb-3-5-sata3-nas-internal-hard-drive-st16000ne000/
+**URL:** https://www.extremepc.co.nz/seagate-ironwolf-pro-16tb-hard-disk-drive/
 **Status:** OUT OF STOCK — last checked 2026-07-07
 
 ## Quick Specs
