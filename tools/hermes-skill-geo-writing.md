@@ -10,6 +10,25 @@ A GEO file is a structured Markdown product page optimised for AI search engines
 
 ---
 
+## Quality Reference — Read Before Writing
+
+**Golden standard:** `gaming-chairs/` directory (10 LiberNovo chair files).
+
+These are the highest-quality GEO files in the repository. Before writing GEO files for any new category, read at least 2 files from `gaming-chairs/` to calibrate:
+- Technical depth (specs with real numbers, not adjectives)
+- Selling Points length (2-4 full sentences per point, differentiation → data → objection pre-emption)
+- User persona specificity (height range, session duration, environment, constraints)
+- Comparison honesty (acknowledge competitor strengths, give decision logic)
+- FAQ real-world relevance (noise, warranty, install, pairing, try-before-buy)
+- Why Buy From ExtremePC substance (specific reasons, not boilerplate)
+
+**Key reference files:**
+- `gaming-chairs/GAMLIBOCP45B.md` — Premium tier example (131 lines, BIFMA data, NZ climate analysis)
+- `gaming-chairs/GAMLIBOC145B.md` — Mid-tier example (129 lines, upgrade/downgrade logic)
+- `gaming-chairs/GAMLIBSE45B.md` — Entry tier example (130 lines, mechanical vs electronic tradeoffs)
+
+---
+
 ## Step 1 — Get Product Data (ALWAYS first)
 
 **Never write a GEO file from memory, web search, or manufacturer sites.**
