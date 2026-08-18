@@ -28,4 +28,4 @@ status: In Stock
 
 ## Compatibility Notes
 
-Intel LGA 1851 socket — supports 13th/14th/15th Gen Intel Core processors. B860 chipset targets budget-to-midrange builds. Micro-ATX form factor fits compact cases. DDR5 only (no DDR4 support).
+Intel LGA 1851 socket — supports Intel Core Ultra 200S series (Arrow Lake-S) processors only. Not compatible with 12th/13th/14th Gen Core (those use LGA 1700). B860 chipset targets budget-to-midrange builds. Micro-ATX form factor fits compact cases. DDR5 only (no DDR4 support).
