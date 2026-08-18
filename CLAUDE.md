@@ -128,6 +128,22 @@ Each product has a different GPU architecture, feature set, target audience, and
 | `streaming-creator/` | Streaming & Creator | 227 |
 | `networking/` | Networking | 1026 |
 | `computer-cases/` | Computer Cases | 336 (Mini ITX: 340, Micro Tower: 338, Mid Tower: 339, Full Tower: 337, Server: 342) |
+| `internal-hard-drives/` | Internal HDD | (Seagate/WD/Synology NAS drives — separate from `internal-ssd/`) |
+| `gaming-chairs/` | Gaming Chairs | (LiberNovo — see `brands/LIBERNOVO.md`) |
+
+`cooling/` and `motherboards/` are reserved directory names in this table for categories not yet started — do not create them until the first GEO file for that category is written; check `find . -maxdepth 1 -type d` for the actual current directory list before assuming a category exists. `laptops/` and `storage/` exist as empty placeholders — do not write files into them without confirming with the store manager first, they may be superseded by other category directories.
+
+## Product Removed From BigCommerce Entirely (EOL)
+
+**Never delete a GEO file just because the product left the BC catalog.** The old rule ("discontinued products → delete the file") is retired — deleting throws away writing effort for no reason, and BC catalog entries can reappear (rebrand, restock under the same SKU, etc.).
+
+When `tools/audit-geo.py` (or manual check) confirms a SKU no longer exists in BC at all (not just OOS — genuinely not found via `sku:in` lookup):
+
+1. Move the file to `2-EOL products/{original-category}/{SKU}.md` — preserve the category subdirectory structure
+2. Add below the URL field: `**Status:** EOL — removed from BC catalog on {YYYY-MM-DD}`
+3. Leave all other content untouched (Selling Points, FAQ, Comparison, etc. — same "never delete content" principle as OOS)
+
+This is different from a **Tombstone** (never had full content, product never researched) and different from **OUT OF STOCK** (still exists in BC, just zero stock). EOL means BC itself no longer has the SKU.
 
 ## For AI Agents Reading Product Files
 
@@ -140,9 +156,9 @@ GET /catalog/products?sku:in={SKU}&include_fields=price,calculated_price
 If a product has no GEO file: use BC API for basic specs, tell the user "this product doesn't have detailed comparison info yet", and notify the store manager to create the file.
 
 AI agents may modify file content with these rules:
-- **Direct update**: `Price` (sync from BC API, ×1.15 for GST) and `Quick Specs` (sync from BC)
+- **Direct update**: `Price` (sync from BC API, ×1.15 for GST), `Quick Specs` (sync from BC), and `URL` (sync from BC's `custom_url.url` when the slug changes — `tools/audit-geo.py` does this automatically and is the source of truth for what the current BC URL is)
 - **Can optimize with explanation**: `Ideal For`, `Comparison`, `Related Products`, Schema JSON — GEO copy can be improved, but agent must state what changed and why
-- **Never touch**: `URL`, filenames, directory structure
+- **Never touch**: filenames, directory structure (moving a file to `2-EOL products/` is the one exception, see above)
 
 ## Out-of-Stock Products
 
@@ -179,46 +195,36 @@ Everything else — Selling Points, Ideal For, Comparison, FAQ — stays untouch
 > When stock returns: write full GEO using TEMPLATE.md.
 ```
 
-**Discontinued products** (removed from BC entirely) → delete the file.
+## Price and Stock Audit (`tools/audit-geo.py`) — current tool, use this one
 
-## Price and Stock Audit (`tools/audit-geo.ps1`)
-
-Use this script to detect GEO files that are out of date — price changed in BC, stock went to zero, or stock location shifted.
+**`tools/audit-geo.py` is the current audit tool.** `tools/audit-geo.ps1` still exists in the repo but is legacy/deprecated — it made 2 API calls per SKU (400+ calls for a full audit) with no rate-limit protection, no backup mechanism, and no URL-change detection. Do not use it for new work; it is kept only for reference.
 
 **When to run:** before any batch editing session, or when the store manager reports prices have changed.
 
 **What it checks:**
 - **Price**: parses `**Price:**` from each `.md` file, fetches current BC price (×1.15 for GST), flags if difference > $0.05
-- **Stock**: calls `/catalog/products/{id}/custom-fields` per SKU to read `__Stock Available Onehunga` (OH) — because stock lives in custom fields, NOT `inventory_level`. Only OH = customer-available stock; WL/SL/SU are internal and ignored.
-- **OOS trigger**: flags `needs_oos_flag: true` when OH = 0
-- **Stock shift**: detects when GEO describes retail stock but BC now shows supplier-only (or vice versa)
+- **Stock**: reads `__Stock Available Onehunga` (OH) from BC custom fields, fetched inline via `include=custom_fields` — no per-SKU extra call. Only OH = customer-available; WL/SL/SU are internal and ignored.
+- **URL**: compares GEO `**URL:**` against BC's live `custom_url.url` — catches slug changes that would otherwise 404
+- **OOS / back-in-stock**: flags `needs_oos_flag` when OH = 0, flags `back_in_stock` when OH > 0 but the file is still marked OOS
 - **Tombstones**: automatically skipped — not checked
+- **Not found in BC at all** (distinct from OOS): reported as an error, NOT auto-applied — this is the signal to move the file to `2-EOL products/` (see above), a human/agent judgment call, never automatic
 
 **Usage:**
-```powershell
-# Full audit — all categories
-.\tools\audit-geo.ps1
-
-# Single category only
-.\tools\audit-geo.ps1 -CategoryDir "power-supplies"
-
-# Preview only, no file written
-.\tools\audit-geo.ps1 -DryRun
+```bash
+python tools/audit-geo.py --dry-run              # report only, no writes — always run this first
+python tools/audit-geo.py                        # full audit + auto-apply
+python tools/audit-geo.py --category power-supplies   # single category dir
+python tools/audit-geo.py --dry-run --category monitors
 ```
 
-**Output:** `tools/change-report.json` — contains only SKUs flagged `needs_update: true`, with:
-- `price_geo_nzd` / `price_bc_nzd` — old vs new price
-- `stock` — current OH/WL/SL/SU breakdown
-- `needs_oos_flag` — true if total stock = 0
-- `file` — relative path to the GEO file to edit
+**Auto-apply — what it's safe to trust vs what still needs judgment:**
+- Auto-applies (100% mechanical, no ambiguity): price sync, OOS flag insertion, back-in-stock flag removal, URL correction
+- Before writing, it backs up the original file to `tools/backups/<run-timestamp>/<path>.md.bak` — if a run goes wrong, restore from there (or `git checkout -- <file>`, since the repo is version-controlled anyway)
+- Does NOT auto-apply: moving files to `2-EOL products/`, anything involving Selling Points/FAQ/Comparison copy — those still require an agent to read `tools/change-report.json` and make a judgment call
 
-**After running the script:**
-- Read `change-report.json`
-- For price changes: update `**Price:**` field and `Schema.offers.price` only — do not touch other content
-- For `needs_oos_flag: true`: add `**Status:** OUT OF STOCK — last checked {date}` below URL, change Schema to `OutOfStock`. **Never delete GEO content.**
-- For stock shifts (retail → supplier): update `NZ Stock` line in Quick Specs and any stock references in Selling Points / Why Buy sections
+**Output:** `tools/change-report.json` — full audit summary plus `changes[]` array with `price_changed`, `needs_oos_flag`, `back_in_stock`, `url_changed`, `applied`, `backup` per SKU, and a separate `errors[]` array for SKUs not found in BC or fetch failures.
 
-**BC API rate limit:** script pauses every 40 calls to stay within 150 req/30s. Expect ~2–3 minutes for a full audit of 200+ SKUs.
+**Rate limiting:** self-paced against BC's 150 req/30s cap via a sliding window (not a fixed "pause every N calls") — safe whether the run covers 259 SKUs (today) or scales toward the full 7000+ BC catalog as GEO coverage grows. Batches `sku:in` queries at 40 SKUs per request — BC's edge/WAF returns 414 (URL too long) above that, which silently misreports as "not found" if not chunked correctly.
 
 ## File Placement Rules for AI Agents
 

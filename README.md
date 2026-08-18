@@ -8,32 +8,36 @@
 
 ## 目录结构
 
+以下是当前仓库实际存在的目录（跑 `find . -maxdepth 1 -type d` 核实，不要假设未列出的分类目录存在）：
+
 ```
 geo/
 ├── README.md                    ← 本索引文件
-├── gaming-pcs/                  ← Tier 1: Gaming PCs (ID:120 / 1373)
-├── gaming-mice/                 ← Tier 1: Gaming Mice (ID:513 / 1949)
-├── gaming-keyboards/            ← Tier 1: Gaming Keyboards (ID:486)
-├── gaming-headsets/             ← Tier 1: Gaming Headsets (ID:476)
-├── monitors/                    ← Tier 1: Monitors (ID:519)
-├── video-cards/                 ← Tier 2: GPU (ID:426 / 1426)
-├── cpu-processors/              ← Tier 2: CPU (ID:364 / 1430)
-├── internal-ssd/                ← Tier 2: Internal SSD (ID:375)
-├── memory-ram/                  ← Tier 2: Memory / RAM (ID:395)
-├── cooling/                     ← Tier 2: Cooling (ID:345)
-├── power-supplies/              ← Tier 2: PSU (ID:410)
-├── motherboards/                ← Tier 2: Motherboards (ID:403)
-├── laptops/                     ← Tier 2: Laptops
-├── streaming-creator/           ← Tier 3: Streaming & Creator (ID:227)
-├── networking/                  ← 其他: Networking (ID:1026)
-├── storage/                     ← 其他: Storage (ID:375+)
-└── brands/                      ← 独家代理 / 特色品牌
-    ├── epomaker.md
-    ├── chilkey.md
-    ├── mchose.md
-    ├── biwin.md
-    └── lamzu.md
+├── CLAUDE.md                    ← AI 智能体强制规则，权威性高于本文件
+├── gaming-pcs/                  ← Gaming PCs (ID:120 / 1373)
+├── gaming-mice/                 ← Gaming Mice (ID:513 / 1949)
+├── gaming-keyboards/            ← Gaming Keyboards (ID:486)
+├── gaming-headsets/             ← Gaming Headsets (ID:476)
+├── gaming-chairs/               ← Gaming Chairs (LiberNovo 独家)
+├── monitors/                    ← Monitors (ID:519)
+├── video-cards/                 ← GPU (ID:426 / 1426)
+├── cpu-processors/              ← CPU (ID:364 / 1430)
+├── internal-ssd/                ← Internal SSD (ID:375)
+├── internal-hard-drives/        ← Internal HDD（Seagate/WD/Synology NAS，跟 SSD 分开）
+├── memory-ram/                  ← Memory / RAM (ID:395)
+├── power-supplies/               ← PSU (ID:410)
+├── computer-cases/              ← Computer Cases (ID:336)
+├── streaming-creator/           ← Streaming & Creator (ID:227)
+├── networking/                  ← Networking (ID:1026)
+├── 2-EOL products/              ← 已从 BC 完全下架的产品（不删除，移到这里保留内容）
+├── laptops/  storage/           ← 空占位目录，暂未启用，写文件前先跟店长确认
+├── brands/                      ← 品牌背景资料（不是产品列表），目前 21 个文件
+├── product-knowledge/           ← 技术调研笔记，供写 GEO 前参考
+├── blog/                        ← 博客内容系统，见下方「Blog System」
+└── tools/                       ← 脚本工具，见下方「工具脚本」
 ```
+
+`cooling/`、`motherboards/` 等分类已在 BC 系统规划但尚未开始写文件——不要凭 `CLAUDE.md` 的分类表就假设目录已存在，先核实。
 
 ---
 
@@ -232,48 +236,40 @@ geo/
 
 ---
 
-### `tools/audit-geo.ps1` — 价格与库存审计
+### `tools/audit-geo.py` — 价格与库存审计（当前工具，用这个）
 
-**用途**：定期核对所有 GEO 文件的价格和库存是否与 BC 系统一致，输出需要更新的 SKU 列表。
+**`tools/audit-geo.ps1` 已过时，不要再用** —— 旧版每个 SKU 打 2 次 API（全量审计需要 400+ 次调用），没有限速保护、没有备份机制、也不检测 URL 变化。仓库里还留着只是为了存档,新工作一律用 Python 版本。
 
-**为什么需要这个脚本**：
-- GEO 文件是静态 markdown，BC 系统里的价格会随时变动
-- ExtremePC 库存数据存在 **自定义字段（custom fields）**，而非 BC 的 `inventory_level` 字段，需要单独 API 调用才能读取
-- 脚本自动完成"扫描文件 → 查 API → 对比 → 输出报告"全流程，避免人工逐一核对
+**用途**：定期核对所有 GEO 文件的价格、库存、URL 是否与 BC 系统一致，自动修复机械性差异（价格、OOS 状态、复货、URL），输出审计报告。
 
-**运行方式**（在 `geo/` 根目录下执行）：
-```powershell
-# 全量审计（所有类目，约 2–3 分钟）
-.\tools\audit-geo.ps1
+**为什么用 Python 重写**：
+- 用 `sku:in=` 批量查询 + `include=custom_fields`，库存内嵌返回,一次审计只需个位数 API 调用（不再是每 SKU 2 次）
+- 跨平台（MSYS/bash/Linux 通用），不依赖 Windows PowerShell
+- 自动 apply 机械性改动，不需要智能体逐文件手动编辑（长文件手动编辑容易丢字/崩溃）
 
-# 只审计单个类目
-.\tools\audit-geo.ps1 -CategoryDir "power-supplies"
-
-# 预览模式（不写入 change-report.json）
-.\tools\audit-geo.ps1 -DryRun
+**运行方式**（在仓库根目录执行）：
+```bash
+python tools/audit-geo.py --dry-run              # 先跑这个，只看报告不写文件
+python tools/audit-geo.py                        # 全量审计 + 自动修复
+python tools/audit-geo.py --category power-supplies   # 只审计单个分类目录
+python tools/audit-geo.py --dry-run --category monitors
 ```
 
-**输出**：`tools/change-report.json`，只包含需要更新的 SKU，字段说明：
+**自动修复的范围（只做规则 100% 确定的机械改动）**：
+- ✅ 价格同步（`**Price:**` 字段 + Schema `price` 字段）
+- ✅ OH=0 → 插入 `**Status:** OUT OF STOCK` 行，Schema 改 `OutOfStock`
+- ✅ OH>0 且文件仍标 OOS → 移除 Status 行，Schema 改回 `InStock`
+- ✅ URL 变化 → 更新 `**URL:**` 字段
+- ❌ **不会自动做**：把文件移到 `2-EOL products/`（BC 完全查不到这个 SKU 时，需要人工/智能体判断，不自动搬文件）；Selling Points / FAQ / Comparison 等正文内容永远需要人工判断，脚本不碰
 
-| 字段 | 含义 |
-|------|------|
-| `sku` | BC SKU |
-| `file` | GEO 文件相对路径 |
-| `price_geo_nzd` | GEO 文件中的价格 |
-| `price_bc_nzd` | BC API 当前价格（×1.15 含 GST） |
-| `price_changed` | 价格是否变动（差异 > $0.05） |
-| `stock` | 当前库存：OH / WL / SL / SU 明细 |
-| `needs_oos_flag` | true = 总库存为 0，需加 OOS 状态行 |
-| `stock_shifted` | 库存位置变化（如从零售变供应商） |
+**安全机制**：
+- 写入前会把改动前的原文件备份到 `tools/backups/<运行时间戳>/<原路径>.md.bak`——跑错了可以直接拿备份复原，或者 `git checkout -- <file>` 回滚（反正仓库本身有 git 版本控制）
+- 内置滑动窗口限速（BC 上限 150 req/30s），不依赖固定"每 N 次暂停"，不管 SKU 涨到多少都安全
+- `sku:in` 批量查询每批 40 个 SKU——超过这个数会被 BC 边缘节点 414 拒绝，之前踩过这个坑
 
-**拿到报告后的操作**：
-- **价格变动**：只改 `**Price:**` 字段和 Schema `"price"` 字段，其他内容不动
-- **`needs_oos_flag: true`**：在 URL 行下方加一行 `**Status:** OUT OF STOCK — last checked YYYY-MM-DD`，Schema 改为 `OutOfStock`。**不删除任何正文内容**
-- **`stock_shifted`**：更新 Quick Specs 的 `NZ Stock` 行，以及 Selling Points / Why Buy 中涉及库存位置的描述
-- **库存回来了**：删掉 `**Status:**` 行，Schema 改回 `InStock`
+**输出**：`tools/change-report.json`，包含 `summary`（总览统计）和 `changes[]`（每个需要处理的 SKU，含 `price_changed`/`needs_oos_flag`/`back_in_stock`/`url_changed`/`applied`/`backup` 字段）、`errors[]`（BC 查不到的 SKU 或 API 失败，需要人工判断是否移入 `2-EOL products/`）。
 
 **注意**：
-- GEO 正文（Selling Points、FAQ、Comparison 等）永远不因缺货而删除，内容是资产
-- 库存存在 custom fields，脚本每个 SKU 需要调两次 BC API（product + custom-fields）
-- 脚本内置限速：每 40 次调用暂停 3 秒，防止触发 BC API rate limit（150 req/30s）
-- Tombstone 文件（无 GEO 内容的占位文件）会自动跳过，不参与审计
+- GEO 正文永远不因缺货或 API 查不到而删除，内容是资产
+- BC 完全查不到的 SKU 不会被自动处理，出现在 `errors[]` 里，需要人工确认是否下架、移入 `2-EOL products/`
+- Tombstone 文件自动跳过，不参与审计
