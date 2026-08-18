@@ -4,7 +4,7 @@
 **SKU:** HDDSEAIWP24T
 **MPN:** ST24000NE002
 **URL:** https://www.extremepc.co.nz/seagate-ironwolf-pro-24tb-3-5-sata3-nas-internal-hard-drive-st24000ne002/
-**Status:** OUT OF STOCK — last checked 2026-07-07
+**Status:** EOL — removed from BC catalog on 2026-08-18
 
 ## Quick Specs
 - **Capacity**: 24TB
