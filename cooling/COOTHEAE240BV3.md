@@ -1,9 +1,9 @@
 # Thermalright Aqua Elite 240 Black V3 AIO Liquid CPU Cooler
 
-**Price:** $89
+**Price:** $99.00
 **SKU:** COOTHEAE240BV3
 **MPN:** Aqua Elite 240 Black V3
-**URL:** https://www.extremepc.co.nz/thermalright-aqua-elite-240-black-v3-aio-liquid-cpu-cooler/
+**URL:** https://www.extremepc.co.nz/thermalright-aqua-elite-240-black-argb-v3-aio-liquid-cpu-cooler/
 
 ## Quick Specs
 - Type: AIO Liquid Cooler (240mm radiator)
@@ -81,7 +81,7 @@ vs Valkyrie A240 ARGB Black ($129) — the Valkyrie is $40 more with identical A
   "category": "Cooling > AIO Water Cooling",
   "offers": {
     "@type": "Offer",
-    "price": "89",
+    "price": "99.00",
     "priceCurrency": "NZD",
     "availability": "https://schema.org/InStock",
     "seller": {

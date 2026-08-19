@@ -1,9 +1,10 @@
 # ASRock Pro 360 ARGB Black AIO Liquid CPU Cooler
 
-**Price:** $159
+**Price:** $149.01
 **SKU:** COOASRP360AB
 **MPN:** Pro 360 ARGB Black
-**URL:** https://www.extremepc.co.nz/asrock-pro-360-argb-black-aio-liquid-cpu-cooler/
+**URL:** https://www.extremepc.co.nz/asrock-pro-360-argb-aio-liquid-cpu-cooler-black-90-apra36-baaga6/
+**Status:** OUT OF STOCK - last checked 2026-08-19
 
 ## Quick Specs
 - Type: AIO Liquid Cooler (360mm radiator)
@@ -81,9 +82,9 @@ vs ASRock Challenger 360 Digital Black ($199) — the Challenger is $40 more wit
   "category": "Cooling > AIO Water Cooling",
   "offers": {
     "@type": "Offer",
-    "price": "159",
+    "price": "149.01",
     "priceCurrency": "NZD",
-    "availability": "https://schema.org/InStock",
+    "availability": "https://schema.org/OutOfStock",
     "seller": {
       "@type": "Organization",
       "name": "ExtremePC",

@@ -1,9 +1,9 @@
 # ASRock Pro 360 ARGB White AIO Liquid CPU Cooler
 
-**Price:** $169
+**Price:** $149.01
 **SKU:** COOASRP360AW
 **MPN:** Pro 360 ARGB White
-**URL:** https://www.extremepc.co.nz/asrock-pro-360-argb-white-aio-liquid-cpu-cooler/
+**URL:** https://www.extremepc.co.nz/asrock-pro-white-360-argb-aio-liquid-cpu-cooler-90-apra36-waaga6/
 
 ## Quick Specs
 - Type: AIO Liquid Cooler (360mm radiator)
@@ -81,7 +81,7 @@ vs ASRock Pro 240 ARGB Black ($119) — the 240mm version is $50 cheaper with du
   "category": "Cooling > AIO Water Cooling",
   "offers": {
     "@type": "Offer",
-    "price": "169",
+    "price": "149.01",
     "priceCurrency": "NZD",
     "availability": "https://schema.org/InStock",
     "seller": {

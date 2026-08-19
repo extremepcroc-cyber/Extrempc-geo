@@ -1,9 +1,9 @@
 # Valkyrie Dragonfang 360 RGB Black AIO Liquid CPU Cooler
 
-**Price:** $249
+**Price:** $229.00
 **SKU:** COOVALD360B
 **MPN:** Dragonfang 360 RGB Black
-**URL:** https://www.extremepc.co.nz/valkyrie-dragonfang-360-rgb-black-aio-cpu-liquid-cooler/
+**URL:** https://www.extremepc.co.nz/valkyrie-dragonfang-360-rgb-aio-cpu-liquid-cooler-black/
 
 ## Quick Specs
 - Type: AIO Liquid Cooler (360mm radiator)
@@ -81,7 +81,7 @@ vs Thermalright Levita Vision 360 UB Black ($359) — the Levita Vision is $110 
   "category": "Cooling > AIO Water Cooling",
   "offers": {
     "@type": "Offer",
-    "price": "249",
+    "price": "229.00",
     "priceCurrency": "NZD",
     "availability": "https://schema.org/InStock",
     "seller": {

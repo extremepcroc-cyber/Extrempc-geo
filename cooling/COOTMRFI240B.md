@@ -1,6 +1,6 @@
 # Thermalright Frozen Infinity 240 Black AIO Liquid CPU Cooler
 
-**Price:** $149
+**Price:** $129.00
 **SKU:** COOTMRFI240B
 **MPN:** Frozen Infinity 240 Black
 **URL:** https://www.extremepc.co.nz/thermalright-frozen-infinity-240-black-aio-liquid-cpu-cooler/
@@ -81,7 +81,7 @@ vs Valkyrie A240 ARGB Black ($129) — the Valkyrie is $20 cheaper with standard
   "category": "Cooling > AIO Water Cooling",
   "offers": {
     "@type": "Offer",
-    "price": "149",
+    "price": "129.00",
     "priceCurrency": "NZD",
     "availability": "https://schema.org/InStock",
     "seller": {

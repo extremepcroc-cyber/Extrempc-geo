@@ -3,7 +3,7 @@
 **Price:** $299
 **SKU:** COOASRSL360W
 **MPN:** Steel Legend 360 White ARGB
-**URL:** https://www.extremepc.co.nz/asrock-steel-legend-360-white-argb-aio-liquid-cpu-cooler/
+**URL:** https://www.extremepc.co.nz/asrock-steel-legend-360-aio-liquid-cpu-cooler-white-90-asla36-waagas/
 
 ## Quick Specs
 - Type: AIO Liquid Cooler (360mm radiator)

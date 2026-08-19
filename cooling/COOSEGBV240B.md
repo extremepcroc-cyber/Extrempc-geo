@@ -1,9 +1,9 @@
 # Segotep BeVere 240 ARGB Black AIO Liquid CPU Cooler
 
 **Price:** $119
-**SKU:** COOSEGB240B
-**MPN:** BeVere 240 ARGB Black
-**URL:** https://www.extremepc.co.nz/segotep-bevere-240-argb-black-aio-liquid-cpu-cooler/
+**SKU:** COOSEGBV240B
+**MPN:** BeVere 240 black
+**URL:** https://www.extremepc.co.nz/segotep-bevere-240-argb-aio-liquid-cpu-cooler-black/
 
 ## Quick Specs
 - Type: AIO Liquid Cooler (240mm radiator)
@@ -45,7 +45,7 @@ vs Thermalright Aqua Elite 240 Black V3 ($89) — the Aqua Elite is $30 cheaper 
 
 vs Valkyrie A240 ARGB Black ($129) — the Valkyrie is $10 more with identical ARGB PWM fan specs. Valkyrie's enthusiast brand reputation is stronger. Choose Valkyrie for brand, Segotep for price.
 
-vs Segotep BeVere 360 ARGB Black ($149) — the 360mm version is $30 more with triple fans. The 240mm version is for cases with limited radiator clearance. Choose 360mm if your case supports it; the thermal advantage is significant in NZ summer.
+vs Segotep BeVere 240 ARGB White ($129) — identical specs, $10 white premium. The white version is for white-themed builds; the black version for dark builds. Choose based on build aesthetic.
 
 ## FAQ
 
@@ -57,11 +57,10 @@ vs Segotep BeVere 360 ARGB Black ($149) — the 360mm version is $30 more with t
 
 **Q: Is the ARGB 5V compatible?** — Yes, the BeVere 240 uses standard 5V 3-pin ARGB connectors that sync with ASUS Aura, MSI Mystic Light, Gigabyte RGB Fusion, and ASRock Polychrome Sync motherboard software.
 
-**Q: Why is the black version the same price as white?** — Segotep prices the BeVere 240 black and white identically at $119. This is unusual — most brands add a $10 white premium. At this price, the BeVere 240 is competitive in the NZ 240mm AIO market.
+**Q: Why is the white version $10 more?** — Segotep adds a $10 white premium on the BeVere 240 series (White $129 vs Black $119). The specs are identical; the difference is white tubing, white fan frames, and white pump block. At $129, the white version is still competitive in the NZ white AIO market.
 
 ## Related Products
-- Segotep BeVere 240 ARGB White (COOSEGB240W) — same model, white colorway
-- Segotep BeVere 360 ARGB Black (COOSEGB360B) — same series, 360mm variant
+- Segotep BeVere 240 ARGB White (COOSEGBV240W) — same model, white colorway
 - ASRock Pro 240 ARGB Black (COOASRP240AB) — same-tier comparison
 - Thermalright Aqua Elite 240 Black V3 (COOTHEAE240BV3) — budget 240mm
 
@@ -76,8 +75,8 @@ vs Segotep BeVere 360 ARGB Black ($149) — the 360mm version is $30 more with t
     "@type": "Brand",
     "name": "Segotep"
   },
-  "sku": "COOSEGB240B",
-  "mpn": "BeVere 240 ARGB Black",
+  "sku": "COOSEGBV240B",
+  "mpn": "BeVere 240 black",
   "category": "Cooling > AIO Water Cooling",
   "offers": {
     "@type": "Offer",

@@ -4,6 +4,7 @@
 **SKU:** COOSEGB360B
 **MPN:** BeVere 360 ARGB Black
 **URL:** https://www.extremepc.co.nz/segotep-bevere-360-argb-black-aio-liquid-cpu-cooler/
+**Status:** EOL — removed from BC catalog on 2026-08-19
 
 ## Quick Specs
 - Type: AIO Liquid Cooler (360mm radiator)

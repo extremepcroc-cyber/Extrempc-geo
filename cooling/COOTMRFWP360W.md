@@ -3,7 +3,8 @@
 **Price:** $189
 **SKU:** COOTMRFWP360W
 **MPN:** Frozen Warframe Pro 360 White
-**URL:** https://www.extremepc.co.nz/thermalright-frozen-warframe-pro-360-white-aio-liquid-cpu-cooler/
+**URL:** https://www.extremepc.co.nz/thermalright-frozen-warframe-pro-360-argb-aio-liquid-cpu-cooler-white/
+**Status:** OUT OF STOCK - last checked 2026-08-19
 
 ## Quick Specs
 - Type: AIO Liquid Cooler (360mm radiator)
@@ -83,7 +84,7 @@ vs ASRock Steel Legend 360 White ($299) — the Steel Legend is $110 more with R
     "@type": "Offer",
     "price": "189",
     "priceCurrency": "NZD",
-    "availability": "https://schema.org/InStock",
+    "availability": "https://schema.org/OutOfStock",
     "seller": {
       "@type": "Organization",
       "name": "ExtremePC",

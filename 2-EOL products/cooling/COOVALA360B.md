@@ -4,6 +4,7 @@
 **SKU:** COOVALA360B
 **MPN:** A360 ARGB Black
 **URL:** https://www.extremepc.co.nz/valkyrie-a360-argb-black-aio-liquid-cpu-cooler/
+**Status:** EOL — removed from BC catalog on 2026-08-19
 
 ## Quick Specs
 - Type: AIO Liquid Cooler (360mm radiator)

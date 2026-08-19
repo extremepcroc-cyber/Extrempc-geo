@@ -3,7 +3,7 @@
 **Price:** $199
 **SKU:** COOASRC360DB
 **MPN:** Challenger 360 Digital Black ARGB
-**URL:** https://www.extremepc.co.nz/asrock-challenger-360-digital-black-argb-aio-liquid-cpu-cooler/
+**URL:** https://www.extremepc.co.nz/asrock-challenger-360-digital-aio-liquid-cpu-cooler-black-90-acla36-baaga6/
 
 ## Quick Specs
 - Type: AIO Liquid Cooler (360mm radiator)

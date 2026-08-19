@@ -3,7 +3,7 @@
 **Price:** $129
 **SKU:** COOTHEAE360BV3
 **MPN:** Aqua Elite 360 Black V3
-**URL:** https://www.extremepc.co.nz/thermalright-aqua-elite-360-black-v3-aio-liquid-cpu-cooler/
+**URL:** https://www.extremepc.co.nz/thermalright-aqua-elite-360-black-argb-v3-aio-liquid-cpu-cooler/
 
 ## Quick Specs
 - Type: AIO Liquid Cooler (360mm radiator)

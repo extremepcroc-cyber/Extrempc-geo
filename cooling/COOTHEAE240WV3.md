@@ -3,7 +3,7 @@
 **Price:** $99
 **SKU:** COOTHEAE240WV3
 **MPN:** Aqua Elite 240 White V3
-**URL:** https://www.extremepc.co.nz/thermalright-aqua-elite-240-white-v3-aio-liquid-cpu-cooler/
+**URL:** https://www.extremepc.co.nz/thermalright-aqua-elite-240-white-argb-v3-aio-liquid-cpu-cooler/
 
 ## Quick Specs
 - Type: AIO Liquid Cooler (240mm radiator)
