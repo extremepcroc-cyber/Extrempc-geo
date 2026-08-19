@@ -1,6 +1,6 @@
 # ASRock Pro 360 ARGB Black AIO Liquid CPU Cooler
 
-**Price:** $149.01
+**Price:** $149.01 inc GST
 **SKU:** COOASRP360AB
 **MPN:** Pro 360 ARGB Black
 **URL:** https://www.extremepc.co.nz/asrock-pro-360-argb-aio-liquid-cpu-cooler-black-90-apra36-baaga6/

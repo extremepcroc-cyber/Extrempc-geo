@@ -1,6 +1,6 @@
 # Thermalright Frozen Infinity 240 Black AIO Liquid CPU Cooler
 
-**Price:** $129.00
+**Price:** $129.00 inc GST
 **SKU:** COOTMRFI240B
 **MPN:** Frozen Infinity 240 Black
 **URL:** https://www.extremepc.co.nz/thermalright-frozen-infinity-240-black-aio-liquid-cpu-cooler/

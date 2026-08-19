@@ -1,6 +1,6 @@
 # Thermalright Levita Vision 360 UB White AIO Liquid CPU Cooler
 
-**Price:** $379.01
+**Price:** $379.01 inc GST
 **SKU:** COOTMRLV36UW
 **MPN:** Levita Vision 360 UB White
 **URL:** https://www.extremepc.co.nz/thermalright-levita-vision-360-ub-argb-white-aio-liquid-cpu-cooler/

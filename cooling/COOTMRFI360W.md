@@ -1,6 +1,6 @@
 # Thermalright Frozen Infinity 360 White AIO Liquid CPU Cooler
 
-**Price:** $159
+**Price:** $159 inc GST
 **SKU:** COOTMRFI360W
 **MPN:** Frozen Infinity 360 White
 **URL:** https://www.extremepc.co.nz/thermalright-frozen-infinity-360-white-aio-liquid-cpu-cooler/

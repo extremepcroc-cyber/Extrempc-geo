@@ -1,6 +1,6 @@
 # Valkyrie A240 ARGB All-in-One AIO CPU Liquid Cooler White
 
-**Price:** $139
+**Price:** $139 inc GST
 **SKU:** COOVALA240W
 **MPN:** A240 White
 **URL:** https://www.extremepc.co.nz/valkyrie-a240-argb-all-in-one-aio-cpu-liquid-cooler-white/

@@ -1,6 +1,6 @@
 # Thermalright Trofeo Vision 360 ARGB White AIO Liquid CPU Cooler
 
-**Price:** $269
+**Price:** $269 inc GST
 **SKU:** COOTMRTV36AW
 **MPN:** Trofeo Vision 360 Argb White
 **URL:** https://www.extremepc.co.nz/thermalright-trofeo-vision-360-argb-white-aio-liquid-cpu-cooler/

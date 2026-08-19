@@ -1,6 +1,6 @@
 # Segotep BeVere 240 ARGB White AIO Liquid CPU Cooler
 
-**Price:** $129
+**Price:** $129 inc GST
 **SKU:** COOSEGBV240W
 **MPN:** BeVere 240 White
 **URL:** https://www.extremepc.co.nz/segotep-bevere-240-argb-aio-liquid-cpu-cooler-white/

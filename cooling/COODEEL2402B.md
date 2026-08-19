@@ -1,6 +1,6 @@
 # DeepCool LE240 V2 Black 240mm ARGB AIO Liquid CPU Cooler
 
-**Price:** $129
+**Price:** $129 inc GST
 **SKU:** COODEEL2402B
 **MPN:** LE240 V2 Black
 **URL:** https://www.extremepc.co.nz/deepcool-le240-v2-black-240mm-argb-aio-liquid-cpu-cooler/

@@ -1,6 +1,6 @@
 # Segotep BeAced 360 ARGB AIO Liquid CPU Cooler Black
 
-**Price:** $169
+**Price:** $169 inc GST
 **SKU:** COOSEGBA360B
 **MPN:** BeAced 360 ARGB Black
 **URL:** https://www.extremepc.co.nz/segotep-beaced-360-argb-aio-liquid-cpu-cooler-black/

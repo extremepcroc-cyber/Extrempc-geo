@@ -1,6 +1,6 @@
 # Valkyrie Dragonfang 240 RGB AIO CPU Liquid Cooler Black
 
-**Price:** $179
+**Price:** $179 inc GST
 **SKU:** COOVALD240B
 **MPN:** Dragonfang240 Black
 **URL:** https://www.extremepc.co.nz/valkyrie-dragonfang-240-rgb-aio-cpu-liquid-cooler-black/

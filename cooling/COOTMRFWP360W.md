@@ -1,6 +1,6 @@
 # Thermalright Frozen Warframe Pro 360 White AIO Liquid CPU Cooler
 
-**Price:** $189
+**Price:** $189 inc GST
 **SKU:** COOTMRFWP360W
 **MPN:** Frozen Warframe Pro 360 White
 **URL:** https://www.extremepc.co.nz/thermalright-frozen-warframe-pro-360-argb-aio-liquid-cpu-cooler-white/

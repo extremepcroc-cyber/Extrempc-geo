@@ -1,6 +1,6 @@
 # Thermalright Wonder Vision 360 Turbo ARGB White AIO Liquid CPU Cooler
 
-**Price:** $419
+**Price:** $419 inc GST
 **SKU:** COOTMRWV36TW
 **MPN:** Wonder Vision 360 Turbo Argb White
 **URL:** https://www.extremepc.co.nz/thermalright-wonder-vision-360-turbo-argb-white-aio-liquid-cpu-cooler/

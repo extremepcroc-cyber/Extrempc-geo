@@ -1,6 +1,6 @@
 # Thermalright Stream Vision 360 Black AIO Liquid CPU Cooler
 
-**Price:** $299
+**Price:** $299 inc GST
 **SKU:** COOTMRSV360B
 **MPN:** Stream Vision 360 Black
 **URL:** https://www.extremepc.co.nz/thermalright-stream-vision-360-black-aio-liquid-cpu-cooler/

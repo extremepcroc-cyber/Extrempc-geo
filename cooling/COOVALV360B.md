@@ -1,6 +1,6 @@
 # Valkyrie V360 LCD 360mm AIO CPU Liquid Cooler Black
 
-**Price:** $399
+**Price:** $399 inc GST
 **SKU:** COOVALV360B
 **MPN:** V360 LCD Black
 **URL:** https://www.extremepc.co.nz/valkyrie-v360-lcd-360mm-aio-cpu-liquid-cooler-black/

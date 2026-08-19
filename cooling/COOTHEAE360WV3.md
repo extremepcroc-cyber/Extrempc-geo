@@ -1,6 +1,6 @@
 # Thermalright Aqua Elite 360 White V3 AIO Liquid CPU Cooler
 
-**Price:** $129.00
+**Price:** $129.00 inc GST
 **SKU:** COOTHEAE360WV3
 **MPN:** Aqua Elite 360 White V3
 **URL:** https://www.extremepc.co.nz/thermalright-aqua-elite-360-white-argb-v3-aio-liquid-cpu-cooler/

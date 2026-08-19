@@ -1,6 +1,6 @@
 # Segotep MU 360 ARGB White AIO Liquid CPU Cooler
 
-**Price:** $199
+**Price:** $199 inc GST
 **SKU:** COOSEGMU360W
 **MPN:** MU 360 ARGB White
 **URL:** https://www.extremepc.co.nz/segotep-mu-360-argb-aio-liquid-cpu-cooler-with-lcd-ips-display-white/

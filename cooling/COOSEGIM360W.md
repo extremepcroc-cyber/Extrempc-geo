@@ -1,6 +1,6 @@
 # Segotep IceMoon 360 ARGB White AIO Liquid CPU Cooler
 
-**Price:** $169
+**Price:** $169 inc GST
 **SKU:** COOSEGIM360W
 **MPN:** IceMoon 360 ARGB White
 **URL:** https://www.extremepc.co.nz/segotep-icemoon-360-argb-aio-liquid-cpu-cooler-white/

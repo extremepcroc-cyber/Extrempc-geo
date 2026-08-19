@@ -1,6 +1,6 @@
 # Thermalright Peerless Vision 360 ARGB Black AIO Liquid CPU Cooler
 
-**Price:** $179
+**Price:** $179 inc GST
 **SKU:** COOTMRPV36AB
 **MPN:** Peerless Vision 360 ARGB Black
 **URL:** https://www.extremepc.co.nz/thermalright-peerless-vision-360-argb-black-aio-liquid-cpu-cooler/

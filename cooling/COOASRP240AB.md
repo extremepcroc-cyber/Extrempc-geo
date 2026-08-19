@@ -1,6 +1,6 @@
 # ASRock Pro 240 ARGB AIO Liquid CPU Cooler Black 90-APRA24-BAAGA6
 
-**Price:** $119
+**Price:** $119 inc GST
 **SKU:** COOASRP240AB
 **MPN:** 90-APRA24-BAAGA6
 **URL:** https://www.extremepc.co.nz/asrock-pro-240-argb-aio-liquid-cpu-cooler-black-90-apra24-baaga6/

@@ -1,6 +1,6 @@
 # Thermalright Wonder Vision 360 Turbo Black AIO Liquid CPU Cooler
 
-**Price:** $409
+**Price:** $409 inc GST
 **SKU:** COOTMRWV36TB
 **MPN:** Wonder Vision 360 Turbo Black
 **URL:** https://www.extremepc.co.nz/thermalright-wonder-vision-360-turbo-argb-black-aio-liquid-cpu-cooler/

@@ -1,6 +1,6 @@
 # Valkyrie Dragonfang 360 RGB AIO CPU Liquid Cooler White
 
-**Price:** $239
+**Price:** $239 inc GST
 **SKU:** COOVALD360W
 **MPN:** Dragonfang360 White
 **URL:** https://www.extremepc.co.nz/valkyrie-dragonfang-360-rgb-aio-cpu-liquid-cooler-white/

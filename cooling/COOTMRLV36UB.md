@@ -1,6 +1,6 @@
 # Thermalright Levita Vision 360 UB ARGB Black AIO Liquid CPU Cooler
 
-**Price:** $359
+**Price:** $359 inc GST
 **SKU:** COOTMRLV36UB
 **MPN:** Levita Vision 360 UB ARGB Black
 **URL:** https://www.extremepc.co.nz/thermalright-levita-vision-360-ub-argb-black-aio-liquid-cpu-cooler/
