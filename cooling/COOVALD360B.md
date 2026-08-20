@@ -19,9 +19,9 @@
 
 ## Selling Points
 
-The Valkyrie Dragonfang 360 RGB is a mid-premium 360mm AIO at $249 that bridges the gap between Valkyrie's entry-tier A240 ($129) and flagship V360 LCD ($399). The Dragonfang series is Valkyrie's core AIO line — above the budget A-series but below the LCD-equipped V-series. The magnetic levitation fans are the key differentiator — maglev bearing technology is typically found on premium AIOs, not mid-tier models.
+The Valkyrie Dragonfang 360 RGB is a mid-premium 360mm AIO in its tier that bridges the gap between Valkyrie's entry-tier A240 and flagship V360 LCD. The Dragonfang series is Valkyrie's core AIO line — above the budget A-series but below the LCD-equipped V-series. The magnetic levitation fans are the key differentiator — maglev bearing technology is typically found on premium AIOs, not mid-tier models.
 
-At $249, the Dragonfang 360 competes with Thermalright's Frozen Warframe Pro ($189) and Levita Vision 360 UB ($359) on cooling specs. The 3200 RPM pump and 280W TDP rating cover Ryzen 9 9950X and Core i9-14900K at stock clocks. The maglev fans scale from 500 RPM silent idle to 1900 RPM under load, with the bearing technology providing longer service life than hydraulic or sleeve alternatives.
+At its price point, the Dragonfang 360 competes with Thermalright's Frozen Warframe Pro and Levita Vision 360 UB on cooling specs. The 3200 RPM pump and 280W TDP rating cover Ryzen 9 9950X and Core i9-14900K at stock clocks. The maglev fans scale from 500 RPM silent idle to 1900 RPM under load, with the bearing technology providing longer service life than hydraulic or sleeve alternatives.
 
 The Dragonfang 360 uses a clean aesthetic — no LCD display, no RGB pump head ring. The pump block is understated, designed to blend into the build rather than draw attention. For users who prefer performance over aesthetics, the Dragonfang is a better choice than the LCD-heavy V360 or Thermalright Rainbow Vision.
 
@@ -35,17 +35,17 @@ The Dragonfang 360 uses a clean aesthetic — no LCD display, no RGB pump head r
 - Valkyrie NZ warranty handled through ExtremePC — local RMA, no overseas shipping
 - Stock at Onehunga warehouse for same-day Auckland pickup
 - Auckland Build Team can install with pre-applied thermal paste and maglev fan curve tuning
-- Valkyrie's AIO range at ExtremePC spans $129 to $399 — the Dragonfang sits in the mid-premium tier
+- Valkyrie's AIO range at ExtremePC spans the entry to flagship tiers — the Dragonfang sits in the mid-premium tier
 
 ## Comparison
 
-vs Valkyrie A360 ARGB Black ($169) — the A360 is $80 cheaper with standard PWM fans rather than maglev. The Dragonfang adds bearing quality at a moderate premium. Choose A360 for budget, Dragonfang for maglev technology.
+vs Valkyrie A360 ARGB Black — the A360 is the budget option with standard PWM fans rather than maglev. The Dragonfang adds bearing quality at a moderate premium. Choose A360 for budget, Dragonfang for maglev technology.
 
-vs Thermalright Frozen Warframe Pro 360 Black ($189) — the Warframe Pro is $60 cheaper with FDB fans and similar 280W TDP. The Dragonfang's maglev bearings are a step above FDB. Choose Warframe Pro for value, Dragonfang for bearing technology.
+vs Thermalright Frozen Warframe Pro 360 Black — the Warframe Pro is the budget option with FDB fans and similar 280W TDP. The Dragonfang's maglev bearings are a step above FDB. Choose Warframe Pro for value, Dragonfang for bearing technology.
 
-vs Valkyrie V360 LCD Black ($399) — the V360 is $150 more with LCD display and higher pump RPM (3400 vs 3200). The Dragonfang covers stock CPU operation; the V360 adds display flexibility. Choose V360 for LCD, Dragonfang for value.
+vs Valkyrie V360 LCD Black — the V360 sits a tier higher with LCD display and higher pump RPM (3400 vs 3200). The Dragonfang covers stock CPU operation; the V360 adds display flexibility. Choose V360 for LCD, Dragonfang for value.
 
-vs Thermalright Levita Vision 360 UB Black ($359) — the Levita Vision is $110 more with higher pump RPM (3400 vs 3200) and higher TDP (300W vs 280W). The Dragonfang is the value choice; the Levita Vision adds premium headroom. Choose Dragonfang for price, Levita Vision for extra cooling margin.
+vs Thermalright Levita Vision 360 UB Black — the Levita Vision sits a tier higher with higher pump RPM (3400 vs 3200) and higher TDP (300W vs 280W). The Dragonfang is the value choice; the Levita Vision adds premium headroom. Choose Dragonfang for price, Levita Vision for extra cooling margin.
 
 ## FAQ
 
@@ -57,7 +57,7 @@ vs Thermalright Levita Vision 360 UB Black ($359) — the Levita Vision is $110 
 
 **Q: Does it support LGA1851?** — Yes, the Dragonfang 360 includes LGA1851 mounting brackets. Valkyrie ships with backplates for all current Intel and AMD sockets.
 
-**Q: Is the white version available?** — Yes, the Dragonfang 360 RGB White (COOVALD360W) is available at $259 — a $10 premium for the white colorway, standard across Valkyrie's AIO lineup.
+**Q: Is the white version available?** — Yes, the Dragonfang 360 RGB White (COOVALD360W) is priced a step above the black — the white-colorway premium, standard across Valkyrie's AIO lineup.
 
 ## Related Products
 - Valkyrie Dragonfang 360 RGB White (COOVALD360W) — same model, white colorway

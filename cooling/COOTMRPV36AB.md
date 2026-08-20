@@ -19,9 +19,9 @@
 
 ## Selling Points
 
-The Thermalright Peerless Vision 360 ARGB extends the brand's Peerless Assassin air cooler reputation into the AIO segment at $179. The Peerless Assassin 120 is one of the most reviewed and best-selling air coolers in the NZ market — the AIO version carries that trust into liquid cooling. Triple 120mm FDB bearing ARGB PWM fans and a 3000 RPM pump handle 270W TDP, covering Ryzen 9 9950X and Core i9-14900K at stock clocks.
+The Thermalright Peerless Vision 360 ARGB extends the brand's Peerless Assassin air cooler reputation into the AIO segment at its price point. The Peerless Assassin 120 is one of the most reviewed and best-selling air coolers in the NZ market — the AIO version carries that trust into liquid cooling. Triple 120mm FDB bearing ARGB PWM fans and a 3000 RPM pump handle 270W TDP, covering Ryzen 9 9950X and Core i9-14900K at stock clocks.
 
-At $179, the Peerless Vision 360 sits between the budget Aqua Elite 360 ($129) and the premium Rainbow Vision 360 Turbo ($429) in Thermalright's AIO lineup. The FDB bearing fans are rated for 150,000 hours — the same technology proven across Thermalright's air cooler range. For NZ builders who trust the Thermalright name from air cooling, the Peerless Vision is a natural extension.
+At its price point, the Peerless Vision 360 sits between the budget Aqua Elite 360 and the premium Rainbow Vision 360 Turbo in Thermalright's AIO lineup. The FDB bearing fans are rated for 150,000 hours — the same technology proven across Thermalright's air cooler range. For NZ builders who trust the Thermalright name from air cooling, the Peerless Vision is a natural extension.
 
 The 360mm radiator provides maximum surface area for heat dissipation. In Auckland summer conditions (25°C+ ambient), the extra radiator area over a 240mm model provides 3-5°C thermal headroom during sustained multi-core workloads. The 270W TDP rating is adequate for all current-gen CPUs at stock clocks, including the highest-TDP desktop parts.
 
@@ -39,13 +39,13 @@ The 360mm radiator provides maximum surface area for heat dissipation. In Auckla
 
 ## Comparison
 
-vs Thermalright Aqua Elite 360 Black V3 ($129) — the Aqua Elite is $50 cheaper with lower max fan RPM (1600 vs 1900) and lower pump RPM (2600 vs 3000). The Peerless Vision adds FDB bearing fans and higher pump speed at a moderate premium. Choose Aqua Elite if budget is the primary constraint.
+vs Thermalright Aqua Elite 360 Black V3 — the Aqua Elite is the budget option with lower max fan RPM (1600 vs 1900) and lower pump RPM (2600 vs 3000). The Peerless Vision adds FDB bearing fans and higher pump speed at a moderate premium. Choose Aqua Elite if budget is the primary constraint.
 
-vs Thermalright Frozen Warframe Pro 360 Black ($189) — the Warframe Pro is $10 more with slightly higher pump RPM (3200 vs 3000) and TDP rating (280W vs 270W). A near-even match; the Warframe Pro edges on raw cooling, the Peerless Vision on brand recognition from the air cooler line.
+vs Thermalright Frozen Warframe Pro 360 Black — the Warframe Pro sits a tier higher with slightly higher pump RPM (3200 vs 3000) and TDP rating (280W vs 270W). A near-even match; the Warframe Pro edges on raw cooling, the Peerless Vision on brand recognition from the air cooler line.
 
-vs ASRock Challenger 360 Digital Black ($199) — the Challenger adds an LCD display on the pump head at $20 more. The Peerless Vision has no display but proven FDB fans. Choose Challenger for the display, Peerless Vision for proven cooling.
+vs ASRock Challenger 360 Digital Black — the Challenger adds an LCD display on the pump head at a tier higher. The Peerless Vision has no display but proven FDB fans. Choose Challenger for the display, Peerless Vision for proven cooling.
 
-vs Thermalright Rainbow Vision 360 Turbo Black ($429) — the Rainbow Vision is $250 more with Turbo pump (3600 RPM) and RGB ring display. The Peerless Vision covers stock CPU operation; the Rainbow Vision targets overclockers. Choose Rainbow Vision only if you need the extra cooling margin.
+vs Thermalright Rainbow Vision 360 Turbo Black — the Rainbow Vision sits a tier higher with Turbo pump (3600 RPM) and RGB ring display. The Peerless Vision covers stock CPU operation; the Rainbow Vision targets overclockers. Choose Rainbow Vision only if you need the extra cooling margin.
 
 ## FAQ
 
@@ -61,7 +61,7 @@ vs Thermalright Rainbow Vision 360 Turbo Black ($429) — the Rainbow Vision is 
 
 ## Related Products
 - Thermalright Peerless Vision 360 ARGB White — same model, white colorway (check stock)
-- Thermalright Frozen Warframe Pro 360 Black (COOTMRFWP360B) — $10 more, slightly higher specs
+- Thermalright Frozen Warframe Pro 360 Black (COOTMRFWP360B) — a tier higher, slightly higher specs
 - Thermalright Aqua Elite 360 Black V3 (COOTHEAE360BV3) — budget 360mm alternative
 - ASRock Challenger 360 Digital Black (COOASRC360DB) — 360mm with LCD display
 

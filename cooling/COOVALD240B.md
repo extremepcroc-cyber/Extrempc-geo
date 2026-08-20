@@ -58,7 +58,7 @@ vs Segotep BeAced 360 ARGB Black (COOSEGBA360B) — the BeAced is a 360mm AIO at
 
 **Q: Does it support LGA1851?** — Yes, the Dragonfang 240 includes LGA1851 mounting brackets. Valkyrie ships with backplates for all current Intel and AMD sockets.
 
-**Q: Is the white version available?** — Yes, the Dragonfang 240 RGB White (COOVALD240W) is available at a higher NZD tier — a $10 premium for the white colorway, standard across Valkyrie's AIO lineup.
+**Q: Is the white version available?** — Yes, the Dragonfang 240 RGB White (COOVALD240W) is available at a higher NZD tier — a modest premium for the white colorway, standard across Valkyrie's AIO lineup.
 
 ## Related Products
 - Valkyrie Dragonfang 240 RGB White (COOVALD240W) — same model, white colorway

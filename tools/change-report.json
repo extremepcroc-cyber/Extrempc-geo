@@ -1,10 +1,10 @@
 {
   "generated": "2026-08-20",
   "dry_run": true,
-  "geo_root": "E:\\GitHub\\Extrempc-geo",
+  "geo_root": "C:\\Users\\ExtremePC\\Documents\\GitHub\\Extrempc-geo",
   "summary": {
-    "scanned": 47,
-    "ok": 47,
+    "scanned": 42,
+    "ok": 42,
     "price_changed": 0,
     "needs_oos_flag": 0,
     "back_in_stock": 0,

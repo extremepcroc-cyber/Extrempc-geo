@@ -40,7 +40,7 @@ White 360mm AIOs are a premium segment in the NZ market — the combination of t
 
 ## Comparison
 
-vs Valkyrie Dragonfang 360 RGB Black (COOVALD360B) — the black version is at a lower NZD tier with identical cooling specs. The white colorway carries a standard $10 premium across Valkyrie's AIO lineup. Choose based on build aesthetic.
+vs Valkyrie Dragonfang 360 RGB Black (COOVALD360B) — the black version is at a lower NZD tier with identical cooling specs. The white colorway carries a standard premium across Valkyrie's AIO lineup. Choose based on build aesthetic.
 
 vs Valkyrie A360 ARGB White (COOVALA360W) — the A360 White is at a lower NZD tier with standard PWM fans rather than maglev. The Dragonfang adds bearing quality and higher pump RPM (3200 vs 2800) at a moderate premium. Choose A360 for budget, Dragonfang for maglev technology.
 

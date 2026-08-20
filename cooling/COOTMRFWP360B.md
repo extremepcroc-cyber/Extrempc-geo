@@ -19,7 +19,7 @@
 
 ## Selling Points
 
-Thermalright's Frozen Warframe Pro 360 brings the brand's price-to-performance reputation from air cooling into the AIO segment at $189 for a full 360mm radiator. Triple 120mm ARGB PWM fans with FDB bearings provide sustained airflow rated to 150,000 hours — the fan technology proven across Thermalright's air cooler lineup. The 3200 RPM pump handles 280W TDP, covering Ryzen 9 9950X and Core i9-14900K without thermal throttling.
+Thermalright's Frozen Warframe Pro 360 brings the brand's price-to-performance reputation from air cooling into the AIO segment for a full 360mm radiator. Triple 120mm ARGB PWM fans with FDB bearings provide sustained airflow rated to 150,000 hours — the fan technology proven across Thermalright's air cooler lineup. The 3200 RPM pump handles 280W TDP, covering Ryzen 9 9950X and Core i9-14900K without thermal throttling.
 
 The 360mm radiator is the most effective AIO form factor for NZ summer conditions. Auckland ambient temperatures regularly exceed 25°C in January-February, and the extra 120mm of radiator surface area over a 240mm model translates to 3-5°C lower sustained CPU temperatures under multi-core load. For video encoding, 3D rendering, or sustained gaming sessions, the thermal headroom matters.
 
@@ -39,13 +39,13 @@ Thermalright's FDB (Fluid Dynamic Bearing) fans are a class above the sleeve and
 
 ## Comparison
 
-vs Thermalright Aqua Elite 360 Black V3 ($129) — the Aqua Elite is $60 cheaper but uses standard PWM fans rather than FDB-bearing ARGB fans. The Aqua Elite is entry-tier; the Frozen Warframe Pro sits a tier above with longer fan lifespan and ARGB sync. Choose Aqua Elite if budget is the primary constraint.
+vs Thermalright Aqua Elite 360 Black V3 — the Aqua Elite is the budget option but uses standard PWM fans rather than FDB-bearing ARGB fans. The Aqua Elite is entry-tier; the Frozen Warframe Pro sits a tier above with longer fan lifespan and ARGB sync. Choose Aqua Elite if budget is the primary constraint.
 
-vs ASRock Steel Legend 360 White ($299) — the Steel Legend carries premium-tier pricing with RGB pump head display. The Frozen Warframe Pro delivers similar cooling at a lower price without the LCD display. If the pump head display is a priority, the Steel Legend justifies the premium.
+vs ASRock Steel Legend 360 White — the Steel Legend carries premium-tier pricing with RGB pump head display. The Frozen Warframe Pro delivers similar cooling at a lower price without the LCD display. If the pump head display is a priority, the Steel Legend justifies the premium.
 
-vs Valkyrie V360 LCD Black ($399) — Valkyrie's V360 is premium-tier with full LCD screen on the pump head showing custom content. The Frozen Warframe Pro matches cooling performance at roughly half the price. The Valkyrie premium is for aesthetics, not thermals.
+vs Valkyrie V360 LCD Black — Valkyrie's V360 is premium-tier with full LCD screen on the pump head showing custom content. The Frozen Warframe Pro matches cooling performance at roughly half the price. The Valkyrie premium is for aesthetics, not thermals.
 
-vs Corsair H150i Elite LCD XT (NZ retail ~$350+) — Corsair's flagship 360mm AIO carries strong brand recognition but prices at premium tier. The Frozen Warframe Pro delivers comparable cooling at value-tier pricing. Corsair's advantage is the iCUE software ecosystem; Thermalright fans work with standard motherboard ARGB headers.
+vs Corsair H150i Elite LCD XT — Corsair's flagship 360mm AIO carries strong brand recognition but prices at premium tier. The Frozen Warframe Pro delivers comparable cooling at value-tier pricing. Corsair's advantage is the iCUE software ecosystem; Thermalright fans work with standard motherboard ARGB headers.
 
 ## FAQ
 
@@ -57,7 +57,7 @@ vs Corsair H150i Elite LCD XT (NZ retail ~$350+) — Corsair's flagship 360mm AI
 
 **Q: Does it support LGA1851?** — Yes, the Frozen Warframe Pro includes Intel LGA1851 mounting brackets. Thermalright ships with backplates for LGA1851/LGA1700/LGA1200/LGA115x and AMD AM5/AM4.
 
-**Q: What happens if I only need 240mm?** — If your case supports only 240mm, consider the Thermalright Frozen Infinity 240 Black (COOTMRFI240B) at $129 — same FDB fan technology in a smaller form factor.
+**Q: What happens if I only need 240mm?** — If your case supports only 240mm, consider the Thermalright Frozen Infinity 240 Black (COOTMRFI240B) at its price point — same FDB fan technology in a smaller form factor.
 
 ## Related Products
 - Thermalright Frozen Infinity 240 Black (COOTMRFI240B) — same FDB fan tech, 240mm variant

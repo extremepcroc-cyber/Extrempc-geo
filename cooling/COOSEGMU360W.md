@@ -19,9 +19,9 @@
 
 ## Selling Points
 
-The Segotep MU 360 ARGB White is a mid-tier white 360mm AIO at $199. The MU series is Segotep's mid-tier AIO line — above the BeVere and IceMoon, below the flagship MU series. Triple 120mm FDB bearing ARGB PWM fans rated for 150,000 hours and a 3000 RPM pump handle up to 280W TDP — adequate for Ryzen 7 9700X through Ryzen 9 9950X at stock clocks.
+The Segotep MU 360 ARGB White is a mid-tier white 360mm AIO at its price point. The MU series is Segotep's mid-tier AIO line — above the BeVere and IceMoon, below the flagship MU series. Triple 120mm FDB bearing ARGB PWM fans rated for 150,000 hours and a 3000 RPM pump handle up to 280W TDP — adequate for Ryzen 7 9700X through Ryzen 9 9950X at stock clocks.
 
-The white version features white tubing, white fan frames, and a white pump block — designed for all-white showcase builds. At $199, it sits between the Segotep IceMoon 360 White ($169) and the Thermalright Levita Vision 360 UB White ($359). The MU 360 White is one of the few mid-tier white AIOs with FDB bearing fans in the NZ market.
+The white version features white tubing, white fan frames, and a white pump block — designed for all-white showcase builds. At its price point, it sits between the Segotep IceMoon 360 White and the Thermalright Levita Vision 360 UB White. The MU 360 White is one of the few mid-tier white AIOs with FDB bearing fans in the NZ market.
 
 The FDB bearing fans scale from 500 RPM silent idle to 1900 RPM under load. In NZ summer conditions where ambient can push 28°C indoors without AC, the combination of 360mm radiator and FDB fans provides sustained thermal headroom. For white builds where matching cooling components is a priority, the MU 360 fills the mid-tier gap.
 
@@ -39,13 +39,13 @@ The FDB bearing fans scale from 500 RPM silent idle to 1900 RPM under load. In N
 
 ## Comparison
 
-vs Segotep IceMoon 360 ARGB White ($169) — the IceMoon is $30 cheaper with standard PWM fans. The MU 360 adds FDB bearing technology, higher pump RPM (3000 vs 2800), and higher TDP (280W vs 250W). Choose IceMoon for price, MU 360 for bearing quality.
+vs Segotep IceMoon 360 ARGB White — the IceMoon is the budget option with standard PWM fans. The MU 360 adds FDB bearing technology, higher pump RPM (3000 vs 2800), and higher TDP (280W vs 250W). Choose IceMoon for price, MU 360 for bearing quality.
 
-vs Thermalright Frozen Warframe Pro 360 White ($189) — the Warframe Pro is $10 cheaper with higher pump RPM (3200 vs 3000) and higher TDP (280W vs 280W). Thermalright has 3-year warranty vs Segotep's 2-year. Choose Thermalright for warranty and $10 savings.
+vs Thermalright Frozen Warframe Pro 360 White — the Warframe Pro is the budget option with higher pump RPM (3200 vs 3000) and higher TDP (280W vs 280W). Thermalright has 3-year warranty vs Segotep's 2-year. Choose Thermalright for the longer warranty and the better price.
 
-vs Thermalright Levita Vision 360 UB White ($359) — the Levita Vision is $160 more with upgraded pump block, higher pump RPM (3400 vs 3000), and higher TDP (300W vs 280W). The MU 360 is mid-tier; the Levita Vision is premium. Choose MU 360 for price.
+vs Thermalright Levita Vision 360 UB White — the Levita Vision sits a tier higher with upgraded pump block, higher pump RPM (3400 vs 3000), and higher TDP (300W vs 280W). The MU 360 is mid-tier; the Levita Vision is premium. Choose MU 360 for price.
 
-vs ASRock Steel Legend 360 White ($299) — the Steel Legend is $100 more with RGB ring display. The MU 360 has FDB fans and similar 280W TDP at significant savings. Choose MU 360 for cooling per dollar, Steel Legend for RGB aesthetics.
+vs ASRock Steel Legend 360 White — the Steel Legend sits a tier higher with RGB ring display. The MU 360 has FDB fans and similar 280W TDP at significant savings. Choose MU 360 for cooling per dollar, Steel Legend for RGB aesthetics.
 
 ## FAQ
 

@@ -28,7 +28,7 @@
 ---
 
 <!-- AUTO-DEALS-START -->
-## Auto-Detected Campaigns (updated 2026-08-17)
+## Auto-Detected Campaigns (updated 2026-08-20)
 
 ### Active Time-Bound Campaigns
 

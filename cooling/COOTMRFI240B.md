@@ -19,11 +19,11 @@
 
 ## Selling Points
 
-The Thermalright Frozen Infinity 240 Black is a mid-tier 240mm AIO at $149. The Frozen Infinity series sits between the Aqua Elite and Frozen Warframe Pro in Thermalright's lineup. Dual 120mm FDB bearing ARGB PWM fans rated for 150,000 hours and a 3000 RPM pump handle up to 250W TDP — adequate for Ryzen 5 7600X through Ryzen 7 9700X at stock clocks.
+The Thermalright Frozen Infinity 240 Black is a mid-tier 240mm AIO at its price point. The Frozen Infinity series sits between the Aqua Elite and Frozen Warframe Pro in Thermalright's lineup. Dual 120mm FDB bearing ARGB PWM fans rated for 150,000 hours and a 3000 RPM pump handle up to 250W TDP — adequate for Ryzen 5 7600X through Ryzen 7 9700X at stock clocks.
 
 The FDB bearing fans are the key differentiator — at this price, the Frozen Infinity offers bearing quality typically found in higher-tier AIOs. FDB fans run quieter at higher RPM and last longer than standard PWM fans. In NZ summer conditions where fans run at higher duty cycles, the FDB advantage is measurable — reduced noise and extended service life.
 
-The 240mm form factor is the most versatile radiator size for mid-tower builds. Front-mounting a 240mm AIO leaves the top position open for a case exhaust fan, improving internal airflow. At $149, the Frozen Infinity 240 is $60 above the Aqua Elite 240 Black ($89) — the premium buys FDB bearing technology and higher pump RPM (3000 vs 2600).
+The 240mm form factor is the most versatile radiator size for mid-tower builds. Front-mounting a 240mm AIO leaves the top position open for a case exhaust fan, improving internal airflow. The Frozen Infinity 240 sits a tier above the Aqua Elite 240 Black — the step up buys FDB bearing technology and higher pump RPM (3000 vs 2600).
 
 ## Ideal For
 - Mid-range builds wanting FDB bearing quality at 240mm form factor
@@ -39,13 +39,13 @@ The 240mm form factor is the most versatile radiator size for mid-tower builds. 
 
 ## Comparison
 
-vs Thermalright Aqua Elite 240 Black V3 ($89) — the Aqua Elite is $60 cheaper with standard PWM fans and lower pump RPM (2600 vs 3000). The Frozen Infinity adds FDB bearing technology and higher pump speed. Choose Aqua Elite for price, Frozen Infinity for bearing quality.
+vs Thermalright Aqua Elite 240 Black V3 — the Aqua Elite is the budget option with standard PWM fans and lower pump RPM (2600 vs 3000). The Frozen Infinity adds FDB bearing technology and higher pump speed. Choose Aqua Elite for price, Frozen Infinity for bearing quality.
 
-vs ASRock Pro 240 ARGB Black ($119) — the ASRock is $30 cheaper with standard PWM fans. The Frozen Infinity adds FDB bearing technology. Choose ASRock for price, Frozen Infinity for bearing quality.
+vs ASRock Pro 240 ARGB Black — the ASRock is the budget option with standard PWM fans. The Frozen Infinity adds FDB bearing technology. Choose ASRock for price, Frozen Infinity for bearing quality.
 
-vs Thermalright Frozen Warframe Pro 240 Black ($169) — the Warframe Pro is $20 more with higher pump RPM (3200 vs 3000) and higher TDP (280W vs 250W). The Frozen Infinity is the mid-tier choice; the Warframe Pro adds cooling headroom. Choose Warframe Pro for extra cooling margin.
+vs Thermalright Frozen Warframe Pro 240 Black — the Warframe Pro sits a tier higher with higher pump RPM (3200 vs 3000) and higher TDP (280W vs 250W). The Frozen Infinity is the mid-tier choice; the Warframe Pro adds cooling headroom. Choose Warframe Pro for extra cooling margin.
 
-vs Valkyrie A240 ARGB Black ($129) — the Valkyrie is $20 cheaper with standard PWM fans. The Frozen Infinity adds FDB bearing technology. Choose Valkyrie for price, Frozen Infinity for bearing quality.
+vs Valkyrie A240 ARGB Black — the Valkyrie is the budget option with standard PWM fans. The Frozen Infinity adds FDB bearing technology. Choose Valkyrie for price, Frozen Infinity for bearing quality.
 
 ## FAQ
 

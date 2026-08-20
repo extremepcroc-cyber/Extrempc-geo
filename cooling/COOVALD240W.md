@@ -40,7 +40,7 @@ For Auckland summer conditions, the 240mm form factor provides adequate cooling 
 
 ## Comparison
 
-vs Valkyrie Dragonfang 240 RGB Black (COOVALD240B) — the black version is $10 cheaper with identical cooling specs. The white colorway carries a standard $10 premium across Valkyrie's AIO lineup. Choose based on build aesthetic.
+vs Valkyrie Dragonfang 240 RGB Black (COOVALD240B) — the black version is the budget option with identical cooling specs. The white colorway carries a standard premium across Valkyrie's AIO lineup. Choose based on build aesthetic.
 
 vs Valkyrie A240 ARGB White (COOVALA240W) — the A240 White is at a lower NZD tier with standard PWM fans rather than maglev. The Dragonfang adds bearing quality and higher pump RPM (3200 vs 2800) at a moderate premium. Choose A240 for budget, Dragonfang for maglev technology.
 

@@ -20,7 +20,7 @@
 
 ## Selling Points
 
-**Entry-tier 240mm AIO in white**: The TH-240 ARGB White is Jonsbo's budget 240mm AIO at $139 — one of the lowest-priced white AIOs in the NZ market. The all-white colorway (white pump, white fan frames, white radiator) targets builders assembling light-themed systems who do not want to spend premium-tier pricing. For NZ first-time AIO buyers on a budget, the TH-240 White removes the compromise of mixing black cooling components in a white build.
+**Entry-tier 240mm AIO in white**: The TH-240 ARGB White is Jonsbo's budget 240mm AIO at its price point — one of the lowest-priced white AIOs in the NZ market. The all-white colorway (white pump, white fan frames, white radiator) targets builders assembling light-themed systems who do not want to spend premium-tier pricing. For NZ first-time AIO buyers on a budget, the TH-240 White removes the compromise of mixing black cooling components in a white build.
 
 **240mm form factor for compact cases**: The 277mm radiator fits in micro-ATX and mid-tower cases that cannot accommodate 360mm radiators. With 2400 RPM pump speed and dual 2400 RPM fans, the TH-240 handles Ryzen 5 7600X (105W boost) and Core i5-14600K (151W boost) at stock clocks. For entry-to-mid-range builds, the 240mm provides adequate cooling without requiring a larger case.
 
@@ -48,7 +48,7 @@
 
 **vs Segotep BeVere 240 ARGB White (COOSEGBV240W)** — the Segotep is at the same NZD tier with ARGB PWM fans and 2-year warranty. Both are entry-tier white 240mm AIOs. Choose Segotep for ARGB PWM, Jonsbo for broader legacy socket support.
 
-**vs ASRock Pro 240 ARGB Black (COOASRP240AB)** — the ASRock Pro is entry-tier black at a lower NZD tier. The Jonsbo TH-240 White is $20 more for the white colorway. If you need black, the ASRock Pro is the cheaper option; if you need white, the TH-240 fills that gap.
+**vs ASRock Pro 240 ARGB Black (COOASRP240AB)** — the ASRock Pro is entry-tier black at a lower NZD tier. The Jonsbo TH-240 White sits a tier higher for the white colorway. If you need black, the ASRock Pro is the cheaper option; if you need white, the TH-240 fills that gap.
 
 ## FAQ
 

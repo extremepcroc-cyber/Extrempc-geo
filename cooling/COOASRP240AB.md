@@ -19,7 +19,7 @@
 
 ## Selling Points
 
-240mm AIO at entry-tier pricing — the 90-APRA24-BAAGA6 is one of the most affordable 240mm liquid coolers in the NZ market at $119. Dual 120mm ARGB fans with PWM control scale from silent idle to full boost under load, suitable for Ryzen 5 / Core i5 class CPUs. At this price, air-only coolers dominate the segment, but the AIO format leaves room for a second case fan in the same mounting position.
+240mm AIO at entry-tier pricing — the 90-APRA24-BAAGA6 is one of the most affordable 240mm liquid coolers in the NZ market at its price point. Dual 120mm ARGB fans with PWM control scale from silent idle to full boost under load, suitable for Ryzen 5 / Core i5 class CPUs. At this price, air-only coolers dominate the segment, but the AIO format leaves room for a second case fan in the same mounting position.
 
 ASRock's Pro series targets budget-conscious builders who want liquid cooling aesthetics without flagship pricing. The pump runs at 2800 RPM, adequate for sustained 250W TDP loads — covering Ryzen 7 9700X or Core i7-14700K without headroom concern. ARGB fans sync via 5V 3-pin header, matching most modern AM5 and LGA1700 motherboards.
 
@@ -39,7 +39,7 @@ ASRock's Pro series targets budget-conscious builders who want liquid cooling ae
 
 ## Comparison
 
-vs Thermalright Aqua Elite 240 Black — the Aqua Elite undercuts by $20 and shares similar 240mm form factor, but ASRock's Pro series includes ARGB fans while the Aqua Elite uses standard PWM fans. If ARGB sync matters for the build, the ASRock is the clearer pick.
+vs Thermalright Aqua Elite 240 Black — the Aqua Elite undercuts on price and shares similar 240mm form factor, but ASRock's Pro series includes ARGB fans while the Aqua Elite uses standard PWM fans. If ARGB sync matters for the build, the ASRock is the clearer pick.
 
 vs Segotep BeVere 240 ARGB Black — same price point, same ARGB feature set. Segotep's AIO lineup is newer to the NZ market with less established warranty track record. ASRock's longer presence in NZ gives an edge on service history.
 

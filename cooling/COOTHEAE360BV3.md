@@ -19,11 +19,11 @@
 
 ## Selling Points
 
-The Thermalright Aqua Elite 360 Black V3 is the cheapest 360mm AIO in the NZ market at $129. The Aqua Elite series is Thermalright's budget AIO line — below the Frozen Infinity, Frozen Warframe Pro, and Peerless Vision series. The V3 revision updates the fan frames and pump block from the original Aqua Elite, with improved ARGB fan synchronization. Triple 120mm ARGB PWM fans and a 2600 RPM pump handle up to 220W TDP.
+The Thermalright Aqua Elite 360 Black V3 is the cheapest 360mm AIO in the NZ market at its price point. The Aqua Elite series is Thermalright's budget AIO line — below the Frozen Infinity, Frozen Warframe Pro, and Peerless Vision series. The V3 revision updates the fan frames and pump block from the original Aqua Elite, with improved ARGB fan synchronization. Triple 120mm ARGB PWM fans and a 2600 RPM pump handle up to 220W TDP.
 
 Thermalright's reputation in the NZ cooling market is built on price-to-performance — the brand's air coolers (Phantom Spirit 120, Peerless Assassin 120) consistently outperform or match coolers costing twice as much. The Aqua Elite extends that value proposition into the AIO segment. The 220W TDP covers Ryzen 5 7600X and Core i5-14400F with headroom.
 
-The black version is priced $10 below the white version ($139) — standard across the AIO market. For black or dark builds, the Aqua Elite 360 Black is the most affordable 360mm AIO option in the NZ market. At $129, it is the lowest entry point for 360mm liquid cooling.
+The black version is priced below the white version — standard across the AIO market. For black or dark builds, the Aqua Elite 360 Black is the most affordable 360mm AIO option in the NZ market. At its price point, it is the lowest entry point for 360mm liquid cooling.
 
 ## Ideal For
 - Budget builds — cheapest 360mm AIO in the NZ market
@@ -39,13 +39,13 @@ The black version is priced $10 below the white version ($139) — standard acro
 
 ## Comparison
 
-vs Thermalright Aqua Elite 360 White V3 ($139) — the white version is $10 more with identical specs. The black version is for dark builds. Choose based on build aesthetic.
+vs Thermalright Aqua Elite 360 White V3 — the white version sits a tier higher with identical specs. The black version is for dark builds. Choose based on build aesthetic.
 
-vs Segotep BeVere 360 ARGB Black ($149) — the BeVere is $20 more with identical ARGB PWM fan specs. Thermalright has 3-year warranty vs Segotep's 2-year, and established brand trust. Choose Thermalright for warranty and track record.
+vs Segotep BeVere 360 ARGB Black — the BeVere sits a tier higher with identical ARGB PWM fan specs. Thermalright has 3-year warranty vs Segotep's 2-year, and established brand trust. Choose Thermalright for warranty and track record.
 
-vs ASRock Pro 360 ARGB Black ($159) — the ASRock is $30 more with identical ARGB PWM fan specs. ASRock has longer NZ presence. Choose ASRock for track record, Thermalright for price and warranty.
+vs ASRock Pro 360 ARGB Black — the ASRock sits a tier higher with identical ARGB PWM fan specs. ASRock has longer NZ presence. Choose ASRock for track record, Thermalright for price and warranty.
 
-vs Thermalright Aqua Elite 240 Black V3 ($89) — the 240mm version is $40 cheaper with dual fans. The 360mm version adds a third fan and more radiator surface area. Choose 360mm if your case supports it; the thermal advantage is significant in NZ summer.
+vs Thermalright Aqua Elite 240 Black V3 — the 240mm version is the budget option with dual fans. The 360mm version adds a third fan and more radiator surface area. Choose 360mm if your case supports it; the thermal advantage is significant in NZ summer.
 
 ## FAQ
 
@@ -57,7 +57,7 @@ vs Thermalright Aqua Elite 240 Black V3 ($89) — the 240mm version is $40 cheap
 
 **Q: How long is the warranty?** — Thermalright provides 3-year manufacturer warranty through ExtremePC NZ — the longest standard warranty in the budget AIO segment. ASRock and Segotep typically offer 2 years.
 
-**Q: How does the 360mm compare to the 240mm version?** — The Aqua Elite 240 Black V3 (COOTHEAE240BV3) is $40 cheaper at $89. The 360mm version adds a third fan and more radiator surface area. Choose 360mm if your case supports it; the thermal advantage is significant in NZ summer.
+**Q: How does the 360mm compare to the 240mm version?** — The Aqua Elite 240 Black V3 (COOTHEAE240BV3) is the budget option at its price point. The 360mm version adds a third fan and more radiator surface area. Choose 360mm if your case supports it; the thermal advantage is significant in NZ summer.
 
 ## Related Products
 - Thermalright Aqua Elite 360 White V3 (COOTHEAE360WV3) — same model, white colorway
@@ -71,7 +71,7 @@ vs Thermalright Aqua Elite 240 Black V3 ($89) — the 240mm version is $40 cheap
   "@context": "https://schema.org",
   "@type": "Product",
   "name": "Thermalright Aqua Elite 360 Black V3 AIO Liquid CPU Cooler",
-  "description": "Budget 360mm AIO liquid CPU cooler with triple 120mm ARGB PWM fans, 2600 RPM pump, 220W TDP. Cheapest 360mm AIO in NZ market at $129.",
+  "description": "Budget 360mm AIO liquid CPU cooler with triple 120mm ARGB PWM fans, 2600 RPM pump, 220W TDP. Cheapest 360mm AIO in NZ market at its price point.",
   "brand": {
     "@type": "Brand",
     "name": "Thermalright"

@@ -20,11 +20,11 @@
 
 ## Selling Points
 
-The Thermalright Frozen Warframe Pro 360 White is the white colorway of the Frozen Warframe Pro, priced identically to the black version at $189. The white version features white tubing, white fan frames, and a white pump block — designed for all-white showcase builds. At $189, it is one of the most affordable white 360mm AIOs with FDB bearing fans in the NZ market.
+The Thermalright Frozen Warframe Pro 360 White is the white colorway of the Frozen Warframe Pro, priced identically to the black version at its price point. The white version features white tubing, white fan frames, and a white pump block — designed for all-white showcase builds. At its price point, it is one of the most affordable white 360mm AIOs with FDB bearing fans in the NZ market.
 
 The Frozen Warframe Pro series is Thermalright's mid-premium AIO line — above the Aqua Elite and Peerless Vision, below the Levita Vision and Rainbow Vision Turbo. The 3200 RPM pump handles 280W TDP, covering Ryzen 9 9950X and Core i9-14900K at stock clocks. Triple 120mm FDB bearing ARGB PWM fans rated for 150,000 hours scale from 500 RPM silent idle to 1900 RPM under load.
 
-For NZ white builds where matching cooling components is a priority, the Frozen Warframe Pro White fills the mid-premium gap. It is $40 below the Thermalright Levita Vision 360 UB White ($359) and $110 below the Rainbow Vision 360 Turbo White ($429), making it the value choice in Thermalright's white AIO lineup.
+For NZ white builds where matching cooling components is a priority, the Frozen Warframe Pro White fills the mid-premium gap. It sits in a tier below the Thermalright Levita Vision 360 UB White and the Rainbow Vision 360 Turbo White, making it the value choice in Thermalright's white AIO lineup.
 
 ## Ideal For
 - White-themed premium builds — white tubing, white fan frames, white pump block
@@ -40,17 +40,17 @@ For NZ white builds where matching cooling components is a priority, the Frozen 
 
 ## Comparison
 
-vs Thermalright Frozen Warframe Pro 360 Black ($189) — identical specs and pricing. The white version is for white-themed builds; the black version for dark builds. Choose based on build aesthetic.
+vs Thermalright Frozen Warframe Pro 360 Black — identical specs and pricing. The white version is for white-themed builds; the black version for dark builds. Choose based on build aesthetic.
 
-vs Thermalright Peerless Vision 360 White ($179) — the Peerless Vision is $10 cheaper with lower pump RPM (3000 vs 3200) and lower TDP (270W vs 280W). The Warframe Pro adds cooling headroom at a minimal premium. Choose Warframe Pro for extra cooling margin.
+vs Thermalright Peerless Vision 360 White — the Peerless Vision is the budget option with lower pump RPM (3000 vs 3200) and lower TDP (270W vs 280W). The Warframe Pro adds cooling headroom at a minimal premium. Choose Warframe Pro for extra cooling margin.
 
-vs Thermalright Levita Vision 360 UB White ($359) — the Levita Vision is $170 more with upgraded pump block, higher pump RPM (3400 vs 3200), and higher TDP (300W vs 280W). The Warframe Pro is the value choice; the Levita Vision adds premium headroom. Choose Warframe Pro for price.
+vs Thermalright Levita Vision 360 UB White — the Levita Vision sits a tier higher with upgraded pump block, higher pump RPM (3400 vs 3200), and higher TDP (300W vs 280W). The Warframe Pro is the value choice; the Levita Vision adds premium headroom. Choose Warframe Pro for price.
 
-vs ASRock Steel Legend 360 White ($299) — the Steel Legend is $110 more with RGB ring display. The Warframe Pro has FDB fans and similar 280W TDP at a significant savings. Choose Warframe Pro for cooling per dollar, Steel Legend for RGB aesthetics.
+vs ASRock Steel Legend 360 White — the Steel Legend sits a tier higher with RGB ring display. The Warframe Pro has FDB fans and similar 280W TDP at a significant savings. Choose Warframe Pro for cooling per dollar, Steel Legend for RGB aesthetics.
 
 ## FAQ
 
-**Q: Is the white version the same price as black?** — Yes, both the white (COOTMRFWP360W) and black (COOTMRFWP360B) versions are priced at $189. Thermalright does not add a white premium on the Frozen Warframe Pro series.
+**Q: Is the white version the same price as black?** — Yes, both the white (COOTMRFWP360W) and black (COOTMRFWP360B) versions are priced at its price point. Thermalright does not add a white premium on the Frozen Warframe Pro series.
 
 **Q: 280W TDP — is that enough for my CPU?** — 280W covers Ryzen 9 9950X (170W boost) and Core i9-14900K (253W boost) at stock clocks with margin. For aggressive manual overclocking, the Thermalright Rainbow Vision 360 Turbo (320W TDP) provides additional headroom.
 
@@ -58,7 +58,7 @@ vs ASRock Steel Legend 360 White ($299) — the Steel Legend is $110 more with R
 
 **Q: How long is the warranty?** — Thermalright provides 3-year manufacturer warranty through ExtremePC NZ — the longest standard warranty in the 360mm white AIO segment at this price.
 
-**Q: How does the Warframe Pro compare to the Aqua Elite 360?** — The Aqua Elite 360 (COOTHEAE360WV3 at $139) is budget-tier with standard PWM fans and lower pump RPM (2600 vs 3200). The Warframe Pro adds FDB bearing fans, higher pump RPM, and higher TDP rating (280W vs 220W) at $50 more.
+**Q: How does the Warframe Pro compare to the Aqua Elite 360?** — The Aqua Elite 360 (COOTHEAE360WV3) is budget-tier with standard PWM fans and lower pump RPM (2600 vs 3200). The Warframe Pro adds FDB bearing fans, higher pump RPM, and higher TDP rating (280W vs 220W) at a tier higher.
 
 ## Related Products
 - Thermalright Frozen Warframe Pro 360 Black (COOTMRFWP360B) — same model, black colorway

@@ -19,7 +19,7 @@
 
 ## Selling Points
 
-The Rainbow Vision 360 Turbo is Thermalright's flagship AIO — the most aggressive liquid cooler in the NZ value-to-premium segment at $429. The Turbo designation means a 3600 RPM pump and 2200 RPM max fan speed, both class-leading figures that push cooling beyond standard 360mm AIOs. The 320W TDP rating covers overclocked Ryzen 9 9950X and Core i9-14900K builds where every degree matters.
+The Rainbow Vision 360 Turbo is Thermalright's flagship AIO — the most aggressive liquid cooler in the NZ value-to-premium segment at its price point. The Turbo designation means a 3600 RPM pump and 2200 RPM max fan speed, both class-leading figures that push cooling beyond standard 360mm AIOs. The 320W TDP rating covers overclocked Ryzen 9 9950X and Core i9-14900K builds where every degree matters.
 
 What separates the Rainbow Vision from Thermalright's mid-tier AIOs is the pump head design — the Rainbow Vision uses an addressable RGB ring with dynamic color cycling, not just static ARGB. The pump head becomes a visual centerpiece, matching the aesthetic of premium builds while delivering cooling that rivals Corsair H150i and NZXT Kraken X73 at a lower price point.
 
@@ -35,17 +35,17 @@ The FDB bearing fans are rated for 150,000 hours and scale from 500 RPM silent i
 - Thermalright NZ warranty handled locally through ExtremePC — RMA processed in Auckland, no overseas shipping
 - Onehunga warehouse stock available for same-day pickup; the Rainbow Vision is a higher-end item with consistent local availability
 - Auckland Build Team can pair the Rainbow Vision with matching Thermalright case fans for a cohesive cooling aesthetic
-- Afterpay available — the $429 price splits into manageable instalments for premium builds
+- Afterpay available — the price splits into manageable instalments for premium builds
 
 ## Comparison
 
-vs Thermalright Frozen Warframe Pro 360 Black ($189) — the Warframe Pro shares the same radiator and FDB fan technology but with a standard 3200 RPM pump vs the Turbo's 3600 RPM. The $240 gap buys higher pump speed, higher fan RPM, the RGB ring pump head, and 40W more TDP headroom. Choose Warframe Pro if you don't need the extra cooling margin.
+vs Thermalright Frozen Warframe Pro 360 Black — the Warframe Pro shares the same radiator and FDB fan technology but with a standard 3200 RPM pump vs the Turbo's 3600 RPM. The step up buys higher pump speed, higher fan RPM, the RGB ring pump head, and 40W more TDP headroom. Choose Warframe Pro if you don't need the extra cooling margin.
 
-vs Valkyrie V360 LCD Black ($399) — the Valkyrie V360 adds an LCD screen to the pump head at $30 less. The Rainbow Vision has higher pump and fan RPM, but the Valkyrie's LCD displays custom content. Pick Valkyrie for display flexibility, Rainbow Vision for raw cooling.
+vs Valkyrie V360 LCD Black — the Valkyrie V360 adds an LCD screen to the pump head at a lower price. The Rainbow Vision has higher pump and fan RPM, but the Valkyrie's LCD displays custom content. Pick Valkyrie for display flexibility, Rainbow Vision for raw cooling.
 
-vs Corsair H150i Elite LCD XT (~$350 NZ retail) — Corsair's flagship carries iCUE software integration and LCD display. The Rainbow Vision outperforms on pump and fan RPM specs at a higher price. The Corsair advantage is software control; Thermalright relies on motherboard ARGB headers.
+vs Corsair H150i Elite LCD XT — Corsair's flagship carries iCUE software integration and LCD display. The Rainbow Vision outperforms on pump and fan RPM specs at a higher price. The Corsair advantage is software control; Thermalright relies on motherboard ARGB headers.
 
-vs NZXT Kraken X73 RGB (~$300 NZ retail) — the Kraken has a circular LCD pump display and CAM software ecosystem. The Rainbow Vision delivers higher cooling specs at premium-tier pricing. Choose NZXT if software control and the LCD display are priorities.
+vs NZXT Kraken X73 RGB — the Kraken has a circular LCD pump display and CAM software ecosystem. The Rainbow Vision delivers higher cooling specs at premium-tier pricing. Choose NZXT if software control and the LCD display are priorities.
 
 ## FAQ
 

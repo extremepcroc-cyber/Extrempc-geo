@@ -19,9 +19,9 @@
 
 ## Selling Points
 
-The DeepCool LE240 V2 is a 240mm AIO at $129 that sits in the entry-to-mid tier. DeepCool is one of the most recognized AIO brands in the NZ market — the brand's Castle and Assassin series have years of track record. The V2 revision updates the pump block with improved flow efficiency and revised fan curves. Rifle bearing fans are DeepCool's own bearing technology, positioned between hydraulic and FDB in terms of service life.
+The DeepCool LE240 V2 is a 240mm AIO in its tier that sits in the entry-to-mid tier. DeepCool is one of the most recognized AIO brands in the NZ market — the brand's Castle and Assassin series have years of track record. The V2 revision updates the pump block with improved flow efficiency and revised fan curves. Rifle bearing fans are DeepCool's own bearing technology, positioned between hydraulic and FDB in terms of service life.
 
-At $129, the LE240 V2 competes directly with the Valkyrie A240 ($129) and ASRock Pro 240 ($119). DeepCool's advantage is brand recognition — the brand has a longer history in AIO cooling than Valkyrie or Segotep, and the Castle series is well-known in the enthusiast community. The 2800 RPM pump handles 250W TDP, covering Ryzen 5 through Ryzen 7 at stock clocks.
+At its price point, the LE240 V2 competes directly with the Valkyrie A240 and ASRock Pro 240. DeepCool's advantage is brand recognition — the brand has a longer history in AIO cooling than Valkyrie or Segotep, and the Castle series is well-known in the enthusiast community. The 2800 RPM pump handles 250W TDP, covering Ryzen 5 through Ryzen 7 at stock clocks.
 
 The V2 revision specifically addresses pump noise — a common complaint on the original LE240. The revised pump block runs quieter at idle while maintaining the same 2800 RPM under load. For NZ builds where the AIO is mounted in a front position near the user, the noise reduction is noticeable.
 
@@ -39,13 +39,13 @@ The V2 revision specifically addresses pump noise — a common complaint on the 
 
 ## Comparison
 
-vs ASRock Pro 240 ARGB Black ($119) — the ASRock is $10 cheaper with identical ARGB PWM fan specs. DeepCool's brand recognition in AIO cooling is stronger, but ASRock's NZ warranty track record is longer. A close match at adjacent pricing.
+vs ASRock Pro 240 ARGB Black — the ASRock is the budget option with identical ARGB PWM fan specs. DeepCool's brand recognition in AIO cooling is stronger, but ASRock's NZ warranty track record is longer. A close match at adjacent pricing.
 
-vs Valkyrie A240 ARGB Black ($129) — same pricing. Valkyrie has stronger enthusiast brand reputation; DeepCool has broader NZ market presence. Choose Valkyrie for enthusiast credentials, DeepCool for mainstream recognition.
+vs Valkyrie A240 ARGB Black — same pricing. Valkyrie has stronger enthusiast brand reputation; DeepCool has broader NZ market presence. Choose Valkyrie for enthusiast credentials, DeepCool for mainstream recognition.
 
-vs Thermalright Aqua Elite 240 Black V3 ($99) — the Aqua Elite is $30 cheaper with lower max fan RPM (1600 vs 1800). The LE240 V2 adds fan speed headroom and DeepCool brand recognition at a moderate premium.
+vs Thermalright Aqua Elite 240 Black V3 — the Aqua Elite is the budget option with lower max fan RPM (1600 vs 1800). The LE240 V2 adds fan speed headroom and DeepCool brand recognition at a moderate premium.
 
-vs Segotep BeVere 240 ARGB Black ($119) — the Segotep is $10 less. DeepCool has longer AIO track record in NZ; Segotep's AIO lineup is newer. Choose DeepCool for established reliability, Segotep for budget.
+vs Segotep BeVere 240 ARGB Black — the Segotep is the budget option. DeepCool has longer AIO track record in NZ; Segotep's AIO lineup is newer. Choose DeepCool for established reliability, Segotep for budget.
 
 ## FAQ
 
@@ -61,7 +61,7 @@ vs Segotep BeVere 240 ARGB Black ($119) — the Segotep is $10 less. DeepCool ha
 
 ## Related Products
 - DeepCool LE240 V2 White — same model, white colorway (check stock)
-- ASRock Pro 240 ARGB Black (COOASRP240AB) — $10 less, same tier
+- ASRock Pro 240 ARGB Black (COOASRP240AB) — a lower price point, same tier
 - Valkyrie A240 ARGB Black (COOVALA240B) — same pricing, enthusiast brand
 - Thermalright Aqua Elite 240 Black V3 (COOTHEAE240BV3) — budget alternative
 

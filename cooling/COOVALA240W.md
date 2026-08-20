@@ -40,7 +40,7 @@ White AIO builds are popular in NZ showcase builds — all-white tubing and fan 
 
 ## Comparison
 
-vs Valkyrie A240 ARGB Black (COOVALA240B) — the black version is $10 cheaper with identical specs. The white colorway carries a standard $10 premium across Valkyrie's AIO lineup. Choose based on build aesthetic.
+vs Valkyrie A240 ARGB Black (COOVALA240B) — the black version is the budget option with identical specs. The white colorway carries a standard premium across Valkyrie's AIO lineup. Choose based on build aesthetic.
 
 vs ASRock Pro 240 ARGB Black (COOASRP240AB) — the ASRock is at a lower NZD tier with similar ARGB PWM fan specs. Valkyrie's brand reputation in the enthusiast AIO segment is stronger, but ASRock's longer NZ presence means a more established warranty track record. A near-even match at adjacent pricing.
 
@@ -58,7 +58,7 @@ vs Segotep BeVere 240 ARGB White (COOSEGBV240W) — same-tier Segotep AIO at a l
 
 **Q: What's the maximum CPU this can handle?** — The 250W TDP rating covers Ryzen 7 9700X and Core i7-14700K at stock clocks. For Ryzen 9 9950X or Core i9-14900K, a 360mm radiator is recommended for sustained thermal headroom in Auckland summer conditions.
 
-**Q: Is the black version available?** — Yes, the Valkyrie A240 Black (COOVALA240B) is available at a lower NZD tier — $10 less than the white version.
+**Q: Is the black version available?** — Yes, the Valkyrie A240 Black (COOVALA240B) is available at a lower NZD tier than the white version.
 
 ## Related Products
 - Valkyrie A240 ARGB Black (COOVALA240B) — same model, black colorway

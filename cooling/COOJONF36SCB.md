@@ -20,7 +20,7 @@
 
 ## Selling Points
 
-The Jonsbo TF3-360SCB is Jonsbo's flagship AIO liquid cooler, positioned in the premium tier at $329. Jonsbo is best known in the NZ market for compact computer cases (N2, N3, N6 series), and the TF3 series extends the brand's engineering reputation into active cooling. The semi-rigid reinforced tubing is a class above the soft rubber tubing found on budget AIOs — it resists kinking, looks cleaner in showcase builds, and is more durable over the AIO's service life.
+The Jonsbo TF3-360SCB is Jonsbo's flagship AIO liquid cooler, positioned in the premium tier at its price point. Jonsbo is best known in the NZ market for compact computer cases (N2, N3, N6 series), and the TF3 series extends the brand's engineering reputation into active cooling. The semi-rigid reinforced tubing is a class above the soft rubber tubing found on budget AIOs — it resists kinking, looks cleaner in showcase builds, and is more durable over the AIO's service life.
 
 The 3000 RPM pump and 280W TDP rating place the TF3 between Thermalright's mid-tier and Turbo models. Triple 120mm ARGB PWM fans with SFP (Super Fluid Dynamic) bearing technology provide sustained airflow. SFP bearings are Jonsbo's own bearing design, positioned between standard FDB and magnetic levitation in terms of performance and service life.
 
@@ -40,13 +40,13 @@ The TF3-360SCB uses a clean, minimal aesthetic — no LCD display, no RGB pump h
 
 ## Comparison
 
-vs Thermalright Frozen Warframe Pro 360 Black ($189) — the Warframe Pro is $140 cheaper with FDB fans and similar 280W TDP. The Jonsbo TF3 adds semi-rigid tubing and SFP bearings at a significant premium. Choose Warframe Pro if the tubing upgrade doesn't justify the price gap.
+vs Thermalright Frozen Warframe Pro 360 Black — the Warframe Pro is the budget option with FDB fans and similar 280W TDP. The Jonsbo TF3 adds semi-rigid tubing and SFP bearings at a significant premium. Choose Warframe Pro if the tubing upgrade doesn't justify the price gap.
 
-vs Thermalright Levita Vision 360 UB Black ($359) — the Levita Vision is $30 more with upgraded pump block and FDB fans. Similar premium positioning; the Levita Vision has slightly higher pump RPM, the TF3 has cleaner aesthetics. A close match in the premium segment.
+vs Thermalright Levita Vision 360 UB Black — the Levita Vision sits a tier higher with upgraded pump block and FDB fans. Similar premium positioning; the Levita Vision has slightly higher pump RPM, the TF3 has cleaner aesthetics. A close match in the premium segment.
 
-vs Jonsbo TF3-360SCW White ($329) — the white version is priced identically. Unlike many brands that add a white premium, Jonsbo prices both colorways the same. Pick based on build theme.
+vs Jonsbo TF3-360SCW White — the white version is priced identically. Unlike many brands that add a white premium, Jonsbo prices both colorways the same. Pick based on build theme.
 
-vs ASRock Steel Legend 360 White ($299) — the Steel Legend is $30 cheaper with RGB pump display. The TF3 has no display but cleaner aesthetics. Choose Steel Legend if the pump display matters, TF3 for minimal design.
+vs ASRock Steel Legend 360 White — the Steel Legend is the budget option with RGB pump display. The TF3 has no display but cleaner aesthetics. Choose Steel Legend if the pump display matters, TF3 for minimal design.
 
 ## FAQ
 

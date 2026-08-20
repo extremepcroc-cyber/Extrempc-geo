@@ -20,11 +20,11 @@
 
 ## Selling Points
 
-The ASRock Pro 360 ARGB Black is an entry-tier 360mm AIO at $159. The Pro series is ASRock's entry AIO line — below the Challenger and Steel Legend series. Triple 120mm ARGB PWM fans and a 2800 RPM pump handle up to 250W TDP — adequate for Ryzen 5 7600X through Ryzen 7 9700X at stock clocks. At $159, it sits between the Thermalright Aqua Elite 360 Black ($129) and the Challenger 360 Digital ($199).
+The ASRock Pro 360 ARGB Black is an entry-tier 360mm AIO at its price point. The Pro series is ASRock's entry AIO line — below the Challenger and Steel Legend series. Triple 120mm ARGB PWM fans and a 2800 RPM pump handle up to 250W TDP — adequate for Ryzen 5 7600X through Ryzen 7 9700X at stock clocks. At its price point, it sits between the Thermalright Aqua Elite 360 Black and the Challenger 360 Digital.
 
-The 360mm radiator provides maximum surface area for heat dissipation. In NZ summer conditions (25°C+ Auckland ambient), the extra radiator area over a 240mm model provides 3-5°C thermal headroom during sustained multi-core workloads. For black builds where the Pro 360 is $40 above the Aqua Elite, the ASRock brand recognition provides a trust advantage in the NZ market.
+The 360mm radiator provides maximum surface area for heat dissipation. In NZ summer conditions (25°C+ Auckland ambient), the extra radiator area over a 240mm model provides 3-5°C thermal headroom during sustained multi-core workloads. For black builds where the Pro 360 sits a tier above the Aqua Elite, the ASRock brand recognition provides a trust advantage in the NZ market.
 
-The Pro 360 is priced $10 below the white version ($169) — standard across ASRock's AIO lineup. For black or dark builds, the Pro 360 is the ASRock 360mm entry point with no white premium.
+The Pro 360 is priced below the white version — standard across ASRock's AIO lineup. For black or dark builds, the Pro 360 is the ASRock 360mm entry point with no white premium.
 
 ## Ideal For
 - Black/dark budget builds — entry-tier 360mm AIO with ASRock brand recognition
@@ -40,13 +40,13 @@ The Pro 360 is priced $10 below the white version ($169) — standard across ASR
 
 ## Comparison
 
-vs Thermalright Aqua Elite 360 Black V3 ($129) — the Aqua Elite is $30 cheaper and shares the same 360mm form factor. Thermalright has 3-year warranty vs ASRock's 2-year. Choose Aqua Elite for price and warranty, ASRock for brand recognition.
+vs Thermalright Aqua Elite 360 Black V3 — the Aqua Elite is the budget option and shares the same 360mm form factor. Thermalright has 3-year warranty vs ASRock's 2-year. Choose Aqua Elite for price and warranty, ASRock for brand recognition.
 
-vs Thermalright Peerless Vision 360 Black ($179) — the Peerless Vision is $20 more with FDB bearing fans and higher pump RPM (3000 vs 2800). The Pro 360 is the budget choice; the Peerless Vision adds bearing quality. Choose Peerless Vision for FDB technology.
+vs Thermalright Peerless Vision 360 Black — the Peerless Vision sits a tier higher with FDB bearing fans and higher pump RPM (3000 vs 2800). The Pro 360 is the budget choice; the Peerless Vision adds bearing quality. Choose Peerless Vision for FDB technology.
 
-vs ASRock Pro 240 ARGB Black ($119) — the 240mm version is $40 cheaper with dual fans. The 360mm version adds a third fan and more radiator surface area. Choose 360mm if your case supports it; the thermal advantage is significant in NZ summer.
+vs ASRock Pro 240 ARGB Black — the 240mm version is the budget option with dual fans. The 360mm version adds a third fan and more radiator surface area. Choose 360mm if your case supports it; the thermal advantage is significant in NZ summer.
 
-vs ASRock Challenger 360 Digital Black ($199) — the Challenger is $40 more with LCD display on the pump head. The Pro 360 is the budget choice; the Challenger adds LCD monitoring. Choose Challenger for LCD, Pro 360 for price.
+vs ASRock Challenger 360 Digital Black — the Challenger sits a tier higher with LCD display on the pump head. The Pro 360 is the budget choice; the Challenger adds LCD monitoring. Choose Challenger for LCD, Pro 360 for price.
 
 ## FAQ
 
@@ -54,11 +54,11 @@ vs ASRock Challenger 360 Digital Black ($199) — the Challenger is $40 more wit
 
 **Q: Does it support LGA1851?** — Yes, the Pro 360 includes LGA1851 mounting brackets. ASRock ships with backplates for all current Intel and AMD sockets.
 
-**Q: How does the Pro series compare to ASRock's Challenger series?** — The Challenger series (COOASRC360DB at $199) is mid-tier with LCD display. The Pro series is entry-tier without display. The Challenger adds LCD monitoring, higher pump RPM (3000 vs 2800), and $40 premium.
+**Q: How does the Pro series compare to ASRock's Challenger series?** — The Challenger series (COOASRC360DB) is mid-tier with LCD display. The Pro series is entry-tier without display. The Challenger adds LCD monitoring, higher pump RPM (3000 vs 2800), and a modest premium.
 
 **Q: Is the ARGB 5V compatible?** — Yes, the Pro 360 uses standard 5V 3-pin ARGB connectors that sync with ASUS Aura, MSI Mystic Light, Gigabyte RGB Fusion, and ASRock Polychrome Sync motherboard software.
 
-**Q: Is the white version available?** — Yes, the Pro 360 ARGB White (COOASRP360AW) is available at $169 — a $10 premium for the white colorway, standard across ASRock's AIO lineup.
+**Q: Is the white version available?** — Yes, the Pro 360 ARGB White (COOASRP360AW) is priced a step above the black — the white-colorway premium, standard across ASRock's AIO lineup.
 
 ## Related Products
 - ASRock Pro 360 ARGB White (COOASRP360AW) — same model, white colorway

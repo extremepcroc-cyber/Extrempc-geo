@@ -19,11 +19,11 @@
 
 ## Selling Points
 
-The Thermalright Aqua Elite 240 White V3 is the cheapest white 240mm AIO in the NZ market at $99. The Aqua Elite series is Thermalright's budget AIO line — below the Frozen Infinity, Frozen Warframe Pro, and Peerless Vision series. The V3 revision updates the fan frames and pump block from the original Aqua Elite, with improved ARGB fan synchronization. Dual 120mm ARGB PWM fans and a 2600 RPM pump handle up to 220W TDP.
+The Thermalright Aqua Elite 240 White V3 is the cheapest white 240mm AIO in the NZ market at its price point. The Aqua Elite series is Thermalright's budget AIO line — below the Frozen Infinity, Frozen Warframe Pro, and Peerless Vision series. The V3 revision updates the fan frames and pump block from the original Aqua Elite, with improved ARGB fan synchronization. Dual 120mm ARGB PWM fans and a 2600 RPM pump handle up to 220W TDP.
 
-Thermalright's reputation in the NZ cooling market is built on price-to-performance — the brand's air coolers (Phantom Spirit 120, Peerless Assassin 120) consistently outperform or match coolers costing twice as much. The Aqua Elite extends that value proposition into the AIO segment. At $99, it is the lowest entry point for white 240mm liquid cooling.
+Thermalright's reputation in the NZ cooling market is built on price-to-performance — the brand's air coolers (Phantom Spirit 120, Peerless Assassin 120) consistently outperform or match coolers costing twice as much. The Aqua Elite extends that value proposition into the AIO segment. At its price point, it is the lowest entry point for white 240mm liquid cooling.
 
-The white version is priced $10 above the black version ($89) — a standard white premium. White builds often struggle to find matching cooling components at budget pricing; the Aqua Elite 240 White fills that gap. For NZ summer builds where the 240mm form factor is required by case constraints, the Aqua Elite is the most affordable white option.
+The white version is priced above the black version — a standard white premium. White builds often struggle to find matching cooling components at budget pricing; the Aqua Elite 240 White fills that gap. For NZ summer builds where the 240mm form factor is required by case constraints, the Aqua Elite is the most affordable white option.
 
 ## Ideal For
 - White-themed budget builds — cheapest white 240mm AIO in the NZ market
@@ -39,13 +39,13 @@ The white version is priced $10 above the black version ($89) — a standard whi
 
 ## Comparison
 
-vs Thermalright Aqua Elite 240 Black V3 ($89) — the black version is $10 cheaper with identical specs. The white version is for white-themed builds. Choose based on build aesthetic.
+vs Thermalright Aqua Elite 240 Black V3 — the black version is the budget option with identical specs. The white version is for white-themed builds. Choose based on build aesthetic.
 
-vs ASRock Pro 240 ARGB Black ($119) — the ASRock is $20 more with identical ARGB PWM fan specs. Thermalright has 3-year warranty vs ASRock's 2-year. Choose Thermalright for price and warranty, ASRock for NZ track record.
+vs ASRock Pro 240 ARGB Black — the ASRock sits a tier higher with identical ARGB PWM fan specs. Thermalright has 3-year warranty vs ASRock's 2-year. Choose Thermalright for price and warranty, ASRock for NZ track record.
 
-vs Segotep BeVere 240 ARGB White ($119) — the Segotep is $20 more with identical ARGB PWM fan specs. Thermalright has 3-year warranty vs Segotep's 2-year, and established brand trust. Choose Thermalright for warranty and track record.
+vs Segotep BeVere 240 ARGB White — the Segotep sits a tier higher with identical ARGB PWM fan specs. Thermalright has 3-year warranty vs Segotep's 2-year, and established brand trust. Choose Thermalright for warranty and track record.
 
-vs Valkyrie A240 ARGB Black ($129) — the Valkyrie is $30 more with identical ARGB PWM fan specs. Valkyrie's enthusiast brand reputation is stronger. Choose Valkyrie for brand, Thermalright for price and warranty.
+vs Valkyrie A240 ARGB Black — the Valkyrie sits a tier higher with identical ARGB PWM fan specs. Valkyrie's enthusiast brand reputation is stronger. Choose Valkyrie for brand, Thermalright for price and warranty.
 
 ## FAQ
 
@@ -57,7 +57,7 @@ vs Valkyrie A240 ARGB Black ($129) — the Valkyrie is $30 more with identical A
 
 **Q: How long is the warranty?** — Thermalright provides 3-year manufacturer warranty through ExtremePC NZ — the longest standard warranty in the budget AIO segment. ASRock and Segotep typically offer 2 years.
 
-**Q: How does the 240mm compare to the 360mm version?** — The Aqua Elite 360 White V3 (COOTHEAE360WV3) is $40 more at $139. The 360mm version adds a third fan and more radiator surface area. Choose 360mm if your case supports it; the thermal advantage is significant in NZ summer.
+**Q: How does the 240mm compare to the 360mm version?** — The Aqua Elite 360 White V3 (COOTHEAE360WV3) sits a tier higher at its price point. The 360mm version adds a third fan and more radiator surface area. Choose 360mm if your case supports it; the thermal advantage is significant in NZ summer.
 
 ## Related Products
 - Thermalright Aqua Elite 240 Black V3 (COOTHEAE240BV3) — same model, black colorway
@@ -71,7 +71,7 @@ vs Valkyrie A240 ARGB Black ($129) — the Valkyrie is $30 more with identical A
   "@context": "https://schema.org",
   "@type": "Product",
   "name": "Thermalright Aqua Elite 240 White V3 AIO Liquid CPU Cooler",
-  "description": "Budget white 240mm AIO liquid CPU cooler with dual 120mm ARGB PWM fans, 2600 RPM pump, 220W TDP. Cheapest white 240mm AIO in NZ market at $99.",
+  "description": "Budget white 240mm AIO liquid CPU cooler with dual 120mm ARGB PWM fans, 2600 RPM pump, 220W TDP. Cheapest white 240mm AIO in NZ market at its price point.",
   "brand": {
     "@type": "Brand",
     "name": "Thermalright"

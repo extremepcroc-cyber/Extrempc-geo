@@ -20,7 +20,7 @@
 
 ## Selling Points
 
-The Valkyrie V360 LCD is one of the most visually distinctive AIOs in the NZ market — the full-color LCD on the pump head displays temperature, RPM, custom images, or animated content. At $399, it sits in the premium tier but below Corsair and NZXT LCD-flagship pricing. The LCD is not just a gimmick; it provides real-time CPU temperature readout without software overlays, useful during overclock validation or stress testing.
+The Valkyrie V360 LCD is one of the most visually distinctive AIOs in the NZ market — the full-color LCD on the pump head displays temperature, RPM, custom images, or animated content. At its price point, it sits in the premium tier but below Corsair and NZXT LCD-flagship pricing. The LCD is not just a gimmick; it provides real-time CPU temperature readout without software overlays, useful during overclock validation or stress testing.
 
 Valkyrie's magnetic levitation fans are a step above standard FDB bearings — lower friction, lower acoustic signature at equivalent RPM. The fans scale from 500 RPM silent idle to 2000 RPM under load, with the maglev bearing maintaining smooth operation across the range. For NZ summer builds where sustained fan operation matters, the bearing technology provides longer service life than hydraulic or sleeve alternatives.
 
@@ -36,17 +36,17 @@ The 3400 RPM pump and 300W TDP rating position the V360 LCD between Thermalright
 - Valkyrie NZ warranty handled through ExtremePC — local RMA, no overseas shipping required
 - Stock at Onehunga warehouse; the V360 LCD is a premium item with consistent local availability
 - Auckland Build Team can install and configure the LCD display content during build service
-- Afterpay splits the $399 into manageable instalments for premium builds
+- Afterpay splits the cost into manageable instalments for premium builds
 
 ## Comparison
 
-vs Thermalright Rainbow Vision 360 Turbo Black ($429) — the Rainbow Vision has higher pump RPM (3600 vs 3400) and fan RPM (2200 vs 2000) at $30 more. The Valkyrie's LCD screen offers more content flexibility than the Rainbow Vision's RGB ring. Choose Rainbow Vision for raw cooling, Valkyrie for display versatility.
+vs Thermalright Rainbow Vision 360 Turbo Black — the Rainbow Vision has higher pump RPM (3600 vs 3400) and fan RPM (2200 vs 2000) at a tier higher. The Valkyrie's LCD screen offers more content flexibility than the Rainbow Vision's RGB ring. Choose Rainbow Vision for raw cooling, Valkyrie for display versatility.
 
-vs Thermalright Wonder Vision 360 Turbo Black ($409) — similar premium-tier pricing with alternative pump head design. The Wonder Vision has slightly higher pump RPM but no LCD screen. The Valkyrie LCD wins on visual customization; the Wonder Vision edges on cooling specs.
+vs Thermalright Wonder Vision 360 Turbo Black — similar premium-tier pricing with alternative pump head design. The Wonder Vision has slightly higher pump RPM but no LCD screen. The Valkyrie LCD wins on visual customization; the Wonder Vision edges on cooling specs.
 
-vs Corsair H150i Elite LCD XT (~$350 NZ retail) — Corsair's LCD flagship carries iCUE software ecosystem at a lower street price. The Valkyrie has higher pump RPM and maglev fans. Corsair's advantage is software breadth; Valkyrie's is hardware specs per dollar.
+vs Corsair H150i Elite LCD XT — Corsair's LCD flagship carries iCUE software ecosystem at a lower street price. The Valkyrie has higher pump RPM and maglev fans. Corsair's advantage is software breadth; Valkyrie's is hardware specs per dollar.
 
-vs NZXT Kraken Z73 (~$380 NZ retail) — the Kraken Z73 has a circular LCD and CAM software. The Valkyrie's rectangular LCD displays more content area. NZXT's software is more polished; the Valkyrie hardware specs are competitive at matching pricing.
+vs NZXT Kraken Z73 — the Kraken Z73 has a circular LCD and CAM software. The Valkyrie's rectangular LCD displays more content area. NZXT's software is more polished; the Valkyrie hardware specs are competitive at matching pricing.
 
 ## FAQ
 
@@ -58,7 +58,7 @@ vs NZXT Kraken Z73 (~$380 NZ retail) — the Kraken Z73 has a circular LCD and C
 
 **Q: How does maglev bearing compare to FDB?** — Magnetic levitation bearings have less physical contact than FDB (Fluid Dynamic Bearing), resulting in lower friction and longer service life. Both outperform hydraulic and sleeve bearings. Maglev is the higher-end option, found on premium AIOs.
 
-**Q: Is the black version significantly different from the white version?** — The white version (COOVALV360W, $399) is cosmetically identical with white tubing and white fan frames. Cooling performance is the same.
+**Q: Is the black version significantly different from the white version?** — The white version (COOVALV360W) is cosmetically identical with white tubing and white fan frames. Cooling performance is the same.
 
 ## Related Products
 - Valkyrie V360 LCD White (COOVALV360W) — same model, white colorway

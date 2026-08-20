@@ -19,11 +19,11 @@
 
 ## Selling Points
 
-The Segotep IceMoon 360 ARGB White is a 360mm AIO at $169 — the cheapest white 360mm AIO in the NZ market. Segotep's AIO lineup is newer to the NZ market compared to Thermalright or ASRock, but the IceMoon competes on pricing and feature set. Triple 120mm ARGB PWM fans and a 2800 RPM pump handle up to 260W TDP — adequate for Ryzen 7 9700X or Core i7-14700K at stock clocks.
+The Segotep IceMoon 360 ARGB White is a 360mm AIO at its price point — the cheapest white 360mm AIO in the NZ market. Segotep's AIO lineup is newer to the NZ market compared to Thermalright or ASRock, but the IceMoon competes on pricing and feature set. Triple 120mm ARGB PWM fans and a 2800 RPM pump handle up to 260W TDP — adequate for Ryzen 7 9700X or Core i7-14700K at stock clocks.
 
-The white version is priced the same as the black variant ($169) — unusual for the AIO market where white typically carries a $10 premium. For white-themed builds, the IceMoon is the most economical 360mm entry point. The white tubing, white fan frames, and white pump block provide a clean aesthetic that matches white case interiors.
+The white version is priced the same as the black variant — unusual for the AIO market where white typically carries a modest premium. For white-themed builds, the IceMoon is the most economical 360mm entry point. The white tubing, white fan frames, and white pump block provide a clean aesthetic that matches white case interiors.
 
-The 360mm radiator provides maximum surface area for heat dissipation. In NZ summer conditions (25°C+ Auckland ambient), the extra radiator area over a 240mm model provides 3-5°C thermal headroom during sustained multi-core workloads — video encoding, 3D rendering, or extended gaming sessions. At $169, the IceMoon is the budget 360mm choice for NZ summer builds.
+The 360mm radiator provides maximum surface area for heat dissipation. In NZ summer conditions (25°C+ Auckland ambient), the extra radiator area over a 240mm model provides 3-5°C thermal headroom during sustained multi-core workloads — video encoding, 3D rendering, or extended gaming sessions. At its price point, the IceMoon is the budget 360mm choice for NZ summer builds.
 
 ## Ideal For
 - White-themed budget builds — cheapest white 360mm AIO in the NZ market
@@ -39,29 +39,29 @@ The 360mm radiator provides maximum surface area for heat dissipation. In NZ sum
 
 ## Comparison
 
-vs Thermalright Aqua Elite 360 White V3 ($139) — the Aqua Elite is $30 cheaper and shares the same 360mm form factor. Thermalright has established brand trust and 3-year warranty vs Segotep's 2-year. Choose Aqua Elite for brand and warranty, IceMoon if the specific white aesthetic matches your build.
+vs Thermalright Aqua Elite 360 White V3 — the Aqua Elite is the budget option and shares the same 360mm form factor. Thermalright has established brand trust and 3-year warranty vs Segotep's 2-year. Choose Aqua Elite for brand and warranty, IceMoon if the specific white aesthetic matches your build.
 
-vs ASRock Pro 360 ARGB White ($169) — same pricing. ASRock has longer NZ presence and more established warranty track record. The IceMoon is Segotep's entry; the ASRock Pro is the brand-equivalent. Choose ASRock for track record, Segotep for aesthetics.
+vs ASRock Pro 360 ARGB White — same pricing. ASRock has longer NZ presence and more established warranty track record. The IceMoon is Segotep's entry; the ASRock Pro is the brand-equivalent. Choose ASRock for track record, Segotep for aesthetics.
 
-vs Thermalright Frozen Warframe Pro 360 Black ($189) — the Warframe Pro is $20 more with FDB bearing fans and higher pump RPM (3200 vs 2800). The IceMoon is the budget choice; the Warframe Pro adds bearing quality and cooling headroom. Choose Warframe Pro for proven technology.
+vs Thermalright Frozen Warframe Pro 360 Black — the Warframe Pro sits a tier higher with FDB bearing fans and higher pump RPM (3200 vs 2800). The IceMoon is the budget choice; the Warframe Pro adds bearing quality and cooling headroom. Choose Warframe Pro for proven technology.
 
-vs Segotep MU 360 ARGB White ($199) — the MU 360 is $30 more with IPS LCD display on the pump head. The IceMoon has no display. Choose MU 360 if the LCD is a priority, IceMoon for pure budget.
+vs Segotep MU 360 ARGB White — the MU 360 sits a tier higher with IPS LCD display on the pump head. The IceMoon has no display. Choose MU 360 if the LCD is a priority, IceMoon for pure budget.
 
 ## FAQ
 
 **Q: Is Segotep a reliable AIO brand?** — Segotep is a Chinese manufacturer founded in 2007, established in the PSU and case segments. Their AIO lineup is newer than Thermalright or ASRock, so long-term reliability data in NZ is still being established. The 2-year warranty through ExtremePC covers pump failure.
 
-**Q: Does the IceMoon have any display on the pump head?** — No. The IceMoon 360 has a clean pump block with no LCD, RGB ring, or display. The ARGB lighting is on the fans only. The Segotep MU 360 ($199) adds an IPS LCD display at $30 more.
+**Q: Does the IceMoon have any display on the pump head?** — No. The IceMoon 360 has a clean pump block with no LCD, RGB ring, or display. The ARGB lighting is on the fans only. The Segotep MU 360 adds an IPS LCD display at a tier higher.
 
 **Q: 260W TDP — is that enough for my CPU?** — 260W covers Ryzen 7 9700X (105W boost) and Core i7-14700K (253W boost) at stock clocks with margin. For Ryzen 9 9950X or Core i9-14900K, a higher-TDP-rated AIO is recommended.
 
 **Q: Does it support LGA1851?** — Yes, the IceMoon 360 includes LGA1851 mounting brackets. Segotep ships with backplates for all current Intel and AMD sockets.
 
-**Q: Why is the white version the same price as black?** — Segotep prices the IceMoon 360 white and black identically at $169. This is unusual — most brands add a $10 white premium. At this price, the IceMoon is the best-value white 360mm AIO in the NZ market.
+**Q: Why is the white version the same price as black?** — Segotep prices the IceMoon 360 white and black identically at its price point. This is unusual — most brands add the usual white premium. At this price, the IceMoon is the best-value white 360mm AIO in the NZ market.
 
 ## Related Products
 - Segotep IceMoon 360 ARGB Black (COOSEGIM360B) — same model, black colorway
-- Segotep MU 360 ARGB White (COOSEGMU360W) — 360mm with LCD display, $30 more
+- Segotep MU 360 ARGB White (COOSEGMU360W) — 360mm with LCD display, a tier higher
 - Thermalright Aqua Elite 360 White V3 (COOTHEAE360WV3) — budget 360mm alternative
 - ASRock Pro 360 ARGB White (COOASRP360AW) — same-tier white comparison
 

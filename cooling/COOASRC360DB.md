@@ -20,11 +20,11 @@
 
 ## Selling Points
 
-The ASRock Challenger 360 Digital is a 360mm AIO with LCD display at $199 — the cheapest LCD-equipped 360mm AIO in the NZ market. The digital display on the pump head shows real-time CPU temperature, pump speed, and fan RPM, providing at-a-glance monitoring without software overlays. For budget builds where LCD aesthetics matter, the Challenger is the lowest entry point.
+The ASRock Challenger 360 Digital is a 360mm AIO with LCD display at its price point — the cheapest LCD-equipped 360mm AIO in the NZ market. The digital display on the pump head shows real-time CPU temperature, pump speed, and fan RPM, providing at-a-glance monitoring without software overlays. For budget builds where LCD aesthetics matter, the Challenger is the lowest entry point.
 
-The Challenger series is ASRock's mid-tier AIO line — above the Pro series and below the Steel Legend. The 3000 RPM pump handles 270W TDP, covering Ryzen 7 9700X through Ryzen 9 9950X at stock clocks. Triple 120mm ARGB PWM fans scale from 500 RPM silent idle to 1800 RPM under load. The LCD display is the key feature — competitors typically reserve LCD displays for premium-tier models above $350.
+The Challenger series is ASRock's mid-tier AIO line — above the Pro series and below the Steel Legend. The 3000 RPM pump handles 270W TDP, covering Ryzen 7 9700X through Ryzen 9 9950X at stock clocks. Triple 120mm ARGB PWM fans scale from 500 RPM silent idle to 1800 RPM under load. The LCD display is the key feature — competitors typically reserve LCD displays for their premium-tier models.
 
-At $199, the Challenger 360 Digital competes with the Segotep MU 360 ($199) and Thermalright Frozen Warframe Pro ($189) on pricing. The ASRock LCD display is simpler than the Valkyrie V360's full-color screen, but it provides functional temperature readout at a fraction of the price. For NZ builders who want LCD monitoring without premium spending, the Challenger is the value choice.
+At its price point, the Challenger 360 Digital competes with the Segotep MU 360 and Thermalright Frozen Warframe Pro on pricing. The ASRock LCD display is simpler than the Valkyrie V360's full-color screen, but it provides functional temperature readout at a fraction of the price. For NZ builders who want LCD monitoring without premium spending, the Challenger is the value choice.
 
 ## Ideal For
 - Budget builds wanting LCD pump display without premium-tier spending
@@ -40,13 +40,13 @@ At $199, the Challenger 360 Digital competes with the Segotep MU 360 ($199) and 
 
 ## Comparison
 
-vs Thermalright Frozen Warframe Pro 360 Black ($189) — the Warframe Pro is $10 cheaper with FDB fans and similar 280W TDP. The Challenger adds LCD display at a $10 premium. Choose Warframe Pro for proven bearing technology, Challenger for LCD.
+vs Thermalright Frozen Warframe Pro 360 Black — the Warframe Pro is the budget option with FDB fans and similar 280W TDP. The Challenger adds LCD display at a modest premium. Choose Warframe Pro for proven bearing technology, Challenger for LCD.
 
-vs Segotep MU 360 ARGB Black ($189) — the MU 360 is $10 cheaper with IPS LCD display. ASRock has longer NZ presence and more established warranty track record. Choose Segotep for price, ASRock for track record.
+vs Segotep MU 360 ARGB Black — the MU 360 is the budget option with IPS LCD display. ASRock has longer NZ presence and more established warranty track record. Choose Segotep for price, ASRock for track record.
 
-vs Valkyrie V360 LCD Black ($399) — the Valkyrie is $200 more with full-color LCD, custom content support, and maglev fans. The Challenger LCD is simpler but functional. Choose Valkyrie for display flexibility, Challenger for value.
+vs Valkyrie V360 LCD Black — the Valkyrie sits a tier higher with full-color LCD, custom content support, and maglev fans. The Challenger LCD is simpler but functional. Choose Valkyrie for display flexibility, Challenger for value.
 
-vs ASRock Steel Legend 360 White ($299) — the Steel Legend is $100 more with RGB ring and higher pump RPM (3200 vs 3000). The Challenger is the budget LCD choice; the Steel Legend is the premium RGB option. Choose Challenger for price, Steel Legend for aesthetics.
+vs ASRock Steel Legend 360 White — the Steel Legend sits a tier higher with RGB ring and higher pump RPM (3200 vs 3000). The Challenger is the budget LCD choice; the Steel Legend is the premium RGB option. Choose Challenger for price, Steel Legend for aesthetics.
 
 ## FAQ
 
@@ -56,7 +56,7 @@ vs ASRock Steel Legend 360 White ($299) — the Steel Legend is $100 more with R
 
 **Q: Does it support LGA1851?** — Yes, the Challenger 360 Digital includes LGA1851 mounting brackets. ASRock ships with backplates for all current Intel and AMD sockets.
 
-**Q: How does the Challenger compare to ASRock's Pro series?** — The Pro series (COOASRP240AB at $119) is entry-tier without LCD display. The Challenger adds LCD monitoring, higher pump RPM (3000 vs 2800), and 360mm radiator at a moderate premium. The Challenger is the step-up within ASRock's AIO lineup.
+**Q: How does the Challenger compare to ASRock's Pro series?** — The Pro series (COOASRP240AB) is entry-tier without LCD display. The Challenger adds LCD monitoring, higher pump RPM (3000 vs 2800), and 360mm radiator at a moderate premium. The Challenger is the step-up within ASRock's AIO lineup.
 
 **Q: Is the LCD bright enough to read in a lit room?** — The LCD is backlit and readable in normal room lighting. In direct sunlight, the display may be harder to read, but for typical NZ indoor use, the brightness is adequate.
 

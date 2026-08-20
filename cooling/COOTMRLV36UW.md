@@ -19,7 +19,7 @@
 
 ## Selling Points
 
-The Thermalright Levita Vision 360 UB White is the white colorway of the Levita Vision 360 UB, priced identically to the black version at $359. The white version features white tubing, white fan frames, and a white pump block — designed for all-white showcase builds. At $359, it is one of the few premium white 360mm AIOs with FDB bearing fans in the NZ market.
+The Thermalright Levita Vision 360 UB White is the white colorway of the Levita Vision 360 UB, priced identically to the black version at its price point. The white version features white tubing, white fan frames, and a white pump block — designed for all-white showcase builds. At its price point, it is one of the few premium white 360mm AIOs with FDB bearing fans in the NZ market.
 
 The Levita Vision series is Thermalright's premium AIO line — above the Frozen Warframe Pro and Peerless Vision, below the Rainbow Vision Turbo. The "UB" designation indicates an upgraded pump block with improved flow efficiency and a refined aesthetic. The 3400 RPM pump and 300W TDP rating cover Ryzen 9 9950X and Core i9-14900K at stock or mild overclock.
 
@@ -35,17 +35,17 @@ The FDB bearing fans are rated for 150,000 hours and scale from 500 RPM silent i
 - Thermalright carries 3-year NZ warranty through ExtremePC — longest standard warranty in the premium AIO segment
 - Stock at Onehunga warehouse for same-day Auckland pickup
 - Auckland Build Team can install with pre-applied thermal paste, torque-spec mounting, and leak-test verification
-- Thermalright's AIO range at ExtremePC spans $99 to $429 — the Levita Vision sits in the upper tier with clear upgrade/downgrade paths
+- Thermalright's AIO range at ExtremePC spans the entry to flagship tiers — the Levita Vision sits in the upper tier with clear upgrade/downgrade paths
 
 ## Comparison
 
-vs Thermalright Levita Vision 360 UB Black ($359) — identical specs and pricing. The white version is for white-themed builds; the black version for dark builds. Choose based on build aesthetic.
+vs Thermalright Levita Vision 360 UB Black — identical specs and pricing. The white version is for white-themed builds; the black version for dark builds. Choose based on build aesthetic.
 
-vs Thermalright Frozen Warframe Pro 360 White ($189) — the Warframe Pro is $170 cheaper with lower pump RPM (3200 vs 3400) and lower TDP (280W vs 300W). The Levita Vision adds upgraded pump block, higher fan RPM, and refined aesthetics. Choose Warframe Pro if the $170 gap is significant; choose Levita Vision for the premium step-up.
+vs Thermalright Frozen Warframe Pro 360 White — the Warframe Pro is the budget option with lower pump RPM (3200 vs 3400) and lower TDP (280W vs 300W). The Levita Vision adds upgraded pump block, higher fan RPM, and refined aesthetics. Choose Warframe Pro if the price gap is significant; choose Levita Vision for the premium step-up.
 
-vs Valkyrie V360 LCD Black ($399) — the Valkyrie is $40 more with LCD display. The Levita Vision has similar pump and fan specs without the display. Choose Valkyrie for display flexibility, Levita Vision for cooling at lower price.
+vs Valkyrie V360 LCD Black — the Valkyrie sits a tier higher with LCD display. The Levita Vision has similar pump and fan specs without the display. Choose Valkyrie for display flexibility, Levita Vision for cooling at lower price.
 
-vs Thermalright Rainbow Vision 360 Turbo White ($429) — the Rainbow Vision is $70 more with Turbo pump (3600 vs 3400 RPM), higher fan RPM (2200 vs 2000), and RGB ring display. The Levita Vision covers stock and mild overclock; the Rainbow Vision targets aggressive overclocking.
+vs Thermalright Rainbow Vision 360 Turbo White — the Rainbow Vision sits a tier higher with Turbo pump (3600 vs 3400 RPM), higher fan RPM (2200 vs 2000), and RGB ring display. The Levita Vision covers stock and mild overclock; the Rainbow Vision targets aggressive overclocking.
 
 ## FAQ
 
@@ -57,7 +57,7 @@ vs Thermalright Rainbow Vision 360 Turbo White ($429) — the Rainbow Vision is 
 
 **Q: How does the UB pump block compare to the standard Levita?** — The UB pump block runs at lower noise levels (approximately 28 dBA vs 30 dBA on the standard) with improved flow efficiency. The RPM rating is the same; the refinement is in acoustic performance and aesthetics.
 
-**Q: Is the white version the same price as black?** — Yes, both the white (COOTMRLV36UW) and black (COOTMRLV36UB) versions are priced at $359. Thermalright does not add a white premium on the Levita Vision series.
+**Q: Is the white version the same price as black?** — Yes, both the white (COOTMRLV36UW) and black (COOTMRLV36UB) versions are priced at its price point. Thermalright does not add a white premium on the Levita Vision series.
 
 ## Related Products
 - Thermalright Levita Vision 360 UB Black (COOTMRLV36UB) — same model, black colorway
