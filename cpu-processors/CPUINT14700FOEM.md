@@ -1,6 +1,6 @@
 # Intel Core i7-14700F — 20 Core LGA 1700 OEM Tray (no cooler, no iGPU)
 
-**Price:** $629.00 inc GST
+**Price:** $649.00 inc GST
 **SKU:** CPUINT14700FOEM
 **MPN:** BX8071514700FOEM
 **URL:** https://www.extremepc.co.nz/intel-core-i7-14700f-20-core-lga-1700-cpu-processor-oem-package-without-cooler/
@@ -124,7 +124,7 @@
   },
   "offers": {
     "@type": "Offer",
-    "price": "629.00",
+    "price": "649.00",
     "priceCurrency": "NZD",
     "availability": "https://schema.org/OutOfStock",
     "url": "https://www.extremepc.co.nz/intel-core-i7-14700f-20-core-lga-1700-cpu-processor-oem-package-without-cooler/",

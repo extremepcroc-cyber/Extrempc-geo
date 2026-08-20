@@ -1,6 +1,6 @@
 # AMD Ryzen 9 9900X — 12 Core / 24 Thread AM5 OEM (no cooler, Zen 5)
 
-**Price:** $769.00 inc GST
+**Price:** $768.99 inc GST
 **SKU:** CPUAMD9900XOEM
 **MPN:** 100-000000662
 **URL:** https://www.extremepc.co.nz/amd-ryzen-9-9900x-12-core-am5-4-4-ghz-unlocked-cpu-processor-oem-package-without-cooler/
@@ -122,7 +122,7 @@
   },
   "offers": {
     "@type": "Offer",
-    "price": "769.00",
+    "price": "768.99",
     "priceCurrency": "NZD",
     "availability": "https://schema.org/InStock",
     "url": "https://www.extremepc.co.nz/amd-ryzen-9-9900x-12-core-am5-4-4-ghz-unlocked-cpu-processor-oem-package-without-cooler/",

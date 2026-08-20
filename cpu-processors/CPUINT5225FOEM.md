@@ -1,6 +1,6 @@
 # Intel Core Ultra 5 225F — 10 Core LGA 1851 OEM (no cooler, no iGPU)
 
-**Price:** $309.00 inc GST
+**Price:** $299.00 inc GST
 **SKU:** CPUINT5225FOEM
 **MPN:** BX80768225FOEM
 **URL:** https://www.extremepc.co.nz/intel-core-ultra-5-225f-10-core-up-to-4-9ghz-lga-1851-cpu-processor-without-cooler-no-retail-package/
@@ -124,7 +124,7 @@
   },
   "offers": {
     "@type": "Offer",
-    "price": "309.00",
+    "price": "299.00",
     "priceCurrency": "NZD",
     "availability": "https://schema.org/InStock",
     "url": "https://www.extremepc.co.nz/intel-core-ultra-5-225f-10-core-up-to-4-9ghz-lga-1851-cpu-processor-without-cooler-no-retail-package/",

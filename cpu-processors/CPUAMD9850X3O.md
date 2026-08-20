@@ -4,7 +4,6 @@
 **SKU:** CPUAMD9850X3O
 **MPN:** 100-100001973
 **URL:** https://www.extremepc.co.nz/amd-ryzen-7-9850x3d-8-core-16-thread-am5-4-7-ghz-cpu-processor-without-cooler/
-**Status:** OUT OF STOCK - last checked 2026-08-18
 
 ## Quick Specs
 - **Architecture**: Zen 5, 4nm TSMC process, with AMD 3D V-Cache stacking
@@ -123,9 +122,9 @@
   },
   "offers": {
     "@type": "Offer",
-    "price": "949.00",
+    "price": "899.00",
     "priceCurrency": "NZD",
-    "availability": "https://schema.org/OutOfStock",
+    "availability": "https://schema.org/InStock",
     "url": "https://www.extremepc.co.nz/amd-ryzen-7-9850x3d-8-core-16-thread-am5-4-7-ghz-cpu-processor-without-cooler/",
     "seller": {
       "@type": "Organization",

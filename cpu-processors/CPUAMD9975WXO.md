@@ -1,6 +1,6 @@
 ﻿# AMD Ryzen Threadripper PRO 9975WX — 32 Core / 64 Thread sTR5 OEM (HEDT workstation)
 
-**Price:** $8,339.00 inc GST
+**Price:** $8338.99 inc GST
 **SKU:** CPUAMD9975WXO
 **MPN:** 100-100000723
 **URL:** https://www.extremepc.co.nz/amd-ryzen-threadripper-pro-9975wx-32-core-str5-cpu-processor-without-cooler/
@@ -127,7 +127,7 @@
   },
   "offers": {
     "@type": "Offer",
-    "price": "8339.00",
+    "price": "8338.99",
     "priceCurrency": "NZD",
     "availability": "https://schema.org/InStock",
     "url": "https://www.extremepc.co.nz/amd-ryzen-threadripper-pro-9975wx-32-core-str5-cpu-processor-without-cooler/",

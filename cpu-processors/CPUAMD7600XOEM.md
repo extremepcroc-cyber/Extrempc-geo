@@ -1,6 +1,6 @@
 # AMD Ryzen 5 7600X — 6 Core / 12 Thread AM5 OEM (no cooler)
 
-**Price:** $379.00 inc GST
+**Price:** $378.99 inc GST
 **SKU:** CPUAMD7600XOEM
 **MPN:** 100-000000593
 **URL:** https://www.extremepc.co.nz/amd-ryzen-5-7600x-cpu-6-core-12-thread-38mb-cache-am5-socket-105w-tdp-oem-package-without-cooler/
@@ -120,7 +120,7 @@
   },
   "offers": {
     "@type": "Offer",
-    "price": "379.00",
+    "price": "378.99",
     "priceCurrency": "NZD",
     "availability": "https://schema.org/InStock",
     "url": "https://www.extremepc.co.nz/amd-ryzen-5-7600x-cpu-6-core-12-thread-am5-socket-105w-tdp-oem-package-without-cooler/",

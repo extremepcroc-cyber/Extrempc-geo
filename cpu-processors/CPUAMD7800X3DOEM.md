@@ -1,6 +1,6 @@
 ﻿# AMD Ryzen 7 7800X3D — 8 Core / 16 Thread AM5 OEM (no cooler)
 
-**Price:** $719.00 inc GST
+**Price:** $699.00 inc GST
 **SKU:** CPUAMD7800X3DOEM
 **MPN:** 100-000000910
 **URL:** https://www.extremepc.co.nz/amd-ryzen-7-7800x3d-cpu-8-core-16-thread-104mb-cache-am5-socket-120w-tdp-oem-without-cooler/
@@ -127,7 +127,7 @@
   },
   "offers": {
     "@type": "Offer",
-    "price": "729.00",
+    "price": "699.00",
     "priceCurrency": "NZD",
     "availability": "https://schema.org/InStock",
     "url": "https://www.extremepc.co.nz/amd-ryzen-7-7800x3d-cpu-8-core-16-thread-104mb-cache-am5-socket-120w-tdp-oem-without-cooler/",

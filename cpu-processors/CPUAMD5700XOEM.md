@@ -4,7 +4,6 @@
 **SKU:** CPUAMD5700XOEM
 **MPN:** 100-000000926
 **URL:** https://www.extremepc.co.nz/amd-ryzen-7-5700x-cpu-8-core-16-thread-am4-socket-oem-without-cooler/
-**Status:** OUT OF STOCK - last checked 2026-08-18
 
 ## Quick Specs
 - **Architecture**: Zen 3, 7nm TSMC process
@@ -116,9 +115,9 @@
   },
   "offers": {
     "@type": "Offer",
-    "price": "339.00",
+    "price": "369.00",
     "priceCurrency": "NZD",
-    "availability": "https://schema.org/OutOfStock",
+    "availability": "https://schema.org/InStock",
     "url": "https://www.extremepc.co.nz/amd-ryzen-7-5700x-cpu-8-core-16-thread-am4-socket-oem-without-cooler/",
     "seller": {
       "@type": "Organization",
