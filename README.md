@@ -273,3 +273,88 @@ python tools/audit-geo.py --dry-run --category monitors
 - GEO 正文永远不因缺货或 API 查不到而删除，内容是资产
 - BC 完全查不到的 SKU 不会被自动处理，出现在 `errors[]` 里，需要人工确认是否下架、移入 `2-EOL products/`
 - Tombstone 文件自动跳过，不参与审计
+
+---
+
+## EVA 会话自动总结与存档系统
+
+**用途**：每天自动导出 EVA（ExtremePC AI 客服）的客人对话 → 生成「客人在问什么」分析报告 → 存档原始数据 → 定期清理旧会话。店长每天看报告即可掌握客人需求、商机和质量问题。
+
+> ⚠️ 脚本本身不在本仓库内（运行在 Hermes profile 里），本文档是它的完整说明书。脚本位置见下方「脚本位置」。
+
+### 功能流程（每天 3:30am 自动执行）
+
+```
+1. 导出   hermes sessions export --profile {profile} → JSONL
+2. 分析   生成「客人在问什么」报告（7 个区块）
+3. 存档   原始 JSONL + 报告 → custom-chat-history/{日期}/
+4. 清理   删除 30 天前的 session（--older-than 30）
+5. 优化   FTS 索引合并 + VACUUM（回收数据库空间）
+```
+
+### 脚本位置
+
+```
+C:\Users\ExtremePC\AppData\Local\hermes\profiles\exie\scripts\session-maintenance.py
+```
+
+- 由 Hermes 内置 cron（`profiles/exie/cron/jobs.json`，job `f2a10775b2ba`）每天 3:30am 调用
+- 脚本放在 exie profile（主 profile），通过 `--profile` 参数操作其他 profile 的数据
+
+### 覆盖范围
+
+| Profile | 用途 | 自动清理 |
+|---|---|---|
+| `exie-web` | 对外客人对话（gateway 运行于此） | ✅ 30 天 |
+| `xpc` | 历史遗留 | ✅ 30 天 |
+| `exie` | 店长工作 profile | ❌ 不碰，手动维护 |
+
+### 输出文件（custom-chat-history/）
+
+```
+custom-chat-history/
+└── {日期}/                       ← 如 2026-08-24/
+    ├── sessions-{profile}-{date}.jsonl   ← 原始会话存档（完整问答）
+    └── summary-{profile}-{date}.txt      ← 分析报告（人看的）
+```
+
+路径：`C:\Users\ExtremePC\AppData\Local\hermes\profiles\exie-web\workspace\custom-chat-history\`
+
+### 报告包含的 7 个区块
+
+| 区块 | 内容 |
+|---|---|
+| 📊 客人在问什么 | 问题类别分布柱状图（产品/政策/售后/安全等 26+ 类） |
+| 📅 每日会话量 | 每天会话数柱状图（流量趋势） |
+| ⚠️ 质量/异常 | 中断（Operation interrupted）、无回答、负面反馈的会话 |
+| 💰 商机 | 🔥强意向（明确型号/整机） / 👍中意向（具体产品类），政策/售后/安全类不算商机 |
+| 📋 政策/售后问题 | Click&Collect、支付、退货保修、物流等 |
+| 🔁 重复出现的问题 | 相同首问 ≥2 次 = 潜在痛点 |
+| 🕐 最近问答样例 | 最新 3 个会话的 Q/A 原文 |
+
+### 手动操作
+
+```bash
+# 手动跑一次完整维护（导出→分析→存档→清理→优化）
+python C:\Users\ExtremePC\AppData\Local\hermes\profiles\exie\scripts\session-maintenance.py
+
+# 手动清理 exie（工作 profile）的旧会话 —— 脚本不自动碰它
+hermes sessions prune --profile exie --older-than N --yes
+
+# 查历史存档
+ls "C:\Users\ExtremePC\AppData\Local\hermes\profiles\exie-web\workspace\custom-chat-history\"
+```
+
+### 可调配置（脚本顶部）
+
+| 参数 | 默认 | 说明 |
+|---|---|---|
+| `PROFILES` | `["exie-web", "xpc"]` | 自动清理的 profile 列表 |
+| `RETENTION_DAYS` | `30` | 清理多少天前的会话 |
+| `CATEGORY_RULES` | 26+ 类 | 客人问题分类关键词（中英），顺序即优先级 |
+
+### 常见问题
+
+- **某天没有报告** → 机器关机（cron 没跑），如 2026-08-12~16 断电空窗
+- **报告里「其他」偏多** → 主要是问候语（say hi/你好）和纯链接查询，属正常
+- **想调整分类** → 改脚本顶部 `CATEGORY_RULES`（关键词列表），加新类别放越靠前优先级越高
