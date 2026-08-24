@@ -12,4 +12,4 @@
 - **Gaming:** Yes
 - **Color:** Black
 
-**Status:** In Stock
+**Status:** OUT OF STOCK — all store stock depleted (BC API verified 2026-08-25: OH/WL/SL/SU all 0, inventory_level 0).

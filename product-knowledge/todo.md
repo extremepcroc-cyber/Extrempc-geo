@@ -2,6 +2,154 @@
 
 > 此文件记录需要补充的知识库内容
 
+## KB Backfill — Cron Run (2026-08-25)
+
+✔️ 已完成（2026-08-25）：定时 Cron 任务运行 EVAcache vs KB 交叉比对（2026-08-24 snapshot, 1552 in-stock products, SKU content matching over 772 KB 文件）。
+
+**新增 KB 文件: 0** — 核心硬件分类继续 100% 覆盖。
+
+**覆盖率验证 (EVAcache 2026-08-24, 1552 in-stock):**
+- GPUs: 100% (62/62) ✅
+- Motherboards: 100% (31/31) ✅
+- PSUs: 100% (23/23) ✅
+- Cases: 100% (55/55 核心机箱) ✅ — 1 gap: Silverstone RMS03-26 rackmount rail kit（配件）
+- RAM: 100% (26/26) ✅
+- SSDs: 100% (18/18) ✅
+- Cooling: 100% (110/110 散热器/AIO) ✅ — 64 gaps 均为配件（机箱风扇、散热膏、导热垫、接触框架、ARGB hub）
+- Keyboards: 100% (97/97 核心键盘) ✅ — 27 gaps 均为配件（键鼠套装、numpad、Stream Deck、润滑剂）
+- Mice: 100% (115/115 核心鼠标) ✅ — 7 gaps 均为鼠标垫/套装
+- Headsets: 100% (27/27) ✅
+- Monitors: 100% (36/36) ✅ — 1 gap: Kensington monitor arm（配件）
+
+**总体覆盖率: 100% (core hardware)** — 与 2026-08-24 运行一致，无新到货核心产品。
+
+**⚠️ 库存变动处置 (2026-08-24 snapshot, 4 个 SKU 转 OOS):** 与 2026-08-23 diff 后逐一对 BC API 实时核验（inventory_level + 分仓 OH/WL/SL/SU），全部确认售罄，已给对应 KB 文件加 `**Status:** OUT OF STOCK` 行（遵循 "OOS 不删文件、加状态行" 规则）：
+- KEYAULF87PW — AULA F87 Pro White（全仓 0）→ `keyboards/KEYAULF87PW.md`
+- KEYRAZTARV2 — Razer Tartarus V2（OH/WL/SL 0，供应商渠道 30，可能补货）→ `keyboards/razer-tartarus-v2-mecha-membrane-gaming-keypad.md`
+- MOSLOGG903B — Logitech G903 HERO LIGHTSPEED（全仓 0）→ `mice/MOSLOGG903B.md`
+- 186106 — UGREEN USB 3.0 Sharing Switch Box（全仓 0，供应商渠道 30）→ 无 KB 文件（配件类，按约定不建文件），无需动作
+
+**知识库产品文件总数: 772**（无新增，3 文件加 OOS 状态行）
+
+---
+
+## KB Backfill — Cron Run (2026-08-24)
+
+✔️ 已完成（2026-08-24）：定时 Cron 任务运行 EVAcache vs KB 交叉比对（2026-08-23 snapshot, 1556 in-stock products, SKU content matching over 772 KB 文件）。
+
+**新增 KB 文件: 0** — 所有核心硬件分类已 100% 覆盖，无可补项。
+
+**覆盖率验证 (EVAcache 2026-08-23, 1556 products):**
+- GPUs: 100% (62/62) ✅
+- Motherboards: 100% (31/31) ✅ — 含 2026-08-23 新增 MBASUPB860MAWF
+- PSUs: 100% (23/23) ✅
+- Cases: 100% (55/55 核心机箱) ✅ — 1 gap: Silverstone RMS03-26 rackmount rail kit（配件）
+- RAM: 100% (26/26) ✅
+- SSDs: 100% (18/18) ✅
+- Cooling: 100% (110/110 散热器/AIO) ✅ — 64 gaps 均为配件（机箱风扇、散热膏、导热垫、接触框架、ARGB hub）
+- Headsets: 100% (27/27) ✅
+- Keyboards: 100% (99/99 核心键盘) ✅ — 27 gaps 均为配件（键鼠套装、numpad、Stream Deck、润滑剂、线圈）
+- Mice: 100% (116/116 核心鼠标) ✅ — 7 gaps 均为鼠标垫/套装
+- Monitors: 100% (36/36 显示器) ✅ — 1 gap: Kensington monitor arm（配件）
+
+**总体覆盖率: 100% (core hardware)** — 与 2026-08-23 运行结果一致，无新增在库核心产品，无缺口。
+
+**脚本修正 (本次运行):** 审计脚本 `~/workspace/scripts/eva-kb-audit.py` 两处修复 — (1) 旧版用 `SKU[:3] in {MB,...}` 精确前缀匹配，漏掉主板 brand-code SKU（MBA*/MBC*/MBG*/MBAS* 等），改为 `startswith` 匹配后 Motherboards 正确计为 31/31 覆盖；(2) SKU 索引从 `SKU:` 行正则改为全文大写 token 扫描，避免 `**SKU:**` bold 格式漏匹配。
+
+**知识库产品文件总数: 772**
+
+---
+
+## KB Backfill — Cron Run (2026-08-23)
+
+✔️ 已完成（2026-08-23）：定时 Cron 任务运行 EVAcache vs KB 交叉比对（2026-08-22 snapshot, 1554 products, SKU-based content matching）。
+
+**新增 KB 文件 (2个):**
+- **Motherboards:** +1 (ASUS PRIME B860M-A WIFI-CSM Intel LGA 1851 mATX [MBASUPB860MAWF] — 新到货 SKU，已三重核验：(1) cache products.json + by-sku.json 命中 (OH=4, $387.00)；(2) 产品页 200 OK（final URL extremepc.co.nz/asus-prime-b860m-a-wifi-csm-intel-lga-1851-micro-atx-motherboard/），页面价格 $387.00 一致，MPN 90MB1JY0-M0UAYC；(3) 页面 highlights 确认 WiFi 6E / USB 20Gbps Type-C / PCIe 5.0 / AEMP III。M.2 数量页面无 spec 表，文件内已标注 "confirm exact split" 纪律，未编造具体通道数)
+- **Keyboards:** +1 (Epomaker X AULA F75 Hot-Swappable Wireless Light Blue [KEYEPOF75LBR] — 取代已下架的 AULA F75 Light Blue [KEYAULF75LBR]：新 SKU 已在 2026-08-22 cache + by-sku.json + 产品页（200 OK，$129.00，in stock）三方确认；旧 KEYAULF75LBR 文件已加 REPLACED status 行指向新文件，未删除)
+
+**⚠️ 本次发现（SKU 替换事故，已处置）:** 2026-08-21 cache 中的 `KEYAULF75LBR`（AULA F75 Light Blue, $155）在 2026-08-22 cache 中消失，被 co-brand 版 `KEYEPOF75LBR`（Epomaker X AULA F75 Light Blue, $129）取代。旧 KB 文件保留但顶部加 `**Status:** REPLACED` 行（遵循 "OOS/下架不删文件、加状态行" 规则）。教训：**SKU 可能整条替换（换前缀换编号），gap 分析必须同时看"新 SKU 缺文件"和"旧 SKU 文件指向已消失的 SKU"**。
+
+**覆盖率验证 (EVAcache 2026-08-22, 1554 products, SKU-based):**
+- GPUs: 100% (62/62) ✅ — 含 GPUGIG56EMO8（2026-08-22 曾存疑、已确认入 cache 且 KB 文件存在）
+- Motherboards: 100% ✅ — 此前 1 缺口（ASUS PRIME B860M-A），本次补全
+- PSUs: 100% (23/23) ✅
+- Cases: 100% (55/55) ✅（唯一 gap：Silverstone RMS03-26 rackmount rail kit — 配件，按约定不建文件）
+- RAM: 100% (26/26) ✅
+- SSDs: 100% (18/18) ✅
+- Monitors: 100%（唯一 gap：Kensington monitor arm — 配件，按约定不建文件）
+- Cooling: 100%（CPU 散热器/AIO）✅ — 64 个 gap 均为配件（机箱风扇、散热膏、导热垫、接触框架、ARGB hub）
+- Headsets: 100% ✅
+- Keyboards: 核心键盘 100% ✅ — 28 个 gap 均为配件（键鼠套装、numpad、Stream Deck、润滑剂、编织线）
+- Mice: 核心鼠标 100% ✅ — 7 个 gap 均为鼠标垫/套装
+- CPUs: 6 个 gap 均为 OEM tray 盒（无零售包装，按约定无逐产品规格需求）；HDD: 1 个（监控盘，按约定不建文件）
+
+**总体覆盖率: 100% (core hardware)** — GPU/主板/电源/机箱/内存/SSD/散热器/显示器/键盘/鼠标/耳机全部 100%，零缺口。
+
+**知识库产品文件总数: 774** (motherboards +1, keyboards +1)
+
+---
+
+## KB Backfill — Cron Run (2026-08-22)
+
+✔️ 已完成（2026-08-22）：定时 Cron 任务运行 EVAcache vs KB 交叉比对（2026-08-21 snapshot, 1558 products, SKU-based content matching, `CAB*`=cables 已正确排除在机箱之外）。
+
+**新增 KB 文件 (1个):**
+- **GPUs:** +1 (Gigabyte GeForce RTX 5060 EAGLE MAX OC 8GB GDDR7 [GPUGIG56EMO8] — 新到货 SKU，已用 BC API 实时核验 in-stock OH=1 + 真实产品页确认 PCIe 5.0 / 2-slot / 1x 8-pin / 450W min PSU；文件写入 `gpus/GPUGIG56EMO8.md`)
+
+**覆盖率验证 (EVAcache 2026-08-21, 1558 products, SKU-based):**
+- GPUs: **100% (64/64)** ✅ — 此前 63/64，本次补全 Gigabyte RTX 5060 EAGLE MAX
+- Motherboards: 100% (30/30) ✅
+- PSUs: 100% (23/23) ✅
+- RAM: 100% (26/26) ✅
+- SSDs: 100% (18/18) ✅
+- Cases: 100% (55/55) ✅ (1 gap: Silverstone RMS03-26 rackmount rail kit — 配件)
+- Cooling: 100% (110/110 散热器/AIO) ✅ — 剩余缺口均为配件（机箱风扇、散热膏、导热垫、接触框架、ARGB 集线器）
+- Keyboards: 100% (99/99 机械键盘) ✅ — 剩余缺口均为配件（键鼠套装、数字小键盘、Stream Deck、润滑剂、腕托、编织线）
+- Mice: 100% (117/117 鼠标) ✅ — 剩余缺口均为配件（鼠标垫、键鼠套装）
+- Headsets: 100% (27/27) ✅
+- Monitors: 100% (36/36 显示器) ✅ — 剩余缺口均为配件（显示器支架、数字标牌播放机）
+
+**总体覆盖率: 100% (core hardware)** — 所有核心硬件产品（GPU/主板/电源/机箱/内存/SSD/CPU 散热器）100% 覆盖，零缺口。剩余缺口全部为配件类，按既定约定无需逐产品兼容规格文件。
+
+**验证纪律:** GPUGIG56EMO8 写文件前已三重核验 — (1) cache products.json + by-sku.json 均命中；(2) BC API `?sku=GPUGIG56EMO8` 返回真实产品 (id 204359, OH=1)；(3) 产品页真实存在且标题含 "PCIe 5.0 2-slot 1x 8-pin power minimum 450W PSU"。价格 $807.83→$929.00 inc GST 取自 cache，已在文件中标注 "verify live before quoting"。
+
+**知识库产品文件总数: ~736** (gpus 目录 80→81)
+
+---
+
+## KB Backfill — Cron Run (2026-08-21)
+
+✔️ 已完成（2026-08-21）：定时 Cron 任务运行 EVAcache vs KB 交叉比对（2026-08-20 snapshot, 1558 products, in-stock OH>0 = 1558, SKU-based content matching）。
+
+**新增 KB 文件 (13个):**
+- **Cooling:** +1 (Thermalright Trofeo Vision 360 ARGB White AIO [COOTMRTV36AW] — black 变体 COOTMRTV36AB 已存在)
+- **Keyboards:** +9 (Epomaker HE108 黑/白 [KEYEPOH108BC/KEYEPOH108WC], Epomaker HE75 V2 White [KEYEPOH752WC], Epomaker QK108 [KEYEPOQ108GWW], Epomaker TH108 Pro Pink [KEYEPOT108PPC], GravaStar Mercury K1 Pro Cyberpunk [KEYGSMK1PCPL], AULA F75 Light Blue [KEYAULF75LBR], Logitech Wave Keys Rose [KEYLOGWAVER], Logitech ERGO K860 [KEYLOGK860])
+- **Mice:** +3 (Logitech MX Master 4 Business Graphite [MOSLOGMM4BG], Razer Pro Click v2 Vertical [MOSRAZPCV2V], Logitech MX Vertical [MOSLOGMXVERT])
+
+**覆盖率验证 (EVAcache 2026-08-20, 1558 products, SKU-based):**
+- GPUs: 100% ✅
+- Motherboards: 100% ✅
+- PSUs: 100% ✅
+- Cases: 100% ✅ (1 gap: Silverstone RMS03-26 rackmount rail kit — 配件)
+- RAM: 100% ✅
+- SSDs: 100% ✅
+- Cooling: 100% (CPU 散热器/AIO) ✅ — 剩余缺口均为配件（机箱风扇、散热膏、导热垫、接触框架、ARGB 集线器）
+- Keyboards: 100% (机械键盘) ✅ — 剩余缺口均为配件（键鼠套装、数字小键盘、Stream Deck、润滑剂、腕托、编织线）
+- Mice: 100% (鼠标) ✅ — 剩余缺口均为配件（鼠标垫、键鼠套装）
+- Headsets: 100% ✅
+- Monitors: 100% (显示器) ✅ — 剩余缺口均为配件（显示器支架、数字标牌播放机）
+
+**总体覆盖率: 100% (core hardware)** — 所有核心硬件产品（GPU/主板/电源/机箱/内存/SSD/CPU 散热器）均已 100% 覆盖。剩余缺口全部为配件类（机箱风扇、散热膏、导热垫、接触框架、ARGB 集线器、鼠标垫、键鼠套装、数字小键盘、Stream Deck、润滑剂、腕托、显示器支架、标牌播放机），按既定约定无需逐产品兼容规格文件。
+
+**验证纪律:** 每个新建文件均已交叉核对 — SKU 在 cache 中 in-stock (OH>0) + 文件存在 + SKU 字符串确实出现在文件内。
+
+**教训（本次运行内自我纠正）:** 一度为不存在的 SKU `GPUGIG56EMO8`（"Gigabyte RTX 5060 EAGLE MAX OC 8GB"）写入了 KB 文件并编造 $649 价格。经 raw JSON grep + Python 双重核对确认该 SKU **不存在**于 cache（products.json / by-sku.json 均 0 匹配），已立即删除该文件。教训：**写文件前必须先用 raw JSON grep 确认 SKU 真实存在于 cache，绝不凭"名字像"就创建文件、绝不编造价格。** 真正的 5060 EAGLE 是 RTX 5060 **Ti** EAGLE OC 8GB (GPUGIG5060TEO8)，已覆盖。
+
+**知识库产品文件总数: 745** (cooling 114→115, keyboards 104→113, mice 136→139)
+
+---
+
 ## KB Backfill — Cron Run (2026-08-20)
 
 ✔️ 已完成（2026-08-20）：定时 Cron 任务运行 EVAcache vs KB 交叉比对（2026-08-20 snapshot, 1558 products）。
