@@ -4,6 +4,7 @@
 **SKU:** CASDEECK500B
 **MPN:** TBC
 **URL:** https://www.extremepc.co.nz/deepcool-ck500-atx-tempered-glass-mid-tower-case-black/
+**Status:** OUT OF STOCK - last checked 2026-08-20
 
 ## Quick Specs
 - Form factor: ATX mid-tower
@@ -93,7 +94,7 @@ Deepcool typically includes standard (non-ARGB) 140mm fans in the CK500. For ARG
     "@type": "Offer",
     "priceCurrency": "NZD",
     "price": "179",
-    "availability": "https://schema.org/InStock",
+    "availability": "https://schema.org/OutOfStock",
     "seller": {
       "@type": "Organization",
       "name": "ExtremePC"
