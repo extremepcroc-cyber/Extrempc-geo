@@ -2,6 +2,45 @@
 
 > 此文件记录需要补充的知识库内容
 
+## KB Backfill — Cron Run (2026-08-26)
+
+✔️ 已完成（2026-08-26）：定时 Cron 任务运行 EVAcache vs KB 交叉比对（2026-08-26 snapshot, 1543 in-stock products, SKU content matching over 774 KB 文件）。
+
+**新增 KB 文件 (2个):**
+- **Cases:** +1 (Jonsbo TK-3 Curved Tempered Glass ATX Mid Tower Black [CASJONTK3B] — 新到货 SKU，已三重核验：(1) cache products.json + by-sku.json 命中 (OH=1, $146.96 ex-GST)；(2) BC API 实时核验 OH=1/WL/SL 0，$169.00 inc GST，真实产品 URL；(3) 产品页 spec 确认 GPU ≤420mm / cooler 165mm / PSU ≤220mm / ITX-MATX-ATX + BTF / 顶部 360 或 280 + 底部 360 双冷排 / 10 风扇位 / 7×PCIe / 前 USB3.2Gen2 Type-C。文件写入 `computer-cases/CASJONTK3B.md`)
+- **Keyboards:** +1 (FGG MAD68 HE Flagship V2 Black Magneto [KEYFGGM68FBM] — 新到货 SKU，已三重核验：(1) cache 命中 (OH=1, $112.17 ex-GST)；(2) BC API 实时核验 OH=1，$129.00 inc GST，真实产品 URL + MPN；(3) 产品页确认 68 键 65% / 有线 USB-C / Magneto 磁轴 HE / 热插拔 / RGB。文件写入 `keyboards/KEYFGGM68FBM.md`)
+
+**⚠️ 库存变动处置 (2026-08-26 snapshot, 9 个 SKU 转 OOS):** 与 2026-08-25 diff 后逐一核验：
+- 4 个有 KB 文件的核心 SKU 已给加 `**Status:** OUT OF STOCK` 行（遵循 "OOS 不删文件、加状态行" 规则），均已用 BC API 实时核验全仓 0（OH/WL/SL/SU 均 0, inventory_level 0）：
+  - CASVALVK03W — Valkyrie VK03 Lite White（全仓 0）→ `computer-cases/CASVALVK03W.md`
+  - MONAOC27G50Z — AOC 27G50Z 27" 240Hz（全仓 0）→ `monitors/aoc-27g50z.md`
+  - PSUSEGGM1000W1W — Segotep GM1000W White（全仓 0）→ `power-supplies/segotep-gm1000w-white.md`
+  - RAMADA16D556U — Adata 16GB DDR5-5600 OEM（全仓 0）→ `ram/RAMADA16D556U.md`
+- 5 个无 KB 文件 SKU（ACCSMRC4AWH 排插, APPNINAF500 空气炸锅, MOBSAMA6541B 手机, XPC1244/XPC1246 整机）— 按约定不建文件，无需动作
+
+**⚠️ 陈旧价格修正:** `gpus/GPUZOT57TE12.md`（Zotac RTX 5070 TWIN Edge OC 12GB）原文件价格为占位符 `NZD $0.00 — verify with BC API`，本次已用 BC API 实测 ex-GST $1,419.13 → **NZD $1,632.00 (incl. GST)** 并补真实 URL + OH=1 库存状态（该卡 2026-08-26 新到货入仓）。
+
+**新到货 (4个):** CASJONTK3B (机箱, 已建 KB) / GPUZOT57TE12 (显卡, KB 已存在+价格校准) / KEYFGGM68FBM (键盘, 已建 KB) / LAPHPE83785 (off-lease 笔记本, 按约定不建 KB)
+
+**覆盖率验证 (EVAcache 2026-08-26, 1543 in-stock, SKU-based):**
+- GPUs: 100% (63/63) ✅ — 含新到货 Zotac RTX 5070 TWIN Edge
+- Motherboards: 100% (31/31) ✅
+- PSUs: 100% (22/22) ✅
+- Cases: 100% 核心机箱 ✅ — 1 gap: Silverstone RMS03-26 rackmount rail kit（配件）
+- RAM: 100% (25/25) ✅
+- SSDs: 100% (18/18) ✅
+- Cooling: 100% 散热器/AIO ✅ — 64 gaps 均为配件（机箱风扇、散热膏、导热垫、接触框架、ARGB hub）
+- Keyboards: 100% 核心键盘 (98/98) ✅ — 27 gaps 均为配件
+- Mice: 100% 核心鼠标 (115/115) ✅ — 7 gaps 均为鼠标垫/套装
+- Headsets: 100% (26/26) ✅
+- Monitors: 100% 核心显示器 (35/35) ✅ — 1 gap: Kensington monitor arm（配件）
+
+**总体覆盖率: 100% (core hardware)** — 无新缺口。
+
+**知识库产品文件总数: 774** (+2 新增: CASJONTK3B, KEYFGGM68FBM；+4 状态行更新: CASVALVK03W / MONAOC27G50Z / PSUSEGGM1000W1W / RAMADA16D556U；+1 价格校准: GPUZOT57TE12)
+
+---
+
 ## KB Backfill — Cron Run (2026-08-25)
 
 ✔️ 已完成（2026-08-25）：定时 Cron 任务运行 EVAcache vs KB 交叉比对（2026-08-24 snapshot, 1552 in-stock products, SKU content matching over 772 KB 文件）。

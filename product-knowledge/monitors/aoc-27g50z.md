@@ -3,7 +3,7 @@
 **SKU:** MONAOC27G50Z
 **Brand:** AOC
 **Price:** NZD $259.00 (incl. GST)
-**Status:** In Stock
+**Status:** OUT OF STOCK — all store stock depleted (BC API verified 2026-08-26: OH/WL/SL/SU all 0, inventory_level 0).
 
 ## Quick Specs
 

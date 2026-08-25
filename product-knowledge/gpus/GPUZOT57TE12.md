@@ -1,8 +1,9 @@
 # Zotac NVIDIA GeForce RTX 5070 TWIN Edge OC 12GB GDDR7 Graphics Card
 
-**Price:** NZD $0.00 (incl. GST) — verify with BC API
+**Price:** NZD $1,632.00 (incl. GST) — BC API verified 2026-08-26 (ex-GST $1,419.13 × 1.15)
 **SKU:** GPUZOT57TE12
-**Stock:** In stock (verify with BC API)
+**URL:** https://www.extremepc.co.nz/zotac-nvidia-geforce-rtx-5070-twin-edge-oc-12gb-gddr7-graphics-card/
+**Status:** In stock (BC API verified 2026-08-26: OH=1)
 
 ## Quick Specs
 - GPU Chipset: NVIDIA GeForce RTX 5070
