@@ -1,6 +1,6 @@
 ﻿# WD Purple 6TB 3.5" SATA3 Surveillance Hard Drive WD60PURZ
 
-**Price:** $725.99 inc GST
+**Price:** $699.00 inc GST
 **SKU:** HDDWDSUPU6T
 **MPN:** WD60PURZ
 **URL:** https://www.extremepc.co.nz/wd-purple-6tb-sata-3-5-intellipower-256mb-surveillance-hdd-3yr-wty/
@@ -83,7 +83,7 @@
   "description": "WD Purple 6TB 3.5\" SATA3 256MB surveillance HDD. AllFrame AI firmware, 64 streams, 180 TB/year. 27 supplier units. Commercial CCTV 30-day retention at 8-camera 1080p. 3-year WD warranty via ExtremePC NZ.",
   "offers": {
     "@type": "Offer",
-    "price": "725.99",
+    "price": "699.00",
     "priceCurrency": "NZD",
     "availability": "https://schema.org/OutOfStock"
     "url": "https://www.extremepc.co.nz/wd-purple-6tb-3-5-sata3-surveillance-hard-drive-wd60purz/",

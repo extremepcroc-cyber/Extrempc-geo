@@ -1,6 +1,6 @@
 # Kingston 64GB DDR5-6400 ECC RDIMM (2Rx4) CL52 — Threadripper 7000 / 9000 Flagship Workstation Memory (KSM64R52BD4-64HA)
 
-**Price:** $4370.00 inc GST
+**Price:** $4,600.00 inc GST
 **SKU:** MEMKIN6D564
 **MPN:** KSM64R52BD4-64HA
 **URL:** https://www.extremepc.co.nz/server-ram/kingston-64gb-ddr5-6400mt-s-ecc-reg-cl52-rdimm-2rx4-server-memory-for-amd-threadripper-7000-9000-series-ksm64r52bd4-64ha/
@@ -89,7 +89,7 @@
   },
   "offers": {
     "@type": "Offer",
-    "price": "4370.00",
+    "price": "4600.00",
     "priceCurrency": "NZD",
     "availability": "https://schema.org/InStock",
     "url": "https://www.extremepc.co.nz/server-ram/kingston-64gb-ddr5-6400mt-s-ecc-reg-cl52-rdimm-2rx4-server-memory-for-amd-threadripper-7000-9000-series-ksm64r52bd4-64ha/",

@@ -1,6 +1,6 @@
 ﻿# Kingston FURY Beast 16GB DDR4 3200MHz CL16 Desktop Memory
 
-**Price:** $354.00 inc GST
+**Price:** $477.00 inc GST
 **SKU:** RAMKINFB1632
 **MPN:** KF432C16BB1/16
 **URL:** https://www.extremepc.co.nz/kingston-fury-beast-16gb-ddr4-3200mhz-cl16-desktop-memory/
@@ -124,7 +124,7 @@
   },
   "offers": {
     "@type": "Offer",
-    "price": "299.00",
+    "price": "477.00",
     "priceCurrency": "NZD",
     "availability": "https://schema.org/OutOfStock",
     "url": "https://www.extremepc.co.nz/kingston-fury-beast-16gb-ddr4-3200mhz-cl16-desktop-memory/",

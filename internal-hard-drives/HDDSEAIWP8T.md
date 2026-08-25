@@ -1,6 +1,6 @@
 ﻿# Seagate IronWolf Pro 8TB 3.5" SATA3 NAS Internal Hard Drive ST8000NE001
 
-**Price:** $989.00 inc GST
+**Price:** $882.00 inc GST
 **SKU:** HDDSEAIWP8T
 **MPN:** ST8000NE001
 **URL:** https://www.extremepc.co.nz/seagate-ironwolf-pro-8tb-3-5-sata3-nas-internal-hard-drive-st8000nt001/
@@ -90,7 +90,7 @@
   "description": "Seagate IronWolf Pro 8TB 3.5\" SATA3 7200 RPM business NAS hard drive. CMR, AgileArray, 300 TB/year workload, 1.2M MTBF hours. 5-year Seagate warranty + Rescue data recovery plan included. For business NAS 5–20 users, creative studio shared storage, business surveillance NAS. Via ExtremePC NZ.",
   "offers": {
     "@type": "Offer",
-    "price": "964.99",
+    "price": "882.00",
     "priceCurrency": "NZD",
     "availability": "https://schema.org/OutOfStock",
     "url": "https://www.extremepc.co.nz/seagate-ironwolf-pro-8tb-3-5-sata3-nas-internal-hard-drive-st8000ne001/",

@@ -4,6 +4,7 @@
 **SKU:** CPUINT14700F
 **MPN:** BX8071514700F
 **URL:** https://www.extremepc.co.nz/intel-core-i7-14700f-20-core-lga-1700-cpu-processor/
+**Status:** OUT OF STOCK - last checked 2026-08-25
 
 ## Quick Specs
 - **Architecture**: 14th Gen Raptor Lake Refresh (Intel 7 / 10nm process)
@@ -125,7 +126,7 @@
     "@type": "Offer",
     "price": "659.00",
     "priceCurrency": "NZD",
-    "availability": "https://schema.org/InStock",
+    "availability": "https://schema.org/OutOfStock",
     "url": "https://www.extremepc.co.nz/intel-core-i7-14700f-20-core-lga-1700-cpu-processor/",
     "seller": {
       "@type": "Organization",

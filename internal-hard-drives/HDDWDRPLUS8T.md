@@ -1,6 +1,6 @@
 ﻿# WD Red Plus 8TB 3.5" SATA3 NAS Hard Drive WD80EFPX
 
-**Price:** $961.00 inc GST
+**Price:** $924.00 inc GST
 **SKU:** HDDWDRPLUS8T
 **MPN:** WD80EFPX
 **URL:** https://www.extremepc.co.nz/wd-red-plus-8tb-3-5-nas-internal-hdd-sata3-256mb-cache-cmr-designed-and-tested-for-raid-environments-1-8-bay-nas-3-years-warranty/
@@ -83,7 +83,7 @@
   "description": "WD Red Plus 8TB 3.5\" SATA3 CMR NAS hard drive. NASware 3.0 firmware, 180 TB/year workload, 30 supplier units. QNAP-validated NAS CMR drive. 3-year WD warranty via ExtremePC NZ. CMR confirmed — not SMR.",
   "offers": {
     "@type": "Offer",
-    "price": "997.00",
+    "price": "924.00",
     "priceCurrency": "NZD",
     "availability": "https://schema.org/OutOfStock",
     "url": "https://www.extremepc.co.nz/wd-red-plus-8tb-3-5-sata3-nas-hard-drive-wd80efpx/",

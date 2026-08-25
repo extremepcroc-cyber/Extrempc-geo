@@ -1,6 +1,6 @@
 # Netac Basic 16GB DDR5-5600 CL46 Desktop RAM — Black
 
-**Price:** $299.00 inc GST
+**Price:** $551.00 inc GST
 **Stock:** 4 units in stock (Onehunga: 1, Supplier: 3)
 **SKU:** RAMNET1D556B
 **MPN:** NTBSD5P56SP-16
@@ -127,7 +127,7 @@
   },
   "offers": {
     "@type": "Offer",
-    "price": "299.00",
+    "price": "551.00",
     "priceCurrency": "NZD",
     "availability": "https://schema.org/OutOfStock",
     "url": "https://www.extremepc.co.nz/netac-basic-16gb-ddr5-5600-cl46-desktop-ram-black/",

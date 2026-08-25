@@ -1,6 +1,6 @@
 # Seagate SkyHawk AI 16TB 3.5" SATA3 Surveillance Internal Hard Drive ST16000VE004
 
-**Price:** $1702.00 inc GST
+**Price:** $1,725.00 inc GST
 **SKU:** HDDSEASKYAI16T
 **MPN:** ST16000VE004
 **URL:** https://www.extremepc.co.nz/open-box-seagate-skyhawk-ai-16tb-3-5-sata3-surveillance-internal-hard-drive-st16000ve002-with-5-year-warranty/
@@ -99,7 +99,7 @@
   },
   "offers": {
     "@type": "Offer",
-    "price": "1702.00",
+    "price": "1725.00",
     "priceCurrency": "NZD",
     "availability": "https://schema.org/InStock",
     "url": "https://www.extremepc.co.nz/open-box-seagate-skyhawk-ai-16tb-3-5-sata3-surveillance-internal-hard-drive-st16000ve002-with-5-year-warranty/",
