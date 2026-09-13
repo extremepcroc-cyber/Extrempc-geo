@@ -2,7 +2,7 @@
 
 **SKU:** SSDSAMPRO2T
 **Brand:** Samsung
-**Price:** NZD $949.00 (incl. GST)
+**Price:** NZD $1,099.00 (incl. GST)
 **Status:** In Stock
 
 ## Quick Specs

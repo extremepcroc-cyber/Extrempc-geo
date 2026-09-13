@@ -1,6 +1,6 @@
 # MSI B550M PRO-VDH Wi-Fi AM4 Micro-ATX Motherboard
 
-**Price:** NZD $218.99 (incl. GST)
+**Price:** NZD $212.75 (incl. GST) (on sale from $218.99)
 **SKU:** MBMSIB550MPWF
 **URL:** https://www.extremepc.co.nz/msi-b550m-pro-vdh-wi-fi-am4-micro-atx-motherboard/
 **Stock:** Plenty in stock

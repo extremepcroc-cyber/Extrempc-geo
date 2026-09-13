@@ -2,8 +2,8 @@
 sku: MOSLAMMXPU
 name: Lamzu Maya X Wired/Wireless Optical Gaming Mouse Purple Shadow
 brand: Lamzu
-price_nzd_ex_gst: 155.65
-price_nzd_incl_gst: 179.0
+price_nzd_ex_gst: 173.04
+price_nzd_incl_gst: 199.0
 url: https://www.extremepc.co.nz/lamzu-maya-x-wired-wireless-optical-gaming-mouse-purple-shadow/
 category: Mice
 status: In Stock
@@ -24,5 +24,5 @@ status: In Stock
 
 - Gaming mouse from Lamzu
 - Wireless gaming mouse
-- Price: NZD $179.0 (incl. GST)
+- Price: NZD $199.0 (incl. GST, on sale from NZD $229.00 — verified 2026-09-09)
 

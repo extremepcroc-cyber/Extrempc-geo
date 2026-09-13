@@ -1,6 +1,6 @@
 # MSI GeForce RTX 5070 VENTUS 2X OC 12GB Graphics Card
 
-**Price:** NZD $1410.00 (incl. GST)
+**Price:** NZD $1,699.00 (incl. GST)
 **SKU:** GPUMSI57V2OB
 **URL:** https://www.extremepc.co.nz/rtx-50-series/msi-geforce-rtx-5070-ventus-2x-oc-12gb-graphics-card-geforce-rtx-5070-12g-ventus-2x-oc/
 **Stock:** Only a few left in stock

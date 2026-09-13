@@ -1,6 +1,6 @@
 # Segotep Endura 240S MATX Tempered Glass Micro Tower Case White
 
-**Price:** NZD $89.0 (incl. GST)
+**Price:** NZD $80.50 (incl. GST) (on sale from $89.00)
 **SKU:** CASSEGE240SW
 **URL:** https://www.extremepc.co.nz/segotep-endura-240-matx-tempered-glass-micro-tower-case-white/
 **Stock:** Plenty in stock

@@ -1,6 +1,6 @@
 # ASRock Intel Arc B580 Challenger OC 12GB GDDR6 PCIe 4.0 Graphics Card
 
-**Price:** NZD $449.00 (incl. GST)
+**Price:** NZD $598.00 (incl. GST) (on sale from $619.00)
 **SKU:** GPUASRIB580CL12O
 **URL:** https://www.extremepc.co.nz/shop-all/asrock-intel-arc-b580-challenger-oc-12gb-gddr6-pcie-4-0-graphics-card/
 **Stock:** We have plenty in stock

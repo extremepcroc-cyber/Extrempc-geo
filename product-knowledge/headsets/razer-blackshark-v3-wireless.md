@@ -3,7 +3,7 @@
 **SKU:** HDSRAZBSV3B
 **Brand:** Razer
 **Price:** NZD $299.00 (incl. GST)
-**Status:** In Stock
+**Status:** OUT OF STOCK (verified 2026-09-07, BC API OH=0, all warehouses 0)
 
 ## Quick Specs
 

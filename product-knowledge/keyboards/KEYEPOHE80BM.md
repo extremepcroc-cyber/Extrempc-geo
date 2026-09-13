@@ -1,6 +1,6 @@
 # Epomaker HE80 Hall Effect RGB Hot-swappable Wired Mechanical Keyboard
 
-**Price:** NZD $189.0 (incl. GST)
+**Price:** NZD $149.01 (incl. GST) (on sale from $189.00)
 **SKU:** KEYEPOHE80BM
 **URL:** https://www.extremepc.co.nz/epomaker-he80-hall-effect-rgb-hot-swappable-wired-mechanical-keyboard-black-magnex-switch-82-keys/
 **Stock:** Only a few left in stock

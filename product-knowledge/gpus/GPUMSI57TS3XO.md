@@ -1,8 +1,9 @@
 # MSI GeForce RTX 5070 Ti SHADOW 3X OC 16GB Graphics Card
 
-**Price:** NZD $0.00 (incl. GST) — verify with BC API
+**Price:** — (out of stock; price unavailable)
+**Status:** OUT OF STOCK (verified 2026-08-31, all warehouses 0)
 **SKU:** GPUMSI57TS3XO
-**Stock:** In stock (verify with BC API)
+**Stock:** Out of stock (verified 2026-08-31)
 
 ## Quick Specs
 - GPU Chipset: NVIDIA GeForce RTX 5070 Ti

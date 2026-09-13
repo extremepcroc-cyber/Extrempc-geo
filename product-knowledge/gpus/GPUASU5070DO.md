@@ -1,6 +1,6 @@
 # ASUS GeForce RTX 5070 Dual GDDR7 OC 12GB Graphics Card DUAL-RTX5070-O12G
 
-**Price:** NZD $1449.0 (incl. GST)
+**Price:** NZD $1,729.00 (incl. GST)
 **SKU:** GPUASU5070DO
 **URL:** https://www.extremepc.co.nz/rtx-50-series/asus-geforce-rtx-5070-dual-gddr7-oc-12gb-graphics-card-dual-rtx5070-o12g/
 **Stock:** Plenty in stock

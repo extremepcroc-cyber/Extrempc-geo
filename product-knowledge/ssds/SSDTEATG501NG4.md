@@ -1,6 +1,6 @@
 # Team Teamgroup T-Force G50 1TB M.2 PCIE Gen 4X4 with NVME SSD
 
-**Price:** NZD $129.00 (incl. GST)
+**Price:** NZD $319.00 (incl. GST) (verified 2026-09-09, list price)
 **SKU:** SSDTEATG501NG4
 **URL:** https://www.extremepc.co.nz/team-teamgroup-t-force-g50-1tb-m-2-pcie-gen-4x4-with-nvme-ssd-5000mb-s-read/
 **Stock:** We have plenty in stock

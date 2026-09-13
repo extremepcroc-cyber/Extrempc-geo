@@ -1,6 +1,6 @@
 # Segotep Nexus PX MATX Tempered Glass Micro Tower Case - Black
 
-**Price:** NZD $109.0 (incl. GST)
+**Price:** NZD $92.00 (incl. GST) (on sale from $109.00)
 **SKU:** CASSEGNPXB
 **URL:** https://www.extremepc.co.nz/segotep-nexus-px-matx-tempered-glass-micro-tower-case-black/
 **Stock:** Plenty in stock

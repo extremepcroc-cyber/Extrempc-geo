@@ -1,6 +1,6 @@
 # Thermalright TL-M10 Vision Tempered Glass M-ATX Micro Tower Case White with LCD Screen
 
-**Price:** NZD $169.0 (incl. GST)
+**Price:** NZD $155.25 (incl. GST) (on sale from $169.00)
 **SKU:** CASTMRM10VW
 **URL:** https://www.extremepc.co.nz/thermalright-tl-m10-vision-tempered-glass-m-atx-micro-tower-case-white-with-lcd-screen/
 **Stock:** Plenty in stock

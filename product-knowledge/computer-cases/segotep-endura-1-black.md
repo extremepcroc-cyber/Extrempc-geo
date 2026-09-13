@@ -1,6 +1,6 @@
 # Segotep Endura 1 Tempered Glass ATX Mid Tower Case - Black
 
-**Price:** NZD $59.00 (incl. GST)
+**Price:** NZD $51.75 (incl. GST) (on sale from $58.99)
 **SKU:** CASSEGENDBK
 **URL:** https://www.extremepc.co.nz/segotep-endura-1-tempered-glass-mid-atx-tower-case-black/
 **Stock:** Only a few left

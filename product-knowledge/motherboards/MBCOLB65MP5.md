@@ -3,7 +3,7 @@
 **Price:** NZD $239.0 (incl. GST)
 **SKU:** MBCOLB65MP5
 **URL:** https://www.extremepc.co.nz/colorful-battle-ax-b650m-plus-wifi-am5-matx-motherboard/
-**Stock:** Plenty in stock
+**Stock:** OUT OF STOCK (verified 2026-09-10, BC API inventory=0; Onehunga not available online)
 
 ## Quick Specs
 - CPU Socket: AM5

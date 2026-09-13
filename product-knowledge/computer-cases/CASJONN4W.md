@@ -1,8 +1,8 @@
 # Jonsbo N4 NAS Chassis ITX / M-ATX Mini Tower Case - White
 
-**Price:** NZD $0.00 (incl. GST) — verify with BC API
+**Price:** NZD $209.00 (incl. GST)
 **SKU:** CASJONN4W
-**Stock:** In stock (verify with BC API)
+**Stock:** Plenty in stock (verified 2026-08-31, OH>0)
 
 ## Quick Specs
 - Form Factor: Mini ITX / Micro ATX

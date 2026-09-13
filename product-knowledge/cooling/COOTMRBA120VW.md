@@ -1,8 +1,8 @@
 # Thermalright Burst Assassin 120 Vision CPU Air Cooler White
 
-**Price:** NZD $0.00 (incl. GST) — verify with BC API
+**Price:** NZD $97.75 (incl. GST)
 **SKU:** COOTMRBA120VW
-**Stock:** In stock (verify with BC API)
+**Stock:** Plenty in stock (verified 2026-08-31, OH>0)
 
 ## Quick Specs
 - Type: Air Cooler

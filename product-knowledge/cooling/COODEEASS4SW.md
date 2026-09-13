@@ -1,6 +1,6 @@
 # Deepcool Assassin 4S Premium CPU Air Cooler White Assasin 4S White
 
-**Price:** NZD $189.0 (incl. GST)
+**Price:** NZD $169.00 (incl. GST) (on sale from $189.00)
 **SKU:** COODEEASS4SW
 **URL:** https://www.extremepc.co.nz/deepcool-assasin-4s-premium-cpu-air-cooler-white/
 **Stock:** Only a few left

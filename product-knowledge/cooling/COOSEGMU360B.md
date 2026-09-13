@@ -3,7 +3,7 @@
 **Price:** NZD $229.0 (incl. GST)
 **SKU:** COOSEGMU360B
 **URL:** https://www.extremepc.co.nz/segotep-mu-360-argb-aio-liquid-cpu-cooler-black/
-**Stock:** Only a few left
+**Stock:** OUT OF STOCK (verified 2026-09-10, BC API inventory=0; Onehunga not available online)
 
 ## Quick Specs
 - Type: AIO Liquid Cooler

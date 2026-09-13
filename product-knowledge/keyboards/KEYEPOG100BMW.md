@@ -1,6 +1,6 @@
 # Epomaker Galaxy 100 QMK/VIA RGB Hot-swappable Wireless Mechanical Keyboard
 
-**Price:** NZD $209.0 (incl. GST)
+**Price:** NZD $229.00 (incl. GST)
 **SKU:** KEYEPOG100BMW
 **URL:** https://www.extremepc.co.nz/epomaker-galaxy-100-qmk-via-rgb-hot-swappable-wireless-mechanical-keyboard-black-feker-marble-white-switch-101-keys/
 **Stock:** Only a few left in stock

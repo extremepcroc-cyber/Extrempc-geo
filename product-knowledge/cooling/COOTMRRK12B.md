@@ -1,8 +1,8 @@
 # Thermalright Royal Knight 120 Black CPU Air Cooler
 
-**Price:** NZD $0.00 (incl. GST) — verify with BC API
+**Price:** NZD $80.50 (incl. GST)
 **SKU:** COOTMRRK12B
-**Stock:** In stock (verify with BC API)
+**Stock:** Plenty in stock (verified 2026-08-31, OH>0)
 
 ## Quick Specs
 - Type: Air Cooler

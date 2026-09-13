@@ -2,8 +2,8 @@
 sku: MOSLAMMXWH
 name: Lamzu Maya X Wired/Wireless Optical Gaming Mouse White
 brand: Lamzu
-price_nzd_ex_gst: 155.65
-price_nzd_incl_gst: 179.0
+price_nzd_ex_gst: 146.96
+price_nzd_incl_gst: 169.0
 url: https://www.extremepc.co.nz/lamzu-maya-x-wired-wireless-optical-gaming-mouse-white/
 category: Mice
 status: In Stock
@@ -24,5 +24,5 @@ status: In Stock
 
 - Gaming mouse from Lamzu
 - Wireless gaming mouse
-- Price: NZD $179.0 (incl. GST)
+- Price: NZD $169.0 (incl. GST, on sale — verified 2026-09-09)
 

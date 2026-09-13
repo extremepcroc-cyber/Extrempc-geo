@@ -2,7 +2,7 @@
 
 **SKU:** MONAOCU27B3C
 **Brand:** AOC
-**Price:** NZD $439.00 (incl. GST)
+**Price:** NZD $399.00 (incl. GST) (on sale from $459.00)
 **Status:** In Stock
 
 ## Quick Specs

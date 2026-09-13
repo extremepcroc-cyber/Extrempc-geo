@@ -1,6 +1,6 @@
 # Segotep LUX 360 ATX Acrylic Mid Tower Case - White
 
-**Price:** NZD $89.0 (incl. GST)
+**Price:** NZD $80.50 (incl. GST) (on sale from $89.00)
 **SKU:** CASSEGLUX360W
 **URL:** https://www.extremepc.co.nz/segotep-lux-360-atx-acrylic-mid-tower-case-white/
 **Stock:** Plenty in stock

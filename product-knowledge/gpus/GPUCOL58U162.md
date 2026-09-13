@@ -1,6 +1,6 @@
 # Colorful iGame GeForce RTX 5080 Ultra OC 16GB V2-V Graphics Card
 
-**Price:** NZD $2818.0 (incl. GST)
+**Price:** NZD $2,999.00 (incl. GST) — BC API verified 2026-09-08 (was $2,899)
 **SKU:** GPUCOL58U162
 **URL:** https://www.extremepc.co.nz/rtx-30-series/colorful-igame-geforce-rtx-5080-ultra-oc-16gb-v2-v-graphics-card/
 **Stock:** Only a few left in stock

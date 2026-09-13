@@ -1,8 +1,8 @@
 # Jonsbo D400 Sea ​​View Room Style ATX Tower Case Black
 
-**Price:** NZD $0.00 (incl. GST) — verify with BC API
+**Price:** NZD $139.00 (incl. GST)
 **SKU:** CASJOND400B
-**Stock:** In stock (verify with BC API)
+**Stock:** Plenty in stock (verified 2026-08-31, OH>0)
 
 ## Quick Specs
 - Form Factor: ATX / Micro ATX / Mini ITX

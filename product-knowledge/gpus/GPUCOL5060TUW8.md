@@ -1,6 +1,6 @@
 # Colorful iGame GeForce RTX 5060 Ti Ultra W OC 8GB-V GDDR7 Graphics Card
 
-**Price:** NZD $949.00 (incl. GST)
+**Price:** NZD $908.50 (incl. GST) (on sale from $1,039.00)
 **SKU:** GPUCOL5060TUW8
 **URL:** https://www.extremepc.co.nz/colorful-igame-geforce-rtx-5060-ti-ultra-w-oc-8gb-v-gddr7-graphics-card/
 **Stock:** Only a few left in stock

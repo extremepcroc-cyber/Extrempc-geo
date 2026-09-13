@@ -1,6 +1,6 @@
 # Gigabyte GeForce RTX 5060 EAGLE MAX OC 8GB GDDR7 Graphics Card
 
-**Price:** NZD $929.00 (incl. GST) — reference price (verify live before quoting)
+**Price:** NZD $776.25 (incl. GST) (on sale from $929.00)
 **SKU:** GPUGIG56EMO8
 **Brand:** Gigabyte
 **MPN:** GV-N5060EAGLEMAX OC-8GD

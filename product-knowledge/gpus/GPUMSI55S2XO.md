@@ -1,6 +1,6 @@
 # MSI GeForce RTX 5050 SHADOW 2X OC 8GB Graphics Card
 
-**Price:** NZD $659.00 (incl. GST)
+**Price:** NZD $799.00 (incl. GST)
 **SKU:** GPUMSI55S2XO
 **URL:** https://www.extremepc.co.nz/rtx-50-series/msi-geforce-rtx-5050-shadow-2x-oc-8gb-graphics-card-geforce-rtx-5050-8g-shadow-2x-oc/
 **Stock:** Only a few left in stock

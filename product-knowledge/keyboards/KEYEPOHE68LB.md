@@ -1,6 +1,6 @@
 # Epomaker HE68 Lite RGB Hot-swappable Wired Mechanical Keyboard
 
-**Price:** NZD $129.0 (incl. GST)
+**Price:** NZD $99.00 (incl. GST) (on sale from $129.00)
 **SKU:** KEYEPOHE68LB
 **URL:** https://www.extremepc.co.nz/epomaker-he68-lite-rgb-hot-swappable-wired-mechanical-keyboard-black-clear-mag-switch-68-key/
 **Stock:** Only a few left in stock

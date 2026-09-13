@@ -1,6 +1,6 @@
 # ASRock Radeon RX 9060 XT 16GB Steel Legend GDDR6 Graphics Card
 
-**Price:** NZD $899.00 (incl. GST)
+**Price:** NZD $977.50 (incl. GST) (on sale from $1,058.99)
 **SKU:** GPUASR9060XTSL16
 **URL:** https://www.extremepc.co.nz/asrock-radeon-rx-9060-xt-16gb-steel-legend-graphics-card/
 **Stock:** We have plenty in stock

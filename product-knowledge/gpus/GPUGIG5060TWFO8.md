@@ -1,6 +1,6 @@
 # Gigabyte GeForce RTX 5060 Ti WINDFORCE OC 8GB GDDR7 Graphics Card
 
-**Price:** NZD $899.00 (incl. GST)
+**Price:** NZD $879.75 (incl. GST) (on sale from $1,039.00)
 **SKU:** GPUGIG5060TWFO8
 **URL:** https://www.extremepc.co.nz/gigabyte-geforce-rtx-5060-ti-windforce-oc-8gb-gddr7-graphics-card-gv-n506twf2-8gd/
 **Stock:** We have plenty in stock

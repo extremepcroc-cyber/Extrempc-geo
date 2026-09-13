@@ -1,8 +1,8 @@
 # Thermalright Burst Assassin 120 EVO Dark CPU Air Cooler
 
-**Price:** NZD $0.00 (incl. GST) — verify with BC API
+**Price:** NZD $63.25 (incl. GST)
 **SKU:** COOTMRBA12ED
-**Stock:** In stock (verify with BC API)
+**Stock:** Plenty in stock (verified 2026-08-31, OH>0)
 
 ## Quick Specs
 - Type: Air Cooler

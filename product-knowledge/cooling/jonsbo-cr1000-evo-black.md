@@ -3,7 +3,7 @@
 **SKU:** COOJONCR1000EB
 **Brand:** Jonsbo
 **Price:** NZD $40.25 (incl. GST)
-**Status:** In Stock
+**Status:** Only a few left in stock (OH=1, verified 2026-09-12, BC API)
 
 ## Quick Specs
 

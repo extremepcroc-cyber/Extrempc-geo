@@ -3,7 +3,7 @@
 **Price:** NZD $459.0 (incl. GST)
 **SKU:** MBASUTGB850MPWF
 **URL:** https://www.extremepc.co.nz/asus-tuf-gaming-b850m-plus-wifi-mortherboard/
-**Stock:** Only a few left
+**Stock:** OUT OF STOCK (verified 2026-09-10, BC API inventory=0; Onehunga not available online)
 
 ## Quick Specs
 - CPU Socket: AM5

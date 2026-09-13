@@ -1,8 +1,8 @@
 # AOC 25B40HM 25" FHD 100Hz VA Business Monitor
 
-**Price:** NZD $249.00 (incl. GST) — verify with BC API
+**Price:** NZD $139.00 (incl. GST)
 **SKU:** MONAOC25B40H
-**Stock:** In stock (verify with BC API)
+**Stock:** Plenty in stock (verified 2026-08-31, OH>0)
 
 ## Quick Specs
 - Panel Size: 25"

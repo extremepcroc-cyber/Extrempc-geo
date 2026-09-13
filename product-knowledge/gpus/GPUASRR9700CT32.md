@@ -3,7 +3,7 @@
 **Price:** NZD $2999.0 (incl. GST)
 **SKU:** GPUASRR9700CT32
 **URL:** https://www.extremepc.co.nz/amd-radeon/asrock-radeon-ai-pro-r9700-creator-32gb-professional-graphics-card/
-**Stock:** Only a few left in stock
+**Stock:** OUT OF STOCK (verified 2026-09-10, BC API inventory=0; Onehunga not available online)
 
 ## Quick Specs
 - GPU: AMD Radeon AI PRO R9700

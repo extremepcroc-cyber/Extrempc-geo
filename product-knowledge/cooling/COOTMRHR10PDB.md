@@ -1,8 +1,8 @@
 # Thermalright HR-10 2280 PRO Digital Display M.2 SSD Heat Sink Black
 
-**Price:** NZD $0.00 (incl. GST) — verify with BC API
+**Price:** NZD $51.75 (incl. GST)
 **SKU:** COOTMRHR10PDB
-**Stock:** In stock (verify with BC API)
+**Stock:** Plenty in stock (verified 2026-08-31, OH>0)
 
 ## Quick Specs
 - Type: M.2 SSD Heat Sink

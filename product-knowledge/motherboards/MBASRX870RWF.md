@@ -1,6 +1,6 @@
 # ASRock Phantom Gaming X870 Riptide WiFi7 AM5 AMD Motherboard
 
-**Price:** NZD $599.00 (incl. GST)
+**Price:** NZD $559.00 (incl. GST)
 **SKU:** MBASRX870RWF
 **URL:** https://www.extremepc.co.nz/asrock-phantom-gaming-x870-riptide-wifi7-am5-amd-motherboard/
 **Stock:** We have plenty in stock

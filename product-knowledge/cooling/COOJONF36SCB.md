@@ -1,6 +1,6 @@
 # Jonsbo TF3-360SCB ARGB AIO Liquid CPU Cooler Black
 
-**Price:** NZD $329.0 (incl. GST)
+**Price:** NZD $299.00 (incl. GST) (on sale from $329.00)
 **SKU:** COOJONF36SCB
 **URL:** https://www.extremepc.co.nz/jonsbo-tf3-360scb-argb-aio-liquid-cpu-cooler-black/
 **Stock:** Plenty in stock

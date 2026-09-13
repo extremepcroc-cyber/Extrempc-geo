@@ -1,6 +1,6 @@
 # Gigabyte GS27FA 27" FHD 180Hz IPS 1ms Gaming Monitor
 
-**Price:** NZD $242.0 (incl. GST)
+**Price:** NZD $241.50 (incl. GST) (on sale from $299.00)
 **SKU:** MONGIGGS27FA
 **URL:** https://www.extremepc.co.nz/gigabyte-gs27f-a-27-fhd-180hz-ips-1920x1080-2xhdmi-gaming-monitor/
 **Stock:** Only a few left in stock

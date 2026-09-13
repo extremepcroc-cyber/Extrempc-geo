@@ -1,6 +1,6 @@
 # Jonsbo TK-4 Hyperbolic Seaview Room ATX Mid Tower Case - Black
 
-**Price:** NZD $329.0 (incl. GST)
+**Price:** NZD $299.00 (incl. GST) (on sale from $329.00)
 **SKU:** CASJONTK4B
 **URL:** https://www.extremepc.co.nz/jonsbo-tk-4-hyperbolic-seaview-room-atx-mid-tower-case-black/
 **Stock:** Plenty in stock

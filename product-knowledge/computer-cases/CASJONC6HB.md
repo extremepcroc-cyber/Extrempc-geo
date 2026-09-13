@@ -1,8 +1,8 @@
 # Jonsbo C6 Handle MESH M-ATX Mini Tower Case - Black
 
-**Price:** NZD $0.00 (incl. GST) — verify with BC API
+**Price:** NZD $78.99 (incl. GST)
 **SKU:** CASJONC6HB
-**Stock:** In stock (verify with BC API)
+**Stock:** Plenty in stock (verified 2026-08-31, OH>0)
 
 ## Quick Specs
 - Form Factor: Mini ITX / Micro ATX

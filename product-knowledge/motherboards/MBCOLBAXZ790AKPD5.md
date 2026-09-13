@@ -1,6 +1,6 @@
 # Colorful BATTLE-AX Z790AK-PLUS D5 V20 LGA 1700 ATX Motherboard - For 14th 13th and 12th Gen Intel CPU
 
-**Price:** NZD $349.0 (incl. GST)
+**Price:** NZD $310.50 (incl. GST) (on sale from $349.00)
 **SKU:** MBCOLBAXZ790AKPD5
 **URL:** https://www.extremepc.co.nz/colorful-battle-ax-z790ak-plus-d5-v20-lga-1700-atx-motherboard-for-13th-and-12th-gen-intel-cpu/
 **Stock:** Only a few left

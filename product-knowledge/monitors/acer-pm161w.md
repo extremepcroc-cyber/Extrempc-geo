@@ -2,7 +2,7 @@
 
 **SKU:** MONACEPM161W
 **Brand:** Acer
-**Price:** NZD $249.00 (incl. GST)
+**Price:** NZD $299.00 (incl. GST)
 **Status:** In Stock
 
 ## Quick Specs

@@ -1,6 +1,6 @@
 # Epomaker Split70 RGB Hot-swappable Wireless Mechanical Keyboard
 
-**Price:** NZD $249.0 (incl. GST)
+**Price:** NZD $199.00 (incl. GST) (on sale from $249.00)
 **SKU:** KEYEPOS70WB
 **URL:** https://www.extremepc.co.nz/epomaker-split70-rgb-wireless-mechanical-keyboard-white-blue-wisteria-linear-switch-v2-71-key/
 **Stock:** Only a few left in stock

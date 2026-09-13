@@ -1,8 +1,9 @@
 # Logitech MX Master 4 Wireless Mouse for Mac White Silver
 
-**Price:** NZD $179.00 (incl. GST) — verify with BC API
+**Price:** — (out of stock; price unavailable)
+**Status:** OUT OF STOCK (verified 2026-08-31, all warehouses 0)
 **SKU:** MOSLOGMM4MW
-**Stock:** In stock (verify with BC API)
+**Stock:** Out of stock (verified 2026-08-31)
 
 ## Quick Specs
 - Connection: Bluetooth / USB-C Receiver (2.4GHz)

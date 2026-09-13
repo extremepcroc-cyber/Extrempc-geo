@@ -1,9 +1,9 @@
 # Razer Viper V4 Pro Wireless Esports Gaming Mouse Black
 
-**Price:** NZD $265.0 (incl. GST)
+**Price:** NZD $298.00 (incl. GST) (list；09-11 曾 sale $264.50，2026-09-12 售罄时 sale 已撤销)
 **SKU:** MOSRAZV4PB
 **URL:** https://www.extremepc.co.nz/csv-import/razer-viper-v4-pro-wireless-esports-gaming-mouse-black-49g-8k-polling-gen-4-optical-switches-gen-3-50k-dpi-sensor/
-**Stock:** Only a few left in stock
+**Stock:** OUT OF STOCK (verified 2026-09-12, BC API OH=0, inv=0)
 
 ## Quick Specs
 - Connection: Wireless (2.4GHz Razer HyperSpeed)

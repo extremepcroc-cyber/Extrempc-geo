@@ -1,6 +1,6 @@
 # Thermalright Assassin Spirit 120 V2 Plus CPU Air Cooler
 
-**Price:** NZD $32.20 (incl. GST)
+**Price:** NZD $49.00 (incl. GST)
 **SKU:** COOTMRAS120V2P
 **URL:** https://www.extremepc.co.nz/thermalright-assassin-spirit-120-v2-plus-cpu-air-cooler/
 **Stock:** We have plenty in stock

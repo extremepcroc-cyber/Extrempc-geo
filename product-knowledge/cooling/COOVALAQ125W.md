@@ -1,6 +1,6 @@
 # Valkyrie AQ125 ARGB CPU Air Cooler White
 
-**Price:** NZD $49.0 (incl. GST)
+**Price:** NZD $28.75 (incl. GST) (on sale from $49.00)
 **SKU:** COOVALAQ125W
 **URL:** https://www.extremepc.co.nz/valkyrie-aq125-argb-cpu-air-cooler-white/
 **Stock:** Plenty in stock

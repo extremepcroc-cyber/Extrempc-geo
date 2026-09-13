@@ -1,6 +1,6 @@
 # Zotac NVIDIA GeForce RTX 5060 Ti TWIN OC 8GB GDDR7 Graphics Card
 
-**Price:** NZD $850.0 (incl. GST)
+**Price:** NZD $1,039.00 (incl. GST)
 **SKU:** GPUZOT56TTO8
 **URL:** https://www.extremepc.co.nz/zotac-nvidia-geforce-rtx-5060-ti-twin-oc-8gb-gddr7-graphics-card-pcie-5-0-2-slot-minimum-650w-psu/
 **Stock:** Only a few left in stock

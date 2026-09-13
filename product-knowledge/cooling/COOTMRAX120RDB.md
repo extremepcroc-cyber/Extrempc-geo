@@ -1,6 +1,6 @@
 # Thermalright Assassin X 120 R Digital Black CPU Air Cooler
 
-**Price:** NZD $46.00 (incl. GST)
+**Price:** NZD $58.99 (incl. GST)
 **SKU:** COOTMRAX120RDB
 **URL:** https://www.extremepc.co.nz/thermalright-assassin-x-120-r-digital-black-cpu-cooler/
 **Stock:** Only a few left in stock

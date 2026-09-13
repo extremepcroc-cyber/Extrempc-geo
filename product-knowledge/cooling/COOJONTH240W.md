@@ -1,6 +1,6 @@
 # Jonsbo TH-240 ARGB AIO Liquid CPU Cooler White
 
-**Price:** NZD $139.0 (incl. GST)
+**Price:** NZD $103.50 (incl. GST) (on sale from $139.00)
 **SKU:** COOJONTH240W
 **URL:** https://www.extremepc.co.nz/jonsbo-th-240-argb-aio-liquid-cpu-cooler-white/
 **Stock:** Plenty in stock

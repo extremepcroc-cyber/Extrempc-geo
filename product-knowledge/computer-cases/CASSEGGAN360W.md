@@ -1,8 +1,8 @@
 # Segotep GANK 360 EATX Tempered Glass ATX Case - White
 
-**Price:** NZD $0.00 (incl. GST) — verify with BC API
+**Price:** NZD $119.00 (incl. GST)
 **SKU:** CASSEGGAN360W
-**Stock:** In stock (verify with BC API)
+**Stock:** Only a few left in stock (verified 2026-08-31, OH>0)
 
 ## Quick Specs
 - Form Factor: ATX / Micro ATX / Mini ITX

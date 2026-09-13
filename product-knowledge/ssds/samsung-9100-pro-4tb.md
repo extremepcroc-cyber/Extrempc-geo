@@ -2,7 +2,7 @@
 
 **SKU:** SSDSAM9100P4
 **Brand:** Samsung
-**Price:** NZD $1,679.00 (incl. GST)
+**Price:** NZD $1,999.00 (incl. GST)
 **Status:** In Stock
 
 ## Quick Specs

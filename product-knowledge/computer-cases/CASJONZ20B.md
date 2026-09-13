@@ -3,7 +3,7 @@
 **Price:** NZD $139.0 (incl. GST)
 **SKU:** CASJONZ20B
 **URL:** https://www.extremepc.co.nz/jonsbo-z20-black-portable-matx-tempered-glass-micro-tower-computer-case/
-**Stock:** Plenty in stock
+**Stock:** OUT OF STOCK (verified 2026-09-10, BC API inventory=0; Onehunga not available online)
 
 ## Quick Specs
 - Max GPU Length: 363mm

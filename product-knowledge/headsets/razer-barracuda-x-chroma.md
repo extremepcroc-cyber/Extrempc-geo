@@ -2,8 +2,8 @@
 
 **SKU:** HDSRAZBXCBK (Black) / HDSRAZBXCWH (White)
 **Brand:** Razer
-**Price:** NZD $224.25 (Black) / $212.75 (White) (incl. GST)
-**Status:** In Stock
+**Price:** NZD $212.75 (White, incl. GST) — Black variant out of stock
+**Status:** BOTH VARIANTS OUT OF STOCK (HDSRAZBXCBK + HDSRAZBXCWH both removed from cache, OH 0; cache 2026-09-05 (built 03:01, BC-sourced; live BC API 401 this run))
 
 ## Quick Specs
 

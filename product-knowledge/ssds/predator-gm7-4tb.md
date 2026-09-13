@@ -2,7 +2,7 @@
 
 **SKU:** SSDACEPGM74T
 **Brand:** Predator (Acer)
-**Price:** NZD $1,219.00 (incl. GST)
+**Price:** NZD $1,495.00 (incl. GST)
 **Status:** In Stock
 
 ## Quick Specs

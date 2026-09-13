@@ -1,6 +1,6 @@
 # Thermalright TL-M10 Tempered Glass M-ATX Micro Tower Case White
 
-**Price:** NZD $129.0 (incl. GST)
+**Price:** NZD $92.00 (incl. GST) (on sale from $129.00)
 **SKU:** CASTMRM10W
 **URL:** https://www.extremepc.co.nz/thermalright-tl-m10-tempered-glass-m-atx-micro-tower-case-white/
 **Stock:** Plenty in stock

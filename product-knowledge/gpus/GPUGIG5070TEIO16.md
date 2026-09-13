@@ -1,9 +1,9 @@
 # Gigabyte GeForce RTX 5070 Ti EAGLE OC ICE SFF 16GB Graphics Card
 
-**Price:** NZD $2360.00 (incl. GST)
+**Price:** NZD $2360.00 (incl. GST, list — sale $2254.00 seen 2026-09-07 BC calc)
 **SKU:** GPUGIG5070TEIO16
 **URL:** https://www.extremepc.co.nz/gigabyte-geforce-rtx-5070-ti-eagle-oc-ice-16gb-gddr7-graphics-card/
-**Stock:** Only a few left in stock
+**Stock:** OUT OF STOCK (verified 2026-09-07, BC API OH=0, all warehouses 0)
 
 ## Quick Specs
 - GPU: NVIDIA GeForce RTX 5070 Ti (Blackwell)

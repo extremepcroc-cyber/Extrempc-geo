@@ -1,8 +1,8 @@
 # Thermalright Rainbow Vision 360 Turbo ARGB Black AIO Liquid CPU Cooler
 
-**Price:** NZD $0.00 (incl. GST) — verify with BC API
+**Price:** NZD $429.00 (incl. GST)
 **SKU:** COOTMRRV36TB
-**Stock:** In stock (verify with BC API)
+**Stock:** Only a few left in stock (verified 2026-08-31, OH>0)
 
 ## Quick Specs
 - Type: AIO Liquid Cooler (360mm)

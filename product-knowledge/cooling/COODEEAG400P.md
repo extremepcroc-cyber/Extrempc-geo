@@ -1,6 +1,6 @@
 # Deepcool AG400 Plus CPU Air Cooler Black
 
-**Price:** NZD $55.0 (incl. GST)
+**Price:** NZD $49.00 (incl. GST) (on sale from $55.00)
 **SKU:** COODEEAG400P
 **URL:** https://www.extremepc.co.nz/deepcool-ag400-plus-cpu-air-cooler-black/
 **Stock:** Only a few left

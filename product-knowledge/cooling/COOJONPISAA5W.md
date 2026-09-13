@@ -1,6 +1,6 @@
 # Jonsbo PISA A5 ARGB CPU Air Cooler - White
 
-**Price:** NZD $69.0 (incl. GST)
+**Price:** NZD $34.50 (incl. GST) (on sale from $69.00)
 **SKU:** COOJONPISAA5W
 **URL:** https://www.extremepc.co.nz/jonsbo-pisa-a5-rgb-cpu-cooler-white/
 **Stock:** Plenty in stock

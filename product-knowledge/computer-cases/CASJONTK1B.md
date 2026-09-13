@@ -1,6 +1,6 @@
 # Jonsbo TK-1 M-ATX Mini Tower Case - Black
 
-**Price:** NZD $199.0 (incl. GST)
+**Price:** NZD $172.50 (incl. GST) (on sale from $199.00)
 **SKU:** CASJONTK1B
 **URL:** https://www.extremepc.co.nz/jonsbo-tk-1-m-atx-mini-tower-case-black/
 **Stock:** Only a few left

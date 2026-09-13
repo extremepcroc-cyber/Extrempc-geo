@@ -1,6 +1,6 @@
 # PNY GeForce RTX 5070 ARGB EPIC-X RGB OC 12GB GDDR7 Graphics Card
 
-**Price:** NZD $1500.00 (incl. GST)
+**Price:** NZD $1,699.00 (incl. GST)
 **SKU:** GPUPNY57EXRO
 **URL:** https://www.extremepc.co.nz/pny-nvidia-geforce-rtx-5070-argb-epic-x-rgb-oc-12gb-gddr7-graphics-card-pcie-5-0-1x-16-pin-power-minimum-750w-psu/
 **Stock:** Only a few left in stock

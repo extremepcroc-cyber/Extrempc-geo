@@ -1,6 +1,6 @@
 # Segotep BeAced 360 ARGB AIO Liquid CPU Cooler White
 
-**Price:** NZD $179.0 (incl. GST)
+**Price:** NZD $115.00 (incl. GST) (on sale from $179.00)
 **SKU:** COOSEGBA360W
 **URL:** https://www.extremepc.co.nz/segotep-beaced-360-argb-aio-liquid-cpu-cooler-white/
 **Stock:** Plenty in stock

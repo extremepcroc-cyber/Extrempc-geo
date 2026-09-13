@@ -1,9 +1,9 @@
 # Thermalright TR-KG750 750W ATX3.1 80 Plus Gold Fully Modular Power Supply
 
-**Price:** NZD $129.00 (incl. GST)
+**Price:** NZD $132.25 (incl. GST, on sale — list NZD $139.00)
 **SKU:** PSUTMRKG750
 **URL:** https://www.extremepc.co.nz/thermalright-tr-kg750-750w-atx3-1-80-plus-gold-fully-modular-power-supply/
-**Stock:** Out of stock
+**Stock:** We have plenty in stock (verified 2026-09-07, BC API OH=95)
 
 ## Quick Specs
 - Wattage: 750W

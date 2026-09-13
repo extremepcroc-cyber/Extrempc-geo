@@ -1,6 +1,6 @@
 # Segotep Lumi 3S Curved Joint Glass Sea ​​View Room Style MATX Micro Tower Case - White
 
-**Price:** NZD $109.0 (incl. GST)
+**Price:** NZD $92.00 (incl. GST) (on sale from $109.00)
 **SKU:** CASSEGLUM3SW
 **URL:** https://www.extremepc.co.nz/segotep-lumi-3s-curved-joint-glass-sea-view-room-style-matx-micro-tower-case-white/
 **Stock:** Plenty in stock

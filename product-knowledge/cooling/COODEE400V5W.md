@@ -1,6 +1,6 @@
 # Deepcool AG400 V5 ARGB CPU Air Cooler White
 
-**Price:** NZD $55.0 (incl. GST)
+**Price:** NZD $45.00 (incl. GST) (on sale from $55.00)
 **SKU:** COODEE400V5W
 **URL:** https://www.extremepc.co.nz/deepcool-ag400-v5-argb-cpu-air-cooler-white/
 **Stock:** Only a few left

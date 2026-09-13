@@ -3,7 +3,7 @@
 **Price:** NZD $713.0 (incl. GST)
 **SKU:** GPUCOL56TD8
 **URL:** https://www.extremepc.co.nz/colorful-geforce-rtx-5060-ti-gaming-duo-8gb-v-graphics-card/
-**Stock:** Plenty in stock
+**Stock:** OUT OF STOCK (verified 2026-09-10, BC API inventory=0; Onehunga not available online)
 
 ## Quick Specs
 - GPU: NVIDIA GeForce RTX 5060 Ti (Blackwell)

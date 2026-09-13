@@ -3,7 +3,7 @@
 **Price:** NZD $149.01 (incl. GST)
 **SKU:** COOASRP360AB
 **URL:** https://www.extremepc.co.nz/asrock-pro-360-argb-aio-liquid-cpu-cooler-black-90-apra36-baaga6/
-**Stock:** Only a few left
+**Stock:** OUT OF STOCK (verified 2026-09-10, BC API inventory=0; Onehunga not available online)
 
 ## Quick Specs
 - Type: AIO Liquid Cooler

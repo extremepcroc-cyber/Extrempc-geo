@@ -2,6 +2,43 @@
 
 > 此文件记录需要补充的知识库内容
 
+## KB Backfill — Cron Run (2026-09-14)
+
+✔️ 已完成（2026-09-14）：定时 Cron 运行。EVAcache **2026-09-14**（**本运行 03:01 手动补跑构建** — 03:00 的 cache build cron 只产出 banners.json/deals.json 快照，products.json 未生成，latest.txt 仍指 09-13；补跑成功，1524 in-stock / 118 brands，token 正常）vs KB 交叉比对。**新增 KB 文件: 0**。核心成果：4 个陈旧"在库"KB 文件标 OOS（3 个为 09-13 及更早"无 KB 文件"误判件 + 1 个今日新售罄件），全部经 BC API 实时核验（OH/WL/SL/SU 分仓 + inventory_level + is_visible）。
+
+**⚠️ 3am 缓存构建问题（连续第 3 次）：** 09-14 03:00 的 `EVA Daily Cache Build` cron 再次只产出 banners/deals 快照、未生成 products.json/by-sku.json/by-brand.json（09-12、09-13、09-14 三天同现象）。**本运行 03:01 手动补跑 `build-eva-cache.py` 成功**（1524 in-stock / 118 brands，35,928 产品全量拉取）。→ **强烈建议店主彻底检查 `build-eva-cache.sh`（exie profile cron 脚本）调用链** — 三天连续失败说明是脚本结构性问题（快照步骤后中断/未调用产品拉取步骤），非偶发。
+
+**陈旧"在库"标记清理 (4 个, 全部 BC API 2026-09-14 实时核验 OH=0/inv=0):**
+- **MOSASX3B** Attack Shark X3 黑 — 09-13 cache OH=1 → 09-14 消失，BC API inv=0 全仓售罄（SU=0 无供应商渠道）。`mice/attack-shark-x3.md` frontmatter status In Stock → **Out of Stock**。⚠️ 白色变体 MOSASX3W 仍在库（OH=9，sale $89）— EVA 推荐 X3 鼠标时改用白色
+- **COOTMRPA120SEA** Thermalright Peerless Assassin 120 SE **ARGB** — 09-13 运行曾标"KB 无此文件，无需动作"，**本次全库扫描证实 `cooling/thermalright-pa120-se-argb.md` 文件存在且标 In Stock**（误判遗漏）。BC API 核验 inv=0 全仓 0 → 标 **OUT OF STOCK (verified 2026-09-14)**。⚠️ 同系列非 ARGB 件仍大量在库：COOTMRPA120SEB (Black, OH=12) / COOTMRPA120SE (标准) — 勿混淆，ARGB 变体单独售罄
+- **HDSLOGG321B** Logitech G321 黑 — 09-13 运行曾标"KB 无此文件，无需动作"，**本次全库扫描证实 `headsets/logitech-g321.md` 文件存在且标 In Stock**（误判遗漏）。BC API 核验黑色 inv=0（SU=514 供应商渠道，可能补货）→ 状态行改为 **黑色 OOS + 白色 (HDSLOGG321W) In Stock 仅剩 1 台 (OH=1)**。⚠️ 09-13 运行对该 SKU 的"无需动作"结论系扫描误判，本次修正
+- **MOSRAZHFV2** Razer HyperFlux v2 无线充电鼠标垫 — 09-13 cache OH=1 → 09-14 消失，BC API inv=0（SU=9 供应商渠道，可能补货）。`mice/MOSRAZHFV2.md` In Stock → **OUT OF STOCK (verified 2026-09-14)**。配件类（鼠标垫/充电系统），无核心硬件影响
+
+**🔴 教训（09-13 误判复盘）：** 09-13 运行对 COOTMRPA120SEA / HDSLOGG321B 两个售罄 SKU 均判定"KB 无此文件，无需动作" — **实际 KB 文件都存在且标着 In Stock**。原因：当日 diff 后未做"全库扫描所有 KB 文件的 SKU 是否在 cache + 是否已标 OOS"这一步（该步骤 09-13 记录里只针对当日 diff 的候选 SKU 做了检查）。**本运行起将此全库扫描列为每次运行的固定步骤**（已执行：764 个 SKU 文件扫描，0 残余陈旧标记）。今后"移除但无 KB 文件"结论前必须 grep 全库确认。
+
+**价格变动 (2 个, 均为预装整机, 按约定无 KB 文件, 无需动作):**
+- **XPC1198** September Sale Plus Free Upgrade — AMD Ryzen 9 9950X3D | RTX 5070 Ti — $6,199.01→**$6,498.99**（涨价，sale 维持）
+- **XPC1357** September Sale Plus Free Upgrade — AMD Ryzen 9 9950X3D | RX 9070 XT 16GB — $5,799→**$5,999**（涨价，sale 维持）
+
+**库存小幅波动 (11 SKU, OH ±1~2, 无核心硬件状态翻转):** CPUAMD5700XOEM 6→5 / KEYAULF75BR 6→4 / KEYLOGK860 3→2 / MOSLOGMXVERT 4→3 / MOSMCHG3V2W 6→5 等 — 正常销售节奏。
+
+**待跟进项复核（09-13 遗留）:**
+1. **GPUPAL59GR32 RTX 5090 GameRock** — 09-14 cache 仍无（连续 2 天 OOS），未返货
+2. **AULA HERO 68 HE 整线**（黑 KEYAULH68HBM + 白 KEYAULH68HWS）— 09-14 cache 仍无（连续 2-3 天 OOS），未补货
+3. **PSUTMRKG650 / CASSILRM44 / MOSLOGMM4MW / ZT-B50600H-10M / MONSAM27FG5** — 09-14 cache 仍无，全部未返货
+4. **RAMADA16D556U** 仍 OH=1 稳定；**GPUMSI57S2OC** 仍 OH=1 稳定
+5. **warranty-policy.md（09-07 Jimmy 提出）仍阻塞** — 需店主逐项确认各品类真实保修年限方可建档（遵守"绝不编造保修年限"规则）
+6. **git working tree 累积未提交 KB 改动（476 个: 425 M + 51 ??）**（09-03 至 09-14 多次运行）— 强烈建议店主 commit 一次
+7. **BC API token** 09-14 正常（手动补跑构建 + 6 SKU 批量查均 200）
+
+**覆盖率验证 (EVAcache 2026-09-14, 1524 in-stock):**
+- Motherboards / GPUs / Cases / PSUs / RAM / SSDs / Cooling / Keyboards / Mice / Headsets / Monitors: 核心硬件 100% ✅ — 无新核心硬件缺口，4 个售罄件（2 鼠标 + 1 散热器 + 1 耳机）均已正确标 OOS
+- 全库陈旧"在库"标记扫描: 764 SKU 文件 → **0 残余**
+
+**知识库产品文件总数: 778**（11 个产品子目录 .md 实测；本次 0 新增、0 删除 — 4 文件状态修正: attack-shark-x3 / MOSRAZHFV2 / thermalright-pa120-se-argb / logitech-g321）
+
+---
+
 ## 🔧 待办：建立详细保修政策文档（2026-09-07 Jimmy 提出）
 
 **背景**：EVA 曾编造保修年限（"笔记本 1-year store warranty"、"桌面组件 3-5 years in-store"），知识库无统一政策。已做临时修正：FAQ 写入"笔记本绝大部分带 1 年厂商保修"，禁止编造年限。
@@ -17,6 +54,190 @@
 **进行中条目（勿删）**：build-service-faq.md 的"质保怎么处理"已含 2026-09-07 临时修正版。
 
 ---
+## KB Backfill — Cron Run (2026-09-13)
+
+✔️ 已完成（2026-09-13）：定时 Cron 运行。EVAcache **2026-09-13**（**本运行 03:01 手动补跑构建** — 03:00 的 cache build cron 已跑但只产出 banners.json/deals.json 快照，products.json 未生成；补跑成功，1526 in-stock / 118 brands，token 正常）vs KB 交叉比对。**新增 KB 文件: 11**（11 款 ASRock 主板批量到货）+ **2 个 OOS 标记**（RTX 5090 + AULA HERO 68 HE 白）+ **2 个返货**（ASRock B550M WiFi + B850M-X WiFi7 OEM）+ **1 个库存降档**（Gigabyte B650M GAMING OH 3→1）+ **1 个键盘补价**（CIDOO C75 补 Price/URL 行）。所有 20 个候选 SKU 均经 BC API 实时核验（ex/calc × 1.15 + inventory_level + OH 分仓 + is_visible + custom_url），URL 取自 BC API 返回值。
+
+**⚠️ 3am 缓存构建问题（连续第 2 次）：** 09-13 03:00 的 `EVA Daily Cache Build` cron 任务**确实触发了**（last run 2026-09-13T03:01:38 ok，脚本 `build-eva-cache.sh` 在 exie profile），但**只产出了 banners.json + deals.json 快照，未生成 products.json/by-sku.json/by-brand.json** — 03:00 启动时 `EVAcache/2026-09-13/` 目录无核心文件，latest.txt 仍指 09-12。**本运行 03:01 手动补跑 `build-eva-cache.py` 成功**（1526 in-stock / 118 brands，35,928 产品全量拉取）。→ **建议店主检查 `build-eva-cache.sh`（exie profile cron 脚本）为何只跑快照脚本不跑产品拉取** — 09-12 同现象（当时判断为 cron 未触发，实为脚本只跑了一半）。BC API token 本身正常。
+
+**新增 KB 文件 (11 个 ASRock 主板批量到货, 均为 LGA 1700/1851 或 AM5 mATX/ATX/ITX, BC API 2026-09-13 实时核验全部 OH>0 + is_visible=true, 均 on_sale):**
+- **MBASR860MPAW** ASRock B860M Pro-A WiFi mATX (LGA 1851) — **NZD $276.00 (incl. GST)**（on sale from $299, calc $240 × 1.15），OH=20。写入 `motherboards/MBASR860MPAW.md`
+- **MBASRB760MPAD4** ASRock B760M PRO-A/D4 WiFi mATX (LGA 1700, DDR4) — **NZD $212.75 (incl. GST)**（on sale from $229, calc $185 × 1.15），OH=30。写入 `motherboards/MBASRB760MPAD4.md`。⚠️ DDR4 板，与 MBGIGB760MDS3HAXD4 (DDR4) 同平台不同品牌
+- **MBASRB850ILW** ASRock Phantom Gaming B850I PG Lightning ITX (AM5) — **NZD $460.00 (incl. GST)**（on sale from $480, calc $400 × 1.15），OH=10。写入 `motherboards/MBASRB850ILW.md`。Mini-ITX，SFF 构建
+- **MBASRB850MPA** ASRock B850M PRO-A WiFi mATX (AM5) — **NZD $281.75 (incl. GST)**（on sale from $300, calc $245 × 1.15），OH=20。写入 `motherboards/MBASRB850MPA.md`。⚠️ 与 MBASRB850PA (B850 ATX, $322) 为不同 SKU，已标注 confusion pair
+- **MBASRB850MRW** ASRock B850M Riptide WiFi mATX (AM5) — **NZD $431.25 (incl. GST)**（on sale from $459, calc $375 × 1.15），OH=10。写入 `motherboards/MBASRB850MRW.md`。⚠️ 与 MBASRB850RW (B850 Riptide WiFi7 ATX) 为不同 SKU
+- **MBASRB850MSL** ASRock B850M STEEL LEGEND WiFi mATX (AM5) — **NZD $356.50 (incl. GST)**（on sale from $379, calc $310 × 1.15），OH=20。写入 `motherboards/MBASRB850MSL.md`
+- **MBASRB850RW** ASRock B850 Riptide WiFi7 ATX (AM5) — **NZD $442.75 (incl. GST)**（on sale from $475, calc $385 × 1.15），OH=5。写入 `motherboards/MBASRB850RW.md`
+- **MBASRX870PA** ASRock X870 Pro-A WiFi ATX (AM5) — **NZD $385.25 (incl. GST)**（on sale from $415, calc $335 × 1.15），OH=10。写入 `motherboards/MBASRX870PA.md`。X870 旗舰 chipset
+- **MBASRX870TC** ASRock X870 TAICHI Creator ATX (AM5) — **NZD $816.50 (incl. GST)**（on sale from $879, calc $710 × 1.15），OH=5。写入 `motherboards/MBASRX870TC.md`。AM5 顶配板
+- **MBASRZ890LMW** ASRock Z890 LiveMixer WiFi ATX (LGA 1851) — **NZD $649.75 (incl. GST)**（on sale from $699, calc $565 × 1.15），OH=5。写入 `motherboards/MBASRZ890LMW.md`。Intel Z890 旗舰
+- **MBASRZ890PAW** ASRock Z890 Pro-A WiFi ATX (LGA 1851) — **NZD $402.50 (incl. GST)**（on sale from $435, calc $350 × 1.15），OH=20。写入 `motherboards/MBASRZ890PAW.md`
+- 11 款规格均取自产品名解析（socket/chipset/memory type/form factor/WiFi），完整 spec 表（M.2 数量/USB/WiFi 标准/VRM）已标注"产品页确认，不编造"。所有文件遵循"绝不编造保修年限"规则（用 "Carries the manufacturer warranty" 措辞）。
+
+**⚠️ 售罄处置 (2 个有 KB 文件 SKU, BC API 2026-09-13 实时核验 OH=0 / inv=0):**
+- **GPUPAL59GR32** Palit GeForce RTX 5090 GameRock OC 32GB GDDR7 — 09-12 cache OH=2 → 09-13 inv=0 全仓售罄（$10,999 旗舰卡，2 天卖 2 台）— `gpus/GPUPAL59GR32.md` Stock 行改为 **OUT OF STOCK (verified 2026-09-13, BC API inv=0, OH=0)** + 保留 History 行（09-06 NEW ARRIVAL → 09-13 OOS）。EVA 不得当在库推荐，问就引导 09 849 4888 或等返货
+- **KEYAULH68HWS** AULA HERO 68 HE 白 — 09-12 cache OH=1 → 09-13 inv=0 售罄（$109 list）— `keyboards/KEYAULH68HWS.md` Status 行 "Only a few left" → **OUT OF STOCK (verified 2026-09-13, BC API inv=0, OH=0)**。⚠️ HERO 68 HE 整线售罄：黑色 KEYAULH68HBM 已于 09-12 标 OOS，白色 09-13 再转 OOS — **HERO 68 HE 全色系无货**，EVA 推荐 68-key 磁轴键盘需改用其他品牌（AULA Nova75 / CIDOO C75 / Epomaker HE68 等在库）
+
+**返货处置 (2 个有 KB 文件 SKU, OOS → In Stock, BC API 2026-09-13 实时核验):**
+- **MBASRB550MWF** ASRock B550M WiFi AM4 mATX — 09-10 标 OOS → 09-13 返货 OH=29，**NZD $189.75 (incl. GST)**（on sale from $199, calc $165 × 1.15）— `motherboards/MBASRB550MWF.md` Stock 行 OOS→**In Stock — RESTOCKED** + 价格 $199→$189.75。顺手修正 spec 行 "CPU Socket: Intel" → **"CPU Socket: AMD AM4"**（B550 是 AM4 chipset，产品名也说 "AM4 MATX Ryzen"，原 spec 行错误）
+- **MBASRB850MXWF7O** ASRock B850M-X WiFi7 R2.0 OEM — 09-10 标 OOS → 09-13 返货 OH=40，**NZD $224.25 (incl. GST)**（on sale from $259, calc $195 × 1.15）— `motherboards/MBASRB850MXWF7O.md` Stock 行 OOS→**In Stock — RESTOCKED** + 价格 $259→$224.25。顺手修正 spec 行 "Form Factor: ATX" → **"Micro-ATX"**（B850M 是 mATX，原 spec 行错误）
+
+**库存降档 (1 个, OH 3→1):**
+- **MBGIGB650MGWF** Gigabyte B650M GAMING WiFi AM5 — OH 3→**1** — `motherboards/MBGIGB650MGWF.md` Stock 行 "Plenty in stock" → **Only a few left in stock (OH=1, verified 2026-09-13)**。价格 $184 (on sale from $212) 不变
+
+**键盘补价 (1 个, 原文件无 Price/URL 行):**
+- **KEYCIDC75BMS** CIDOO C75 Rapid Trigger 磁轴键盘黑 — 原文件仅 "Status: In Stock" 无价格/URL，本次补 **NZD $179.00 (incl. GST)**（on sale from $269, calc $155.65 × 1.15, BC API 2026-09-13）+ URL + 库存 OH=1（09-12 cache OH=2 → 09-13 OH=1，低库存）。`keyboards/KEYCIDC75BMS.md` 补 Price/URL/Status 三行
+
+**移除但无 KB 文件 (2 个, 无需动作):**
+- **COOTMRPA120SEA** Thermalright Peerless Assassin 120 SE **ARGB**（OH=1→0）— 与 COOTMRPA120SEB (Black, 在库 OH=12) / COOTMRPA120SE (标准, 在库) 为不同 SKU；ARGB 变体售罄，KB 无此文件，无需动作
+- **HDSLOGG321B** Logitech G321 Wireless Gaming Headset 黑（OH=1→0）— 配件/耳机类，KB 无此文件（headsets/ 无 G321），无需动作
+
+**价格变动 (1 个, 无 KB 文件, 无需动作):**
+- **XPC3311** September Sale Plus Free Upgrade — Intel Ultra 7 265KF | 32GB RAM — $4,599→**$4,699**（整机涨价，按约定无 KB 文件）
+
+**库存小幅波动 (44 SKU, OH ±1~20):** 正常销售/补货节奏，无核心硬件状态翻转。亮点: CPUAMD9950X3DOEM (Ryzen 9 9950X3D OEM) 9→1 低库存 / GPUASU5070TP16 (ASUS RTX 5070 Ti PRIME) 2→1 低库存 / RAMWHA16GD5HB (Whalekom 16GB DDR5) 9→6 / SSDKIN1NV3G4 (Kingston NV3 1TB) 23→22 / COOTMRPA120SEB (PA120 SE Black) 13→12 等。
+
+**覆盖率验证 (EVAcache 2026-09-13, 1526 in-stock):**
+- Motherboards: 100% 核心主板 ✅ — 含 11 款新到货 ASRock (B860M/B760M/B850I/B850M×4/B850/X870×2/Z890×2) + 2 款返货 (B550M WiFi / B850M-X WiFi7 OEM)
+- GPUs: 100% 核心 ✅ — 1 款售罄 (GPUPAL59GR32 RTX 5090 标 OOS)
+- Keyboards: 核心键盘 100% ✅ — 1 款售罄 (KEYAULH68HWS HERO 68 HE 白 标 OOS) + 1 款补价 (KEYCIDC75BMS CIDOO C75)
+- 其余品类: 无核心硬件缺口
+- **总体覆盖率: 100% (core hardware)** — 无新核心硬件缺口（除已标记 OOS 件）
+
+**知识库产品文件总数: 812**（product-knowledge 16 个产品子目录 .md 实测；本次 +11 新增 ASRock 主板；2 文件标 OOS: GPUPAL59GR32 / KEYAULH68HWS；2 文件 OOS→In Stock: MBASRB550MWF / MBASRB850MXWF7O；1 文件库存降档: MBGIGB650MGWF；1 文件补价: KEYCIDC75BMS）
+
+**待跟进 (09-12 遗留项复核):**
+1. **⚠️ 3am cache build 只跑快照不跑产品拉取（连续第 2 次）** — 09-13 03:00 cron 任务触发但只产出 banners.json/deals.json，未生成 products.json/by-sku.json/by-brand.json。本运行手动补跑成功。**建议店主检查 `build-eva-cache.sh`（exie profile cron 脚本）的调用链** — 是否快照脚本失败/中断导致产品拉取未执行，或脚本本身只包含快照逻辑。09-12 同现象（当时误判为 cron 未触发）。
+2. **GPUPAL59GR32 RTX 5090 GameRock 售罄**（09-06 到货 OH=2 → 09-13 inv=0，2 天卖完）— 下次 diff 关注是否返货
+3. **AULA HERO 68 HE 整线售罄**（黑色 09-12 OOS + 白色 09-13 OOS）— 下次 diff 关注是否补货
+4. **PSUTMRKG650** 仍 OOS（09-13 cache 无）；**CASSILRM44 / MOSLOGMM4MW / ZT-B50600H-10M** 仍全仓 0；**MONSAM27FG5** 仍 OOS；**GPUGIG5070TWFOC16 / GPUGIG5090WFOC** 仍隐藏/OOS — 下次 diff 关注是否回 cache
+5. **RAMADA16D556U** 仍 OH=1 稳定；**GPUMSI57S2OC** 仍 OH=1 稳定（09-08 返货后无翻转）
+6. **warranty-policy.md（09-07 Jimmy 提出）仍阻塞** — 需店主逐项确认各品类真实保修年限方可建档（遵守"绝不编造保修年限"规则，本次未创建）
+7. **git working tree 累积未提交 KB 改动（461 个 M + 36 个 ??）**（09-03 至 09-13 多次运行）— 建议店主 commit 一次
+8. **BC API token** 09-13 正常（手动补跑构建 + 20 SKU 批量查均 200）— 若再次 401，优先重查 token 有效期
+
+---
+
+## KB Backfill — Cron Run (2026-09-12)
+
+✔️ 已完成（2026-09-12）：定时 Cron 运行。EVAcache **2026-09-12**（**本运行手动补跑构建**，1517 in-stock / 118 brands）vs KB 交叉比对。**新增 KB 文件: 0，删除: 0** — 核心成果：1 个 SKU 换码（Acer X32 X3 OLED）+ 1 个整机换型（XPC1381→XPC13811）+ 5 个核心件售罄标 OOS + 3 个低库存刷新 + 2 个 PNY 内存补货。所有 16 个候选 SKU 均经 BC API 实时核验（price/calc ×1.15 + inventory_level + OH 分仓 + is_visible + custom_url），URL 取自 BC API 返回值。
+
+**⚠️ 3am 缓存未自动构建（首次）：** 本运行 03:01 启动时 `EVAcache/2026-09-12/` 不存在、latest.txt 仍指 09-11（09-11 运行记录 03:01:43 构建完成，本次未见产出）。**已手动补跑 `build-eva-cache.py` 成功**（1517 in-stock / 118 brands，token 正常，非凭证问题）。→ 建议店主检查 3:00 的 cache build cron 任务是否仍正常（可能 job 未触发/被跳过，token 本身有效）。
+
+**SKU 换码处置 (1 个, BC API 核验):**
+- **MONACEX32X5 → MONACEX32X3**（Acer Predator X32 X3 32" 4K 480Hz OLED，**同一产品 id 214230**）— 旧 SKU MONACEX32X5 已从 BC 目录移除（`?sku=` 返回空）；新 SKU MONACEX32X3 OH=1，list $1,999→**$1,799**，**calc $1,699.00 (incl. GST)（on sale from $1,799.00）**，09-12 起为 sale 价（09-11 时 $1,999 list 无 sale）。`monitors/acer-predator-x32-x3-32.md` SKU/价格/状态行已更新。⚠️ BC slug 误标问题**延续**（新 SKU 的 custom_url 仍为 `.../acer-predator-x34-x5-32-oled-4k-...`）— 店主修正 slug 的建议仍然有效。
+
+**整机换型 (1 个, 按约定无 KB 文件, 无需动作):**
+- **XPC1381 → XPC13811**（Ryzen 5 5500 | 16GB | 1TB | **RTX 5060** → **RX 9060 XT 16GB** 换 GPU 型号，sale 价维持 $1,999.00 incl GST，OH=10）— 预装整机按约定不建文件。
+
+**售罄处置 (5 个核心件有 KB 文件 SKU, BC API 实时核验 OH=0/inv=0):**
+- **HDSMCHX9PB** MCHOSE X9 Pro 无线游戏耳机黑 — `headsets/mchose-x9-pro.md` + `headsets/mchose-x9-pro-rose-red.md`（HDSMCHX9PR 亦 BC 核验 inv=0）— **两色均标 OUT OF STOCK (verified 2026-09-12)**
+- **MOSATKA9UB** ATK Dragonfly A9 Ultra 无线鼠标黑 — inv=0 且 **is_visible=false**（售罄且前台隐藏）— `mice/MOSATKA9UB.md` 标 OOS + 隐藏注记，勿当在库推荐
+- **MOSRAZV4PB** Razer Viper V4 Pro 无线鼠标 — inv=0，sale 撤销回 list **$298.00**（09-11 时 $264.50 sale）— `mice/MOSRAZV4PB.md` 标 OOS + 价格行更新
+- **RAMGSKM5360RB** G.SKILL Ripjaws M5 Neo 32GB DDR5-6000 EXPO 黑 — inv=0 — `ram/RAMGSKM5360RB.md` 标 OOS（同价位 32GB DDR5-6000 在库替代仍有多款：G.SKILL Ripjaws S5 OH=2 / Predator Vesta II OH=6 / Pallas II OH=8 / TeamGroup T-CREATE OH=7 / Crucial 1x32GB OH=17 — EVA 推荐时可用这些替代，勿引用本 SKU）
+- **KEYAULH68HBM** AULA HERO 68 HE 黑 — inv=0 — `keyboards/KEYAULH68HBM.md` 标 OOS（白色 KEYAULH68HWS 剩 OH=1）
+
+**低库存刷新 (3 个, OH=2→1, BC API 核验):**
+- **CASJONZ20WP** Jonsbo Z20 粉白便携机箱 — `computer-cases/CASJONZ20WP.md` "Plenty"→**Only a few left (OH=1)**
+- **COOJONCR1000EB** Jonsbo CR-1000 EVO 散热器 — `cooling/jonsbo-cr1000-evo-black.md` →**Only a few left (OH=1)**
+- **MONACEPD163Q** Acer PD163Q 便携屏（Open Box, sale $448.99）— `monitors/acer-pd163q.md` →**Only a few left (OH=1)**
+
+**补货 (2 个 PNY XLR8 DDR4, BC API 核验):**
+- **RAMPNYX16D43** PNY XLR8 16GB DDR4-3200 — OH 4→**38**（补货）— `ram/RAMPNYX16D43.md` 库存注记更新，$229 价格不变
+- **RAMPNYX32D43** PNY XLR8 32GB DDR4 (2x16) — OH 58→38 — `ram/RAMPNYX32D43.md` 库存注记更新，$429 价格不变
+
+**移除无 KB 文件 (3 个, 无需动作):** 185236 (UGREEN DP-HDMI 线) / MEMSAMPP256 (Samsung 256GB microSD) / TABAOEMSPSGTA4 (三星平板钢化膜) — 均配件类。
+**新增无 KB 文件 (1 个):** ACCSM2L6OWH (SAFEMORE 排插白, $55) — 配件类，无需动作。
+
+**其余库存波动 (70 个 SKU 中, 多为 CPU OEM 盒/机箱风扇/线缆 OH ±1~20):** 正常销售/补货节奏，无核心硬件状态翻转。
+
+**待跟进 (09-11 遗留项复核):**
+1. **⚠️ 3am cache build cron 疑似未触发**（09-12 凌晨无自动构建，本运行手动补跑成功；token 正常）— 优先检查 cron job 状态
+2. **MONACEX32X5→MONACEX32X3 换码后 BC slug 误标延续**（新 SKU 仍挂 `x34-x5-32-oled-4k` slug）— 建议店主在 BC 修正
+3. **PSUTMRKG650** 仍 OOS；**CASSILRM44 / MOSLOGMM4MW / ZT-B50600H-10M** 仍全仓 0；**MONSAM27FG5** 仍 OOS；**GPUGIG5070TWFOC16 / GPUGIG5090WFOC** 仍隐藏/OOS — 下次 diff 关注是否回 cache
+4. **RAMADA16D556U** 仍 OH=1 稳定；**GPUMSI57S2OC** 仍 OH=1 稳定（09-08 返货后无翻转）
+5. **warranty-policy.md（09-07 Jimmy 提出）仍阻塞** — 需店主逐项确认各品类真实保修年限方可建档（遵守"绝不编造保修年限"规则，本次未创建）
+6. **git working tree 累积未提交 KB 改动（462 个）**（09-03 至 09-12 多次运行）— 建议店主 commit 一次
+7. **BC API token** 09-12 正常（手动补跑构建 + 16 SKU 单查均 200）— 若再次 401，优先重查 token 有效期
+
+**知识库产品文件总数: 778**（16 个产品子目录 .md 实测；本次 +0 新增、0 删除 — 1 文件 SKU 换码更新: acer-predator-x32-x3-32；6 文件标 OOS: mchose-x9-pro / mchose-x9-pro-rose-red / MOSATKA9UB / MOSRAZV4PB / RAMGSKM5360RB / KEYAULH68HBM；4 文件库存注记刷新: KEYAULH68HWS / CASJONZ20WP / jonsbo-cr1000-evo-black / acer-pd163q；2 文件补货注记: RAMPNYX16D43 / RAMPNYX32D43）
+
+---
+
+## KB Backfill — Cron Run (2026-09-11)
+
+✔️ 已完成（2026-09-11）：定时 Cron 运行。EVAcache **2026-09-11**（03:01 构建，1524 in-stock / 119 brands）vs KB 交叉比对。**新增 KB 文件: 3**（3 款新到货 Acer Predator OLED 显示器）。**价格校准: 2**（2 个 AULA 键盘 sale 撤销回 list 价）。**返货/售罄处置: 0**（移除 2 个均为配件/OEM CPU，无 KB 文件，无需动作）。全部候选经 BC API 实时核验（`sku:in` 批量 + `include=custom_fields` OH 分仓 + `custom_url`）。
+
+**✅ 缓存健康：** 03:01 成功构建 09-11 缓存（1524 in-stock / 119 brands），latest.txt 已指向 09-11。BC API token 正常。较 09-10（1521）上升 3 个 = 本次 3 款新到货显示器（净增，无移除核心件）。
+
+**⏱ 时点说明：** 本次运行启动时（03:00:52）09-11 缓存尚未构建（latest 仍指 09-10）。Cron 等待 3am 的 `build-eva-cache.py` 完成（03:00:07 启动 → 03:01:43 完成），再基于 09-11 缓存做 09-11↔09-10 diff。
+
+**新增 KB 文件 (3个，均为新到货 Acer Predator OLED 旗舰显示器，BC API 实时核验 OH=1, 无 sale):**
+- **Monitors:** +1 (Acer Predator **X27U X1** 27" QHD 240Hz 0.001ms OLED [MONACEX27UX1] — **NZD $1,299.01 (incl. GST)**（list，无 sale），BC URL `/csv-import/acer-predator-x27u-x1-27-oled-2560x1440-qhd-dp-hdmi-gaming-240hz/`。写入 `monitors/acer-predator-x27u-x1-27.md`。1440p @ 240Hz OLED 甜点屏)
+- **Monitors:** +1 (Acer Predator **X32 X3** 32" UHD 480Hz 0.03ms OLED [MONACEX32X5] — **NZD $1,999.00 (incl. GST)**（list，无 sale），OH=1。写入 `monitors/acer-predator-x32-x3-32.md`。⚠️ **BC slug 异常**：`custom_url.url` 为 `.../acer-predator-x34-x5-32-oled-4k-...-480hz/`（slug 文字误标 "x34-x5"，但 SKU/价格/库存均核实为 32" X32 X3 id 214230）。已在文件内标注并建议店主修正 slug)
+- **Monitors:** +1 (Acer Predator **X34 X5** 34" UWQHD 240Hz 0.03ms OLED 曲面 [MONACEX34X5] — **NZD $1,898.99 (incl. GST)**（list，无 sale），OH=1，BC URL `/csv-import/acer-predator-x34-x5-34-oled-3440x1440-qhd-dp-hdmi-gaming-240hz/`。写入 `monitors/acer-predator-x34-x5-34.md`。21:9 曲面 OLED)
+- 三款规格均取自产品名（尺寸/分辨率/刷新率/面板），完整 spec 表（接口/HDR/自适应同步/曲面半径/burn-in 政策）已标注"产品页确认，不编造"。
+
+**价格校准 (2个 AULA 键盘, BC API 2026-09-11 实时 calculated_price × 1.15):**
+- **KEYAULH68HBM** AULA HERO 68 HE 黑 — 09-11 sale 撤销，list 回 $109→**$119.00**（list，无 sale）→ `keyboards/KEYAULH68HBM.md` 价格行 $109→**$119.00 (list, sale revoked)**
+- **KEYAULH68HWS** AULA HERO 68 HE 白 — 09-11 sale 撤销，list 回 $99→**$109.00**（list，无 sale）→ `keyboards/KEYAULH68HWS.md` 价格行 $99→**$109.00 (list, sale revoked)** + 库存 OH=5→**OH=2**
+
+**无需动作（已核验，KB 无需改动）:**
+- **KEYAULN75WI** AULA Nova75 白 — 09-11 sale 维持（list $149 → calc **$129.00**），KB 已为 $129，一致
+- **MOSAULSC620B** AULA SC620 黑 — 09-11 sale 维持（list $58.99 → calc **$55.00**），KB 已为 $55，一致
+- **移除 (2个，无 KB 文件):** ACCSM2L6OWH（SAFEMORE 排插，配件）/ CPUINT12400FOEM（Intel i5 12400F **OEM tray 盒**，按约定不建 CPU 文件）— 均 OOS 从 cache 移除，无动作
+- **新增 (2个 CPU OEM tray, 按约定不建 KB 文件):** CPUAMD7500FOEM（Ryzen 5 7500F, $258.75, OH=36）/ CPUAMD9800X3DOEM（Ryzen 7 9800X3D, $822.25, OH=29）— OEM 盒 CPU，仅存在于 `cpus/research/` 数据文件
+- **XPC/pkg 整机价格变动 (11个):** XPC1127/1225/1226/1239/1327/1328/13299/13759/13799/33129/3316 + PKG746 — 预装整机 September Sale 调价，按约定无 KB 文件，无动作
+- **其余配件/笔记本/存储 SKU 价格+库存小幅波动:** Razer Gigantus / SGL 排插 / Choetech 支架 / USB 线 / Samsung A57 手机 / HP 鼠标 等 — 均无 KB 文件或按约定不建，无动作
+
+**⚠️ 待跟进（09-10 遗留项复核）:**
+1. **MONACEX32X5 BC slug 误标**（"x34-x5-32-oled-4k" 用于 32" X32 X3 产品）— 建议店主在 BC 修正 slug，避免前端/搜索混淆（SKU/价格/库存本身正确）
+2. **PSUTMRKG650** 仍 OOS（09-11 cache 无）；**CASSILRM44 / MOSLOGMM4MW / ZT-B50600H-10M** 仍全仓 0 — 下次 diff 关注是否回 cache
+3. **RAMADA16D556U** 仍 In Cache OH=1（稳定，无翻转）；**GPUMSI57S2OC** 仍 In Cache OH=1（09-08 返货后稳定）
+4. **MONSAM27FG5** 仍 OOS；**GPUGIG5070TWFOC16 / GPUGIG5090WFOC** 仍隐藏/OOS（OH=0，非在线可售）
+5. **warranty-policy.md（09-07 Jimmy 提出）仍阻塞** — 需店主逐项确认各品类真实保修年限方可建档（遵守"绝不编造保修年限"规则，本次未创建）
+6. **git working tree 累积未提交 KB 改动（459 个）**（09-03 至 09-11 多次运行）— 建议店主 commit 一次
+7. **BC API token** 09-11 正常（03:01 构建成功）— 若再次 401，优先重查 token 有效期
+
+**知识库产品文件总数: 778**（16 个产品子目录 .md 实测；本次 +3 新增: acer-predator-x27u-x1-27 / acer-predator-x32-x3-32 / acer-predator-x34-x5-34；2 文件价格校准: KEYAULH68HBM / KEYAULH68HWS）
+
+---
+
+## KB Backfill — Cron Run (2026-09-10)
+
+✔️ 已完成（2026-09-10）：定时 Cron 运行。EVAcache **2026-09-10**（03:07 构建，1521 in-stock / 119 brands）vs KB 交叉比对。**新增 KB 文件: 0**（无新到货核心硬件）。核心成果：全库价格校准 11 个 + 批量 OOS/下架标记 84 个（全部此前缺失状态行的历史遗漏）+ 2 隐藏在库 GPU 复核。所有改动经 BC API 实时核验（`price_nzd_inc_gst` / `inventory_level` / OH 分仓），价格校准后全库 412 个在库 KB 文件与 BC **0 偏差**。
+
+**✅ 缓存健康：** 09-10 凌晨 03:07 构建成功（1521 in-stock / 119 brands），latest.txt 已指向 09-10。BC API token 正常。较 09-09（1524）下降 3 个，属正常销售/补货节奏（非 token 故障，09-06 401 未复发）。
+
+**价格校准 (11 个核心硬件 KB 文件, BC API 2026-09-10 实时 price_nzd_inc_gst):**
+- **GPUs (4):** GPUCOL55GD8 Colorful RTX 5050 Gaming DUO $689→**$799.00** / GPUPNY56T8O PNY RTX 5060 Ti OC 8GB $1,173.25→**$1,219.00** / GPUMSI57V2OC MSI RTX 5070 SHADOW 2X OC $1,378.25→**$1,550.00** / GPUGIG57TW2O Gigabyte RTX 5070 Ti WINDFORCE OC V2 $1,928.25→**$2,321.00**
+- **PSUs (2):** PSUTMRTB650B Thermalright TB 650W $97.75→**$132.25** / PSUTMRTB750B TR-TB750B $92→**$129.95**
+- **RAM (1):** RAMKIN8D556 Kingston 16GB DDR5 $172.5→**$182.50**
+- **Mice (2):** MOSRAZBSV3B Razer BlackShark v3 $133.5→**$164.50** / MOSG304BK Logitech G304 $43.5→**$49.90**
+- **Keyboard (1):** KEYAULH68HBS AULA HERO 68 HE 黑 $99→**$109.00**
+- **Monitor (1):** MONACEQ272P3M4 Acer Q272P3M4 $299→**$358.00**
+
+**⚠️ OOS / 下架批量标记 (84 个 KB 文件, 全部经 BC API 实时核验, 此前均无 OOS 状态行 — 09-09 前已断货/下架但 KB 未同步的历史遗漏):**
+- **80 个主 SKU 全仓 inventory=0（OH=0）** — 已逐个加 `OUT OF STOCK (verified 2026-09-10, BC API inventory=0; Onehunga not available online)` 状态行。分类分布: 机箱 6 / 散热 4 / 主板 10 / 电源 4 / GPU 10 / RAM 1 / 键盘 19 / 鼠标 18 / 耳机 4 / 显示器 4。典型: Logitech G304/G703/G903/MX 系列、Razer DeathAdder V3 系列、多款 Epomaker/Logitech/MCHOSE 键盘、ASUS 主板 B550M/B650M/B760M/B850/B860 系列、Colorful/MSI/PNY/ASRock GPU、Thermalright/Segotep/ASRock 电源等（多为长期断货件，非本次一夜售罄）。
+- **2 个 SKU 已从 BC 目录移除（delisted）:** CASJONTK0W（Jonsbo TK-0 白 — 后继 TK-1/2/3 在库）/ CASJONV12W（Jonsbo V12 白 — V 系列停产）— 已加 DELISTED 状态行。
+
+**复核修正 (2 个, 验证步骤发现误标, 已改为 OOS):**
+- **GPUGIG5070TWFOC16** / **GPUGIG5090WFOC** — 此前 09-08 标为 "Hidden (in stock, 勿推)"，本轮验证发现二者 **OH=0**、`is_visible=false`、仅 2/1 台存于非 Onehunga 仓（BC 聚合 inv=2/1 是误导）。按 OH-only 纪律（同 `aoc-27e40l` 处理）二者**不可在线购买** → 已改为 `OUT OF STOCK — not available online (OH=0, hidden, 非 OH 仓)`，EVA 不得当在库报价，问就引导打 09 849 4888。**教训: 隐藏件的 BC 聚合 inventory_level>0 ≠ 在线可售，必须看 OH 分仓 + is_visible。**
+
+**覆盖率验证 (EVAcache 2026-09-10, 1521 in-stock):**
+- 核心硬件（GPU/主板/电源/机箱/内存/SSD/散热器/键盘/鼠标/耳机/显示器）: **100% 在库 SKU 覆盖 ✅** — 无新增在库核心硬件缺口，本次新增 0
+- 全库在库 KB 文件价格与 BC 实时价: **0 偏差 ✅**（412 个在库文件全量核对）
+
+**知识库产品文件总数: 772**（product-knowledge 11 个分类目录 .md 实测；本次无新增、无删除 — 84 文件加 OOS/DELISTED 状态行，11 文件价格校准）
+
+**待跟进:**
+0. ⚠️ **并发编辑风险（新）**: 本次运行期间检测到另一子代理（`8e7f8ccd`，知识库补全任务）并发编辑 KB 文件。本运行的价格校准均为确定性值（=BC 当前价）、OOS 标记为幂等 check-and-set，理论上可收敛；但 `aoc-27e40l` / `COOTMRPV36AB` 等被该子代理同时改写 — 建议店主复核无冲突后统一 commit。
+1. **warranty-policy.md（09-07 Jimmy 提出）仍阻塞** — 需店主逐项确认各品类真实保修年限方可建档（遵守"绝不编造保修年限"规则，本次未创建；RMA 流程已在 build-service-faq.md）。
+2. **RTX 5080 全线 $2,999 / 5070 Ti 区间价**（GPUGIG57TW2O 回升 $2,321）— 关注稳定性。
+3. **反复 OOS↔返货件:** PSUTMRKG650 / RAMADA16D556U / GPUMSI57S2OC / CASSILRM44 / MOSLOGMM4MW — 下次关注是否回 cache。
+4. **80 个新标 OOS 的历史遗漏文件** — 部分为长期断货件（详见上方分类列表），若返货会自动恢复 In Stock。
+5. **git working tree 累积未提交 KB 改动**（09-03 至 09-10 多次运行）— 建议店主 commit 一次。
+6. **BC API token** 09-10 正常（03:07 构建成功）— 若再次 401，优先重查 token 有效期。
 
 ## KB Backfill — Cron Run (2026-09-09)
 

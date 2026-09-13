@@ -1,8 +1,8 @@
 # AOC CQ32G4 32" QHD 180Hz 1ms VA Curved Gaming Monitor
 
-**Price:** NZD $449.00 (incl. GST) — verify with BC API
+**Price:** NZD $549.00 (incl. GST)
 **SKU:** MONAOCCQ32G4
-**Stock:** In stock (verify with BC API)
+**Stock:** Only a few left in stock (verified 2026-08-31, OH>0)
 
 ## Quick Specs
 - Panel Size: 32"

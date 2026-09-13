@@ -1,6 +1,6 @@
 # Segotep BeVere 240 ARGB AIO Liquid CPU Cooler Black
 
-**Price:** NZD $119.0 (incl. GST)
+**Price:** NZD $74.75 (incl. GST) (on sale from $119.00)
 **SKU:** COOSEGBV240B
 **URL:** https://www.extremepc.co.nz/segotep-bevere-240-argb-aio-liquid-cpu-cooler-black/
 **Stock:** Plenty in stock

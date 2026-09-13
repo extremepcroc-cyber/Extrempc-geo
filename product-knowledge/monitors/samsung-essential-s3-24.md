@@ -1,8 +1,9 @@
 # Samsung Essential S3 S24D360GAE 24" FHD 100Hz VA Curved Business Monitor
 
-**Price:** NZD $229.00 (incl. GST) — verify with BC API
+**Price:** — (out of stock; price unavailable)
+**Status:** OUT OF STOCK (verified 2026-08-31, all warehouses 0)
 **SKU:** MONSAMLS24D3
-**Stock:** In stock (verify with BC API)
+**Stock:** Out of stock (verified 2026-08-31)
 
 ## Quick Specs
 - Panel Size: 24"

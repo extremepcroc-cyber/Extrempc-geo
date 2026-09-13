@@ -3,7 +3,7 @@
 **SKU:** HDSLOGG321B (Black) / HDSLOGG321W (White)
 **Brand:** Logitech
 **Price:** NZD $98.90 (incl. GST)
-**Status:** In Stock
+**Status:** Black (HDSLOGG321B) OUT OF STOCK (verified 2026-09-14, BC API inventory=0, OH=0, supplier channel 514 may allow restock) | White (HDSLOGG321W) In Stock — only a few left (OH=1, verified 2026-09-14)
 
 ## Quick Specs
 

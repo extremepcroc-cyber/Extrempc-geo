@@ -1,6 +1,6 @@
 # ASROCK Pro White 360 ARGB AIO Liquid CPU Cooler 90-APRA36-WAAGA6
 
-**Price:** NZD $149.01 (incl. GST)
+**Price:** NZD $138.00 (incl. GST) (on sale from $149.01)
 **SKU:** COOASRP360AW
 **URL:** https://www.extremepc.co.nz/asrock-pro-white-360-argb-aio-liquid-cpu-cooler-90-apra36-waaga6/
 **Stock:** Plenty in stock

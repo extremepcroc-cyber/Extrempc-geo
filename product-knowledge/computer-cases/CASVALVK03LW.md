@@ -3,7 +3,7 @@
 **Price:** NZD $218.99 (incl. GST)
 **SKU:** CASVALVK03LW
 **URL:** https://www.extremepc.co.nz/valkyrie-vk03-lcd-tempered-glass-atx-mid-tower-gaming-case-white/
-**Stock:** Only a few left
+**Status:** OUT OF STOCK — all store stock depleted (BC API verified 2026-08-28: OH/WL/SL/SU all 0, inventory_level 0). Last seen in stock 2026-08-26 (OH=1).
 
 ## Quick Specs
 - Max GPU Length: 420mm

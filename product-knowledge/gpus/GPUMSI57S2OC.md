@@ -1,9 +1,10 @@
 # MSI GeForce RTX 5070 SHADOW 2X OC 12GB Graphics Card
 
-**Price:** NZD $1400.00 (incl. GST)
+**Price:** NZD $1,699.00 (incl. GST) — BC API verified 2026-09-08 (restocked; sale dropped, list price)
 **SKU:** GPUMSI57S2OC
 **URL:** https://www.extremepc.co.nz/rtx-50-series/msi-geforce-rtx-5070-shadow-2x-oc-12gb-graphics-card-geforce-rtx-5070-12g-shadow-2x-oc/
-**Stock:** Only a few left in stock
+**Stock:** Only a few left in stock (OH=1)
+**Status:** IN STOCK — RESTOCKED (BC API verified 2026-09-08 — SKU back in catalogue, inv=1, visible; had been REMOVED FROM CATALOG at 2026-09-05, returned by 2026-09-08).
 
 ## Quick Specs
 - GPU: NVIDIA GeForce RTX 5070 (Blackwell)

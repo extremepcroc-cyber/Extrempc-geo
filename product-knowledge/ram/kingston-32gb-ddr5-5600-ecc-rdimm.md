@@ -3,11 +3,11 @@ sku: MEMKIN3D556
 name: Kingston 32GB DDR5-5600MT/s ECC Reg CL46 RDIMM 2Rx8 Server Memory For AMD Threadripper 7000, 9000 series
 brand: Kingston
 mpn: KSM56R46BD8PMI-32HAI
-price_nzd_ex_gst: 1738.26
-price_nzd_incl_gst: 1999.00
+price_nzd_ex_gst: 1999.13
+price_nzd_incl_gst: 2299.00
 url: /csv-import/kingston-32gb-ddr5-5600mt-s-ecc-reg-cl46-rdimm-2rx-ksm56r46bd8pmi-32hai/
 category: RAM
-status: In Stock
+status: In Stock (BC API verified 2026-09-08, inv=8; price was $1999, now $2299)
 ---
 
 # Kingston 32GB DDR5-5600 ECC RDIMM

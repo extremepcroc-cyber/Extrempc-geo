@@ -2,8 +2,8 @@
 
 **SKU:** MONAOC27E40L
 **Brand:** AOC
-**Price:** NZD $228.00 (incl. GST)
-**Status:** In Stock
+**Price:** NZD $229.00 (incl. GST)
+**Status:** OUT OF STOCK (2026-09-10 — OH=0, 1 unit in non-Onehunga warehouse; not sellable online)
 
 ## Quick Specs
 

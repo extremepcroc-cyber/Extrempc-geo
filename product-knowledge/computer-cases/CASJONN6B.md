@@ -1,8 +1,8 @@
 # Jonsbo N6 Black M-ATX Micro Tower NAS Case
 
-**Price:** NZD $0.00 (incl. GST) — verify with BC API
+**Price:** NZD $269.00 (incl. GST)
 **SKU:** CASJONN6B
-**Stock:** In stock (verify with BC API)
+**Stock:** Plenty in stock (verified 2026-08-31, OH>0)
 
 ## Quick Specs
 - Form Factor: Micro ATX / Mini ITX

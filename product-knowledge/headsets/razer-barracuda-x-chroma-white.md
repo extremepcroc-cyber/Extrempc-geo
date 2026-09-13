@@ -3,7 +3,7 @@
 **SKU:** HDSRAZBXCWH
 **Brand:** Razer
 **Price:** NZD $212.75 (incl. GST)
-**Status:** In Stock
+**Status:** OUT OF STOCK (HDSRAZBXCWH removed from cache, OH 0; cache 2026-09-05 (built 03:01, BC-sourced; live BC API 401 this run))
 
 ## Quick Specs
 

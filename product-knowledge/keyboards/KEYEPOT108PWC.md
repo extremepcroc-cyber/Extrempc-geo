@@ -1,6 +1,6 @@
 # Epomaker TH108 Pro Hot-swappable RGB Wireless Mechanical Keyboard
 
-**Price:** NZD $289.0 (incl. GST)
+**Price:** NZD $199.00 (incl. GST) (on sale from $229.00)
 **SKU:** KEYEPOT108PWC
 **URL:** https://www.extremepc.co.nz/wireless-gaming-keyboards/epomaker-th108-pro-hot-swappable-rgb-wireless-mechanical-keyboard-white-blue-creamy-jade-he-switch-104-keys/
 **Stock:** Only a few left in stock

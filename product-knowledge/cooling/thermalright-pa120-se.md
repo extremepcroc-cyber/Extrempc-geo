@@ -2,7 +2,7 @@
 
 **SKU:** COOTMRPA120SE
 **Brand:** Thermalright
-**Price:** NZD $57.50 (incl. GST)
+**Price:** NZD $78.99 (incl. GST)
 **Status:** In Stock
 
 ## Quick Specs

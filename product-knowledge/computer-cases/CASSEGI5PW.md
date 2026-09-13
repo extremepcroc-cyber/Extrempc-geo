@@ -1,6 +1,6 @@
 # Segotep Infinite 5 Pro White ATX Tower Case
 
-**Price:** NZD $148.99 (incl. GST)
+**Price:** NZD $159.00 (incl. GST)
 **SKU:** CASSEGI5PW
 **URL:** https://www.extremepc.co.nz/segotep-infinite-5-pro-white-atx-gaming-case/
 **Stock:** Only a few left

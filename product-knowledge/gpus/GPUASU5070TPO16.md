@@ -1,6 +1,6 @@
 # ASUS PRIME GeForce RTX 5070 Ti 16GB GDDR7 OC Edition Graphics Card
 
-**Price:** NZD $2400.00 (incl. GST)
+**Price:** NZD $2,519.01 (incl. GST)
 **SKU:** GPUASU5070TPO16
 **URL:** https://www.extremepc.co.nz/asus-prime-geforce-rtx-5070-ti-16gb-gddr7-oc-edition-graphics-card/
 **Stock:** Only a few left in stock

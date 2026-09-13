@@ -1,6 +1,6 @@
 # Thermalright TR-KG650W 650W ATX3.1 80 Plus Gold Fully Modular Power Supply White
 
-**Price:** NZD $179.00 (incl. GST)
+**Price:** NZD $129.00 (incl. GST)
 **SKU:** PSUTMRKG650W
 **URL:** https://www.extremepc.co.nz/thermalright-tr-kg650w-650w-atx3-1-80-plus-gold-fully-modular-power-supply-white/
 **Stock:** We have plenty in stock

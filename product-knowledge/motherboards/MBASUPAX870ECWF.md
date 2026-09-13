@@ -1,6 +1,6 @@
 # ASUS ProArt X870E-CREATOR WIFI AM5 ATX Motherboard
 
-**Price:** NZD $799.00 (incl. GST)
+**Price:** NZD $1,179.00 (incl. GST)
 **SKU:** MBASUPAX870ECWF
 **URL:** https://www.extremepc.co.nz/asus-proart-x870e-creator-wifi-am5-atx-motherboard/
 **Stock:** We have plenty in stock

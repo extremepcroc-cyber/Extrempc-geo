@@ -1,6 +1,6 @@
 # Gigabyte GeForce RTX 5070 WINDFORCE OC 12GB Graphics Card
 
-**Price:** NZD $1499.00 (incl. GST)
+**Price:** NZD $1,495.00 (incl. GST, on sale from $1,699)
 **SKU:** GPUGIG5070WFOC12
 **URL:** https://www.extremepc.co.nz/gigabyte-geforce-rtx-5070-windforce-oc-12gb-graphics-card/
 **Stock:** Only a few left in stock

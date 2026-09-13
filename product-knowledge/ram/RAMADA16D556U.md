@@ -3,7 +3,7 @@
 **Price:** NZD $399.0 (incl. GST)
 **SKU:** RAMADA16D556U
 **URL:** https://www.extremepc.co.nz/adata-16gb-ddr5-5600-ram-dimm-lifetime-wty/
-**Status:** OUT OF STOCK — all store stock depleted (BC API verified 2026-08-26: OH/WL/SL/SU all 0, inventory_level 0).
+**Status:** IN STOCK — restocked 2026-09-04 (BC API verified inv=1, OH=1). OOS history: restocked 2026-08-27 → back to OOS 2026-09-02 → restocked 2026-09-04.
 
 ## Quick Specs
 - Type: DDR5

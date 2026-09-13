@@ -3,7 +3,7 @@
 **Price:** NZD $249.0 (incl. GST)
 **SKU:** MBMSIB650MGPWF
 **URL:** https://www.extremepc.co.nz/msi-b650m-gaming-plus-wifi-matx-am5-ddr5-wifi6-motherboard/
-**Stock:** Only a few left
+**Stock:** OUT OF STOCK (verified 2026-09-10, BC API inventory=0; Onehunga not available online)
 
 ## Quick Specs
 - CPU Socket: AM5

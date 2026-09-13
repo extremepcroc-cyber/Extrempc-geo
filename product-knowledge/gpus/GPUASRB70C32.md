@@ -1,6 +1,6 @@
 # ASRock Intel Arc Pro B70 Creator 32G Graphics Card
 
-**Price:** NZD $2199.00 (incl. GST)
+**Price:** NZD $2,714.00 (incl. GST) (on sale from $3,259.00)
 **SKU:** GPUASRB70C32
 **URL:** https://www.extremepc.co.nz/workstation/asrock-intel-arc-pro-b70-creator-32g-graphics-card/
 **Stock:** We have plenty in stock

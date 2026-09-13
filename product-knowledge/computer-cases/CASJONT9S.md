@@ -1,6 +1,6 @@
 # Jonsbo T9 Full Aluminum Alloy SFF Mini-ITX Case - Silver
 
-**Price:** NZD $299.0 (incl. GST)
+**Price:** NZD $230.00 (incl. GST) (on sale from $299.00)
 **SKU:** CASJONT9S
 **URL:** https://www.extremepc.co.nz/jonsbo-t9-full-aluminum-alloy-sff-mini-itx-case-silver/
 **Stock:** Only a few left

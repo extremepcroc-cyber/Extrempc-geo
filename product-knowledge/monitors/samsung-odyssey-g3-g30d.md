@@ -2,7 +2,7 @@
 
 **SKU:** MONSAMLS24DG30
 **Brand:** Samsung
-**Price:** NZD $218.50 (incl. GST)
+**Price:** NZD $229.00 (incl. GST) (on sale from $299.00)
 **Status:** In Stock
 
 ## Quick Specs

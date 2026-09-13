@@ -2,7 +2,7 @@
 
 **SKU:** HDSHYPCIIISB (Black) / HDSHYPC3SBR (Black Red)
 **Brand:** HyperX
-**Price:** NZD $293.25 (Black) / $263.99 (Black Red) (incl. GST)
+**Price:** NZD $279.00 (incl. GST) (on sale from $329.00)
 **Status:** In Stock
 
 ## Quick Specs

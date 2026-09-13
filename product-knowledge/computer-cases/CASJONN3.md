@@ -1,6 +1,6 @@
 # Jonsbo N3 ITX NAS Mini Tower Case - Black
 
-**Price:** NZD $299.0 (incl. GST)
+**Price:** NZD $253.00 (incl. GST) (on sale from $299.00)
 **SKU:** CASJONN3
 **URL:** https://www.extremepc.co.nz/jonsbo-n3-itx-nas-mini-tower-case-black/
 **Stock:** Plenty in stock

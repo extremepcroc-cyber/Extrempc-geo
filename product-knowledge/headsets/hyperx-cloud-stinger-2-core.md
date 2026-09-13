@@ -1,6 +1,6 @@
 # HyperX Cloud Stinger 2 Core Wired Gaming Headset with DTS Headphone:X
 
-**Price:** NZD $63.00 (incl. GST) — on sale from $69.00
+**Price:** NZD $55.00 (incl. GST) (on sale from $69.00)
 **SKU:** HDSHYPCLOS2C
 **URL:** https://www.extremepc.co.nz/hyperx-cloud-stinger-2-core-gaming-headsets/
 **Stock:** Only a few left

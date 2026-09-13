@@ -1,8 +1,8 @@
 # Kingston NV3 1TB M.2 NVMe Internal SSD
 
-**Price:** NZD $109.00 (incl. GST) — verify with BC API
+**Price:** NZD $319.00 (incl. GST) (verified 2026-09-09, list price)
 **SKU:** SSDKIN1NV3G4
-**Stock:** In stock (verify with BC API)
+**Stock:** Plenty in stock (verified 2026-09-09, OH>0)
 
 ## Quick Specs
 - Capacity: 1TB

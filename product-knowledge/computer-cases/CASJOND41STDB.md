@@ -1,8 +1,9 @@
 # Jonsbo D41 STD Tempered Glass ATX Mid Tower Case - Black
 
-**Price:** NZD $0.00 (incl. GST) — verify with BC API
+**Price:** NZD $148.99 (incl. GST)
 **SKU:** CASJOND41STDB
-**Stock:** In stock (verify with BC API)
+**Stock:** Only a few left in stock (OH=1)
+**Status:** IN STOCK — Only a few left (OH=1, restocked; cache 2026-09-05 (built 03:01, BC-sourced; live BC API 401 this run))
 
 ## Quick Specs
 - Form Factor: Micro ATX / Mini ITX

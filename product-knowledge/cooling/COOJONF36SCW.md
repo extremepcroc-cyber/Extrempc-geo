@@ -1,6 +1,6 @@
 # Jonsbo TF3-360SCW ARGB AIO Liquid CPU Cooler White
 
-**Price:** NZD $329.0 (incl. GST)
+**Price:** NZD $299.00 (incl. GST) (on sale from $329.00)
 **SKU:** COOJONF36SCW
 **URL:** https://www.extremepc.co.nz/jonsbo-tf3-360scw-argb-aio-liquid-cpu-cooler-white/
 **Stock:** Plenty in stock

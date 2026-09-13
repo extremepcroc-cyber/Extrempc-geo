@@ -2,7 +2,7 @@
 
 **SKU:** MONSAM27FG6
 **Brand:** Samsung
-**Price:** NZD $598.00 (incl. GST)
+**Price:** NZD $588.00 (incl. GST) (on sale from $798.00)
 **Status:** In Stock
 
 ## Quick Specs

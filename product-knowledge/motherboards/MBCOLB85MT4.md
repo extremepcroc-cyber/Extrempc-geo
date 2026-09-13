@@ -1,6 +1,6 @@
 # Colorful BATTLE-AX B850M-T WIFI V14 AM5 mATX Motherboard
 
-**Price:** NZD $349.00 (incl. GST)
+**Price:** NZD $184.00 (incl. GST) (on sale from $218.99)
 **SKU:** MBCOLB85MT4
 **URL:** https://www.extremepc.co.nz/colorful-battle-ax-b850m-t-wifi-v14-am5-matx-motherboard/
 **Stock:** We have plenty in stock

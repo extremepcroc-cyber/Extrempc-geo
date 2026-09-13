@@ -1,6 +1,6 @@
 # ADATA XPG Gammix D35 32GB (2x 16GB) DDR4 3200 Desktop Memory Black
 
-**Price:** NZD $429.0 (incl. GST)
+**Price:** NZD $459.0 (incl. GST) — BC API verified 2026-09-05 (increased from $429)
 **SKU:** RAMADAXD3D43
 **URL:** https://www.extremepc.co.nz/adata-xpg-gammix-d35-32gb-2x-16gb-ddr4-3200-desktop-ram-kit-black/
 **Stock:** Plenty in stock

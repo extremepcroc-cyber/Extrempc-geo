@@ -3,7 +3,7 @@
 **Price:** NZD $169.00 (incl. GST) — BC API verified 2026-08-26 (ex-GST $146.96 × 1.15)
 **SKU:** CASJONTK3B
 **URL:** https://www.extremepc.co.nz/jonsbo-tk-3-black-atx-midtower-gaming-case-one-piece-curved-tempered-glass-cpu-cooler-support-upto-165mm-gpu-support-upto-420mm-7x-pci-slot-360mm-radiator-supported-front-i-o-2x-usb-3-2-1x-type-c-hd-audio/
-**Status:** In stock — Only a few left (BC API verified 2026-08-26: OH=1)
+**Status:** IN STOCK — Only a few left (OH=1, restocked; cache 2026-09-05 (built 03:01, BC-sourced; live BC API 401 this run))
 
 ## Quick Specs
 - Max GPU Length: 420mm (direct bottom-fan airflow)

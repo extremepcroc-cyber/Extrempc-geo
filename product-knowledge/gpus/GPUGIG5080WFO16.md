@@ -1,6 +1,6 @@
 # Gigabyte GeForce RTX 5080 WINDFORCE OC 16GB Graphics Card
 
-**Price:** NZD $2899.00 (incl. GST)
+**Price:** NZD $2999.00 (incl. GST) (verified 2026-09-09, list price)
 **SKU:** GPUGIG5080WFO16
 **URL:** https://www.extremepc.co.nz/gigabyte-geforce-rtx-5080-windforce-oc-16gb-graphics-card/
 **Stock:** Only a few left in stock

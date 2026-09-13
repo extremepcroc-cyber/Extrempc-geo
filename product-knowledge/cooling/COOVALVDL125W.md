@@ -1,6 +1,6 @@
 # Valkyrie Vind DL125 ARGB CPU Air Cooler White
 
-**Price:** NZD $89.0 (incl. GST)
+**Price:** NZD $69.00 (incl. GST) (on sale from $89.00)
 **SKU:** COOVALVDL125W
 **URL:** https://www.extremepc.co.nz/valkyrie-vind-dl125-argb-cpu-air-cooler-white/
 **Stock:** Plenty in stock

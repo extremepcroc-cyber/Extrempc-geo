@@ -1,8 +1,8 @@
 # Thermalright Phantom Spirit 120 Digital SNOW CPU Air Cooler
 
-**Price:** NZD $0.00 (incl. GST) — verify with BC API
+**Price:** NZD $149.01 (incl. GST)
 **SKU:** COOTMRPS12DW
-**Stock:** In stock (verify with BC API)
+**Stock:** Plenty in stock (verified 2026-08-31, OH>0)
 
 ## Quick Specs
 - Type: Air Cooler

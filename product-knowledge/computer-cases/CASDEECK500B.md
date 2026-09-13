@@ -3,7 +3,7 @@
 **Price:** NZD $179.0 (incl. GST)
 **SKU:** CASDEECK500B
 **URL:** https://www.extremepc.co.nz/deepcool-ck500-atx-tempered-glass-mid-tower-case-black/
-**Stock:** Only a few left
+**Stock:** OUT OF STOCK (verified 2026-09-10, BC API inventory=0; Onehunga not available online)
 
 ## Quick Specs
 - Max GPU Length: 380mm

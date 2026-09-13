@@ -4,7 +4,8 @@
 **SKU:** GPUPNY58SDOC
 **MPN:** VCG508016DFSXPB1-O
 **URL:** https://www.extremepc.co.nz/csv-import/pny-nvidia-geforce-rtx-5080-slim-oc-dual-fan-16gb-gddr7-graphics-card-pcie-5-0-2-slot-1x-16-pin-power-minimum-850w-psu/
-**Stock:** Only a few left in stock
+**Stock:** — (see status)
+**Status:** OUT OF STOCK (BC API verified 2026-09-02, all warehouses 0)
 
 ## Quick Specs
 - GPU: NVIDIA GeForce RTX 5080 (Blackwell)

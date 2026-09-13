@@ -1,8 +1,9 @@
 # Silverstone SST-RM44 4U Rackmount Server Chassis
 
-**Price:** NZD $0.00 (incl. GST) — verify with BC API
+**Price:** — (out of stock; price unavailable)
+**Status:** OUT OF STOCK (verified 2026-08-31, all warehouses 0)
 **SKU:** CASSILRM44
-**Stock:** In stock (verify with BC API)
+**Stock:** Out of stock (verified 2026-08-31)
 
 ## Quick Specs
 - Form Factor: ATX / Micro ATX / Mini ITX

@@ -3,7 +3,8 @@
 **Price:** NZD $129.00 (incl. GST)
 **SKU:** PSUTMRKG650
 **URL:** https://www.extremepc.co.nz/thermalright-tr-kg650-650w-atx3-1-80-plus-gold-fully-modular-power-supply/
-**Stock:** Out of stock
+**Stock:** — (out of stock)
+**Status:** OUT OF STOCK (BC API verified 2026-09-05, inv=0; restocked 2026-09-02 inv=17, back to OOS 2026-09-04)
 
 ## Quick Specs
 - Wattage: 650W

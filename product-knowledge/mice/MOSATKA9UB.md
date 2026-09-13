@@ -12,4 +12,4 @@
 - **Gaming:** Yes
 - **Color:** Black
 
-**Status:** In Stock
+**Status:** OUT OF STOCK (verified 2026-09-12, BC API OH=0, inv=0, is_visible=false — 售罄且前台隐藏，勿当在库推荐)

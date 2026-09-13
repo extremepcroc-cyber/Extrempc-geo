@@ -2,7 +2,7 @@
 
 **SKU:** PSUSEGGM650WW
 **Brand:** Segotep
-**Price:** NZD $109.25 (incl. GST)
+**Price:** NZD $148.99 (incl. GST) — price increased, sale ended (verified 2026-09-06)
 **Status:** In Stock
 
 ## Quick Specs

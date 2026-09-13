@@ -3,7 +3,7 @@
 **Price:** NZD $239.0 (incl. GST)
 **SKU:** MBGIGB760MGPWFD4
 **URL:** https://www.extremepc.co.nz/gigabyte-b760m-gaming-plus-wifi-ddr4-lga1700-micro-atx-motherboard/
-**Stock:** Only a few left
+**Stock:** OUT OF STOCK (verified 2026-09-10, BC API inventory=0; Onehunga not available online)
 
 ## Quick Specs
 - CPU Socket: lga1700

@@ -1,6 +1,6 @@
 # ASUS GeForce RTX 5060 Ti Dual OC 16GB Graphics Card - White
 
-**Price:** NZD $1180.00 (incl. GST)
+**Price:** NZD $1379.00 (incl. GST) — BC API verified 2026-09-05 (increased from $1349)
 **SKU:** GPUASU56TD16OW
 **URL:** https://www.extremepc.co.nz/asus-geforce-rtx-5060-ti-dual-oc-16gb-graphics-card-white/
 **Stock:** Only a few left in stock

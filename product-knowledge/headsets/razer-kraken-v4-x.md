@@ -2,7 +2,7 @@
 
 **SKU:** HDSRAZKV4X
 **Brand:** Razer
-**Price:** NZD $143.75 (incl. GST)
+**Price:** NZD $138.00 (incl. GST) (on sale from $159.00)
 **Status:** In Stock
 
 ## Quick Specs

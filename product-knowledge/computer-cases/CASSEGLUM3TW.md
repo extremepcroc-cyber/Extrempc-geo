@@ -3,7 +3,8 @@
 **Price:** NZD $109.0 (incl. GST)
 **SKU:** CASSEGLUM3TW
 **URL:** https://www.extremepc.co.nz/segotep-lumi-3t-joint-glass-sea-view-room-style-matx-micro-tower-case-white/
-**Stock:** Only a few left
+**Stock:** — (see status)
+**Status:** OUT OF STOCK (BC API verified 2026-09-02, all warehouses 0)
 
 ## Quick Specs
 - Compatibility specs pending - check product page for details

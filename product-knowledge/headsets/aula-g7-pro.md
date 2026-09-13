@@ -2,7 +2,7 @@
 
 **SKU:** HDSAULG7PB
 **Brand:** AULA
-**Price:** NZD $69.00 (incl. GST)
+**Price:** NZD $64.00 (incl. GST) (on sale from $69.00)
 **Status:** In Stock
 
 ## Quick Specs

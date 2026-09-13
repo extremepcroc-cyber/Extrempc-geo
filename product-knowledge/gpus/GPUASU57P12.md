@@ -1,6 +1,6 @@
 # ASUS GeForce RTX 5070 PRIME 12GB GDDR7 Graphics Card
 
-**Price:** NZD $1529.00 (incl. GST)
+**Price:** NZD $1,699.00 (incl. GST)
 **SKU:** GPUASU57P12
 **URL:** https://www.extremepc.co.nz/rtx-50-series/asus-geforce-rtx-5070-prime-12gb-gddr7-graphics-card-prime-rtx5070-12g/
 **Stock:** Only a few left in stock

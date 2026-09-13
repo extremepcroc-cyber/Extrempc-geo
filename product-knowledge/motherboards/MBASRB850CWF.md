@@ -1,6 +1,6 @@
 # ASRock B850 Challenger WiFi AM5 ATX Ryzen Motherboard
 
-**Price:** NZD $399.00 (incl. GST)
+**Price:** NZD $333.50 (incl. GST) (on sale from $359.00)
 **SKU:** MBASRB850CWF
 **URL:** https://www.extremepc.co.nz/asrock-b850-challenger-wifi-am5-atx-ryzen-motherboard/
 **Stock:** We have plenty in stock

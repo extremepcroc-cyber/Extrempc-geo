@@ -1,6 +1,6 @@
 # ASRock B860I WIFI DDR5 ITX Intel Motherboard
 
-**Price:** NZD $399.00 (incl. GST)
+**Price:** NZD $322.00 (incl. GST) (on sale from $459.00)
 **SKU:** MBASRB860IWF
 **URL:** https://www.extremepc.co.nz/asrock-b860i-wifi-ddr5-itx-intel-motherboard/
 **Stock:** We have plenty in stock

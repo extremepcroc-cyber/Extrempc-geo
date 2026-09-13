@@ -1,6 +1,6 @@
 # Epomaker HE75 V2 Hot-Swappable RGB Wireless Mechanical Keyboard - White, Creamy Jade HE Switch, 80 Keys
 
-**Price:** NZD $259.00 (incl. GST)
+**Price:** NZD $169.00 (incl. GST) (on sale from $189.00)
 **SKU:** KEYEPOH752WC
 **URL:** https://www.extremepc.co.nz/wireless-gaming-keyboards/epomaker-he75-v2-hot-swappable-rgb-wireless-mechanical-keyboard-white-creamy-jade-he-switch-80-keys/
 **Stock:** Only a few left in stock

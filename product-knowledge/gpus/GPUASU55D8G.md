@@ -1,6 +1,6 @@
 # ASUS GeForce RTX 5050 Dual 8GB GDDR6 Graphics Card DUAL-RTX5050-8G
 
-**Price:** NZD $800 (incl. GST)
+**Price:** NZD $799.00 (incl. GST)
 **SKU:** GPUASU55D8G
 **Brand:** ASUS
 **MPN:** DUAL-RTX5050-8G

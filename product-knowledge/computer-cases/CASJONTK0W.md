@@ -3,7 +3,7 @@
 **Price:** NZD $218.99 (incl. GST)
 **SKU:** CASJONTK0W
 **URL:** https://www.extremepc.co.nz/jonsbo-tk-0-tempered-glass-sea-view-room-itx-case-white/
-**Stock:** Only a few left
+**Stock:** DELISTED (2026-09-10 — SKU gone from BC; Jonsbo TK-1/TK-2/TK-3 are the current line, in stock)
 
 ## Quick Specs
 - Max GPU Length: 420mm

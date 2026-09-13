@@ -1,6 +1,6 @@
 # Colorful GeForce RTX 5060 Ti Battle AX DUO 8GB-V Graphics Card
 
-**Price:** NZD $899.00 (incl. GST)
+**Price:** NZD $862.50 (incl. GST) (on sale from $1,039.00)
 **SKU:** GPUCOL56TB8
 **URL:** https://www.extremepc.co.nz/colorful-geforce-rtx-5060-ti-battle-ax-duo-8gb-v-graphics-card/
 **Stock:** We have plenty in stock

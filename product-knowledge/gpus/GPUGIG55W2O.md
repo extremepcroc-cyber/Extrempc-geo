@@ -1,6 +1,6 @@
 # Gigabyte GeForce RTX 5050 WINDFORCE OC V2 8GB GDDR6 Graphics Card
 
-**Price:** NZD $684.00 (incl. GST)
+**Price:** NZD $655.50 (incl. GST) (on sale from $799.00)
 **SKU:** GPUGIG55W2O
 **MPN:** GV-N5050WF2OCV2-8GD
 **URL:** https://www.extremepc.co.nz/rtx-50-series/gigabyte-geforce-rtx-5050-windforce-oc-v2-8gb-gddr6-graphics-card-gv-n5050wf2ocv2-8gd/

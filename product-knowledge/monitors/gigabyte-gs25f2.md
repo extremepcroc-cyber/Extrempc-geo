@@ -3,7 +3,7 @@
 **SKU:** MONGIGGS25F2
 **Brand:** Gigabyte
 **Price:** NZD $184.00 (incl. GST)
-**Status:** In Stock
+**Stock:** OUT OF STOCK (verified 2026-09-10, BC API inventory=0; Onehunga not available online)
 
 ## Quick Specs
 

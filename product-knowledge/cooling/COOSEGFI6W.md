@@ -1,6 +1,6 @@
 # Segotep FI6 ARGB 120mm CPU AIR Cooler White with Screen Display
 
-**Price:** NZD $69.0 (incl. GST)
+**Price:** NZD $46.00 (incl. GST) (on sale from $69.00)
 **SKU:** COOSEGFI6W
 **URL:** https://www.extremepc.co.nz/segotep-fi6-argb-120mm-cpu-cooler-white-with-screen-display/
 **Stock:** Plenty in stock

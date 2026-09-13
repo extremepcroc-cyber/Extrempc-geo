@@ -1,6 +1,6 @@
 # Colorful BATTLE-AX B650M-E WIFI V14 AM5 mATX Motherboard
 
-**Price:** NZD $279.00 (incl. GST)
+**Price:** NZD $178.25 (incl. GST) (on sale from $187.85)
 **SKU:** MBCOLB65ME4
 **URL:** https://www.extremepc.co.nz/colorful-battle-ax-b650m-e-wifi-v14-am5-matx-motherboard/
 **Stock:** We have plenty in stock

@@ -1,6 +1,6 @@
 # Razer DeathAdder V3 Ergonomic Optical Gaming Mouse
 
-**Price:** NZD $127.00 (incl. GST) — on sale from $138.00
+**Price:** NZD $115.00 (incl. GST) (on sale from $138.00)
 **SKU:** MOSRAZDAV3
 **URL:** https://www.extremepc.co.nz/razer-deathadder-v3-ergonomic-optical-gaming-mouse/
 **Stock:** Only a few left

@@ -1,6 +1,6 @@
 # Segotep Prime D MATX Micro Tower Case - Black
 
-**Price:** NZD $58.99 (incl. GST)
+**Price:** NZD $46.00 (incl. GST) (on sale from $58.99)
 **SKU:** CASSEGPRIDB
 **URL:** https://www.extremepc.co.nz/segotep-prime-d-matx-micro-tower-case-black/
 **Stock:** Plenty in stock

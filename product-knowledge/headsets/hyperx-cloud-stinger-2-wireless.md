@@ -2,7 +2,7 @@
 
 **SKU:** HDSHYPCS2
 **Brand:** HyperX
-**Price:** NZD $149.01 (incl. GST)
+**Price:** NZD $139.00 (incl. GST) (on sale from $169.00)
 **Status:** In Stock
 
 ## Quick Specs

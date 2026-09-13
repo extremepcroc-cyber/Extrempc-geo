@@ -1,6 +1,6 @@
 # Abee STEM PT2000W 80 Plus Platinum Fully Modular Power Supply
 
-**Price:** NZD $799.00 (incl. GST)
+**Price:** NZD $1,099.00 (incl. GST)
 **SKU:** PSUABEPT2000
 **URL:** https://www.extremepc.co.nz/abee-stem-pt2000w-80-plus-platinum-fully-modular-power-supply/
 **Stock:** We have plenty in stock

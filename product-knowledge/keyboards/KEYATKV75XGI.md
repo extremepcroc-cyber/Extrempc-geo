@@ -3,6 +3,8 @@
 **SKU:** KEYATKV75XGI
 
 **Brand:** ATK
+**Price:** NZD $159.00 (incl. GST)
+**URL:** https://www.extremepc.co.nz/atk-vxe-v75x-rgb-hot-swappable-wireless-mechanical-gaming-keyboard-gunmetal-aurora-ice-cream-switch-80-keys/
 
 ## Quick Specs
 
@@ -15,4 +17,4 @@
 - **Ergonomic:** No
 - **Display:** No
 
-**Status:** In Stock
+**Stock:** OUT OF STOCK (verified 2026-09-10, BC API inventory=0; Onehunga not available online)

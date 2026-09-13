@@ -2,7 +2,7 @@
 
 **SKU:** MONACEXZ270U
 **Brand:** Acer
-**Price:** NZD $339.00 (incl. GST)
+**Price:** NZD $379.01 (incl. GST) (on sale from $399.00)
 **Status:** In Stock
 
 ## Quick Specs

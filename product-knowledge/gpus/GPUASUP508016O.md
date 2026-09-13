@@ -3,7 +3,7 @@
 **Price:** NZD $2759.0 (incl. GST)
 **SKU:** GPUASUP508016O
 **URL:** https://www.extremepc.co.nz/csv-import/asus-prime-nvidia-geforce-rtx-5080-oc-16gb-gddr7-graphics-card/
-**Stock:** Only a few left in stock
+**Stock:** OUT OF STOCK (verified 2026-09-10, BC API inventory=0; Onehunga not available online)
 
 ## Quick Specs
 - GPU: NVIDIA GeForce RTX 5080 (Blackwell)

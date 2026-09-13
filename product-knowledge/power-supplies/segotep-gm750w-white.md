@@ -2,7 +2,7 @@
 
 **SKU:** PSUSEGGM750W3W
 **Brand:** Segotep
-**Price:** NZD $126.50 (incl. GST)
+**Price:** NZD $168.99 (incl. GST)
 **Status:** In Stock
 
 ## Quick Specs

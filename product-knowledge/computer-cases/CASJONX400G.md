@@ -1,8 +1,8 @@
 # Jonsbo X400 Gray ATX Sea View Mid Tower Computer Case
 
-**Price:** NZD $0.00 (incl. GST) — verify with BC API
+**Price:** NZD $201.25 (incl. GST, on sale)
 **SKU:** CASJONX400G
-**Stock:** In stock (verify with BC API)
+**Stock:** Only a few left in stock (verified 2026-08-31, OH>0)
 
 ## Quick Specs
 - Form Factor: Micro ATX / Mini ITX

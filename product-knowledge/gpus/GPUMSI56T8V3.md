@@ -1,6 +1,6 @@
 # MSI NVIDIA GeForce RTX 5060 Ti 8G VENTUS 3X OC 8GB GDDR7 Graphics Card
 
-**Price:** NZD $710.0 (incl. GST)
+**Price:** NZD $1,039.00 (incl. GST)
 **SKU:** GPUMSI56T8V3
 **URL:** https://www.extremepc.co.nz/nvidia-geforce/msi-nvidia-geforce-rtx-5060-ti-8g-ventus-3x-oc-8gb-gddr7-graphics-card/
 **Stock:** Only a few left in stock

@@ -3,7 +3,7 @@
 **Price:** NZD $1298.99 (incl. GST)
 **SKU:** RAMPREH8200H48GRD5B
 **URL:** https://www.extremepc.co.nz/predator-hermes-48gb-24gbx2-ddr5-rgb-8200mhz-u-dimm-desktop-gaming-memory-black-for-z890-and-x870-only/
-**Stock:** Only a few left in stock
+**Stock:** OUT OF STOCK (verified 2026-09-10, BC API inventory=0; Onehunga not available online)
 
 ## Quick Specs
 - Type: DDR5

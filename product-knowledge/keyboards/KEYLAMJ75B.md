@@ -3,6 +3,7 @@
 **SKU:** KEYLAMJ75B
 
 **Brand:** Lamzu
+**Price:** NZD $299.00 (incl. GST) — on sale from NZD $399.00 (verified 2026-09-09)
 
 ## Quick Specs
 

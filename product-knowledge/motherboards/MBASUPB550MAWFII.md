@@ -3,7 +3,7 @@
 **Price:** NZD $209.0 (incl. GST)
 **SKU:** MBASUPB550MAWFII
 **URL:** https://www.extremepc.co.nz/asus-prime-b550m-a-wifi-ii-amd-am4-matx-motherboard/
-**Stock:** Only a few left
+**Stock:** OUT OF STOCK (verified 2026-09-10, BC API inventory=0; Onehunga not available online)
 
 ## Quick Specs
 - CPU Socket: AM4

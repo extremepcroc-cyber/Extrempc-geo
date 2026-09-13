@@ -1,6 +1,6 @@
 # Gigabyte B760M Ultra Durable DS3H AX DDR4 LGA 1700 Micro-ATX Motherboard
 
-**Price:** NZD $299 (incl. GST)
+**Price:** NZD $259.00 (incl. GST)
 **SKU:** MBGIGB760MDS3HAXD4
 **Brand:** Gigabyte
 **MPN:** B760M DS3H AX DDR4

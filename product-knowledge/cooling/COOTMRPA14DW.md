@@ -1,8 +1,8 @@
 # Thermalright Peerless Assassin 140 Digital White CPU Air Cooler
 
-**Price:** NZD $0.00 (incl. GST) — verify with BC API
+**Price:** NZD $103.50 (incl. GST)
 **SKU:** COOTMRPA14DW
-**Stock:** In stock (verify with BC API)
+**Stock:** Plenty in stock (verified 2026-08-31, OH>0)
 
 ## Quick Specs
 - Type: Air Cooler

@@ -1,8 +1,8 @@
 # Thermalright Frozen Infinity 240 Black AIO Liquid CPU Cooler
 
-**Price:** NZD $0.00 (incl. GST) — verify with BC API
+**Price:** NZD $129.00 (incl. GST)
 **SKU:** COOTMRFI240B
-**Stock:** In stock (verify with BC API)
+**Stock:** OUT OF STOCK (verified 2026-09-07, BC API OH=0, all warehouses 0)
 
 ## Quick Specs
 - Type: AIO Liquid Cooler (240mm)

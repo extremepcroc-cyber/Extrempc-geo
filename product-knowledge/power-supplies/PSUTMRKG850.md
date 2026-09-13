@@ -1,9 +1,9 @@
 # Thermalright TR-KG850 850W ATX3.1 80 Plus Gold Fully Modular Power Supply
 
-**Price:** NZD $149.00 (incl. GST)
+**Price:** NZD $169.00 (incl. GST)
 **SKU:** PSUTMRKG850
 **URL:** https://www.extremepc.co.nz/thermalright-tr-kg850-850w-atx3-1-80-plus-gold-fully-modular-power-supply/
-**Stock:** Out of stock
+**Stock:** We have plenty in stock (BC API verified 2026-09-02, inv=25 — restocked)
 
 ## Quick Specs
 - Wattage: 850W

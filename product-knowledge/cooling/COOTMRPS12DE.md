@@ -1,8 +1,8 @@
 # Thermalright Phantom Spirit 120 Digital EVO CPU Air Cooler
 
-**Price:** NZD $0.00 (incl. GST) — verify with BC API
+**Price:** NZD $120.75 (incl. GST)
 **SKU:** COOTMRPS12DE
-**Stock:** In stock (verify with BC API)
+**Stock:** Plenty in stock (verified 2026-08-31, OH>0)
 
 ## Quick Specs
 - Type: Air Cooler

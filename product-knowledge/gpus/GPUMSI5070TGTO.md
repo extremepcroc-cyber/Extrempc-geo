@@ -3,7 +3,7 @@
 **Price:** NZD $2460.00 (incl. GST)
 **SKU:** GPUMSI5070TGTO
 **URL:** https://www.extremepc.co.nz/msi-geforce-rtx-5070-ti-gaming-trio-oc-16gb-graphics-card/
-**Stock:** Only a few left in stock
+**Stock:** OUT OF STOCK (verified 2026-09-10, BC API inventory=0; Onehunga not available online)
 
 ## Quick Specs
 - GPU: NVIDIA GeForce RTX 5070 Ti (Blackwell)

@@ -3,6 +3,7 @@
 **SKU:** MOSAULC380PB
 
 **Brand:** AULA
+**Price:** NZD $58.99 (incl. GST) (verified 2026-09-09)
 
 ## Quick Specs
 

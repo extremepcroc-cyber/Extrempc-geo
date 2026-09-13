@@ -2,7 +2,7 @@
 
 **SKU:** COOTMRAX120RSEWA
 **Brand:** Thermalright
-**Price:** NZD $40.25 (incl. GST)
+**Price:** NZD $46.00 (incl. GST) (on sale from $49.00)
 **Status:** In Stock
 
 ## Quick Specs

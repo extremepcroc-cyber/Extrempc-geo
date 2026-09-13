@@ -1,6 +1,6 @@
 # ASUS PRIME B850M-A WIFI-CSM AM5 mATX Motherboard
 
-**Price:** NZD $359.0 (incl. GST)
+**Price:** NZD $345.00 (incl. GST) (on sale from $359.00)
 **SKU:** MBASUPB850WF
 **URL:** https://www.extremepc.co.nz/asus-prime-b850m-a-wifi-csm-am5-matx-motherboard/
 **Stock:** Only a few left

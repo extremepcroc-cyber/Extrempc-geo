@@ -2,7 +2,7 @@
 
 **SKU:** SSDHPFX900PS4T
 **Brand:** HP
-**Price:** NZD $1,150.00 (incl. GST)
+**Price:** NZD $1,299.01 (incl. GST)
 **Status:** In Stock
 
 ## Quick Specs

@@ -1,6 +1,6 @@
 # ASRock WRX90 WS EVO DDR5 AMD E-ATX Workstation Motherboard
 
-**Price:** NZD $899.00 (incl. GST)
+**Price:** NZD $2,299.00 (incl. GST)
 **SKU:** MBASRW90WE
 **URL:** https://www.extremepc.co.nz/asrock-wrx90-ws-evo-ddr5-amd-e-atx-workstation-motherboard/
 **Stock:** We have plenty in stock

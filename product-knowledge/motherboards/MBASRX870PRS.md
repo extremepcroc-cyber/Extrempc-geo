@@ -3,7 +3,7 @@
 **Price:** NZD $469.0 (incl. GST)
 **SKU:** MBASRX870PRS
 **URL:** https://www.extremepc.co.nz/asrock-x870-pro-rs-wifi-atx-motherboard-for-amd-ryzen-7000-8000-9000-series-cpus-socket-am5-amd-x870-chipset-pcie-5-0-3xm-2-4x-ddr5-dimm-back-i-o-10x-usb-2x-type-c-hdmi-lan-hd-audio-2x-internal-usb-2-0-header-1x-internal-usb-3-2-head/
-**Stock:** Only a few left
+**Stock:** OUT OF STOCK (verified 2026-09-10, BC API inventory=0; Onehunga not available online)
 
 ## Quick Specs
 - CPU Socket: am5

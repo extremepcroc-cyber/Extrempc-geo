@@ -3,7 +3,7 @@
 **Price:** NZD $667.0 (incl. GST)
 **SKU:** GPUMSI56V82O
 **URL:** https://www.extremepc.co.nz/csv-import/geforce-rtx-5060-8g-ventus-2x-oc-qqby/
-**Stock:** Only a few left in stock
+**Stock:** OUT OF STOCK (verified 2026-09-10, BC API inventory=0; Onehunga not available online)
 
 ## Quick Specs
 - GPU: NVIDIA GeForce RTX 5060 (Blackwell)

@@ -28,7 +28,7 @@
 ---
 
 <!-- AUTO-DEALS-START -->
-## Auto-Detected Campaigns (updated 2026-08-26)
+## Auto-Detected Campaigns (updated 2026-09-14)
 
 ### Active Time-Bound Campaigns
 
@@ -37,11 +37,10 @@
 ### Deal Statistics
 
 - **Total on-sale items**: 40
-- **Biggest single saving**: NZD $701
+- **Biggest single saving**: NZD $650
 - **Category breakdown**:
-  - Gaming PC / Workstation: 36 items
-  - Other: 3 items
-  - GPU: 1 items
+  - Gaming PC / Workstation: 38 items
+  - Other: 2 items
 
 <!-- AUTO-DEALS-END -->
 

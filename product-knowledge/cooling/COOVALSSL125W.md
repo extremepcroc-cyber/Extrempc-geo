@@ -1,8 +1,8 @@
 # Valkyrie Surge SL125 CPU Air RGB Cooler White
 
-**Price:** NZD $0.00 (incl. GST) — verify with BC API
+**Price:** NZD $46.00 (incl. GST)
 **SKU:** COOVALSSL125W
-**Stock:** In stock (verify with BC API)
+**Stock:** Plenty in stock (verified 2026-08-31, OH>0)
 
 ## Quick Specs
 - Type: Cooling Accessory

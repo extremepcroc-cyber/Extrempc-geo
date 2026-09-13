@@ -1,6 +1,6 @@
 # Segotep GM850W ATX3.1 80 Plus Gold Full Modular Power Supply - Black
 
-**Price:** NZD $249.00 (incl. GST)
+**Price:** NZD $143.75 (incl. GST) (on sale from $169.00)
 **SKU:** PSUSEGGM850W1B
 **URL:** https://www.extremepc.co.nz/segotep-gm850w-atx3-1-80-plus-gold-full-modular-power-supply-black/
 **Stock:** We have plenty in stock

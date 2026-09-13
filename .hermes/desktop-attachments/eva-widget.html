@@ -1,0 +1,455 @@
+<script>
+document.addEventListener("DOMContentLoaded", function() {
+
+  var HERMES_URL = "https://cs.extremepc.online";
+  var HERMES_KEY = "H0kg3UJFedXcuVCQZmZttMiRuK3Iqc9Ajqrv4RZ-KYU";
+  var SYSTEM_PROMPT = "You are Eva, ExtremePC customer service assistant. Help customers find the right PC hardware, check product info, and complete purchases. Be friendly and professional.";
+  var MAX_HISTORY = 21;
+  var isWaiting = false;
+
+  var markedScript = document.createElement("script");
+  markedScript.src = "https://cdn.jsdelivr.net/npm/marked/marked.min.js";
+  document.head.appendChild(markedScript);
+
+  var fontLink = document.createElement("link");
+  fontLink.rel = "stylesheet";
+  fontLink.href = "https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap";
+  document.head.appendChild(fontLink);
+
+  var isMobile = window.innerWidth <= 600;
+
+  var css = "#hc-window,#hc-window *,#hc-bubble{font-family:'Poppins',sans-serif}" +
+    "#hc-bubble{position:fixed;bottom:70px;left:24px;height:56px;width:56px;background:#1a5c1a;border-radius:28px;cursor:pointer;z-index:9999;display:flex;align-items:center;justify-content:center;box-shadow:0 4px 12px rgba(0,0,0,.3);overflow:hidden;transition:width 0.3s ease,border-radius 0.3s ease;white-space:nowrap}" +
+    "#hc-bubble svg{width:28px;height:28px;fill:white;flex-shrink:0}" +
+    "#hc-bubble-text{color:white;font-size:13px;font-weight:500;max-width:0;overflow:hidden;transition:max-width 0.3s ease,padding 0.3s ease;padding:0}" +
+    "#hc-bubble:hover{width:220px;border-radius:28px}" +
+    "#hc-bubble:hover #hc-bubble-text{max-width:180px;padding:0 12px 0 8px}" +
+    "#hc-window{display:none;position:fixed;bottom:130px;left:24px;width:520px;height:620px;min-width:320px;background:white;border-radius:16px;box-shadow:0 8px 32px rgba(0,0,0,.2);flex-direction:column;z-index:9999;overflow:hidden;border:2px solid #1a5c1a}" +
+    "#hc-window.open{display:flex}" +
+    "#hc-resize-handle{position:absolute;top:0;right:0;width:6px;height:100%;cursor:ew-resize;z-index:10;background:transparent}" +
+    "#hc-resize-handle:hover{background:rgba(26,92,26,0.15)}" +
+    "#hc-header{background:#1a5c1a;color:white;padding:14px 16px;font-weight:600;font-size:15px;display:flex;justify-content:space-between;align-items:center;flex-shrink:0}" +
+    "#hc-clear{background:none;border:none;color:white;cursor:pointer;font-size:12px;opacity:0.8;padding:0}" +
+    "#hc-messages{flex:1;overflow-y:auto;padding:12px;display:flex;flex-direction:column;gap:8px}" +
+    ".hc-msg{max-width:85%;padding:10px 14px;border-radius:12px;font-size:14px;line-height:1.6}" +
+    ".hc-msg.user{align-self:flex-end;background:#1a5c1a;color:white;border-bottom-right-radius:4px}" +
+    ".hc-msg.bot{align-self:flex-start;background:#f0f5f0;color:#1a1a1a;border-bottom-left-radius:4px;border-left:3px solid #1a5c1a}" +
+    ".hc-msg.bot p{margin:0 0 8px 0}" +
+    ".hc-msg.bot p:last-child{margin:0}" +
+    ".hc-msg.bot ul,.hc-msg.bot ol{margin:8px 0;padding-left:18px}" +
+    ".hc-msg.bot li{margin-bottom:10px;padding-bottom:10px;line-height:1.6;border-bottom:1px solid #d4e8d4;list-style:none}" +
+    ".hc-msg.bot li:last-child{margin-bottom:0;padding-bottom:0;border-bottom:none}" +
+    ".hc-msg.bot strong{font-weight:600;color:#1a5c1a}" +
+    "#hc-input-row{display:flex;padding:10px;border-top:2px solid #1a5c1a;gap:8px;flex-shrink:0}" +
+    "#hc-input{flex:1;border:1px solid #aacfaa;border-radius:20px;padding:8px 14px;font-size:14px;outline:none}" +
+    "#hc-input:focus{border-color:#1a5c1a}" +
+    "#hc-input:disabled{background:#f5f5f5;color:#999}" +
+    "#hc-send{background:#1a5c1a;color:white;border:none;border-radius:20px;padding:8px 16px;cursor:pointer;font-size:14px;white-space:nowrap}" +
+    "#hc-send:disabled{background:#aaa;cursor:not-allowed}" +
+    ".hc-typing{display:flex;align-items:center;gap:4px;padding:4px 0}" +
+    ".hc-typing span{width:8px;height:8px;background:#1a5c1a;border-radius:50%;display:inline-block;animation:hc-bounce 1.2s infinite ease-in-out}" +
+    ".hc-typing span:nth-child(2){animation-delay:0.2s}" +
+    ".hc-typing span:nth-child(3){animation-delay:0.4s}" +
+    ".hc-wait-msg{font-size:12px;color:#666;margin-top:6px;font-style:italic}" +
+    ".hc-streaming::after{content:'▋';display:inline-block;animation:hc-cursor 0.8s infinite;color:#1a5c1a;margin-left:2px}" +
+    "@keyframes hc-cursor{0%,100%{opacity:1}50%{opacity:0}}" +
+    "@keyframes hc-bounce{0%,80%,100%{transform:translateY(0)}40%{transform:translateY(-8px)}}" +
+    "@media(max-width:600px){" +
+    "#hc-bubble{bottom:8vh;left:16px;width:48px;height:48px}" +
+    "#hc-bubble svg{width:24px;height:24px}" +
+    "#hc-window{left:0!important;right:10%!important;bottom:20vh!important;width:90%!important;height:65vh!important;max-height:65vh;border-radius:16px}" +
+    ".hc-msg{max-width:90%}" +
+    "#hc-input-row{padding:8px}" +
+    "#hc-input{padding:8px 10px;font-size:13px}" +
+    "#hc-send{padding:8px 12px;font-size:13px}" +
+    "}";
+
+  var style = document.createElement("style");
+  style.innerHTML = css;
+  document.head.appendChild(style);
+
+  var bubble = document.createElement("div");
+  bubble.id = "hc-bubble";
+  bubble.innerHTML = '<svg viewBox="0 0 24 24"><path d="M20 2H4c-1.1 0-2 .9-2 2v18l4-4h14c1.1 0 2-.9 2-2V4c0-1.1-.9-2-2-2z"/></svg><span id="hc-bubble-text">Hi! I\'m Eva, click me!</span>';
+  document.body.appendChild(bubble);
+
+  var winEl = document.createElement("div");
+  winEl.id = "hc-window";
+
+  var resizeHandle = document.createElement("div");
+  resizeHandle.id = "hc-resize-handle";
+  winEl.appendChild(resizeHandle);
+
+  var header = document.createElement("div");
+  header.id = "hc-header";
+  header.innerHTML = '<span>Eva - ExtremePC Virtual AI Assistant</span><div style="display:flex;align-items:center;gap:14px;">' +
+    '<button id="hc-contact" title="Contact us" style="background:none;border:none;color:white;cursor:pointer;padding:0;opacity:0.9;display:flex;align-items:center;"><svg width="20" height="20" viewBox="0 0 24 24" fill="white"><path d="M20 4H4c-1.1 0-2 .9-2 2v12c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2zm0 4l-8 5-8-5V6l8 5 8-5v2z"/></svg></button>' +
+    '<button id="hc-clear" title="Clear chat" style="background:none;border:none;color:white;cursor:pointer;padding:0;opacity:0.9;display:flex;align-items:center;"><svg width="18" height="18" viewBox="0 0 24 24" fill="white"><path d="M6 19c0 1.1.9 2 2 2h8c1.1 0 2-.9 2-2V7H6v12zM19 4h-3.5l-1-1h-5l-1 1H5v2h14V4z"/></svg></button>' +
+    '<button id="hc-close" style="background:none;border:none;color:white;cursor:pointer;font-size:20px;line-height:1;padding:0;opacity:0.9;">&times;</button>' +
+    '</div>';
+
+  var messages = document.createElement("div");
+  messages.id = "hc-messages";
+
+  var inputRow = document.createElement("div");
+  inputRow.id = "hc-input-row";
+
+  var input = document.createElement("input");
+  input.id = "hc-input";
+  input.placeholder = "Ask me anything...";
+
+  var sendBtn = document.createElement("button");
+  sendBtn.id = "hc-send";
+  sendBtn.innerHTML = "Send";
+
+  inputRow.appendChild(input);
+  inputRow.appendChild(sendBtn);
+  winEl.appendChild(header);
+  winEl.appendChild(messages);
+  winEl.appendChild(inputRow);
+  document.body.appendChild(winEl);
+
+  var savedHistory = sessionStorage.getItem("eva_history");
+  var chatHistory = savedHistory ? JSON.parse(savedHistory) : [{role: "system", content: SYSTEM_PROMPT}];
+
+  function makeWelcome() {
+    var firstMsg = document.createElement("div");
+    firstMsg.className = "hc-msg bot";
+    firstMsg.innerHTML = "Hi there! I\'m Eva, ExtremePC\'s Virtual AI Assistant. Just type your question as you would to a real person — I\'m here to help!<br><br><small style=\"color:#777;\">&#9432; Eva scans our full product database for every query, so replies may take a moment longer than typical AI assistants. We appreciate your patience!</small><br><br><span class=\"eva-help-toggle\" style=\"color:#1a5c1a;cursor:pointer;font-weight:600;user-select:none;\">What I can help with &#9660;</span><div class=\"eva-help-list\" style=\"display:none;margin-top:6px;line-height:2;\">&#10003; Finding &amp; recommending the right PC hardware<br>&#10003; Real-time stock availability &amp; pricing<br>&#10003; Compatibility questions<br>&#10003; Accessories &amp; bundle suggestions<br>&#10003; General info about ExtremePC</div>";
+    messages.appendChild(firstMsg);
+    firstMsg.querySelector(".eva-help-toggle").onclick = function() {
+      var list = firstMsg.querySelector(".eva-help-list");
+      var open = list.style.display !== "none";
+      list.style.display = open ? "none" : "block";
+      this.innerHTML = "What I can help with " + (open ? "&#9660;" : "&#9650;");
+    };
+  }
+
+  var savedMessages = sessionStorage.getItem("eva_messages");
+  if (savedMessages) {
+    messages.innerHTML = savedMessages;
+  } else {
+    makeWelcome();
+  }
+
+  messages.scrollTop = messages.scrollHeight;
+
+  var iconChat = '<svg viewBox="0 0 24 24"><path d="M20 2H4c-1.1 0-2 .9-2 2v18l4-4h14c1.1 0 2-.9 2-2V4c0-1.1-.9-2-2-2z"/></svg><span id="hc-bubble-text">Hi! I\'m Eva, click me!</span>';
+  var iconClose = '<svg viewBox="0 0 24 24"><path d="M19 6.41L17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"/></svg>';
+
+  bubble.onclick = function() {
+    if (winEl.classList.contains("open")) {
+      winEl.classList.remove("open");
+      bubble.innerHTML = iconChat;
+    } else {
+      winEl.classList.add("open");
+      bubble.innerHTML = iconClose;
+      messages.scrollTop = messages.scrollHeight;
+    }
+  };
+
+  document.getElementById("hc-close").onclick = function() {
+    winEl.classList.remove("open");
+    bubble.innerHTML = iconChat;
+  };
+
+  // ── Contact popup ──
+  var popup = document.createElement("div");
+  popup.id = "hc-popup";
+  popup.style.cssText = "display:none;position:absolute;top:0;left:0;right:0;bottom:0;background:rgba(0,0,0,0.5);z-index:10;align-items:center;justify-content:center;";
+  popup.innerHTML = '<div style="background:white;border-radius:12px;padding:24px;margin:16px;width:100%;box-sizing:border-box;">' +
+    '<h3 style="margin:0 0 4px;color:#1a5c1a;font-size:16px;">Contact Us</h3>' +
+    '<p style="margin:0 0 16px;font-size:12px;color:#666;">Our team will get back to you shortly.</p>' +
+    '<input id="hc-p-name" placeholder="Your name *" style="width:100%;box-sizing:border-box;border:1px solid #aacfaa;border-radius:8px;padding:8px 12px;font-size:14px;margin-bottom:10px;outline:none;font-family:Poppins,sans-serif;">' +
+    '<input id="hc-p-phone" placeholder="Phone number *" style="width:100%;box-sizing:border-box;border:1px solid #aacfaa;border-radius:8px;padding:8px 12px;font-size:14px;margin-bottom:10px;outline:none;font-family:Poppins,sans-serif;">' +
+    '<input id="hc-p-email" placeholder="Email address *" style="width:100%;box-sizing:border-box;border:1px solid #aacfaa;border-radius:8px;padding:8px 12px;font-size:14px;margin-bottom:10px;outline:none;font-family:Poppins,sans-serif;">' +
+    '<textarea id="hc-p-notes" placeholder="Notes (auto-filled from chat)" rows="3" style="width:100%;box-sizing:border-box;border:1px solid #aacfaa;border-radius:8px;padding:8px 12px;font-size:14px;margin-bottom:14px;outline:none;font-family:Poppins,sans-serif;resize:none;"></textarea>' +
+    '<div style="display:flex;gap:8px;">' +
+    '<button id="hc-p-cancel" style="flex:1;padding:10px;border:1px solid #ccc;border-radius:8px;background:white;cursor:pointer;font-size:14px;font-family:Poppins,sans-serif;">Cancel</button>' +
+    '<button id="hc-p-submit" style="flex:2;padding:10px;border:none;border-radius:8px;background:#1a5c1a;color:white;cursor:pointer;font-size:14px;font-weight:600;font-family:Poppins,sans-serif;">Send</button>' +
+    '</div>' +
+    '<p id="hc-p-status" style="margin:10px 0 0;font-size:12px;text-align:center;display:none;"></p>' +
+    '</div>';
+  winEl.appendChild(popup);
+
+  function buildChatSummary() {
+    var convo = chatHistory.filter(function(m) { return m.role === "user" || m.role === "assistant"; });
+    if (convo.length === 0) return "";
+    var recent = convo.slice(-8);
+    var lines = ["=== Chat Summary ==="];
+    for (var i = 0; i < recent.length; i++) {
+      var m = recent[i];
+      var label = m.role === "user" ? "Customer" : "Eva";
+      var text = (m.content || "").replace(/\[HANDOFF\]/gi, "").trim();
+      if (!text) continue;
+      if (text.length > 200) text = text.slice(0, 197) + "...";
+      lines.push(label + ": " + text);
+    }
+    return lines.join("\n");
+  }
+
+  function openContactPopup() {
+    var notes = buildChatSummary();
+    document.getElementById("hc-p-notes").value = notes;
+    document.getElementById("hc-p-name").value = "";
+    document.getElementById("hc-p-phone").value = "";
+    document.getElementById("hc-p-email").value = "";
+    document.getElementById("hc-p-status").style.display = "none";
+    popup.style.display = "flex";
+  }
+
+  document.getElementById("hc-contact").onclick = openContactPopup;
+
+  document.getElementById("hc-p-cancel").onclick = function() {
+    popup.style.display = "none";
+  };
+
+  document.getElementById("hc-p-submit").onclick = function() {
+    var name = document.getElementById("hc-p-name").value.trim();
+    var phone = document.getElementById("hc-p-phone").value.trim();
+    var email = document.getElementById("hc-p-email").value.trim();
+    var notes = document.getElementById("hc-p-notes").value.trim();
+    var status = document.getElementById("hc-p-status");
+    if (!name || !email) {
+      status.style.display = "block";
+      status.style.color = "#c00";
+      status.textContent = "Please fill in all required fields.";
+      return;
+    }
+    var submitBtn = document.getElementById("hc-p-submit");
+    submitBtn.disabled = true;
+    submitBtn.textContent = "Sending...";
+    fetch(HERMES_URL + "/send-contact", {
+      method: "POST",
+      headers: {
+        "Content-Type": "application/json",
+        "Authorization": "Bearer " + HERMES_KEY
+      },
+      body: JSON.stringify({name: name, phone: phone, email: email, notes: notes})
+    }).then(function(res) { return res.json(); }).then(function(data) {
+      submitBtn.disabled = false;
+      submitBtn.textContent = "Send";
+      if (data.ok) {
+        status.style.display = "block";
+        status.style.color = "#1a5c1a";
+        status.textContent = "Sent! Our team will contact you shortly.";
+        setTimeout(function() { popup.style.display = "none"; }, 2000);
+      } else {
+        status.style.display = "block";
+        status.style.color = "#c00";
+        status.textContent = "Failed to send. Please try again.";
+      }
+    }).catch(function() {
+      submitBtn.disabled = false;
+      submitBtn.textContent = "Send";
+      status.style.display = "block";
+      status.style.color = "#c00";
+      status.textContent = "Connection error. Please try again.";
+    });
+  };
+
+  document.getElementById("hc-clear").onclick = function() {
+    chatHistory = [{role: "system", content: SYSTEM_PROMPT}];
+    sessionStorage.removeItem("eva_history");
+    sessionStorage.removeItem("eva_messages");
+    messages.innerHTML = "";
+    makeWelcome();
+  };
+
+  function escapeHtml(text) {
+    return text
+      .replace(/&/g, "&amp;")
+      .replace(/</g, "&lt;")
+      .replace(/>/g, "&gt;")
+      .replace(/"/g, "&quot;")
+      .replace(/'/g, "&#039;");
+  }
+
+  function appendMsg(html, role) {
+    var div = document.createElement("div");
+    div.className = "hc-msg " + role;
+    div.innerHTML = html;
+    messages.appendChild(div);
+    messages.scrollTop = messages.scrollHeight;
+    return div;
+  }
+
+  function renderMarkdown(text, el) {
+    if (typeof marked !== "undefined") {
+      var renderer = new marked.Renderer();
+      renderer.link = function(token, title, text) {
+        var href, t, tx;
+        if (typeof token === "object" && token !== null && "href" in token) {
+          href = token.href; t = token.title; tx = token.text;
+        } else {
+          href = token; t = title; tx = text;
+        }
+        return '<a href="' + href + '" target="_blank" rel="noopener noreferrer"' + (t ? ' title="' + t + '"' : '') + '>' + tx + '</a>';
+      };
+      var html = marked.parse(text, {renderer: renderer});
+      html = html.replace(/<p>([\s\S]*?)<\/p>/g, function(m, inner) {
+        if (inner.indexOf("•") === -1) return m;
+        var items = inner.split(/\s*•\s*/).filter(function(s) { return s.trim(); });
+        return "<ul>" + items.map(function(s) { return "<li>" + s.trim() + "</li>"; }).join("") + "</ul>";
+      });
+      el.innerHTML = html;
+    } else {
+      el.innerHTML = escapeHtml(text);
+    }
+  }
+
+  function saveSession() {
+    if (chatHistory.length > MAX_HISTORY) {
+      chatHistory.splice(1, 2);
+    }
+    sessionStorage.setItem("eva_history", JSON.stringify(chatHistory));
+    sessionStorage.setItem("eva_messages", messages.innerHTML);
+  }
+
+  function setInputEnabled(enabled) {
+    input.disabled = !enabled;
+    sendBtn.disabled = !enabled;
+  }
+
+  function sendMessage() {
+    if (isWaiting) return;
+    var text = input.value.trim();
+    if (!text) return;
+    input.value = "";
+    isWaiting = true;
+    setInputEnabled(false);
+
+    appendMsg(escapeHtml(text), "user");
+    chatHistory.push({role: "user", content: text});
+    saveSession();
+
+    var thinking = appendMsg('<div class="hc-typing"><span></span><span></span><span></span></div>', "bot");
+    var fullReply = "";
+    var streaming = false;
+
+    var t1 = setTimeout(function() {
+      if (!streaming) {
+        thinking.innerHTML = '<div class="hc-typing"><span></span><span></span><span></span></div><div class="hc-wait-msg">Eva is checking the details for you, please hold on...</div>';
+        messages.scrollTop = messages.scrollHeight;
+      }
+    }, 10000);
+
+    var t2 = setTimeout(function() {
+      if (!streaming) {
+        thinking.innerHTML = '<div class="hc-typing"><span></span><span></span><span></span></div><div class="hc-wait-msg">There\'s a lot to look up! Hang tight, almost there...</div>';
+        messages.scrollTop = messages.scrollHeight;
+      }
+    }, 20000);
+
+    var t3 = setTimeout(function() {
+      if (!streaming) {
+        thinking.innerHTML = '<div class="hc-typing"><span></span><span></span><span></span></div><div class="hc-wait-msg">Scanning our full database for you — this one might take a moment. Hang tight!</div>';
+        messages.scrollTop = messages.scrollHeight;
+      }
+    }, 45000);
+
+    function done(reply) {
+      clearTimeout(t1); clearTimeout(t2); clearTimeout(t3); clearTimeout(abortTimer);
+      thinking.classList.remove("hc-streaming");
+      var handoff = /\[HANDOFF\]/i.test(reply);
+      var cleanReply = reply.replace(/\[HANDOFF\]/gi, "").trim();
+      chatHistory.push({role: "assistant", content: cleanReply});
+      renderMarkdown(cleanReply, thinking);
+      messages.scrollTop = messages.scrollHeight;
+      saveSession();
+      isWaiting = false;
+      setInputEnabled(true);
+      if (handoff) setTimeout(openContactPopup, 600);
+    }
+
+    function fail(msg) {
+      clearTimeout(t1); clearTimeout(t2); clearTimeout(t3); clearTimeout(abortTimer);
+      thinking.innerHTML = msg || "Sorry, connection error. Please try again.";
+      isWaiting = false;
+      setInputEnabled(true);
+      messages.scrollTop = messages.scrollHeight;
+    }
+
+    fetch(HERMES_URL + "/v1/chat/completions", {
+      method: "POST",
+      headers: {
+        "Content-Type": "application/json",
+        "Authorization": "Bearer " + HERMES_KEY
+      },
+      body: JSON.stringify({model: "hermes", messages: chatHistory, stream: true})
+    }).then(function(res) {
+      if (!res.ok || !res.body) {
+        return res.json().then(function(d) { fail("Error: " + (d.error && d.error.message || res.status)); });
+      }
+      var reader = res.body.getReader();
+      var decoder = new TextDecoder();
+      var buffer = "";
+
+      var abortTimer = setTimeout(function() {
+        reader.cancel();
+        fail("Sorry, this is taking too long. Please try again.");
+      }, 120000);
+
+      function read() {
+        reader.read().then(function(result) {
+          if (result.done) {
+            if (fullReply) done(fullReply);
+            else fail("Sorry, connection error. Please try again.");
+            return;
+          }
+          buffer += decoder.decode(result.value, {stream: true});
+          var lines = buffer.split("\n");
+          buffer = lines.pop();
+          for (var i = 0; i < lines.length; i++) {
+            var line = lines[i].trim();
+            if (!line || line === "data: [DONE]") continue;
+            if (line.startsWith("data: ")) {
+              try {
+                var chunk = JSON.parse(line.slice(6));
+                var delta = chunk.choices && chunk.choices[0] && chunk.choices[0].delta;
+                if (delta && delta.content) {
+                  if (!streaming) {
+                    streaming = true;
+                    thinking.innerHTML = "";
+                    thinking.classList.add("hc-streaming");
+                  }
+                  fullReply += delta.content;
+                  thinking.textContent = fullReply.replace(/\[HANDOFF\]/gi, "");
+                  messages.scrollTop = messages.scrollHeight;
+                }
+              } catch(e) {}
+            }
+          }
+          read();
+        }).catch(function() { fail(); });
+      }
+      read();
+    }).catch(function() { fail(); });
+  }
+
+  if (!isMobile) {
+    resizeHandle.addEventListener("mousedown", function(e) {
+      e.preventDefault();
+      var startX = e.clientX;
+      var startW = winEl.offsetWidth;
+      function onMove(e) {
+        var delta = e.clientX - startX;
+        var newW = Math.min(Math.max(startW + delta, 320), window.innerWidth - 48);
+        winEl.style.width = newW + "px";
+      }
+      function onUp() {
+        document.removeEventListener("mousemove", onMove);
+        document.removeEventListener("mouseup", onUp);
+      }
+      document.addEventListener("mousemove", onMove);
+      document.addEventListener("mouseup", onUp);
+    });
+  }
+
+  sendBtn.onclick = sendMessage;
+  input.onkeydown = function(e) {
+    if (e.key === "Enter") sendMessage();
+  };
+
+});
+</script>

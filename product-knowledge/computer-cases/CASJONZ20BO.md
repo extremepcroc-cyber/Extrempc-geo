@@ -1,9 +1,10 @@
 # Jonsbo Z20 Orange/Black Portable M-ATX Tempered Glass Micro Tower Computer Case
 
-**Price:** NZD $149.01 (incl. GST)
+**Price:** NZD $138.00 (incl. GST)
 **SKU:** CASJONZ20BO
+**Status:** OUT OF STOCK (verified 2026-08-31, OH/WL/SL/SU all 0 via BC API)
 **URL:** https://www.extremepc.co.nz/jonsbo-z20-orange-black-matx-mini-tower-gaming-case-with-detachable-carrying-handle-tempered-glass-cpu-cooler-support-upto-164mm-gpu-support-upto-363mm-4x-pci-slot-240mm-radiator-supported-front-i-o-1x-usb-3-2-1x-type-c-hd-audio/
-**Stock:** Plenty in stock
+**Stock:** Out of stock
 
 ## Quick Specs
 - Max GPU Length: 363mm

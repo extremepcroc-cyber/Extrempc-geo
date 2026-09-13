@@ -1,6 +1,6 @@
 # ASRock H810M-X Gen5 WiFi 6 M-ATX  Intel Motherboard
 
-**Price:** NZD $199.0 (incl. GST)
+**Price:** NZD $178.25 (incl. GST) (on sale from $199.00)
 **SKU:** MBASRH810MX
 **URL:** https://www.extremepc.co.nz/intel-motherboards/asrock-h810m-x-gen5-wifi-6-m-atx-intel-motherboard/
 **Stock:** Plenty in stock

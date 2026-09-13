@@ -1,8 +1,8 @@
 # Thermalright TR-SI-100 WHITE ARGB CPU Air Cooler
 
-**Price:** NZD $0.00 (incl. GST) — verify with BC API
+**Price:** NZD $74.75 (incl. GST)
 **SKU:** COOTMRSI100WA
-**Stock:** In stock (verify with BC API)
+**Stock:** Plenty in stock (verified 2026-08-31, OH>0)
 
 ## Quick Specs
 - Type: Air Cooler

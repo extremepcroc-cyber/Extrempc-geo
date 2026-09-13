@@ -1,6 +1,6 @@
 # Gigabyte GS32QA 32" QHD SS IPS 180Hz 1ms Adaptive Sync Gaming Monitor
 
-**Price:** NZD $518.0 (incl. GST)
+**Price:** NZD $517.50 (incl. GST) (on sale from $549.00)
 **SKU:** MONGIGGS32QA
 **URL:** https://www.extremepc.co.nz/csv-import/gigabyte-gs32qa-31-5-ss-ips-180hz-2560x-1440-qhd-hdmi-2-0-x-2-gaming-monitor/
 **Stock:** Only a few left in stock

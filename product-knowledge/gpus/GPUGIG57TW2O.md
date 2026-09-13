@@ -1,6 +1,6 @@
 # Gigabyte NVIDIA GeForce RTX 5070 Ti WINDFORCE OC V2 16GB GDDR7 Graphics Card
 
-**Price:** NZD $2460.00 (incl. GST)
+**Price:** NZD $2,519.01 (incl. GST)
 **SKU:** GPUGIG57TW2O
 **URL:** https://www.extremepc.co.nz/csv-import/gigabyte-nvidia-geforce-rtx-5070-ti-windforce-oc-v2-16gb-gddr7-graphics-card-pcie-5-0-2-5-slot-1x-16-pin-power-minimum-750w-psu/
 **Stock:** Only a few left in stock

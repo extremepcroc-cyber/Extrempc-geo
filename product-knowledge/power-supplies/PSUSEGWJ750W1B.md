@@ -3,7 +3,7 @@
 **Price:** NZD $159.00 (incl. GST)
 **SKU:** PSUSEGWJ750W1B
 **URL:** https://www.extremepc.co.nz/segotep-wj750w-atx3-1-80-plus-gold-full-modular-power-supply-black/
-**Stock:** Only a few left in stock
+**Stock:** OUT OF STOCK (verified 2026-09-10, BC API inventory=0; Onehunga not available online)
 
 ## Quick Specs
 - Wattage: 750W

@@ -1,6 +1,6 @@
 # Colorful GeForce RTX 5060 Ti Gaming DUO 16GB-V Graphics Card
 
-**Price:** NZD $1294 (incl. GST)
+**Price:** NZD $1,322.50 (incl. GST, on sale from $1,379)
 **SKU:** GPUCOL56TGD16
 **Brand:** Colorful
 **MPN:** GeForce RTX 5060 Ti Gaming DUO 16GB-V

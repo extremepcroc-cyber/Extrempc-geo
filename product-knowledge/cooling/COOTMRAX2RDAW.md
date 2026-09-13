@@ -1,8 +1,8 @@
 # Thermalright Assassin X 120 R Digital ARGB CPU Air Cooler - White
 
-**Price:** NZD $0.00 (incl. GST) — verify with BC API
+**Price:** NZD $40.25 (incl. GST)
 **SKU:** COOTMRAX2RDAW
-**Stock:** In stock (verify with BC API)
+**Stock:** Plenty in stock (verified 2026-08-31, OH>0)
 
 ## Quick Specs
 - Type: Air Cooler

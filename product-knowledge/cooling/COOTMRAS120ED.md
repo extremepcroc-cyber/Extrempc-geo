@@ -1,6 +1,6 @@
 # Thermalright Assassin Spirit 120 EVO DARK CPU Air Cooler
 
-**Price:** NZD $65.0 (incl. GST)
+**Price:** NZD $48.30 (incl. GST) (on sale from $65.00)
 **SKU:** COOTMRAS120ED
 **URL:** https://www.extremepc.co.nz/thermalright-assassin-spirit-120-evo-dark-cpu-air-cooler/
 **Stock:** Plenty in stock

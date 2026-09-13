@@ -1,9 +1,9 @@
 # Gigabyte B650M GAMING WIFI AM5 DDR5 Micro-ATX Motherboard
 
-**Price:** NZD $212.0 (incl. GST)
+**Price:** NZD $184.00 (incl. GST) (on sale from $212.00)
 **SKU:** MBGIGB650MGWF
 **URL:** https://www.extremepc.co.nz/gigabyte-b650m-gaming-wifi-matx-am5-motherboard/
-**Stock:** Plenty in stock
+**Stock:** Only a few left in stock (OH=1, verified 2026-09-13, BC API; was OH=3 "Plenty" in 09-12 cache)
 
 ## Quick Specs
 - CPU Socket: AM5

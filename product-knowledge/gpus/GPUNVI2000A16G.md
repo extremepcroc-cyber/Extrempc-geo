@@ -3,7 +3,7 @@
 **Price:** NZD $1679.0 (incl. GST)
 **SKU:** GPUNVI2000A16G
 **URL:** https://www.extremepc.co.nz/nvidia-rtx-2000-ada-16gb-gddr6-ecc-workstation-graphics-card/
-**Stock:** Only a few left in stock
+**Stock:** OUT OF STOCK (verified 2026-09-10, BC API inventory=0; Onehunga not available online)
 
 ## Quick Specs
 - GPU: NVIDIA RTX 2000 Ada Generation

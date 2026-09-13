@@ -2,7 +2,7 @@
 
 **SKU:** SSDSAM990P2T
 **Brand:** Samsung
-**Price:** NZD $805.00 (incl. GST)
+**Price:** NZD $899.00 (incl. GST)
 **Status:** In Stock
 
 ## Quick Specs

@@ -1,6 +1,6 @@
 # Thermalright TB 650W 80 PLUS Bronze NON Modular Power Supply Black
 
-**Price:** NZD $90 (incl. GST)
+**Price:** NZD $97.75 (incl. GST, on sale from $109)
 **SKU:** PSUTMRTB650B
 **Brand:** Thermalright
 **MPN:** TR-TB650S

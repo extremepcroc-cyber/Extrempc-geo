@@ -1,9 +1,9 @@
 # PNY XLR8 16GB DDR4 3200Mhz Desktop UDIMM RAM
 
-**Price:** NZD $329.0 (incl. GST)
+**Price:** NZD $229.00 (incl. GST)
 **SKU:** RAMPNYX16D43
 **URL:** https://www.extremepc.co.nz/csv-import/pny-xlr8-16gb-ddr4-3200mhz-desktop-udimm-ram/
-**Stock:** Plenty in stock
+**Stock:** Plenty in stock (OH=38, verified 2026-09-12, BC API — 09-12 补货 4→38)
 
 ## Quick Specs
 - Type: DDR4

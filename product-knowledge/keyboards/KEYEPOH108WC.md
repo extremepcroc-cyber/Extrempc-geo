@@ -1,6 +1,6 @@
 # Epomaker HE108 Hot-Swappable RGB Wireless Mechanical Keyboard - White, Creamy Jade HE Switch, 108 Keys
 
-**Price:** NZD $279.00 (incl. GST)
+**Price:** NZD $189.00 (incl. GST) (on sale from $209.00)
 **SKU:** KEYEPOH108WC
 **URL:** https://www.extremepc.co.nz/wireless-gaming-keyboards/epomaker-he108-hot-swappable-rgb-wireless-mechanical-keyboard-white-creamy-jade-he-switch-108-keys/
 **Stock:** Only a few left in stock

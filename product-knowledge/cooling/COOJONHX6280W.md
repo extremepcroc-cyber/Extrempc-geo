@@ -1,6 +1,6 @@
 # Jonsbo HX6280 High Performance Air Cooler White
 
-**Price:** NZD $109.0 (incl. GST)
+**Price:** NZD $69.00 (incl. GST) (on sale from $109.00)
 **SKU:** COOJONHX6280W
 **URL:** https://www.extremepc.co.nz/jonsbo-hx6280-high-performance-air-cooler-white/
 **Stock:** Plenty in stock

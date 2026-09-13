@@ -2,7 +2,7 @@
 
 **SKU:** SSDWHANM1T
 **Brand:** Whalekom
-**Price:** NZD $269.00 (incl. GST)
+**Price:** NZD $249.00 (incl. GST) — on sale from NZD $299.00 (verified 2026-09-09)
 **Status:** In Stock
 
 ## Quick Specs

@@ -2,7 +2,7 @@
 
 **SKU:** HDSHYPCJBK (Black) / HDSHYPCJBU (Blue)
 **Brand:** HyperX
-**Price:** NZD $115.00 (incl. GST)
+**Price:** NZD $109.00 (incl. GST) (on sale from $138.00)
 **Status:** In Stock
 
 ## Quick Specs

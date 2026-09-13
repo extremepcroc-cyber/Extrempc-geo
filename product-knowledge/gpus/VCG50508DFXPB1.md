@@ -4,7 +4,7 @@
 **SKU:** GPUPNY55DF8
 **MPN:** VCG50508DFXPB1
 **URL:** https://www.extremepc.co.nz/pny-nvidia-geforce-rtx-5050-8gb-gddr6-dual-fan-graphics-card-pcie-5-0-2-slot-1x-8-pin-power-minimum-550w-psu/
-**Stock:** Only a few left in stock
+**Stock:** OUT OF STOCK (verified 2026-09-10, BC API inventory=0; Onehunga not available online)
 
 ## Quick Specs
 - GPU: NVIDIA GeForce RTX 5050 (Blackwell)

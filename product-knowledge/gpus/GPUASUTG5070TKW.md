@@ -1,6 +1,6 @@
 # ASUS TUF NVIDIA GeForce RTX 5070 Ti OC GAMING WHITE 16GB GDDR7 Graphics Card
 
-**Price:** NZD $2419.00 (incl. GST)
+**Price:** NZD $2,472.50 (incl. GST, on sale from $2,518.99) — BC API verified 2026-09-08 (was $2,419)
 **SKU:** GPUASUTG5070TKW
 **URL:** https://www.extremepc.co.nz/csv-import/asus-tuf-nvidia-geforce-rtx-5070-ti-oc-gaming-white-16gb-gddr7-graphics-card-pcie-5-0-3-1-slot-1x-16-pin-power-minimum-850w-psu-jghq/
 **Stock:** Only a few left in stock

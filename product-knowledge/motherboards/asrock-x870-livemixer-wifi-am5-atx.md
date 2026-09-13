@@ -2,7 +2,7 @@
 
 **SKU:** MBASRX870LM
 **Brand:** ASRock
-**Price:** NZD $600.00 (incl. GST)
+**Price:** NZD $598.99 (incl. GST)
 **Status:** In Stock
 
 ## Quick Specs

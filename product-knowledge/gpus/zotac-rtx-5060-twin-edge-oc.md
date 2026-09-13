@@ -1,8 +1,9 @@
 # Zotac NVIDIA GeForce RTX 5060 TWIN Edge OC 8GB GDDR7 Graphics Card
 
-**Price:** NZD $799.00 (incl. GST) — verify with BC API
+**Price:** — (out of stock; price unavailable)
+**Status:** OUT OF STOCK (verified 2026-08-31, all warehouses 0)
 **SKU:** ZT-B50600H-10M
-**Stock:** In stock (verify with BC API)
+**Stock:** Out of stock (verified 2026-08-31)
 
 ## Quick Specs
 - GPU: NVIDIA GeForce RTX 5060 (Blackwell)

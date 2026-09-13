@@ -1,6 +1,6 @@
 # Thermalright Phantom Spirit 120 SE Black CPU Air Cooler
 
-**Price:** NZD $92.00 (incl. GST)
+**Price:** NZD $99.00 (incl. GST)
 **SKU:** COOTMRPS120SEB
 **URL:** https://www.extremepc.co.nz/thermalright-phantom-spirit-120-se-black-cpu-cooler/
 **Stock:** We have plenty in stock

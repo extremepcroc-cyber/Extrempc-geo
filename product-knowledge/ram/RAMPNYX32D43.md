@@ -3,7 +3,7 @@
 **Price:** NZD $429.0 (incl. GST)
 **SKU:** RAMPNYX32D43
 **URL:** https://www.extremepc.co.nz/pny-xlr8-32gb-ddr4-2x-16gb-3200mhz-desktop-ram-kit/
-**Stock:** Plenty in stock
+**Stock:** Plenty in stock (OH=38, verified 2026-09-12, BC API)
 
 ## Quick Specs
 - Type: DDR4

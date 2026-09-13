@@ -3,6 +3,8 @@
 **SKU:** KEYEPOEA75BLR
 
 **Brand:** Epomaker
+**Price:** NZD $129.00 (incl. GST, on sale from $189) — BC API verified 2026-09-08
+**Status:** OUT OF STOCK (BC API verified 2026-09-08, inv=0; was in stock 2026-09-07, sold out by 2026-09-08)
 
 ## Quick Specs
 

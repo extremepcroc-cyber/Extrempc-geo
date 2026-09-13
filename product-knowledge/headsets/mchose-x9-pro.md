@@ -2,8 +2,8 @@
 
 **SKU:** HDSMCHX9PB (Black) / HDSMCHX9PR (Rose Red)
 **Brand:** MCHOSE
-**Price:** NZD $119.00 (Black) / $129.00 (Rose Red) (incl. GST)
-**Status:** In Stock
+**Price:** NZD $129.00 (incl. GST)
+**Status:** OUT OF STOCK (verified 2026-09-12, BC API OH=0, inv=0 — 黑色与玫瑰红 HDSMCHX9PR 均全仓售罄)
 
 ## Quick Specs
 

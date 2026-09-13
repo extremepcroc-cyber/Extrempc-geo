@@ -1,6 +1,6 @@
 # Gigabyte P650SS ICE White 650W ATX 3.1 ready 80 Plus Silver Power Supply
 
-**Price:** NZD $149.00 (incl. GST)
+**Price:** NZD $99.00 (incl. GST)
 **SKU:** PSUGIG650SSI
 **URL:** https://www.extremepc.co.nz/gigabyte-p650ss-ice-white-650w-atx-3-1-ready-80-plus-silver-power-supply-gp-p650/
 **Stock:** We have plenty in stock

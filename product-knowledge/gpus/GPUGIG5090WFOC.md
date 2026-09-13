@@ -3,7 +3,7 @@
 **Price:** NZD $7999.0 (incl. GST)
 **SKU:** GPUGIG5090WFOC
 **URL:** https://www.extremepc.co.nz/gigabyte-geforce-rtx-5090-windforce-oc-32gb-gddr7-graphics-card-gv-n5090wf3oc-32gd/
-**Stock:** Only a few left in stock
+**Stock:** OUT OF STOCK — not available online (verified 2026-09-10 — OH=0, hidden from storefront is_visible=false, 1 unit held in non-Onehunga warehouse only; not sellable online). Do NOT quote as in-stock; if asked, note it's hidden/restocking — call 09 849 4888.
 
 ## Quick Specs
 - GPU: NVIDIA GeForce RTX 5090 (Blackwell)

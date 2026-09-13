@@ -1,6 +1,6 @@
 # HP FX900 Plus 512GB Gen4x4 NVMe M.2 R/W 7100/3800 SSD
 
-**Price:** NZD $99.00 (incl. GST)
+**Price:** NZD $229.00 (incl. GST)
 **SKU:** SSDHPFX900P512
 **URL:** https://www.extremepc.co.nz/hp-fx900-plus-512gb-gen4x4-nvme-m-2-r-w-7100-3800-ssd-plus-for-pc-and-laptops/
 **Stock:** We have plenty in stock

@@ -3,7 +3,7 @@
 **Price:** NZD $119.0 (incl. GST)
 **SKU:** CASJOND200B
 **URL:** https://www.extremepc.co.nz/jonsbo-d200-matx-tempered-glass-micro-tower-case-black/
-**Stock:** Only a few left
+**Stock:** OUT OF STOCK (verified 2026-09-10, BC API inventory=0; Onehunga not available online)
 
 ## Quick Specs
 - Compatibility specs pending - check product page for details

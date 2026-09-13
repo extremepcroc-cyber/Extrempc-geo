@@ -1,6 +1,6 @@
 # Gigabyte X870 GAMING X WIFI7 AM5 ATX Motherboard
 
-**Price:** NZD $549.00 (incl. GST)
+**Price:** NZD $483.00 (incl. GST) (on sale from $549.00)
 **SKU:** MBGIGX870GXWF7
 **URL:** https://www.extremepc.co.nz/gigabyte-x870-gaming-x-wifi7-am5-atx-motherboard/
 **Stock:** We have plenty in stock

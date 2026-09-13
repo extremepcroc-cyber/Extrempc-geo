@@ -1,6 +1,6 @@
 # Segotep Nexus 1 Tempered Glass MATX Micro Tower Case White
 
-**Price:** NZD $89.0 (incl. GST)
+**Price:** NZD $74.75 (incl. GST) (on sale from $89.00)
 **SKU:** CASSEGBN1W
 **URL:** https://www.extremepc.co.nz/segotep-nexus-1-tempered-glass-matx-micro-tower-case-white/
 **Stock:** Only a few left

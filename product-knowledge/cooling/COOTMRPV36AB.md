@@ -1,8 +1,8 @@
 # Thermalright Peerless Vision 360 ARGB Black AIO Liquid CPU Cooler
 
-**Price:** NZD $0.00 (incl. GST) — verify with BC API
+**Price:** NZD $179.00 (incl. GST)
 **SKU:** COOTMRPV36AB
-**Stock:** In stock (verify with BC API)
+**Stock:** OUT OF STOCK (2026-09-10 — OH=0, 1 unit in non-Onehunga warehouse; not sellable online)
 
 ## Quick Specs
 - Type: AIO Liquid Cooler (360mm)

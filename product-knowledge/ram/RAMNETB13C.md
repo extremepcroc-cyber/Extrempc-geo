@@ -1,6 +1,6 @@
 # Netac Basic 16GB DDR4-3200 SoDIMM Laptop RAM
 
-**Price:** NZD $79.00 (incl. GST)
+**Price:** NZD $299.00 (incl. GST) — BC API verified 2026-09-05 (increased from $259)
 **SKU:** RAMNETB13C
 **URL:** https://www.extremepc.co.nz/netac-basic-16gb-ddr4-3200-sodimm-laptop-ram-ntbsd4n32sp-16/
 **Stock:** We have plenty in stock

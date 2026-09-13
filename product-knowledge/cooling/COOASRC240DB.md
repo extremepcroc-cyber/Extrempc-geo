@@ -1,6 +1,6 @@
 # ASROCK Challenger 240 Digital AIO Liquid CPU Cooler Black 90-ACLA24-BAAGA6
 
-**Price:** NZD $159.0 (incl. GST)
+**Price:** NZD $143.75 (incl. GST) (on sale from $159.00)
 **SKU:** COOASRC240DB
 **URL:** https://www.extremepc.co.nz/asrock-challenger-240-digital-aio-liquid-cpu-cooler-black-90-acla24-baaga6/
 **Stock:** Plenty in stock

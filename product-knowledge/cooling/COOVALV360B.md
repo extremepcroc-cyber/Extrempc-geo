@@ -3,7 +3,7 @@
 **Price:** NZD $399.0 (incl. GST)
 **SKU:** COOVALV360B
 **URL:** https://www.extremepc.co.nz/valkyrie-v360-lcd-360mm-aio-cpu-liquid-cooler-black/
-**Stock:** Only a few left
+**Stock:** OUT OF STOCK (verified 2026-09-07, BC API OH=0, all warehouses 0)
 
 ## Quick Specs
 - Type: AIO Liquid Cooler

@@ -2,7 +2,7 @@
 
 **SKU:** PSUSEGBN7505
 **Brand:** Segotep
-**Price:** NZD $86.25 (incl. GST)
+**Price:** NZD $129.00 (incl. GST)
 **Status:** In Stock
 
 ## Quick Specs

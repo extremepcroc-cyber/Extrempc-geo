@@ -1,6 +1,6 @@
 # Deepcool AK500S Digital CPU Air Cooler White
 
-**Price:** NZD $99.0 (incl. GST)
+**Price:** NZD $79.00 (incl. GST) (on sale from $99.00)
 **SKU:** COODEEK500SW
 **URL:** https://www.extremepc.co.nz/deepcool-ak500s-digital-cpu-air-cooler-white/
 **Stock:** Only a few left

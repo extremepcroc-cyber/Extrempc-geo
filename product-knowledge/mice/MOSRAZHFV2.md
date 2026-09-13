@@ -11,4 +11,4 @@
 - **Ergonomic:** No
 - **Gaming:** No
 
-**Status:** In Stock
+**Status:** OUT OF STOCK (verified 2026-09-14, BC API inventory=0; Onehunga not available online)

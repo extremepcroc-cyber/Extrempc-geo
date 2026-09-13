@@ -1,8 +1,8 @@
 # Thermalright Assassin X 120 Refined SE ARGB CPU Air Cooler
 
-**Price:** NZD $59.00 (incl. GST) — verify with BC API
+**Price:** NZD $41.40 (incl. GST)
 **SKU:** COOTMRAX120RSEA
-**Stock:** In stock (verify with BC API)
+**Stock:** Plenty in stock (verified 2026-08-31, OH>0)
 
 ## Quick Specs
 - Type: Air Cooler (Single Tower)

@@ -3,7 +3,7 @@
 **Price:** NZD $816.5 (incl. GST)
 **SKU:** GPUPOWR9060XT16
 **URL:** https://www.extremepc.co.nz/shop-all/powercolor-reaper-amd-radeon-rx-9060-xt-16gb-gddr6-graphics-card/
-**Stock:** Only a few left in stock
+**Status:** OUT OF STOCK — store stock depleted (BC API verified 2026-08-28: OH/WL/SL all 0, inventory_level 0; Supplier channel 9 units — may be restocked on order). Last seen in stock 2026-08-26 (OH=1).
 
 ## Quick Specs
 - GPU: AMD Radeon RX 9060 XT (RDNA 4)

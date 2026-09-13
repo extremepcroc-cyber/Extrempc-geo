@@ -1,8 +1,8 @@
 # Samsung Odyssey G5 27" QHD 180Hz 1ms Flat IPS Gaming Monitor
 
-**Price:** NZD $399.00 (incl. GST) — verify with BC API
+**Price:** NZD $339.00 (incl. GST)
 **SKU:** MONSAM27FG5
-**Stock:** In stock (verify with BC API)
+**Stock:** OUT OF STOCK (verified 2026-09-09, BC API OH=0, inv=0)
 
 ## Quick Specs
 - Panel Size: 27"

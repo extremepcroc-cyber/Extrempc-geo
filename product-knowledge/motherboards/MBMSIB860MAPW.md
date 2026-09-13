@@ -3,7 +3,7 @@
 **Price:** NZD $319.0 (incl. GST)
 **SKU:** MBMSIB860MAPW
 **URL:** https://www.extremepc.co.nz/intel-motherboards/msi-pro-b860m-a-wifi-intel-lga-1851-micro-atx-motherboard/
-**Stock:** Only a few left
+**Stock:** OUT OF STOCK (verified 2026-09-10, BC API inventory=0; Onehunga not available online)
 
 ## Quick Specs
 - Compatibility specs pending - check product page for details

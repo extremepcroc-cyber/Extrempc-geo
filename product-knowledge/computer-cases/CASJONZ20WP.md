@@ -1,9 +1,9 @@
 # Jonsbo Z20 Pink/White Portable M-ATX Tempered Glass Micro Tower Computer Case
 
-**Price:** NZD $149.01 (incl. GST)
+**Price:** NZD $138.00 (incl. GST) (on sale from $149.01)
 **SKU:** CASJONZ20WP
 **URL:** https://www.extremepc.co.nz/jonsbo-z20-pink-white-matx-mini-tower-gaming-case-with-detachable-carrying-handle-tempered-glass-cpu-cooler-support-upto-164mm-gpu-support-upto-363mm-4x-pci-slot-240mm-radiator-supported-front-i-o-1x-usb-3-2-1x-type-c-hd-audio/
-**Stock:** Plenty in stock
+**Stock:** Only a few left in stock (OH=1, verified 2026-09-12, BC API)
 
 ## Quick Specs
 - Max GPU Length: 363mm

@@ -1,6 +1,6 @@
 # Colorful B850M-A MEOW WIFI ORANGE AM5 mATX Motherboard
 
-**Price:** NZD $359.00 (incl. GST)
+**Price:** NZD $218.50 (incl. GST) (on sale from $239.00)
 **SKU:** MBCOLB85MAM
 **URL:** https://www.extremepc.co.nz/colorful-b850m-a-meow-wifi-orange-am5-matx-motherboard/
 **Stock:** We have plenty in stock

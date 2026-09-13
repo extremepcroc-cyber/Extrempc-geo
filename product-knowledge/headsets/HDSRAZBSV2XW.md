@@ -1,6 +1,6 @@
 # Razer BlackShark V2 X Wired Gaming Headset - White
 
-**Price:** NZD $89 (incl. GST)
+**Price:** NZD $79.00 (incl. GST) (on sale from $89.00)
 **SKU:** HDSRAZBSV2XW
 **Brand:** Razer
 **MPN:** RZ04-03240700-R3M1

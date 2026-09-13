@@ -1,6 +1,6 @@
 # Gigabyte B850M FORCE WIFI6E V2 MATX AMD Motherboard
 
-**Price:** NZD $279.0 (incl. GST)
+**Price:** NZD $253.00 (incl. GST) (on sale from $279.00)
 **SKU:** MBGIGB850MFW6V2
 **URL:** https://www.extremepc.co.nz/gigabyte-b850m-force-wifi6e-v2-matx-amd-motherboard/
 **Stock:** Plenty in stock

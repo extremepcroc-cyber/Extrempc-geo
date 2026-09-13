@@ -2,7 +2,7 @@
 
 **SKU:** COOJONC103PW
 **Brand:** Jonsbo
-**Price:** NZD $69.00 (incl. GST)
+**Price:** NZD $57.50 (incl. GST) (on sale from $69.00)
 **Status:** In Stock
 
 ## Quick Specs

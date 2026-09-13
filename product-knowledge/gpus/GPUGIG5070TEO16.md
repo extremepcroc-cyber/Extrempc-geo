@@ -1,6 +1,6 @@
 # Gigabyte GeForce RTX 5070 Ti EAGLE OC 16GB Graphics Card
 
-**Price:** NZD $2099.0 (incl. GST)
+**Price:** NZD $2,519.01 (incl. GST)
 **SKU:** GPUGIG5070TEO16
 **URL:** https://www.extremepc.co.nz/gigabyte-geforce-rtx-5070-ti-eagle-oc-16gb-graphics-card/
 **Stock:** Only a few left in stock

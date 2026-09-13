@@ -3,7 +3,7 @@
 **Price:** NZD $129.0 (incl. GST)
 **SKU:** COODEEL2402W
 **URL:** https://www.extremepc.co.nz/deepcool-le240-v2-white-240mm-argb-aio-liquid-cpu-cooler/
-**Stock:** Only a few left
+**Stock:** OUT OF STOCK (verified 2026-09-10, BC API inventory=0; Onehunga not available online)
 
 ## Quick Specs
 - Type: AIO Liquid Cooler

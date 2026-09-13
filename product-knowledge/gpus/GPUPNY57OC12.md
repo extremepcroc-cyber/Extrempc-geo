@@ -1,6 +1,6 @@
 # PNY NVIDIA GeForce RTX 5070 OC 12GB GDDR7 Graphics Card
 
-**Price:** NZD $1499.00 (incl. GST)
+**Price:** NZD $1,699.00 (incl. GST)
 **SKU:** GPUPNY57OC12
 **URL:** https://www.extremepc.co.nz/pny-nvidia-geforce-rtx-5070-oc-12gb-gddr7-graphics-card/
 **Stock:** Only a few left in stock

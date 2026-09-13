@@ -1,6 +1,6 @@
 # Colorful iGame GeForce RTX 5060 Ti Ultra W DUO OC 8GB-V Graphics Card
 
-**Price:** NZD $747.5 (incl. GST)
+**Price:** NZD $1,039.00 (incl. GST)
 **SKU:** GPUCOL56TUW8
 **URL:** https://www.extremepc.co.nz/colorful-igame-geforce-rtx-5060-ti-ultra-w-duo-oc-8gb-v-graphics-card/
 **Stock:** Plenty in stock

@@ -1,6 +1,6 @@
 # ASUS PRIME B860M-A WIFI-CSM Intel LGA 1851 Micro-ATX Motherboard
 
-**Price:** NZD $387.00 (incl. GST)
+**Price:** NZD $419.00 (incl. GST)
 **SKU:** MBASUPB860MAWF
 **MPN:** 90MB1JY0-M0UAYC
 **URL:** https://www.extremepc.co.nz/asus-prime-b860m-a-wifi-csm-intel-lga-1851-micro-atx-motherboard/

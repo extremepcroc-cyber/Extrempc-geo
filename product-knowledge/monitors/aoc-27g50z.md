@@ -2,8 +2,9 @@
 
 **SKU:** MONAOC27G50Z
 **Brand:** AOC
-**Price:** NZD $259.00 (incl. GST)
-**Status:** OUT OF STOCK — all store stock depleted (BC API verified 2026-08-26: OH/WL/SL/SU all 0, inventory_level 0).
+**Price:** NZD $249.00 (incl. GST) — on sale (list NZD $269.00)
+**URL:** https://www.extremepc.co.nz/aoc-27g50z-27-ips-1920x1080-0-3ms-hdmi-dp-260hz-monitor/
+**Status:** In Stock — back in stock (BC API verified 2026-08-28: OH=2, WL/SL/SU 0, inventory_level 2; "On Sale" flag active).
 
 ## Quick Specs
 

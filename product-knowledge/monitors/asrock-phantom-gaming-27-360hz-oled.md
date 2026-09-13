@@ -2,7 +2,7 @@
 
 **SKU:** MONASRPGO27QFV
 **Brand:** ASRock
-**Price:** NZD $1,207.50 (incl. GST)
+**Price:** NZD $989.00 (incl. GST) (on sale from $1,299.01)
 **Status:** In Stock
 
 ## Quick Specs

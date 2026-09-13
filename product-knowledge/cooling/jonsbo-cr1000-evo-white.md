@@ -2,7 +2,7 @@
 
 **SKU:** COOJONC1000EW
 **Brand:** Jonsbo
-**Price:** NZD $49.00 (incl. GST)
+**Price:** NZD $43.70 (incl. GST) (on sale from $49.00)
 **Status:** In Stock
 
 ## Quick Specs

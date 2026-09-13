@@ -3,7 +3,8 @@
 **Price:** NZD $1699.00 (incl. GST)
 **SKU:** GPUCOL5070V12
 **URL:** https://www.extremepc.co.nz/colorful-igame-geforce-rtx-5070-vulcan-oc-12gb-v-gddr7-graphics-card/
-**Stock:** Only a few left in stock
+**Stock:** Only a few left in stock (BC API verified 2026-09-04, inv=1, OH=1)
+**Status:** IN STOCK — restocked 2026-09-04 (BC API verified inv=1; was OOS since 2026-09-02)
 
 ## Quick Specs
 - GPU: NVIDIA GeForce RTX 5070 (Blackwell)

@@ -1,6 +1,6 @@
 # PNY NVIDIA GeForce RTX 5060 Ti OC 8GB GDDR7 Graphics Card
 
-**Price:** NZD $815.0 (incl. GST)
+**Price:** NZD $1,039.00 (incl. GST)
 **SKU:** GPUPNY56TO8
 **URL:** https://www.extremepc.co.nz/pny-nvidia-geforce-rtx-5060-ti-oc-8gb-gddr7-graphics-card-pcie-5-0-2-slot-1x-8-pin-power-minimum-600w-psu/
 **Stock:** Only a few left in stock

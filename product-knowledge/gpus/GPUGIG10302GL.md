@@ -1,8 +1,8 @@
 # Gigabyte GV-N1030D4-2GL GT1030 2GB PCIE Graphics Card Low Profile
 
-**Price:** NZD $0.00 (incl. GST) — verify with BC API
+**Price:** NZD $249.00 (incl. GST)
 **SKU:** GPUGIG10302GL
-**Stock:** In stock (verify with BC API)
+**Stock:** Only a few left in stock (verified 2026-08-31, OH>0)
 
 ## Quick Specs
 - GPU Chipset: NVIDIA GeForce GTX 1030

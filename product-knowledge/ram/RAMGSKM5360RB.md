@@ -1,9 +1,9 @@
 # G.SKILL Ripjaws M5 Neo RGB for AMD EXPO / XMP 32GB (2x16GB) 6000Mhz DDR5 Desktop Memory - Black
 
-**Price:** NZD $828.99 (incl. GST)
+**Price:** NZD $859.00 (incl. GST)
 **SKU:** RAMGSKM5360RB
 **URL:** https://www.extremepc.co.nz/g-skill-ripjaws-m5-neo-rgb-for-amd-expo-xmp-32gb-2x16gb-6000mhz-ddr5-desktop-memory-black/
-**Stock:** Only a few left in stock
+**Stock:** OUT OF STOCK (verified 2026-09-12, BC API OH=0, inv=0)
 
 ## Quick Specs
 - Type: DDR5

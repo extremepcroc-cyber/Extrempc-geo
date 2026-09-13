@@ -1,6 +1,6 @@
 # Jonsbo D200 MATX Tempered Glass Micro Tower Case - White
 
-**Price:** NZD $129.0 (incl. GST)
+**Price:** NZD $115.00 (incl. GST) (on sale from $129.00)
 **SKU:** CASJOND200W
 **URL:** https://www.extremepc.co.nz/jonsbo-d200-matx-tempered-glass-micro-tower-case-white/
 **Stock:** Plenty in stock

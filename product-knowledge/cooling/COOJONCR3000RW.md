@@ -3,7 +3,7 @@
 **Price:** NZD $89.0 (incl. GST)
 **SKU:** COOJONCR3000RW
 **URL:** https://www.extremepc.co.nz/jonsbo-cr-3000-argb-120mm-cpu-cooler-white/
-**Stock:** Only a few left
+**Stock:** OUT OF STOCK (verified 2026-09-10, BC API inventory=0; Onehunga not available online)
 
 ## Quick Specs
 - Type: Air Cooler

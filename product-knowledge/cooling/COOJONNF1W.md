@@ -1,8 +1,8 @@
 # Jonsbo NF-1 Dual 5020 Fans 4Pin PWM 5V 3Pin ARGB Memory Heat Sink - White
 
-**Price:** NZD $0.00 (incl. GST) — verify with BC API
+**Price:** NZD $17.25 (incl. GST)
 **SKU:** COOJONNF1W
-**Stock:** In stock (verify with BC API)
+**Stock:** Only a few left in stock (verified 2026-08-31, OH>0)
 
 ## Quick Specs
 - Type: M.2 SSD Heat Sink

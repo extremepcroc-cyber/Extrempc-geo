@@ -3,7 +3,7 @@
 **Price:** NZD $199.0 (incl. GST)
 **SKU:** CASJONV12W
 **URL:** https://www.extremepc.co.nz/jonsbo-v12-hyperbolic-glass-matx-micro-tower-case-white/
-**Stock:** Only a few left
+**Stock:** DELISTED (2026-09-10 — SKU gone from BC; no direct successor found, Jonsbo V-series line discontinued)
 
 ## Quick Specs
 - Max GPU Length: 260mm

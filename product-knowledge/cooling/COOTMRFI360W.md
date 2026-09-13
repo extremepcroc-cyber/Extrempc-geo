@@ -1,8 +1,8 @@
 # Thermalright Frozen Infinity 360 White AIO Liquid CPU Cooler
 
-**Price:** NZD $0.00 (incl. GST) — verify with BC API
+**Price:** NZD $143.75 (incl. GST)
 **SKU:** COOTMRFI360W
-**Stock:** In stock (verify with BC API)
+**Stock:** Plenty in stock (verified 2026-08-31, OH>0)
 
 ## Quick Specs
 - Type: AIO Liquid Cooler (360mm)

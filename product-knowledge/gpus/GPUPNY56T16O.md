@@ -3,7 +3,7 @@
 **Price:** NZD $1099.0 (incl. GST)
 **SKU:** GPUPNY56T16O
 **URL:** https://www.extremepc.co.nz/rtx-50-series/pny-nvidia-geforce-rtx-5060-ti-16gb-gddr7-graphics-card-pcie-5-0-2-slot-1x-8-pin-power-minimum-600w-psu/
-**Stock:** Only a few left in stock
+**Stock:** OUT OF STOCK (verified 2026-09-10, BC API inventory=0; Onehunga not available online)
 
 ## Quick Specs
 - GPU: NVIDIA GeForce RTX 5060 Ti (Blackwell)

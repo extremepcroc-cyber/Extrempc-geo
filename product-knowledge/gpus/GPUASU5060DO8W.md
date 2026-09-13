@@ -3,7 +3,7 @@
 **Price:** NZD $690.0 (incl. GST)
 **SKU:** GPUASU5060DO8W
 **URL:** https://www.extremepc.co.nz/asus-dual-nvidia-geforce-rtx-5060-oc-white-8gb-gddr7-graphics-card/
-**Stock:** Plenty in stock
+**Status:** OUT OF STOCK — store stock depleted (BC API verified 2026-08-28: OH/WL/SL all 0, inventory_level 0; Supplier channel 30 units — may be restocked on order). Last seen in stock 2026-08-26 (OH=1).
 
 ## Quick Specs
 - GPU: NVIDIA GeForce RTX 5060 (Blackwell)
