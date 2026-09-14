@@ -13,7 +13,7 @@ geo/
 ├── gaming-pcs/          ← Gaming PCs (ID:120 / 1373)
 ├── gaming-mice/         ← Gaming Mice (ID:513 / 1949)
 ├── gaming-keyboards/    ← Gaming Keyboards (ID:486)
-├── gaming-headsets/     ← Gaming Headsets (ID:476)
+├── gaming-headsets/     ← Gaming Headsets (ID:484)
 ├── monitors/            ← Monitors (ID:519)
 ├── video-cards/         ← GPU (ID:426 / 1426)
 ├── cpu-processors/      ← CPU (ID:364 / 1430)

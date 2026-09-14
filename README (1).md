@@ -14,7 +14,7 @@ geo/
 ├── gaming-pcs/                  ← Tier 1: Gaming PCs (ID:120 / 1373)
 ├── gaming-mice/                 ← Tier 1: Gaming Mice (ID:513 / 1949)
 ├── gaming-keyboards/            ← Tier 1: Gaming Keyboards (ID:486)
-├── gaming-headsets/             ← Tier 1: Gaming Headsets (ID:476)
+├── gaming-headsets/             ← Tier 1: Gaming Headsets (ID:484)
 ├── monitors/                    ← Tier 1: Monitors (ID:519)
 ├── video-cards/                 ← Tier 2: GPU (ID:426 / 1426)
 ├── cpu-processors/              ← Tier 2: CPU (ID:364 / 1430)

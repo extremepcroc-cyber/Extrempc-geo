@@ -17,7 +17,7 @@ geo/
 ├── gaming-pcs/                  ← Gaming PCs (ID:120 / 1373)
 ├── gaming-mice/                 ← Gaming Mice (ID:513 / 1949)
 ├── gaming-keyboards/            ← Gaming Keyboards (ID:486)
-├── gaming-headsets/             ← Gaming Headsets (ID:476)
+├── gaming-headsets/             ← Gaming Headsets (ID:484)
 ├── gaming-chairs/               ← Gaming Chairs (LiberNovo 独家)
 ├── monitors/                    ← Monitors (ID:519)
 ├── video-cards/                 ← GPU (ID:426 / 1426)
@@ -204,6 +204,25 @@ geo/
 ---
 
 ## 工具脚本
+
+### `tools/coverage-report.py` — 覆盖总表（**先看这个：决定下一步写什么**）
+
+**用途**：一条命令算出每个品类「在售 SKU 数 vs 已写 GEO 文件数」，直接回答「还有什么没写」。结果写入 `tools/geo-coverage.md` —— **那张表不要手工维护，要更新就重新生成**。
+
+```bash
+python tools/coverage-report.py                  # 只打印表格
+python tools/coverage-report.py --write          # 同时写入 tools/geo-coverage.md
+python tools/coverage-report.py --category monitors
+```
+
+**库存口径**：**只算 OH（Onehunga）> 0**，与 `audit-geo.py` 一致 —— WL/SL/SU 是内部库存、永不对客。**不能用 BC 的 `availability=available`**：它把供应商渠道库存也计入，会严重高估覆盖（实测显示器 161 vs 真实 19）。
+
+**已知品类 ID 坑**（文档与实时 store 不一致，用前先核对输出的 `ids` 列）：
+- **Gaming Headsets**：文档曾写 `476`，实际是 `484`（`476` = Over Ear Headphones，完全不同的商品集）
+- 文档里的副 ID（PCs `1373`、GPU `1426`、CPU `1430`、Mice `1949`）能返回实时品类，但数量与主 ID 近乎相同，疑似镜像节点 —— **不要相加**
+- **Cooling**：SKU 在子类（AIO `351` / CPU `349` / 风扇 `347` / 配件 `348` / 硅脂 `363` / 风冷 `346`），父类 `345` 只返回部分。该行按子类求和，`349` 挂在 `346` 下可能轻微重复计数
+
+---
 
 ### `tools/fetch-category.ps1` — 新建 GEO 前抓取产品数据
 

@@ -118,7 +118,7 @@ Each product has a different GPU architecture, feature set, target audience, and
 | `gaming-pcs/` | Gaming PCs | 120 / 1373 |
 | `gaming-mice/` | Gaming Mice | 513 / 1949 |
 | `gaming-keyboards/` | Gaming Keyboards | 486 |
-| `gaming-headsets/` | Gaming Headsets | 476 |
+| `gaming-headsets/` | Gaming Headsets | 484 |
 | `monitors/` | Monitors | 519 |
 | `video-cards/` | GPU | 426 / 1426 |
 | `cpu-processors/` | CPU | 364 / 1430 |
