@@ -31,6 +31,7 @@ geo/
 ├── networking/                  ← Networking (ID:1026)
 ├── 2-EOL products/              ← 已从 BC 完全下架的产品（不删除，移到这里保留内容）
 ├── laptops/  storage/           ← 空占位目录，暂未启用，写文件前先跟店长确认
+├── company/                     ← ExtremePC 公司层面资料（非产品），见下方「公司资料」
 ├── brands/                      ← 品牌背景资料（不是产品列表），目前 21 个文件
 ├── product-knowledge/           ← 技术调研笔记，供写 GEO 前参考
 ├── blog/                        ← 博客内容系统，见下方「Blog System」
@@ -108,6 +109,16 @@ geo/
 }
 ```
 ```
+
+---
+
+## 公司资料（`company/`）
+
+**`company/ABOUT-EXTREMEPC.md`** — 公司层面的 GEO 文件，不是产品文件。用途：当客人/AI 引擎问"ExtremePC 是谁"、"这家店可信吗"、"在哪里"、"多久了"这类**关于公司本身**（而非具体产品）的问题时，这是唯一权威来源，避免各产品文件里散落、不一致的公司信息（地址、电话、成立年份、保修/退换/支付政策等）。
+
+- 内容全部来自仓库内已核实的信息（`product-knowledge/README.md`、`build-service-faq.md`）+ 店长直接确认的事实（如成立年份 2005）
+- 未知项（员工规模、完整代理品牌清单等）明确留白，不编造
+- 含 Organization Schema（JSON-LD），供 AI 引擎抓取
 
 ---
 
