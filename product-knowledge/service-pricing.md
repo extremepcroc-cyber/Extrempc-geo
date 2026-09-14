@@ -30,7 +30,7 @@
 
 **备注：**
 - 这是新版价目表引入的**打包价**（组装 + OS 安装一口价），取代旧版"装机 $80/小时 + OS 安装另计"的拆分计价方式
-- ⚠️ 新版原始数据里这两行价格后面各跟着一串"44444"，不确定是什么（可能是表格复制时带出的单元格编号或占位符），已忽略未计入价格 — 如果这串数字有实际含义（比如内部工单编号规则），请告知
+- 新版原始数据里这两行价格后面各跟着一串"44444"，已跟店方确认是无意义的多余内容（表格复制带出的），未计入价格
 - 以上前提为配件在 ExtremePC 购买；客人自带零件（非本店购买）：人工费 $250 起（旧版规则，新表未提及，视为仍然有效）
 
 ---
@@ -52,7 +52,7 @@
 | General Hardware Installation Minimum Charge | $80 |
 | Cable tidy-up and management | $80 |
 
-**⚠️ Water Cooler Installation 价格存疑，需要店方确认范围：**
+**⚠️ Water Cooler Installation 价格仍然存疑，需要店方确认范围（截至本次更新未解决）：**
 - 旧版："水冷 / 复杂零件安装" $350–450（描述为"复杂程度浮动"）
 - 新版："Water Cooler Installation" $120
 - 这次按"取最高值"规则填了 **$450**，但两者很可能不是同一件事——旧版说的可能是定制分体水冷（custom loop），新版的 $120 更像是装一体式水冷（AIO）这种标准安装。如果新版 $120 就是指简单 AIO 安装，那这里不该套用旧版的 $450，会报价报太高吓跑客人；如果两者确实是同一档服务只是重新定价，那 $120 应该是当前有效价，$450 是过时数据。**这一条价格在有明确答案前，建议员工口头确认而不是让 EVA 直接报价。**
@@ -66,9 +66,9 @@
 | 服务项目 | 价格 |
 |---|---|
 | Windows Installation on Windows PC without backup | $150 |
-| Windows Installation on Mac without backup | $200 |
+| macOS Installation without backup | $200 |
 | Windows Installation on Windows PC with backup | $250 |
-| Windows Installation on Mac with backup | $320 |
+| macOS Installation with backup | $320 |
 | Data Transfer on Windows PC | $180 |
 | Data Transfer on Mac | $180 |
 | Clean Virus without backup | $300 |
@@ -76,9 +76,9 @@
 | Windows or driver update | $80 |
 
 **备注：**
-- 除 "Data Transfer" 和 "Windows Installation on Mac with backup" 两项按"取最高值"规则用了旧版数字外，其余均为新版价格
+- 除 "Data Transfer" 和 "macOS Installation with backup" 两项按"取最高值"规则用了旧版数字外，其余均为新版价格
 - **"额外备份"** 项目（Outlook、MYOB、邮件等特殊导出）旧版单独收费 $280（普通数据迁移 $180 + 额外内容加收），新版价目表没有这一档，暂时保留旧版 $280 作为"含额外备份的数据迁移"报价，无法确认是否已被新版取消或合并
-- ⚠️ **"Windows Installation on Mac" 是否等于旧版的"安装 macOS"，需要店方确认**：旧版服务是"在 Mac 上装 macOS 系统"；新版写的是"在 Mac 上装 Windows"（Boot Camp 类型）。这可能只是名称变了，也可能是**服务内容真的变了**（不再提供原生 macOS 安装，只帮 Mac 装 Windows）。这条直接影响 EVA 怎么回答"能帮我 Mac 重装系统吗"这类问题，建议先跟店方确认，确认前 EVA 遇到这类问题应转真人员工
+- 已跟店方确认：新表这一行原文写的是"Windows Installation on Mac"，但现代 Mac（Apple Silicon）已不支持装 Windows（Boot Camp 已停用），实际就是旧版的"安装 macOS"服务，新表标签写错了，已按 macOS 安装服务更正，不再是待确认项
 
 ---
 
@@ -101,6 +101,7 @@
 ## AI 客服使用指引
 
 - 报价时引用本表数字，不要自行估算
-- **Water Cooler Installation** 和 **Windows Installation on Mac** 两项范围不明确（见上方⚠️标注），遇到客人问这两项，先说"需要跟店内确认一下具体范围，我帮你转给同事"，不要直接报价
+- **Water Cooler Installation** 范围仍不明确（见上方⚠️标注），遇到客人问这项，先说"需要跟店内确认一下具体范围，我帮你转给同事"，不要直接报价
+- Mac 相关系统安装：只提供 **macOS 安装**服务，不提供在 Mac 上装 Windows（现代 Apple Silicon Mac 已不支持 Boot Camp）——客人问"能不能在 Mac 上装 Windows"时明确告知不支持
 - 涉及范围模糊的情况（如"我有很多 MYOB 文件"）→ 告知客人转给真人员工确认
 - 笔记本维修：先说"需要检测后才能给准确报价"，再提供参考区间

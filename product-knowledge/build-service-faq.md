@@ -21,9 +21,10 @@
 - 理线：$80
 
 **系统安装（OS Install，单独安装，不含组装）**
-- Windows 不备份：$150 / 装 Windows 到 Mac（Boot Camp）不备份：$200
-- Windows 含备份：$250 / 装 Windows 到 Mac 含备份：$320
+- Windows 不备份：$150 / macOS 不备份：$200
+- Windows 含备份：$250 / macOS 含备份：$320
 - 含额外备份（Outlook、MYOB、邮件）：$380（旧版数据，新表未提及此档，暂按旧版处理）
+- ⚠️ Mac 只提供 macOS 安装，**不提供在 Mac 上装 Windows**（Apple Silicon Mac 已不支持 Boot Camp）
 
 **数据迁移（故障 PC → 新 PC）**
 - 普通文件迁移：$180
