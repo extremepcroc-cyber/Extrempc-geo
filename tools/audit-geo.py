@@ -228,8 +228,14 @@ def get_oh(custom_fields: list) -> int:
 # --- Auto-apply helpers ---
 
 def _apply_price(text: str, new_price: float) -> str:
-    """Update **Price:** line and Schema "price" field."""
-    formatted = f"{new_price:,.2f}"
+    """
+    Update **Price:** line and Schema "price" field.
+    Price field uses CLAUDE.md's canonical format (plain integer, no
+    thousands separator, no decimals) — every price this tool writes
+    counts as "edited going forward" under that rule, regardless of
+    whatever format the file previously used.
+    """
+    formatted = f"{round(new_price)}"
     # **Price:** field
     text = re.sub(
         r'(\*\*Price:\*\*\s+)\$[0-9,]+(?:\.[0-9]{1,2})?',

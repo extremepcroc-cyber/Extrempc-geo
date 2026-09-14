@@ -65,6 +65,8 @@ Every product file must follow this exact structure and section order:
 
 **Required fields**: `Price`, `SKU`, `MPN`, `URL`, `Quick Specs`, `Selling Points`, `Ideal For`, `Why Buy From ExtremePC`, `Comparison`, `FAQ`, `Schema`. Use `TBC` if unknown.
 
+**Price field format: plain integer, no thousands separator, no decimals** — `**Price:** $2399 inc GST`, not `$2,399.00 inc GST`. This is the canonical format as of 2026-09-15; roughly half of existing files still use the old comma+decimal format from before this was written down — leave those as-is unless you're specifically asked to normalize them, but every new file and every price you edit going forward uses the plain-integer format. (`Schema.offers.price` is unaffected by this rule — keep it as a decimal string, e.g. `"2399.00"`, since that's what structured data / JSON-LD expects.)
+
 **GEO depth standards (apply to every field):**
 - **Concrete numbers** — replace adjectives with parameters, certifications, test data
 - **Scenarios** — specify use case, duration, environment, user type
