@@ -1,6 +1,6 @@
 # Palit GeForce RTX 5070 White OC 12GB GDDR7 Graphics Card
 
-**Price:** NZD $1,679.00 (incl. GST, on sale)
+**Price:** NZD $1,839.00 (incl. GST, list) — BC API verified 2026-09-15 (was $1,679.00 on 2026-09-14; price increased)
 **SKU:** GPUPAL57W12
 **URL:** https://extremepc.co.nz/nvidia-geforce/palit-geforce-rtx-5070-white-oc-12gb-gddr7-graphics-card-ne75070u19k9-gb2050w/
 **Stock:** We have plenty in stock

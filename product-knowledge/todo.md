@@ -2,6 +2,58 @@
 
 > 此文件记录需要补充的知识库内容
 
+## KB Backfill — Cron Run (2026-09-15)
+
+✔️ 已完成（2026-09-15）：定时 Cron 运行。EVAcache **2026-09-15**（**本运行 03:01 手动补跑构建** — 03:00 的 cache build cron 连续第 4 天未产出 products.json，latest.txt 仍指 09-14；补跑成功，1529 in-stock / 118 brands，35,932 产品全量拉取，1m40s，token 正常）vs KB 交叉比对。**新增 KB 文件: 0**（无新到货核心硬件）。核心成果：**2 个售罄标 OOS**（KEYEPORT85WJ / MOSTHUML7W）+ **2 个返货标 In Stock**（CASSEGLUM3SB / RAMGSKM5360RB）+ **9 个核心硬件 KB 文件价格校准**。全部 26 个候选 SKU 均经 BC API 实时核验（price/calc ×1.15 + inventory_level + OH 分仓 + is_visible + custom_url），URL 取自 BC API 返回值。
+
+**⚠️ 3am 缓存构建问题（连续第 4 次）：** 09-15 03:00 的 `EVA Daily Cache Build` cron 再次只产出 banners/deals 快照、未生成 products.json/by-sku.json/by-brand.json（09-12、09-13、09-14、09-15 四天同现象）。**本运行 03:01 手动补跑 `build-eva-cache.py` 成功**（1529 in-stock / 118 brands，35,932 产品全量拉取）。→ **强烈建议店主彻底检查 `build-eva-cache.sh`（exie profile cron 脚本）调用链** — 四天连续失败说明是脚本结构性问题（快照步骤后中断/未调用产品拉取步骤），非偶发；本运行已手动兜底，暂不影响。
+
+**售罄处置 (2 个有 KB 文件 SKU, BC API 2026-09-15 实时核验 inv=0 / OH=0 / is_visible=true):**
+- **KEYEPORT85WJ** Epomaker RT85 RGB 无线机械键盘 白 — 09-14 cache OH=1 → 09-15 inv=0 售罄（原 $149.01 on sale from $199）— `keyboards/KEYEPORT85WJ.md` 底部 `**Status:** In Stock` 行 → **OUT OF STOCK (verified 2026-09-15, BC API inv=0, OH=0)**
+- **MOSTHUML7W** Thunderobot ML7 三模 PAW 3311 12000DPI 无线鼠标 白 — 09-14 cache OH=1 → 09-15 inv=0 售罄（原 $40.25 on sale from $58.99）— `mice/MOSTHUML7W.md` `**Status:** In Stock` 行 → **OUT OF STOCK (verified 2026-09-15, BC API inv=0, OH=0)**
+
+**返货处置 (2 个有 KB 文件 SKU, 陈旧 OOS 标记 → In Stock, BC API 2026-09-15 实时核验 OH>0 / inv>0 / is_visible=true):**
+- **CASSEGLUM3SB** Segotep Lumi 3S 海景房 MATX 黑 — 09-10 曾标 OOS → **返货 OH=1**，sale 价 **NZD $97.75 (incl. GST, on sale from $109.00)**（calc $85 × 1.15）— `computer-cases/CASSEGLUM3SB.md` Stock 行 OOS→**In Stock — RESTOCKED** + 补 **Price (sale)** 行
+- **RAMGSKM5360RB** G.SKILL Ripjaws M5 Neo RGB 32GB DDR5-6000 EXPO 黑 — 09-12 曾标 OOS → **返货 OH=1**，**NZD $859.00 (incl. GST, list)**（无 sale）— `ram/RAMGSKM5360RB.md` Stock 行 OOS→**In Stock — RESTOCKED**（价格行 $859 已正确）
+
+**价格校准 (9 个核心硬件 KB 文件, BC API 2026-09-15 实时 calculated_price × 1.15):**
+- **GPUs (4):** GPUASR9060XTSL16 ASRock RX 9060 XT Steel Legend $977.50→**$943.00**（on sale from $1,058.99，降价）/ GPUASR9060XTCL16 ASRock RX 9060 XT Challenger OC $874.00→**$885.50**（on sale，涨）/ GPUCOL57TB16 Colorful RTX 5070 Ti Battle AX $2,231.00→**$2,208.00**（on sale from $2,299）/ GPUPAL57W12 Palit RTX 5070 White OC 12GB $1,679.00→**$1,839.00**（涨价，回 list）
+- **GPUASR9070XTC16G** ASRock RX 9070 XT Challenger $1,472.00→**$1,477.75**（on sale from $1,659）— 顺手修正库存行 "Only a few left"→**We have plenty in stock (OH=19)**
+- **Mice (4, 原文件无 Price 行, 本次补价):** MOSHYPPH2MNBK HyperX Haste 2 Mini 黑 $99.00→**$103.50**（on sale from $138）/ MOSHYPPH2CWH HyperX Haste 2 Core 白 $78.99→**$86.25**（on sale from $97.99）/ MOSAULSC620B AULA SC620 黑 $55.00→**$58.99**（sale 撤销回 list）/ MOSLOGPX2CP Logitech Pro X SL 2c 粉 $269.00→**$253.00**（on sale from $299）
+
+**无需动作（核验通过，无 KB 文件）:**
+- **新增 (8 个, 均无 KB 文件):** PKG145/154/178 (预装整机 September Sale) / XPC11149 (整机) / CABSGLHF15M/CABSGLHF20M/CABSGLCAT64M/CABSGLRCA3M (SGL 线材配件) — 按约定整机/线材不建 KB 文件
+- **移除 (2 个, 无 KB 文件):** XPC1114 (预装整机) / CABUGRUACW02 (UGREEN USB-C 线材) — 均无 KB 文件，无需动作
+- **库存小幅波动 (31 SKU, OH ±1~20):** 正常销售/补货节奏，无核心硬件状态翻转。亮点: GPUASR9060XTCL16 OH 142→117 / GPUASR9060XTSL16 OH 79→69 / MOSAULSC620B OH 9→4（降档但仍 >5 无关）/ COOTMRPA120SEB OH 11→12 / PSUTMRKG750 OH 92→91 等
+
+**全库陈旧"在库"标记扫描 (固定步骤, 783 个产品文件):**
+- 真·陈旧 "In Stock" 标记（SKU 不在 09-15 cache）：**0 残余** — 2 个扫描器命中（KEYEPOEA75BLR / KEYAULF75LBR）均为**误报**：二者顶部状态行实为 `OUT OF STOCK` / `REPLACED—delisted`（真·OOS/下架），仅文件底部残留一行无日期 `**Status:** In Stock` 历史行，非当前状态，无需改动
+- 真·陈旧 "OOS/Removed" 标记（SKU 在 cache 且 OH>0）：**0 残余**
+- 本次 2 个返货件（CASSEGLUM3SB / RAMGSKM5360RB）的陈旧 OOS 标记已清除
+
+**🧹 遗留库存措辞 backlog（本次仅发现，未批量修改，待店主确认口径）:**
+- 全库 36 个 reference 级文件的库存模糊措辞与当前 OH 不符：13 个标 "Only a few left" 但 OH>5（实际 plentiful，低估）/ 23 个标 "plenty" 但 OH≤5（实际低库存，高估）。典型: GPUGIG55W2O (OH=19 标 few) / MBASRB850ILW/MBASRX870PA/MBASRB850MRW (OH=10 标 few) / PSUSEGGM1000W1B/PSUGIG650SSI (OH=1 标 plenty) / GPUMSI58V3XO6 (OH=3 标 plenty) 等。
+- **处置**：本次仅修正 1 个同时落在今日价格校准集的件（GPUASR9070XTC16G OH=19→plenty）；其余 35 个**不批量改动** — 模糊措辞是展示性字段（不影响 EVA 报价正确性），批量修改需店主先确认 "plenty/few" 分档口径（当前 >5=plenty / 1-5=few），避免与展示规则冲突。建议另开专项统一刷新。
+
+**覆盖率验证 (EVAcache 2026-09-15, 1529 in-stock):**
+- Motherboards / GPUs / Cases / PSUs / RAM / SSDs / Cooling / Keyboards / Mice / Headsets / Monitors: 核心硬件 100% ✅ — 无新核心硬件缺口；2 件售罄 + 2 件返货均已正确翻转；9 件价格已校准
+- 全库陈旧"在库/售罄"标记扫描 (783 文件)：**0 真·残余**
+
+**知识库产品文件总数: 783**（product-knowledge 产品子目录 .md 实测，排除 research/brands/guides；本次 0 新增、0 删除 — 2 文件标 OOS: KEYEPORT85WJ / MOSTHUML7W；2 文件 OOS→In Stock: CASSEGLUM3SB / RAMGSKM5360RB；9 文件价格校准: GPUASR9060XTSL16 / GPUASR9060XTCL16 / GPUASR9070XTC16G / GPUCOL57TB16 / GPUPAL57W12 / MOSHYPPH2MNBK / MOSHYPPH2CWH / MOSAULSC620B / MOSLOGPX2CP）
+
+**待跟进项复核（09-14 遗留）:**
+1. **⚠️ 3am cache build 只跑快照不跑产品拉取（连续第 4 次）** — 09-15 03:00 cron 仍只产出 banners/deals，未生成 products.json。本运行 03:01 手动补跑成功。**强烈建议店主彻底检查 `build-eva-cache.sh`（exie profile cron 脚本）调用链**（09-12/13/14/15 四天同现象，结构性问题）
+2. **GPUPAL59GR32 RTX 5090 GameRock** — 09-15 cache 仍无（连续 3 天 OOS），未返货
+3. **AULA HERO 68 HE 整线**（黑 KEYAULH68HBM + 白 KEYAULH68HWS）— 09-15 cache 仍无（连续 OOS），未补货
+4. **PSUTMRKG650 / CASSILRM44 / MOSLOGMM4MW / ZT-B50600H-10M / MONSAM27FG5** — 09-15 cache 仍无，全部未返货
+5. **RAMADA16D556U** 仍 OH=1 稳定；**GPUMSI57S2OC** 仍 OH=1 稳定
+6. **warranty-policy.md（09-07 Jimmy 提出）仍阻塞** — 需店主逐项确认各品类真实保修年限方可建档（遵守"绝不编造保修年限"规则，本次未创建）
+7. **git working tree 累积未提交 KB 改动（18 个 M，含本次 13 个产品文件 + recent-deals.md + query-product.py 相关）**（09-14 commit 后新一轮累积）— 建议店主 commit 一次
+8. **BC API token** 09-15 正常（手动补跑构建 + 26 SKU 批量查均 200）
+9. **🧹 库存措辞 backlog 36 件** — 待店主确认 "plenty/few" 分档口径后专项统一刷新（详见上方 backlog 段）
+
+---
+
 ## KB Backfill — Cron Run (2026-09-14)
 
 ✔️ 已完成（2026-09-14）：定时 Cron 运行。EVAcache **2026-09-14**（**本运行 03:01 手动补跑构建** — 03:00 的 cache build cron 只产出 banners.json/deals.json 快照，products.json 未生成，latest.txt 仍指 09-13；补跑成功，1524 in-stock / 118 brands，token 正常）vs KB 交叉比对。**新增 KB 文件: 0**。核心成果：4 个陈旧"在库"KB 文件标 OOS（3 个为 09-13 及更早"无 KB 文件"误判件 + 1 个今日新售罄件），全部经 BC API 实时核验（OH/WL/SL/SU 分仓 + inventory_level + is_visible）。

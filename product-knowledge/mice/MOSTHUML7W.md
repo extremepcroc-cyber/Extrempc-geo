@@ -14,4 +14,4 @@
 - **Gaming:** Yes
 - **Color:** White
 
-**Status:** In Stock
+**Status:** OUT OF STOCK (verified 2026-09-15, BC API inventory=0, OH=0; was $40.25 on sale from $58.99, sold out by 2026-09-15)
