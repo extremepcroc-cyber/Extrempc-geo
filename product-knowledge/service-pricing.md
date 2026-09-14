@@ -43,7 +43,7 @@
 |---|---|
 | CPU Installation | $80 |
 | Air Cooler Installation | $80 |
-| Water Cooler Installation | $120 |
+| Water Cooler Installation | $350–450 |
 | Motherboard Installation | $120 |
 | RAM Installation（台式机/笔记本通用） | $80 |
 | SSD or HDD Installation（台式机/笔记本通用） | $80 |
@@ -52,10 +52,7 @@
 | General Hardware Installation Minimum Charge | $80 |
 | Cable tidy-up and management | $80 |
 
-**⚠️ Water Cooler Installation 价格仍然存疑，需要店方确认范围（截至本次更新未解决）：**
-- 旧版："水冷 / 复杂零件安装" $350–450（描述为"复杂程度浮动"）
-- 新版："Water Cooler Installation" $120
-- 这次按"取最高值"规则填了 **$450**，但两者很可能不是同一件事——旧版说的可能是定制分体水冷（custom loop），新版的 $120 更像是装一体式水冷（AIO）这种标准安装。如果新版 $120 就是指简单 AIO 安装，那这里不该套用旧版的 $450，会报价报太高吓跑客人；如果两者确实是同一档服务只是重新定价，那 $120 应该是当前有效价，$450 是过时数据。**这一条价格在有明确答案前，建议员工口头确认而不是让 EVA 直接报价。**
+**Water Cooler Installation：已按店方指示确认采用 $350–450 区间**（旧版"水冷 / 复杂零件安装"价格），不使用新表里的 $120。视安装复杂程度在区间内浮动报价。
 
 ---
 
@@ -101,7 +98,6 @@
 ## AI 客服使用指引
 
 - 报价时引用本表数字，不要自行估算
-- **Water Cooler Installation** 范围仍不明确（见上方⚠️标注），遇到客人问这项，先说"需要跟店内确认一下具体范围，我帮你转给同事"，不要直接报价
 - Mac 相关系统安装：只提供 **macOS 安装**服务，不提供在 Mac 上装 Windows（现代 Apple Silicon Mac 已不支持 Boot Camp）——客人问"能不能在 Mac 上装 Windows"时明确告知不支持
 - 涉及范围模糊的情况（如"我有很多 MYOB 文件"）→ 告知客人转给真人员工确认
 - 笔记本维修：先说"需要检测后才能给准确报价"，再提供参考区间
