@@ -1,6 +1,6 @@
 ﻿# LiberNovo Omni SE Smart Dynamic Ergonomic Chair — Seat Depth 45cm, Obsidian Black
 
-**Price:** $1,699.00 inc GST
+**Price:** $1699 inc GST
 **SKU:** GAMLIBSE45B
 **MPN:** CP-GW-100074-00-03
 **URL:** https://www.extremepc.co.nz/gaming-chairs/libernovo-omni-se-dynamic-ergonomic-chair-seat-depth-45cm-obsidian-black/

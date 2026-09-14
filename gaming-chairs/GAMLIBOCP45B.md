@@ -1,6 +1,6 @@
 ﻿# LiberNovo Omni Pro Smart Dynamic Ergonomic Chair — Seat Depth 45cm, Midnight Black
 
-**Price:** $2,399.00 inc GST
+**Price:** $2399 inc GST
 **SKU:** GAMLIBOCP45B
 **MPN:** CP-GW-0000077-00-05
 **URL:** https://www.extremepc.co.nz/gaming-chairs/libernovo-omni-pro-smart-dynamic-ergonomic-chair-seat-depth-45cm-midnight-black/
