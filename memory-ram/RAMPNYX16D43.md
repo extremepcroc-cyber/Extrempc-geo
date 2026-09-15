@@ -1,6 +1,6 @@
 # PNY XLR8 16GB DDR4-3200 CL16 Desktop Memory — Single Stick (MD16GD4320016LP)
 
-**Price:** $199.00 inc GST
+**Price:** $229 inc GST
 **SKU:** RAMPNYX16D43
 **MPN:** MD16GD4320016LP
 **URL:** https://www.extremepc.co.nz/csv-import/pny-xlr8-16gb-ddr4-3200mhz-desktop-udimm-ram/
@@ -95,7 +95,7 @@
   },
   "offers": {
     "@type": "Offer",
-    "price": "199.00",
+    "price": "229.00",
     "priceCurrency": "NZD",
     "availability": "https://schema.org/InStock",
     "url": "https://www.extremepc.co.nz/csv-import/pny-xlr8-16gb-ddr4-3200mhz-desktop-udimm-ram/",

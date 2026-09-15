@@ -1,6 +1,6 @@
 # FGG MAD68 HE Flagship V2 RGB Hot-Swappable Wired Mechanical Gaming Keyboard — Black, Magneto Gaming Switch, 68 Keys
 
-**Price:** $99 inc GST
+**Price:** $129 inc GST
 **SKU:** KEYFGGM68FBM
 **MPN:** MAD 68 HE flagship V2
 **URL:** https://www.extremepc.co.nz/fgg-mad68-he-flagship-v2-wired-mechanical-gaming-keyboard-black-magneto-gaming-switch-68-keys/
@@ -93,7 +93,7 @@
   },
   "offers": {
     "@type": "Offer",
-    "price": "99.00",
+    "price": "129.00",
     "priceCurrency": "NZD",
     "availability": "https://schema.org/InStock",
     "url": "https://www.extremepc.co.nz/fgg-mad68-he-flagship-v2-wired-mechanical-gaming-keyboard-black-magneto-gaming-switch-68-keys/",

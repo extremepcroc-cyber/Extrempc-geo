@@ -1,6 +1,6 @@
 # Machenike K500F-B94 RGB Hot Swap Wireless Mechanical Keyboard — White, GR Crystal Tactile Switch, 94 Keys
 
-**Price:** $109.25 inc GST
+**Price:** $129 inc GST
 **SKU:** KEYMACK500FB94WC
 **MPN:** K500F-B94 Crystal
 **URL:** https://www.extremepc.co.nz/machenike-k500f-b94-rgb-hot-swap-wireless-mechanical-keyboard-white-94-key-gr-crystal-tactile-switch/
@@ -92,7 +92,7 @@
   },
   "offers": {
     "@type": "Offer",
-    "price": "109.25",
+    "price": "129.00",
     "priceCurrency": "NZD",
     "availability": "https://schema.org/InStock",
     "url": "https://www.extremepc.co.nz/machenike-k500f-b94-rgb-hot-swap-wireless-mechanical-keyboard-white-94-key-gr-crystal-tactile-switch/",

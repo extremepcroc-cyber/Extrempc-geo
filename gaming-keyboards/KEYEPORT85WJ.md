@@ -1,9 +1,10 @@
 # Epomaker RT85 RGB Hot-Swappable Wireless Mechanical Keyboard — White Grey, Creamy Jade Switch, 82 Keys
 
-**Price:** $149 inc GST
+**Price:** $199 inc GST
 **SKU:** KEYEPORT85WJ
 **MPN:** RT85 White Grey Creamy Jade
 **URL:** https://www.extremepc.co.nz/epomaker-rt85-rgb-hot-swappable-wireless-mechanical-keyboard-white-grey-creamy-jade-switch-82-keys/
+**Status:** OUT OF STOCK - last checked 2026-09-15
 
 ## Quick Specs
 - **Layout**: 82 keys, compact TKL — full F-row, arrow cluster, function block, no numpad
@@ -92,9 +93,9 @@
   },
   "offers": {
     "@type": "Offer",
-    "price": "149.00",
+    "price": "199.00",
     "priceCurrency": "NZD",
-    "availability": "https://schema.org/InStock",
+    "availability": "https://schema.org/OutOfStock",
     "url": "https://www.extremepc.co.nz/epomaker-rt85-rgb-hot-swappable-wireless-mechanical-keyboard-white-grey-creamy-jade-switch-82-keys/",
     "seller": {
       "@type": "Organization",

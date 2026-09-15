@@ -1,6 +1,6 @@
 # Epomaker G84 HE Hot-Swappable RGB Wireless Mechanical Keyboard — White, Creamy Jade HE Switch, 84 Keys
 
-**Price:** $179 inc GST
+**Price:** $199 inc GST
 **SKU:** KEYEPOG84HWJ
 **MPN:** G84 HE White CJ
 **URL:** https://www.extremepc.co.nz/wireless-gaming-keyboards/epomaker-g84-he-hot-swappable-rgb-wireless-mechanical-keyboard-white-creamy-jade-switch-84-keys-g84-he-white-blue-dm/
@@ -90,7 +90,7 @@
   },
   "offers": {
     "@type": "Offer",
-    "price": "179.00",
+    "price": "199.00",
     "priceCurrency": "NZD",
     "availability": "https://schema.org/InStock",
     "url": "https://www.extremepc.co.nz/wireless-gaming-keyboards/epomaker-g84-he-hot-swappable-rgb-wireless-mechanical-keyboard-white-creamy-jade-switch-84-keys-g84-he-white-blue-dm/",

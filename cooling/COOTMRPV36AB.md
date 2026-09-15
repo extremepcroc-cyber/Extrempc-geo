@@ -4,6 +4,7 @@
 **SKU:** COOTMRPV36AB
 **MPN:** Peerless Vision 360 ARGB Black
 **URL:** https://www.extremepc.co.nz/thermalright-peerless-vision-360-argb-black-aio-liquid-cpu-cooler/
+**Status:** OUT OF STOCK - last checked 2026-09-15
 
 ## Quick Specs
 - Type: AIO Liquid Cooler (360mm radiator)
@@ -83,7 +84,7 @@ vs Thermalright Rainbow Vision 360 Turbo Black — the Rainbow Vision sits a tie
     "@type": "Offer",
     "price": "179",
     "priceCurrency": "NZD",
-    "availability": "https://schema.org/InStock",
+    "availability": "https://schema.org/OutOfStock",
     "seller": {
       "@type": "Organization",
       "name": "ExtremePC",

@@ -1,6 +1,6 @@
 # Razer Kiyo V2 X Full HD 1080p 60 FPS Webcam — Black
 
-**Price:** $150.65 inc GST
+**Price:** $189 inc GST
 **SKU:** WEBRAZKV2XB
 **URL:** https://www.extremepc.co.nz/razer-kiyo-v2-x-fhd-1080p-60-fps-webcam-black/
 
@@ -84,7 +84,7 @@
   },
   "offers": {
     "@type": "Offer",
-    "price": "150.65",
+    "price": "189.00",
     "priceCurrency": "NZD",
     "availability": "https://schema.org/InStock",
     "url": "https://www.extremepc.co.nz/razer-kiyo-v2-x-fhd-1080p-60-fps-webcam-black/",

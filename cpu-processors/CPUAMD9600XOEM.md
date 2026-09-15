@@ -4,7 +4,6 @@
 **SKU:** CPUAMD9600XOEM
 **MPN:** 100-000001405
 **URL:** https://www.extremepc.co.nz/amd-ryzen-5-9600x-cpu-6-core-12-thread-am5-socket-oem-without-cooler/
-**Status:** OUT OF STOCK - last checked 2026-08-25
 
 ## Quick Specs
 - **Architecture**: Zen 5, 4nm TSMC process (current-generation AMD)
@@ -107,7 +106,7 @@
     "@type": "Offer",
     "price": "419.00",
     "priceCurrency": "NZD",
-    "availability": "https://schema.org/OutOfStock",
+    "availability": "https://schema.org/InStock",
     "url": "https://www.extremepc.co.nz/amd-ryzen-5-9600x-cpu-6-core-12-thread-am5-socket-oem-without-cooler/",
     "seller": {
       "@type": "Organization",

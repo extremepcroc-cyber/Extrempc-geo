@@ -1,6 +1,6 @@
 # Razer Kiyo V2 4K 30 FPS Webcam — Black
 
-**Price:** $249.00 inc GST
+**Price:** $299 inc GST
 **SKU:** WEBRAZKV2B
 **URL:** https://www.extremepc.co.nz/razer-kiyo-v2-4k-30-fps-webcam-black/
 
@@ -84,7 +84,7 @@
   },
   "offers": {
     "@type": "Offer",
-    "price": "249.00",
+    "price": "299.00",
     "priceCurrency": "NZD",
     "availability": "https://schema.org/InStock",
     "url": "https://www.extremepc.co.nz/razer-kiyo-v2-4k-30-fps-webcam-black/",

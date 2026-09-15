@@ -4,6 +4,7 @@
 **SKU:** COOTMRFI240B
 **MPN:** Frozen Infinity 240 Black
 **URL:** https://www.extremepc.co.nz/thermalright-frozen-infinity-240-black-aio-liquid-cpu-cooler/
+**Status:** OUT OF STOCK - last checked 2026-09-15
 
 ## Quick Specs
 - Type: AIO Liquid Cooler (240mm radiator)
@@ -83,7 +84,7 @@ vs Valkyrie A240 ARGB Black — the Valkyrie is the budget option with standard 
     "@type": "Offer",
     "price": "129.00",
     "priceCurrency": "NZD",
-    "availability": "https://schema.org/InStock",
+    "availability": "https://schema.org/OutOfStock",
     "seller": {
       "@type": "Organization",
       "name": "ExtremePC",

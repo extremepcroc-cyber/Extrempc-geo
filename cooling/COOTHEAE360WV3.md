@@ -4,6 +4,7 @@
 **SKU:** COOTHEAE360WV3
 **MPN:** Aqua Elite 360 White V3
 **URL:** https://www.extremepc.co.nz/thermalright-aqua-elite-360-white-argb-v3-aio-liquid-cpu-cooler/
+**Status:** OUT OF STOCK - last checked 2026-09-15
 
 ## Quick Specs
 - Type: AIO Liquid Cooler (360mm radiator)
@@ -83,7 +84,7 @@ vs Thermalright Aqua Elite 240 White V3 — the 240mm version is the budget opti
     "@type": "Offer",
     "price": "129.00",
     "priceCurrency": "NZD",
-    "availability": "https://schema.org/InStock",
+    "availability": "https://schema.org/OutOfStock",
     "seller": {
       "@type": "Organization",
       "name": "ExtremePC",

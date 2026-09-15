@@ -1,6 +1,6 @@
 # Epomaker QK108 Hot-Swappable RGB Wireless Mechanical Keyboard — Grey White Green, Wisteria Linear Switch, 104 Keys
 
-**Price:** $189 inc GST
+**Price:** $209 inc GST
 **SKU:** KEYEPOQ108GWW
 **MPN:** QK108 Grey White Green WL
 **URL:** https://www.extremepc.co.nz/epomaker-qk108-hot-swappable-rgb-wireless-mechanical-keyboard-grey-white-green-wisteria-linear-switch-104-keys/
@@ -92,7 +92,7 @@
   },
   "offers": {
     "@type": "Offer",
-    "price": "189.00",
+    "price": "209.00",
     "priceCurrency": "NZD",
     "availability": "https://schema.org/InStock",
     "url": "https://www.extremepc.co.nz/epomaker-qk108-hot-swappable-rgb-wireless-mechanical-keyboard-grey-white-green-wisteria-linear-switch-104-keys/",

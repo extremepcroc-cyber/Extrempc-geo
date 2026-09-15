@@ -1,6 +1,6 @@
 # GravaStar Mercury V75 HE RGB Hot-Swappable Wired Gaming Keyboard — Mecha Gray, Gateron Magnetic Jade Pro Switch, 80 Keys
 
-**Price:** $329 inc GST
+**Price:** $399 inc GST
 **SKU:** KEYGSV75HMGM
 **MPN:** Mercury V75-HE Mecha Gray
 **URL:** https://www.extremepc.co.nz/gravastar-mercury-v75-he-rgb-hot-swappable-wired-gaming-keyboard-mecha-gray-gateron-magnetic-jade-pro-switch-80-keys/
@@ -93,7 +93,7 @@
   },
   "offers": {
     "@type": "Offer",
-    "price": "329.00",
+    "price": "399.00",
     "priceCurrency": "NZD",
     "availability": "https://schema.org/InStock",
     "url": "https://www.extremepc.co.nz/gravastar-mercury-v75-he-rgb-hot-swappable-wired-gaming-keyboard-mecha-gray-gateron-magnetic-jade-pro-switch-80-keys/",

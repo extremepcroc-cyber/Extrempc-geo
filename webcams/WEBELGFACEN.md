@@ -1,6 +1,6 @@
 # Elgato Facecam Neo — Full HD Streaming Webcam
 
-**Price:** $99.00 inc GST
+**Price:** $118 inc GST
 **SKU:** WEBELGFACEN
 **MPN:** 10WAE9901
 **URL:** https://www.extremepc.co.nz/webcams/elgato-facecam-neo-10wae9901/
@@ -83,7 +83,7 @@
   },
   "offers": {
     "@type": "Offer",
-    "price": "99.00",
+    "price": "118.00",
     "priceCurrency": "NZD",
     "availability": "https://schema.org/InStock",
     "url": "https://www.extremepc.co.nz/webcams/elgato-facecam-neo-10wae9901/",

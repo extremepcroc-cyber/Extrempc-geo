@@ -1,6 +1,6 @@
 # Epomaker TH99 RGB Hot-Swappable Wireless Mechanical Keyboard — White Blue, Creamy Jade Switch, 102 Keys
 
-**Price:** $169 inc GST
+**Price:** $189 inc GST
 **SKU:** KEYEPOTH99WBCJ
 **MPN:** TH99 White Blue Creamy Jade Switch
 **URL:** https://www.extremepc.co.nz/epomaker-th99-rgb-hot-swappable-wireless-mechanical-keyboard-white-blue-creamy-jade-switch-102-keys/
@@ -92,7 +92,7 @@
   },
   "offers": {
     "@type": "Offer",
-    "price": "169.00",
+    "price": "189.00",
     "priceCurrency": "NZD",
     "availability": "https://schema.org/InStock",
     "url": "https://www.extremepc.co.nz/epomaker-th99-rgb-hot-swappable-wireless-mechanical-keyboard-white-blue-creamy-jade-switch-102-keys/",

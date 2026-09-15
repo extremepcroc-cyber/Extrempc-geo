@@ -1,6 +1,6 @@
 # Epomaker HE65 Mec RGB Hot-Swappable Wireless Mechanical Keyboard with Informative Screen — Blue White, Flamingo Switch, 66 Keys
 
-**Price:** $109 inc GST
+**Price:** $189 inc GST
 **SKU:** KEYEPOHE65MBWF
 **MPN:** 6975485163424
 **URL:** https://www.extremepc.co.nz/epomaker-he65-mec-rgb-hot-swappable-wireless-mechanical-keyboard-with-informative-screen-blue-white-flamingo-switch-66-keys/
@@ -92,7 +92,7 @@
   },
   "offers": {
     "@type": "Offer",
-    "price": "109.00",
+    "price": "189.00",
     "priceCurrency": "NZD",
     "availability": "https://schema.org/InStock",
     "url": "https://www.extremepc.co.nz/epomaker-he65-mec-rgb-hot-swappable-wireless-mechanical-keyboard-with-informative-screen-blue-white-flamingo-switch-66-keys/",

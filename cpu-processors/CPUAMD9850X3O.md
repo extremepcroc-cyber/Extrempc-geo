@@ -1,6 +1,6 @@
 ﻿# AMD Ryzen 7 9850X3D — 8 Core / 16 Thread AM5 OEM (no cooler, Zen 5 + 3D V-Cache)
 
-**Price:** $899.00 inc GST
+**Price:** $949 inc GST
 **SKU:** CPUAMD9850X3O
 **MPN:** 100-100001973
 **URL:** https://www.extremepc.co.nz/amd-ryzen-7-9850x3d-8-core-16-thread-am5-4-7-ghz-cpu-processor-without-cooler/
@@ -122,7 +122,7 @@
   },
   "offers": {
     "@type": "Offer",
-    "price": "899.00",
+    "price": "949.00",
     "priceCurrency": "NZD",
     "availability": "https://schema.org/InStock",
     "url": "https://www.extremepc.co.nz/amd-ryzen-7-9850x3d-8-core-16-thread-am5-4-7-ghz-cpu-processor-without-cooler/",

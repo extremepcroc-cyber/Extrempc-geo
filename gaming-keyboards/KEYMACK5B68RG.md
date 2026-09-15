@@ -1,6 +1,6 @@
 # Machenike K500-B68 RGB Hot-Swappable Wired Mechanical Keyboard — Red Switch, Grey, 68 Keys
 
-**Price:** $57.50 inc GST
+**Price:** $79 inc GST
 **SKU:** KEYMACK5B68RG
 **MPN:** K500-B68 RGB GY RD EN
 **URL:** https://www.extremepc.co.nz/machenike-k500-b68-rgb-hot-swappable-wired-mechanical-keyboard-red-swtich-grey-68-keys/
@@ -89,7 +89,7 @@
   },
   "offers": {
     "@type": "Offer",
-    "price": "57.50",
+    "price": "78.99",
     "priceCurrency": "NZD",
     "availability": "https://schema.org/InStock",
     "url": "https://www.extremepc.co.nz/machenike-k500-b68-rgb-hot-swappable-wired-mechanical-keyboard-red-swtich-grey-68-keys/",

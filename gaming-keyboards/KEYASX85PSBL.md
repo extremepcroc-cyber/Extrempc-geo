@@ -1,6 +1,6 @@
 # Attack Shark X85 Pro RGB Hot-Swappable Wireless Gaming Keyboard — Starry Black, Linear Blueberry Switch, 81 Keys
 
-**Price:** $129 inc GST
+**Price:** $149 inc GST
 **SKU:** KEYASX85PSBL
 **MPN:** X85 Pro Starry Black
 **URL:** https://www.extremepc.co.nz/attack-shark-x85-pro-rgb-hot-swappable-wireless-gaming-keyboard-starry-black-linear-blueberry-switch-81-keys/
@@ -91,7 +91,7 @@
   },
   "offers": {
     "@type": "Offer",
-    "price": "129.00",
+    "price": "149.01",
     "priceCurrency": "NZD",
     "availability": "https://schema.org/InStock",
     "url": "https://www.extremepc.co.nz/attack-shark-x85-pro-rgb-hot-swappable-wireless-gaming-keyboard-starry-black-linear-blueberry-switch-81-keys/",

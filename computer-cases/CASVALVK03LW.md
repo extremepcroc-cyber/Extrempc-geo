@@ -4,6 +4,7 @@
 **SKU:** CASVALVK03LW
 **MPN:** TBC
 **URL:** https://www.extremepc.co.nz/valkyrie-vk03-lcd-tempered-glass-atx-mid-tower-gaming-case-white/
+**Status:** OUT OF STOCK - last checked 2026-09-15
 
 ## Quick Specs
 - Form factor: ATX mid-tower
@@ -94,7 +95,7 @@ ARGB fans and case lighting are passive RGB elements that change colour. The LCD
     "@type": "Offer",
     "priceCurrency": "NZD",
     "price": "219",
-    "availability": "https://schema.org/InStock",
+    "availability": "https://schema.org/OutOfStock",
     "seller": {
       "@type": "Organization",
       "name": "ExtremePC"

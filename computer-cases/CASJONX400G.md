@@ -1,6 +1,6 @@
 # Jonsbo X400 Gray ATX Sea View Mid Tower Computer Case
 
-**Price:** $299 inc GST
+**Price:** $229 inc GST
 **SKU:** CASJONX400G
 **MPN:** X400 Gray
 **URL:** https://www.extremepc.co.nz/micro-tower-cases/jonsbo-x400-gray-atx-sea-view-mid-tower-computer-case/
@@ -85,7 +85,7 @@ The X400 is an ATX mid-tower physically — it appears in the Micro Tower catego
   "offers": {
     "@type": "Offer",
     "priceCurrency": "NZD",
-    "price": "299",
+    "price": "229.00",
     "availability": "https://schema.org/InStock",
     "seller": {
       "@type": "Organization",

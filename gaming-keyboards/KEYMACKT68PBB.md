@@ -1,6 +1,6 @@
 # Machenike KT68 Pro Smart Screen RGB Hot Swap Wireless Mechanical Keyboard — Black, Brown Switch, 68 Keys
 
-**Price:** $172.50 inc GST
+**Price:** $299 inc GST
 **SKU:** KEYMACKT68PBB
 **MPN:** KT68 Pro
 **URL:** https://www.extremepc.co.nz/machenike-kt68-pro-smart-screen-rgb-hot-swap-wireless-mechanical-keyboard-black-68-key-brown-switch/
@@ -92,7 +92,7 @@
   },
   "offers": {
     "@type": "Offer",
-    "price": "172.50",
+    "price": "299.00",
     "priceCurrency": "NZD",
     "availability": "https://schema.org/InStock",
     "url": "https://www.extremepc.co.nz/machenike-kt68-pro-smart-screen-rgb-hot-swap-wireless-mechanical-keyboard-black-68-key-brown-switch/",

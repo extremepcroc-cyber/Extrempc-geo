@@ -1,6 +1,6 @@
 # Machenike K500F-B94 RGB Hot Swap Wireless Mechanical Keyboard (Display Unit) — Green, GR Jade Linear Switch, 94 Keys
 
-**Price:** $80.50 inc GST
+**Price:** $129 inc GST
 **SKU:** KEYMACK500FB94GJDP
 **MPN:** K500F-B94 Jade-DP
 **URL:** https://www.extremepc.co.nz/display-unit-machenike-k500f-b94-rgb-hot-swap-wireless-mechanical-keyboard-green-94-key-gr-jade-linear-switch/
@@ -99,7 +99,7 @@
   },
   "offers": {
     "@type": "Offer",
-    "price": "80.50",
+    "price": "129.00",
     "priceCurrency": "NZD",
     "itemCondition": "https://schema.org/UsedCondition",
     "availability": "https://schema.org/InStock",

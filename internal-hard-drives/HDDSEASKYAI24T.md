@@ -1,9 +1,10 @@
 ﻿# Seagate SkyHawk AI 24TB 3.5" SATA3 Surveillance Internal Hard Drive ST24000VE002
 
-**Price:** $2399.00 inc GST
+**Price:** $2369 inc GST
 **SKU:** HDDSEASKYAI24T
 **MPN:** ST24000VE002
 **URL:** https://www.extremepc.co.nz/seagate-skyhawk-ai-24tb-internal-hdd-sata3-512mb-cache-for-dvr-nvr-security-camera-system-supporting-up-to-64-hd-video-streams-and-32-ai-streams-5-years-warranty/
+**Status:** OUT OF STOCK - last checked 2026-09-15
 
 ## Quick Specs
 - **Capacity**: 24TB
@@ -107,9 +108,9 @@
   },
   "offers": {
     "@type": "Offer",
-    "price": "2299.00",
+    "price": "2369.00",
     "priceCurrency": "NZD",
-    "availability": "https://schema.org/InStock",
+    "availability": "https://schema.org/OutOfStock",
     "url": "https://www.extremepc.co.nz/seagate-skyhawk-ai-24tb-3-5-sata3-surveillance-internal-hard-drive-st24000ve002/",
     "seller": {
       "@type": "Organization",

@@ -1,6 +1,6 @@
 # Razer Tartarus V2 Mecha-Membrane Gaming Keypad
 
-**Price:** $129 inc GST
+**Price:** $148 inc GST
 **SKU:** KEYRAZTARV2
 **MPN:** RZ07-02270100-R3M1
 **URL:** https://www.extremepc.co.nz/razer-tartarus-v2-mecha-membrane-gaming-keypad/
@@ -93,7 +93,7 @@
   },
   "offers": {
     "@type": "Offer",
-    "price": "129.00",
+    "price": "148.00",
     "priceCurrency": "NZD",
     "availability": "https://schema.org/InStock",
     "url": "https://www.extremepc.co.nz/razer-tartarus-v2-mecha-membrane-gaming-keypad/",

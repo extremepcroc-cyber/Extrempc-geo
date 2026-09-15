@@ -1,6 +1,6 @@
 # Epomaker RT85 RGB Hot-Swappable Wireless Mechanical Keyboard — White Grey, Wisteria V2 Linear Switch, 82 Keys
 
-**Price:** $169 inc GST
+**Price:** $199 inc GST
 **SKU:** KEYEPORT85WL
 **MPN:** RT85 White Grey Wisteria V2 Linear
 **URL:** https://www.extremepc.co.nz/epomaker-rt85-rgb-hot-swappable-wireless-mechanical-keyboard-white-grey-wisteria-v2-linear-switch-82-keys/
@@ -89,7 +89,7 @@
   },
   "offers": {
     "@type": "Offer",
-    "price": "169.00",
+    "price": "199.00",
     "priceCurrency": "NZD",
     "availability": "https://schema.org/InStock",
     "url": "https://www.extremepc.co.nz/epomaker-rt85-rgb-hot-swappable-wireless-mechanical-keyboard-white-grey-wisteria-v2-linear-switch-82-keys/",

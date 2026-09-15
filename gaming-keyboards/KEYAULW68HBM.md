@@ -1,6 +1,6 @@
 # AULA WIN68 HE RGB Hot-Swappable Wired Gaming Keyboard — Black, Greywood Magnetic Switch, 68 Keys
 
-**Price:** $79 inc GST
+**Price:** $99 inc GST
 **SKU:** KEYAULW68HBM
 **MPN:** WIN68 HE Black
 **URL:** https://www.extremepc.co.nz/aula-win68-he-rgb-hot-swappable-wired-gaming-keyboard-black-greywood-magnetic-switch-68-keys/
@@ -88,7 +88,7 @@
   },
   "offers": {
     "@type": "Offer",
-    "price": "79.00",
+    "price": "99.00",
     "priceCurrency": "NZD",
     "availability": "https://schema.org/InStock",
     "url": "https://www.extremepc.co.nz/aula-win68-he-rgb-hot-swappable-wired-gaming-keyboard-black-greywood-magnetic-switch-68-keys/",

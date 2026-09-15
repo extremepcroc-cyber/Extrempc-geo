@@ -1,6 +1,6 @@
 # Epomaker HE68 RGB Hot-Swappable Wired Mechanical Keyboard — White Purple, Magnetic Pink Switch, 67 Keys
 
-**Price:** $109 inc GST
+**Price:** $159 inc GST
 **SKU:** KEYEPOHE68WPMP
 **MPN:** HE68 White Purple Magnetic Pink Switch
 **URL:** https://www.extremepc.co.nz/epomaker-he68-rgb-hot-swappable-wired-mechanical-keyboard-white-purple-epomaker-magnetic-pink-switch-67-keys/
@@ -93,7 +93,7 @@
   },
   "offers": {
     "@type": "Offer",
-    "price": "109.00",
+    "price": "159.00",
     "priceCurrency": "NZD",
     "availability": "https://schema.org/InStock",
     "url": "https://www.extremepc.co.nz/epomaker-he68-rgb-hot-swappable-wired-mechanical-keyboard-white-purple-epomaker-magnetic-pink-switch-67-keys/",

@@ -1,6 +1,6 @@
 ﻿# Seagate IronWolf Pro 20TB 3.5" SATA3 NAS Internal Hard Drive ST20000NE000
 
-**Price:** $1984.00 inc GST
+**Price:** $2093 inc GST
 **SKU:** HDDSEAIWP20T
 **MPN:** ST20000NE000
 **URL:** https://www.extremepc.co.nz/seagate-ironwolf-pro-20tb-3-5-internal-hdd/
@@ -77,7 +77,7 @@
   "description": "Seagate IronWolf Pro 20TB 3.5\" SATA3 7200 RPM business NAS. CMR, 300 TB/year, 1.2M MTBF, 5-year warranty + Rescue. 4-bay RAID-5 = 60TB usable. 2 supplier units. Via ExtremePC NZ.",
   "offers": {
     "@type": "Offer",
-    "price": "1952.00",
+    "price": "2093.00",
     "priceCurrency": "NZD",
     "availability": "https://schema.org/OutOfStock",
     "url": "https://www.extremepc.co.nz/seagate-ironwolf-pro-20tb-3-5-sata3-nas-internal-hard-drive-st20000ne000/",

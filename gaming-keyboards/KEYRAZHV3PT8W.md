@@ -1,6 +1,6 @@
 # Razer Huntsman V3 Pro TKL 8KHz Wired Mechanical Gaming Keyboard White — Analog Optical Switches
 
-**Price:** $389 inc GST
+**Price:** $439 inc GST
 **SKU:** KEYRAZHV3PT8W
 **MPN:** RZ03-05521000-R3M1
 **URL:** https://www.extremepc.co.nz/razer-huntsman-v3-pro-tkl-8khz-wired-mechanical-gaming-keyboard-white-analog-optical-switches/
@@ -93,7 +93,7 @@
   },
   "offers": {
     "@type": "Offer",
-    "price": "389.00",
+    "price": "439.00",
     "priceCurrency": "NZD",
     "availability": "https://schema.org/InStock",
     "url": "https://www.extremepc.co.nz/razer-huntsman-v3-pro-tkl-8khz-wired-mechanical-gaming-keyboard-white-analog-optical-switches/",

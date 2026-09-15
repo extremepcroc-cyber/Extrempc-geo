@@ -1,6 +1,6 @@
 # Machenike K500A-B84 LED Hot-Swap Wired Mechanical Keyboard — Light Grey, Red Linear Switch, 84 Keys
 
-**Price:** $57.50 inc GST
+**Price:** $69 inc GST
 **SKU:** KEYMACK5AB84LR
 **MPN:** K500A-B84 Red
 **URL:** https://www.extremepc.co.nz/machenike-k500a-b84-led-hot-swap-wired-mechanical-keyboard-light-grey-84-key-red-linear-switch/
@@ -92,7 +92,7 @@
   },
   "offers": {
     "@type": "Offer",
-    "price": "57.50",
+    "price": "69.00",
     "priceCurrency": "NZD",
     "availability": "https://schema.org/InStock",
     "url": "https://www.extremepc.co.nz/machenike-k500a-b84-led-hot-swap-wired-mechanical-keyboard-light-grey-84-key-red-linear-switch/",

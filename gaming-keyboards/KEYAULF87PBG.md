@@ -1,6 +1,6 @@
 # AULA F87 Pro RGB Hot-Swappable Wireless Gaming Keyboard — Black Grey, LEOBOG Greywood Switch, 87 Keys
 
-**Price:** $89 inc GST
+**Price:** $139 inc GST
 **SKU:** KEYAULF87PBG
 **MPN:** F87 Pro Black
 **URL:** https://www.extremepc.co.nz/wireless-gaming-keyboards/aula-f87-pro-rgb-hot-swappable-wireless-gaming-keyboard-black-grey-leobog-greywood-switch-87-keys/
@@ -89,7 +89,7 @@
   },
   "offers": {
     "@type": "Offer",
-    "price": "89.00",
+    "price": "139.00",
     "priceCurrency": "NZD",
     "availability": "https://schema.org/InStock",
     "url": "https://www.extremepc.co.nz/wireless-gaming-keyboards/aula-f87-pro-rgb-hot-swappable-wireless-gaming-keyboard-black-grey-leobog-greywood-switch-87-keys/",

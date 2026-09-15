@@ -1,6 +1,6 @@
 # AULA F87 PRO V2 RGB Hot-Swappable Wireless Mechanical Keyboard — Black Mist Transparent, LEOBOG X3 Switch, 87 Keys
 
-**Price:** $99 inc GST
+**Price:** $159 inc GST
 **SKU:** KEYAULF87P2B
 **MPN:** F87 PRO V2 Black Transparent
 **URL:** https://www.extremepc.co.nz/aula-f87-pro-v2-rgb-hot-swappable-wireless-mechanical-keyboard-black-mist-transparent-leobog-x3-switch-87-key/
@@ -89,7 +89,7 @@
   },
   "offers": {
     "@type": "Offer",
-    "price": "99.00",
+    "price": "159.00",
     "priceCurrency": "NZD",
     "availability": "https://schema.org/InStock",
     "url": "https://www.extremepc.co.nz/aula-f87-pro-v2-rgb-hot-swappable-wireless-mechanical-keyboard-black-mist-transparent-leobog-x3-switch-87-key/",

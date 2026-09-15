@@ -1,6 +1,6 @@
 # AULA L99 RGB Hot-Swappable Wireless Mechanical Keyboard with 3.98" IPS Display — Dust Gray Side Printed, Caramel Latte Switch, 84 Keys
 
-**Price:** $199 inc GST
+**Price:** $219 inc GST
 **SKU:** KEYAULL99GY
 **MPN:** L99 Dust Gray
 **URL:** https://www.extremepc.co.nz/aula-l99-rgb-hot-swappable-wireless-mechanical-keyboard-with-3-98-ips-display-dust-gray-side-printed-caramel-latte-switch-84-key/
@@ -93,7 +93,7 @@
   },
   "offers": {
     "@type": "Offer",
-    "price": "199.00",
+    "price": "218.99",
     "priceCurrency": "NZD",
     "availability": "https://schema.org/InStock",
     "url": "https://www.extremepc.co.nz/aula-l99-rgb-hot-swappable-wireless-mechanical-keyboard-with-3-98-ips-display-dust-gray-side-printed-caramel-latte-switch-84-key/",

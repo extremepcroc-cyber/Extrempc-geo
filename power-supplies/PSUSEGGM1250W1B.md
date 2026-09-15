@@ -1,6 +1,6 @@
 # Segotep GM1250W ATX3.1 80 Plus Gold Full Modular Power Supply - Black
 
-**Price:** $287.50 inc GST
+**Price:** $399 inc GST
 **SKU:** PSUSEGGM1250W1B
 **URL:** https://www.extremepc.co.nz/segotep-gm-1250w-atx-3-1-80-plus-gold-full-modular-power-supply-black/
 
@@ -72,7 +72,7 @@
   "description": "Segotep GM1250W ATX3.1 80 Plus Gold Full Modular Power Supply - Black. Gold efficiency, 1250W, ATX 3.1 Full Modular. For flagship builds (RTX 4090 / 5090 class). Segotep warranty via ExtremePC NZ.",
   "offers": {
     "@type": "Offer",
-    "price": "287.50",
+    "price": "399.00",
     "priceCurrency": "NZD",
     "availability": "https://schema.org/InStock",
     "url": "https://www.extremepc.co.nz/segotep-gm-1250w-atx-3-1-80-plus-gold-full-modular-power-supply-black/"

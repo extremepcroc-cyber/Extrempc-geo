@@ -1,6 +1,6 @@
 ﻿# Synology HAT3300 4TB 3.5" SATA3 NAS Hard Drive HAT3300-4T
 
-**Price:** $549.00 inc GST
+**Price:** $579 inc GST
 **SKU:** HDDSYN33004T
 **MPN:** HAT3300-4T
 **URL:** https://www.extremepc.co.nz/synology-hat3300-4tb-3-5-plus-series-nas-hdd-sata-6gb-s-5400-rpm-256mb-cache-3-years-warranty/
@@ -91,7 +91,7 @@
   "description": "Synology HAT3300 4TB 3.5\" SATA3 5400 RPM NAS hard drive. CMR, Synology-validated firmware. 3-year standard / 5-year extended warranty on compatible Synology NAS. 25 supplier units. For Synology DS220+, DS423+, DS720+ home NAS. Via ExtremePC NZ (authorized Synology distributor).",
   "offers": {
     "@type": "Offer",
-    "price": "621.00",
+    "price": "579.00",
     "priceCurrency": "NZD",
     "availability": "https://schema.org/OutOfStock",
     "url": "https://www.extremepc.co.nz/synology-hat3300-4tb-3-5-sata3-nas-hard-drive-hat3300-4t/",

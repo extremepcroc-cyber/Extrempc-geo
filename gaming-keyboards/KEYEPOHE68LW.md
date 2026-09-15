@@ -1,6 +1,6 @@
 # Epomaker HE68 Lite RGB Hot-Swappable Wired Mechanical Keyboard — White, Clear Mag Switch, 68 Keys
 
-**Price:** $99 inc GST
+**Price:** $129 inc GST
 **SKU:** KEYEPOHE68LW
 **MPN:** HE68 Lite White
 **URL:** https://www.extremepc.co.nz/epomaker-he68-lite-rgb-hot-swappable-wired-mechanical-keyboard-white-clear-mag-switch-68-key/
@@ -92,7 +92,7 @@
   },
   "offers": {
     "@type": "Offer",
-    "price": "99.00",
+    "price": "129.00",
     "priceCurrency": "NZD",
     "availability": "https://schema.org/InStock",
     "url": "https://www.extremepc.co.nz/epomaker-he68-lite-rgb-hot-swappable-wired-mechanical-keyboard-white-clear-mag-switch-68-key/",

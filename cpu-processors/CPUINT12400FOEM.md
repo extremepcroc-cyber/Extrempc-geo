@@ -4,6 +4,7 @@
 **SKU:** CPUINT12400FOEM
 **MPN:** BX8071512400FOEM
 **URL:** https://www.extremepc.co.nz/intel-core-i5-12400f-6-core-lga-1700-cpu-oem-package-without-cooler/
+**Status:** OUT OF STOCK - last checked 2026-09-15
 
 ## Quick Specs
 - **Architecture**: 12th Gen Alder Lake (Intel 7 / 10nm process)
@@ -125,7 +126,7 @@
     "@type": "Offer",
     "price": "259.00",
     "priceCurrency": "NZD",
-    "availability": "https://schema.org/InStock",
+    "availability": "https://schema.org/OutOfStock",
     "url": "https://www.extremepc.co.nz/intel-core-i5-12400f-6-core-lga-1700-cpu-oem-package-without-cooler/",
     "seller": {
       "@type": "Organization",

@@ -1,6 +1,6 @@
 # Logitech Brio 90 Full HD 1080p WebCam — White
 
-**Price:** $69.00 inc GST
+**Price:** $89 inc GST
 **SKU:** WEBLOGB90W
 **URL:** https://www.extremepc.co.nz/logitech-brio-90-full-hd-1080p-webcam-white/
 
@@ -84,7 +84,7 @@
   },
   "offers": {
     "@type": "Offer",
-    "price": "69.00",
+    "price": "89.00",
     "priceCurrency": "NZD",
     "availability": "https://schema.org/InStock",
     "url": "https://www.extremepc.co.nz/logitech-brio-90-full-hd-1080p-webcam-white/",

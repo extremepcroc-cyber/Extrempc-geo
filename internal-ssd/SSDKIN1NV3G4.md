@@ -1,6 +1,6 @@
 # Kingston NV3 1TB PCIe Gen4 NVMe M.2 SSD — 6000/4000 MB/s
 
-**Price:** $329.00 inc GST
+**Price:** $319 inc GST
 **SKU:** SSDKIN1NV3G4
 **MPN:** SNV3S/1000G
 **URL:** https://www.extremepc.co.nz/kingston-nv3-1tb-m-2-nvme-internal-ssd-pcie-gen-4-up-to-6000mb-s-read-up-to-4000mb-s-write/
@@ -114,7 +114,7 @@
   },
   "offers": {
     "@type": "Offer",
-    "price": "329.00",
+    "price": "319.00",
     "priceCurrency": "NZD",
     "availability": "https://schema.org/InStock",
     "url": "https://www.extremepc.co.nz/kingston-nv3-1tb-m-2-nvme-internal-ssd-pcie-gen-4-up-to-6000mb-s-read-up-to-4000mb-s-write/",

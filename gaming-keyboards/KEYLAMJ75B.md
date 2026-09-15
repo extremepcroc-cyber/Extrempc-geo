@@ -1,6 +1,6 @@
 # LAMZU Jet75 Magnetic RGB Wired Gaming Keyboard — Black, Gateron Jade Gaming Switch, 82 Keys
 
-**Price:** $299 inc GST
+**Price:** $399 inc GST
 **SKU:** KEYLAMJ75B
 **MPN:** Jet75 Black
 **URL:** https://www.extremepc.co.nz/wired-gaming-keyboards/lamzu-jet75-magnetic-rgb-wired-gaming-keyboard-black-gateron-jade-gaming-switch-82-keys/
@@ -92,7 +92,7 @@
   },
   "offers": {
     "@type": "Offer",
-    "price": "299.00",
+    "price": "399.00",
     "priceCurrency": "NZD",
     "availability": "https://schema.org/InStock",
     "url": "https://www.extremepc.co.nz/wired-gaming-keyboards/lamzu-jet75-magnetic-rgb-wired-gaming-keyboard-black-gateron-jade-gaming-switch-82-keys/",

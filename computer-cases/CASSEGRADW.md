@@ -4,7 +4,6 @@
 **SKU:** CASSEGRADW
 **MPN:** Radiant White
 **URL:** https://www.extremepc.co.nz/segotep-radiant-matx-tempered-glass-micro-tower-case-white/
-**Status:** OUT OF STOCK - last checked 2026-08-25
 
 ## Quick Specs
 - Form factor: Micro-ATX
@@ -90,7 +89,7 @@ Typical M-ATX budget cases support ATX PSUs up to ~160mm length. Most standard A
     "@type": "Offer",
     "priceCurrency": "NZD",
     "price": "79",
-    "availability": "https://schema.org/OutOfStock",
+    "availability": "https://schema.org/InStock",
     "seller": {
       "@type": "Organization",
       "name": "ExtremePC"

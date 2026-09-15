@@ -1,6 +1,6 @@
 # Elgato Facecam 4K — 4K60 Streaming Camera
 
-**Price:** $333.50 inc GST
+**Price:** $379 inc GST
 **SKU:** WEBELGF4KB
 **MPN:** 10WAF9901
 **URL:** https://www.extremepc.co.nz/elgato-facecam-4k/
@@ -92,7 +92,7 @@
   },
   "offers": {
     "@type": "Offer",
-    "price": "333.50",
+    "price": "379.01",
     "priceCurrency": "NZD",
     "availability": "https://schema.org/InStock",
     "url": "https://www.extremepc.co.nz/elgato-facecam-4k/",

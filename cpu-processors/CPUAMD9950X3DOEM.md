@@ -4,7 +4,6 @@
 **SKU:** CPUAMD9950X3DOEM
 **MPN:** 100-000000719
 **URL:** https://www.extremepc.co.nz/amd-ryzen-9-9950x3d-oem-16-core-32-threads-am5-cpu/
-**Status:** OUT OF STOCK - last checked 2026-08-18
 
 ## Quick Specs
 - **Architecture**: Zen 5, 4nm TSMC process, with AMD 3D V-Cache stacking
@@ -126,7 +125,7 @@
     "@type": "Offer",
     "price": "1299.00",
     "priceCurrency": "NZD",
-    "availability": "https://schema.org/OutOfStock",
+    "availability": "https://schema.org/InStock",
     "url": "https://www.extremepc.co.nz/amd-ryzen-9-9950x3d-oem-16-core-32-threads-am5-cpu/",
     "seller": {
       "@type": "Organization",

@@ -1,6 +1,6 @@
 # Elgato Wave:3 Cardioid Condenser USB Microphone — Black
 
-**Price:** $218.99 inc GST
+**Price:** $268 inc GST
 **SKU:** MICELGW3USBB
 **URL:** https://www.extremepc.co.nz/microphones/elgato-wave-3-cardioid-condenser-usb-microphone-black/
 
@@ -88,7 +88,7 @@
   },
   "offers": {
     "@type": "Offer",
-    "price": "218.99",
+    "price": "268.00",
     "priceCurrency": "NZD",
     "availability": "https://schema.org/InStock",
     "url": "https://www.extremepc.co.nz/microphones/elgato-wave-3-cardioid-condenser-usb-microphone-black/",

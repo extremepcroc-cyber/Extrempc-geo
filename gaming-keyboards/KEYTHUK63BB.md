@@ -1,6 +1,6 @@
 # Thunderobot K63 RGB Hot-Swappable Wired Gaming Keyboard — Brown Switch, Blue, 63 Keys
 
-**Price:** $46 inc GST
+**Price:** $59 inc GST
 **SKU:** KEYTHUK63BB
 **MPN:** K63 Wired RGB Brown Switch Blue
 **URL:** https://www.extremepc.co.nz/thunderobot-k63-rgb-hot-swappable-wired-gaming-keyboard-brown-switch-blue-63-keys/
@@ -92,7 +92,7 @@
   },
   "offers": {
     "@type": "Offer",
-    "price": "46.00",
+    "price": "58.99",
     "priceCurrency": "NZD",
     "availability": "https://schema.org/InStock",
     "url": "https://www.extremepc.co.nz/thunderobot-k63-rgb-hot-swappable-wired-gaming-keyboard-brown-switch-blue-63-keys/",

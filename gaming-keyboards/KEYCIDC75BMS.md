@@ -1,6 +1,6 @@
 # CIDOO C75 Rapid Trigger Wired Mechanical Gaming Keyboard — Black, Gateron KS-20U Magnetic Switch, 81 Keys
 
-**Price:** $179 inc GST
+**Price:** $269 inc GST
 **SKU:** KEYCIDC75BMS
 **MPN:** 6907584990773
 **URL:** https://www.extremepc.co.nz/cidoo-c75-rapid-trigger-wired-mechanical-gaming-keyboard-black-gateron-ks-20u-magnetic-switch-81-key/
@@ -93,7 +93,7 @@
   },
   "offers": {
     "@type": "Offer",
-    "price": "179.00",
+    "price": "269.00",
     "priceCurrency": "NZD",
     "availability": "https://schema.org/InStock",
     "url": "https://www.extremepc.co.nz/cidoo-c75-rapid-trigger-wired-mechanical-gaming-keyboard-black-gateron-ks-20u-magnetic-switch-81-key/",

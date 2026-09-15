@@ -1,6 +1,6 @@
 # MCHOSE K87 Tri-Mode RGB Hot-Swappable Wireless Gaming Keyboard — White Blue, Ice Switch, 88 Keys
 
-**Price:** $119 inc GST
+**Price:** $199 inc GST
 **SKU:** KEYMCHK87WBI
 **MPN:** MC-K87-15
 **URL:** https://www.extremepc.co.nz/mchose-k87-tri-mode-rgb-hot-swappable-wireless-gaming-keyboard-white-blue-ice-switch-83-keys/
@@ -92,7 +92,7 @@
   },
   "offers": {
     "@type": "Offer",
-    "price": "119.00",
+    "price": "199.00",
     "priceCurrency": "NZD",
     "availability": "https://schema.org/InStock",
     "url": "https://www.extremepc.co.nz/mchose-k87-tri-mode-rgb-hot-swappable-wireless-gaming-keyboard-white-blue-ice-switch-83-keys/",

@@ -1,6 +1,6 @@
 # CIDOO V87 RGB Hot-Swappable Knob Wireless Mechanical Gaming Keyboard — Matte Switch, With VIA, 87 Keys
 
-**Price:** $199 inc GST
+**Price:** $269 inc GST
 **SKU:** KEYCIDV87M
 **MPN:** 6975485161635
 **URL:** https://www.extremepc.co.nz/cidoo-v87-rgb-hot-swappable-knob-wireless-mechanical-gaming-keyboard-matte-switch-with-via-87-keys/
@@ -93,7 +93,7 @@
   },
   "offers": {
     "@type": "Offer",
-    "price": "199.00",
+    "price": "269.00",
     "priceCurrency": "NZD",
     "availability": "https://schema.org/InStock",
     "url": "https://www.extremepc.co.nz/cidoo-v87-rgb-hot-swappable-knob-wireless-mechanical-gaming-keyboard-matte-switch-with-via-87-keys/",

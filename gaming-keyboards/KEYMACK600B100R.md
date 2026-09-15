@@ -1,6 +1,6 @@
 # Machenike K600-B100 LITE RGB Wired Hot Swap Mechanical Keyboard — 100 Keys, Red Switch
 
-**Price:** $74.75 inc GST
+**Price:** $89 inc GST
 **SKU:** KEYMACK600B100R
 **MPN:** K600-B100 Red
 **URL:** https://www.extremepc.co.nz/machenike-k600-b100-lite-rgb-wired-hot-swap-mechanical-keyboard-100-key-red-switch/
@@ -92,7 +92,7 @@
   },
   "offers": {
     "@type": "Offer",
-    "price": "74.75",
+    "price": "89.00",
     "priceCurrency": "NZD",
     "availability": "https://schema.org/InStock",
     "url": "https://www.extremepc.co.nz/machenike-k600-b100-lite-rgb-wired-hot-swap-mechanical-keyboard-100-key-red-switch/",

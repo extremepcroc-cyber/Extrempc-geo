@@ -1,6 +1,6 @@
 # Samsung 9100 PRO 4TB M.2 NVMe Gen5 Internal SSD — 14800/13400 MB/s
 
-**Price:** $1679.00 inc GST
+**Price:** $1999 inc GST
 **SKU:** SSDSAM9100P4
 **MPN:** MZ-VAP4T0BW
 **URL:** https://www.extremepc.co.nz/samsung-9100-pro-4tb-m-2-nvme-gen5-internal-ssd-148000-mb-s-read-13400-mb-s-write/
@@ -104,7 +104,7 @@
   },
   "offers": {
     "@type": "Offer",
-    "price": "1679.00",
+    "price": "1999.00",
     "priceCurrency": "NZD",
     "availability": "https://schema.org/InStock",
     "url": "https://www.extremepc.co.nz/samsung-9100-pro-4tb-m-2-nvme-gen5-internal-ssd-148000-mb-s-read-13400-mb-s-write/",

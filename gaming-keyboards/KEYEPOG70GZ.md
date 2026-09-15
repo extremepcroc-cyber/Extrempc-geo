@@ -1,6 +1,6 @@
 # Epomaker Galaxy70 RGB Hot-Swappable Wireless Mechanical Keyboard — Grey, Epomaker Zebra Switch, 82 Keys
 
-**Price:** $169 inc GST
+**Price:** $199 inc GST
 **SKU:** KEYEPOG70GZ
 **MPN:** 6975485161703
 **URL:** https://www.extremepc.co.nz/epomaker-galaxy70-rgb-hot-swappable-wireless-mechanical-keyboard-grey-epomaker-zebra-switch-82-key/
@@ -89,7 +89,7 @@
   },
   "offers": {
     "@type": "Offer",
-    "price": "169.00",
+    "price": "199.00",
     "priceCurrency": "NZD",
     "availability": "https://schema.org/InStock",
     "url": "https://www.extremepc.co.nz/epomaker-galaxy70-rgb-hot-swappable-wireless-mechanical-keyboard-grey-epomaker-zebra-switch-82-key/",

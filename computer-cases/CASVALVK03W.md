@@ -4,6 +4,7 @@
 **SKU:** CASVALVK03W
 **MPN:** TBC
 **URL:** https://www.extremepc.co.nz/valkyrie-vk03-lite-tempered-glass-atx-mid-tower-gaming-case-white/
+**Status:** OUT OF STOCK - last checked 2026-09-15
 
 ## Quick Specs
 - Form factor: ATX mid-tower
@@ -93,7 +94,7 @@ Yes — 165mm CPU clearance accommodates the Peerless Assassin 120 (155mm). A wh
     "@type": "Offer",
     "priceCurrency": "NZD",
     "price": "179",
-    "availability": "https://schema.org/InStock",
+    "availability": "https://schema.org/OutOfStock",
     "seller": {
       "@type": "Organization",
       "name": "ExtremePC"

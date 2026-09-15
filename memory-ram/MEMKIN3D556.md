@@ -1,6 +1,6 @@
 # Kingston 32GB DDR5-5600 ECC RDIMM (2Rx8) CL46 — Threadripper 7000 / 9000 Workstation Memory (KSM56R46BD8PMI-32HAI)
 
-**Price:** $1999.00 inc GST
+**Price:** $2299 inc GST
 **SKU:** MEMKIN3D556
 **MPN:** KSM56R46BD8PMI-32HAI
 **URL:** https://www.extremepc.co.nz/csv-import/kingston-32gb-ddr5-5600mt-s-ecc-reg-cl46-rdimm-2rx-ksm56r46bd8pmi-32hai/
@@ -89,7 +89,7 @@
   },
   "offers": {
     "@type": "Offer",
-    "price": "1999.00",
+    "price": "2299.00",
     "priceCurrency": "NZD",
     "availability": "https://schema.org/InStock",
     "url": "https://www.extremepc.co.nz/csv-import/kingston-32gb-ddr5-5600mt-s-ecc-reg-cl46-rdimm-2rx-ksm56r46bd8pmi-32hai/",

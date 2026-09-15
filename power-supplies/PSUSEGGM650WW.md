@@ -1,6 +1,6 @@
 # Segotep GM650W 80 Plus Gold Full Modular Power Supply - White
 
-**Price:** $109.25 inc GST
+**Price:** $149 inc GST
 **SKU:** PSUSEGGM650WW
 **URL:** https://www.extremepc.co.nz/segotep-gm-650w-80-plus-gold-full-modular-power-supply-white/
 
@@ -67,7 +67,7 @@
   "description": "Segotep GM650W 80 Plus Gold Full Modular Power Supply - White. Gold efficiency, 650W, standard ATX Full Modular. For mid-range builds (Ryzen 5 / Core i5 + RTX 4070 / RX 7800 XT class). Segotep warranty via ExtremePC NZ.",
   "offers": {
     "@type": "Offer",
-    "price": "109.25",
+    "price": "148.99",
     "priceCurrency": "NZD",
     "availability": "https://schema.org/InStock",
     "url": "https://www.extremepc.co.nz/segotep-gm-650w-80-plus-gold-full-modular-power-supply-white/"

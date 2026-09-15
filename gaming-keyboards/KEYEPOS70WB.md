@@ -1,6 +1,6 @@
 # Epomaker Split70 RGB Hot-Swappable Wireless Mechanical Keyboard — White Blue, Wisteria Linear Switch V2, 71 Keys
 
-**Price:** $199 inc GST
+**Price:** $249 inc GST
 **SKU:** KEYEPOS70WB
 **MPN:** Split70 White Blue
 **URL:** https://www.extremepc.co.nz/epomaker-split70-rgb-wireless-mechanical-keyboard-white-blue-wisteria-linear-switch-v2-71-key/
@@ -92,7 +92,7 @@
   },
   "offers": {
     "@type": "Offer",
-    "price": "199.00",
+    "price": "249.00",
     "priceCurrency": "NZD",
     "availability": "https://schema.org/InStock",
     "url": "https://www.extremepc.co.nz/epomaker-split70-rgb-wireless-mechanical-keyboard-white-blue-wisteria-linear-switch-v2-71-key/",

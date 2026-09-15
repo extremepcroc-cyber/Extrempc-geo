@@ -1,6 +1,6 @@
 # Machenike K500-M61 RGB Hot-Swappable Wired Mechanical Keyboard — Magnetic Switch, Black-Pink, 61 Keys
 
-**Price:** $69 inc GST
+**Price:** $79 inc GST
 **SKU:** KEYMACK5M61MB
 **MPN:** K500-M61 magnetic switch Black-pink
 **URL:** https://www.extremepc.co.nz/machenike-k500-m61-rgb-hot-swappable-wired-mechanical-keyboard-magnetic-swtich-black-pink-61-keys/
@@ -89,7 +89,7 @@
   },
   "offers": {
     "@type": "Offer",
-    "price": "69.00",
+    "price": "78.99",
     "priceCurrency": "NZD",
     "availability": "https://schema.org/InStock",
     "url": "https://www.extremepc.co.nz/machenike-k500-m61-rgb-hot-swappable-wired-mechanical-keyboard-magnetic-swtich-black-pink-61-keys/",

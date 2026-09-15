@@ -1,6 +1,6 @@
 # Razer Huntsman V3 Pro 8KHz Wired Mechanical Gaming Keyboard — Analog Optical Switches, Full-Size
 
-**Price:** $399 inc GST
+**Price:** $499 inc GST
 **SKU:** KEYRAZHV3P8K
 **MPN:** RZ03-05530100-R3M1
 **URL:** https://www.extremepc.co.nz/razer-huntsman-v3-pro-8khz-wired-mechanical-gaming-keyboard-analog-optical-switches/
@@ -93,7 +93,7 @@
   },
   "offers": {
     "@type": "Offer",
-    "price": "399.00",
+    "price": "499.00",
     "priceCurrency": "NZD",
     "availability": "https://schema.org/InStock",
     "url": "https://www.extremepc.co.nz/razer-huntsman-v3-pro-8khz-wired-mechanical-gaming-keyboard-analog-optical-switches/",

@@ -1,6 +1,6 @@
 # MCHOSE K99 V2 Tri-Mode RGB Hot-Swappable Wireless Gaming Keyboard — Horizon Orange, Icy Creamsicle Switch, 99 Keys
 
-**Price:** $159 inc GST
+**Price:** $189 inc GST
 **SKU:** KEYMCHK99V2OI
 **MPN:** MC-K99V2-3
 **URL:** https://www.extremepc.co.nz/mchose-k99-v2-tri-mode-rgb-hot-swappable-wireless-gaming-keyboar-horizon-orange-icy-creamsicle-switch-99-keys/
@@ -92,7 +92,7 @@
   },
   "offers": {
     "@type": "Offer",
-    "price": "159.00",
+    "price": "189.00",
     "priceCurrency": "NZD",
     "availability": "https://schema.org/InStock",
     "url": "https://www.extremepc.co.nz/mchose-k99-v2-tri-mode-rgb-hot-swappable-wireless-gaming-keyboar-horizon-orange-icy-creamsicle-switch-99-keys/",

@@ -1,6 +1,6 @@
 # HyperX QuadCast 2 USB-C Standalone Microphone — Black
 
-**Price:** $230.00 inc GST
+**Price:** $289 inc GST
 **SKU:** MICHYPQC2UCB
 **MPN:** 872V1AA
 **URL:** https://www.extremepc.co.nz/hyperx-quadcast-2-usb-gaming-microphone-black/
@@ -93,7 +93,7 @@
   },
   "offers": {
     "@type": "Offer",
-    "price": "230.00",
+    "price": "289.00",
     "priceCurrency": "NZD",
     "availability": "https://schema.org/InStock",
     "url": "https://www.extremepc.co.nz/hyperx-quadcast-2-usb-gaming-microphone-black/",

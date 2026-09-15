@@ -1,6 +1,6 @@
 # CIDOO QK61 V2 VIA Wireless Mechanical Keyboard — Black Grey, Pearl White Switch, 67 Keys
 
-**Price:** $79 inc GST
+**Price:** $139 inc GST
 **SKU:** KEYCIDQK61V2BG
 **MPN:** 6970584990940
 **URL:** https://www.extremepc.co.nz/cidoo-qk61-v2-via-wireless-mechanical-keyboard-black-grey-pearl-white-switch-67-key/
@@ -92,7 +92,7 @@
   },
   "offers": {
     "@type": "Offer",
-    "price": "79.00",
+    "price": "139.00",
     "priceCurrency": "NZD",
     "availability": "https://schema.org/InStock",
     "url": "https://www.extremepc.co.nz/cidoo-qk61-v2-via-wireless-mechanical-keyboard-black-grey-pearl-white-switch-67-key/",

@@ -1,6 +1,6 @@
 # AULA S75 Pro RGB Hot-Swappable Wireless Gaming Keyboard — Black, Star Vector Switch, 84 Keys
 
-**Price:** $129 inc GST
+**Price:** $149 inc GST
 **SKU:** KEYAULS75PBS
 **MPN:** S75Pro Black
 **URL:** https://www.extremepc.co.nz/wireless-gaming-keyboards/aula-s75-pro-rgb-hot-swappable-wireless-gaming-keyboard-black-star-vector-switch-84-keys/
@@ -87,7 +87,7 @@
   },
   "offers": {
     "@type": "Offer",
-    "price": "129.00",
+    "price": "149.01",
     "priceCurrency": "NZD",
     "availability": "https://schema.org/InStock",
     "url": "https://www.extremepc.co.nz/wireless-gaming-keyboards/aula-s75-pro-rgb-hot-swappable-wireless-gaming-keyboard-black-star-vector-switch-84-keys/",

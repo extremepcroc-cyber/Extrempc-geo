@@ -4,6 +4,7 @@
 **SKU:** COOVALV360B
 **MPN:** V360 LCD Black
 **URL:** https://www.extremepc.co.nz/valkyrie-v360-lcd-360mm-aio-cpu-liquid-cooler-black/
+**Status:** OUT OF STOCK - last checked 2026-09-15
 
 ## Quick Specs
 - Type: AIO Liquid Cooler (360mm radiator)
@@ -84,7 +85,7 @@ vs NZXT Kraken Z73 — the Kraken Z73 has a circular LCD and CAM software. The V
     "@type": "Offer",
     "price": "399",
     "priceCurrency": "NZD",
-    "availability": "https://schema.org/InStock",
+    "availability": "https://schema.org/OutOfStock",
     "seller": {
       "@type": "Organization",
       "name": "ExtremePC",

@@ -1,6 +1,6 @@
 # Whalekom 1TB M.2 PCIe NVMe Solid State Drive — WKNV-1TB
 
-**Price:** $269.00 inc GST
+**Price:** $299 inc GST
 **SKU:** SSDWHANM1T
 **MPN:** WKNV-1TB
 **URL:** https://www.extremepc.co.nz/whalekom-1tb-m-2-pcie-nvme-solid-state-drive-wknv-1tb/
@@ -84,7 +84,7 @@
   },
   "offers": {
     "@type": "Offer",
-    "price": "269.00",
+    "price": "299.00",
     "priceCurrency": "NZD",
     "availability": "https://schema.org/InStock",
     "url": "https://www.extremepc.co.nz/whalekom-1tb-m-2-pcie-nvme-solid-state-drive-wknv-1tb/",

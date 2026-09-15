@@ -1,6 +1,6 @@
 # MCHOSE Mix 87 RGB Hot-Swappable Wired Gaming Keyboard — Black, Apollo Magnetic Switch, 87 Keys
 
-**Price:** $149 inc GST
+**Price:** $159 inc GST
 **SKU:** KEYMCHM87BA
 **MPN:** MC-Mix87-6
 **URL:** https://www.extremepc.co.nz/mchose-mix-87-rgb-hot-swappable-wired-gaming-keyboard-black-apollo-magnetic-switch-87-keys/
@@ -89,7 +89,7 @@
   },
   "offers": {
     "@type": "Offer",
-    "price": "149.00",
+    "price": "159.00",
     "priceCurrency": "NZD",
     "availability": "https://schema.org/InStock",
     "url": "https://www.extremepc.co.nz/mchose-mix-87-rgb-hot-swappable-wired-gaming-keyboard-black-apollo-magnetic-switch-87-keys/",

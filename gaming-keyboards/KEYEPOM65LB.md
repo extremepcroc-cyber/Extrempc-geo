@@ -1,6 +1,6 @@
 # Epomaker Magcore65 Lite RGB Hot-Swappable Wireless Mechanical Keyboard — Black, Epomaker Core Switch, 66 Keys
 
-**Price:** $129 inc GST
+**Price:** $199 inc GST
 **SKU:** KEYEPOM65LB
 **MPN:** Magcore65 Lite
 **URL:** https://www.extremepc.co.nz/epomaker-magcore65-lite-rgb-hot-swappable-wireless-mechanical-keyboard-black-epomaker-core-switch-66-keys/
@@ -92,7 +92,7 @@
   },
   "offers": {
     "@type": "Offer",
-    "price": "129.00",
+    "price": "199.00",
     "priceCurrency": "NZD",
     "availability": "https://schema.org/InStock",
     "url": "https://www.extremepc.co.nz/epomaker-magcore65-lite-rgb-hot-swappable-wireless-mechanical-keyboard-black-epomaker-core-switch-66-keys/",

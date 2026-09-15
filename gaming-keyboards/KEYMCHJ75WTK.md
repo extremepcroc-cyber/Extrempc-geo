@@ -1,6 +1,6 @@
 # MCHOSE Jet 75 RGB Hot-Swappable Wired Gaming Keyboard — White Topographic, Kailh Magnetic God Switch, 82 Keys
 
-**Price:** $149 inc GST
+**Price:** $189 inc GST
 **SKU:** KEYMCHJ75WTK
 **MPN:** HW-Jet75-9
 **URL:** https://www.extremepc.co.nz/mchose-jet-75-rgb-hot-swappable-wired-gaming-keyboard-white-topographic-kailh-magnetic-god-switch-82-keys/
@@ -92,7 +92,7 @@
   },
   "offers": {
     "@type": "Offer",
-    "price": "149.00",
+    "price": "189.00",
     "priceCurrency": "NZD",
     "availability": "https://schema.org/InStock",
     "url": "https://www.extremepc.co.nz/mchose-jet-75-rgb-hot-swappable-wired-gaming-keyboard-white-topographic-kailh-magnetic-god-switch-82-keys/",

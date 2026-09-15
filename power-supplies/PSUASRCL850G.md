@@ -1,6 +1,6 @@
 # ASRock Challenger CL-850G — 850W 80 PLUS GOLD ATX 3.1 PCIe 5.1 Non-Modular PSU
 
-**Price:** $172.50 inc GST
+**Price:** $199 inc GST
 **SKU:** PSUASRCL850G
 **URL:** https://www.extremepc.co.nz/asrock-challenger-cl-850g-850w-80-plus-gold-atx3-1-pcie5-1-ready-non-modular-power-supply/
 
@@ -84,7 +84,7 @@
   },
   "offers": {
     "@type": "Offer",
-    "price": "172.50",
+    "price": "199.00",
     "priceCurrency": "NZD",
     "availability": "https://schema.org/InStock",
     "url": "https://www.extremepc.co.nz/asrock-challenger-cl-850g-850w-80-plus-gold-atx3-1-pcie5-1-ready-non-modular-power-supply/",

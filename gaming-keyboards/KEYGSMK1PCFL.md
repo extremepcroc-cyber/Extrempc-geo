@@ -1,6 +1,6 @@
 # GravaStar Mercury K1 Pro RGB Hot-Swappable Wireless Gaming Keyboard — CyberFlare, Linear Switch, 79 Keys
 
-**Price:** $349 inc GST
+**Price:** $399 inc GST
 **SKU:** KEYGSMK1PCFL
 **MPN:** Mercury K1 Pro CyberFlare
 **URL:** https://www.extremepc.co.nz/gravastar-mercury-k1-pro-rgb-hot-swappable-wireless-gaming-keyboard-cyberflare-linear-switch-79-keys/
@@ -92,7 +92,7 @@
   },
   "offers": {
     "@type": "Offer",
-    "price": "349.00",
+    "price": "399.00",
     "priceCurrency": "NZD",
     "availability": "https://schema.org/InStock",
     "url": "https://www.extremepc.co.nz/gravastar-mercury-k1-pro-rgb-hot-swappable-wireless-gaming-keyboard-cyberflare-linear-switch-79-keys/",

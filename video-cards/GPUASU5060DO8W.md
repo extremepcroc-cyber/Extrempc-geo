@@ -4,6 +4,7 @@
 **SKU:** GPUASU5060DO8W
 **MPN:** DUAL-RTX5060-O8G-WHITE
 **URL:** https://www.extremepc.co.nz/asus-dual-nvidia-geforce-rtx-5060-oc-white-8gb-gddr7-graphics-card/
+**Status:** OUT OF STOCK - last checked 2026-09-15
 
 ## Quick Specs
 - **GPU**: NVIDIA GeForce RTX 5060 (Blackwell architecture, TSMC 4N process)
@@ -127,7 +128,7 @@
     "@type": "Offer",
     "price": "929.00",
     "priceCurrency": "NZD",
-    "availability": "https://schema.org/InStock",
+    "availability": "https://schema.org/OutOfStock",
     "url": "https://www.extremepc.co.nz/asus-dual-nvidia-geforce-rtx-5060-oc-white-8gb-gddr7-graphics-card/",
     "seller": {
       "@type": "Organization",

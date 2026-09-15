@@ -1,6 +1,6 @@
 # AULA F75 RGB Hot-Swappable Wired Gaming Keyboard — Black Gradient Side-printed, LEOBOG Reaper Switch, 80 Keys
 
-**Price:** $129 inc GST
+**Price:** $149 inc GST
 **SKU:** KEYAULF75BR
 **MPN:** F75 Black
 **URL:** https://www.extremepc.co.nz/wired-gaming-keyboards/aula-f75-rgb-hot-swappable-wired-gaming-keyboard-black-gradient-side-printed-leobog-reaper-switch-80-keys/
@@ -93,7 +93,7 @@
   },
   "offers": {
     "@type": "Offer",
-    "price": "129.00",
+    "price": "149.01",
     "priceCurrency": "NZD",
     "availability": "https://schema.org/InStock",
     "url": "https://www.extremepc.co.nz/wired-gaming-keyboards/aula-f75-rgb-hot-swappable-wired-gaming-keyboard-black-gradient-side-printed-leobog-reaper-switch-80-keys/",

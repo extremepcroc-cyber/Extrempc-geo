@@ -1,6 +1,6 @@
 # ASRock Challenger CL-650G — 650W 80 PLUS GOLD ATX 3.1 Non-Modular PSU
 
-**Price:** $143.75 inc GST
+**Price:** $159 inc GST
 **SKU:** PSUASRCL650G
 **URL:** https://www.extremepc.co.nz/asrock-challenger-cl-650g-650w-80-plus-gold-atx3-1-ready-non-modular-power-supply/
 
@@ -84,7 +84,7 @@
   },
   "offers": {
     "@type": "Offer",
-    "price": "143.75",
+    "price": "159.00",
     "priceCurrency": "NZD",
     "availability": "https://schema.org/InStock",
     "url": "https://www.extremepc.co.nz/asrock-challenger-cl-650g-650w-80-plus-gold-atx3-1-ready-non-modular-power-supply/",

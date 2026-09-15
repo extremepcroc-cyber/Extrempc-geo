@@ -1,6 +1,6 @@
 # FGG MAD68 Pro RGB Hot-Swappable Wired Mechanical Gaming Keyboard — Black, Gateron Jade Esport Pro Switch, 68 Keys
 
-**Price:** $99 inc GST
+**Price:** $169 inc GST
 **SKU:** KEYFGGM68PBJ
 **MPN:** MAD 68 PRO
 **URL:** https://www.extremepc.co.nz/fgg-mad68-pro-rgb-wired-mechanical-gaming-keyboard-black-gateron-jade-esport-pro-switch-68-keys/
@@ -93,7 +93,7 @@
   },
   "offers": {
     "@type": "Offer",
-    "price": "99.00",
+    "price": "169.00",
     "priceCurrency": "NZD",
     "availability": "https://schema.org/InStock",
     "url": "https://www.extremepc.co.nz/fgg-mad68-pro-rgb-wired-mechanical-gaming-keyboard-black-gateron-jade-esport-pro-switch-68-keys/",

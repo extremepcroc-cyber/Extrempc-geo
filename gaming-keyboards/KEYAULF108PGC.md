@@ -1,6 +1,6 @@
 # AULA F108 PRO RGB Hot-Swappable Wireless Gaming Keyboard — Grey, Caramel Latte Linear Switches, 104 Keys
 
-**Price:** $129 inc GST
+**Price:** $149 inc GST
 **SKU:** KEYAULF108PGC
 **MPN:** F108 PRO Grey CL
 **URL:** https://www.extremepc.co.nz/wireless-gaming-keyboards/aula-f108-pro-rgb-hot-swappable-wireless-gaming-keyboard-grey-caramel-latte-linear-switches-104-keys/
@@ -92,7 +92,7 @@
   },
   "offers": {
     "@type": "Offer",
-    "price": "129.00",
+    "price": "149.01",
     "priceCurrency": "NZD",
     "availability": "https://schema.org/InStock",
     "url": "https://www.extremepc.co.nz/wireless-gaming-keyboards/aula-f108-pro-rgb-hot-swappable-wireless-gaming-keyboard-grey-caramel-latte-linear-switches-104-keys/",

@@ -1,6 +1,6 @@
 # AULA Nova75 RGB Hot-Swappable Wireless Gaming Keyboard — Snow Moon White, Ice Shadow Switch, 80 Keys
 
-**Price:** $129 inc GST
+**Price:** $149 inc GST
 **SKU:** KEYAULN75WI
 **MPN:** NOVA 75 White
 **URL:** https://www.extremepc.co.nz/wireless-gaming-keyboards/aula-nova75-rgb-hot-swappable-wireless-gaming-keyboard-snow-moon-white-ice-shadow-switch-80-keys/
@@ -92,7 +92,7 @@
   },
   "offers": {
     "@type": "Offer",
-    "price": "129.00",
+    "price": "149.01",
     "priceCurrency": "NZD",
     "availability": "https://schema.org/InStock",
     "url": "https://www.extremepc.co.nz/wireless-gaming-keyboards/aula-nova75-rgb-hot-swappable-wireless-gaming-keyboard-snow-moon-white-ice-shadow-switch-80-keys/",

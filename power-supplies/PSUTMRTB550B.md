@@ -1,6 +1,6 @@
 # Thermalright TB 550W 80 PLUS Bronze NON Modular Power Supply Black
 
-**Price:** $79.35 inc GST
+**Price:** $89 inc GST
 **SKU:** PSUTMRTB550B
 **URL:** https://www.extremepc.co.nz/thermalright-tb-550w-80-plus-bronze-non-modular-power-supply-black/
 
@@ -67,7 +67,7 @@
   "description": "Thermalright TB 550W 80 PLUS Bronze NON Modular Power Supply Black. Bronze efficiency, 550W, standard ATX Non-modular. For entry / office builds or a mid-range GPU (GTX 1660 / RX 6600 class). Thermalright warranty via ExtremePC NZ.",
   "offers": {
     "@type": "Offer",
-    "price": "79.35",
+    "price": "89.00",
     "priceCurrency": "NZD",
     "availability": "https://schema.org/InStock",
     "url": "https://www.extremepc.co.nz/thermalright-tb-550w-80-plus-bronze-non-modular-power-supply-black/"

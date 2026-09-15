@@ -1,6 +1,6 @@
 ﻿# WD Ultrastar DC HC560 20TB 3.5" SATA3 Enterprise Hard Drive WUH722020ALE6L4
 
-**Price:** $2088.00 inc GST
+**Price:** $2688 inc GST
 **SKU:** HDDWDHC56020T
 **MPN:** WUH722020ALE6L4
 **URL:** https://www.extremepc.co.nz/wd-ultrastar-hc560-20tb-3-5-enterprise-hdd-sata-6gb-s-7200-rpm-512mb-cache-5-years-warranty/
@@ -92,7 +92,7 @@
   "description": "WD Ultrastar DC HC560 20TB enterprise SATA hard drive. CMR, 7200 RPM, 512MB cache, 550 TB/year workload, 2.5M MTBF, AFR <0.35%. 10 supplier units. For enterprise JBOD/SAN, HCI storage nodes, large-scale TrueNAS ZFS pools. 5-year WD warranty via ExtremePC NZ.",
   "offers": {
     "@type": "Offer",
-    "price": "1877.00",
+    "price": "2688.00",
     "priceCurrency": "NZD",
     "availability": "https://schema.org/OutOfStock",
     "url": "https://www.extremepc.co.nz/wd-ultrastar-dc-hc560-20tb-3-5-sata3-enterprise-hard-drive-wuh722020ale6l4/",

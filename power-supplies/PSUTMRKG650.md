@@ -1,8 +1,9 @@
 # Thermalright TR-KG650 650W ATX3.1 80 Plus Gold Fully Modular Power Supply
 
-**Price:** $120.75 inc GST
+**Price:** $129 inc GST
 **SKU:** PSUTMRKG650
 **URL:** https://www.extremepc.co.nz/thermalright-tr-kg650-650w-atx3-1-80-plus-gold-fully-modular-power-supply/
+**Status:** OUT OF STOCK - last checked 2026-09-15
 
 ## Quick Specs
 - **Wattage**: 650W
@@ -71,9 +72,9 @@
   "description": "Thermalright TR-KG650 650W ATX3.1 80 Plus Gold Fully Modular Power Supply. Gold efficiency, 650W, ATX 3.1 Fully Modular. For mid-range builds (Ryzen 5 / Core i5 + RTX 4070 / RX 7800 XT class). Thermalright warranty via ExtremePC NZ.",
   "offers": {
     "@type": "Offer",
-    "price": "120.75",
+    "price": "129.00",
     "priceCurrency": "NZD",
-    "availability": "https://schema.org/InStock",
+    "availability": "https://schema.org/OutOfStock",
     "url": "https://www.extremepc.co.nz/thermalright-tr-kg650-650w-atx3-1-80-plus-gold-fully-modular-power-supply/"
   }
 }

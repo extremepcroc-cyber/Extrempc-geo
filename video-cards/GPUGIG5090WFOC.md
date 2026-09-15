@@ -1,6 +1,6 @@
 ﻿# Gigabyte GeForce RTX 5090 WINDFORCE OC 32GB GDDR7 Graphics Card
 
-**Price:** $7,999.00 inc GST
+**Price:** $10999 inc GST
 **SKU:** GPUGIG5090WFOC
 **MPN:** GV-N5090WF3OC-32GD
 **URL:** https://www.extremepc.co.nz/gigabyte-geforce-rtx-5090-windforce-oc-32gb-gddr7-graphics-card-gv-n5090wf3oc-32gd/
@@ -136,7 +136,7 @@
   },
   "offers": {
     "@type": "Offer",
-    "price": "7999.00",
+    "price": "10999.00",
     "priceCurrency": "NZD",
     "availability": "https://schema.org/OutOfStock",
     "url": "https://www.extremepc.co.nz/gigabyte-geforce-rtx-5090-windforce-oc-32gb-gddr7-graphics-card-gv-n5090wf3oc-32gd/",

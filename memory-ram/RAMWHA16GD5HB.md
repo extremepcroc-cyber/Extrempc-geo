@@ -1,6 +1,6 @@
 # Whalekom DDR5 16GB 5600MHz Heatsink Desktop Memory
 
-**Price:** $399.00 inc GST
+**Price:** $459 inc GST
 **SKU:** RAMWHA16GD5HB
 **MPN:** WHALEKOM D556600HPB
 **URL:** https://www.extremepc.co.nz/desktop-ram-16gb/whalekom-ddr5-16gb-5600mhz-heatsink-desktop-memory/
@@ -127,7 +127,7 @@
   },
   "offers": {
     "@type": "Offer",
-    "price": "399.00",
+    "price": "459.00",
     "priceCurrency": "NZD",
     "availability": "https://schema.org/InStock",
     "url": "https://www.extremepc.co.nz/desktop-ram-16gb/whalekom-ddr5-16gb-5600mhz-heatsink-desktop-memory/",

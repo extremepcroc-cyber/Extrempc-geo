@@ -1,6 +1,6 @@
 # Gigabyte P550SS 550W 80+ Silver ATX 3.0 Power Supply
 
-**Price:** $80.50 inc GST
+**Price:** $89 inc GST
 **SKU:** PSUGIGP550SS
 **URL:** https://www.extremepc.co.nz/gigabyte-p550ss-550w-80-silver-atx-3-0-power-supply/
 
@@ -74,7 +74,7 @@
   "description": "Gigabyte P550SS 550W 80 PLUS Silver ATX 3.0 power supply. Value efficiency for entry and mid-range builds. For budget gaming or office builds. Gigabyte warranty via ExtremePC NZ.",
   "offers": {
     "@type": "Offer",
-    "price": "80.50",
+    "price": "89.00",
     "priceCurrency": "NZD",
     "availability": "https://schema.org/InStock",
     "url": "https://www.extremepc.co.nz/gigabyte-p550ss-550w-80-silver-atx-3-0-power-supply/"

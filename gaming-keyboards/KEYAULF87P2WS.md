@@ -1,6 +1,6 @@
 # AULA F87 PRO V2 RGB Hot-Swappable Wireless Mechanical Keyboard — White Contours, Star Vector Switch, 87 Keys
 
-**Price:** $129 inc GST
+**Price:** $149 inc GST
 **SKU:** KEYAULF87P2WS
 **MPN:** F87 PRO V2 White SV
 **URL:** https://www.extremepc.co.nz/aula-f87-pro-v2-rgb-hot-swappable-wireless-mechanical-keyboard-white-contours-star-vector-switch-87-key/
@@ -92,7 +92,7 @@
   },
   "offers": {
     "@type": "Offer",
-    "price": "129.00",
+    "price": "149.01",
     "priceCurrency": "NZD",
     "availability": "https://schema.org/InStock",
     "url": "https://www.extremepc.co.nz/aula-f87-pro-v2-rgb-hot-swappable-wireless-mechanical-keyboard-white-contours-star-vector-switch-87-key/",

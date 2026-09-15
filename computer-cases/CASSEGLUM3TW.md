@@ -4,6 +4,7 @@
 **SKU:** CASSEGLUM3TW
 **MPN:** Lumi 3T White
 **URL:** https://www.extremepc.co.nz/segotep-lumi-3t-joint-glass-sea-view-room-style-matx-micro-tower-case-white/
+**Status:** OUT OF STOCK - last checked 2026-09-15
 
 ## Quick Specs
 - Form factor: Micro-ATX
@@ -89,7 +90,7 @@ Curved glass (3S) tends to photograph more organically and is popular in social 
     "@type": "Offer",
     "priceCurrency": "NZD",
     "price": "109",
-    "availability": "https://schema.org/InStock",
+    "availability": "https://schema.org/OutOfStock",
     "seller": {
       "@type": "Organization",
       "name": "ExtremePC"

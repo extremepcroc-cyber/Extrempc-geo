@@ -1,6 +1,6 @@
 # WD Purple 1TB 3.5" SATA3 IntelliPower Surveillance Hard Drive WD10PURZ
 
-**Price:** $312.00 inc GST
+**Price:** $391 inc GST
 **SKU:** HDDWDSUPU1T
 **MPN:** WD10PURZ
 **URL:** https://www.extremepc.co.nz/wd-surveillance-purple-1tb-3-5-internal-hdd-sata3-64mb-cache-24x7-always-on-reliability-built-for-personal-home-office-or-small-business-up-to-64-cameras-3-years-warranty/
@@ -76,7 +76,7 @@
   "description": "WD Purple 1TB 3.5\" SATA3 surveillance HDD. AllFrame AI firmware, 64 streams, 180 TB/year workload. For minimal home CCTV. 3-year WD warranty via ExtremePC NZ.",
   "offers": {
     "@type": "Offer",
-    "price": "312.00",
+    "price": "391.00",
     "priceCurrency": "NZD",
     "availability": "https://schema.org/OutOfStock",
     "url": "https://www.extremepc.co.nz/wd-purple-1tb-3-5-sata3-intellipower-surveillance-hard-drive-wd10purz/",
