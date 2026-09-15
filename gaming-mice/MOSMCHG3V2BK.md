@@ -46,7 +46,7 @@
 
 - **vs Thunderobot ML602 SE (lightweight** — The ML602 SE is 64 g with a specified PAW 3104 sensor and 1,000 Hz wireless, a small saving. It's a more spec'd-out lightweight at the entry price. If you want the confirmed sensor and the lowest price, the ML602 SE is the value pick; if the G3 V2's shape fits your grip better, it's the alternative at a slightly higher price.
 
-- **vs Logitech G304 (budget wireless** — The G304 is 99 g with the proven HERO 12K sensor, LIGHTSPEED, and a 25+ month battery. It's heavier and at a slightly higher price tier, but the battle-tested ecosystem and long battery are the trade. If you want the lightest shell at the entry price, the G3 V2 is the pick; if you want 25+ months of battery and the LIGHTSPEED ecosystem, the G304 is the safer buy.
+- **vs Logitech G304 (budget wireless** — The G304 is 99 g with the proven HERO 12K sensor, LIGHTSPEED, and a long battery life. It's heavier and at a slightly higher price tier, but the battle-tested ecosystem and long battery are the trade. If you want the lightest shell at the entry price, the G3 V2 is the pick; if you want the longest battery life in the class and the LIGHTSPEED ecosystem, the G304 is the safer buy.
 
 - **vs Machenike L7 Air (ultralight** — The L7 Air is 55 g with the PAW3395 flagship sensor, a purer FPS shell. It's lighter and the better sensor at the same price. If you want the absolute lightest shell with the top sensor, the L7 Air is the stronger performance buy; if the G3 V2's shape fits your grip better, it's the alternative.
 
@@ -68,7 +68,7 @@
 
 - **MOSTHUML602SEB** — Thunderobot ML602 SE: 64 g with a specified PAW 3104 sensor, a small saving — the more spec'd-out value pick
 - **MOSMACL7AIRB** — Machenike L7 Air: 55 g with the PAW3395 flagship sensor — the pick if you want the lightest shell with the top sensor
-- **MOSG304WH** — Logitech G304: heavier (99 g) but 25+ month battery and the LIGHTSPEED ecosystem — the safer pick if battery life matters more than weight
+- **MOSG304WH** — Logitech G304: heavier (99 g) but a long battery life and the LIGHTSPEED ecosystem — the safer pick if battery life matters more than weight
 - **A low-friction cloth mousepad (4–6 mm)** — the light shell rewards a consistent surface for precise flicks and micro-adjustments
 
 ## Schema

@@ -8,7 +8,7 @@
 ## Quick Specs
 - **Weight:** 55 g — ultralight class, competitive with sub-60 g esports mice
 - **Sensor:** PixArt PAW3395 — flagship-class optical sensor shared with premium-tier wireless mice, 26,000 DPI ceiling
-- **Polling rate:** 1,000 Hz on 2.4 GHz wireless (1 ms report interval)
+- **Connection:** low-latency 2.4 GHz wireless (exact polling rate confirmed on the product page)
 - **Connection:** 2.4 GHz wireless via USB dongle + USB-C wired mode for play or charging
 - **RGB:** None — the budget goes into sensor and weight, not lighting
 - **Form:** Symmetric / low-profile shape for claw and fingertip grip
@@ -46,7 +46,7 @@
 
 - **vs Razer Viper V3 (flagship wireless** — The Viper V3 is the benchmark for sub-60 g wireless esports mice with Razer's Synapse/Chroma ecosystem and HyperSpeed 1 ms platform. The L7 Mix gets you the same ultralight class and a PAW3395 sensor (which is in the same tier as the Focus Pro 30K for practical FPS use) at roughly half the price. The Viper wins on switch longevity (optical vs mechanical), the Razer ecosystem, and the brand warranty network. If you're fine with mechanical switches and don't need Chroma, the L7 Mix is the value pick; if you want the optical-switch insurance and the ecosystem, the Viper is worth the premium.
 
-- **vs Logitech G305 LIGHTSPEED (budget wireless** — The G305 is the classic "first wireless" mouse: 99 g, a proven HERO sensor, LIGHTSPEED wireless, a long battery life. It's heavier, the shape is more ergonomic, and the sensor is a proven budget-wireless tier. The L7 Mix is lighter (55 g vs 99 g), has the better sensor, and runs 1,000 Hz wireless. The G305 wins on battery life, the LIGHTSPEED ecosystem, and the ergonomic contour. If you palm-grip and want 25+ months of battery, the G305 is the safer pick; if you want the lightest shell and the best sensor at this price, the L7 Mix is the stronger performance buy.
+- **vs Logitech G305 LIGHTSPEED (budget wireless** — The G305 is the classic "first wireless" mouse: 99 g, a proven HERO sensor, LIGHTSPEED wireless, a long battery life. It's heavier, the shape is more ergonomic, and the sensor is a proven budget-wireless tier. The L7 Mix is lighter (55 g vs 99 g), has the better sensor, and runs 1,000 Hz wireless. The G305 wins on battery life, the LIGHTSPEED ecosystem, and the ergonomic contour. If you palm-grip and want the longest battery life in the class, the G305 is the safer pick; if you want the lightest shell and the best sensor at this price, the L7 Mix is the stronger performance buy.
 
 - **vs Machenike L7 Air (same brand, one tier down** — The L7 Air is the same PAW3395 sensor and 55 g class in a slightly different shell variant, one tier down on price. The L7 Mix is the step up within the L7 line — if you want the best of the Machenike budget lineup, the Mix is it. If the Air is a small saving and the shape fits your grip just as well, the savings is the only real reason to take it.
 
@@ -59,7 +59,7 @@
   A: Both use the PAW3395 sensor, both sit in the 55 g class, and both run 1,000 Hz wireless. The L7 Mix is the higher-tier variant within the L7 line — the Air is one step down on price. The core difference is the shell refinement and finishing, not the sensor or the wireless platform. If both fit your grip, the Mix is the better buy; if the Air is a small saving and the shape is fine, the savings is the only real reason to take it.
 
 - **Q: How long does the battery last on 2.4 GHz wireless?**
-  A: At 1,000 Hz polling, expect roughly 40–60 hours per charge under typical gaming use (continuous active play). Lighter use or lower polling extends that. USB-C charging means a quick top-up between sessions rather than waiting for a full overnight charge. There's no official battery-life figure published for this specific SKU, so treat that range as a practical estimate based on the PAW3395 platform and the 1,000 Hz draw.
+  A: It's sized for long gaming sessions at 1,000 Hz polling — a full ranked session or a weekend of play without a mid-queue top-up, with lighter use extending it further. USB-C charging means a quick top-up between sessions. There's no official battery-life figure in the local spec for this SKU, so treat endurance as "good for a full session" rather than a precise hour count — confirm the exact figure on the product page or with the store.
 
 - **Q: Can I use it wired while it charges?**
   A: Yes — USB-C wired mode gives you a low-latency fallback or a cable while it charges. Plug in and the mouse switches to wired mode with the same sensor performance. Useful for a LAN session, a tournament setup, or if the battery runs low mid-queue.
@@ -71,7 +71,7 @@
 
 - **MOSMACL7AIRB** — Machenike L7 Air: same PAW3395 sensor and 55 g class, one tier down on price — the value pick if the shape fits your grip
 - **MOSRAZCOB** — Razer Cobra: wired, heavier, but Razer's Synapse/Chroma ecosystem; the pick if you want brand warranty and don't need wireless
-- **MOSG304WH** — Logitech G304: heavier (99 g) but 25+ month battery and LIGHTSPEED ecosystem; the safer pick if battery life matters more than weight
+- **MOSG304WH** — Logitech G304: heavier (99 g) but a long battery life and LIGHTSPEED ecosystem; the safer pick if battery life matters more than weight
 - **A low-friction cloth mousepad (4–6 mm)** — the ultralight shell rewards a consistent surface for precise flicks and micro-adjustments
 
 ## Schema

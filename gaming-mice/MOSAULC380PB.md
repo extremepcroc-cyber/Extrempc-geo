@@ -8,7 +8,7 @@
 ## Quick Specs
 - **Connection:** Tri-mode — 2.4 GHz wireless, Bluetooth, and USB-C wired, one mouse across desktop, laptop, and tablet
 - **Weight:** Lightweight class for its price band (the SC380 line is built low-mass)
-- **Polling rate:** 1,000 Hz on 2.4 GHz wireless (1 ms report interval)
+- **Connection:** low-latency 2.4 GHz wireless (exact polling rate confirmed on the product page)
 - **Included:** A charging dock — the mouse sits in a stand to charge, keeping the desk tidy
 - **RGB:** None — a performance-focused shell, not a lighting build
 - **Color:** Black
@@ -21,7 +21,7 @@
 
 - **A charging dock included — the desk stays tidy** — The included dock lets the mouse sit in a stand to charge, so it's not lying on the desk with a cable trailing. For a small desk or a coordinated setup, that's a small but real quality-of-life win: the mouse is always in one place, always charging, always ready. At the entry price, the dock is a genuine inclusion rather than an accessory you'd have to buy separately.
 
-- **1,000 Hz wireless with a wired fallback** — A 1 ms report interval on a 2.4 GHz channel, the same latency class as Razer HyperSpeed or Logitech LIGHTSPEED, with USB-C wired mode as a low-latency fallback or a cable while it charges. For a player who wants wireless freedom without the "is it lagging" anxiety, this is the price point where it stops being a compromise.
+- **Low-latency wireless with a wired fallback** — a low-latency 2.4 GHz channel in the same class as Razer HyperSpeed or Logitech LIGHTSPEED, with USB-C wired mode as a low-latency fallback or a cable while it charges. For a player who wants wireless freedom without the "is it lagging" anxiety, this is the price point where it stops being a compromise.
 
 - **A lightweight performance shell at the value tier** — The SC380 line is built low-mass, so the shell is light enough that flicks feel faster and wrist fatigue over a long session is lower. The money goes into the tri-mode platform and the dock, not lighting. If you want a flexible, low-mass mouse at the entry price, this is a strong value pick.
 
@@ -47,7 +47,7 @@
 
 - **vs AULA SC620 (same brand, RGB variant** — The SC620 is the same tri-mode, low-mass platform with RGB lighting added. If you want the lights and your setup runs a coordinated RGB look, the SC620 is the pick; if you want the no-bloat performance shell and the charging dock, the SC380 Pro is the cleaner value buy at the same price.
 
-- **vs Logitech G304 (budget wireless** — The G304 is 99 g with the HERO 12K sensor, the proven LIGHTSPEED platform, and a 25+ month battery. It's heavier and at a slightly higher price tier. The SC380 Pro is lighter, tri-mode (2.4 GHz + Bluetooth + wired), and includes a charging dock. If you want the battle-tested LIGHTSPEED ecosystem and long battery life, the G304 is the safe pick; if you want tri-mode flexibility, a lighter shell, and the dock at the entry price, the SC380 Pro is the value answer.
+- **vs Logitech G304 (budget wireless** — The G304 is 99 g with the HERO 12K sensor, the proven LIGHTSPEED platform, and a long battery life. It's heavier and at a slightly higher price tier. The SC380 Pro is lighter, tri-mode (2.4 GHz + Bluetooth + wired), and includes a charging dock. If you want the battle-tested LIGHTSPEED ecosystem and long battery life, the G304 is the safe pick; if you want tri-mode flexibility, a lighter shell, and the dock at the entry price, the SC380 Pro is the value answer.
 
 - **vs Machenike L7 Air (ultralight** — The L7 Air is 55 g with the PAW3395 flagship sensor, a purer FPS shell. It's lighter and the better sensor, but single-mode (2.4 GHz) with no dock. If you want the absolute lightest shell with the top sensor for FPS, the L7 Air is the pick; if you want tri-mode flexibility and the charging dock, the SC380 Pro covers that at the same price.
 
@@ -71,7 +71,7 @@
 ## Related Products
 
 - **MOSAULSC620B** — AULA SC620: same tri-mode, low-mass platform with RGB lighting — the pick if you want the coordinated-look version
-- **MOSG304WH** — Logitech G304: heavier (99 g) but 25+ month battery and the LIGHTSPEED ecosystem — the safer pick if battery life matters more than flexibility
+- **MOSG304WH** — Logitech G304: heavier (99 g) but a long battery life and the LIGHTSPEED ecosystem — the safer pick if battery life matters more than flexibility
 - **MOSMACL7AIRB** — Machenike L7 Air: 55 g with the PAW3395 flagship sensor — the pick if you want the lightest shell with the top sensor for FPS
 - **A low-friction cloth mousepad (4–6 mm)** — the light shell rewards a consistent surface for precise flicks and micro-adjustments
 
@@ -85,7 +85,7 @@
   "sku": "MOSAULC380PB",
   "mpn": "SC380 Pro Black",
   "category": "Gaming Mouse / Tri-Mode Lightweight Wireless Mouse",
-  "description": "Tri-mode (2.4 GHz, Bluetooth, USB-C wired) lightweight wireless gaming mouse with 1,000 Hz 2.4 GHz wireless (1 ms report interval) and an included charging dock. Low-mass shell for claw and fingertip grip, no RGB — budget allocated to the flexible tri-mode platform and the tidy charging stand.",
+  "description": "Tri-mode (2.4 GHz, Bluetooth, USB-C wired) lightweight wireless gaming mouse with low-latency 2.4 GHz wireless and an included charging dock. Low-mass shell for claw and fingertip grip, no RGB — budget allocated to the flexible tri-mode platform and the tidy charging stand.",
   "audience": {
     "@type": "PeopleAudience",
     "audienceType": "Desktop-and-laptop dual-setup players, small-desk buyers, budget FPS gamers"

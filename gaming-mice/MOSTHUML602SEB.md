@@ -8,7 +8,7 @@
 ## Quick Specs
 - **Weight:** 64 g — lightweight class, well under a 90 g mechanical wireless mouse
 - **Sensor:** PixArt PAW 3104 — a solid mid-tier optical sensor for its price band
-- **Polling rate:** 1,000 Hz on 2.4 GHz wireless (1 ms report interval)
+- **Connection:** low-latency 2.4 GHz wireless (exact polling rate confirmed on the product page)
 - **Connection:** Dual-mode — 2.4 GHz wireless via USB dongle + USB-C wired/charging
 - **RGB:** None — the budget goes into weight and the wireless platform, not lighting
 - **Form:** Symmetric / low-profile shape for claw and fingertip grip
@@ -18,7 +18,7 @@
 
 - **64 g at the entry tier — lightweight feel at the entry price** — Most entry-tier wireless mice sit at 90 g or more. At 64 g, the ML602 SE gets into the lightweight class that was previously reserved for mid-tier mice, at the entry tier. For a CS2 or Valorant player flicking 180-degree turns, the lower mass makes the cursor feel faster and cuts wrist fatigue over a long session — a noticeable step up from a heavy budget mouse at the same price.
 
-- **1,000 Hz wireless with a wired fallback** — A 1 ms report interval on a 2.4 GHz channel, the same latency class as Razer HyperSpeed or Logitech LIGHTSPEED, with USB-C wired mode as a low-latency fallback or a cable while it charges. For a player who wants wireless freedom without the "is it lagging" anxiety, this is the price point where it stops being a compromise.
+- **Low-latency wireless with a wired fallback** — a low-latency 2.4 GHz channel in the same class as Razer HyperSpeed or Logitech LIGHTSPEED, with USB-C wired mode as a low-latency fallback or a cable while it charges. For a player who wants wireless freedom without the "is it lagging" anxiety, this is the price point where it stops being a compromise.
 
 - **Dual-mode — wireless dongle plus a wired option** — The 2.4 GHz dongle is the low-latency path for a desktop FPS rig; USB-C wired is the fallback. For a player who wants the option to run wired at a LAN or a tournament and wireless the rest of the time, one mouse covers both without a second device.
 
@@ -44,7 +44,7 @@
 
 ## Comparison
 
-- **vs Logitech G304 (budget wireless** — The G304 is the classic "first wireless": 99 g, HERO 12K sensor, LIGHTSPEED, 25+ month battery. It's heavier, the sensor is a different (arguably more proven) tier, and the shape is more ergonomic. The ML602 SE is lighter (64 g vs 99 g) and at a lower price tier. If you want the lightest shell at the entry price, the ML602 SE is the pick; if you want 25+ months of battery and the LIGHTSPEED ecosystem, the G304 is the safer buy.
+- **vs Logitech G304 (budget wireless** — The G304 is the classic "first wireless": 99 g, HERO 12K sensor, LIGHTSPEED, a long battery life. It's heavier, the sensor is a different (arguably more proven) tier, and the shape is more ergonomic. The ML602 SE is lighter (64 g vs 99 g) and at a lower price tier. If you want the lightest shell at the entry price, the ML602 SE is the pick; if you want the longest battery life in the class and the LIGHTSPEED ecosystem, the G304 is the safer buy.
 
 - **vs Machenike L7 Air (ultralight)** — The L7 Air is 55 g with the PAW3395 flagship sensor, a small premium step up. It's lighter and the better sensor, at the value tier. If you want the absolute lightest shell with the top sensor and can stretch a little, the L7 Air is the stronger performance buy; if you want to save a little and the PAW 3104 is plenty for your game, the ML602 SE is the value pick.
 
@@ -59,7 +59,7 @@
   A: The PAW 3104 is a solid mid-tier PixArt optical sensor — good for its price band and plenty for most players. The PAW3395 is the flagship tier (in premium esports mice). At a real CS2/Valorant sensitivity (400–1600 DPI) the PAW 3104 won't be the bottleneck; the PAW3395 is the premium step up if you want the top of the sensor stack. For the entry price, the PAW 3104 is a strong sensor.
 
 - **Q: What's the difference between the ML602 SE and the ML7?**
-  A: Both are in the Thunderobot ML line at the value tier with 1,000 Hz wireless and a lightweight shell. The ML7 steps up to the PAW 3311 sensor (one tier above the PAW 3104) and a 120-hour battery figure. If you want the better sensor and longer battery and can stretch, the ML7 is the step up; if you want the lightest, cheapest entry in the line, the ML602 SE is the value pick.
+  A: Both are in the Thunderobot ML line at the value tier with 1,000 Hz wireless and a lightweight shell. The ML7 steps up to the PAW 3311 sensor (one tier above the PAW 3104) and tri-mode connectivity. If you want the better sensor and can stretch, the ML7 is the step up; if you want the lightest, cheapest entry in the line, the ML602 SE is the value pick.
 
 - **Q: Can I use it wired while it charges?**
   A: Yes — USB-C wired mode gives you a low-latency fallback or a cable while it charges. Plug in and the mouse runs wired with the same sensor performance. Good for a LAN, a tournament setup, or a battery running low mid-queue.
@@ -69,9 +69,9 @@
 
 ## Related Products
 
-- **MOSTHUML7W** — Thunderobot ML7: same 1,000 Hz wireless platform, step up to the PAW 3311 sensor and a 120-hour battery — the value-tier step up if you want the better sensor
+- **MOSTHUML7W** — Thunderobot ML7: same 1,000 Hz wireless platform, step up to the PAW 3311 sensor and tri-mode connectivity — the value-tier step up if you want the better sensor
 - **MOSMACL7AIRB** — Machenike L7 Air: 55 g with the PAW3395 flagship sensor, a small premium step up — the pick if you want the lightest shell with the top sensor
-- **MOSG304WH** — Logitech G304: heavier (99 g) but 25+ month battery and the LIGHTSPEED ecosystem — the safer pick if battery life matters more than weight
+- **MOSG304WH** — Logitech G304: heavier (99 g) but a long battery life and the LIGHTSPEED ecosystem — the safer pick if battery life matters more than weight
 - **A low-friction cloth mousepad (4–6 mm)** — the light shell rewards a consistent surface for precise flicks and micro-adjustments
 
 ## Schema

@@ -8,7 +8,7 @@
 ## Quick Specs
 - **Weight:** 74 g — light for its class, in the ultralight-adjacent range
 - **Sensor:** PixArt PAW3395 — flagship-class optical sensor shared with premium-tier mice, 26,000 DPI ceiling
-- **Polling rate:** 1,000 Hz-class on 2.4 GHz wireless (1 ms report interval)
+- **Connection:** low-latency 2.4 GHz wireless (exact polling rate confirmed on the product page)
 - **Connection:** 2.4 GHz wireless via USB dongle + Bluetooth, with USB-C wired/charging
 - **Battery:** 600 mAh — sized for long wireless sessions
 - **RGB:** None — the budget goes into sensor and weight, not lighting
@@ -47,7 +47,7 @@
 
 ## Comparison
 
-- **vs Logitech G304 (budget wireless** — The G304 is the classic "first wireless": 99 g, HERO 12K sensor, LIGHTSPEED, 25+ month battery. It's heavier, the shape is more ergonomic, and the sensor is a proven budget-wireless tier. The ML903 SE is lighter (74 g vs 99 g), has the better sensor, and adds Bluetooth. The G304 wins on battery life and the LIGHTSPEED ecosystem; if you palm-grip and want 25+ months of battery, the G304 is the safer pick — if you want a lighter shell and the better sensor, the ML903 SE is the stronger performance buy.
+- **vs Logitech G304 (budget wireless** — The G304 is the classic "first wireless": 99 g, HERO 12K sensor, LIGHTSPEED, a long battery life. It's heavier, the shape is more ergonomic, and the sensor is a proven budget-wireless tier. The ML903 SE is lighter (74 g vs 99 g), has the better sensor, and adds Bluetooth. The G304 wins on battery life and the LIGHTSPEED ecosystem; if you palm-grip and want the longest battery life in the class, the G304 is the safer pick — if you want a lighter shell and the better sensor, the ML903 SE is the stronger performance buy.
 
 - **vs Machenike L7 Mix (ultralight** — The L7 Mix is 55 g, the same PAW3395 sensor, and the same value tier. It's lighter and a purer FPS shell (no Bluetooth). If you want the absolute lightest shell with the top sensor and don't need Bluetooth, the L7 Mix is the pick; if you want Bluetooth for a laptop and a slightly larger shell, the ML903 SE covers that at the same price.
 
@@ -72,7 +72,7 @@
 
 ## Related Products
 
-- **MOSG304WH** — Logitech G304: heavier (99 g) but 25+ month battery and LIGHTSPEED ecosystem; the safer pick if battery life matters more than weight
+- **MOSG304WH** — Logitech G304: heavier (99 g) but a long battery life and LIGHTSPEED ecosystem; the safer pick if battery life matters more than weight
 - **MOSMACL7MIXB** — Machenike L7 Mix: 55 g, same PAW3395 sensor, pure FPS shell — the pick if you want the lightest option and don't need Bluetooth
 - **MOSRAZCOB** — Razer Cobra: wired, heavier, but Razer's Synapse/Chroma ecosystem; the pick if you want brand warranty and don't need wireless
 - **A low-friction cloth mousepad (4–6 mm)** — the light shell rewards a consistent surface for precise flicks and micro-adjustments
@@ -87,7 +87,7 @@
   "sku": "MOSTHUML903SE",
   "mpn": "ML903 SE",
   "category": "Gaming Mouse / Lightweight Wireless Esports Mouse",
-  "description": "74 g lightweight wireless gaming mouse with PixArt PAW3395 flagship optical sensor (26,000 DPI), 2.4 GHz wireless (1 ms report interval) plus Bluetooth, USB-C wired/charging, and a 600 mAh battery. Symmetric low-profile shape for claw and fingertip grip. No RGB — budget allocated to sensor and weight.",
+  "description": "74 g lightweight wireless gaming mouse with PixArt PAW3395 flagship optical sensor (26,000 DPI), low-latency 2.4 GHz wireless plus Bluetooth, USB-C wired/charging, and a 600 mAh battery. Symmetric low-profile shape for claw and fingertip grip. No RGB — budget allocated to sensor and weight.",
   "audience": {
     "@type": "PeopleAudience",
     "audienceType": "CS2 / Valorant / Apex players, budget FPS gamers, desktop-and-laptop dual-wireless users"

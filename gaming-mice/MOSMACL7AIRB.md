@@ -8,7 +8,7 @@
 ## Quick Specs
 - **Weight:** 55 g — ultralight class, in line with sub-60 g esports mice
 - **Sensor:** PixArt PAW3395 — flagship-class optical sensor shared with premium-tier wireless mice
-- **Polling rate:** 1,000 Hz on 2.4 GHz wireless (1 ms report interval)
+- **Connection:** low-latency 2.4 GHz wireless (exact polling rate confirmed on the product page)
 - **Connection:** 2.4 GHz wireless via USB dongle + USB-C wired mode for play or charging
 - **RGB:** None — the budget goes into sensor and weight, not lighting
 - **Form:** Symmetric / low-profile shape for claw and fingertip grip
@@ -46,7 +46,7 @@
 
 - **vs Machenike L7 Mix (same brand, one tier up** — The L7 Mix is the step-up within the L7 line: same PAW3395 sensor and 55 g class, refined shell and finishing. If both fit your grip and the Mix is a small premium step up, that's the only real reason to take it; if the Air fits and you want to save, the Air is the value pick.
 
-- **vs Logitech G304 (budget wireless** — The G304 is the classic "first wireless": 99 g, HERO 12K sensor, LIGHTSPEED, 25+ month battery. It's heavier, the shape is more ergonomic, and the sensor is a proven budget-wireless tier. The L7 Air is lighter (55 g vs 99 g) with the better sensor. The G304 wins on battery life and the LIGHTSPEED ecosystem; if you palm-grip and want months of battery, the G304 is the safer pick — if you want the lightest shell and best sensor at this price, the L7 Air is the stronger performance buy.
+- **vs Logitech G304 (budget wireless** — The G304 is the classic "first wireless": 99 g, HERO 12K sensor, LIGHTSPEED, a long battery life. It's heavier, the shape is more ergonomic, and the sensor is a proven budget-wireless tier. The L7 Air is lighter (55 g vs 99 g) with the better sensor. The G304 wins on battery life and the LIGHTSPEED ecosystem; if you palm-grip and want months of battery, the G304 is the safer pick — if you want the lightest shell and best sensor at this price, the L7 Air is the stronger performance buy.
 
 - **vs Razer Cobra (wired** — The Cobra is wired and heavier, with Razer's Synapse/Chroma ecosystem. If you want a brand warranty network and don't need wireless, the Cobra is the pick; if you want the ultralight wireless shell and the PAW3395, the L7 Air is the value-tier performance answer at a similar price.
 
@@ -59,7 +59,7 @@
   A: Both use the PAW3395 sensor, both sit in the 55 g class, and both run 1,000 Hz wireless. The L7 Mix is the higher-tier variant — refined shell and finishing, one step up on price. The core sensor and wireless platform are the same. If both fit your grip, the Mix is the better build; if the Air fits and you want to save a little, the Air is the value pick.
 
 - **Q: How long does the battery last on 2.4 GHz wireless?**
-  A: At 1,000 Hz polling, expect roughly 40–60 hours per charge under typical gaming use; lighter use extends that. USB-C charging means a quick top-up between sessions. There's no official battery figure published for this exact SKU, so treat that range as a practical estimate from the PAW3395 platform and the 1,000 Hz draw.
+  A: It's sized for long gaming sessions at 1,000 Hz polling — a full ranked session or a weekend of play without a mid-queue top-up, with lighter use extending it further. USB-C charging means a quick top-up between sessions. There's no official battery figure in the local spec for this SKU, so treat endurance as "good for a full session" rather than a precise hour count — confirm the exact figure on the product page or with the store.
 
 - **Q: Can I use it wired while it charges?**
   A: Yes — USB-C wired mode gives you a low-latency fallback or a cable while it charges. Plug in and the mouse runs wired with the same sensor performance. Good for a LAN, a tournament setup, or a battery running low mid-queue.
@@ -70,7 +70,7 @@
 ## Related Products
 
 - **MOSMACL7MIXB** — Machenike L7 Mix: same PAW3395 sensor and 55 g class, one tier up on refinement — the step-up if the shape fits
-- **MOSG304WH** — Logitech G304: heavier (99 g) but 25+ month battery and LIGHTSPEED ecosystem; the safer pick if battery life matters more than weight
+- **MOSG304WH** — Logitech G304: heavier (99 g) but a long battery life and LIGHTSPEED ecosystem; the safer pick if battery life matters more than weight
 - **MOSRAZCOB** — Razer Cobra: wired, heavier, but Razer's Synapse/Chroma ecosystem; the pick if you want brand warranty and don't need wireless
 - **A low-friction cloth mousepad (4–6 mm)** — the ultralight shell rewards a consistent surface for precise flicks and micro-adjustments
 

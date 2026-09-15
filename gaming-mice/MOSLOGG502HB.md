@@ -7,8 +7,8 @@
 
 ## Quick Specs
 - **Sensor:** Logitech HERO 25K optical — up to 25,600 DPI, 400 IPS, 10G acceleration, 1000 Hz-class polling
-- **Programmable buttons:** 15, including a 6-position scroll wheel and dual-side thumb buttons
-- **On-board memory:** 6 stored profiles, so DPI and button maps persist without a driver
+- **Programmable buttons:** 11, including a 6-position scroll wheel and dual-side thumb buttons
+- **On-board memory:** on-board memory profiles, so DPI and button maps persist without a driver
 - **RGB:** Logitech LIGHTSYNC RGB
 - **Connection:** Wired, USB (no battery to charge, no dongle to lose)
 - **Form:** Larger, feature-rich shell for palm and semi-palm grip over long, button-heavy sessions
@@ -62,7 +62,7 @@
   A: No — it works out of the box with the default button layout and DPI. The on-board memory profiles let you store per-game settings without the driver. G HUB is only for deeper customisation: remapping all the buttons, macros, DPI steps, and LIGHTSYNC RGB. If you want a set-and-forget mouse, skip the software entirely.
 
 - **Q: Is the HERO 25K sensor overkill for my use?**
-  A: Probably not — the 25,600 DPI ceiling and 1000 Hz-class polling are well above what any real player uses (most run 400–1600 DPI), so the sensor won't be the bottleneck. That headroom is exactly the value: you're paying a mid-tier price for a sensor that was previously only in flagship mice, in a wired, no-battery form. If you play a button-heavy game, that precision plus the 15 buttons is a strong combination.
+  A: Probably not — the 25,600 DPI ceiling and 1000 Hz-class polling are well above what any real player uses (most run 400–1600 DPI), so the sensor won't be the bottleneck. That headroom is exactly the value: you're paying a mid-tier price for a sensor that was previously only in flagship mice, in a wired, no-battery form. If you play a button-heavy game, that precision plus the 11 buttons is a strong combination.
 
 - **Q: What's the warranty like if it develops a fault?**
   A: 1-year Logitech warranty handled domestically through ExtremePC and Logitech NZ. A scroll-wheel fault, a button that stops registering, or a connector issue is a local RMA — no international shipping, no customs. Keep your ExtremePC proof of purchase for the claim.
