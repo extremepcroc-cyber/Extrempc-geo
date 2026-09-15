@@ -268,6 +268,30 @@ Never create `.ps1`, `.json`, `.txt`, or any other files directly in the repo ro
 4. Agent may use product knowledge base files (`product-knowledge/`) for technical context and comparisons
 5. Agent must NOT call BC API directly or do any web search for product data
 
+## Deciding What to Write Next (`tools/coverage-report.py`)
+
+**Run this before planning any new GEO-writing batch.** It answers "what's actually missing" per category — live BC in-stock SKU count vs. GEO files already written — instead of relying on stale task lists or guesswork.
+
+**Usage:**
+```bash
+python tools/coverage-report.py                  # print table only
+python tools/coverage-report.py --write           # also refresh tools/geo-coverage.md
+python tools/coverage-report.py --category monitors
+```
+
+**Stock basis: OH (Onehunga) > 0**, same as `audit-geo.py` — WL/SL/SU are internal, never customer-available. Do not use BC's `availability=available`, it counts supplier-only stock and badly overstates coverage.
+
+**Do not hand-edit `tools/geo-coverage.md`** — it's generated output, regenerate with `--write` instead.
+
+**Known category-ID trap this tool already handles correctly — be aware of it if you ever query BC categories directly elsewhere:** BC's `categories:in` filter does **not** roll up subcategories, and different category trees fail in different directions:
+- CPU/Memory/SSD/HDD/PSU/Cases: real products sit almost entirely on **leaf** subcategories — querying the parent ID alone undercounted CPU by ~9x (11 direct vs 91 across its two leaves)
+- Gaming Mice/Monitors: leaf subcategories **overlap** (a product can be tagged to two at once) — summing separate leaf counts double-counts
+- Video Cards: some products are tagged only at the **parent/mid-level** node, not any specific leaf — summing leaves-only undercounts
+
+The safe method when overlap direction is unknown: one combined `categories:in=id1,id2,...` query across every level of the subtree in a single call — BC returns each matching product exactly once no matter how many of the given ids it satisfies, so this can't double-count or undercount. This is `coverage-report.py`'s `mode="dedup"`.
+
+Gaming Headsets: `476` in older docs/mirrors of this table is wrong — the live BC id is `484` (`476` is a different category, *Over Ear Headphones*).
+
 ## Fetching Product Data Before Writing GEO Files (`tools/fetch-category.ps1`)
 
 **Always run this script first before writing GEO files for a subcategory.** Never have an AI agent call the BC API directly — models make mistakes with pagination, GST calculation, and custom-field parsing. The script outputs a clean JSON that agents read directly.
