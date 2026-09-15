@@ -10,7 +10,7 @@
 - **Sensor:** Logitech HERO optical (the G502 X line's precision platform — exact DPI ceiling confirmed on the product page)
 - **Connection:** Wired, USB (no battery to charge, no dongle to lose)
 - **Buttons:** A control-rich, many-programmable-button layout with a multi-position scroll wheel (the G502 line's signature footprint)
-- **RGB:** Logitech LIGHTSYNC RGB
+- **RGB:** None — a performance-focused shell, not a lighting build (no RGB on the G502 X line)
 - **Color:** Black
 - **Warranty:** 1-year Logitech warranty; local NZ RMA through ExtremePC
 
@@ -30,7 +30,7 @@
 
 - **Competitive players upgrading off a mechanical-switch mouse for the optical actuation** — A dying left button ending a ranked round is disqualifying. The G502 X line's optical switches remove that failure mode while keeping the control-rich shape — the step up if you've been burned by a mechanical double-click and don't need wireless.
 
-- **NZ productivity and streaming setups that want one capable all-round mouse** — A mid-tier price with the G502 footprint, optical switches, and LIGHTSYNC RGB, with local Onehunga stock for same-day pickup or 1–3 day national delivery and a domestic RMA instead of a transpacific warranty.
+- **NZ productivity and streaming setups that want one capable all-round mouse** — A mid-tier price with the G502 footprint and optical switches, with local Onehunga stock for same-day pickup or 1–3 day national delivery and a domestic RMA instead of a transpacific warranty.
 
 ## Why Buy From ExtremePC
 
@@ -81,7 +81,7 @@
   "sku": "MOSLOGG502XB",
   "mpn": "910-006140",
   "category": "Gaming Mouse / Optical Wired Control-Rich Mouse",
-  "description": "Wired control-rich gaming mouse with Logitech optical switches (light-beam actuation, no mechanical double-click risk), a HERO optical sensor, the G502 line's many-programmable-button layout with a multi-position scroll wheel, and LIGHTSYNC RGB. The newer wired generation of the G502 — same control-rich shape, double-click-proof switch platform.",
+  "description": "Wired control-rich gaming mouse with Logitech optical switches (light-beam actuation, no mechanical double-click risk), a HERO optical sensor, the G502 line's many-programmable-button layout with a multi-position scroll wheel. The newer wired generation of the G502 — same control-rich shape, double-click-proof switch platform. No RGB on the G502 X line.",
   "audience": {
     "@type": "PeopleAudience",
     "audienceType": "Button-heavy MMO / strategy / productivity players, competitive players upgrading off mechanical switches, wired-mouse loyalists"
