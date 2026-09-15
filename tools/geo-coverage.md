@@ -15,19 +15,19 @@ subcategories. `gap` = OH>0 SKUs with no GEO file, floored at 0.
 
 | category | dir | prio | OH>0 | files | gap | ids checked |
 |---|---|:---:|---:|---:|---:|---|
-| Gaming PCs | `gaming-pcs/` | P0 | 236 | 45 | 191 | 120=236, 1373=238 |
+| Gaming PCs | `gaming-pcs/` | P0 | 236 | 41 | 195 | 120=236, 1373=238 |
 | Gaming Mice | `gaming-mice/` | P0 | 62 | 12 | 50 | 513=62, 1949=62 |
-| Monitors | `monitors/` | P0 | 19 | 6 | 13 | 519=19 |
+| Monitors | `monitors/` | P0 | 19 | 3 | 16 | 519=19 |
 | Video Cards | `video-cards/` | P1 | 27 | 19 | 8 | 426=27, 1426=19 |
 | Gaming Keyboards | `gaming-keyboards/` | P1 | 68 | 69 | 0 | 486=68 |
 | Gaming Headsets | `gaming-headsets/` | P1 | 19 | 0 | 19 | 484=19, 476=0 |
-| CPU / Processors | `cpu-processors/` | P2 | 7 | 29 | 0 | 364=7, 1430=0 |
-| Memory / RAM | `memory-ram/` | P2 | 2 | 31 | 0 | 395=2 |
-| Internal SSD | `internal-ssd/` | P2 | 2 | 18 | 0 | 375=2 |
-| Internal HDD | `internal-hard-drives/` | P2 | 0 | 42 | 0 | 369=0 |
+| CPU / Processors | `cpu-processors/` | P2 | 27 | 29 | 0 | 757=18, 758=9 |
+| Memory / RAM | `memory-ram/` | P2 | 27 | 31 | 0 | 1023=0, 1024=4, 1025=11, 1308=1, 1026=2, 1027=0, 1028=5, 1029=2, 1216=0, 1217=0, 1322=2 |
+| Internal SSD | `internal-ssd/` | P2 | 18 | 18 | 0 | 376=16, 380=2 |
+| Internal HDD | `internal-hard-drives/` | P2 | 5 | 42 | 0 | 371=2, 372=2, 373=1, 370=0 |
 | Cooling | `cooling/` | P3 | 213 | 47 | 166 | 351=41, 349=62, 347=39, 348=23, 363=5, 346=43 |
-| Power Supplies | `power-supplies/` | P3 | 8 | 29 | 0 | 410=8 |
-| Computer Cases | `computer-cases/` | P3 | 16 | 45 | 0 | 336=16 |
+| Power Supplies | `power-supplies/` | P3 | 20 | 29 | 0 | 411=0, 412=2, 413=6, 414=4, 415=4, 416=4, 1319=0 |
+| Computer Cases | `computer-cases/` | P3 | 55 | 45 | 10 | 340=7, 338=27, 339=13, 337=7, 342=1 |
 | Gaming Chairs | `gaming-chairs/` | P3 | 10 | 10 | 0 | 244=10 |
 | Webcams | `webcams/` | P3 | 2 | 8 | 0 | 230=2 |
 | Microphones | `microphones/` | P3 | 3 | 3 | 0 | 229=3 |
@@ -35,9 +35,18 @@ subcategories. `gap` = OH>0 SKUs with no GEO file, floored at 0.
 ## Notes
 
 - **Gaming PCs** — sells by config combo — cover main/flagship only, not all SKUs
-- **Gaming Keyboards** — DONE 2026-09-15 — 69/69 written
+- **Gaming Mice** — UNVERIFIED — 513 is itself a mid-level node with leaf children 1237 (Wired)/1238 (Wireless); raw product count under 513 alone is 144 but the two leaves sum to 187, so 513 may not roll up its own children either. Do not trust this row's gap until re-verified like cooling/CPU were.
+- **Monitors** — UNVERIFIED — 519 has 6 leaf children (532/533/531/538/536/534) summing to 326 raw products vs 165 directly under 519. Same parent-undercount pattern as CPU/RAM/SSD/HDD/PSU/Cases had — likely needs mode="sum" over the leaves, not confirmed yet.
+- **Video Cards** — UNVERIFIED — 426's own children (429 Nvidia/427 AMD/2038 Intel) sum higher, and 429 itself has further children (430/1018/1325 = RTX 30/40/50). Do not naively sum parent+children here, it will double-count — needs the deepest-leaf IDs only, not checked yet.
+- **Gaming Keyboards** — DONE 2026-09-15 — 69/69 written, but ~52/68 have wrong prices vs BC, see audit-geo.py output before trusting this as "done"
 - **Gaming Headsets** — docs say 476; live id is 484 (476 = Over Ear Headphones)
+- **CPU / Processors** — Fixed 2026-09-15: parent 364 only has 11 products directly on it; almost everything sits on leaf 757 (AMD Desktop CPUs, 39) / 758 (Intel Desktop CPUs, 52). Switched to sum-of-leaves.
+- **Memory / RAM** — Fixed 2026-09-15: parent 395 only has 4 direct products; real SKUs sit on the deepest leaves — Desktop RAM by size (1023-1026,1308), Laptop RAM by size (1027-1029,1216,1217), Server RAM (1322).
+- **Internal SSD** — Fixed 2026-09-15: parent 375 only has 4 direct products; leaves 376 (M.2 NVMe, 26) + 380 (SATA, 2) hold the real count.
+- **Internal HDD** — Fixed 2026-09-15: parent 369 undercounts; leaves are 371 (1-4TB) / 372 (6-10TB) / 373 (12-20TB) / 370 (22TB+).
 - **Cooling** — SKUs sit in subcategories, so this row SUMS the leaves; 349 (CPU Coolers) sits under 346 (Air Cooling), so if a product is assigned to both there is slight double-counting
+- **Power Supplies** — Fixed 2026-09-15: parent 410 has 30 direct products but its 7 leaves (by wattage band + Server PSU) sum to 74 — switched to sum-of-leaves.
+- **Computer Cases** — Fixed 2026-09-15: parent 336 has 25 direct products but its 5 leaves (by form factor + Server) sum to 110 — switched to sum-of-leaves.
 - **Gaming Chairs** — LiberNovo — golden-standard set
 
 ## Category-ID problems found (verify before trusting the docs)
@@ -48,6 +57,21 @@ subcategories. `gap` = OH>0 SKUs with no GEO file, floored at 0.
   `1949` Mice) do return live categories, but at counts near-identical to the
   primary id — they look like mirror/duplicate category nodes. Check the `ids`
   column: when a secondary matches the primary, do not sum them.
+- **Parent-category undercounting** (found + fixed 2026-09-15 for CPU, Memory,
+  Internal SSD, Internal HDD, Power Supplies, Computer Cases): BC's storefront
+  categorizer puts most real products on the *leaf* subcategory, not the parent
+  node these rows used to query. Example: CPU parent `364` had only 11 products
+  directly on it while its two leaves (`757` AMD, `758` Intel) held 91 combined —
+  querying the parent alone silently reported ~9x too few in-stock SKUs. All six
+  rows above were switched to `mode="sum"` over their real leaf IDs.
+- **Gaming Mice, Monitors, Video Cards are NOT yet verified for this same bug** —
+  quick checks during the 2026-09-15 fix found the same parent/leaf mismatch
+  pattern (e.g. Monitors parent `519` = 165 raw products vs its 6 leaves summing
+  to 326), but Video Cards' tree goes an extra level deep (429 Nvidia → 430/1018/
+  1325 RTX 30/40/50) where naively summing parent+children double-counts. These
+  three rows are left on the old (likely wrong) IDs — do not trust their `gap`
+  numbers until someone walks the tree properly like CPU/Memory/SSD/HDD/PSU/Cases
+  were.
 
 ## Update protocol
 
