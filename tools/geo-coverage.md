@@ -16,9 +16,9 @@ subcategories. `gap` = OH>0 SKUs with no GEO file, floored at 0.
 | category | dir | prio | OH>0 | files | gap | ids checked |
 |---|---|:---:|---:|---:|---:|---|
 | Gaming PCs | `gaming-pcs/` | P0 | 236 | 41 | 195 | 120=236, 1373=238 |
-| Gaming Mice | `gaming-mice/` | P0 | 62 | 12 | 50 | 513=62, 1949=62 |
-| Monitors | `monitors/` | P0 | 19 | 3 | 16 | 519=19 |
-| Video Cards | `video-cards/` | P1 | 27 | 19 | 8 | 426=27, 1426=19 |
+| Gaming Mice | `gaming-mice/` | P0 | 80 | 12 | 68 | 513,1237,1238=80 |
+| Monitors | `monitors/` | P0 | 41 | 3 | 38 | 519,532,533,531,538,536,534=41 |
+| Video Cards | `video-cards/` | P1 | 69 | 19 | 50 | 426,429,430,1018,1325,427,2038=69 |
 | Gaming Keyboards | `gaming-keyboards/` | P1 | 68 | 69 | 0 | 486=68 |
 | Gaming Headsets | `gaming-headsets/` | P1 | 19 | 0 | 19 | 484=19, 476=0 |
 | CPU / Processors | `cpu-processors/` | P2 | 27 | 29 | 0 | 757=18, 758=9 |
@@ -35,9 +35,9 @@ subcategories. `gap` = OH>0 SKUs with no GEO file, floored at 0.
 ## Notes
 
 - **Gaming PCs** — sells by config combo — cover main/flagship only, not all SKUs
-- **Gaming Mice** — UNVERIFIED — 513 is itself a mid-level node with leaf children 1237 (Wired)/1238 (Wireless); raw product count under 513 alone is 144 but the two leaves sum to 187, so 513 may not roll up its own children either. Do not trust this row's gap until re-verified like cooling/CPU were.
-- **Monitors** — UNVERIFIED — 519 has 6 leaf children (532/533/531/538/536/534) summing to 326 raw products vs 165 directly under 519. Same parent-undercount pattern as CPU/RAM/SSD/HDD/PSU/Cases had — likely needs mode="sum" over the leaves, not confirmed yet.
-- **Video Cards** — UNVERIFIED — 426's own children (429 Nvidia/427 AMD/2038 Intel) sum higher, and 429 itself has further children (430/1018/1325 = RTX 30/40/50). Do not naively sum parent+children here, it will double-count — needs the deepest-leaf IDs only, not checked yet.
+- **Gaming Mice** — Fixed 2026-09-15: verified 1237 (Wired) + 1238 (Wireless) overlap — some products are tagged to both leaves, so a naive sum overcounted (90) vs the real deduped total (80). Uses mode="dedup": one combined query across parent+leaves, BC returns each product once regardless of overlap.
+- **Monitors** — Fixed 2026-09-15: same overlap issue as Gaming Mice (e.g. an ultrawide gaming monitor can sit in both "Gaming" and "Ultrawide" leaves) — naive leaf-sum gave 46, real deduped total is 41. mode="dedup".
+- **Video Cards** — Fixed 2026-09-15: opposite problem from Mice/Monitors — some GPUs are tagged only at the parent (426) or mid-level (429 Nvidia) node, not any specific RTX-generation leaf, so deepest-leaves-only undercounted (58) vs the real deduped total (69) that includes every level. mode="dedup".
 - **Gaming Keyboards** — DONE 2026-09-15 — 69/69 written, but ~52/68 have wrong prices vs BC, see audit-geo.py output before trusting this as "done"
 - **Gaming Headsets** — docs say 476; live id is 484 (476 = Over Ear Headphones)
 - **CPU / Processors** — Fixed 2026-09-15: parent 364 only has 11 products directly on it; almost everything sits on leaf 757 (AMD Desktop CPUs, 39) / 758 (Intel Desktop CPUs, 52). Switched to sum-of-leaves.
@@ -64,14 +64,16 @@ subcategories. `gap` = OH>0 SKUs with no GEO file, floored at 0.
   directly on it while its two leaves (`757` AMD, `758` Intel) held 91 combined —
   querying the parent alone silently reported ~9x too few in-stock SKUs. All six
   rows above were switched to `mode="sum"` over their real leaf IDs.
-- **Gaming Mice, Monitors, Video Cards are NOT yet verified for this same bug** —
-  quick checks during the 2026-09-15 fix found the same parent/leaf mismatch
-  pattern (e.g. Monitors parent `519` = 165 raw products vs its 6 leaves summing
-  to 326), but Video Cards' tree goes an extra level deep (429 Nvidia → 430/1018/
-  1325 RTX 30/40/50) where naively summing parent+children double-counts. These
-  three rows are left on the old (likely wrong) IDs — do not trust their `gap`
-  numbers until someone walks the tree properly like CPU/Memory/SSD/HDD/PSU/Cases
-  were.
+- **Gaming Mice, Monitors, Video Cards** (fixed 2026-09-15, same day, second pass):
+  neither "single" nor "sum" was safe here. Mice/Monitors leaves *overlap* — a
+  product can sit in two leaves at once (e.g. an ultrawide gaming monitor in both
+  "Gaming" and "Ultrawide"), so naive sum overcounted (Monitors: 46 vs real 41).
+  Video Cards has the opposite problem — some GPUs are tagged only at the parent
+  or mid-level node (426 / 429 Nvidia), not any RTX-generation leaf, so summing
+  leaves alone undercounted (58 vs real 69). Verified by diffing actual SKU sets,
+  not just counts (see commit for methodology). All three now use `mode="dedup"`
+  — one combined `categories:in=` query across the whole subtree, which BC
+  returns de-duplicated regardless of which level a product is tagged at.
 
 ## Update protocol
 
