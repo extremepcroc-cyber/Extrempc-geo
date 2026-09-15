@@ -54,15 +54,26 @@ Product data must come from the JSON output of `tools/fetch-category.ps1`.
 If the JSON has not been provided yet, stop and ask:
 > "Please run `.\tools\fetch-category.ps1 -CategoryId {id}` and give me the output JSON before I start writing."
 
-From the JSON, extract for each product:
-- `sku` → filename (`{SKU}.md`)
-- `name` → H1 title
-- `price_nzd_inc_gst` → `**Price:**` field (plain integer, no commas, e.g. `$3499`)
-- `url` → `**URL:**` field
-- `mpn` → `**MPN:**` field
-- `brand` → use in Schema
-- `stock` → OH/WL/SL/SU breakdown for Quick Specs NZ Stock line
-- `custom_fields` → technical specs
+```powershell
+.\tools\fetch-category.ps1 -CategoryId 351              # in-stock only (e.g. AIO Water Cooling = 351)
+.\tools\fetch-category.ps1 -CategoryId 349 -IncludeOOS   # include OOS too
+.\tools\fetch-category.ps1 -CategoryId 347 -OutputFile "tools\fans.json"
+```
+
+Output: `tools/category-{id}-products.json`, one entry per product:
+
+| Field | Use for |
+|---|---|
+| `sku` | filename (`{SKU}.md`) |
+| `name` | H1 title |
+| `price_nzd_inc_gst` | `**Price:**` field (plain integer, no commas, e.g. `$3499`) |
+| `url` | `**URL:**` field |
+| `mpn` | `**MPN:**` field |
+| `brand` | Schema |
+| `stock` | OH/WL/SL/SU breakdown for Quick Specs NZ Stock line |
+| `custom_fields` | technical specs |
+
+**If the JSON covers more SKUs than this batch (e.g. a 60-product category JSON but you're only writing 4-5 this session), only read the entries for the SKUs you're actually writing.** Don't hold the whole file in context for a small batch.
 
 **⚠️ Real incident (2026-09-15): a batch of 68 keyboard files was written with 52 wrong prices — some off by 50-76% — even though the source JSON had the correct number the whole time** (e.g. one file was written at $79 when its own JSON entry said `price_nzd_inc_gst: 139`). This wasn't stale data, it was copying the wrong number while writing. **Before moving to the next file, re-read the price you just wrote against the JSON entry for that exact SKU — don't trust memory of "roughly what it was."**
 

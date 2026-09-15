@@ -16,9 +16,9 @@ This is the **ExtremePC GEO (Generative Engine Optimization) product content lib
 **This repo has 400+ product files across 20+ category directories, plus `product-knowledge/`, `brands/`, `blog/`, `tools/`, `2-EOL products/`, and `company/`.** If the task is "write GEO file(s) for {SKU or subcategory}", reading the whole tree burns most of a context window before any writing starts. **CLAUDE.md alone (already loaded into every session) has everything needed to know the rules — you should not need to explore the repo to learn how to write a file.**
 
 **For a GEO-writing task, read only:**
-1. `TEMPLATE.md` — the file structure to follow
-2. The `fetch-category.ps1` JSON for the specific subcategory (the mandatory data source — see Data Sources rules below)
-3. **1–2 files max** for quality calibration — either an existing file in the *same* category directory you're about to write into, or `gaming-chairs/GAMLIBOCP45B.md` / `GAMLIBOC145B.md` if that category has no files yet (these are the repo's golden-standard reference, per `tools/hermes-skill-geo-writing.md`)
+1. `tools/hermes-skill-geo-writing.md` — the complete writing guide, including the file template (do NOT also read `TEMPLATE.md` separately, the skill doc already has the same template inline)
+2. The `fetch-category.ps1` JSON for the specific subcategory (the mandatory data source — see Data Sources rules below). If the JSON covers more SKUs than this batch, only look at the entries for the SKUs you're actually writing this session, not the whole file.
+3. **1–2 files max** for quality calibration — either an existing file in the *same* category directory you're about to write into, or `gaming-chairs/GAMLIBOCP45B.md` / `GAMLIBOC145B.md` if that category has no files yet
 4. `product-knowledge/{that one category}/` — only the subfolder matching what you're writing, if it exists. Not the rest of `product-knowledge/`.
 5. `brands/{brand}.md` — only if the product's brand has a profile, and only that one file.
 
@@ -148,36 +148,11 @@ Everything else — Selling Points, Ideal For, Comparison, FAQ — stays untouch
 > When stock returns: write full GEO using TEMPLATE.md.
 ```
 
-## Price and Stock Audit (`tools/audit-geo.py`) — current tool, use this one
+## Audit & Coverage Tools (`tools/hermes-skill-audit-tools.md`)
 
-**`tools/audit-geo.py` is the current audit tool.** `tools/audit-geo.ps1` still exists in the repo but is legacy/deprecated — it made 2 API calls per SKU (400+ calls for a full audit) with no rate-limit protection, no backup mechanism, and no URL-change detection. Do not use it for new work; it is kept only for reference.
+**For price/stock auditing (`audit-geo.py`) and deciding what to write next (`coverage-report.py`), read `tools/hermes-skill-audit-tools.md`** — full usage, auto-apply safety boundaries, rate limiting, and the category-ID pitfalls both tools handle. Not needed for a plain writing task.
 
-**When to run:** before any batch editing session, or when the store manager reports prices have changed.
-
-**What it checks:**
-- **Price**: parses `**Price:**` from each `.md` file, fetches current BC price (×1.15 for GST), flags if difference > $0.05
-- **Stock**: reads `__Stock Available Onehunga` (OH) from BC custom fields, fetched inline via `include=custom_fields` — no per-SKU extra call. Only OH = customer-available; WL/SL/SU are internal and ignored.
-- **URL**: compares GEO `**URL:**` against BC's live `custom_url.url` — catches slug changes that would otherwise 404
-- **OOS / back-in-stock**: flags `needs_oos_flag` when OH = 0, flags `back_in_stock` when OH > 0 but the file is still marked OOS
-- **Tombstones**: automatically skipped — not checked
-- **Not found in BC at all** (distinct from OOS): reported as an error, NOT auto-applied — this is the signal to move the file to `2-EOL products/` (see above), a human/agent judgment call, never automatic
-
-**Usage:**
-```bash
-python tools/audit-geo.py --dry-run              # report only, no writes — always run this first
-python tools/audit-geo.py                        # full audit + auto-apply
-python tools/audit-geo.py --category power-supplies   # single category dir
-python tools/audit-geo.py --dry-run --category monitors
-```
-
-**Auto-apply — what it's safe to trust vs what still needs judgment:**
-- Auto-applies (100% mechanical, no ambiguity): price sync, OOS flag insertion, back-in-stock flag removal, URL correction
-- Before writing, it backs up the original file to `tools/backups/<run-timestamp>/<path>.md.bak` — if a run goes wrong, restore from there (or `git checkout -- <file>`, since the repo is version-controlled anyway)
-- Does NOT auto-apply: moving files to `2-EOL products/`, anything involving Selling Points/FAQ/Comparison copy — those still require an agent to read `tools/change-report.json` and make a judgment call
-
-**Output:** `tools/change-report.json` — full audit summary plus `changes[]` array with `price_changed`, `needs_oos_flag`, `back_in_stock`, `url_changed`, `applied`, `backup` per SKU, and a separate `errors[]` array for SKUs not found in BC or fetch failures.
-
-**Rate limiting:** self-paced against BC's 150 req/30s cap via a sliding window (not a fixed "pause every N calls") — safe whether the run covers 259 SKUs (today) or scales toward the full 7000+ BC catalog as GEO coverage grows. Batches `sku:in` queries at 40 SKUs per request — BC's edge/WAF returns 414 (URL too long) above that, which silently misreports as "not found" if not chunked correctly.
+One rule worth stating here since it governs an irreversible-ish action: a SKU `audit-geo.py` reports as "not found in BC" (not just OOS) is the trigger to move that file to `2-EOL products/` (see EOL section above) — always a judgment call, never automatic.
 
 ## File Placement Rules for AI Agents
 
@@ -219,41 +194,9 @@ Never create `.ps1`, `.json`, `.txt`, or any other files directly in the repo ro
 4. Agent may use product knowledge base files (`product-knowledge/`) for technical context and comparisons
 5. Agent must NOT call BC API directly or do any web search for product data
 
-## Deciding What to Write Next (`tools/coverage-report.py`)
-
-**Run this before planning any new GEO-writing batch.** It answers "what's actually missing" per category — live BC in-stock SKU count vs. GEO files already written — instead of relying on stale task lists or guesswork.
-
-**Usage:**
-```bash
-python tools/coverage-report.py                  # print table only
-python tools/coverage-report.py --write           # also refresh tools/geo-coverage.md
-python tools/coverage-report.py --category monitors
-```
-
-**Stock basis: OH (Onehunga) > 0**, same as `audit-geo.py` — WL/SL/SU are internal, never customer-available. Do not use BC's `availability=available`, it counts supplier-only stock and badly overstates coverage.
-
-**Do not hand-edit `tools/geo-coverage.md`** — it's generated output, regenerate with `--write` instead.
-
-**Known category-ID trap this tool already handles correctly — be aware of it if you ever query BC categories directly elsewhere:** BC's `categories:in` filter does **not** roll up subcategories, and different category trees fail in different directions:
-- CPU/Memory/SSD/HDD/PSU/Cases: real products sit almost entirely on **leaf** subcategories — querying the parent ID alone undercounted CPU by ~9x (11 direct vs 91 across its two leaves)
-- Gaming Mice/Monitors: leaf subcategories **overlap** (a product can be tagged to two at once) — summing separate leaf counts double-counts
-- Video Cards: some products are tagged only at the **parent/mid-level** node, not any specific leaf — summing leaves-only undercounts
-
-The safe method when overlap direction is unknown: one combined `categories:in=id1,id2,...` query across every level of the subtree in a single call — BC returns each matching product exactly once no matter how many of the given ids it satisfies, so this can't double-count or undercount. This is `coverage-report.py`'s `mode="dedup"`.
-
-Gaming Headsets: `476` in older docs/mirrors of this table is wrong — the live BC id is `484` (`476` is a different category, *Over Ear Headphones*).
-
 ## Fetching Product Data Before Writing GEO Files (`tools/fetch-category.ps1`)
 
-**Always run this script first before writing GEO files for a subcategory — never have an AI agent call the BC API directly** (models make mistakes with pagination, GST calculation, and custom-field parsing).
-
-```powershell
-.\tools\fetch-category.ps1 -CategoryId 351              # in-stock only (e.g. AIO Water Cooling = 351)
-.\tools\fetch-category.ps1 -CategoryId 349 -IncludeOOS   # include OOS too
-.\tools\fetch-category.ps1 -CategoryId 347 -OutputFile "tools\fans.json"
-```
-
-Output: `tools/category-{id}-products.json`. For the exact fields to extract and how to use them while writing, see `tools/hermes-skill-geo-writing.md` Step 1.
+**Always run this script first before writing GEO files for a subcategory — never have an AI agent call the BC API directly** (models make mistakes with pagination, GST calculation, and custom-field parsing). Full usage and output fields are in `tools/hermes-skill-geo-writing.md` Step 1.
 
 ## Task Planning — Never By Top-Level Category
 
@@ -261,58 +204,7 @@ Output: `tools/category-{id}-products.json`. For the exact fields to extract and
 
 ## Blog System (`blog/`)
 
-### File Structure
-
-```
-blog/
-  TEMPLATE.md                  ← start every new post from here
-  内容选题清单.md               ← topic priorities (P1–P5)
-  {slug}.md                    ← one file per post, named by BC URL slug
-tools/
-  publish-blog.py              ← publishes/updates post to BC Blog API
-```
-
-### Publish Workflow
-
-1. Copy `blog/TEMPLATE.md` → `blog/{slug}.md`
-2. Fill in frontmatter (Title H1, BC URL, 发布日期, Meta Description, Tags)
-3. Write body in HTML (not markdown — BC strips most HTML tags except `<p>`, `<table>`, `<ul>/<li>`, `<strong>`, `<em>`, `<pre>`, `<hr>`)
-4. Publish: `python tools/publish-blog.py blog/{slug}.md --draft` (preview first)
-5. Review on BC admin, then: `python tools/publish-blog.py blog/{slug}.md --update {post_id}`
-6. `git add` → `git commit` → `git push`
-
-Requires `BC_BLOG_TOKEN` (Content permission scope) set in `extremepc.env`. **Never commit this token to git.**
-
-### BC HTML Tag Restrictions — Verified Behavior
-
-BC's blog editor strips or ignores these tags — **do not use them**:
-
-| Tag | Behavior |
-|---|---|
-| `<h1>` `<h2>` `<h3>` | **Stripped entirely** — content becomes unstyled body text |
-| `<a href="...">` | Rendered but links often 404 — **forbidden** unless Jimmy verifies the URL |
-
-**Use instead:**
-- Section headings → `<p style="font-size:24px; font-weight:700; margin:48px 0 14px 0; ...">` (see TEMPLATE.md)
-- Links → plain text only
-
-### Known Issues Fixed
-
-- **BOM encoding**: PowerShell writes UTF-8 with BOM by default — `publish-blog.py` reads with `utf-8-sig` to strip it. Always write `.md` files with UTF-8 no-BOM.
-- **H2 stripped**: BC removes `<h2>` tags. Use styled `<p>` tags for all section headings.
-- **HTML pass-through**: `publish-blog.py` detects if body starts with `<` and skips the markdown converter — body must be pure HTML, not mixed.
-- **Date format**: BC Blog API requires RFC-2822 (`Tue, 15 Jul 2026 00:00:00 +0000`). Script converts from `YYYY-MM-DD` automatically.
-
-### Blog Writing Rules
-
-1. One question per post — deep analysis, not a list of answers
-2. Open with the user's pain point; second paragraph introduces ExtremePC's perspective
-3. Always include a comparison table with blue/green color coding (see TEMPLATE.md)
-4. Scenario-based sections (by budget / resolution / use case)
-5. Clear recommendation at the end — no hedging
-6. Inline CSS only — no external stylesheets
-7. **No `<a href>` links** in body — plain text only. Exception: Jimmy-verified URLs only, annotated with "已验证"
-8. No `<h2>` / `<h3>` tags — use styled `<p>` for headings
+**Unrelated to GEO product files — read `tools/hermes-skill-blog-writing.md` for the full blog workflow** (publish steps, BC's HTML tag restrictions, writing rules). Not needed for a product-writing session.
 
 ## Review Checklist
 
