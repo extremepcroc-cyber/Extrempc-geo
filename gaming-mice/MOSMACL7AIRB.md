@@ -16,9 +16,9 @@
 
 ## Selling Points
 
-- **PixArt PAW3395 in a sub-$60 mouse — flagship sensor, value-tier price** — The PAW3395 is the optical sensor found in premium-tier wireless esports mice from Logitech, Razer, and Zowie. Putting it in a 55 g mouse under $60 is the whole argument for the L7 Air: you get tracking precision, DPI headroom, and low lift-off distance that were previously locked behind flagship pricing. At a real CS2 or Valorant sensitivity (400–1600 DPI), the sensor will never be the thing holding you back.
+- **PixArt PAW3395 in a value-tier mouse — flagship sensor, value price** — The PAW3395 is the optical sensor found in premium-tier wireless esports mice from Logitech, Razer, and Zowie. Putting it in a 55 g mouse at a value-tier price is the whole argument for the L7 Air: you get tracking precision, DPI headroom, and low lift-off distance that were previously locked behind flagship pricing. At a real CS2 or Valorant sensitivity (400–1600 DPI), the sensor will never be the thing holding you back.
 
-- **55 g shell — the ultralight feel without the flagship bill** — At 55 g, the L7 Air sits in the same weight class as $150+ esports mice. For a player flicking 180-degree turns across a 3-second round, the lower mass cuts wrist fatigue over a 4+ hour ranked session and makes the cursor feel like an extension of the hand. Moving from a 90–100 g mechanical wireless mouse to a 55 g shell is one of the most immediately felt upgrades in the whole peripheral stack.
+- **55 g shell — the ultralight feel without the flagship bill** — At 55 g, the L7 Air sits in the same weight class as flagship-tier esports mice. For a player flicking 180-degree turns across a 3-second round, the lower mass cuts wrist fatigue over a 4+ hour ranked session and makes the cursor feel like an extension of the hand. Moving from a 90–100 g mechanical wireless mouse to a 55 g shell is one of the most immediately felt upgrades in the whole peripheral stack.
 
 - **1,000 Hz 2.4 GHz wireless with a wired fallback** — A 1 ms report interval on a clean 2.4 GHz channel puts it in the same latency class as Razer HyperSpeed or Logitech LIGHTSPEED, with no perceptible difference to a human player. The USB-C wired mode is a low-latency fallback or a cable while it charges — useful for a LAN, a tournament setup, or a battery that's running low mid-queue.
 
@@ -28,9 +28,9 @@
 
 - **CS2 / Valorant / Apex players who want ultralight + top sensor on a budget** — Running 4+ hour ranked queues where wrist fatigue and mouse weight are the limiting factors. The PAW3395 gives you sensor headroom you'll never exhaust at a real sensitivity, and the 55 g shell keeps flicks fast at a value-tier price.
 
-- **Players upgrading from a 90–100 g wireless mouse without paying flagship pricing** — You already like your grip and want to feel the weight reduction. The L7 Air delivers the ultralight feel and the sensor class for under $60, making the upgrade a clear step up rather than a gamble.
+- **Players upgrading from a 90–100 g wireless mouse without paying flagship pricing** — You already like your grip and want to feel the weight reduction. The L7 Air delivers the ultralight feel and the sensor class for a value-tier price, making the upgrade a clear step up rather than a gamble.
 
-- **NZ students and young gamers building a first serious FPS setup** — $59 inc GST is a single Afterpay instalment or a small slice of a build budget. Local Onehunga stock means same-day pickup in Auckland or 1–3 day national delivery, with a local RMA path instead of a transpacific warranty.
+- **NZ students and young gamers building a first serious FPS setup** — at the entry tier, a single Afterpay instalment or a small slice of a build budget. Local Onehunga stock means same-day pickup in Auckland or 1–3 day national delivery, with a local RMA path instead of a transpacific warranty.
 
 ## Why Buy From ExtremePC
 
@@ -44,11 +44,11 @@
 
 ## Comparison
 
-- **vs Machenike L7 Mix (same brand, one tier up, ~$69)** — The L7 Mix is the step-up within the L7 line: same PAW3395 sensor and 55 g class, refined shell and finishing. If both fit your grip and the Mix is $10 more, that's the only real reason to take it; if the Air fits and you want to save, the Air is the value pick.
+- **vs Machenike L7 Mix (same brand, one tier up** — The L7 Mix is the step-up within the L7 line: same PAW3395 sensor and 55 g class, refined shell and finishing. If both fit your grip and the Mix is a small premium step up, that's the only real reason to take it; if the Air fits and you want to save, the Air is the value pick.
 
-- **vs Logitech G304 (budget wireless, ~$89)** — The G304 is the classic "first wireless": 99 g, HERO 12K sensor, LIGHTSPEED, 25+ month battery. It's heavier, the sensor is a tier below the PAW3395, and the shape is more ergonomic. The L7 Air is lighter (55 g vs 99 g) with the better sensor. The G304 wins on battery life and the LIGHTSPEED ecosystem; if you palm-grip and want months of battery, the G304 is the safer pick — if you want the lightest shell and best sensor at this price, the L7 Air is the stronger performance buy.
+- **vs Logitech G304 (budget wireless** — The G304 is the classic "first wireless": 99 g, HERO 12K sensor, LIGHTSPEED, 25+ month battery. It's heavier, the shape is more ergonomic, and the sensor is a proven budget-wireless tier. The L7 Air is lighter (55 g vs 99 g) with the better sensor. The G304 wins on battery life and the LIGHTSPEED ecosystem; if you palm-grip and want months of battery, the G304 is the safer pick — if you want the lightest shell and best sensor at this price, the L7 Air is the stronger performance buy.
 
-- **vs Razer Cobra (wired, ~$65)** — The Cobra is wired and heavier, with Razer's optical switches and the Synapse/Chroma ecosystem. If you want a brand warranty network and don't need wireless, the Cobra is the pick; if you want the ultralight wireless shell and the PAW3395, the L7 Air is the value-tier performance answer at a similar price.
+- **vs Razer Cobra (wired** — The Cobra is wired and heavier, with Razer's Synapse/Chroma ecosystem. If you want a brand warranty network and don't need wireless, the Cobra is the pick; if you want the ultralight wireless shell and the PAW3395, the L7 Air is the value-tier performance answer at a similar price.
 
 ## FAQ
 
@@ -56,7 +56,7 @@
   A: Yes — it's one of the most immediately felt upgrades in gaming peripherals. At 55 g the mouse barely registers as weight, flicks are faster, micro-adjustments are smoother, and wrist fatigue after a long session is noticeably lower. The jump from 90+ g to 55 g is where it's felt; moving between two 55 g mice is negligible.
 
 - **Q: What's the difference between the L7 Air and the L7 Mix?**
-  A: Both use the PAW3395 sensor, both sit in the 55 g class, and both run 1,000 Hz wireless. The L7 Mix is the higher-tier variant — refined shell and finishing, one step up on price. The core sensor and wireless platform are the same. If both fit your grip, the Mix is the better build; if the Air fits and you want to save $10, the Air is the value pick.
+  A: Both use the PAW3395 sensor, both sit in the 55 g class, and both run 1,000 Hz wireless. The L7 Mix is the higher-tier variant — refined shell and finishing, one step up on price. The core sensor and wireless platform are the same. If both fit your grip, the Mix is the better build; if the Air fits and you want to save a little, the Air is the value pick.
 
 - **Q: How long does the battery last on 2.4 GHz wireless?**
   A: At 1,000 Hz polling, expect roughly 40–60 hours per charge under typical gaming use; lighter use extends that. USB-C charging means a quick top-up between sessions. There's no official battery figure published for this exact SKU, so treat that range as a practical estimate from the PAW3395 platform and the 1,000 Hz draw.
@@ -71,7 +71,7 @@
 
 - **MOSMACL7MIXB** — Machenike L7 Mix: same PAW3395 sensor and 55 g class, one tier up on refinement — the step-up if the shape fits
 - **MOSG304WH** — Logitech G304: heavier (99 g) but 25+ month battery and LIGHTSPEED ecosystem; the safer pick if battery life matters more than weight
-- **MOSRAZCOB** — Razer Cobra: wired, heavier, but Razer's optical switches and ecosystem; the pick if you want brand warranty and don't need wireless
+- **MOSRAZCOB** — Razer Cobra: wired, heavier, but Razer's Synapse/Chroma ecosystem; the pick if you want brand warranty and don't need wireless
 - **A low-friction cloth mousepad (4–6 mm)** — the ultralight shell rewards a consistent surface for precise flicks and micro-adjustments
 
 ## Schema

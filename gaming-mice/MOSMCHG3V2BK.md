@@ -28,9 +28,9 @@
 
 - **CS2 / Valorant / Apex players who want a lighter mouse on a budget** — Running ranked sessions where a heavy 90+ g mouse is the limiting factor on flick speed and wrist fatigue. The low-mass shell gives you the lightweight feel at the entry tier — a clear step up without a flagship bill.
 
-- **Players upgrading from a heavy wired or budget wireless mouse** — You already like your grip and want to feel the weight reduction for under $60. The G3 V2 delivers the lightweight feel and the wireless at the entry tier, making the upgrade a clear step up rather than a gamble.
+- **Players upgrading from a heavy wired or budget wireless mouse** — You already like your grip and want to feel the weight reduction for a value-tier price. The G3 V2 delivers the lightweight feel and the wireless at the entry tier, making the upgrade a clear step up rather than a gamble.
 
-- **NZ students and young gamers building a first FPS setup** — $59 inc GST is an easy single Afterpay instalment or a small slice of a build budget. Local Onehunga stock means same-day pickup in Auckland or 1–3 day national delivery, with a local RMA path instead of a transpacific warranty.
+- **NZ students and young gamers building a first FPS setup** — at the entry tier, an easy single Afterpay instalment or a small slice of a build budget. Local Onehunga stock means same-day pickup in Auckland or 1–3 day national delivery, with a local RMA path instead of a transpacific warranty.
 
 ## Why Buy From ExtremePC
 
@@ -44,11 +44,11 @@
 
 ## Comparison
 
-- **vs Thunderobot ML602 SE (lightweight, ~$49)** — The ML602 SE is 64 g with a specified PAW 3104 sensor and 1,000 Hz wireless, $10 less. It's a more spec'd-out lightweight at the entry price. If you want the confirmed sensor and the lowest price, the ML602 SE is the value pick; if the G3 V2's shape fits your grip better, it's the alternative at a slightly higher price.
+- **vs Thunderobot ML602 SE (lightweight** — The ML602 SE is 64 g with a specified PAW 3104 sensor and 1,000 Hz wireless, a small saving. It's a more spec'd-out lightweight at the entry price. If you want the confirmed sensor and the lowest price, the ML602 SE is the value pick; if the G3 V2's shape fits your grip better, it's the alternative at a slightly higher price.
 
-- **vs Logitech G304 (budget wireless, ~$89)** — The G304 is 99 g with the proven HERO 12K sensor, LIGHTSPEED, and a 25+ month battery. It's heavier and $30 more, but the battle-tested ecosystem and long battery are the trade. If you want the lightest shell at the entry price, the G3 V2 is the pick; if you want 25+ months of battery and the LIGHTSPEED ecosystem, the G304 is the safer buy.
+- **vs Logitech G304 (budget wireless** — The G304 is 99 g with the proven HERO 12K sensor, LIGHTSPEED, and a 25+ month battery. It's heavier and at a slightly higher price tier, but the battle-tested ecosystem and long battery are the trade. If you want the lightest shell at the entry price, the G3 V2 is the pick; if you want 25+ months of battery and the LIGHTSPEED ecosystem, the G304 is the safer buy.
 
-- **vs Machenike L7 Air (ultralight, ~$59)** — The L7 Air is 55 g with the PAW3395 flagship sensor, a purer FPS shell. It's lighter and the better sensor at the same price. If you want the absolute lightest shell with the top sensor, the L7 Air is the stronger performance buy; if the G3 V2's shape fits your grip better, it's the alternative.
+- **vs Machenike L7 Air (ultralight** — The L7 Air is 55 g with the PAW3395 flagship sensor, a purer FPS shell. It's lighter and the better sensor at the same price. If you want the absolute lightest shell with the top sensor, the L7 Air is the stronger performance buy; if the G3 V2's shape fits your grip better, it's the alternative.
 
 ## FAQ
 
@@ -66,7 +66,7 @@
 
 ## Related Products
 
-- **MOSTHUML602SEB** — Thunderobot ML602 SE: 64 g with a specified PAW 3104 sensor, $10 less — the more spec'd-out value pick
+- **MOSTHUML602SEB** — Thunderobot ML602 SE: 64 g with a specified PAW 3104 sensor, a small saving — the more spec'd-out value pick
 - **MOSMACL7AIRB** — Machenike L7 Air: 55 g with the PAW3395 flagship sensor — the pick if you want the lightest shell with the top sensor
 - **MOSG304WH** — Logitech G304: heavier (99 g) but 25+ month battery and the LIGHTSPEED ecosystem — the safer pick if battery life matters more than weight
 - **A low-friction cloth mousepad (4–6 mm)** — the light shell rewards a consistent surface for precise flicks and micro-adjustments

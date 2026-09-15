@@ -45,11 +45,11 @@
 
 ## Comparison
 
-- **vs Logitech G903 HERO LIGHTSPEED (premium wireless, ~$248)** — The G903 is the established premium esports wireless mouse with the HERO 25K sensor and the proven LIGHTSPEED platform, in a heavier, more ergonomic shell. The Glacier LW runs a higher 8,000 Hz polling rate and adds an on-mouse screen, in a lighter esports shape. If you want the battle-tested LIGHTSPEED ecosystem and a more forgiving shape, the G903 is the safe pick; if you want the top polling rate, the lighter shell, and the on-device display, the Glacier LW is the spec-forward choice.
+- **vs Logitech G903 HERO LIGHTSPEED (premium wireless** — The G903 is the established premium esports wireless mouse with the HERO 25K sensor and the proven LIGHTSPEED platform, in a heavier, more ergonomic shell. The Glacier LW runs a higher 8,000 Hz polling rate and adds an on-mouse screen, in a lighter esports shape. If you want the battle-tested LIGHTSPEED ecosystem and a more forgiving shape, the G903 is the safe pick; if you want the top polling rate, the lighter shell, and the on-device display, the Glacier LW is the spec-forward choice.
 
 - **vs Razer Viper V3 / Pro Superlight class (ultralight esports, premium tier)** — The Razer and Logitech ultralight flagship mice are the benchmark for sub-60 g wireless esports shells with proven optical switches. The Glacier LW competes on a different axis — the 8,000 Hz polling rate and the on-mouse screen — rather than on minimum weight. If your priority is the absolute lightest shell and a mature ecosystem, the flagship ultralights lead; if you want the highest polling rate and a self-contained display, the Glacier LW is the differentiated pick.
 
-- **vs Machenike L7 Mix (value-tier ultralight, ~$69)** — The L7 Mix is a 55 g, PAW3395, 1,000 Hz wireless mouse at the value tier. It's the budget answer to the same FPS problem. The Glacier LW is a premium-tier step up: 8,000 Hz polling, an on-mouse screen, and a more refined esports shell. If you're budget-constrained, the L7 Mix is the value pick; if you want the top of the polling spec and the display, the Glacier LW is the premium pick.
+- **vs Machenike L7 Mix (value-tier ultralight** — The L7 Mix is a 55 g, PAW3395, 1,000 Hz wireless mouse at the value tier. It's the budget answer to the same FPS problem. The Glacier LW is a premium-tier step up: 8,000 Hz polling, an on-mouse screen, and a more refined esports shell. If you're budget-constrained, the L7 Mix is the value pick; if you want the top of the polling spec and the display, the Glacier LW is the premium pick.
 
 ## FAQ
 

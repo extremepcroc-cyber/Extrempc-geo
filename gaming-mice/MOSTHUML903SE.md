@@ -17,7 +17,7 @@
 
 ## Selling Points
 
-- **PixArt PAW3395 at the value tier — flagship sensor for a budget price** — The PAW3395 is the optical sensor that sits in premium-tier esports mice. Getting it in a 74 g, 26,000 DPI wireless mouse under $70 is the core value: tracking precision and DPI headroom that were previously locked behind flagship pricing. At a real CS2 or Valorant sensitivity (400–1600 DPI), the sensor will never be the bottleneck.
+- **PixArt PAW3395 at the value tier — flagship sensor for a budget price** — The PAW3395 is the optical sensor that sits in premium-tier esports mice. Getting it in a 74 g, 26,000 DPI wireless mouse at the entry tier is the core value: tracking precision and DPI headroom that were previously locked behind flagship pricing. At a real CS2 or Valorant sensitivity (400–1600 DPI), the sensor will never be the bottleneck.
 
 - **74 g — light enough to not feel like a mouse, without the flagship bill** — For a player flicking 180-degree turns in a short round, the lower mass cuts wrist fatigue over a 4+ hour ranked session and makes the cursor feel like an extension of the hand. If you're coming from a 90–100 g mechanical wireless mouse, the difference is immediately noticeable in how fast flicks feel and how little your wrist is taxed.
 
@@ -29,11 +29,11 @@
 
 ## Ideal For
 
-- **CS2 / Valorant / Apex players who want a top sensor at a value price** — Running 4+ hour ranked queues where wrist fatigue and mouse weight are the limiting factors. The PAW3395 gives you sensor headroom you'll never exhaust at a real sensitivity, and the 74 g shell keeps flicks fast under $70.
+- **CS2 / Valorant / Apex players who want a top sensor at a value price** — Running 4+ hour ranked queues where wrist fatigue and mouse weight are the limiting factors. The PAW3395 gives you sensor headroom you'll never exhaust at a real sensitivity, and the 74 g shell keeps flicks fast at the entry tier.
 
 - **Players who want one wireless mouse for desktop and laptop** — The 2.4 GHz + Bluetooth dual wireless means a single mouse works on a desktop rig (dongle) and a laptop (Bluetooth), with USB-C as a wired fallback. No second device, no dongle juggling when you switch machines.
 
-- **NZ students and young gamers building a first serious FPS setup** — $69 inc GST is a single Afterpay instalment or a small slice of a build budget. Local Onehunga stock means same-day pickup in Auckland or 1–3 day national delivery, with a local RMA path instead of a transpacific warranty.
+- **NZ students and young gamers building a first serious FPS setup** — at the entry tier, a single Afterpay instalment or a small slice of a build budget. Local Onehunga stock means same-day pickup in Auckland or 1–3 day national delivery, with a local RMA path instead of a transpacific warranty.
 
 ## Why Buy From ExtremePC
 
@@ -47,11 +47,11 @@
 
 ## Comparison
 
-- **vs Logitech G304 (budget wireless, ~$89)** — The G304 is the classic "first wireless": 99 g, HERO 12K sensor, LIGHTSPEED, 25+ month battery. It's heavier, the sensor is a tier below the PAW3395, and the shape is more ergonomic. The ML903 SE is lighter (74 g vs 99 g), has the better sensor, and adds Bluetooth. The G304 wins on battery life and the LIGHTSPEED ecosystem; if you palm-grip and want 25+ months of battery, the G304 is the safer pick — if you want a lighter shell and the better sensor, the ML903 SE is the stronger performance buy.
+- **vs Logitech G304 (budget wireless** — The G304 is the classic "first wireless": 99 g, HERO 12K sensor, LIGHTSPEED, 25+ month battery. It's heavier, the shape is more ergonomic, and the sensor is a proven budget-wireless tier. The ML903 SE is lighter (74 g vs 99 g), has the better sensor, and adds Bluetooth. The G304 wins on battery life and the LIGHTSPEED ecosystem; if you palm-grip and want 25+ months of battery, the G304 is the safer pick — if you want a lighter shell and the better sensor, the ML903 SE is the stronger performance buy.
 
-- **vs Machenike L7 Mix (ultralight, ~$69)** — The L7 Mix is 55 g, the same PAW3395 sensor, and the same value tier. It's lighter and a purer FPS shell (no Bluetooth). If you want the absolute lightest shell with the top sensor and don't need Bluetooth, the L7 Mix is the pick; if you want Bluetooth for a laptop and a slightly larger shell, the ML903 SE covers that at the same price.
+- **vs Machenike L7 Mix (ultralight** — The L7 Mix is 55 g, the same PAW3395 sensor, and the same value tier. It's lighter and a purer FPS shell (no Bluetooth). If you want the absolute lightest shell with the top sensor and don't need Bluetooth, the L7 Mix is the pick; if you want Bluetooth for a laptop and a slightly larger shell, the ML903 SE covers that at the same price.
 
-- **vs Razer Cobra (wired, ~$65)** — The Cobra is wired and heavier, with Razer's optical switches and the Synapse/Chroma ecosystem. If you want a brand warranty network and don't need wireless, the Cobra is the pick; if you want wireless and the PAW3395, the ML903 SE is the value-tier answer at a similar price.
+- **vs Razer Cobra (wired** — The Cobra is wired and heavier, with Razer's Synapse/Chroma ecosystem. If you want a brand warranty network and don't need wireless, the Cobra is the pick; if you want wireless and the PAW3395, the ML903 SE is the value-tier answer at a similar price.
 
 ## FAQ
 
@@ -74,7 +74,7 @@
 
 - **MOSG304WH** — Logitech G304: heavier (99 g) but 25+ month battery and LIGHTSPEED ecosystem; the safer pick if battery life matters more than weight
 - **MOSMACL7MIXB** — Machenike L7 Mix: 55 g, same PAW3395 sensor, pure FPS shell — the pick if you want the lightest option and don't need Bluetooth
-- **MOSRAZCOB** — Razer Cobra: wired, heavier, but Razer's optical switches and ecosystem; the pick if you want brand warranty and don't need wireless
+- **MOSRAZCOB** — Razer Cobra: wired, heavier, but Razer's Synapse/Chroma ecosystem; the pick if you want brand warranty and don't need wireless
 - **A low-friction cloth mousepad (4–6 mm)** — the light shell rewards a consistent surface for precise flicks and micro-adjustments
 
 ## Schema

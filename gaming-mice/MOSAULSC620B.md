@@ -44,11 +44,11 @@
 
 ## Comparison
 
-- **vs AULA SC380 Pro (same brand, no-RGB variant, ~$59)** — The SC380 Pro is the same tri-mode, low-mass platform without RGB, but it includes a charging dock. If you want the coordinated RGB look and don't need the dock, the SC620 is the pick; if you want the no-bloat shell and the tidy charging stand, the SC380 Pro is the cleaner value buy at the same price.
+- **vs AULA SC380 Pro (same brand, no-RGB variant** — The SC380 Pro is the same tri-mode, low-mass platform without RGB, but it includes a charging dock. If you want the coordinated RGB look and don't need the dock, the SC620 is the pick; if you want the no-bloat shell and the tidy charging stand, the SC380 Pro is the cleaner value buy at the same price.
 
-- **vs Logitech G304 (budget wireless, ~$89)** — The G304 is 99 g with the HERO 12K sensor, the proven LIGHTSPEED platform, and a 25+ month battery. It's heavier and $30 more. The SC620 is lighter, tri-mode (2.4 GHz + Bluetooth + wired), and has RGB. If you want the battle-tested LIGHTSPEED ecosystem and long battery life, the G304 is the safe pick; if you want tri-mode flexibility, a lighter shell, and RGB at the entry price, the SC620 is the value answer.
+- **vs Logitech G304 (budget wireless** — The G304 is 99 g with the HERO 12K sensor, the proven LIGHTSPEED platform, and a 25+ month battery. It's heavier and at a slightly higher price tier. The SC620 is lighter, tri-mode (2.4 GHz + Bluetooth + wired), and has RGB. If you want the battle-tested LIGHTSPEED ecosystem and long battery life, the G304 is the safe pick; if you want tri-mode flexibility, a lighter shell, and RGB at the entry price, the SC620 is the value answer.
 
-- **vs Machenike L7 Air (ultralight, ~$59)** — The L7 Air is 55 g with the PAW3395 flagship sensor, a purer FPS shell, no RGB. It's lighter and the better sensor, but single-mode. If you want the absolute lightest shell with the top sensor for FPS, the L7 Air is the pick; if you want tri-mode flexibility and RGB, the SC620 covers that at the same price.
+- **vs Machenike L7 Air (ultralight** — The L7 Air is 55 g with the PAW3395 flagship sensor, a purer FPS shell, no RGB. It's lighter and the better sensor, but single-mode. If you want the absolute lightest shell with the top sensor for FPS, the L7 Air is the pick; if you want tri-mode flexibility and RGB, the SC620 covers that at the same price.
 
 ## FAQ
 
