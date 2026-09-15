@@ -67,7 +67,7 @@
 ## Related Products
 
 - **MOSLOGG502XB** — Logitech G502X Optical Wired: the newer Logitech control-rich build with optical switches — the step up if you want the newer switch platform
-- **MOSRAZBAV3X** — Razer Basilisk V3 X: Razer's control-rich ergonomic wireless control mouse with Chroma — the pick if you want Razer's ecosystem
+- **MOSRAZBASV3X** — Razer Basilisk V3 X: Razer's control-rich ergonomic wireless control mouse with Chroma — the pick if you want Razer's ecosystem
 - **MOSLOGG903B** — Logitech G903 HERO LIGHTSPEED: the Logitech wireless esports step up, the HERO sensor and LIGHTSPEED — the pick if you want wireless and the top sensor
 - **A generously sized cloth mousepad** — the control-rich G402 shell is a bigger mouse, so a larger pad gives the side buttons room to work
 
