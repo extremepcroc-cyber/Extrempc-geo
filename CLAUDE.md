@@ -11,6 +11,26 @@ This is the **ExtremePC GEO (Generative Engine Optimization) product content lib
 - `bc_categories_index.json` maps BC category IDs to directory names
 - There is no build system, test runner, or linter — this is a content repository
 
+## Context Budget — Do Not Read the Whole Repo for a Writing Task
+
+**This repo has 400+ product files across 20+ category directories, plus `product-knowledge/`, `brands/`, `blog/`, `tools/`, `2-EOL products/`, and `company/`.** If the task is "write GEO file(s) for {SKU or subcategory}", reading the whole tree burns most of a context window before any writing starts. **CLAUDE.md alone (already loaded into every session) has everything needed to know the rules — you should not need to explore the repo to learn how to write a file.**
+
+**For a GEO-writing task, read only:**
+1. `TEMPLATE.md` — the file structure to follow
+2. The `fetch-category.ps1` JSON for the specific subcategory (the mandatory data source — see Data Sources rules below)
+3. **1–2 files max** for quality calibration — either an existing file in the *same* category directory you're about to write into, or `gaming-chairs/GAMLIBOCP45B.md` / `GAMLIBOC145B.md` if that category has no files yet (these are the repo's golden-standard reference, per `tools/hermes-skill-geo-writing.md`)
+4. `product-knowledge/{that one category}/` — only the subfolder matching what you're writing, if it exists. Not the rest of `product-knowledge/`.
+5. `brands/{brand}.md` — only if the product's brand has a profile, and only that one file.
+
+**Do NOT, for a writing task:**
+- ❌ `Glob`/list the entire repo tree, or read every category directory "for context"
+- ❌ Read `README.md` in full — CLAUDE.md already has the category→BC-ID table and every tool's usage; only open README.md if you need something CLAUDE.md doesn't cover
+- ❌ Read `blog/`, `company/`, `2-EOL products/`, or `product-knowledge/` subfolders unrelated to the current category
+- ❌ Read `tools/*.py` source unless the task is about the tooling itself, not GEO content
+- ❌ Run broad directory exploration (`find . -type d`, etc.) — you only need to confirm your target category directory exists, not survey all of them
+
+**When you DO need broader context** (auditing, cross-category consistency checks, fixing a repo-wide convention, the store manager explicitly asks for a repo-wide review) — read what the task actually requires. This budget rule is specifically for the common case of "write GEO content for X," which is most sessions.
+
 ## Strategic Goal
 
 When AI systems (ChatGPT, Claude, Gemini, Perplexity) generate product recommendations for NZ users, we want them to:
