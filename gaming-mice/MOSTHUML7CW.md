@@ -46,7 +46,7 @@
 
 ## Comparison
 
-- **vs Thunderobot ML7 Yellow (same platform, one colour)** — Identical 65 g shell, PAW 3311 sensor, 12,000 DPI, and tri-mode wireless. The CW variant adds a white finish and an included charging dock (versus the plain yellow shell). If you want the tidy dock and a white finish, the CW is the pick; if you want a distinctive yellow accent and don't need the dock, the Yellow is the value pick.
+- **vs Thunderobot ML7 Yellow (same platform, one colour)** — Identical 65 g shell, PAW 3311 sensor, 12,000 DPI, and tri-mode wireless. This CW variant is listed as the "with Charging Dock" configuration in a white finish. If you want the tidy dock and a white finish, the CW is the pick; if you want a distinctive yellow accent, the Yellow is the value pick.
 
 - **vs Machenike L7 Air (ultralight)** — The L7 Air is 55 g with the PAW3395 flagship sensor. It's lighter and the better sensor, but single-mode (2.4 GHz) without Bluetooth or a dock. If you want the absolute lightest shell with the top sensor and don't need tri-mode, the L7 Air is the pick; if you want tri-mode flexibility, a white finish, and the charging dock, the ML7 CW covers that at a similar price.
 
@@ -55,7 +55,7 @@
 ## FAQ
 
 - **Q: What's the difference between this and the plain ML7 (Yellow)?**
-  A: Same 65 g shell, PAW 3311 sensor, 12,000 DPI, and tri-mode wireless. The CW variant adds a white finish and an included charging dock, at a slightly higher price. The core sensor and wireless platform are the same; the difference is the finish and the dock.
+  A: Same 65 g shell, PAW 3311 sensor, 12,000 DPI, and tri-mode wireless. This CW variant is listed as the "with Charging Dock" configuration in a white finish. The core sensor and wireless platform are the same; the difference is the finish and this dock-equipped configuration.
 
 - **Q: How is the PAW 3311 compared to the PAW 3104 in the ML602?**
   A: The PAW 3311 is one tier above the PAW 3104 — a solid mid-tier optical sensor with 12,000 DPI. At a real CS2/Valorant sensitivity (400–1600 DPI) neither will be the bottleneck, but the PAW 3311 gives you a little more headroom and is the better sensor of the two.
@@ -68,7 +68,7 @@
 
 ## Related Products
 
-- **MOSTHUML7Y** — Thunderobot ML7 Yellow: same PAW 3311 / 12,000 DPI / 65 g / tri-mode platform, yellow accent finish without the dock
+- **MOSTHUML7Y** — Thunderobot ML7 Yellow: same PAW 3311 / 12,000 DPI / 65 g / tri-mode platform, yellow accent finish
 - **MOSAULC380PB** — AULA SC380 Pro: tri-mode with a charging dock, the no-RGB value pick — the pick if you want the dock and a lighter emphasis on the sensor
 - **MOSMACL7AIRB** — Machenike L7 Air: 55 g with the PAW3395 flagship sensor — the pick if you want the lightest shell with the top sensor
 - **A low-friction cloth mousepad (4–6 mm)** — the light shell rewards a consistent surface for precise flicks and micro-adjustments

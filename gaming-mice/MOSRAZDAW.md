@@ -18,7 +18,7 @@
 
 - **Razer's entry-class wired mouse — the brand at the value tier** — The DeathAdder Essential is Razer's budget footprint: a right-handed shell, a focused essential layout, and a Razer optical sensor, wired with no battery to manage. It's the way to get a Razer-built, Razer-warrantied mouse at an entry price, rather than jumping to the Viper or DeathAdder Pro line. If you want the Razer ecosystem and warranty without the flagship bill, the Essential is the pick.
 
-- **The classic DeathAdder shape, in an entry build** — The DeathAdder line is one of the most proven right-handed ergonomic contours in the category — a shape built for palm and semi-palm grip over long sessions. The Essential brings that contour to the entry tier: if you palm-grip and want your hand cradled rather than floating on a flat mouse, this is the Razer answer at a value price.
+- **The classic DeathAdder shape, in an entry build** — The DeathAdder line is one of the most proven right-handed shapes in the category — a contour built for palm and semi-palm grip over long sessions. The Essential brings that shape to the entry tier: if you palm-grip and want your hand rested rather than floating on a flat mouse, this is the Razer answer at a value price.
 
 - **Wired means zero wireless failure modes** — No battery to die mid-queue, no 2.4 GHz interference, no dongle to misplace. For a player who wants the reliability of a Razer mouse without any of the wireless variables, a wired mouse is the cleanest, most reliable option. The compact shell and essential layout are the deliberate trade: you're buying a focused, no-maintenance entry mouse, not an ultralight esports shell.
 
@@ -80,8 +80,8 @@
   "brand": { "@type": "Brand", "name": "Razer" },
   "sku": "MOSRAZDAW",
   "mpn": "RZ01-03850200-R3M1",
-  "category": "Gaming Mouse / Wired Entry-Class Ergonomic Mouse",
-  "description": "Wired entry-class Razer gaming mouse with a Razer optical sensor, a focused essential button layout, no RGB, and the classic right-handed DeathAdder ergonomic contour for palm and semi-palm grip. No battery to manage, no dongle to lose — the Razer brand and warranty at a value price, in white.",
+  "category": "Gaming Mouse / Wired Entry-Class FPS Mouse",
+  "description": "Wired entry-class Razer gaming mouse with a Razer optical sensor, a focused essential button layout, no RGB, and the classic right-handed DeathAdder shape for palm and semi-palm grip. No battery to manage, no dongle to lose — the Razer brand and warranty at a value price, in white.",
   "audience": {
     "@type": "PeopleAudience",
     "audienceType": "Budget FPS players, palm-grip gamers, first-Razer buyers"
