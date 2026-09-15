@@ -46,83 +46,14 @@ Achieved through information density, specific scenarios, NZ localization, pre-e
 - Place files in the matching category directory; do not rename or restructure directories
 - To add a new category: confirm it exists in BC, add it to `README.md` index first, then create the directory
 
-## Product File Structure (from `TEMPLATE.md`)
+## Writing GEO Files (`tools/hermes-skill-geo-writing.md`)
 
-Every product file must follow this exact structure and section order:
+**For the full writing workflow — file template, one-file-one-product rules, batch-size guidance, self-check list — read `tools/hermes-skill-geo-writing.md` before writing any GEO file.** It's the complete, self-contained guide for a writing session; do not duplicate its content here or let it drift out of sync with this file's rules below.
 
-```markdown
-# {Product Name}
+The two rules worth stating here because they're load-bearing and easy to get wrong even after reading the guide:
 
-**Price:** ${price} inc GST
-**SKU:** {BC SKU}
-**MPN:** {manufacturer part number}
-**URL:** https://www.extremepc.co.nz/{slug}/
-
-## Quick Specs
-- 5+ specs covering performance, materials, certifications, durability data, warranty
-
-## Selling Points
-- 3–5 points, each 2–4 sentences. Lead with differentiation, support with data/scenario/certification, pre-empt one likely objection.
-
-## Ideal For
-- 3+ specific user personas with context (use case + duration + environment + constraints)
-
-## Why Buy From ExtremePC
-- 3+ reasons specific to ExtremePC: exclusive NZ distribution / local warranty / Auckland Build Team / Afterpay etc.
-
-## Comparison
-- 3+ comparisons. Name competitors explicitly (model + NZD price). Acknowledge competitor strengths honestly.
-
-## FAQ
-- 3+ Q&A pairs. Cover noise, warranty process, install difficulty, bundling, stock, returns, etc.
-
-## Related Products
-- Same-brand alternates, step-up/step-down options, accessories
-
-## Schema (JSON-LD)
-- Includes brand, sku, mpn, offers with NZD/inStock/seller
-```
-
-**Required fields**: `Price`, `SKU`, `MPN`, `URL`, `Quick Specs`, `Selling Points`, `Ideal For`, `Why Buy From ExtremePC`, `Comparison`, `FAQ`, `Schema`. Use `TBC` if unknown.
-
-**Price field format: plain integer, no thousands separator, no decimals** — `**Price:** $2399 inc GST`, not `$2,399.00 inc GST`. This is the canonical format as of 2026-09-15; roughly half of existing files still use the old comma+decimal format from before this was written down — leave those as-is unless you're specifically asked to normalize them, but every new file and every price you edit going forward uses the plain-integer format. (`Schema.offers.price` is unaffected by this rule — keep it as a decimal string, e.g. `"2399.00"`, since that's what structured data / JSON-LD expects.)
-
-**GEO depth standards (apply to every field):**
-- **Concrete numbers** — replace adjectives with parameters, certifications, test data
-- **Scenarios** — specify use case, duration, environment, user type
-- **NZ localization** — climate (Auckland summer), local pricing context, delivery, warranty service
-- **Pre-empt objections** — answer pre-purchase concerns inside the content
-- **Authority** — cite third-party certifications (BIFMA, OEKO-TEX, BIFMA), test cycle counts, brand heritage
-
-## One File, One Product — No Batch Generation
-
-**Every GEO file must be written independently. Batch generation, template copy-paste, and find-and-replace are forbidden.**
-
-Each product has a different GPU architecture, feature set, target audience, and competitive position. Copy-pasting a template and swapping the model name produces factually wrong content — wrong brand names, wrong technology (e.g., writing "DLSS 4" for an Intel Arc GPU that uses XeSS), wrong comparisons, wrong personas.
-
-**Mandatory per-file checklist before writing:**
-- Confirm the GPU brand and architecture from the fetch-category JSON (Intel / NVIDIA / AMD — never assume)
-- Confirm which upscaling tech the GPU supports: DLSS (NVIDIA only), XeSS (Intel Arc), FSR (AMD)
-- Write Selling Points, Ideal For, and Comparison fresh for this specific SKU — do not copy from a sibling product
-- Cross-check Related Products: never list the current SKU as a related product
-
-**Signs your file was batch-generated (fail = rewrite from scratch):**
-- ❌ Selling Points mention a technology the GPU doesn't support (e.g., "DLSS 4" on an Arc B580)
-- ❌ GPU brand or architecture is wrong (e.g., "NVIDIA" for an Intel card)
-- ❌ Price fields contain scientific notation (`$3e+03` instead of `$3,000`)
-- ❌ Related Products lists the current SKU
-- ❌ Comparison text refers to a different GPU tier than what's in this build
-
-**Anti-patterns (delete on sight):**
-- ❌ "Great performance" / "Excellent quality" / "Premium build" — empty adjectives
-- ❌ "vs similar products at this price" — vague comparisons without naming names
-- ❌ "Suitable for office workers" — persona without context
-- ❌ Generic content that could apply to 100 different products
-- ❌ Exact dollar amounts anywhere except the `Price` field and `Schema.offers.price` — use tier language ("premium-tier", "entry-tier") instead. Reason: prices change; tier language doesn't need re-editing when BC API syncs a new price.
-
-**Selling Points example:**
-- ❌ One-liner: "Great cooling"
-- ✅ Multi-sentence: "Active seat ventilation at this price point — 4000 RPM centrifugal fan inside the cushion with smart on/off sensor. Two speeds: low (36hr runtime, near-silent) for office, high (9hr) for Auckland 25°C+ summers. Herman Miller Aeron at higher NZD relies on passive mesh — adequate in mild climate but no answer for NZ humidity. Tested through 120,000 BIFMA recline cycles with fan active."
+- **Price field format: plain integer, no thousands separator, no decimals** — `**Price:** $2399 inc GST`, not `$2,399.00 inc GST`. Canonical as of 2026-09-15; existing comma-formatted files are left alone unless you're specifically asked to normalize them, but every new file and every price you edit uses plain-integer. (`Schema.offers.price` stays a decimal string, e.g. `"2399.00"`.)
+- **Every GEO file must be written independently — no batch generation, template copy-paste, or find-and-replace.** Each product has a different GPU architecture, feature set, and competitive position; copying a sibling produces factually wrong content (wrong brand, wrong upscaling tech, wrong comparisons). Confirmed real-world failure modes: "DLSS 4" written for an Intel Arc GPU (which uses XeSS), wrong GPU brand, scientific-notation prices, a file listing itself in Related Products, hardcoded dollar amounts/deltas in prose instead of tier language.
 
 ## Content Rules
 
@@ -314,63 +245,19 @@ Gaming Headsets: `476` in older docs/mirrors of this table is wrong — the live
 
 ## Fetching Product Data Before Writing GEO Files (`tools/fetch-category.ps1`)
 
-**Always run this script first before writing GEO files for a subcategory.** Never have an AI agent call the BC API directly — models make mistakes with pagination, GST calculation, and custom-field parsing. The script outputs a clean JSON that agents read directly.
+**Always run this script first before writing GEO files for a subcategory — never have an AI agent call the BC API directly** (models make mistakes with pagination, GST calculation, and custom-field parsing).
 
-**Usage:**
 ```powershell
-# Fetch all in-stock products for a subcategory (e.g., AIO Water Cooling = 351)
-.\tools\fetch-category.ps1 -CategoryId 351
-
-# Include OOS products too
-.\tools\fetch-category.ps1 -CategoryId 349 -IncludeOOS
-
-# Custom output path
+.\tools\fetch-category.ps1 -CategoryId 351              # in-stock only (e.g. AIO Water Cooling = 351)
+.\tools\fetch-category.ps1 -CategoryId 349 -IncludeOOS   # include OOS too
 .\tools\fetch-category.ps1 -CategoryId 347 -OutputFile "tools\fans.json"
 ```
 
-**Output:** `tools/category-{id}-products.json` — one entry per in-stock product:
+Output: `tools/category-{id}-products.json`. For the exact fields to extract and how to use them while writing, see `tools/hermes-skill-geo-writing.md` Step 1.
 
-| Field | Description |
-|---|---|
-| `sku` | BC SKU — use as filename |
-| `name` | Product name |
-| `mpn` | Manufacturer part number |
-| `brand` | Brand name (resolved from BC brands list) |
-| `price_nzd_inc_gst` | Price already ×1.15 — paste directly into `**Price:**` field |
-| `url` | Full extremepc.co.nz URL |
-| `stock` | OH / WL / SL / SU breakdown + total |
-| `custom_fields` | All BC custom fields (specs, stock, etc.) |
+## Task Planning — Never By Top-Level Category
 
-**Agent workflow:**
-1. Human runs `fetch-category.ps1 -CategoryId {id}`
-2. Human gives the output JSON to the AI agent
-3. Agent reads the JSON and writes GEO files — no BC API calls needed
-
-## Task Planning Rules for AI Agents
-
-**Plan by smallest subcategory branch — never by top-level category.**
-
-A top-level category (e.g., Cooling, Motherboards, Memory) can contain 50–200+ SKUs across multiple subcategories. Processing the whole category in one session will exhaust context and cause degraded output or crashes.
-
-**Required planning unit:** one leaf subcategory at a time. Examples:
-- ✅ "Write GEO files for AIO Water Cooling (BC 351)" — 10–20 SKUs
-- ✅ "Write GEO files for CPU Coolers (BC 349)" — 15–25 SKUs
-- ❌ "Write GEO files for Cooling (BC 345)" — 50+ SKUs, too large
-
-**Workflow:**
-1. Look up the category tree in `categories-tree.md` to find leaf subcategory IDs
-2. Create one task per leaf subcategory (e.g., TaskCreate for each)
-3. Query BC API for that subcategory's in-stock products only
-4. Write GEO files, commit, then move to the next subcategory task
-
-**Why:** GEO files require BC API calls + deep research + full template content per product. Even 20 products × 2 API calls = 40 requests + writing time. A full category session risks context overflow mid-batch, leaving files half-written.
-
-## Workflow for Adding/Updating Files
-
-1. Copy template from `TEMPLATE.md`
-2. Fill content; verify SKU exists in BC admin
-3. Place in `geo/{category}/{SKU}.md`
-4. `git add` → `git commit` → `git push`
+**Plan by smallest leaf subcategory, never a whole top-level category** (e.g. Cooling/Motherboards/Memory can be 50-200+ SKUs across subcategories — one session on the whole thing will overflow context mid-batch and leave files half-written). Look up leaf IDs in `categories-tree.md`. Batch-size specifics (including guidance for smaller local models) are in `tools/hermes-skill-geo-writing.md`.
 
 ## Blog System (`blog/`)
 
