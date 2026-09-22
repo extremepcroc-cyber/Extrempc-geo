@@ -192,3 +192,29 @@
 ## Q: 装机和什么相关的问题怎么处理？
 
 如果客人问的装机问题知识库里没有，告诉客人"我帮你转给技术同事看看"或"我查一下再回复你"，不要自己猜价格。
+
+## Q: 整机 listing 没标品牌，你们会用哪些品牌？
+
+**政策（2026-09-22 店主确认）：优先使用 ExtremePC 是代理商的品牌。**
+
+| 部件 | 优先品牌 | 说明 |
+|---|---|---|
+| **内存 RAM** | **Whalekom / Team / ADATA** | ⚠️ 目前内存严重缺货，实际用哪个取决于**当时有货的品牌** |
+| **主板 MB** | **ASRock** | ExtremePC 是 ASRock 代理商，优先用 ASRock |
+| **电源 PSU** | **Thermalright** | ExtremePC 是 Thermalright 代理商，优先用 Thermalright |
+| **显卡 GPU** | **ASRock / Colorful** | ExtremePC 是这两家的代理商，优先用这两个品牌 |
+| 机箱 Case | 按 listing 标注（常见 Zalman / Jonsbo 等） | — |
+
+**⚠️ 关键**：这是"优先/预期"品牌，**不是绝对承诺** —— 最终用料取决于装机时的库存。listing 只标瓦数/规格而非品牌，就是因为 build sheet 会随库存变化，但**一定出自上述品牌之一**。
+
+**给客人的英文回答模板（直接可用）：**
+
+> When a build's listing doesn't name the brand, we prioritise the brands we're an authorised NZ distributor for:
+> - **Motherboard**: ASRock (we're an ASRock distributor)
+> - **Power supply**: Thermalright (we're a Thermalright distributor)
+> - **Graphics card**: ASRock or Colorful (we're distributors for both)
+> - **RAM**: Whalekom, Team, or ADATA — memory is in very short supply right now, so the exact brand depends on what's in stock at build time.
+>
+> That's why the listing shows spec (wattage / capacity) rather than brand — but it will always be one of these. If you need the exact brand in the current batch, ring the store on 09 849 4999 and they can check the build sheet.
+
+**要点**：① 给出品牌范围（有参考价值，不是空话）② 说明是"优先"而非"保证" ③ 需要确切品牌时引导电话确认当前批次。
