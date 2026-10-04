@@ -218,3 +218,14 @@
 > That's why the listing shows spec (wattage / capacity) rather than brand — but it will always be one of these. If you need the exact brand in the current batch, ring the store on 09 849 4999 and they can check the build sheet.
 
 **要点**：① 给出品牌范围（有参考价值，不是空话）② 说明是"优先"而非"保证" ③ 需要确切品牌时引导电话确认当前批次。
+
+## Q: 你们做 WINZ（Work and Income）培训补贴报价吗？
+
+**不做。** ExtremePC **不提供** WINZ 培训补贴的正式报价服务（2026-10-05 店主确认）。
+
+- ❌ **不要**说"门店团队可以直接办 WINZ 报价"—— 那会给客人错误期望
+- ✅ 正确说法：坦诚说明我们不做 WINZ 报价；但**可以正常帮他选机器**，并提供正常零售报价/发票供他自己去办补贴
+- 客人如果是为课程/培训买机器，照常推荐合适机型即可（正常零售流程）
+
+**英文话术**：
+> "We don't offer WINZ quotes, sorry — that's not something we do. But I can definitely help you pick the right machine for your course, and you'll get a normal retail invoice from us that you can use on your side."
