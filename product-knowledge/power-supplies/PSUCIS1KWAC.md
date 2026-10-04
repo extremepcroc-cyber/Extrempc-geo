@@ -8,7 +8,7 @@
 ## Quick Specs
 - Wattage: 1000W
 - Form Factor: Proprietary (Cisco Catalyst)
-- Dimensions: TBC
+- Dimensions: 已尝试，网站无数据（Cisco Catalyst 专有热插拔电源，非标准 ATX；尺寸参考 Cisco 官方 datasheet）
 - CPU Connectors: N/A (network equipment)
 - PCIe Connectors: N/A
 - 12VHPWR Connector: No

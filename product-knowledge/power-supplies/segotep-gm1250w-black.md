@@ -2,7 +2,8 @@
 
 **SKU:** PSUSEGGM1250W1B
 **Brand:** Segotep
-**Price:** NZD $276.00 (incl. GST, on sale from $399)
+**Price:** NZD $399.00 (incl. GST) — BC API verified 2026-10-01 (list $346.96 ex-GST × 1.15, no sale)
+**Stock:** In Stock — Only a few left (OH=5, verified 2026-10-01, BC API)
 **Status:** In Stock
 
 ## Quick Specs

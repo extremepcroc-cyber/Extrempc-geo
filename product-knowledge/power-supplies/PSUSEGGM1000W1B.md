@@ -3,7 +3,7 @@
 **Price:** NZD $249.00 (incl. GST)
 **SKU:** PSUSEGGM1000W1B
 **URL:** https://www.extremepc.co.nz/segotep-gm1000w-atx3-1-80-plus-gold-full-modular-power-supply-black/
-**Stock:** We have plenty in stock
+**Stock:** OUT OF STOCK (verified 2026-09-18, BC API inv=0, OH=0; last seen OH=1 in 2026-09-16 cache, sold out 2026-09-17)
 
 ## Quick Specs
 - Wattage: 1000W

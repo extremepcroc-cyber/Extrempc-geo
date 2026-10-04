@@ -8,7 +8,7 @@
 ## Quick Specs
 - Wattage: 100W
 - Form Factor: Proprietary (Ubiquiti Redundant Module)
-- Dimensions: TBC
+- Dimensions: 已尝试，网站无数据（Ubiquiti 专有冗余电源模块，非标准 ATX；尺寸参考 Ubiquiti 官方 docs）
 - CPU Connectors: N/A (network equipment)
 - PCIe Connectors: N/A
 - 12VHPWR Connector: No

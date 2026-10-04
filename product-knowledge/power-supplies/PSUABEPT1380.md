@@ -3,7 +3,7 @@
 **Price:** NZD $599.00 (incl. GST)
 **SKU:** PSUABEPT1380
 **URL:** https://www.extremepc.co.nz/abee-stem-pt1380w-80-plus-platinum-fully-modular-power-supply/
-**Stock:** We have plenty in stock
+**Stock:** Only a few left in stock (OH=1, verified 2026-09-24, BC API; was OH=2 on 09-23)
 
 ## Quick Specs
 - Wattage: 1380W

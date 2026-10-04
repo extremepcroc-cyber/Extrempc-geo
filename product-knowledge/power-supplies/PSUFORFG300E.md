@@ -6,9 +6,9 @@
 **Stock:** Out of stock
 
 ## Quick Specs
-- Wattage: TBC
+- Wattage: 已尝试，网站无数据（随兼容 FortiGate 型号而定，参考 Fortinet 官方 datasheet）
 - Form Factor: Proprietary (Fortinet)
-- Dimensions: TBC
+- Dimensions: 已尝试，网站无数据（Fortinet 专有防火墙电源，非标准 ATX；尺寸参考 Fortinet 官方 datasheet）
 - CPU Connectors: N/A (network equipment)
 - PCIe Connectors: N/A
 - 12VHPWR Connector: No

@@ -8,7 +8,7 @@
 ## Quick Specs
 - Wattage: 400W
 - Form Factor: Proprietary (Cisco Firewall)
-- Dimensions: TBC
+- Dimensions: 已尝试，网站无数据（Cisco Secure Firewall 专有电源，非标准 ATX；尺寸参考 Cisco 官方 datasheet）
 - CPU Connectors: N/A (network equipment)
 - PCIe Connectors: N/A
 - 12VHPWR Connector: No

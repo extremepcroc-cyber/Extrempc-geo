@@ -3,7 +3,7 @@
 **Price:** NZD $699.00 (incl. GST)
 **SKU:** PSUTHEAT1650
 **URL:** https://www.extremepc.co.nz/above-900w/thermalright-tr-at1650-atx-3-1-80-plus-titanium-fully-modular-1650w-power-supply/
-**Stock:** Out of stock
+**Stock:** In Stock — RESTOCKED (OH=2, verified 2026-09-23, BC API inv=2). Was OOS before 09-23.
 
 ## Quick Specs
 - Wattage: 1650W

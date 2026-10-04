@@ -1,11 +1,11 @@
 # Thermalright TB 550W 80 PLUS Bronze NON Modular Power Supply Black
 
-**Price:** NZD $79.35 (incl. GST) (on sale from $89.00)
+**Price:** NZD $86.25 (incl. GST) (on sale from $89.00) — BC API verified 2026-09-23 (calc $75 × 1.15)
 **SKU:** PSUTMRTB550B
 **Brand:** Thermalright
 **MPN:** TR-TB550S
 **URL:** https://www.extremepc.co.nz/thermalright-tb-550w-80-plus-bronze-non-modular-power-supply-black/
-**Stock:** We have plenty in stock
+**Stock:** We have plenty in stock (OH=23, verified 2026-09-23, BC API)
 
 ## Quick Specs
 - Wattage: 550W

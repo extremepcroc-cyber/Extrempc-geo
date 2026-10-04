@@ -8,7 +8,7 @@
 ## Quick Specs
 - Wattage: 250W
 - Form Factor: Proprietary (Aruba Switch)
-- Dimensions: TBC
+- Dimensions: 已尝试，网站无数据（Aruba 专有交换机电源模块，非标准 ATX；尺寸参考 Aruba 官方 datasheet）
 - CPU Connectors: N/A (network equipment)
 - PCIe Connectors: N/A
 - 12VHPWR Connector: No
