@@ -3,7 +3,8 @@
 **SKU:** HDSMCHV9PIW
 **Brand:** MCHOSE
 **Price:** NZD $99.00 (incl. GST)
-**Stock:** OUT OF STOCK (verified 2026-09-10, BC API inventory=0; Onehunga not available online)
+**Stock:** In Stock — RESTOCKED (OH=7, verified 2026-09-22, BC API inv=7). Was OOS 2026-09-10
+**URL:** https://www.extremepc.co.nz/mchose-v9-pro-noise-canceling-wireless-gaming-headset-icy-white/
 
 ## Quick Specs
 

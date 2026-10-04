@@ -1,9 +1,9 @@
 # MCHOSE X9 Pro E-sports Wireless Gaming Headset
 
-**SKU:** HDSMCHX9PB (Black) / HDSMCHX9PR (Rose Red)
+**SKU:** HDSMCHX9PB (Black) / HDSMCHX9PR (Rose Red) / HDSMCHX9PW (White)
 **Brand:** MCHOSE
-**Price:** NZD $129.00 (incl. GST)
-**Status:** OUT OF STOCK (verified 2026-09-12, BC API OH=0, inv=0 — 黑色与玫瑰红 HDSMCHX9PR 均全仓售罄)
+**Price:** NZD $149.01 (incl. GST) — BC API verified 2026-09-30 (list price increased $129→$149.01)
+**Status:** In Stock — RESTOCKED (verified 2026-09-22, BC API). Rose Red HDSMCHX9PR OH=5 / White HDSMCHX9PW OH=14 / Black HDSMCHX9PB removed from BC catalog. All $149.01 incl GST (list, no sale, verified 2026-09-30)
 
 ## Quick Specs
 

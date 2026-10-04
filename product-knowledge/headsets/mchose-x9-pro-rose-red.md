@@ -2,8 +2,9 @@
 
 **SKU:** HDSMCHX9PR
 **Brand:** MCHOSE
-**Price:** NZD $129.00 (incl. GST)
-**Stock:** OUT OF STOCK (verified 2026-09-10, BC API inventory=0; Onehunga not available online)
+**Price:** NZD $149.01 (incl. GST) — BC API verified 2026-09-30 (list price increased $129→$149.01)
+**Stock:** In Stock — RESTOCKED (OH=5, verified 2026-09-22, BC API inv=5). Was OOS 2026-09-10
+**URL:** https://www.extremepc.co.nz/mchose-x9-pro-e-sports-wireless-gaming-headset-rose-red/
 
 ## Quick Specs
 

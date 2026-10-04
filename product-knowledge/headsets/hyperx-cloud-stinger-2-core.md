@@ -3,7 +3,7 @@
 **Price:** NZD $55.00 (incl. GST) (on sale from $69.00)
 **SKU:** HDSHYPCLOS2C
 **URL:** https://www.extremepc.co.nz/hyperx-cloud-stinger-2-core-gaming-headsets/
-**Stock:** Only a few left
+**Stock:** OUT OF STOCK (verified 2026-09-25, BC API OH=0/inv=0; was OH=1 on 09-24)
 
 ## Quick Specs
 - **Type:** Over-ear, closed-back
@@ -15,7 +15,7 @@
 - **Weight:** ~275g
 - **Cable Length:** ~1.3m
 - **Compatibility:** PC, PS, Xbox, Switch, mobile (3.5mm)
-- **Warranty:** 2 years
+- **Warranty:** Manufacturer warranty — exact length on the product page
 
 ## Compatibility Notes
 Budget-friendly wired gaming headset with DTS spatial audio. Detachable mic makes it versatile for voice chat. 3.5mm connection works with most platforms.
@@ -23,4 +23,4 @@ Budget-friendly wired gaming headset with DTS spatial audio. Detachable mic make
 ## Why Buy From ExtremePC
 - Local NZ stock with fast availability
 - In-store pickup at Onehunga or Wellington
-- 2-year NZ warranty support
+- Manufacturer warranty — exact length on the product page

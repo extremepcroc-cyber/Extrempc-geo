@@ -2,8 +2,8 @@
 
 **SKU:** HDSHYPCIIIBK
 **Brand:** HyperX
-**Price:** NZD $136.85 (incl. GST) (on sale from $169.00)
-**Status:** In Stock
+**Price:** NZD $118.00 (incl. GST) (on sale from $169.00) — BC API verified 2026-09-19
+**Status:** OUT OF STOCK (verified 2026-09-22, BC API inv=0, OH=0 — Black BK 售罄, sale 结束, list 回 $169.00 incl GST)
 
 ## Quick Specs
 

@@ -1,11 +1,11 @@
 # Logitech H390 USB Pure Digital Headset
 
-**Price:** NZD $69 (incl. GST)
+**Price:** NZD $69 (incl. GST) — BC API verified 2026-09-23 (list, no sale)
 **SKU:** HDSLOGH390
 **Brand:** Logitech
 **MPN:** 981-000485
 **URL:** https://www.extremepc.co.nz/logitech-h390-usb-pure-digital-headset-comfortable-design-in-line-audio-controls-noise-canceling-microphone/
-**Stock:** Only a few left in stock
+**Stock:** In Stock — RESTOCKED (OH=20, verified 2026-09-23, BC API inv=20). Was OOS 2026-09-20.
 
 ## Quick Specs
 - Type: Wired USB Headset
