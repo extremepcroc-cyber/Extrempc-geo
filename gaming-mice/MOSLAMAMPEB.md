@@ -2,6 +2,7 @@
 
 **Price:** $199.00 inc GST
 **SKU:** MOSLAMAMPEB
+**Status:** OUT OF STOCK - last checked 2026-10-05
 **Stock:** 1 units in stock (Onehunga: 1)
 
 ## Quick Specs
