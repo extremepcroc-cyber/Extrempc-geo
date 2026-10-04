@@ -1,9 +1,9 @@
 # Segotep Radiant MATX Tempered Glass Micro Tower Case - White
 
-**Price:** NZD $79.00 (incl. GST)
+**Price:** NZD $79.00 (incl. GST) — BC API verified 2026-09-24 (list $68.70 ex-GST × 1.15, no sale)
 **SKU:** CASSEGRADW
 **URL:** https://extremepc.co.nz/segotep-radiant-matx-tempered-glass-micro-tower-case-white/
-**Stock:** Only a few left in stock (Onehunga 1, verified 2026-09-03)
+**Stock:** OUT OF STOCK (verified 2026-09-24, BC API OH=0, inv=0; was OH=1 on 2026-09-23 — last unit sold) — Black variant CASSEGRADB still in stock (OH=40, NZD $63.25 on sale)
 
 ## Quick Specs
 - Form Factor: M-ATX / ITX Micro Tower

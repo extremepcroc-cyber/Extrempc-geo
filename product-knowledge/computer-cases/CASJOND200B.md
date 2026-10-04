@@ -6,7 +6,12 @@
 **Stock:** OUT OF STOCK (verified 2026-09-10, BC API inventory=0; Onehunga not available online)
 
 ## Quick Specs
-- Compatibility specs pending - check product page for details
+- Form Factor: Micro Tower (M-ATX) — per product name
+- Motherboard Support: M-ATX (per product name; ATX/ITX support unconfirmed — official spec table unreachable)
+- Max GPU Length: 已尝试，网站无数据（Jonsbo 官方站 454 bot-block，2026-10-05 重测仍不可达）
+- Max CPU Cooler Height: 已尝试，网站无数据（同上）
+- PSU Length Limit: 已尝试，网站无数据（同上）
+- Radiator Support: 已尝试，网站无数据（同上）
 
 ## Compatibility Notes
 This case is available at ExtremePC in Auckland, NZ. For detailed compatibility questions, visit the product page or contact the store.

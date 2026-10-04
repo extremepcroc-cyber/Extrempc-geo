@@ -6,7 +6,12 @@
 **Stock:** Only a few left
 
 ## Quick Specs
-- Compatibility specs pending - check product page for details
+- Form Factor: SFF / Nano-ITX — per product name
+- Motherboard Support: Mini-ITX (per product name; M-ATX support unconfirmed — official spec table unreachable)
+- Max GPU Length: 已尝试，网站无数据（Jonsbo 官方站 454 bot-block，2026-10-05 重测仍不可达）
+- Max CPU Cooler Height: 已尝试，网站无数据（同上）
+- PSU Length Limit: 已尝试，网站无数据（SFF 机箱通常限长，具体值同上无数据）
+- Radiator Support: 已尝试，网站无数据（同上）
 
 ## Compatibility Notes
 This case is available at ExtremePC in Auckland, NZ. For detailed compatibility questions, visit the product page or contact the store.

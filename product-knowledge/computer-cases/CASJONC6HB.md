@@ -2,7 +2,7 @@
 
 **Price:** NZD $78.99 (incl. GST)
 **SKU:** CASJONC6HB
-**Stock:** Plenty in stock (verified 2026-08-31, OH>0)
+**Stock:** OUT OF STOCK (BC API verified 2026-09-27, Onehunga OH=0; was "Plenty in stock" as of 2026-08-31)
 
 ## Quick Specs
 - Form Factor: Mini ITX / Micro ATX

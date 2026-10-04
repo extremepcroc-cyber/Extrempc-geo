@@ -3,7 +3,7 @@
 **Price:** NZD $172.50 (incl. GST) (on sale from $199.00)
 **SKU:** CASJONTK1B
 **URL:** https://www.extremepc.co.nz/jonsbo-tk-1-m-atx-mini-tower-case-black/
-**Stock:** Only a few left
+**Stock:** OUT OF STOCK (verified 2026-09-16, BC API inv=0, OH=0; Open BOX unit)
 
 ## Quick Specs
 - Dimensions: 120

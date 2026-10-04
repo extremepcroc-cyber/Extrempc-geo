@@ -9,6 +9,7 @@ Thermalright is a Taiwanese cooling hardware brand with 20+ years of reputation 
 ## TL-M10 Standard
 
 - **SKUs:** CASTMRM10B (Black $119), CASTMRM10W (White $129)
+- **Status:** Black CASTMRM10B In Stock (OH=1, restocked 2026-09-30, BC API verified) — low stock, sell-fast item. White (CASTMRM10W) and Vision variants also in stock
 - **Form factor:** Micro-ATX
 - **Side panel:** 4mm tempered glass (thicker than average — most budget cases use 3mm)
 - **CPU cooler clearance:** 165mm — fits most tower coolers including Thermalright Peerless Assassin

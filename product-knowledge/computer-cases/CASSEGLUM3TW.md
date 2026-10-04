@@ -7,7 +7,12 @@
 **Status:** OUT OF STOCK (BC API verified 2026-09-02, all warehouses 0)
 
 ## Quick Specs
-- Compatibility specs pending - check product page for details
+- Form Factor: Micro Tower (M-ATX) — per product name
+- Motherboard Support: M-ATX (per product name; ATX/ITX support unconfirmed — official spec table unreachable)
+- Max GPU Length: 已尝试，网站无数据（Segotep 官方产品页为 JS 渲染壳，2026-10-05 重测仍不可达）
+- Max CPU Cooler Height: 已尝试，网站无数据（同上）
+- PSU Length Limit: 已尝试，网站无数据（同上）
+- Radiator Support: 已尝试，网站无数据（同上）
 
 ## Compatibility Notes
 This case is available at ExtremePC in Auckland, NZ. For detailed compatibility questions, visit the product page or contact the store.

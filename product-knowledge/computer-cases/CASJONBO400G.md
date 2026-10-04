@@ -1,9 +1,10 @@
 # Jonsbo BO400CG Aluminum Frame ATX Mid Tower Case - Gray
 
 **Price:** NZD $599.00 (incl. GST)
+**Price (sale):** NZD $552.00 (incl. GST, on sale from $599.00) — BC API verified 2026-09-23 (calc $480×1.15)
 **SKU:** CASJONBO400G
 **URL:** https://www.extremepc.co.nz/jonsbo-bo400cg-aluminum-frame-atx-mid-tower-case-gray/
-**Stock:** Only a few left
+**Stock:** Only a few left (OH=2, verified 2026-09-23, BC API)
 
 ## Quick Specs
 - Max GPU Length: 435mm
