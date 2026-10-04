@@ -1,6 +1,6 @@
 # Colorful GeForce RTX 5050 Gaming DUO 8GB-V Graphics Card
 
-**Price:** NZD $667.00 (incl. GST) (on sale from $799.00)
+**Price:** NZD $799.00 (incl. GST)
 **SKU:** GPUCOL55GD8
 **URL:** https://www.extremepc.co.nz/rtx-50-series/colorful-geforce-rtx-5050-gaming-duo-8gb-v/
 **Stock:** Plenty in stock

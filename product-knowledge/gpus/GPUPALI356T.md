@@ -1,6 +1,6 @@
 # Palit Infinity 3 NVIDIA GeForce RTX 5060 Ti 16GB Graphics Card
 
-**Price:** NZD $1,345.50 (incl. GST, on sale from $1,379)
+**Price:** NZD $1,499.00 (incl. GST) — BC API verified 2026-09-26 (back to list, was $1,458.99 on 09-22)
 **SKU:** GPUPALI356T
 **URL:** https://extremepc.co.nz/rtx-50-series/palit-infinity-3-nvidia-geforce-rtx-5060-ti-16gb-graphics-card-ne7506t019t1-gb2061s/
 **Stock:** We have plenty in stock

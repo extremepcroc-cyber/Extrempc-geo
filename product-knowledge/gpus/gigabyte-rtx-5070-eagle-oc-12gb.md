@@ -3,8 +3,8 @@ sku: GPUGIG5070EOC12
 name: Gigabyte GeForce RTX 5070 EAGLE OC 12GB Graphics Card
 brand: Gigabyte
 mpn: GV-N5070EAGLE OC-12GD
-price_nzd_ex_gst: 1390.43
-price_nzd_incl_gst: 1599.00
+price_nzd_ex_gst: 1477.39
+price_nzd_incl_gst: 1699.00
 url: /gigabyte-geforce-rtx-5070-eagle-oc-12gb-graphics-card/
 category: GPUs
 status: In Stock

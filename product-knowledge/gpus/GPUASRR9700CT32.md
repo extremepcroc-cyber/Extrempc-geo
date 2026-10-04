@@ -9,9 +9,9 @@
 - GPU: AMD Radeon AI PRO R9700
 - Memory: 32GB
 - Memory Bus: N/A
-- TDP: ~TBC
+- TDP: 已尝试，网站无数据（ASRock 专业卡;TDP 参考 ASRock/AMD 官方 datasheet）
 - Recommended PSU: 750W 80+ Gold
-- Power Connectors: TBC
+- Power Connectors: 已尝试，网站无数据（参考 ASRock/AMD 官方 datasheet）
 - Target Resolution: Professional workstation / AI / content creation
 
 ## Compatibility Notes

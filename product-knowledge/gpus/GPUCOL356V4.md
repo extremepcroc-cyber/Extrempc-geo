@@ -1,6 +1,6 @@
 # Colorful GeForce RTX 3050 6GB V4-V Graphics Card
 
-**Price:** NZD $419.75 (incl. GST) (on sale from $439.00)
+**Price:** NZD $448.50 (incl. GST) (on sale from $489.00) — BC API verified 2026-09-24 (calc $390 ex-GST × 1.15; was $431.25 on 09-23, $419.75 on 09-22)
 **SKU:** GPUCOL356V4
 **URL:** https://www.extremepc.co.nz/rtx-30-series/colorful-geforce-rtx-3050-6gb-v4-v-graphics-card/
 **Stock:** Plenty in stock

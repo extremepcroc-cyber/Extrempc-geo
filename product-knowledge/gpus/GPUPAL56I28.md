@@ -1,6 +1,6 @@
 # Palit GeForce RTX 5060 Infinity 2 OC 8GB GDDR7 Graphics Card
 
-**Price:** NZD $810.75 (incl. GST, on sale)
+**Price:** NZD $929.00 (incl. GST)
 **SKU:** GPUPAL56I28
 **URL:** https://extremepc.co.nz/nvidia-geforce/palit-geforce-rtx-5060-infinity-2-oc-8gb-gddr7-graphics-card-ne75060v19p1-gb2063l/
 **Stock:** We have plenty in stock

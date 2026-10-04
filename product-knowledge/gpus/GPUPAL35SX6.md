@@ -1,6 +1,6 @@
 # Palit GeForce RTX 3050 StormX 6GB GDDR6 Graphics Card
 
-**Price:** NZD $465.75 (incl. GST, on sale)
+**Price:** NZD $465.75 (incl. GST, on sale from $489.00) — BC API verified 2026-09-24 (calc $405 ex-GST × 1.15; was $448.50 on 09-23)
 **SKU:** GPUPAL35SX6
 **URL:** https://extremepc.co.nz/csv-import/palit-stormx-nvidia-geforce-rtx-3050-6gb-graphics-card-2-slot-displayport-hdmi-dvi-minimum-300w-psu/
 **Stock:** We have plenty in stock

@@ -1,6 +1,6 @@
 # Palit GeForce RTX 5050 Dual 8GB GDDR6 Graphics Card
 
-**Price:** NZD $684.25 (incl. GST, on sale)
+**Price:** NZD $678.50 (incl. GST) (on sale from $799.00) — BC API verified 2026-09-24 (calc $590 ex-GST × 1.15; was $701.50 on 09-23, $684.25 on 09-22)
 **SKU:** GPUPAL55D8
 **URL:** https://extremepc.co.nz/nvidia-geforce/palit-geforce-rtx-5050-dual-8gb-gddr6-graphics-card-ne65050019p1-gb2070d/
 **Stock:** We have plenty in stock

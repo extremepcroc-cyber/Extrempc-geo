@@ -1,6 +1,6 @@
 # MSI GeForce RTX 5060 Ti SHADOW 2X OC PLUS 16GB Video Card
 
-**Price:** NZD $1,379.00 (incl. GST)
+**Price:** NZD $1,499.00 (incl. GST) — BC API verified 2026-09-26 (back to list, was $1,459.00 on 09-24)
 **SKU:** GPUMSIS25060T16O
 **URL:** https://www.extremepc.co.nz/rtx-50-series/msi-geforce-rtx-5060-ti-shadow-2x-oc-plus-16gb-video-card/
 **Stock:** Only a few left in stock

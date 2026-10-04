@@ -1,6 +1,6 @@
 # Colorful GeForce RTX 5070 Gaming 12GB-V Graphics Card
 
-**Price:** NZD $1,472.00 (incl. GST) (on sale from $1,699.00)
+**Price:** NZD $1,699.00 (incl. GST)
 **SKU:** GPUCOL57G12
 **Brand:** Colorful
 **MPN:** GeForce RTX 5070 Gaming 12GB-V

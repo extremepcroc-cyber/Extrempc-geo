@@ -1,11 +1,10 @@
 # PNY GeForce RTX 5080 Slim OC Dual Fan 16GB GDDR7 Graphics Card
 
-**Price:** NZD $2899.00 (incl. GST)
+**Price:** NZD $2,999.00 (incl. GST) — BC API verified 2026-09-24 (list $2,607.83 ex-GST × 1.15, no sale; was $3,137.00 on 09-18)
 **SKU:** GPUPNY58SDOC
 **MPN:** VCG508016DFSXPB1-O
 **URL:** https://www.extremepc.co.nz/csv-import/pny-nvidia-geforce-rtx-5080-slim-oc-dual-fan-16gb-gddr7-graphics-card-pcie-5-0-2-slot-1x-16-pin-power-minimum-850w-psu/
-**Stock:** — (see status)
-**Status:** OUT OF STOCK (BC API verified 2026-09-02, all warehouses 0)
+**Stock:** In Stock — only a few left (OH=1, RESTOCKED 2026-09-18, BC API inv=1, OH=1; was OOS verified 2026-09-02, back 2026-09-18)
 
 ## Quick Specs
 - GPU: NVIDIA GeForce RTX 5080 (Blackwell)

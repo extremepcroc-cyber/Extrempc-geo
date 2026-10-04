@@ -1,6 +1,6 @@
 # Palit GeForce RTX 5060 White OC 8GB GDDR7 Graphics Card
 
-**Price:** NZD $874.00 (incl. GST, on sale)
+**Price:** NZD $929.00 (incl. GST)
 **SKU:** GPUPAL56W8
 **URL:** https://extremepc.co.nz/nvidia-geforce/palit-geforce-rtx-5060-white-oc-8gb-gddr7-graphics-card-ne75060u19p1-gb2063m/
 **Stock:** We have plenty in stock

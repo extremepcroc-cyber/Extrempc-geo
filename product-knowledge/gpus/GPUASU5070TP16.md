@@ -3,7 +3,7 @@
 **Price:** NZD $2,518.99 (incl. GST)
 **SKU:** GPUASU5070TP16
 **URL:** https://www.extremepc.co.nz/asus-prime-geforce-rtx-5070-ti-16gb-gddr7-graphics-card/
-**Stock:** Only a few left in stock
+**Stock:** OUT OF STOCK (verified 2026-10-01, BC API OH=0)
 
 ## Quick Specs
 - GPU: NVIDIA GeForce RTX 5070 Ti (Blackwell)
@@ -24,4 +24,4 @@
 - Local NZ stock with fast availability
 - In-store pickup at Onehunga or Wellington
 - Expert build service available ($80 build fee)
-- 3-year NZ manufacturer warranty
+- Manufacturer warranty — exact length on the product page

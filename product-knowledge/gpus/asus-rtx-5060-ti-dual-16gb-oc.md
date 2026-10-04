@@ -3,8 +3,8 @@ sku: GPUASUD5060T16
 name: ASUS GeForce RTX 5060 Ti Dual 16GB OC GDDR7 Graphics Card
 brand: ASUS
 mpn: DUAL-RTX5060TI-O16G
-price_nzd_ex_gst: 1199.13
-price_nzd_incl_gst: 1379.00
+price_nzd_ex_gst: 1303.48
+price_nzd_incl_gst: 1499.00
 url: /asus-dual-nvidia-geforce-rtx-5060-ti-16gb-gddr7-graphics-card/
 category: GPUs
 status: In Stock

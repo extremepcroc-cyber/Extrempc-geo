@@ -3,8 +3,8 @@
 **Price:** NZD $1699.00 (incl. GST)
 **SKU:** GPUCOL5070V12
 **URL:** https://www.extremepc.co.nz/colorful-igame-geforce-rtx-5070-vulcan-oc-12gb-v-gddr7-graphics-card/
-**Stock:** Only a few left in stock (BC API verified 2026-09-04, inv=1, OH=1)
-**Status:** IN STOCK — restocked 2026-09-04 (BC API verified inv=1; was OOS since 2026-09-02)
+**Stock:** OUT OF STOCK (BC API verified 2026-09-30, inv=0, OH=0; was in stock 2026-09-29 at OH=1)
+**Status:** OUT OF STOCK — sold out 2026-09-30 (BC API verified 2026-09-30). ⚠️ RTX 5070 12GB in-stock alternatives: ASUS Dual OC (GPUASU5070DO) / Colorful Gaming 12GB (GPUCOL57G12) / PNY 5070 OC (GPUPNY57OC12)
 
 ## Quick Specs
 - GPU: NVIDIA GeForce RTX 5070 (Blackwell)
@@ -27,4 +27,4 @@
 - Local NZ stock with fast availability
 - In-store pickup at Onehunga or Wellington
 - Expert build service available ($80 build fee)
-- 3-year NZ manufacturer warranty
+- Manufacturer warranty — exact length on the product page
