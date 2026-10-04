@@ -4,6 +4,7 @@
 **SKU:** MOSRAZDAV2X
 **MPN:** RZ01-04130100-R3A1
 **URL:** https://www.extremepc.co.nz/razer-deathadder-v2-x-hyperspeed-ergonomic-wireless-optical-gaming-mouse/
+**Status:** OUT OF STOCK - last checked 2026-10-05
 
 ## Quick Specs
 - **Connection:** Wireless — Razer HyperSpeed (low-latency 2.4 GHz) + USB wired/charging
@@ -88,7 +89,7 @@
     "@type": "Offer",
     "price": "99.00",
     "priceCurrency": "NZD",
-    "availability": "https://schema.org/InStock",
+    "availability": "https://schema.org/OutOfStock",
     "url": "https://www.extremepc.co.nz/razer-deathadder-v2-x-hyperspeed-ergonomic-wireless-optical-gaming-mouse/",
     "seller": {
       "@type": "Organization",

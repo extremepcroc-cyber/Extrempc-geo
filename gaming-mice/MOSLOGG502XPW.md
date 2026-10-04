@@ -1,6 +1,6 @@
 # Logitech G502 X PLUS Optical Wireless Gaming Mouse — White
 
-**Price:** $239 inc GST
+**Price:** $249 inc GST
 **SKU:** MOSLOGG502XPW
 **MPN:** 910-006173
 **URL:** https://www.extremepc.co.nz/logitech-g502-x-plus-optical-wireless-gaming-mouse-white/
@@ -88,7 +88,7 @@
   },
   "offers": {
     "@type": "Offer",
-    "price": "239.00",
+    "price": "249.00",
     "priceCurrency": "NZD",
     "availability": "https://schema.org/InStock",
     "url": "https://www.extremepc.co.nz/logitech-g502-x-plus-optical-wireless-gaming-mouse-white/",

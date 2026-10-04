@@ -1,10 +1,11 @@
 # Adata 16GB DDR5-5600 DIMM OEM Desktop Memory
 
-**Price:** $399.00 inc GST
+**Price:** $605 inc GST
 **Stock:** 6 units in stock (Onehunga: 6)
 **SKU:** RAMADA16D556U
 **MPN:** AD5U560016G-B
 **URL:** https://www.extremepc.co.nz/adata-16gb-ddr5-5600-ram-dimm-lifetime-wty/
+**Status:** OUT OF STOCK - last checked 2026-10-05
 
 ## Quick Specs
 - **Capacity**: 16GB single stick
@@ -127,9 +128,9 @@
   },
   "offers": {
     "@type": "Offer",
-    "price": "399.00",
+    "price": "605.00",
     "priceCurrency": "NZD",
-    "availability": "https://schema.org/InStock",
+    "availability": "https://schema.org/OutOfStock",
     "url": "https://www.extremepc.co.nz/adata-16gb-ddr5-5600-ram-dimm-lifetime-wty/",
     "seller": {
       "@type": "Organization",

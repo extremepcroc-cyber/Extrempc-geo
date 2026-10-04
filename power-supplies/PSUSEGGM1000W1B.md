@@ -4,6 +4,7 @@
 **SKU:** PSUSEGGM1000W1B
 **MPN:** GM1000W ATX3.1
 **URL:** https://www.extremepc.co.nz/segotep-gm-1000w-atx-3-1-80-plus-gold-full-modular-power-supply-black/
+**Status:** OUT OF STOCK - last checked 2026-10-05
 
 ## Quick Specs
 - **Wattage**: 1000W continuous output
@@ -112,7 +113,7 @@
     "@type": "Offer",
     "price": "249.00",
     "priceCurrency": "NZD",
-    "availability": "https://schema.org/InStock",
+    "availability": "https://schema.org/OutOfStock",
     "url": "https://www.extremepc.co.nz/segotep-gm-1000w-atx-3-1-80-plus-gold-full-modular-power-supply-black/",
     "seller": {
       "@type": "Organization",

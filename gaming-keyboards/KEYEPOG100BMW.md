@@ -4,6 +4,7 @@
 **SKU:** KEYEPOG100BMW
 **MPN:** 6975485164216
 **URL:** https://www.extremepc.co.nz/epomaker-galaxy-100-qmk-via-rgb-hot-swappable-wireless-mechanical-keyboard-black-feker-marble-white-switch-101-keys/
+**Status:** OUT OF STOCK - last checked 2026-10-05
 
 ## Quick Specs
 - **Layout**: 101 keys, full-size class — F-row, arrow cluster, numpad, function block
@@ -94,7 +95,7 @@
     "@type": "Offer",
     "price": "229.00",
     "priceCurrency": "NZD",
-    "availability": "https://schema.org/InStock",
+    "availability": "https://schema.org/OutOfStock",
     "url": "https://www.extremepc.co.nz/epomaker-galaxy-100-qmk-via-rgb-hot-swappable-wireless-mechanical-keyboard-black-feker-marble-white-switch-101-keys/",
     "seller": {
       "@type": "Organization",

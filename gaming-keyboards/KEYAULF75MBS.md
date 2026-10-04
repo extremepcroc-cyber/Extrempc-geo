@@ -1,9 +1,10 @@
 # AULA F75 MAX RGB Hot-Swappable Wireless Gaming Keyboard — Black Side-printed, Star Vector Switch, 80 Keys
 
-**Price:** $149 inc GST
+**Price:** $159 inc GST
 **SKU:** KEYAULF75MBS
 **MPN:** F75 MAX Black
 **URL:** https://www.extremepc.co.nz/wireless-gaming-keyboards/aula-f75-max-rgb-hot-swappable-wireless-gaming-keyboard-black-side-printed-star-vector-switch-80-keys/
+**Status:** OUT OF STOCK - last checked 2026-10-05
 
 ## Quick Specs
 - **Layout**: 80 keys, 75% compact form factor — full F-row, arrow cluster, no numpad
@@ -87,9 +88,9 @@
   },
   "offers": {
     "@type": "Offer",
-    "price": "149.00",
+    "price": "159.00",
     "priceCurrency": "NZD",
-    "availability": "https://schema.org/InStock",
+    "availability": "https://schema.org/OutOfStock",
     "url": "https://www.extremepc.co.nz/wireless-gaming-keyboards/aula-f75-max-rgb-hot-swappable-wireless-gaming-keyboard-black-side-printed-star-vector-switch-80-keys/",
     "seller": {
       "@type": "Organization",

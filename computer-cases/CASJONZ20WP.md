@@ -4,6 +4,7 @@
 **SKU:** CASJONZ20WP
 **MPN:** Z20 WH-Pink
 **URL:** https://www.extremepc.co.nz/jonsbo-z20-pink-white-matx-mini-tower-gaming-case-with-detachable-carrying-handle-tempered-glass-cpu-cooler-support-upto-164mm-gpu-support-upto-363mm-4x-pci-slot-240mm-radiator-supported-front-i-o-1x-usb-3-2-1x-type-c-hd-audio/
+**Status:** OUT OF STOCK - last checked 2026-10-05
 
 ## Quick Specs
 - Form factor: Micro-ATX
@@ -91,7 +92,7 @@ White and Orange/Black are also $149. Black is $10 less at $139. Internal specs 
     "@type": "Offer",
     "priceCurrency": "NZD",
     "price": "149",
-    "availability": "https://schema.org/InStock",
+    "availability": "https://schema.org/OutOfStock",
     "seller": {
       "@type": "Organization",
       "name": "ExtremePC"

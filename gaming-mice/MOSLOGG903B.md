@@ -4,6 +4,7 @@
 **SKU:** MOSLOGG903B
 **MPN:** 910-005676
 **URL:** https://www.extremepc.co.nz/logitech-g903-hero-lightspeed-wireless-gaming-mouse-black/
+**Status:** OUT OF STOCK - last checked 2026-10-05
 
 ## Quick Specs
 - **Sensor:** Logitech HERO — the flagship-tier optical platform named in the G903 line (exact DPI ceiling confirmed on the product page)
@@ -87,7 +88,7 @@
     "@type": "Offer",
     "price": "248.00",
     "priceCurrency": "NZD",
-    "availability": "https://schema.org/InStock",
+    "availability": "https://schema.org/OutOfStock",
     "url": "https://www.extremepc.co.nz/logitech-g903-hero-lightspeed-wireless-gaming-mouse-black/",
     "seller": {
       "@type": "Organization",

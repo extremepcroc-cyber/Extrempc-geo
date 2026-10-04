@@ -4,6 +4,7 @@
 **SKU:** RAMGSKM5360RB
 **MPN:** F5-6000J3636F16GX2-RM5NRK
 **URL:** https://www.extremepc.co.nz/g-skill-ripjaws-m5-neo-rgb-for-amd-expo-xmp-32gb-2x16gb-6000mhz-ddr5-desktop-memory-black/
+**Status:** OUT OF STOCK - last checked 2026-10-05
 
 ## Quick Specs
 - **Capacity**: 32GB total (2× 16GB matched dual-channel kit)
@@ -123,7 +124,7 @@
     "@type": "Offer",
     "price": "859.00",
     "priceCurrency": "NZD",
-    "availability": "https://schema.org/InStock",
+    "availability": "https://schema.org/OutOfStock",
     "url": "https://www.extremepc.co.nz/g-skill-ripjaws-m5-neo-rgb-for-amd-expo-xmp-32gb-2x16gb-6000mhz-ddr5-desktop-memory/",
     "seller": {
       "@type": "Organization",

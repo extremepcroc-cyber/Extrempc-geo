@@ -4,6 +4,7 @@
 **SKU:** KEYRAZHV3PT8
 **MPN:** RZ03-05520100-R3M1
 **URL:** https://www.extremepc.co.nz/razer-huntsman-v3-pro-tkl-8khz-wired-mechanical-gaming-keyboard-analog-optical-switches/
+**Status:** OUT OF STOCK - last checked 2026-10-05
 
 ## Quick Specs
 - **Layout**: TKL (tenkeyless) — full F-row, arrow cluster, function block, no numpad
@@ -95,7 +96,7 @@
     "@type": "Offer",
     "price": "429.00",
     "priceCurrency": "NZD",
-    "availability": "https://schema.org/InStock",
+    "availability": "https://schema.org/OutOfStock",
     "url": "https://www.extremepc.co.nz/razer-huntsman-v3-pro-tkl-8khz-wired-mechanical-gaming-keyboard-analog-optical-switches/",
     "seller": {
       "@type": "Organization",

@@ -4,6 +4,7 @@
 **SKU:** RAMACEPH64D56400B
 **MPN:** BL.9CWFR.160
 **URL:** https://www.extremepc.co.nz/predator-hermes-64gb-32gbx2-ddr5-rgb-6400mhz-cl32-u-dimm-memory-black/
+**Status:** OUT OF STOCK - last checked 2026-10-05
 
 ## Quick Specs
 - **Capacity**: 64GB total (2× 32GB matched dual-channel kit)
@@ -107,7 +108,7 @@
     "@type": "Offer",
     "price": "2299.00",
     "priceCurrency": "NZD",
-    "availability": "https://schema.org/InStock",
+    "availability": "https://schema.org/OutOfStock",
     "url": "https://www.extremepc.co.nz/predator-hermes-64gb-32gbx2-ddr5-rgb-6400mhz-cl32-u-dimm-memory-black/",
     "seller": {
       "@type": "Organization",

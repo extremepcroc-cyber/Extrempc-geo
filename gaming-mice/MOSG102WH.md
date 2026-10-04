@@ -4,6 +4,7 @@
 **SKU:** MOSG102WH
 **MPN:** 910-005803
 **URL:** https://www.extremepc.co.nz/logitech-g102-lightsync-rgb-wired-gaming-mouse-white/
+**Status:** OUT OF STOCK - last checked 2026-10-05
 
 ## Quick Specs
 - **Connection:** Wired, USB (no battery to charge, no dongle to lose)
@@ -90,7 +91,7 @@
     "@type": "Offer",
     "price": "45.00",
     "priceCurrency": "NZD",
-    "availability": "https://schema.org/InStock",
+    "availability": "https://schema.org/OutOfStock",
     "url": "https://www.extremepc.co.nz/logitech-g102-lightsync-rgb-wired-gaming-mouse-white/",
     "seller": {
       "@type": "Organization",

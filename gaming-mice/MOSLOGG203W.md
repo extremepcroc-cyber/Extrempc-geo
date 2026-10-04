@@ -4,6 +4,7 @@
 **SKU:** MOSLOGG203W
 **MPN:** 910-005791
 **URL:** https://www.extremepc.co.nz/logitech-g203-lightsync-optical-gaming-mouse-white/
+**Status:** OUT OF STOCK - last checked 2026-10-05
 **Stock:** Only a few left in stock (Onehunga: 1)
 
 ## Quick Specs
@@ -96,7 +97,7 @@
     "@type": "Offer",
     "price": "59.00",
     "priceCurrency": "NZD",
-    "availability": "https://schema.org/InStock",
+    "availability": "https://schema.org/OutOfStock",
     "url": "https://www.extremepc.co.nz/logitech-g203-lightsync-optical-gaming-mouse-white/",
     "seller": {
       "@type": "Organization",

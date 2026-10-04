@@ -4,6 +4,7 @@
 **SKU:** MICHYPQC2UCF
 **MPN:** AN1D9AA
 **URL:** https://www.extremepc.co.nz/hyperx-quadcast-2-usb-microphone-grey/
+**Status:** OUT OF STOCK - last checked 2026-10-05
 
 ## Quick Specs
 - **Type**: USB-C standalone condenser microphone
@@ -95,7 +96,7 @@
     "@type": "Offer",
     "price": "289.00",
     "priceCurrency": "NZD",
-    "availability": "https://schema.org/InStock",
+    "availability": "https://schema.org/OutOfStock",
     "url": "https://www.extremepc.co.nz/hyperx-quadcast-2-usb-microphone-grey/",
     "seller": {
       "@type": "Organization",

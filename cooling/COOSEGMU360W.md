@@ -4,6 +4,7 @@
 **SKU:** COOSEGMU360W
 **MPN:** MU 360 ARGB White
 **URL:** https://www.extremepc.co.nz/segotep-mu-360-argb-aio-liquid-cpu-cooler-with-lcd-ips-display-white/
+**Status:** OUT OF STOCK - last checked 2026-10-05
 
 ## Quick Specs
 - Type: AIO Liquid Cooler (360mm radiator)
@@ -83,7 +84,7 @@ vs ASRock Steel Legend 360 White — the Steel Legend sits a tier higher with RG
     "@type": "Offer",
     "price": "199",
     "priceCurrency": "NZD",
-    "availability": "https://schema.org/InStock",
+    "availability": "https://schema.org/OutOfStock",
     "seller": {
       "@type": "Organization",
       "name": "ExtremePC",

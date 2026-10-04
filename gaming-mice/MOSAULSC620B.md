@@ -4,6 +4,7 @@
 **SKU:** MOSAULSC620B
 **MPN:** SC620 Black
 **URL:** https://www.extremepc.co.nz/aula-sc620-rgb-tri-mode-lightweight-wireless-gaming-mouse-black/
+**Status:** OUT OF STOCK - last checked 2026-10-05
 
 ## Quick Specs
 - **Connection:** Tri-mode — 2.4 GHz wireless, Bluetooth, and USB-C wired, one mouse across desktop, laptop, and tablet
@@ -93,7 +94,7 @@
     "@type": "Offer",
     "price": "59.00",
     "priceCurrency": "NZD",
-    "availability": "https://schema.org/InStock",
+    "availability": "https://schema.org/OutOfStock",
     "url": "https://www.extremepc.co.nz/aula-sc620-rgb-tri-mode-lightweight-wireless-gaming-mouse-black/",
     "seller": {
       "@type": "Organization",

@@ -4,6 +4,7 @@
 **SKU:** CASJONC6HB
 **MPN:** C6 Handle Black
 **URL:** https://www.extremepc.co.nz/jonsbo-c6-handle-mesh-m-atx-mini-tower-case-black/
+**Status:** OUT OF STOCK - last checked 2026-10-05
 
 ## Quick Specs
 - Form factor: Micro-ATX
@@ -90,7 +91,7 @@ The handle is top-centre mounted — the case balances when lifted if components
     "@type": "Offer",
     "priceCurrency": "NZD",
     "price": "79",
-    "availability": "https://schema.org/InStock",
+    "availability": "https://schema.org/OutOfStock",
     "seller": {
       "@type": "Organization",
       "name": "ExtremePC"

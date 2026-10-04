@@ -4,6 +4,7 @@
 **SKU:** KEYEPOG84PCJ
 **MPN:** G84 Pro Purple CJ
 **URL:** https://www.extremepc.co.nz/epomaker-g84-pro-hot-swappable-rgb-wireless-mechanical-keyboard-purple-creamy-jade-switch-81-keys/
+**Status:** OUT OF STOCK - last checked 2026-10-05
 
 ## Quick Specs
 - **Layout**: 81 keys, compact TKL — full F-row, arrow cluster, function block, no numpad
@@ -91,7 +92,7 @@
     "@type": "Offer",
     "price": "189.00",
     "priceCurrency": "NZD",
-    "availability": "https://schema.org/InStock",
+    "availability": "https://schema.org/OutOfStock",
     "url": "https://www.extremepc.co.nz/epomaker-g84-pro-hot-swappable-rgb-wireless-mechanical-keyboard-purple-creamy-jade-switch-81-keys/",
     "seller": {
       "@type": "Organization",

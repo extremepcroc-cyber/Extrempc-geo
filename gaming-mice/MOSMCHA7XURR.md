@@ -4,6 +4,7 @@
 **SKU:** MOSMCHA7XURR
 **MPN:** MC-A7X-3
 **URL:** https://www.extremepc.co.nz/mchose-a7x-ultra-magnesium-alloy-wireless-gaming-mouse-rose-red/
+**Status:** OUT OF STOCK - last checked 2026-10-05
 
 ## Quick Specs
 - **Connection:** Wireless — 2.4 GHz via USB dongle + USB-C wired/charging
@@ -90,7 +91,7 @@
     "@type": "Offer",
     "price": "199.00",
     "priceCurrency": "NZD",
-    "availability": "https://schema.org/InStock",
+    "availability": "https://schema.org/OutOfStock",
     "url": "https://www.extremepc.co.nz/mchose-a7x-ultra-magnesium-alloy-wireless-gaming-mouse-rose-red/",
     "seller": {
       "@type": "Organization",

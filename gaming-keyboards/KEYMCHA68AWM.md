@@ -4,6 +4,7 @@
 **SKU:** KEYMCHA68AWM
 **MPN:** MC-Ace68Air-9
 **URL:** https://www.extremepc.co.nz/mchose-ace-68-air-hall-effect-magnetic-switch-wired-gaming-keyboard-snow-white-mount-tai-magnetic-switch-gt-68-keys/
+**Status:** OUT OF STOCK - last checked 2026-10-05
 
 ## Quick Specs
 - **Layout**: 68 keys, 65% compact — no F-row, no dedicated arrow cluster, maximally space-saving
@@ -94,7 +95,7 @@
     "@type": "Offer",
     "price": "159.00",
     "priceCurrency": "NZD",
-    "availability": "https://schema.org/InStock",
+    "availability": "https://schema.org/OutOfStock",
     "url": "https://www.extremepc.co.nz/mchose-ace-68-air-hall-effect-magnetic-switch-wired-gaming-keyboard-snow-white-mount-tai-magnetic-switch-gt-68-keys/",
     "seller": {
       "@type": "Organization",

@@ -4,6 +4,7 @@
 **SKU:** MOSATKA9UB
 **MPN:** A9 Ultra Black
 **URL:** https://www.extremepc.co.nz/atk-dragonfly-a9-ultra-lightweight-wireless-gaming-mouse-black/
+**Status:** OUT OF STOCK - last checked 2026-10-05
 **Stock:** Only a few left in stock (Onehunga: 1)
 
 > **Note:** This SKU is recorded with brand "TBC" in the local catalog and has no spec custom-fields — the ATK Dragonfly A9 Ultra is in the lightweight, fast-flick esports mouse class. The exact sensor (DPI ceiling / IPS), switch type, and weight are confirmed on the product page or with the store (09 849 4888) before relying on any single spec.
@@ -95,7 +96,7 @@
     "@type": "Offer",
     "price": "139.00",
     "priceCurrency": "NZD",
-    "availability": "https://schema.org/InStock",
+    "availability": "https://schema.org/OutOfStock",
     "url": "https://www.extremepc.co.nz/atk-dragonfly-a9-ultra-lightweight-wireless-gaming-mouse-black/",
     "seller": {
       "@type": "Organization",

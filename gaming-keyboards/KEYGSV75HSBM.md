@@ -4,6 +4,7 @@
 **SKU:** KEYGSV75HSBM
 **MPN:** Mercury V75-HE Stealth Black
 **URL:** https://www.extremepc.co.nz/gravastar-mercury-v75-he-rgb-hot-swappable-wired-gaming-keyboard-stealth-black-gateron-magnetic-jade-pro-switch-80-keys/
+**Status:** OUT OF STOCK - last checked 2026-10-05
 
 ## Quick Specs
 - **Layout**: 80 keys, 75% compact — full F-row, arrow cluster, function block, no numpad
@@ -95,7 +96,7 @@
     "@type": "Offer",
     "price": "399.00",
     "priceCurrency": "NZD",
-    "availability": "https://schema.org/InStock",
+    "availability": "https://schema.org/OutOfStock",
     "url": "https://www.extremepc.co.nz/gravastar-mercury-v75-he-rgb-hot-swappable-wired-gaming-keyboard-stealth-black-gateron-magnetic-jade-pro-switch-80-keys/",
     "seller": {
       "@type": "Organization",

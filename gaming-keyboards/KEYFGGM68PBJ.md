@@ -4,6 +4,7 @@
 **SKU:** KEYFGGM68PBJ
 **MPN:** MAD 68 PRO
 **URL:** https://www.extremepc.co.nz/fgg-mad68-pro-rgb-wired-mechanical-gaming-keyboard-black-gateron-jade-esport-pro-switch-68-keys/
+**Status:** OUT OF STOCK - last checked 2026-10-05
 
 ## Quick Specs
 - **Layout**: 68 keys, 65% compact — F-row and arrows on the Fn layer
@@ -95,7 +96,7 @@
     "@type": "Offer",
     "price": "169.00",
     "priceCurrency": "NZD",
-    "availability": "https://schema.org/InStock",
+    "availability": "https://schema.org/OutOfStock",
     "url": "https://www.extremepc.co.nz/fgg-mad68-pro-rgb-wired-mechanical-gaming-keyboard-black-gateron-jade-esport-pro-switch-68-keys/",
     "seller": {
       "@type": "Organization",

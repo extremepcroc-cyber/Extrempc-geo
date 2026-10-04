@@ -4,6 +4,7 @@
 **SKU:** KEYCIDV87M
 **MPN:** 6975485161635
 **URL:** https://www.extremepc.co.nz/cidoo-v87-rgb-hot-swappable-knob-wireless-mechanical-gaming-keyboard-matte-switch-with-via-87-keys/
+**Status:** OUT OF STOCK - last checked 2026-10-05
 
 ## Quick Specs
 - **Layout**: 87 keys, TKL (tenkeyless) — full F-row, arrow cluster, function block, no numpad
@@ -95,7 +96,7 @@
     "@type": "Offer",
     "price": "269.00",
     "priceCurrency": "NZD",
-    "availability": "https://schema.org/InStock",
+    "availability": "https://schema.org/OutOfStock",
     "url": "https://www.extremepc.co.nz/cidoo-v87-rgb-hot-swappable-knob-wireless-mechanical-gaming-keyboard-matte-switch-with-via-87-keys/",
     "seller": {
       "@type": "Organization",

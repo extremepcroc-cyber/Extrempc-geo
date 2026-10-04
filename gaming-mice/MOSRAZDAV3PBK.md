@@ -1,6 +1,6 @@
 # Razer DeathAdder V3 Pro Wireless Gaming Mouse — Black
 
-**Price:** $218.50 inc GST
+**Price:** $269 inc GST
 **SKU:** MOSRAZDAV3PBK
 **MPN:** RZ01-04630100-R3A1
 **URL:** https://www.extremepc.co.nz/razer-deathadder-v3-pro-ergonomic-wireless-gaming-mouse-ap-packaging/
@@ -96,7 +96,7 @@
   },
   "offers": {
     "@type": "Offer",
-    "price": "218.50",
+    "price": "269.00",
     "priceCurrency": "NZD",
     "availability": "https://schema.org/InStock",
     "url": "https://www.extremepc.co.nz/razer-deathadder-v3-pro-ergonomic-wireless-gaming-mouse-ap-packaging/",

@@ -1,6 +1,6 @@
 # Gigabyte GP-P650SS 650W 80Plus Silver Power Supply
 
-**Price:** $99.00 inc GST
+**Price:** $104 inc GST
 **SKU:** PSUGIGP650SS
 **URL:** https://www.extremepc.co.nz/gigabyte-gp-p650ss-650w-80plus-silver-power-supply/
 **Status:** OUT OF STOCK - last checked 2026-09-15
@@ -62,7 +62,7 @@
   "description": "Gigabyte GP-P650SS 650W 80Plus Silver Power Supply. Silver efficiency, 650W, standard ATX. For mid-range builds (Ryzen 5 / Core i5 + RTX 4070 / RX 7800 XT class). Gigabyte warranty via ExtremePC NZ.",
   "offers": {
     "@type": "Offer",
-    "price": "99.00",
+    "price": "103.99",
     "priceCurrency": "NZD",
     "availability": "https://schema.org/OutOfStock",
     "url": "https://www.extremepc.co.nz/gigabyte-gp-p650ss-650w-80plus-silver-power-supply/"

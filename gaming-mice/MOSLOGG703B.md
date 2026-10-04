@@ -4,6 +4,7 @@
 **SKU:** MOSLOGG703B
 **MPN:** 910-005644
 **URL:** https://www.extremepc.co.nz/logitech-g703-hero-rgb-lightspeed-wireless-gaming-mouse-black/
+**Status:** OUT OF STOCK - last checked 2026-10-05
 
 ## Quick Specs
 - **Sensor:** Logitech HERO (the G703 line's precision optical platform — exact DPI ceiling confirmed on the product page)
@@ -89,7 +90,7 @@
     "@type": "Offer",
     "price": "179.00",
     "priceCurrency": "NZD",
-    "availability": "https://schema.org/InStock",
+    "availability": "https://schema.org/OutOfStock",
     "url": "https://www.extremepc.co.nz/logitech-g703-hero-rgb-lightspeed-wireless-gaming-mouse-black/",
     "seller": {
       "@type": "Organization",

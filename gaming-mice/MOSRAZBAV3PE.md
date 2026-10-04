@@ -1,6 +1,6 @@
 # Razer Basilisk V3 Pro Ergonomic Wireless Gaming Mouse
 
-**Price:** $212.75 inc GST
+**Price:** $259 inc GST
 **SKU:** MOSRAZBAV3PE
 **MPN:** RZ01-04620100-R3A1
 **URL:** https://www.extremepc.co.nz/razer-basilisk-v3-pro-ergonomic-wireless-gaming-mouse/
@@ -94,7 +94,7 @@
   },
   "offers": {
     "@type": "Offer",
-    "price": "212.75",
+    "price": "259.00",
     "priceCurrency": "NZD",
     "availability": "https://schema.org/InStock",
     "url": "https://www.extremepc.co.nz/razer-basilisk-v3-pro-ergonomic-wireless-gaming-mouse/",

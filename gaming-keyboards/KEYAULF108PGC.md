@@ -4,6 +4,7 @@
 **SKU:** KEYAULF108PGC
 **MPN:** F108 PRO Grey CL
 **URL:** https://www.extremepc.co.nz/wireless-gaming-keyboards/aula-f108-pro-rgb-hot-swappable-wireless-gaming-keyboard-grey-caramel-latte-linear-switches-104-keys/
+**Status:** OUT OF STOCK - last checked 2026-10-05
 
 ## Quick Specs
 - **Layout**: 104 keys, full-size 100% — F-row, arrow cluster, dedicated numpad, function/media block
@@ -94,7 +95,7 @@
     "@type": "Offer",
     "price": "149.01",
     "priceCurrency": "NZD",
-    "availability": "https://schema.org/InStock",
+    "availability": "https://schema.org/OutOfStock",
     "url": "https://www.extremepc.co.nz/wireless-gaming-keyboards/aula-f108-pro-rgb-hot-swappable-wireless-gaming-keyboard-grey-caramel-latte-linear-switches-104-keys/",
     "seller": {
       "@type": "Organization",

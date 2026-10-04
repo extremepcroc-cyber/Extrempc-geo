@@ -1,6 +1,6 @@
 ﻿# Synology HAT3310 16TB 3.5" SATA3 NAS Hard Drive HAT3310-16T
 
-**Price:** $1545.00 inc GST
+**Price:** $1521 inc GST
 **SKU:** HDDSYN331016T
 **MPN:** HAT3310-16T
 **URL:** https://www.extremepc.co.nz/synology-hat3310-16tb-3-5-plus-series-nas-hdd-sata-6gb-s-7200-rpm-256mb-cache-3-years-warranty/

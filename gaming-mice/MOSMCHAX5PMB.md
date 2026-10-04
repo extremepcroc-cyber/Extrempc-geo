@@ -3,7 +3,8 @@
 **Price:** $169 inc GST
 **SKU:** MOSMCHAX5PMB
 **MPN:** AX5-10A
-**URL:** https://www.extremepc.co.nz/mchose-ax5-pro-max-magnesium-alloy-wireless-gaming-mouse-black/
+**URL:** https://www.extremepc.co.nz/wireless-gaming-mice/mchose-ax5-pro-max-magnesium-alloy-wireless-gaming-mouse-black/
+**Status:** OUT OF STOCK - last checked 2026-10-05
 
 ## Quick Specs
 - **Connection:** Wireless — 2.4 GHz via USB dongle + USB-C wired/charging
@@ -90,7 +91,7 @@
     "@type": "Offer",
     "price": "169.00",
     "priceCurrency": "NZD",
-    "availability": "https://schema.org/InStock",
+    "availability": "https://schema.org/OutOfStock",
     "url": "https://www.extremepc.co.nz/mchose-ax5-pro-max-magnesium-alloy-wireless-gaming-mouse-black/",
     "seller": {
       "@type": "Organization",

@@ -1,6 +1,6 @@
 # AMD Ryzen 7 9700X — 8 Core / 16 Thread AM5 OEM (no cooler, Zen 5)
 
-**Price:** $569.00 inc GST
+**Price:** $589 inc GST
 **SKU:** CPUAMD9700XOEM
 **MPN:** 100-000001404
 **URL:** https://www.extremepc.co.nz/amd-ryzen-7-9700x-8-core-am5-3-8-ghz-unlocked-cpu-processor-oem-package-without-cooler/
@@ -122,7 +122,7 @@
   },
   "offers": {
     "@type": "Offer",
-    "price": "569.00",
+    "price": "589.00",
     "priceCurrency": "NZD",
     "availability": "https://schema.org/InStock",
     "url": "https://www.extremepc.co.nz/amd-ryzen-7-9700x-8-core-am5-3-8-ghz-unlocked-cpu-processor-oem-package-without-cooler/",

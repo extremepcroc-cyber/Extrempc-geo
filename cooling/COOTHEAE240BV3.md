@@ -4,6 +4,7 @@
 **SKU:** COOTHEAE240BV3
 **MPN:** Aqua Elite 240 Black V3
 **URL:** https://www.extremepc.co.nz/thermalright-aqua-elite-240-black-argb-v3-aio-liquid-cpu-cooler/
+**Status:** OUT OF STOCK - last checked 2026-10-05
 
 ## Quick Specs
 - Type: AIO Liquid Cooler (240mm radiator)
@@ -83,7 +84,7 @@ vs Valkyrie A240 ARGB Black — the Valkyrie sits a tier higher with identical A
     "@type": "Offer",
     "price": "99.00",
     "priceCurrency": "NZD",
-    "availability": "https://schema.org/InStock",
+    "availability": "https://schema.org/OutOfStock",
     "seller": {
       "@type": "Organization",
       "name": "ExtremePC",

@@ -1,6 +1,6 @@
 ﻿# Predator Hermes 48GB (24GB×2) DDR5 RGB 7200MHz CL36 U-DIMM Desktop Memory — Black
 
-**Price:** $1298.99 inc GST
+**Price:** $1449 inc GST
 **SKU:** RAMPREH7200R48D5B
 **MPN:** HERMES-48GB-7200-1R8
 **URL:** https://www.extremepc.co.nz/predator-hermes-48gb-24gbx2-ddr5-rgb-7200mhz-cl36-u-dimm-memory-black/
@@ -135,7 +135,7 @@
   },
   "offers": {
     "@type": "Offer",
-    "price": "1299.00",
+    "price": "1449.00",
     "priceCurrency": "NZD",
     "availability": "https://schema.org/InStock",
     "url": "https://www.extremepc.co.nz/predator-hermes-48gb-24gbx2-ddr5-rgb-7200mhz-cl36-u-dimm-memory-black/",

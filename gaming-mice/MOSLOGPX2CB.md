@@ -4,6 +4,7 @@
 **SKU:** MOSLOGPX2CB
 **MPN:** 910-007533
 **URL:** https://www.extremepc.co.nz/logitech-pro-x-superlight-2c-lightspeed-wireless-gaming-mouse-black/
+**Status:** OUT OF STOCK - last checked 2026-10-05
 **Stock:** Only a few left in stock (Onehunga: 1)
 
 ## Quick Specs
@@ -96,7 +97,7 @@
     "@type": "Offer",
     "price": "269.00",
     "priceCurrency": "NZD",
-    "availability": "https://schema.org/InStock",
+    "availability": "https://schema.org/OutOfStock",
     "url": "https://www.extremepc.co.nz/logitech-pro-x-superlight-2c-lightspeed-wireless-gaming-mouse-black/",
     "seller": {
       "@type": "Organization",

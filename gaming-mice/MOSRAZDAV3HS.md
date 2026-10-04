@@ -4,6 +4,7 @@
 **SKU:** MOSRAZDAV3HS
 **MPN:** RZ01-05140100-R3A1
 **URL:** https://www.extremepc.co.nz/razer-deathadder-v3-hyperspeed-wireless-esports-gaming-mouse/
+**Status:** OUT OF STOCK - last checked 2026-10-05
 **Stock:** Only a few left in stock (Onehunga: 2)
 
 ## Quick Specs
@@ -96,7 +97,7 @@
     "@type": "Offer",
     "price": "208.00",
     "priceCurrency": "NZD",
-    "availability": "https://schema.org/InStock",
+    "availability": "https://schema.org/OutOfStock",
     "url": "https://www.extremepc.co.nz/razer-deathadder-v3-hyperspeed-wireless-esports-gaming-mouse/",
     "seller": {
       "@type": "Organization",

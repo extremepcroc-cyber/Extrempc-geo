@@ -1,9 +1,10 @@
 # Razer Naga V2 HyperSpeed Wireless Ergonomic Gaming Mouse
 
-**Price:** $155.25 inc GST
+**Price:** $199 inc GST
 **SKU:** MOSRAZNV2HS
 **MPN:** RZ01-03600100-R3A1
 **URL:** https://www.extremepc.co.nz/razer-naga-v2-hyperspeed-wireless-mmo-gaming-mouse-ap-packaging/
+**Status:** OUT OF STOCK - last checked 2026-10-05
 **Stock:** Only a few left (Onehunga: 1)
 
 ## Quick Specs
@@ -94,9 +95,9 @@
   },
   "offers": {
     "@type": "Offer",
-    "price": "155.25",
+    "price": "199.00",
     "priceCurrency": "NZD",
-    "availability": "https://schema.org/InStock",
+    "availability": "https://schema.org/OutOfStock",
     "url": "https://www.extremepc.co.nz/razer-naga-v2-hyperspeed-wireless-mmo-gaming-mouse-ap-packaging/",
     "seller": {
       "@type": "Organization",

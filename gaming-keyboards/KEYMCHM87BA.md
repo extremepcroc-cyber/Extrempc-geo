@@ -4,6 +4,7 @@
 **SKU:** KEYMCHM87BA
 **MPN:** MC-Mix87-6
 **URL:** https://www.extremepc.co.nz/mchose-mix-87-rgb-hot-swappable-wired-gaming-keyboard-black-apollo-magnetic-switch-87-keys/
+**Status:** OUT OF STOCK - last checked 2026-10-05
 
 ## Quick Specs
 - **Layout**: 87 keys, TKL (tenkeyless) — full F-row, arrow cluster, function block, no numpad
@@ -91,7 +92,7 @@
     "@type": "Offer",
     "price": "159.00",
     "priceCurrency": "NZD",
-    "availability": "https://schema.org/InStock",
+    "availability": "https://schema.org/OutOfStock",
     "url": "https://www.extremepc.co.nz/mchose-mix-87-rgb-hot-swappable-wired-gaming-keyboard-black-apollo-magnetic-switch-87-keys/",
     "seller": {
       "@type": "Organization",

@@ -4,6 +4,7 @@
 **SKU:** KEYAULF75BR
 **MPN:** F75 Black
 **URL:** https://www.extremepc.co.nz/wired-gaming-keyboards/aula-f75-rgb-hot-swappable-wired-gaming-keyboard-black-gradient-side-printed-leobog-reaper-switch-80-keys/
+**Status:** OUT OF STOCK - last checked 2026-10-05
 
 ## Quick Specs
 - **Layout**: 80 keys, 75% compact form factor — full F-row, arrow cluster, no numpad
@@ -95,7 +96,7 @@
     "@type": "Offer",
     "price": "149.01",
     "priceCurrency": "NZD",
-    "availability": "https://schema.org/InStock",
+    "availability": "https://schema.org/OutOfStock",
     "url": "https://www.extremepc.co.nz/wired-gaming-keyboards/aula-f75-rgb-hot-swappable-wired-gaming-keyboard-black-gradient-side-printed-leobog-reaper-switch-80-keys/",
     "seller": {
       "@type": "Organization",
