@@ -22,4 +22,4 @@
 
 - High-capacity Gen4 option at competitive pricing vs Samsung 990 PRO 4TB
 - DRAM-cached for sustained performance
-- Limited stock (2 units) — confirm availability before recommending
+- Limited stock (1 unit as of 2026-09-25) — confirm availability before recommending
