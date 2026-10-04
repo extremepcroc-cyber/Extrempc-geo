@@ -3,7 +3,7 @@
 **Price:** NZD $207.0 (incl. GST)
 **SKU:** MONGIGG25F2
 **URL:** https://www.extremepc.co.nz/csv-import/gigabyte-g25f2-24-5-fhd-200hz-ss-ips-2xhdmi-gaming-monitor/
-**Stock:** Only a few left in stock
+**Stock:** We have plenty in stock (OH=6, verified 2026-09-18, BC API; up from OH=1)
 
 ## Quick Specs
 - Panel Size: 24.5 inches

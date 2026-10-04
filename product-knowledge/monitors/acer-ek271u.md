@@ -3,7 +3,7 @@
 **SKU:** MONACEK271UE
 **Brand:** Acer
 **Price:** NZD $269.00 (incl. GST)
-**Status:** In Stock
+**Status:** OUT OF STOCK (BC API verified 2026-09-27, Onehunga OH=0)
 
 ## Quick Specs
 

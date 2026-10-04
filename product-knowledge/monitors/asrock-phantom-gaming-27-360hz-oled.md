@@ -2,8 +2,9 @@
 
 **SKU:** MONASRPGO27QFV
 **Brand:** ASRock
-**Price:** NZD $989.00 (incl. GST) (on sale from $1,299.01)
-**Status:** In Stock
+**Price:** NZD $1,150.00 (incl. GST) — on sale from $1,299.01 (BC API verified 2026-09-23, calc $1,000 × 1.15)
+**URL:** https://www.extremepc.co.nz/asrock-phantom-gaming-27-360hz-qhd-2k-0-03ms-gaming-monitor/
+**Status:** In Stock — Only a few left (OH=5, verified 2026-09-23, BC API)
 
 ## Quick Specs
 

@@ -2,8 +2,8 @@
 
 **SKU:** MONACEPD163Q
 **Brand:** Acer
-**Price:** NZD $448.99 (incl. GST) (on sale from $599.00)
-**Status:** Only a few left in stock (OH=1, verified 2026-09-12, BC API)
+**Price:** NZD $599.00 (incl. GST) — list; sale of $448.99 (from $599) ended 2026-09-19 (BC API verified 2026-09-20)
+**Status:** OUT OF STOCK (verified 2026-09-20, BC API OH=0/inv=0; Open Box unit, was OH=1)
 
 ## Quick Specs
 
