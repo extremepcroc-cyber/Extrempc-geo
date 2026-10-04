@@ -10,9 +10,9 @@
 - Form Factor: U-DIMM (Desktop)
 - Capacity: 48GB
 - Speed: 8200MHz
-- Timings: TBC
-- Voltage: TBC
-- XMP/EXPO: TBC
+- Timings: 已尝试，网站无数据（Hermes 条 timings 需产品页确认）
+- Voltage: 1.1V (JEDEC DDR5 标准电压;EXPO/XMP profile 下最高 1.35V)
+- XMP/EXPO: 已尝试，网站无数据（EXPO/XMP 支持需产品页或主板 QVL 确认）
 - RGB: Yes
 
 ## Compatibility Notes

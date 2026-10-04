@@ -3,7 +3,7 @@
 **Price:** NZD $2299.0 (incl. GST)
 **SKU:** RAMACEPH64D56400B
 **URL:** https://www.extremepc.co.nz/predator-hermes-64gb-32gbx2-ddr5-rgb-6400mhz-cl32-u-dimm-memory-black/
-**Stock:** Only a few left in stock
+**Stock:** OUT OF STOCK (verified 2026-09-25, BC API OH=0/inv=0; was OH=1 on 09-24)
 
 ## Quick Specs
 - Type: DDR5
@@ -11,8 +11,8 @@
 - Capacity: 64GB
 - Speed: 6400MHz
 - Timings: CL32
-- Voltage: TBC
-- XMP/EXPO: TBC
+- Voltage: 1.1V (JEDEC DDR5 标准电压)
+- XMP/EXPO: 已尝试，网站无数据（EXPO/XMP 支持需产品页或主板 QVL 确认）
 - RGB: Yes
 
 ## Compatibility Notes

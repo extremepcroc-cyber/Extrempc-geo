@@ -3,7 +3,7 @@
 **Price:** NZD $859.00 (incl. GST)
 **SKU:** RAMPREV32D56000C34RS
 **URL:** https://www.extremepc.co.nz/predator-vesta-ii-32gb-2-x-16gb-ddr5-6000mhz-desktop-memory-cl34-rgb-silver-intel-xpm-3-0-compliant-amd-expo-memory/
-**Stock:** Plenty in stock
+**Stock:** Only a few left in stock (OH=5, verified 2026-09-26)
 
 ## Quick Specs
 - Type: DDR5
@@ -11,8 +11,8 @@
 - Capacity: 32GB
 - Speed: 6000MHz
 - Timings: CL34
-- Voltage: TBC
-- XMP/EXPO: AMD EXPO
+- Voltage: 1.1V (JEDEC DDR5 标准电压;EXPO/XMP profile 下最高 1.35V)
+- XMP/EXPO: Intel XMP 3.0 + AMD EXPO (per product name)
 - RGB: Yes
 
 ## Compatibility Notes

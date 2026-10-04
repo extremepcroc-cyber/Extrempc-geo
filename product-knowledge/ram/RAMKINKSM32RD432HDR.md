@@ -7,12 +7,12 @@
 
 ## Quick Specs
 - Type: DDR4
-- Form Factor: TBC
+- Form Factor: RDIMM (Server, Registered ECC)
 - Capacity: 32GB
 - Speed: 3200MHz
 - Timings: CL22
 - Voltage: 1.2V
-- XMP/EXPO: TBC
+- XMP/EXPO: N/A (ECC Registered 服务器内存,无 XMP/EXPO profile)
 - RGB: No
 - ECC: Yes
 - Registered: Yes

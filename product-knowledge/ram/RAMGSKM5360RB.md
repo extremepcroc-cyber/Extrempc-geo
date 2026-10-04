@@ -3,16 +3,16 @@
 **Price:** NZD $859.00 (incl. GST)
 **SKU:** RAMGSKM5360RB
 **URL:** https://www.extremepc.co.nz/g-skill-ripjaws-m5-neo-rgb-for-amd-expo-xmp-32gb-2x16gb-6000mhz-ddr5-desktop-memory-black/
-**Stock:** In Stock — RESTOCKED (OH=1, verified 2026-09-15, BC API; was OOS 2026-09-12)
+**Stock:** OUT OF STOCK (verified 2026-09-18, BC API inv=0, OH=0; history: OOS 09-12 → restocked OH=1 09-15 → sold out 09-18)
 
 ## Quick Specs
 - Type: DDR5
 - Form Factor: U-DIMM (Desktop)
 - Capacity: 32GB
 - Speed: 6000MHz
-- Timings: TBC
-- Voltage: TBC
-- XMP/EXPO: Intel XMP 3.0 + AMD EXPO
+- Timings: 已尝试，网站无数据（G.SKILL EXPO 条 timings 需产品页确认）
+- Voltage: 1.1V (JEDEC DDR5 标准电压;EXPO/XMP profile 下最高 1.35V)
+- XMP/EXPO: AMD EXPO / Intel XMP (per product name)
 - RGB: Yes
 
 ## Compatibility Notes

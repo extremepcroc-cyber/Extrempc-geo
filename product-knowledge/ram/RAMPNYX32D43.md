@@ -10,9 +10,9 @@
 - Form Factor: U-DIMM (Desktop)
 - Capacity: 32GB
 - Speed: 3200MHz
-- Timings: TBC
-- Voltage: TBC
-- XMP/EXPO: TBC
+- Timings: 已尝试，网站无数据（标准条 timings 需产品页或 SPD 数据确认）
+- Voltage: 1.2V (JEDEC DDR4 标准电压)
+- XMP/EXPO: 已尝试，网站无数据（标准条;XMP 支持需产品页或主板 QVL 确认）
 - RGB: No
 
 ## Compatibility Notes

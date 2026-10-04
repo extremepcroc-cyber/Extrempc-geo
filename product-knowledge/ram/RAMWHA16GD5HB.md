@@ -3,16 +3,16 @@
 **Price:** NZD $459.00 (incl. GST)
 **SKU:** RAMWHA16GD5HB
 **URL:** https://www.extremepc.co.nz/desktop-ram-16gb/whalekom-ddr5-16gb-5600mhz-heatsink-desktop-memory/
-**Stock:** Plenty in stock
+**Stock:** In Stock — We have plenty in stock (OH=103, verified 2026-09-30; was OH=1 "few" on 2026-09-25, big restock 09-30)
 
 ## Quick Specs
 - Type: DDR5
 - Form Factor: U-DIMM (Desktop)
 - Capacity: 16GB
 - Speed: 5600MHz
-- Timings: TBC
-- Voltage: TBC
-- XMP/EXPO: TBC
+- Timings: 已尝试，网站无数据（标准条 timings 需产品页或 SPD 数据确认）
+- Voltage: 1.1V (JEDEC DDR5 标准电压)
+- XMP/EXPO: 已尝试，网站无数据（标准条;XMP/EXPO 支持需产品页或主板 QVL 确认）
 - RGB: No
 
 ## Compatibility Notes

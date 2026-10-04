@@ -11,8 +11,8 @@
 - Capacity: 32GB
 - Speed: 6000MHz
 - Timings: CL36
-- Voltage: TBC
-- XMP/EXPO: TBC
+- Voltage: 1.1V (JEDEC DDR5 标准电压)
+- XMP/EXPO: 已尝试，网站无数据（EXPO/XMP 支持需产品页或主板 QVL 确认）
 - RGB: No
 
 ## Compatibility Notes

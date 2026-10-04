@@ -3,16 +3,16 @@
 **Price:** NZD $399.0 (incl. GST)
 **SKU:** RAMADA16D556U
 **URL:** https://www.extremepc.co.nz/adata-16gb-ddr5-5600-ram-dimm-lifetime-wty/
-**Status:** IN STOCK — restocked 2026-09-04 (BC API verified inv=1, OH=1). OOS history: restocked 2026-08-27 → back to OOS 2026-09-02 → restocked 2026-09-04.
+**Status:** OUT OF STOCK (verified 2026-09-22, BC API inv=0, OH=0). OOS history: restocked 2026-09-04 → back to OOS 2026-09-22.
 
 ## Quick Specs
 - Type: DDR5
 - Form Factor: U-DIMM (Desktop)
 - Capacity: 16GB
 - Speed: 5600MHz
-- Timings: TBC
-- Voltage: TBC
-- XMP/EXPO: TBC
+- Timings: 已尝试，网站无数据（标准条 timings 需产品页或 SPD 数据确认）
+- Voltage: 1.1V (JEDEC DDR5 标准电压;EXPO/XMP profile 下最高 1.35V)
+- XMP/EXPO: 已尝试，网站无数据（标准条;EXPO/XMP 支持需产品页或主板 QVL 确认）
 - RGB: No
 
 ## Compatibility Notes

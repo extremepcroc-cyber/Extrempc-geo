@@ -3,7 +3,7 @@
 **Price:** NZD $529.00 (incl. GST)
 **SKU:** RAMHPX216D556
 **URL:** https://www.extremepc.co.nz/hp-x2-ddr5-5600mhz-16gb-udimm-cl46-1-1v-memory/
-**Stock:** We have plenty in stock
+**Stock:** In Stock — RESTOCKED (OH=12, verified 2026-09-18, BC API inv=12, OH=12; was OOS 2026-09-16, back 2026-09-18)
 
 ## Quick Specs
 - Type: DDR5
@@ -19,7 +19,7 @@
 - DDR5 — requires DDR5-compatible motherboard (AM5, LGA1700+, LGA1851)
 - 16GB single stick — buy 2 for dual channel (32GB total)
 - 5600MHz — standard DDR5 speed, adequate for most builds
-- Note: ExtremePC's DDR5 desktop RAM selection is limited — this is one of the few in-stock options
+- Note: DDR5 desktop selection is broader than this single stick — a dozen or more UDIMMs in stock; this is the budget option
 
 ## Why Buy From ExtremePC
 - Local NZ stock with fast availability
