@@ -11,4 +11,6 @@
 - **Ergonomic:** Yes
 - **Gaming:** No
 
-**Stock:** OUT OF STOCK (verified 2026-09-10, BC API inventory=0; Onehunga not available online)
+**Price:** NZD $138.00 (incl. GST) — BC API verified 2026-09-22 (list, no sale)
+
+**Stock:** In Stock — RESTOCKED (OH=2, verified 2026-09-22, BC API inv=2). Was OOS 2026-09-10

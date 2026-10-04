@@ -12,4 +12,6 @@
 - **Gaming:** Yes
 - **Color:** White
 
-**Status:** In Stock
+**Price:** NZD $241.50 (incl. GST, on sale from $269.00) — BC API verified 2026-09-22 (calc $210 ex-GST × 1.15)
+
+**Status:** In Stock — only a few left (BC API verified 2026-09-22, OH=1)

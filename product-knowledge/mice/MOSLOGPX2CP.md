@@ -4,7 +4,7 @@
 
 **Brand:** Logitech
 
-**Price:** NZD $253.00 (incl. GST, on sale from $299.00) — BC API verified 2026-09-15 (was $269.00 on 2026-09-14)
+**Price:** NZD $247.25 (incl. GST, on sale from $299.00) — BC API verified 2026-09-22 (calc $215 ex-GST × 1.15)
 
 ## Quick Specs
 

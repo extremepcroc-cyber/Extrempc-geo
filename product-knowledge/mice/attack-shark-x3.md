@@ -6,7 +6,7 @@ price_nzd_ex_gst: 86.09
 price_nzd_incl_gst: 99.0
 url: https://www.extremepc.co.nz/attack-shark-x3-lightweight-wireless-gaming-mouse-black/
 category: Mice
-status: Out of Stock
+status: In Stock
 ---
 
 # Attack Shark X3 Lightweight Wireless Gaming Mouse Black
@@ -24,5 +24,5 @@ status: Out of Stock
 
 - Lightweight mouse from Attack Shark
 - Wireless gaming mouse
-- Price: NZD $99.0 (incl. GST)
+- Price: NZD $99.0 (incl. GST) — BC API verified 2026-09-22, RESTOCKED (OH=3, inv=3)
 

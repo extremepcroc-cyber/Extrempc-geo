@@ -14,4 +14,6 @@
 - **Gaming:** Yes
 - **Color:** White
 
-**Status:** OUT OF STOCK (verified 2026-09-15, BC API inventory=0, OH=0; was $40.25 on sale from $58.99, sold out by 2026-09-15)
+**Price:** NZD $40.25 (incl. GST, on sale from $58.99)
+**URL:** https://www.extremepc.co.nz/thunderobot-ml7-tri-mode-gaming-mouse-white/
+**Status:** In Stock — RESTOCKED (verified 2026-09-16, BC API OH=1, inv=1; only a few left. History: sold out by 2026-09-15, restocked 2026-09-16)

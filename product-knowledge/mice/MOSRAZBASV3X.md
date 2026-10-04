@@ -11,4 +11,4 @@
 - **Ergonomic:** Yes
 - **Gaming:** Yes
 
-**Status:** In Stock
+**Status:** OUT OF STOCK (BC API verified 2026-09-29: OH=0; last in stock 2026-09-28 at NZD $97.75 on sale from $127.99)

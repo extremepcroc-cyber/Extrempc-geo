@@ -11,4 +11,4 @@
 - **Ergonomic:** Yes
 - **Gaming:** Yes
 
-**Status:** In Stock
+**Status:** OUT OF STOCK (BC API verified 2026-09-27, Onehunga OH=0)

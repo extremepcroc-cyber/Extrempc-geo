@@ -12,4 +12,6 @@
 - **Gaming:** Yes
 - **Color:** Black
 
-**Status:** In Stock
+- **Status:** In Stock
+- **Price:** NZD $189.00 (incl. GST) on sale from $199.00 — BC API verified 2026-09-29 (sale price raised; was $179.00 on 09-26, $169.00 on 09-25)
+- **Stock:** Only a few left in stock (OH=2)

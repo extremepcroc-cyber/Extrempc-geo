@@ -12,4 +12,6 @@
 - **Gaming:** Yes
 - **Color:** White
 
-**Status:** In Stock
+**Price:** NZD $298.00 (incl. GST, list) — BC API verified 2026-09-18
+**Stock:** OUT OF STOCK (verified 2026-09-18, BC API inv=0, OH=0; last seen OH=1 in 2026-09-17 cache; black variant MOSRAZV4PB also OOS since 2026-09-12)
+**URL:** https://www.extremepc.co.nz/csv-import/razer-viper-v4-pro-wireless-esports-gaming-mouse-white-50g-8k-polling-gen-4-optical-switches-50k-dpi-sensor/

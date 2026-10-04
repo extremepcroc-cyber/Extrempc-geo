@@ -3,8 +3,8 @@
 **SKU:** MOSLOGG502XB
 
 **Brand:** Logitech
-**Price:** NZD $139.00 (incl. GST) — BC API verified 2026-09-08 (inv=2)
-**Status:** In Stock (BC API verified 2026-09-08, inv=2)
+**Price:** NZD $120.75 (incl. GST, on sale from $139.00) — BC API verified 2026-09-22 (calc $105 ex-GST × 1.15)
+**Status:** In Stock — only a few left (BC API verified 2026-09-22, inv=2, OH=2)
 
 ## Quick Specs
 

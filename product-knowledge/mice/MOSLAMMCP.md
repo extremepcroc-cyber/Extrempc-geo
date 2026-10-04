@@ -12,4 +12,5 @@
 - **Gaming:** Yes
 - **Color:** Pink
 
-**Status:** In Stock
+- **Status:** In Stock
+- **Price:** NZD $189.00 (incl. GST) — BC API verified 2026-09-26 (sale deepened, was $179.00 on 09-25)

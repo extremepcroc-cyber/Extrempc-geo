@@ -14,4 +14,4 @@
 - **Gaming:** Yes
 - **Color:** Black
 
-**Status:** In Stock
+**Status:** OUT OF STOCK (BC API verified 2026-09-30, OH=0; was in stock 09-29 at OH=1)
