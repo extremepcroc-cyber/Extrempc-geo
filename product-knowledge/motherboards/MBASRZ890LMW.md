@@ -16,7 +16,7 @@
 
 ## Compatibility Notes
 - Pairs with Intel Core Ultra 200S (LGA 1851) CPUs — sold as OEM tray at ExtremePC (e.g. Core Ultra 7 265K, in cache OH=6)
-- ⚠️ **SKU confusion pair:** MBASRZ890LMW (LiveMixer, this file) vs MBASRZ890PAW (Z890 Pro-A, $402.50) vs MBGIGZ890UDWF (Gigabyte Z890) — verify SKU before quoting
+- ⚠️ **SKU confusion pair:** MBASRZ890LMW (LiveMixer, this file) vs MBASRZ890PAW (Z890 Pro-A, $368.00) vs MBGIGZ890UDWF (Gigabyte Z890) — verify SKU before quoting
 - ATX board — standard ATX case required
 - Full spec table (M.2 count, WiFi standard, USB) — confirm on product page; not fabricated here
 

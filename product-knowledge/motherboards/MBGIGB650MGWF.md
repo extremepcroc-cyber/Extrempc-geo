@@ -3,7 +3,7 @@
 **Price:** NZD $184.00 (incl. GST) (on sale from $212.00)
 **SKU:** MBGIGB650MGWF
 **URL:** https://www.extremepc.co.nz/gigabyte-b650m-gaming-wifi-matx-am5-motherboard/
-**Stock:** Only a few left in stock (OH=1, verified 2026-09-13, BC API; was OH=3 "Plenty" in 09-12 cache)
+**Stock:** OUT OF STOCK (verified 2026-09-16, BC API inv=0, OH=0; history: OH=3 09-12 → OH=1 09-13 → sold out 09-16)
 
 ## Quick Specs
 - CPU Socket: AM5

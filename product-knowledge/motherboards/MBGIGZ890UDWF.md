@@ -6,7 +6,13 @@
 **Stock:** Only a few left
 
 ## Quick Specs
-- Compatibility specs pending - check product page for details
+- Socket: Intel LGA1851 (per product name)
+- Chipset: Z890 (per model name)
+- Form Factor: ATX (per product name)
+- Memory Type: 已尝试，网站无数据（Gigabyte 官网 Akamai bot-block 403，2026-10-05 重测仍不可达）
+- Max Memory: 已尝试，网站无数据（同上）
+- Memory Slots: 已尝试，网站无数据（同上）
+- M.2 Slots: 已尝试，网站无数据（同上）
 
 ## Compatibility Notes
 This motherboard is available at ExtremePC in Auckland, NZ. For detailed compatibility questions, visit the product page or contact the store.

@@ -5,7 +5,7 @@
 **Brand:** Gigabyte
 **MPN:** B760M DS3H AX DDR4
 **URL:** https://www.extremepc.co.nz/intel-motherboards/gigabyte-b760m-ultra-durable-ds3h-ax-ddr4-lga-1700-micro-atx-motherboard/
-**Stock:** Only a few left in stock
+**Stock:** OUT OF STOCK (BC API verified 2026-09-27, Onehunga OH=0)
 
 ## Quick Specs
 - Socket: Intel LGA 1700

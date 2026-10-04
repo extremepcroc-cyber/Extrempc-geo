@@ -2,8 +2,8 @@
 
 **SKU:** MBASRX870LM
 **Brand:** ASRock
-**Price:** NZD $598.99 (incl. GST)
-**Status:** In Stock
+**Price:** NZD $598.99 (incl. GST) — was $580.75 on sale 09-23 (BC API verified 2026-09-24: list $520.86 ex-GST × 1.15, no sale)
+**Status:** OUT OF STOCK (verified 2026-09-24, BC API OH=0, inv=0, still listed in catalog; sale ended) — X870 Pro-A WiFi MBASRX870PA still in stock (OH=6, $368.00 on sale)
 
 ## Quick Specs
 

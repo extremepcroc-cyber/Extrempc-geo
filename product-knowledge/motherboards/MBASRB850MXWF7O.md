@@ -1,6 +1,6 @@
 # ASRock B850M-X WiFi 7 R2.0 AM5 DDR5 WIFI 7 OEM Motherboard-Without retail package
 
-**Price:** NZD $224.25 (incl. GST) — on sale from $259.00 (verified 2026-09-13, BC API calc $195 × 1.15)
+**Price:** NZD $218.50 (incl. GST) — on sale from $259.00 (verified 2026-09-19, BC API calc $190 × 1.15; was $224.25 on 09-13)
 **SKU:** MBASRB850MXWF7O
 **URL:** https://www.extremepc.co.nz/amd-motherboards/asrock-b850m-x-wifi-7-r2-0-am5-ddr5-wifi-7-oem-motherboard-without-retail-package/
 **Stock:** In Stock — RESTOCKED (OH=40, plenty, verified 2026-09-13, BC API; was OOS 2026-09-10)
