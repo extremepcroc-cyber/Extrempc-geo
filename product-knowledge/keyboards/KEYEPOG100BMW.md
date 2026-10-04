@@ -3,7 +3,7 @@
 **Price:** NZD $229.00 (incl. GST)
 **SKU:** KEYEPOG100BMW
 **URL:** https://www.extremepc.co.nz/epomaker-galaxy-100-qmk-via-rgb-hot-swappable-wireless-mechanical-keyboard-black-feker-marble-white-switch-101-keys/
-**Stock:** Only a few left in stock
+**Stock:** OUT OF STOCK (verified 2026-09-16, BC API inv=0, OH=0)
 
 ## Quick Specs
 - Connection: Wireless (2.4GHz / Bluetooth)

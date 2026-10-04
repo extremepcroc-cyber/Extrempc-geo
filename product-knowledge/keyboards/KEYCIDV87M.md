@@ -15,4 +15,6 @@
 - **Ergonomic:** No
 - **Display:** No
 
-**Status:** In Stock
+**Price:** NZD $199.00 (incl. GST, on sale from $269.00) — BC API verified 2026-09-22
+
+**Status:** OUT OF STOCK (verified 2026-09-22, BC API inv=0, OH=0). EVA: do NOT recommend as in-stock

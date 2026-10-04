@@ -17,4 +17,4 @@
 - **Display:** No
 - **Color:** Black
 
-**Status:** In Stock
+**Status:** OUT OF STOCK (verified 2026-09-16, BC API inv=0, OH=0; was $149.01 incl GST on sale from $159)

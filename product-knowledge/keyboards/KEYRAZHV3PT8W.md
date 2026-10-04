@@ -15,4 +15,6 @@
 - **Display:** No
 - **Color:** White
 
-**Status:** In Stock
+**Price:** NZD $389.00 (incl. GST) on sale from $439.00 — BC API verified 2026-10-01
+**Stock:** OUT OF STOCK (verified 2026-10-01, BC API OH=0)
+**Status:** In Stock → OUT OF STOCK (OOS 2026-10-01). ⚠️ Sibling Black KEYRAZHV3PT8 also OOS — full line OOS.

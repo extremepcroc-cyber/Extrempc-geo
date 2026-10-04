@@ -3,7 +3,7 @@
 **Price:** NZD $399.00 (incl. GST, on sale)
 **SKU:** KEYRAZHV3PT8
 **URL:** https://extremepc.co.nz/razer-huntsman-v3-pro-tkl-8khz-wired-mechanical-gaming-keyboard-analog-optical-switches/
-**Stock:** Only a few left in stock
+**Stock:** OUT OF STOCK (BC API verified 2026-09-27, Onehunga OH=0)
 
 **Brand:** Razer
 
@@ -19,7 +19,7 @@
 - **Color:** Black
 - **Layout:** TKL (tenkeyless)
 
-**Status:** In Stock (2026-09-03 BC API verified, Onehunga 1)
+**Status:** OUT OF STOCK (BC API verified 2026-09-27, Onehunga OH=0)
 
 ## Notes
 - Black variant of the Huntsman V3 Pro TKL (white variant = KEYRAZHV3PT8W)

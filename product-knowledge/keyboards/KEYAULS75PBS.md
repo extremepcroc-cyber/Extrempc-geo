@@ -4,6 +4,10 @@
 
 **Brand:** AULA
 
+**Price:** NZD $149.01 (incl. GST) — sale ended 2026-09-23, back to list (BC API verified 2026-09-23)
+**URL:** https://www.extremepc.co.nz/wireless-gaming-keyboards/aula-s75-pro-rgb-hot-swappable-wireless-gaming-keyboard-black-star-vector-switch-84-keys/
+**Stock:** In Stock — Only a few left (OH=3, verified 2026-09-23, BC API)
+
 ## Quick Specs
 
 - **Connection:** Wireless (2.4G + USB-C)

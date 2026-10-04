@@ -1,9 +1,9 @@
 # GravaStar Mercury K1 Pro RGB Hot-Swappable Wireless Gaming Keyboard - Cyberpunk, Linear Switch, 79 Keys
 
-**Price:** NZD $349.00 (incl. GST)
+**Price:** NZD $399.00 (incl. GST) — BC API verified 2026-09-18 ($346.96 ex-GST × 1.15; was $349.00 in KB)
 **SKU:** KEYGSMK1PCPL
 **URL:** https://www.extremepc.co.nz/gravastar-mercury-k1-pro-rgb-hot-swappable-wireless-gaming-keyboard-cyberpunk-linear-switch-79-keys/
-**Stock:** Only a few left in stock
+**Stock:** OUT OF STOCK (verified 2026-09-18, BC API inv=0, OH=0; last seen OH=1 in 2026-09-17 cache)
 
 ## Quick Specs
 - Connection: Wireless (2.4GHz + Bluetooth)

@@ -3,7 +3,8 @@
 **SKU:** KEYAULF108PGC
 
 **Brand:** AULA
-**Price:** NZD $129.00 (incl. GST) — on sale (verified 2026-09-09)
+**Price:** NZD $149.01 (incl. GST) — BC API verified 2026-09-29 (sale ended, back to list; was $129.00 on sale 09-28, $119.00 on 09-23). Sold out 2026-09-30 (OH=0)
+**Status:** OUT OF STOCK (BC API verified 2026-09-30, OH=0)
 
 ## Quick Specs
 
@@ -17,4 +18,4 @@
 - **Display:** No
 - **Color:** Grey
 
-**Status:** In Stock
+**Status:** OUT OF STOCK

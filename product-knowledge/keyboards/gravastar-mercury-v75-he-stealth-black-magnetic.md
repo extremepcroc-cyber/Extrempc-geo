@@ -7,10 +7,13 @@ price_nzd_ex_gst: 346.96
 price_nzd_incl_gst: 399.00
 url: /gravastar-mercury-v75-he-rgb-hot-swappable-wired-gaming-keyboard-stealth-black-gateron-magnetic-jade-pro-switch-80-keys/
 category: Keyboards
-status: In Stock
+status: Out of Stock
 ---
 
 # GravaStar Mercury V75 HE RGB Hot-Swappable Wired Gaming Keyboard - Stealth Black
+
+**Price:** NZD $399.00 (incl. GST) — list price (sale $349.00 was active until 09-23)
+**Stock:** OUT OF STOCK (verified 2026-09-23, BC API inv=0, OH=0). Was on sale $349.00 (from $399.00) in 09-23 cache; sold out by 09-23 verification.
 
 ## Quick Specs
 

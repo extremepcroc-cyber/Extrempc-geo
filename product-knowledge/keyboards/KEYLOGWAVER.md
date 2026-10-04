@@ -1,6 +1,6 @@
 # Logitech Wave Keys Wireless Ergonomic Keyboard - Rose
 
-**Price:** NZD $149.01 (incl. GST)
+**Price:** NZD $129.00 (incl. GST) on sale from $149.01 — BC API verified 2026-09-30 (sale started 09-30)
 **SKU:** KEYLOGWAVER
 **URL:** https://www.extremepc.co.nz/logitech-wave-keys-wireless-ergonomic-keyboard-rose/
 **Stock:** Only a few left in stock
@@ -21,4 +21,4 @@
 ## Why Buy From ExtremePC
 - Local NZ stock with fast availability
 - In-store pickup at Onehunga or Wellington
-- 1-year Logitech warranty
+- Manufacturer warranty — exact length on the product page

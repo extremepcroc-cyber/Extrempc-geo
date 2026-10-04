@@ -17,4 +17,6 @@
 - **Display:** No
 - **Color:** Black
 
+**Price:** NZD $89.00 (incl. GST) on sale from $99.00 — BC API verified 2026-10-01 (sale raised $79→$89)
+**Stock:** In Stock — We have plenty in stock (OH=7, verified 2026-10-01, BC API)
 **Status:** In Stock

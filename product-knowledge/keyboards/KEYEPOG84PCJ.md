@@ -16,4 +16,4 @@
 - **Display:** No
 - **Color:** Purple
 
-**Status:** In Stock
+**Status:** OUT OF STOCK (OH=1→0 between 2026-09-25 and 2026-09-26; verified 2026-09-26 BC API OH=0/inv=0; no other G84 Pro colours in stock as of 2026-09-26)
