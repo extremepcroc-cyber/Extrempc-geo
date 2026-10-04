@@ -1,8 +1,8 @@
 # Thermalright TR-SI-100 BLACK CPU Air Cooler
 
-**Price:** NZD $57.50 (incl. GST)
+**Price:** NZD $57.50 (incl. GST, on sale from $79.00) — BC API verified 2026-09-22 (calc $50 ex-GST × 1.15)
 **SKU:** COOTMRSI100B
-**Stock:** Plenty in stock (verified 2026-08-31, OH>0)
+**Stock:** OUT OF STOCK (BC API verified 2026-09-27, Onehunga OH=0; was OH=1 on 2026-09-22)
 
 ## Quick Specs
 - Type: Air Cooler

@@ -3,7 +3,7 @@
 **Price:** NZD $69.0 (incl. GST)
 **SKU:** COOJONPISAA5G
 **URL:** https://www.extremepc.co.nz/jonsbo-pisa-a5-rgb-cpu-cooler-gray/
-**Stock:** Plenty in stock
+**Stock:** Only a few left in stock (OH=5, verified 2026-09-24, BC API; was OH=6 on 09-23)
 
 ## Quick Specs
 - Type: Air Cooler

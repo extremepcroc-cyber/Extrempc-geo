@@ -6,8 +6,9 @@
 **Stock:** Only a few left
 
 ## Quick Specs
-- Type: AIO Liquid Cooler
+- Type: Air Cooler
 - Socket Support: AMD
+- Note: Air cooler (per product name "AK500S Digital CPU Air Cooler"). Type previously mislabelled "AIO Liquid Cooler" — corrected 2026-10-04. Full specs (height / TDP / Intel+AMD socket list) not in local system — contact store 09 849 4888 to confirm.
 
 ## Compatibility Notes
 This CPU cooler is available at ExtremePC in Auckland, NZ. For detailed compatibility questions, visit the product page or contact the store.

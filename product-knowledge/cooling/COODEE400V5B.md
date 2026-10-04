@@ -8,7 +8,7 @@
 ## Quick Specs
 - Type: Air Cooler
 - Socket Support: AMD
-- Radiator Size: 240mm
+- Note: Air cooler (per product name "AG400 V5 ARGB CPU Air Cooler"). Carried a contradictory "Radiator Size: 240mm" line — removed 2026-10-04 (air coolers have no radiator). Full specs (height / TDP / Intel+AMD socket list) not in local system — contact store 09 849 4888 to confirm.
 
 ## Compatibility Notes
 This CPU cooler is available at ExtremePC in Auckland, NZ. For detailed compatibility questions, visit the product page or contact the store.

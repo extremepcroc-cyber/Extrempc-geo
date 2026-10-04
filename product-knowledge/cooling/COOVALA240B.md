@@ -1,9 +1,9 @@
 # Valkyrie A240 ARGB All-in-One AIO CPU Liquid Cooler Black
 
-**Price:** NZD $103.50 (incl. GST) (on sale from $129.00)
+**Price:** NZD $129.00 (incl. GST) — sale ended 2026-09-23, back to list (BC API verified 2026-09-23)
 **SKU:** COOVALA240B
 **URL:** https://www.extremepc.co.nz/valkyrie-a240-argb-all-in-one-aio-cpu-liquid-cooler-black/
-**Stock:** Plenty in stock
+**Stock:** Only a few left (OH=2, verified 2026-09-23, BC API)
 
 ## Quick Specs
 - Type: AIO Liquid Cooler

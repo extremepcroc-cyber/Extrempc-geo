@@ -6,10 +6,11 @@
 **Stock:** Plenty in stock
 
 ## Quick Specs
-- Type: AIO Liquid Cooler
+- Type: Air Cooler
 - Socket Support: AMD
 - TDP Rating: 260W
 - Fan Size: 120mm
+- Note: Air cooler (per product name "Vind DL125 ARGB CPU Air Cooler"). Type previously mislabelled "AIO Liquid Cooler" — corrected 2026-10-04.
 
 ## Compatibility Notes
 This CPU cooler is available at ExtremePC in Auckland, NZ. For detailed compatibility questions, visit the product page or contact the store.

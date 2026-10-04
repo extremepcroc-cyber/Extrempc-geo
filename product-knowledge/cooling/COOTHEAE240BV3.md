@@ -1,8 +1,8 @@
 # Thermalright Aqua Elite 240 Black ARGB V3 AIO Liquid CPU Cooler
 
-**Price:** NZD $80.50 (incl. GST)
+**Price:** NZD $80.50 (incl. GST) — on sale (was $86.09 ex-GST list)
 **SKU:** COOTHEAE240BV3
-**Stock:** Only a few left in stock (verified 2026-08-31, OH>0)
+**Stock:** OUT OF STOCK (verified 2026-09-22, BC API inv=0, OH=0). Sibling 240 Black LE240V2 COODEEL2402W OH=2 / LE240 V2 Black COODEEL2402B OH=4
 
 ## Quick Specs
 - Type: AIO Liquid Cooler (240mm)

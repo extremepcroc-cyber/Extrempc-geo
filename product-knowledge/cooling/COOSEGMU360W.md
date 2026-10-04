@@ -3,7 +3,7 @@
 **Price:** NZD $199.0 (incl. GST)
 **SKU:** COOSEGMU360W
 **URL:** https://www.extremepc.co.nz/segotep-mu-360-argb-aio-liquid-cpu-cooler-with-lcd-ips-display-white/
-**Stock:** Only a few left
+**Stock:** OUT OF STOCK (verified 2026-09-24, BC API OH=0, inv=0; was "Only a few left" in KB — stale, corrected now)
 
 ## Quick Specs
 - Type: AIO Liquid Cooler

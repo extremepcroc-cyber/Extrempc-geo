@@ -1,6 +1,6 @@
 # Thermalright Wonder Vision 360 Turbo ARGB Black AIO Liquid CPU Cooler
 
-**Price:** NZD $373.75 (incl. GST)
+**Price:** NZD $409.01 (incl. GST) — back to list price 2026-09-26 (sale $373.75 ended)
 **SKU:** COOTMRWV36TB
 **Stock:** Only a few left in stock (verified 2026-08-31, OH>0)
 
@@ -17,4 +17,4 @@ This CPU cooler is available at ExtremePC in Auckland, NZ. Verify case CPU coole
 - Local NZ stock with fast availability
 - In-store pickup at Onehunga or Wellington
 - Expert build service available ($80 build fee)
-- 2-year NZ warranty support
+- Manufacturer warranty — exact length on the product page

@@ -2,12 +2,12 @@
 sku: 109303
 name: Intel Original CPU Fan (OEM Package) for Socket LGA1151/1150
 brand: Intel
-mpn: TBC
-price_nzd_ex_gst: TBC
-price_nzd_incl_gst: TBC
-url: TBC
+mpn: FANINT1150
+price_nzd_ex_gst: 8.50
+price_nzd_incl_gst: 9.78
+url: https://www.extremepc.co.nz/intel-original-cpu-fan-oem-package-for-socket-lga1151-1150/
 category: Cooling
-status: In Stock
+status: In Stock (OH=1, only a few left — BC API verified 2026-09-17; SU=28 supplier stock not shown)
 ---
 
 # Intel Original CPU Fan (OEM Package) for Socket LGA1151/1150
