@@ -1,1 +1,0 @@
-﻿# ASRock Phantom Gaming 32 OLED 4K

@@ -1,1 +1,0 @@
-﻿# Lamzu Maya X
