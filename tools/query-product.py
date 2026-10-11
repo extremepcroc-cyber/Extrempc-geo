@@ -201,6 +201,7 @@ def main():
         terms = sys.argv[i + 1]
         d = api_get(
             "/catalog/products?name:like=" + urllib.parse.quote(terms)
+            + "&is_visible=true&availability=available"
             + "&include_fields=id,name,sku,mpn,price,calculated_price,brand_id,custom_url"
             + "&include=custom_fields&limit=20"
         )
@@ -220,26 +221,44 @@ def main():
         sys.exit(1)
 
     skus = [s.strip() for s in args[0].split(",") if s.strip()]
-    d = api_get(
-        f"/catalog/products?sku:in={urllib.parse.quote(','.join(skus))}"
-        "&include_fields=id,name,sku,mpn,price,calculated_price,brand_id,custom_url"
-        "&include=custom_fields&limit=50"
-    )
-    items = (d or {}).get("data", [])
-    if not items:
-        print(f"❌ BC 中查不到这些 SKU: {', '.join(skus)}")
-        print("   可能已从目录移除（EOL），或 SKU 拼写有误。")
-        return
+    ids = urllib.parse.quote(",".join(skus))
+    FIELDS = ("&include_fields=id,name,sku,mpn,price,calculated_price,brand_id,custom_url,"
+              "is_visible,availability")
 
+    # 1) Live & storefront-visible only — same filter EVAcache uses. Keeps disabled /
+    #    hidden SKUs out of any recommendation EVA builds from this tool.
+    d = api_get(f"/catalog/products?sku:in={ids}&is_visible=true&availability=available"
+                f"{FIELDS}&include=custom_fields&limit=50")
+    items = (d or {}).get("data", [])
     brands = brand_map([p.get("brand_id") for p in items])
     for p in items:
         print(render(p, brands))
         print()
 
-    found = {p.get("sku", "").upper() for p in items}
-    missing = [s for s in skus if s.upper() not in found]
+    live = {p.get("sku", "").upper() for p in items}
+
+    # 2) Anything not returned may still exist in BC but be hidden/sold out.
+    #    Surface it as a DO-NOT-RECOMMEND warning instead of silently listing it.
+    missing = [s for s in skus if s.upper() not in live]
     if missing:
-        print(f"⚠️ 未找到: {', '.join(missing)}")
+        d2 = api_get(f"/catalog/products?sku:in={urllib.parse.quote(','.join(missing))}"
+                     f"{FIELDS}&limit=50")
+        gone = (d2 or {}).get("data", [])
+        for p in gone:
+            why = []
+            if p.get("is_visible") is False:
+                why.append("is_visible=false（storefront 已隐藏/下架）")
+            if p.get("availability") and p.get("availability") != "available":
+                why.append(f"availability={p['availability']}")
+            print(f"⛔ {p.get('sku')} — 存在但【不可推荐】: {'; '.join(why) or '未通过在售过滤'}")
+            print(f"   名称: {(p.get('name') or '')[:90]}")
+            print("   → 不要在推荐/报价里使用此产品（客人在网站上看不到它）")
+            print()
+        seen = {p.get("sku", "").upper() for p in gone}
+        truly = [s for s in missing if s.upper() not in seen]
+        if truly:
+            print(f"❌ BC 中完全查不到: {', '.join(truly)}（可能已 EOL，或 SKU 拼写有误）")
+        return
 
 
 if __name__ == "__main__":
