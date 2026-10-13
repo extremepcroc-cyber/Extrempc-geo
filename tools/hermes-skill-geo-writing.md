@@ -1,212 +1,117 @@
-# Skill: ExtremePC GEO File Writing
+# GEO Writer Guide
 
-**Trigger:** Any task involving writing, updating, or reviewing GEO product files for extremepc.co.nz.
+**This is the only file you need to read before you start.** It lists every file and command you may use. If something you need is missing here, stop and ask the human. Do not go exploring the repo.
 
-**This is the complete guide for a GEO-writing session.** You should not need to read CLAUDE.md's full audit/coverage-tool docs, the blog system section, or explore the rest of the repo — this file plus the JSON you're given is enough to write correct files. If something here seems to conflict with CLAUDE.md, CLAUDE.md wins (this file is a working guide, CLAUDE.md is the source of truth) — but flag the conflict rather than silently picking one, it means this file drifted and needs fixing.
+You write product pages ("GEO files") for extremepc.co.nz: one Markdown file per product, named by its BigCommerce SKU in ALL CAPS (e.g. `MONSAM27FG7.md`), stored in the product's category folder. You do not answer customers, apply audits, delete or move files, or touch anything outside the folder you were assigned.
 
----
+Valid target folders: `gaming-pcs` `gaming-mice` `gaming-keyboards` `gaming-headsets` `gaming-chairs` `monitors` `video-cards` `cpu-processors` `memory-ram` `internal-ssd` `internal-hard-drives` `power-supplies` `computer-cases` `cooling` `webcams` `microphones`
 
-## What Is a GEO File
+## Hard rules
 
-A GEO file is a structured Markdown product page optimised for AI search engines (Perplexity, ChatGPT, Gemini). Each file = one product, named by its BC SKU in ALL CAPS (e.g. `XPC12359.md`). Files live in category directories under the repo root (e.g. `gaming-pcs/`, `cooling/`, `monitors/`). Category → BC ID mapping is in `CLAUDE.md`'s "Category Directory → BC IDs" table — don't re-derive it, just look it up there.
+1. **Facts come only from the JSON entry and the KB file for that SKU.** If a spec is not there, leave it out or write `TBC`. Never invent specs, SKUs or URLs. No web search.
+2. **Copy `sku`, `mpn` and `url` exactly** from the JSON. Filename = SKU, ALL CAPS.
+3. **Price line:** `price_nzd_inc_gst` rounded to a whole dollar, no comma, no decimals: `**Price:** $2399 inc GST`. Many older files still show `$1,058.99` or `$999.00`. Do not copy that, even from an example. After writing, check the number against the JSON again; a whole keyboard batch once shipped with 52 wrong prices although the JSON was correct. (Schema `offers.price` stays a decimal string: `"2399.00"`.)
+4. **No dollar amounts or price gaps in the prose.** Money appears only in the Price line and the Schema. Say "entry-tier", "mid-tier", "premium-tier" instead.
+5. **Write each file from scratch.** Never copy a sibling and swap the model name.
+6. **Upscaling tech must match the GPU:** DLSS = NVIDIA only, FSR = AMD only, XeSS = Intel Arc only. Take the GPU brand from the JSON, never assume. For prebuilt PCs, read it from the product name.
+7. **Related Products:** never list the file's own SKU; list only SKUs that exist in your JSON or as files in the same folder.
+8. **Stock = Onehunga (OH) only.** If OH is 0, still write the full file, add `**Status:** OUT OF STOCK — last checked {YYYY-MM-DD}` directly under the URL line, and set Schema `availability` to `https://schema.org/OutOfStock`. Otherwise use `https://schema.org/InStock`. Never delete content.
+9. **NZD, GST-inclusive, specs not opinions.** No "best" or "great" without numbers.
 
----
+## Read these, and nothing else
 
-## Context Budget — This Matters More Than It Looks
-
-The repo has 400+ product files across 20+ categories. **Do not Glob the repo tree, do not read other categories "for context," do not read `blog/`, `company/`, `2-EOL products/`, or unrelated `product-knowledge/` subfolders.** Read only: this file, the fetch-category JSON for your subcategory, 1-2 calibration files (below), and the one `product-knowledge/{category}/` subfolder that matches what you're writing.
-
-**Batch size — if you're running on a smaller/local model (≤160k context), plan for 3-5 files per batch, not 10-20.** Each GEO file is 100-130 lines of dense, fact-checked prose; by file 8-10 in one continuous session, quality visibly degrades (generic phrasing, copied comparisons, missed brand/spec details) even before you hit a hard context wall. If you're a large-context model (Claude with 1M context, etc.) you can push batches larger, but still plan by leaf subcategory (see Step 2), never a whole top-level category in one go.
-
----
-
-## Step 0 — Check What's Actually Missing
-
-Before planning a batch, run `python tools/coverage-report.py --category {your-category}` to confirm there's a real gap and see the true live-BC-vs-written-files count. Don't rely on a stale task list or assumption — coverage numbers for several categories were found to be badly wrong before this tool existed (see CLAUDE.md's "Deciding What to Write Next" section for the category-ID pitfalls it handles). If the report says gap=0, stop and confirm with whoever assigned the task before writing anything.
-
----
-
-## Quality Reference — Read Before Writing
-
-**Golden standard:** `gaming-chairs/` directory (10 LiberNovo chair files).
-
-Before writing GEO files for any new category, read **1-2 files max** from `gaming-chairs/` to calibrate (or an existing file in the category you're about to write into, if one already exists — prefer that, it's more directly comparable):
-- Technical depth (specs with real numbers, not adjectives)
-- Selling Points length (2-4 full sentences per point, differentiation → data → objection pre-emption)
-- User persona specificity (height range, session duration, environment, constraints)
-- Comparison honesty (acknowledge competitor strengths, give decision logic)
-- FAQ real-world relevance (noise, warranty, install, pairing, try-before-buy)
-- Why Buy From ExtremePC substance (specific reasons, not boilerplate)
-
-**Key reference files:**
-- `gaming-chairs/GAMLIBOCP45B.md` — Premium tier example (131 lines, BIFMA data, NZ climate analysis)
-- `gaming-chairs/GAMLIBOC145B.md` — Mid-tier example (129 lines, upgrade/downgrade logic)
-- `gaming-chairs/GAMLIBSE45B.md` — Entry tier example (130 lines, mechanical vs electronic tradeoffs)
-
----
-
-## Step 1 — Get Product Data (ALWAYS first)
-
-**Never write a GEO file from memory, web search, or manufacturer sites.**
-
-Product data must come from the JSON output of `tools/fetch-category.ps1`.
-
-If the JSON has not been provided yet, stop and ask:
-> "Please run `.\tools\fetch-category.ps1 -CategoryId {id}` and give me the output JSON before I start writing."
-
-```powershell
-.\tools\fetch-category.ps1 -CategoryId 351              # in-stock only (e.g. AIO Water Cooling = 351)
-.\tools\fetch-category.ps1 -CategoryId 349 -IncludeOOS   # include OOS too
-.\tools\fetch-category.ps1 -CategoryId 347 -OutputFile "tools\fans.json"
-```
-
-Output: `tools/category-{id}-products.json`, one entry per product:
-
-| Field | Use for |
+| What | Why |
 |---|---|
-| `sku` | filename (`{SKU}.md`) |
-| `name` | H1 title |
-| `price_nzd_inc_gst` | `**Price:**` field (plain integer, no commas, e.g. `$3499`) |
-| `url` | `**URL:**` field |
-| `mpn` | `**MPN:**` field |
-| `brand` | Schema |
-| `stock` | OH/WL/SL/SU breakdown for Quick Specs NZ Stock line |
-| `custom_fields` | technical specs |
+| The JSON you were given (`tools/category-{id}-products.json`) | Product data. Read only the entries for your SKUs. |
+| `product-knowledge/*/{SKU}.md` for each of your SKUs, if it exists | Technical background. Look it up by SKU; folder names are inconsistent. |
+| `brands/{brand}.md`, only if it exists | Brand background. One file. |
+| `cooling/COOTHEAE360BV3.md` | The example to imitate: structure and depth, not its facts. |
 
-**If the JSON covers more SKUs than this batch (e.g. a 60-product category JSON but you're only writing 4-5 this session), only read the entries for the SKUs you're actually writing.** Don't hold the whole file in context for a small batch.
+**Do not open** `README.md`, `CLAUDE.md`, `HERMES.md`, `AI-README.md`, `CONTRIBUTING.md`, `TEMPLATE.md` (the template is below), `categories-tree.md`, `blog/`, `company/`, `2-EOL products/`, other category folders, `tools/*.py` source, or git history. Never list or glob the whole repo: it has 1,400+ files and the listing alone costs tens of thousands of tokens.
 
-**⚠️ Real incident (2026-09-15): a batch of 68 keyboard files was written with 52 wrong prices — some off by 50-76% — even though the source JSON had the correct number the whole time** (e.g. one file was written at $79 when its own JSON entry said `price_nzd_inc_gst: 139`). This wasn't stale data, it was copying the wrong number while writing. **Before moving to the next file, re-read the price you just wrote against the JSON entry for that exact SKU — don't trust memory of "roughly what it was."**
+## Tools
 
----
+| Need | Command |
+|---|---|
+| What is still missing in a folder | `python tools/coverage-report.py --category {folder}`, then read the `gap` column |
+| Product data | You do not fetch it. The human runs `.\tools\fetch-category.ps1 -CategoryId {id}` and gives you the JSON. If it is missing, does not contain your SKU, or the file is older than 7 days, stop and ask for a fresh one. |
+| Check your files against BC | `python tools/audit-geo.py --dry-run --category {folder}`. Look only at the lines for your SKUs (`OK` is good; `PRICE`, `OOS`, `URL` mean a mismatch). Then run `git checkout -- tools/change-report.json`. **Never run audit-geo.py without `--dry-run`.** |
 
-## Step 2 — Plan Before Writing
+## Step 1 — Get product data
 
-List every SKU you will write, in order, before starting. Do not start writing until the plan is confirmed (with the user, or with yourself if working autonomously — just don't skip straight to writing).
+From the JSON entry for each SKU use: `sku` (filename), `name` (H1), `price_nzd_inc_gst` (Price), `url`, `mpn`, `brand` (Schema), `stock.OH` (stock rule above), `custom_fields` (specs; ignore the `__Stock Available ...` fields). If the entry or a field you need is missing, stop and ask.
 
-**Planning unit = one leaf subcategory at a time.** Never plan an entire top-level category (Cooling, Motherboards, Memory) in one session — it will overflow context mid-batch. Look up leaf subcategory IDs in `categories-tree.md`.
+## Step 2 — Plan, then write in small batches
 
-Example plan:
-```
-SKUs to write (AIO Water Cooling, BC 351):
-1. COOLABC360X — be quiet! Pure Loop 2 360mm
-2. COOLMSI360R — MSI MEG Coreliquid S360
-3. COOLLIAN360 — Lian Li Galahad II 360
-... etc
-Estimated: 12 files. Batch size 4 — three sessions.
-```
+Your context window is small. **Write at most 4 files per session**, then stop and tell the human to start a fresh session. Before writing, list the SKUs you will do, one line each. Do not re-open a file you just wrote; it doubles the cost, and the audit check below verifies the facts.
 
----
+## Step 3 — Write each file
 
-## Step 3 — Write Each File Independently
-
-**Every file must be written from scratch. No copy-paste from sibling products. No batch find-and-replace.**
-
-Each product has different GPU/CPU architecture, upscaling tech, target persona, and competitive position. Copy-paste produces factually wrong content — wrong brand, wrong tech (e.g. "DLSS 4" on an Intel Arc card, which uses XeSS), wrong comparisons.
-
-### Before writing each file, confirm:
-
-- [ ] GPU brand: Intel / NVIDIA / AMD? (check JSON — never assume)
-- [ ] Upscaling tech: DLSS = NVIDIA only | XeSS = Intel Arc only | FSR = AMD only
-- [ ] Stock location: retail (OH/WL/SL) or supplier-only (SU)?
-- [ ] Price is a plain integer from the JSON (no commas, no decimals) — **and matches the JSON exactly, see the incident note in Step 1**
-
-### Required file structure (in this exact order):
+Sections in exactly this order:
 
 ```markdown
-# {Product Name}
+# {Product name from JSON}
 
-**Price:** ${price} inc GST
+**Price:** ${whole dollars} inc GST
 **SKU:** {SKU}
-**MPN:** {MPN}
-**URL:** {URL}
+**MPN:** {MPN, or TBC}
+**URL:** {url from JSON, unchanged}
 
 ## Quick Specs
-(5+ specs — concrete numbers, certifications, test data. No adjectives.)
+(5+ specs. Real numbers, certifications, warranty. No adjectives.)
 
 ## Selling Points
-(3–5 points, 2–4 sentences each. Lead with differentiation, support with data/scenario, pre-empt one objection.)
+(3-5 points, 2-4 sentences each: what sets it apart, the data behind it, one likely objection answered.)
 
 ## Ideal For
-(3+ personas — each must have: use case + duration + environment + constraints)
+(3+ buyers, each with use case + hours per day + environment + constraint.)
 
 ## Why Buy From ExtremePC
-(3+ reasons — local warranty, Auckland Build Team, NZ stock, Afterpay, etc.)
+(3+ concrete reasons: local warranty, Auckland Build Team, NZ stock, Afterpay.)
 
 ## Comparison
-(3+ named competitors with model names. Acknowledge competitor strengths honestly.)
+(3+ named competitor models. Say honestly where they win.)
 
 ## FAQ
-(3+ Q&A pairs — noise, warranty process, install difficulty, stock, returns)
+(3+ real questions: noise, warranty process, install, compatibility, stock, returns.)
 
 ## Related Products
-(Same-brand alternates, step-up/step-down, accessories — never list this file's own SKU)
+(Same-brand alternatives, step-up/step-down, accessories. Never this SKU.)
 
 ## Schema (JSON-LD)
-(Include brand, sku, mpn, offers with NZD price, InStock/OutOfStock, seller)
+(brand, sku, mpn, offers: NZD price as "2399.00", availability, seller ExtremePC.)
 ```
 
-Required fields: `Price`, `SKU`, `MPN`, `URL`, `Quick Specs`, `Selling Points`, `Ideal For`, `Why Buy From ExtremePC`, `Comparison`, `FAQ`, `Schema`. Use `TBC` only if genuinely unknown after checking the JSON.
-
----
-
-## Content Rules
-
-**Numbers over adjectives:**
-- ❌ "Great cooling performance"
-- ✅ "Tested to 50,000 pump-cycle MTBF; keeps Ryzen 9 9950X under 72°C at 200W package power"
-
-**Personas need full context:**
-- ❌ "Suitable for gamers"
-- ✅ "PC builders in Auckland running a Ryzen 7 9700X who game 4–6 hours daily and want sub-70°C temps without fan noise above 35 dB"
-
-**Prices in body content = tier language only, never a dollar figure or a dollar difference:**
-- ❌ "At $249 this beats the competition" / "$20 cheaper than the alternative"
-- ✅ "At mid-tier pricing, this outperforms entry-tier 240mm AIOs" / "a moderate premium over the entry option"
-- Exception: `**Price:**` field and `Schema.offers.price` — use the exact number from the JSON
-- Reason: prices change; a hardcoded dollar figure or delta in prose goes stale silently and nothing catches it (the price *field* gets synced by `audit-geo.py`, prose does not)
-
-**All prices are NZD inc GST.** No subjective statements — specs and facts only. `brands/` holds brand profiles, not product listings — don't confuse the two.
-
-**NZ localisation — always include:**
-- Auckland summer temps (25°C+, humidity)
-- NZ delivery times, warranty service location
-- GST-inclusive pricing context
-
----
+Write for a New Zealand buyer: Auckland summer heat and humidity, NZ delivery and warranty service, GST-inclusive pricing. Be specific: "keeps a Ryzen 9 9950X under 72°C at 200W", not "great cooling"; "an Auckland gamer playing 4-6 hours a day", not "suitable for gamers".
 
 ## Self-Check Before Committing
 
-- [ ] Filename = SKU, ALL CAPS, `.md` extension
-- [ ] File is in the correct category directory
-- [ ] Price matches the JSON's `price_nzd_inc_gst` **exactly** — re-check, don't trust memory
-- [ ] URL copied exactly from JSON
-- [ ] GPU brand/architecture is correct for this specific product
-- [ ] Upscaling tech matches the GPU (DLSS/XeSS/FSR)
-- [ ] No scientific notation anywhere (`$3e+03` = fail, rewrite)
-- [ ] No hardcoded dollar amounts in prose outside the Price field/Schema
-- [ ] Related Products does NOT list this file's own SKU
-- [ ] Comparison section names specific competitor models (not "similar products")
-- [ ] No web search was used for any data in this file
-- [ ] Schema JSON has correct `availability` (InStock or OutOfStock based on stock.total)
+- [ ] Filename = SKU in ALL CAPS, `.md`, inside the right folder
+- [ ] Price line is whole dollars and equals the JSON value
+- [ ] URL and MPN match the JSON exactly
+- [ ] All 8 sections present, in order
+- [ ] No `$` amounts or price gaps in the prose
+- [ ] Upscaling tech matches the GPU brand
+- [ ] Related Products does not list this SKU
+- [ ] Every spec in the file appears in the JSON or the KB file
+- [ ] Schema `availability` matches the OH stock rule
 
----
+Then run the audit check from the Tools table, fix anything that is not `OK`, and commit:
 
-## OOS / EOL — Only If You Hit It Mid-Batch
-
-Full rules live in CLAUDE.md ("Out-of-Stock Products" and "Product Removed From BigCommerce Entirely (EOL)") — this is the short version for while you're writing:
-
-- `stock.total = 0` in the JSON and you're writing full content anyway → write it in full, then add `**Status:** OUT OF STOCK — last checked {date}` below the URL, Schema `availability` → `OutOfStock`
-- A SKU in your plan isn't in BC at all anymore → don't write a file for it, don't delete anything that already exists for it — flag it for the EOL process (CLAUDE.md) instead, that's a judgment call, not something to do automatically while writing
-
----
-
-## Git Workflow
-
-After completing a batch:
 ```
-git add {category}/
+git add {folder}/
 git commit -m "feat: write GEO files for {subcategory} ({n} SKUs)"
+git pull --rebase
 git push
 ```
 
-One commit per subcategory batch. Do not mix categories in one commit.
+One commit per folder. Do not mix categories. If `git pull --rebase` reports a conflict, stop and ask; do not resolve it yourself and never force-push.
+
+## Stop and ask the human when
+
+- the JSON is missing, stale, or does not contain a SKU you were asked to write
+- a SKU is not in BC at all (do not write it, move it or delete it; that is a human decision)
+- a fact you need is not in the data
+- a tool reports a credentials error
+- the audit check still reports a mismatch after you re-read the JSON
+- something outside your folder looks like it needs changing
