@@ -54,11 +54,33 @@ HEADERS = {
 do_instock_only = "--instock" in sys.argv
 do_summary      = "--summary" in sys.argv
 
+
+def _arg_val(flag):
+    """Value following `--flag` on the command line, or None."""
+    if flag in sys.argv:
+        i = sys.argv.index(flag)
+        if i + 1 < len(sys.argv):
+            return sys.argv[i + 1]
+    return None
+
+
+_v_max, _v_min, _v_lim = _arg_val("--max-price"), _arg_val("--min-price"), _arg_val("--limit")
+MAX_PRICE = float(_v_max) if _v_max else None
+MIN_PRICE = float(_v_min) if _v_min else None
+LIMIT     = int(_v_lim) if _v_lim else None
+SORT      = (_arg_val("--sort") or "stock").lower()
+BRAND_F   = _arg_val("--brand")
+
 cat_ids = [a for a in sys.argv[1:] if a.isdigit()]
 if not cat_ids:
-    print("Usage: python tools/query-category.py <category_id> [--instock] [--summary]")
-    print("       --instock   only show products with OH stock > 0")
-    print("       --summary   show brand overview instead of individual products")
+    print("Usage: python tools/query-category.py <category_id> [options]")
+    print("       --instock         only show products with OH stock > 0")
+    print("       --summary         brand overview instead of individual products")
+    print("       --max-price N     only products at or below NZD $N (incl. GST)")
+    print("       --min-price N     only products at or above NZD $N")
+    print("       --brand X         only products whose brand contains X")
+    print("       --sort price|price-desc|stock   (default: stock)")
+    print("       --limit N         show at most N products")
     sys.exit(1)
 
 CAT_ID = int(cat_ids[0])
@@ -171,8 +193,25 @@ for p in products:
 if do_instock_only:
     results = [r for r in results if r["oh"] > 0]
 
-# Sort: in-stock first, then by OH desc
-results.sort(key=lambda r: r["oh"], reverse=True)
+# Price / brand filters
+if MAX_PRICE is not None:
+    results = [r for r in results if r["price"] <= MAX_PRICE]
+if MIN_PRICE is not None:
+    results = [r for r in results if r["price"] >= MIN_PRICE]
+if BRAND_F:
+    results = [r for r in results if BRAND_F.lower() in (r["brand"] or "").lower()]
+
+# Sort
+if SORT == "price":
+    results.sort(key=lambda r: r["price"])
+elif SORT == "price-desc":
+    results.sort(key=lambda r: -r["price"])
+else:
+    results.sort(key=lambda r: r["oh"], reverse=True)
+
+# Limit
+if LIMIT:
+    results = results[:LIMIT]
 
 # --summary mode
 if do_summary:
@@ -193,6 +232,14 @@ if do_summary:
     sys.exit(0)
 
 # Product list
+_crit = []
+if do_instock_only:         _crit.append("in stock")
+if MAX_PRICE is not None:   _crit.append(f"≤${MAX_PRICE:.0f}")
+if MIN_PRICE is not None:   _crit.append(f"≥${MIN_PRICE:.0f}")
+if BRAND_F:                 _crit.append(f"brand~{BRAND_F}")
+if LIMIT:                   _crit.append(f"top {LIMIT}")
+if _crit:
+    print(f"--- {len(results)} result(s)  [filter: {', '.join(_crit)}] ---")
 for r in results:
     label     = stock_label(r["oh"])
     brand_tag = f" [{r['brand']}]" if r["brand"] else ""
