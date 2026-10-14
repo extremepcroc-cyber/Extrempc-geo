@@ -91,7 +91,7 @@ Not currently in stock at ExtremePC. Jonsbo D41 in white or other colours may ap
   "offers": {
     "@type": "Offer",
     "priceCurrency": "NZD",
-    "price": "149",
+    "price": "149.00",
     "availability": "https://schema.org/InStock",
     "seller": {
       "@type": "Organization",

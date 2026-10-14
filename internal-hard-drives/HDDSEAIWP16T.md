@@ -1,4 +1,4 @@
-﻿# Seagate IronWolf Pro 16TB 3.5" SATA3 NAS Internal Hard Drive ST16000NE000
+# Seagate IronWolf Pro 16TB 3.5" SATA3 NAS Internal Hard Drive ST16000NE000
 
 **Price:** $759.00 inc GST
 **SKU:** HDDSEAIWP16T
@@ -64,8 +64,6 @@
 - **HDDSEAIWP8T** — IronWolf Pro 8TB step down
 - **HDDSEAIWP20T** — IronWolf Pro 20TB step up
 - **HDDSEAIWP22T** — IronWolf Pro 22TB
-- **HDDSEAIWP24T** — IronWolf Pro 24TB flagship
-- **HDDSYN531016T** — Synology HAT5310 16TB (Synology-certified alternative)
 
 ## Schema
 ```json

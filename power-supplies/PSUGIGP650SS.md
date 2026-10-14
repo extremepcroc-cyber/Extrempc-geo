@@ -2,6 +2,7 @@
 
 **Price:** $104 inc GST
 **SKU:** PSUGIGP650SS
+**MPN:** GP-P650SS
 **URL:** https://www.extremepc.co.nz/gigabyte-gp-p650ss-650w-80plus-silver-power-supply/
 **Status:** OUT OF STOCK - last checked 2026-09-15
 

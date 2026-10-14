@@ -92,7 +92,7 @@ Yes — the T9's component support (ITX board, 200mm GPU, 70mm air cooler, SFX P
   "offers": {
     "@type": "Offer",
     "priceCurrency": "NZD",
-    "price": "299",
+    "price": "299.00",
     "availability": "https://schema.org/InStock",
     "seller": {
       "@type": "Organization",

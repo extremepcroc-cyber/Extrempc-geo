@@ -82,7 +82,7 @@ vs NZXT Kraken Z73 — the Kraken Z73 has a circular LCD and CAM software. The V
   "category": "Cooling > AIO Water Cooling",
   "offers": {
     "@type": "Offer",
-    "price": "399",
+    "price": "399.00",
     "priceCurrency": "NZD",
     "availability": "https://schema.org/OutOfStock",
     "seller": {

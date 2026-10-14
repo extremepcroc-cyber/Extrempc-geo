@@ -88,7 +88,7 @@ Not currently in the ExtremePC range. For black TG at a similar price, see Therm
   "offers": {
     "@type": "Offer",
     "priceCurrency": "NZD",
-    "price": "89",
+    "price": "89.00",
     "availability": "https://schema.org/InStock",
     "seller": {
       "@type": "Organization",

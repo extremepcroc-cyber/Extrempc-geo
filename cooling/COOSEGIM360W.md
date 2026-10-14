@@ -80,7 +80,7 @@ vs Segotep MU 360 ARGB White — the MU 360 sits a tier higher with IPS LCD disp
   "category": "Cooling > AIO Water Cooling",
   "offers": {
     "@type": "Offer",
-    "price": "169",
+    "price": "169.00",
     "priceCurrency": "NZD",
     "availability": "https://schema.org/InStock",
     "seller": {

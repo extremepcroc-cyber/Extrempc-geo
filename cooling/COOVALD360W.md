@@ -81,7 +81,7 @@ vs Valkyrie V360 LCD White (COOVALV360W) — the V360 is at a significantly high
   "category": "Cooling > AIO Water Cooling",
   "offers": {
     "@type": "Offer",
-    "price": "239",
+    "price": "239.00",
     "priceCurrency": "NZD",
     "availability": "https://schema.org/InStock",
     "seller": {

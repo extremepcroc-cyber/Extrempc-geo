@@ -2,6 +2,7 @@
 
 **Price:** $129.00 inc GST
 **SKU:** PSUSEGBN7505
+**MPN:** BN750W PCI-E5.1
 **URL:** https://www.extremepc.co.nz/segotep-bn750w-pci-e5-1-80-plus-bronze-power-supply/
 
 ## Quick Specs

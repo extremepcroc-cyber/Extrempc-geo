@@ -2,6 +2,7 @@
 
 **Price:** $199.00 inc GST
 **SKU:** WEBLOGC925EB
+**MPN:** 960-001180
 **URL:** https://www.extremepc.co.nz/logitech-c925e-full-hd-usb-webcam-black/
 
 ## Quick Specs

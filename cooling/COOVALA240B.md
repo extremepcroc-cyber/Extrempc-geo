@@ -80,7 +80,7 @@ vs DeepCool LE240 V2 Black — same pricing with DeepCool's V2 pump revision. De
   "category": "Cooling > AIO Water Cooling",
   "offers": {
     "@type": "Offer",
-    "price": "129",
+    "price": "129.00",
     "priceCurrency": "NZD",
     "availability": "https://schema.org/InStock",
     "seller": {

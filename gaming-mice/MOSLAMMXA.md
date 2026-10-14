@@ -2,6 +2,8 @@
 
 **Price:** $229.00 inc GST
 **SKU:** MOSLAMMXA
+**MPN:** Maya X AIMLABS
+**URL:** https://www.extremepc.co.nz/lamzu-maya-x-wired-wireless-optical-gaming-mouse-aimlabs/
 **Stock:** 9 units in stock (Onehunga: 9)
 
 ## Quick Specs

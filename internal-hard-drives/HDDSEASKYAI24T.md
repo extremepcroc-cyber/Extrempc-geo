@@ -1,4 +1,4 @@
-﻿# Seagate SkyHawk AI 24TB 3.5" SATA3 Surveillance Internal Hard Drive ST24000VE002
+# Seagate SkyHawk AI 24TB 3.5" SATA3 Surveillance Internal Hard Drive ST24000VE002
 
 **Price:** $2369 inc GST
 **SKU:** HDDSEASKYAI24T
@@ -88,7 +88,6 @@
 - **HDDSEASKYAI18T** — SkyHawk AI 18TB step down
 - **HDDSEASKYAI8T** — SkyHawk AI 8TB entry AI surveillance
 - **HDDWDSPRO22T** — WD Purple PRO 22TB AI surveillance alternative
-- **HDDSEAIWP24T** — IronWolf Pro 24TB (NAS alternative at same capacity)
 
 ## Schema
 ```json

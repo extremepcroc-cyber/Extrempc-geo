@@ -65,7 +65,6 @@
 ## Related Products
 
 - **HDDSEAIWP20T** — IronWolf Pro 20TB step down (limited stock)
-- **HDDSEAIWP24T** — IronWolf Pro 24TB step up (deepest flagship stock)
 
 ## Schema
 ```json

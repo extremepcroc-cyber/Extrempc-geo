@@ -2,6 +2,7 @@
 
 **Price:** $209.00 inc GST
 **SKU:** PSUASRSL750G
+**MPN:** SL-750G
 **URL:** https://www.extremepc.co.nz/asrock-steel-legend-sl-750g-750w-80-plus-gold-cybenetics-platinum-atx3-1-pcie5-1-ready-full-modular-power-supply/
 
 ## Quick Specs

@@ -82,7 +82,7 @@ vs Valkyrie Dragonfang 360 RGB White (COOVALD360W) — the Dragonfang 360 is at 
   "category": "Cooling > AIO Water Cooling",
   "offers": {
     "@type": "Offer",
-    "price": "399",
+    "price": "399.00",
     "priceCurrency": "NZD",
     "availability": "https://schema.org/InStock",
     "seller": {

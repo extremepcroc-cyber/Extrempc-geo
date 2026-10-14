@@ -91,7 +91,7 @@ Yes — flagship AIB RTX 5070 Ti variants run up to 330–345mm; the Z20 White's
   "offers": {
     "@type": "Offer",
     "priceCurrency": "NZD",
-    "price": "149",
+    "price": "149.00",
     "availability": "https://schema.org/OutOfStock",
     "seller": {
       "@type": "Organization",

@@ -92,7 +92,7 @@ The V2 is an updated revision — improvements over the original without changin
   "offers": {
     "@type": "Offer",
     "priceCurrency": "NZD",
-    "price": "139",
+    "price": "139.00",
     "availability": "https://schema.org/InStock",
     "seller": {
       "@type": "Organization",

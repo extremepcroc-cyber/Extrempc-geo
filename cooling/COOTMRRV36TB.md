@@ -80,7 +80,7 @@ vs NZXT Kraken X73 RGB — the Kraken has a circular LCD pump display and CAM so
   "category": "Cooling > AIO Water Cooling",
   "offers": {
     "@type": "Offer",
-    "price": "429",
+    "price": "429.00",
     "priceCurrency": "NZD",
     "availability": "https://schema.org/InStock",
     "seller": {

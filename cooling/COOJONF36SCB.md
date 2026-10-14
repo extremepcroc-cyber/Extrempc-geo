@@ -82,7 +82,7 @@ vs ASRock Steel Legend 360 White — the Steel Legend is the budget option with 
   "category": "Cooling > AIO Water Cooling",
   "offers": {
     "@type": "Offer",
-    "price": "329",
+    "price": "329.00",
     "priceCurrency": "NZD",
     "availability": "https://schema.org/InStock",
     "seller": {

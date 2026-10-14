@@ -2,6 +2,7 @@
 
 **Price:** $89 inc GST
 **SKU:** WEBLOGB90B
+**MPN:** 960-001581
 **URL:** https://www.extremepc.co.nz/logitech-brio-90-full-hd-1080p-webcam-black/
 
 ## Quick Specs

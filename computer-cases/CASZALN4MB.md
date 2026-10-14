@@ -91,7 +91,7 @@ Both Zalman and Jonsbo are above-average for the $139 price tier. Jonsbo's D41 s
   "offers": {
     "@type": "Offer",
     "priceCurrency": "NZD",
-    "price": "139",
+    "price": "139.00",
     "availability": "https://schema.org/InStock",
     "seller": {
       "@type": "Organization",

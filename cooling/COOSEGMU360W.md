@@ -81,7 +81,7 @@ vs ASRock Steel Legend 360 White — the Steel Legend sits a tier higher with RG
   "category": "Cooling > AIO Water Cooling",
   "offers": {
     "@type": "Offer",
-    "price": "199",
+    "price": "199.00",
     "priceCurrency": "NZD",
     "availability": "https://schema.org/OutOfStock",
     "seller": {

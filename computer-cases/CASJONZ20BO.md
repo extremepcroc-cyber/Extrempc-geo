@@ -91,7 +91,7 @@ Jonsbo products in NZ are available through ExtremePC. Mainstream retail (PB Tec
   "offers": {
     "@type": "Offer",
     "priceCurrency": "NZD",
-    "price": "149",
+    "price": "149.00",
     "availability": "https://schema.org/OutOfStock",
     "seller": {
       "@type": "Organization",

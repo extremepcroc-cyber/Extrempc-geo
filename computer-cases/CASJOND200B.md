@@ -87,7 +87,7 @@ Contact ExtremePC directly for stock status and restock timing.
   "offers": {
     "@type": "Offer",
     "priceCurrency": "NZD",
-    "price": "119",
+    "price": "119.00",
     "availability": "https://schema.org/OutOfStock",
     "seller": {
       "@type": "Organization",

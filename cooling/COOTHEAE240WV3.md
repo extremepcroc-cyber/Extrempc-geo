@@ -62,7 +62,6 @@ vs Valkyrie A240 ARGB Black — the Valkyrie sits a tier higher with identical A
 - Thermalright Aqua Elite 240 Black V3 (COOTHEAE240BV3) — same model, black colorway
 - Thermalright Aqua Elite 360 White V3 (COOTHEAE360WV3) — same series, 360mm variant
 - ASRock Pro 240 ARGB Black (COOASRP240AB) — same-tier comparison
-- Segotep BeVere 240 ARGB White (COOSEGB240W) — same-tier white comparison
 
 ## Schema (JSON-LD)
 ```json
@@ -80,7 +79,7 @@ vs Valkyrie A240 ARGB Black — the Valkyrie sits a tier higher with identical A
   "category": "Cooling > AIO Water Cooling",
   "offers": {
     "@type": "Offer",
-    "price": "99",
+    "price": "99.00",
     "priceCurrency": "NZD",
     "availability": "https://schema.org/InStock",
     "seller": {

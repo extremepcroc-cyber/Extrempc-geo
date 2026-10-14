@@ -60,7 +60,6 @@ vs Valkyrie A240 ARGB Black — the Valkyrie is the budget option with standard 
 **Q: Is the 240mm enough or should I get 360mm?** — The 240mm is adequate for mid-range CPUs at stock clocks. If your case supports 360mm and you have a high-TDP CPU, the extra radiator area provides 3-5°C thermal headroom. For Ryzen 7 or below, the 240mm is sufficient.
 
 ## Related Products
-- Thermalright Frozen Warframe Pro 240 Black (COOTMRFWP240B) — same-tier 240mm step-up
 - Thermalright Aqua Elite 240 Black V3 (COOTHEAE240BV3) — budget 240mm
 - ASRock Pro 240 ARGB Black (COOASRP240AB) — same-tier comparison
 - Valkyrie A240 ARGB Black (COOVALA240B) — same-tier comparison

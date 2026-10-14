@@ -89,7 +89,7 @@ Typically no fans at this price tier. Budget for front 2× 120mm intake + 1× 12
   "offers": {
     "@type": "Offer",
     "priceCurrency": "NZD",
-    "price": "109",
+    "price": "109.00",
     "availability": "https://schema.org/InStock",
     "seller": {
       "@type": "Organization",

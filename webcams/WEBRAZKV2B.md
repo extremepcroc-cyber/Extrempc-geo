@@ -2,6 +2,7 @@
 
 **Price:** $299 inc GST
 **SKU:** WEBRAZKV2B
+**MPN:** RZ19-05370100-R3M1
 **URL:** https://www.extremepc.co.nz/razer-kiyo-v2-4k-30-fps-webcam-black/
 **Status:** OUT OF STOCK - last checked 2026-10-14
 

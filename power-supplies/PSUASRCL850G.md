@@ -2,6 +2,7 @@
 
 **Price:** $199 inc GST
 **SKU:** PSUASRCL850G
+**MPN:** CL-850G
 **URL:** https://www.extremepc.co.nz/asrock-challenger-cl-850g-850w-80-plus-gold-atx3-1-pcie5-1-ready-non-modular-power-supply/
 
 ## Quick Specs

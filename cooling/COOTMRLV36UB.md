@@ -80,7 +80,7 @@ vs Thermalright Rainbow Vision 360 Turbo Black — the Rainbow Vision sits a tie
   "category": "Cooling > AIO Water Cooling",
   "offers": {
     "@type": "Offer",
-    "price": "359",
+    "price": "359.00",
     "priceCurrency": "NZD",
     "availability": "https://schema.org/InStock",
     "seller": {

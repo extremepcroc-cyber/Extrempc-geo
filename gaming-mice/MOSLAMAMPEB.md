@@ -2,6 +2,8 @@
 
 **Price:** $199.00 inc GST
 **SKU:** MOSLAMAMPEB
+**MPN:** Atlantis Mini Pro Elegant Blue
+**URL:** https://www.extremepc.co.nz/lamzu-atlantis-mini-pro-wired-wireless-optical-gaming-mouse-elegant-blue/
 **Status:** OUT OF STOCK - last checked 2026-10-05
 **Stock:** 1 units in stock (Onehunga: 1)
 

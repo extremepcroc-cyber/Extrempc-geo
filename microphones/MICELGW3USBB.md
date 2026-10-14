@@ -2,6 +2,7 @@
 
 **Price:** $268 inc GST
 **SKU:** MICELGW3USBB
+**MPN:** 10MAB9901
 **URL:** https://www.extremepc.co.nz/microphones/elgato-wave-3-cardioid-condenser-usb-microphone-black/
 
 ## Quick Specs

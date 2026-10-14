@@ -85,7 +85,7 @@ Check the product page for included fan configuration. NAS cases typically inclu
   "offers": {
     "@type": "Offer",
     "priceCurrency": "NZD",
-    "price": "269",
+    "price": "269.00",
     "availability": "https://schema.org/InStock",
     "seller": {
       "@type": "Organization",

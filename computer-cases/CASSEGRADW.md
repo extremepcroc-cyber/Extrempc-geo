@@ -89,7 +89,7 @@ Typical M-ATX budget cases support ATX PSUs up to ~160mm length. Most standard A
   "offers": {
     "@type": "Offer",
     "priceCurrency": "NZD",
-    "price": "79",
+    "price": "79.00",
     "availability": "https://schema.org/OutOfStock",
     "seller": {
       "@type": "Organization",

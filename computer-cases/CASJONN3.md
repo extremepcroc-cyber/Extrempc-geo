@@ -89,7 +89,7 @@ Yes — the 2× 2.5" bays handle SSDs for OS/cache (TrueNAS boot drive, ZFS SLOG
   "offers": {
     "@type": "Offer",
     "priceCurrency": "NZD",
-    "price": "299",
+    "price": "299.00",
     "availability": "https://schema.org/InStock",
     "seller": {
       "@type": "Organization",

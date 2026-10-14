@@ -80,7 +80,7 @@ vs Jonsbo TF3-360SCB Black — the Jonsbo is the budget option with semi-rigid t
   "category": "Cooling > AIO Water Cooling",
   "offers": {
     "@type": "Offer",
-    "price": "409",
+    "price": "409.00",
     "priceCurrency": "NZD",
     "availability": "https://schema.org/InStock",
     "seller": {

@@ -118,7 +118,7 @@ def lint(path):
         if pr:
             if not re.fullmatch(r'\d+\.\d{2}', pr.group(1)):
                 add('R10', 'ERROR', f'Schema price not decimal string: {pr.group(1)}')
-            elif price_hdr is not None and int(float(pr.group(1))) != price_hdr:
+            elif price_hdr is not None and round(float(pr.group(1))) != price_hdr:
                 add('R10', 'ERROR', f'Schema price {pr.group(1)} != header ${price_hdr}')
         oos = re.search(r'^\*\*Status:\*\*\s*OUT OF STOCK', text, flags=re.M) is not None
         av = re.search(r'schema\.org/(\w+)', sch)

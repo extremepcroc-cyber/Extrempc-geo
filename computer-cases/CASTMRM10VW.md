@@ -90,7 +90,7 @@ Yes — same 3.5" IPS panel, same connectivity, same software support. The only 
   "offers": {
     "@type": "Offer",
     "priceCurrency": "NZD",
-    "price": "169",
+    "price": "169.00",
     "availability": "https://schema.org/InStock",
     "seller": {
       "@type": "Organization",

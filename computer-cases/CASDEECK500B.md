@@ -93,7 +93,7 @@ Deepcool typically includes standard (non-ARGB) 140mm fans in the CK500. For ARG
   "offers": {
     "@type": "Offer",
     "priceCurrency": "NZD",
-    "price": "179",
+    "price": "179.00",
     "availability": "https://schema.org/OutOfStock",
     "seller": {
       "@type": "Organization",

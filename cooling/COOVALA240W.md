@@ -81,7 +81,7 @@ vs Segotep BeVere 240 ARGB White (COOSEGBV240W) — same-tier Segotep AIO at a l
   "category": "Cooling > AIO Water Cooling",
   "offers": {
     "@type": "Offer",
-    "price": "139",
+    "price": "139.00",
     "priceCurrency": "NZD",
     "availability": "https://schema.org/InStock",
     "seller": {

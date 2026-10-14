@@ -90,7 +90,7 @@ Yes — white interior + ARGB fans + acrylic panel creates an effective RGB show
   "offers": {
     "@type": "Offer",
     "priceCurrency": "NZD",
-    "price": "89",
+    "price": "89.00",
     "availability": "https://schema.org/InStock",
     "seller": {
       "@type": "Organization",

@@ -89,7 +89,7 @@ NZXT H5 Flow White is a premium mid-range M-ATX case with superior cable routing
   "offers": {
     "@type": "Offer",
     "priceCurrency": "NZD",
-    "price": "129",
+    "price": "129.00",
     "availability": "https://schema.org/InStock",
     "seller": {
       "@type": "Organization",

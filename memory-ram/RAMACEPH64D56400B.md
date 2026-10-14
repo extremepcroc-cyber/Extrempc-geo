@@ -85,9 +85,7 @@
 - **RAMPREV32D56000C36RB** — Vesta II 32GB DDR5-6000 CL36 RGB (mainstream 32GB)
 - **RAMPREP32D56000C36B** — PALLAS II 32GB DDR5-6000 CL36 Black (non-RGB)
 - **RAMCRUCP6456** — Crucial Pro 64GB DDR5-5600 (non-RGB 64GB)
-- Recommended CPU pairing (AM5): AMD Ryzen 9 9900X (CPUAMD9900XOEM) / Ryzen 9 9950X (CPUAMD9950X)
 - Recommended motherboard pairing (AM5): ASUS TUF X870-PLUS WiFi or MSI X870 Tomahawk WiFi
-- Recommended CPU pairing (LGA1851): Intel Core Ultra 9 285K (CPUINT9285K)
 
 ## Schema
 ```json

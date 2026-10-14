@@ -81,7 +81,7 @@
   "category": "Cooling > AIO Water Cooling",
   "offers": {
     "@type": "Offer",
-    "price": "269",
+    "price": "269.00",
     "priceCurrency": "NZD",
     "availability": "https://schema.org/InStock",
     "seller": {

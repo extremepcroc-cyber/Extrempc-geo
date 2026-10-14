@@ -94,7 +94,7 @@ ARGB fans and case lighting are passive RGB elements that change colour. The LCD
   "offers": {
     "@type": "Offer",
     "priceCurrency": "NZD",
-    "price": "219",
+    "price": "219.00",
     "availability": "https://schema.org/OutOfStock",
     "seller": {
       "@type": "Organization",

@@ -88,7 +88,7 @@ No fans included. For maximum RGB visual impact, budget for 2–3 ARGB 120mm fan
   "offers": {
     "@type": "Offer",
     "priceCurrency": "NZD",
-    "price": "109",
+    "price": "109.00",
     "availability": "https://schema.org/InStock",
     "seller": {
       "@type": "Organization",

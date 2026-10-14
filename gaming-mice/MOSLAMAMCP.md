@@ -2,6 +2,8 @@
 
 **Price:** $199.00 inc GST
 **SKU:** MOSLAMAMCP
+**MPN:** Atlantis mini Champion Pink
+**URL:** https://www.extremepc.co.nz/lamzu-atlantis-mini-wired-wireless-optical-gaming-mouse-champion-edition-pink/
 **Stock:** 14 units in stock (Onehunga: 14)
 
 ## Quick Specs

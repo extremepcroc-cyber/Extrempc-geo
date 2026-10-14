@@ -88,7 +88,7 @@ Not currently stocked at ExtremePC. The N3 is available in Black only (CASJONN3)
   "offers": {
     "@type": "Offer",
     "priceCurrency": "NZD",
-    "price": "259",
+    "price": "259.00",
     "availability": "https://schema.org/InStock",
     "seller": {
       "@type": "Organization",

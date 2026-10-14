@@ -2,6 +2,7 @@
 
 **Price:** $189 inc GST
 **SKU:** WEBRAZKV2XB
+**MPN:** RZ19-05380100-R3M1
 **URL:** https://www.extremepc.co.nz/razer-kiyo-v2-x-fhd-1080p-60-fps-webcam-black/
 
 ## Quick Specs

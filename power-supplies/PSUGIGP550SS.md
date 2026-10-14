@@ -2,6 +2,7 @@
 
 **Price:** $89 inc GST
 **SKU:** PSUGIGP550SS
+**MPN:** GP-P550SS
 **URL:** https://www.extremepc.co.nz/gigabyte-p550ss-550w-80-silver-atx-3-0-power-supply/
 
 ## Quick Specs

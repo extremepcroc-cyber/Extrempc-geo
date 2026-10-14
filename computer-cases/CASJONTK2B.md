@@ -92,7 +92,7 @@ Check extremepc.co.nz for current colour availability. At time of writing, TK-2 
   "offers": {
     "@type": "Offer",
     "priceCurrency": "NZD",
-    "price": "229",
+    "price": "229.00",
     "availability": "https://schema.org/OutOfStock",
     "seller": {
       "@type": "Organization",

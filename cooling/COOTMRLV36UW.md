@@ -61,7 +61,6 @@ vs Thermalright Rainbow Vision 360 Turbo White — the Rainbow Vision sits a tie
 ## Related Products
 - Thermalright Levita Vision 360 UB Black (COOTMRLV36UB) — same model, black colorway
 - Thermalright Frozen Warframe Pro 360 White (COOTMRFWP360W) — mid-tier white 360mm
-- Thermalright Rainbow Vision 360 Turbo White (COOTMRRV36TW) — flagship white 360mm
 - Valkyrie V360 LCD Black (COOVALV360B) — premium LCD comparison
 
 ## Schema (JSON-LD)

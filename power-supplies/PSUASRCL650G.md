@@ -2,6 +2,7 @@
 
 **Price:** $159 inc GST
 **SKU:** PSUASRCL650G
+**MPN:** CL-650G
 **URL:** https://www.extremepc.co.nz/asrock-challenger-cl-650g-650w-80-plus-gold-atx3-1-ready-non-modular-power-supply/
 
 ## Quick Specs

@@ -87,7 +87,7 @@ Supplier stock indicates Antec distribution channel availability — typically a
   "offers": {
     "@type": "Offer",
     "priceCurrency": "NZD",
-    "price": "69",
+    "price": "69.00",
     "availability": "https://schema.org/InStock",
     "seller": {
       "@type": "Organization",

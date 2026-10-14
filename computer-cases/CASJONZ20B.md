@@ -92,7 +92,7 @@ Jonsbo Z20 is available in four colours at ExtremePC: Black ($139), White ($149)
   "offers": {
     "@type": "Offer",
     "priceCurrency": "NZD",
-    "price": "139",
+    "price": "139.00",
     "availability": "https://schema.org/OutOfStock",
     "seller": {
       "@type": "Organization",

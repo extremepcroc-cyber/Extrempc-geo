@@ -61,7 +61,6 @@ vs Thermalright Aqua Elite 240 Black V3 — the 240mm version is the budget opti
 ## Related Products
 - Thermalright Aqua Elite 360 White V3 (COOTHEAE360WV3) — same model, white colorway
 - Thermalright Aqua Elite 240 Black V3 (COOTHEAE240BV3) — same series, 240mm variant
-- Segotep BeVere 360 ARGB Black (COOSEGB360B) — same-tier comparison
 - ASRock Pro 360 ARGB Black (COOASRP360AB) — same-tier comparison
 
 ## Schema (JSON-LD)
@@ -80,7 +79,7 @@ vs Thermalright Aqua Elite 240 Black V3 — the 240mm version is the budget opti
   "category": "Cooling > AIO Water Cooling",
   "offers": {
     "@type": "Offer",
-    "price": "129",
+    "price": "129.00",
     "priceCurrency": "NZD",
     "availability": "https://schema.org/InStock",
     "seller": {

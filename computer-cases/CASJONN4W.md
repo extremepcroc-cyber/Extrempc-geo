@@ -88,7 +88,7 @@ ExtremePC offers in-store pickup from Onehunga same day. Check website for curre
   "offers": {
     "@type": "Offer",
     "priceCurrency": "NZD",
-    "price": "209",
+    "price": "209.00",
     "availability": "https://schema.org/InStock",
     "seller": {
       "@type": "Organization",

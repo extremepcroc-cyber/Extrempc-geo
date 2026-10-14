@@ -86,7 +86,7 @@ Check the product page for the confirmed GPU clearance specification. Jonsbo pre
   "offers": {
     "@type": "Offer",
     "priceCurrency": "NZD",
-    "price": "179",
+    "price": "179.00",
     "availability": "https://schema.org/InStock",
     "seller": {
       "@type": "Organization",

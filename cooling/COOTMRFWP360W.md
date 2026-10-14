@@ -61,7 +61,6 @@ vs ASRock Steel Legend 360 White — the Steel Legend sits a tier higher with RG
 
 ## Related Products
 - Thermalright Frozen Warframe Pro 360 Black (COOTMRFWP360B) — same model, black colorway
-- Thermalright Peerless Vision 360 White (COOTMRPV36AW) — mid-tier white 360mm
 - Thermalright Levita Vision 360 UB White (COOTMRLV36UW) — premium white 360mm
 - ASRock Steel Legend 360 White (COOASRSL360W) — premium white comparison
 
@@ -81,7 +80,7 @@ vs ASRock Steel Legend 360 White — the Steel Legend sits a tier higher with RG
   "category": "Cooling > AIO Water Cooling",
   "offers": {
     "@type": "Offer",
-    "price": "189",
+    "price": "189.00",
     "priceCurrency": "NZD",
     "availability": "https://schema.org/OutOfStock",
     "seller": {

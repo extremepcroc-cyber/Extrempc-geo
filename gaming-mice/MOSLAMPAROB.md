@@ -2,6 +2,8 @@
 
 **Price:** $249.00 inc GST
 **SKU:** MOSLAMPAROB
+**MPN:** PARO Charcoal Black
+**URL:** https://www.extremepc.co.nz/lamzu-paro-wireless-optical-gaming-mouse-charcoal-black/
 **Stock:** 14 units in stock (Onehunga: 14)
 
 ## Quick Specs

@@ -90,7 +90,7 @@ Yes — the same 3× 120mm ARGB fans are included in both Vision and standard TL
   "offers": {
     "@type": "Offer",
     "priceCurrency": "NZD",
-    "price": "199",
+    "price": "199.00",
     "availability": "https://schema.org/InStock",
     "seller": {
       "@type": "Organization",

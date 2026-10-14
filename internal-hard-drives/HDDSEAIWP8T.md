@@ -1,4 +1,4 @@
-﻿# Seagate IronWolf Pro 8TB 3.5" SATA3 NAS Internal Hard Drive ST8000NE001
+# Seagate IronWolf Pro 8TB 3.5" SATA3 NAS Internal Hard Drive ST8000NE001
 
 **Price:** $989 inc GST
 **SKU:** HDDSEAIWP8T
@@ -75,7 +75,6 @@
 - **HDDSEAIW8TB** — IronWolf 8TB standard (home NAS, lower NZD)
 - **HDDSEAIWP16T** — IronWolf Pro 16TB (step up)
 - **HDDSEAIWP22T** — IronWolf Pro 22TB
-- **HDDSEAIWP24T** — IronWolf Pro 24TB flagship
 
 ## Schema
 ```json

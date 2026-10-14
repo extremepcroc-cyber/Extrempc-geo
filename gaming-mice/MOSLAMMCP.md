@@ -2,6 +2,8 @@
 
 **Price:** $229.00 inc GST
 **SKU:** MOSLAMMCP
+**MPN:** Maya Champion Pink
+**URL:** https://www.extremepc.co.nz/lamzu-maya-champion-wired-wireless-gaming-mouse-light-pink/
 **Stock:** 15 units in stock (Onehunga: 15)
 
 ## Quick Specs

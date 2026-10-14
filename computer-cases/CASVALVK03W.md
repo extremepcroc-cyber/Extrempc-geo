@@ -93,7 +93,7 @@ Yes — 165mm CPU clearance accommodates the Peerless Assassin 120 (155mm). A wh
   "offers": {
     "@type": "Offer",
     "priceCurrency": "NZD",
-    "price": "179",
+    "price": "179.00",
     "availability": "https://schema.org/OutOfStock",
     "seller": {
       "@type": "Organization",

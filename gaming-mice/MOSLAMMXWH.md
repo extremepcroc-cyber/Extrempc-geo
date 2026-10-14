@@ -2,6 +2,8 @@
 
 **Price:** $229.00 inc GST
 **SKU:** MOSLAMMXWH
+**MPN:** Maya X White
+**URL:** https://www.extremepc.co.nz/lamzu-maya-x-wired-wireless-optical-gaming-mouse-white/
 **Stock:** 10 units in stock (Onehunga: 10)
 
 ## Quick Specs

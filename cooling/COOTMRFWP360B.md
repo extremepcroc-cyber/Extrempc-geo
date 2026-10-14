@@ -80,7 +80,7 @@ vs Corsair H150i Elite LCD XT — Corsair's flagship 360mm AIO carries strong br
   "category": "Cooling > AIO Water Cooling",
   "offers": {
     "@type": "Offer",
-    "price": "189",
+    "price": "189.00",
     "priceCurrency": "NZD",
     "availability": "https://schema.org/InStock",
     "seller": {

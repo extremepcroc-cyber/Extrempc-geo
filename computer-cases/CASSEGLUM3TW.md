@@ -89,7 +89,7 @@ Curved glass (3S) tends to photograph more organically and is popular in social 
   "offers": {
     "@type": "Offer",
     "priceCurrency": "NZD",
-    "price": "109",
+    "price": "109.00",
     "availability": "https://schema.org/OutOfStock",
     "seller": {
       "@type": "Organization",

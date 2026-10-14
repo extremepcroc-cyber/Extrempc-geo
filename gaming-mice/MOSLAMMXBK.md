@@ -2,6 +2,8 @@
 
 **Price:** $229.00 inc GST
 **SKU:** MOSLAMMXBK
+**MPN:** Maya X Charcoal Black
+**URL:** https://www.extremepc.co.nz/lamzu-maya-x-wired-wireless-optical-gaming-mouse-charcoal-black/
 **Stock:** 6 units in stock (Onehunga: 6)
 
 ## Quick Specs

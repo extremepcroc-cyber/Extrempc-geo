@@ -64,7 +64,6 @@
 
 - **HDDSEAEX1816** — Exos X18 16TB step down
 - **HDDWDHC56020T** — WD Ultrastar HC560 20TB (equivalent, better stock)
-- **HDDSEAIWP24T** — IronWolf Pro 24TB (NAS alternative)
 
 ## Schema
 ```json

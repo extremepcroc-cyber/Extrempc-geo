@@ -2,6 +2,7 @@
 
 **Price:** $149 inc GST
 **SKU:** PSUSEGGM650WW
+**MPN:** GM650W White
 **URL:** https://www.extremepc.co.nz/segotep-gm-650w-80-plus-gold-full-modular-power-supply-white/
 
 ## Quick Specs

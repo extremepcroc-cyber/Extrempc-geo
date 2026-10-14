@@ -91,7 +91,7 @@ White and Orange/Black are also $149. Black is $10 less at $139. Internal specs 
   "offers": {
     "@type": "Offer",
     "priceCurrency": "NZD",
-    "price": "149",
+    "price": "149.00",
     "availability": "https://schema.org/OutOfStock",
     "seller": {
       "@type": "Organization",

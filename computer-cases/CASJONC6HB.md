@@ -90,7 +90,7 @@ The handle is top-centre mounted — the case balances when lifted if components
   "offers": {
     "@type": "Offer",
     "priceCurrency": "NZD",
-    "price": "79",
+    "price": "79.00",
     "availability": "https://schema.org/OutOfStock",
     "seller": {
       "@type": "Organization",

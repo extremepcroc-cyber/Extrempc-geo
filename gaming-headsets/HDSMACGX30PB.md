@@ -55,7 +55,6 @@ vs HyperX Cloud Stinger 2 Wireless — the Stinger 2 carries DTS Headphone:X cer
 - MCHOSE X9 Pro Wireless White (HDSMCHX9PW) — similar value wireless option
 - Razer BlackShark v2 X Wired (HDSRAZBSV2X) — wired Razer alternative
 - HyperX Cloud Stinger 2 Wireless (HDSHYPCS2) — DTS-certified wireless step-up
-- Machenike GX30 Pro Wireless White (HDSMACGX30PW) — same model, white colourway
 
 ## Schema (JSON-LD)
 ```json

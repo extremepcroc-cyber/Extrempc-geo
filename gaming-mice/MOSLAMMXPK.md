@@ -2,6 +2,8 @@
 
 **Price:** $229.00 inc GST
 **SKU:** MOSLAMMXPK
+**MPN:** Maya X Light Pink
+**URL:** https://www.extremepc.co.nz/lamzu-maya-x-wired-wireless-optical-gaming-mouse-pink/
 **Stock:** 11 units in stock (Onehunga: 11)
 
 ## Quick Specs

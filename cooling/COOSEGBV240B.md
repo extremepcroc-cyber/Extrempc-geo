@@ -79,7 +79,7 @@ vs Segotep BeVere 240 ARGB White — identical specs, the standard white premium
   "category": "Cooling > AIO Water Cooling",
   "offers": {
     "@type": "Offer",
-    "price": "119",
+    "price": "119.00",
     "priceCurrency": "NZD",
     "availability": "https://schema.org/InStock",
     "seller": {

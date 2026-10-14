@@ -88,7 +88,7 @@ Check the product page for confirmed GPU length specification. For maximum clear
   "offers": {
     "@type": "Offer",
     "priceCurrency": "NZD",
-    "price": "129",
+    "price": "129.00",
     "availability": "https://schema.org/InStock",
     "seller": {
       "@type": "Organization",

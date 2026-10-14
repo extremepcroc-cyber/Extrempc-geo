@@ -81,7 +81,7 @@ vs ASRock Challenger 360 Digital Black — the Challenger is the budget option w
   "category": "Cooling > AIO Water Cooling",
   "offers": {
     "@type": "Offer",
-    "price": "299",
+    "price": "299.00",
     "priceCurrency": "NZD",
     "availability": "https://schema.org/InStock",
     "seller": {

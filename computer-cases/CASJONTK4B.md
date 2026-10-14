@@ -92,7 +92,7 @@ Standard glass cleaner or water + soft microfibre cloth. The curved shape means 
   "offers": {
     "@type": "Offer",
     "priceCurrency": "NZD",
-    "price": "329",
+    "price": "329.00",
     "availability": "https://schema.org/InStock",
     "seller": {
       "@type": "Organization",

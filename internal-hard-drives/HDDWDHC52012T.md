@@ -73,7 +73,6 @@
 - **HDDWDHC56020T** — WD Ultrastar HC560 20TB step up
 - **HDDSEAEX1816** — Seagate Exos X18 16TB (enterprise alternative)
 - **HDDSEAEX2020** — Seagate Exos X20 20TB
-- **HDDSEAIWP24T** — IronWolf Pro 24TB (NAS alternative)
 
 ## Schema
 ```json

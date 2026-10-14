@@ -88,7 +88,7 @@ The Prime D's radiator mounting support at this price tier is typically limited 
   "offers": {
     "@type": "Offer",
     "priceCurrency": "NZD",
-    "price": "59",
+    "price": "59.00",
     "availability": "https://schema.org/InStock",
     "seller": {
       "@type": "Organization",

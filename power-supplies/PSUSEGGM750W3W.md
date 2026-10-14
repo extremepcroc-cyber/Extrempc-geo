@@ -2,6 +2,7 @@
 
 **Price:** $168.99 inc GST
 **SKU:** PSUSEGGM750W3W
+**MPN:** GM750W White ATX3.0
 **URL:** https://www.extremepc.co.nz/segotep-gm-750w-atx-3-0-80-plus-gold-full-modular-power-supply-white/
 
 ## Quick Specs

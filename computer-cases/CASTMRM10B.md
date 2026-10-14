@@ -89,7 +89,7 @@ At time of writing, yes — 1 unit at Onehunga. Check extremepc.co.nz for curren
   "offers": {
     "@type": "Offer",
     "priceCurrency": "NZD",
-    "price": "119",
+    "price": "119.00",
     "availability": "https://schema.org/InStock",
     "seller": {
       "@type": "Organization",

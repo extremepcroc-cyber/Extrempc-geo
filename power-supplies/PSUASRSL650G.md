@@ -2,6 +2,7 @@
 
 **Price:** $189.00 inc GST
 **SKU:** PSUASRSL650G
+**MPN:** SL-650G
 **URL:** https://www.extremepc.co.nz/asrock-steel-legend-sl-650g-650w-80-plus-gold-cybenetics-platinum-atx3-1-ready-full-modular-power-supply/
 
 ## Quick Specs

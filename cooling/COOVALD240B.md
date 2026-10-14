@@ -81,7 +81,7 @@ vs Segotep BeAced 360 ARGB Black (COOSEGBA360B) — the BeAced is a 360mm AIO at
   "category": "Cooling > AIO Water Cooling",
   "offers": {
     "@type": "Offer",
-    "price": "179",
+    "price": "179.00",
     "priceCurrency": "NZD",
     "availability": "https://schema.org/InStock",
     "seller": {

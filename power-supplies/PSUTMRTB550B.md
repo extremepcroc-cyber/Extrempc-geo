@@ -2,6 +2,7 @@
 
 **Price:** $89 inc GST
 **SKU:** PSUTMRTB550B
+**MPN:** TR-TB550S
 **URL:** https://www.extremepc.co.nz/thermalright-tb-550w-80-plus-bronze-non-modular-power-supply-black/
 
 ## Quick Specs

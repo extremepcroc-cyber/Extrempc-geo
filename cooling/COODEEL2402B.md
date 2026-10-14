@@ -80,7 +80,7 @@ vs Segotep BeVere 240 ARGB Black — the Segotep is the budget option. DeepCool 
   "category": "Cooling > AIO Water Cooling",
   "offers": {
     "@type": "Offer",
-    "price": "129",
+    "price": "129.00",
     "priceCurrency": "NZD",
     "availability": "https://schema.org/InStock",
     "seller": {

@@ -66,7 +66,6 @@
 
 - **HDDSEAEX2020** — Exos X20 20TB step up
 - **HDDWDHC52012T** — WD Ultrastar HC520 12TB (equivalent enterprise, more stock)
-- **HDDSEAIWP24T** — IronWolf Pro 24TB (NAS alternative)
 
 ## Schema
 ```json

@@ -80,7 +80,7 @@ vs air cooling alternative Thermalright Peerless Assassin 120 — the PA120 is a
   "category": "Cooling > AIO Water Cooling",
   "offers": {
     "@type": "Offer",
-    "price": "119",
+    "price": "119.00",
     "priceCurrency": "NZD",
     "availability": "https://schema.org/InStock",
     "seller": {

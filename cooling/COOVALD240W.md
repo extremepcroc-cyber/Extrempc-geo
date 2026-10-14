@@ -81,7 +81,7 @@ vs Jonsbo TH-240 ARGB White (COOJONTH240W) — the Jonsbo is at a lower NZD tier
   "category": "Cooling > AIO Water Cooling",
   "offers": {
     "@type": "Offer",
-    "price": "189",
+    "price": "189.00",
     "priceCurrency": "NZD",
     "availability": "https://schema.org/InStock",
     "seller": {

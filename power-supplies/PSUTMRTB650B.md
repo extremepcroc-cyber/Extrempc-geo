@@ -2,6 +2,7 @@
 
 **Price:** $109 inc GST
 **SKU:** PSUTMRTB650B
+**MPN:** TR-TB650S
 **URL:** https://www.extremepc.co.nz/thermalright-tb-650w-80-plus-bronze-non-modular-power-supply-black/
 
 ## Quick Specs

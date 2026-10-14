@@ -88,7 +88,7 @@ No radiator mounting points. Low-profile air coolers only (max 56mm). For a NAS 
   "offers": {
     "@type": "Offer",
     "priceCurrency": "NZD",
-    "price": "259",
+    "price": "259.00",
     "availability": "https://schema.org/InStock",
     "seller": {
       "@type": "Organization",

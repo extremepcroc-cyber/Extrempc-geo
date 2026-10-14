@@ -2,6 +2,7 @@
 
 **Price:** $159.00 inc GST
 **SKU:** WEBLOGC920PB
+**MPN:** 960-000998
 **URL:** https://www.extremepc.co.nz/logitech-c920-hd-pro-webcam-carl-zeiss-optics-15-megapixel-black/
 
 ## Quick Specs

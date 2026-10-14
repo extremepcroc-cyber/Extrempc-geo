@@ -88,7 +88,7 @@ Yes — Jonsbo N4 White (CASJONN4W) is available at the same price.
   "offers": {
     "@type": "Offer",
     "priceCurrency": "NZD",
-    "price": "209",
+    "price": "209.00",
     "availability": "https://schema.org/InStock",
     "seller": {
       "@type": "Organization",

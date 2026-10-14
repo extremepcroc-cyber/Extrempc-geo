@@ -92,7 +92,7 @@ Lian Li is widely regarded as the benchmark for premium case build quality. Pane
   "offers": {
     "@type": "Offer",
     "priceCurrency": "NZD",
-    "price": "249",
+    "price": "249.00",
     "availability": "https://schema.org/InStock",
     "seller": {
       "@type": "Organization",

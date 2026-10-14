@@ -89,7 +89,7 @@ Yes — 155mm is the maximum, so a 155mm cooler fits exactly. Leave 5mm buffer i
   "offers": {
     "@type": "Offer",
     "priceCurrency": "NZD",
-    "price": "89",
+    "price": "89.00",
     "availability": "https://schema.org/InStock",
     "seller": {
       "@type": "Organization",

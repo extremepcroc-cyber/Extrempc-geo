@@ -2,6 +2,8 @@
 
 **Price:** $199.00 inc GST
 **SKU:** MOSLAMTWH
+**MPN:** Thorn White
+**URL:** https://www.extremepc.co.nz/lamzu-thorn-wireless-optical-gaming-mouse-white/
 **Stock:** 18 units in stock (Onehunga: 18)
 
 ## Quick Specs

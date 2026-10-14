@@ -1,4 +1,4 @@
-﻿# WD Ultrastar DC HC560 20TB 3.5" SATA3 Enterprise Hard Drive WUH722020ALE6L4
+# WD Ultrastar DC HC560 20TB 3.5" SATA3 Enterprise Hard Drive WUH722020ALE6L4
 
 **Price:** $2611 inc GST
 **SKU:** HDDWDHC56020T
@@ -77,7 +77,6 @@
 
 - **HDDWDHC52012T** — WD Ultrastar HC520 12TB step down
 - **HDDSEAEX2020** — Seagate Exos X20 20TB (enterprise alternative)
-- **HDDSEAIWP24T** — IronWolf Pro 24TB (NAS alternative)
 
 ## Schema
 ```json

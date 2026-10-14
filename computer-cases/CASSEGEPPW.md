@@ -90,7 +90,7 @@ Full EATX tower dimensions may exceed standard rack shelf cutouts designed for m
   "offers": {
     "@type": "Offer",
     "priceCurrency": "NZD",
-    "price": "115",
+    "price": "115.00",
     "availability": "https://schema.org/InStock",
     "seller": {
       "@type": "Organization",
