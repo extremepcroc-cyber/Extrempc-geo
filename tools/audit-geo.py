@@ -353,7 +353,7 @@ for geo in geo_records:
     geo_price = geo["price_nzd"]
     geo_url   = geo["url"] or ""
 
-    price_changed = geo_price is not None and abs(bc_price_nzd - geo_price) > 0.05
+    price_changed = geo_price is not None and abs(round(bc_price_nzd) - geo_price) > 0.5
     needs_oos     = oh == 0 and not geo["already_oos"]
     back_in_stock = oh > 0 and geo["already_oos"]
     url_changed   = (
