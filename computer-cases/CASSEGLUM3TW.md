@@ -24,8 +24,6 @@
 
 - **White interior amplifies RGB component lighting through the glass.** White panels inside the Lumi 3T reflect and diffuse addressable RGB light more effectively than black-interior cases. An ARGB cooler or illuminated RAM kit produces a noticeably warmer, more ambient glow when surrounded by white surfaces.
 
-- **$109 for panoramic glass M-ATX in white — flat joint style for builders who prefer geometric aesthetics.** Same price as the 3S, same internal specs — the choice is purely about which glass joint geometry matches the builder's vision for their setup.
-
 ## Ideal For
 
 - **RGB showcase builds with geometric / angular aesthetic preferences** — builders drawn to clean lines, sharp angles, and defined structure rather than smooth curves. The 3T's flat joint glass reads as more minimal and precise.
@@ -38,7 +36,6 @@
 
 ## Why Buy From ExtremePC
 
-- **Panoramic flat-joint glass M-ATX in white with NZ local warranty at $109** — same exclusive distribution as all Segotep NZ stock through ExtremePC.
 - **4 units in Onehunga** — limited stock; contact ExtremePC to confirm before visiting.
 - **1-year NZ Consumer Guarantees Act warranty** — locally enforceable through ExtremePC.
 
@@ -46,9 +43,7 @@
 
 - **vs Segotep Lumi 3S White (same price):** Internal specs are identical. The only difference is glass geometry — 3S uses curved joints for a flowing aesthetic; 3T uses flat joints for an angular geometric aesthetic. Same price, same internal spec, different visual personality. Choose based on design preference.
 
-- **vs Segotep Nexus PX White:** Nexus PX White adds 165mm CPU clearance, 340mm GPU, and confirmed 240mm AIO support for $20 more, with standard single-side TG. For performance-focused white builds, Nexus PX White is the better investment. For showcase builds where top glass visibility is the feature, Lumi 3T at $109 wins.
-
-- **vs Thermalright TL-M10 White:** TL-M10 includes ARGB fans and 165mm cooler clearance for $20 more, standard single-side TG only. Lumi 3T at $109 trades included fans and 10mm extra clearance for top-panel glass visibility. If the top glass is important, save $20 with 3T and add fans separately.
+- **vs Segotep Nexus PX White:** For performance-focused white builds, Nexus PX White is the better investment.
 
 ## FAQ
 

@@ -20,8 +20,6 @@
 
 ## Selling Points
 
-- **3× ARGB fans included + RGB controller at $139 — the most immediate ARGB value of any ATX case at ExtremePC.** The I3 Neo includes three 120mm ARGB fans pre-installed and an RGB controller hub. The controller means ARGB fans function and display lighting even on motherboards without a 5V ARGB header — covering budget B650/H610/B760 boards where ARGB headers may be absent or already occupied. Three ARGB fans purchased separately at ExtremePC cost $45–$75; the I3 Neo includes them in the case price.
-
 - **Full-height tempered glass side panel for maximum component visibility.** The I3 Neo's TG panel runs the full height of the case interior — no metal strip at the top or bottom interrupting the view. For ARGB showcase builds, full-height TG provides unobstructed sightlines from RAM and motherboard down to the GPU and PSU shroud.
 
 - **24 units in Onehunga — the highest-stocked individual case in the ExtremePC mid-tower range.** The I3 Neo's volume stocking level reflects consistent demand as a proven entry-tier ATX ARGB case. Immediate availability for same-day pickup without stock risk.
@@ -46,11 +44,11 @@
 
 ## Comparison
 
-- **vs Zalman N7 Plus V2 (same price):** N7 Plus V2 adds USB-C and 360mm front radiator support at the same $139. Both include ARGB fans. If AIO cooling (360mm) or USB-C is planned, N7 Plus V2 is the better choice at the same price. I3 Neo is for air-cooled builds with smaller AIO (240mm max) where USB-C isn't needed.
+- **vs Zalman N7 Plus V2 (same price):** Both include ARGB fans. If AIO cooling (360mm) or USB-C is planned, N7 Plus V2 is the better choice at the same price. I3 Neo is for air-cooled builds with smaller AIO (240mm max) where USB-C isn't needed.
 
-- **vs Zalman N4 Rev.1 (same price):** N4 Rev.1 adds 380mm GPU clearance and 3× 3.5" HDD bays at the same $139, also with ARGB fans. N4 Rev.1 wins on GPU clearance and storage. I3 Neo has the highest Onehunga stock (24 units vs 9) for immediate availability.
+- **vs Zalman N4 Rev.1 (same price):** N4 Rev.1 wins on GPU clearance and storage. I3 Neo has the highest Onehunga stock (24 units vs 9) for immediate availability.
 
-- **vs Jonsbo D41 Mesh Black:** D41 Mesh is $20 less with 400mm GPU clearance and mesh front — better airflow and longer GPU support, but no included fans. If fans are being purchased anyway, D41 Mesh + fans is better value. If included fans and zero extra purchases matter, I3 Neo at $139 is simpler.
+- **vs Jonsbo D41 Mesh Black:** If fans are being purchased anyway, D41 Mesh + fans is better value.
 
 ## FAQ
 
@@ -58,10 +56,10 @@
 Yes — the included RGB controller powers and controls the ARGB fans independently. It typically connects to a SATA power connector and has a physical button for switching lighting modes. No motherboard ARGB header required.
 
 **Q: Can I upgrade to a 360mm AIO later?**
-The I3 Neo supports 240mm front and 240mm top radiators. A 360mm AIO will not fit — if 360mm AIO is planned, choose the Zalman N7 Plus V2 at the same $139 price.
+The I3 Neo supports 240mm front and 240mm top radiators.
 
 **Q: Is there a white version?**
-Not currently in the ExtremePC range. For white ATX at $139, no option exists — the nearest white cases are Segotep LUX 360 (acrylic) or Valkyrie VK03 Lite White (TG).
+Not currently in the ExtremePC range.
 
 **Q: What GPU length is supported?**
 Up to 350mm — covers most mid-range and upper-mid GPUs. RTX 4070 Super standard AIBs (280–320mm), RTX 5070 (standard AIBs 270–310mm) all fit. Longer flagship AIBs (330–380mm RTX 5080) may exceed the 350mm limit — check your specific GPU length.

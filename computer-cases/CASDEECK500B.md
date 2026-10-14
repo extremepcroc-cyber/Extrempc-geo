@@ -24,9 +24,9 @@
 
 - **Dual-sided tempered glass — front panel AND side panel are both glass, creating 270° interior visibility.** The CK500's defining feature is a tempered glass front panel in addition to the standard glass side panel. Looking at the case from the front, a front-mounted AIO radiator and its fans are visible through the glass rather than hidden behind a steel or mesh panel. From the side, the full interior is visible through the side panel. The combined effect is a case that shows the build from two angles simultaneously — a different showcase aesthetic from top-glass Sea View cases, achieved through glass front rather than glass top.
 
-- **USB-C 3.2 Gen2 at 10Gbps front I/O — faster than most competitors at this price.** Most $179 ATX cases include USB-C 3.2 Gen1 (5Gbps). The CK500 specifies Gen2 at 10Gbps — double the transfer rate for external SSDs, USB-C hubs, and high-speed peripherals. For content creator workstations where external drives are used daily, 10Gbps vs 5Gbps is a meaningful speed difference.
+- **USB-C 3.2 Gen2 at 10Gbps front I/O — faster than most competitors at this price.** The CK500 specifies Gen2 at 10Gbps — double the transfer rate for external SSDs, USB-C hubs, and high-speed peripherals. For content creator workstations where external drives are used daily, 10Gbps vs 5Gbps is a meaningful speed difference.
 
-- **3× 140mm fans included — larger fan diameter than the standard 120mm bundled fans.** 140mm fans move more air at lower RPM than 120mm fans, producing equivalent or superior cooling with less noise. Three 140mm fans included (typically front × 2 + rear × 1) at $179 is above the norm for included fan specifications at this price.
+- **3× 140mm fans included — larger fan diameter than the standard 120mm bundled fans.** 140mm fans move more air at lower RPM than 120mm fans, producing equivalent or superior cooling with less noise.
 
 - **4× 2.5" drive bays — highest 2.5" capacity in the ExtremePC mid-tower range at this tier.** For NVMe users who still maintain SSD storage (SATA SSDs for game library, media, or secondary OS), 4× 2.5" bays provides expansion space that 2-bay cases don't. NVMe M.2 drives from the motherboard plus 4× 2.5" SATA SSDs internally creates a high-capacity storage configuration in a mid-tower footprint.
 
@@ -42,17 +42,16 @@
 
 ## Why Buy From ExtremePC
 
-- **Glass front panel + USB-C 10Gbps + 3× 140mm fans at $179** — specification combination not found in competing cases at this price in NZ.
 - **3 units in Onehunga** — contact ExtremePC to confirm before visiting.
 - **Deepcool warranty** through ExtremePC with NZ Consumer Guarantees Act coverage.
 
 ## Comparison
 
-- **vs Jonsbo D41 STD Black:** D41 STD is $30 less with 400mm GPU (vs 380mm for CK500) and solid/mesh front options. CK500 adds glass front, 10Gbps USB-C, and 140mm fans. For glass-front showcase, CK500 is the choice; for maximum GPU clearance, D41 STD at $149.
+- **vs Jonsbo D41 STD Black:** CK500 adds glass front, 10Gbps USB-C, and 140mm fans.
 
-- **vs Valkyrie VK03 Lite White (same price):** Both are $179. CK500 is black with glass front; VK03 Lite is white with mesh front. CK500 has 4× 2.5" bays and 10Gbps USB-C; VK03 Lite is white. Colour preference drives the decision.
+- **vs Valkyrie VK03 Lite White (same price):** CK500 is black with glass front; VK03 Lite is white with mesh front. CK500 has 4× 2.5" bays and 10Gbps USB-C; VK03 Lite is white. Colour preference drives the decision.
 
-- **vs Jonsbo TK-2 Black:** TK-2 steps up to hyperboloid (curved convex) glass for $50 more — a fundamentally different glass aesthetic. CK500 at $179 is flat TG on front and side; TK-2 is curved. For curved glass, pay the TK-2 premium. For flat dual-glass at a lower price, CK500.
+- **vs Jonsbo TK-2 Black:** For curved glass, pay the TK-2 premium. For flat dual-glass at a lower price, CK500.
 
 ## FAQ
 

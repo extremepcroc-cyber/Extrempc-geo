@@ -19,13 +19,11 @@
 
 ## Selling Points
 
-- **White LCD case — $30 less than the black Vision, the most cost-accessible entry to Thermalright's front-panel display feature.** At $169, the TL-M10 Vision White is $30 cheaper than the Vision Black with identical specifications including the 3.5" IPS LCD, 3× ARGB fans, and 4mm TG. For white build enthusiasts who also want the front display, this is a significant saving: same feature, same performance, less cost, different colour.
-
-- **3.5" IPS LCD front panel with 3× ARGB fans in a white M-ATX case — a combination that doesn't exist elsewhere in the NZ market at this tier.** White cases with integrated front-panel LCD displays are uncommon. Lian Li's O11 Vision with display is ATX and positioned at a higher price bracket. The TL-M10 Vision White at $169 is the accessible entry to white LCD case aesthetics with local NZ stock.
+- **3.5" IPS LCD front panel with 3× ARGB fans in a white M-ATX case — a combination that doesn't exist elsewhere in the NZ market at this tier.** White cases with integrated front-panel LCD displays are uncommon. Lian Li's O11 Vision with display is ATX and positioned at a higher price bracket.
 
 - **22 units at Onehunga — reliable stock depth for a premium feature product.** High stock in a mid-premium product suggests strong and consistent demand. Builders don't need to rush a decision or compromise on colour.
 
-- **All the features of TL-M10 White plus the LCD.** The Vision White carries the complete standard TL-M10 White specification — 3× ARGB fans, 4mm TG, 165mm CPU clearance, 330mm GPU, USB-C — and adds the LCD as the single upgrade. If the standard TL-M10 White was already appealing, the Vision White is the version with the display for $40 more.
+- **All the features of TL-M10 White plus the LCD.** The Vision White carries the complete standard TL-M10 White specification — 3× ARGB fans, 4mm TG, 165mm CPU clearance, 330mm GPU, USB-C — and adds the LCD as the single upgrade.
 
 ## Ideal For
 
@@ -35,21 +33,18 @@
 
 - **System monitoring enthusiasts who want white** — real-time CPU/GPU/RAM stats on the front panel without needing a secondary monitoring device.
 
-- **Builders comparing Vision Black vs Vision White** — for white colour preference or when $30 in savings (Vision White $169 vs Vision Black $199) matters, Vision White is the rational pick.
-
 ## Why Buy From ExtremePC
 
 - **22 units in Onehunga — one of the largest stock counts in the Micro Tower premium tier.** Reliable availability without waitlisting.
-- **Best price for Thermalright LCD case in white** — Vision White at $169 is the lowest price for a Thermalright Vision-series case in NZ stock.
 - **Complete bundle**: LCD screen + 3 ARGB fans + 4mm TG + case, one purchase, one warranty, one receipt.
 
 ## Comparison
 
-- **vs Thermalright TL-M10 Vision Black:** Identical specs — same LCD, same fans, same glass thickness, same clearances. Vision White is $30 less. White is the cheaper option in the Vision lineup — unusual, worth noting. Unless black is a firm requirement, Vision White is the better value.
+- **vs Thermalright TL-M10 Vision Black:** Identical specs — same LCD, same fans, same glass thickness, same clearances. White is the cheaper option in the Vision lineup — unusual, worth noting. Unless black is a firm requirement, Vision White is the better value.
 
-- **vs Thermalright TL-M10 White:** Standard TL-M10 White has same internal specs (fans, glass, clearances) without the LCD for $40 less. If the front display isn't a priority feature, standard TL-M10 White saves $40. Vision White is the right choice specifically when the LCD is the desired feature.
+- **vs Thermalright TL-M10 White:** Vision White is the right choice specifically when the LCD is the desired feature.
 
-- **vs Segotep Nexus PX White:** Nexus PX White is $40 less, no LCD, no included fans, 340mm GPU clearance (vs 330mm). For a basic white TG case that needs longer GPU clearance, Nexus PX White is the leaner option. Vision White is the choice when the front display and included fans matter.
+- **vs Segotep Nexus PX White:** For a basic white TG case that needs longer GPU clearance, Nexus PX White is the leaner option. Vision White is the choice when the front display and included fans matter.
 
 ## FAQ
 
@@ -70,7 +65,6 @@ Yes — same 3.5" IPS panel, same connectivity, same software support. The only 
 
 ## Related Products
 
-- Thermalright TL-M10 Vision Black (CASTMRM10VB) — same LCD specs, black finish, $199
 - Thermalright TL-M10 White (CASTMRM10W) — same fans + glass, no LCD
 - Segotep Nexus PX White (CASSEGNPXW) — no fans, no LCD, 340mm GPU
 

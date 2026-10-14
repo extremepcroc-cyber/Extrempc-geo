@@ -20,8 +20,6 @@
 
 - **Jonsbo N-series NAS case design heritage — the N6 brings proven N-series features to a larger chassis.** The N-series is Jonsbo's flagship NAS case line, designed from the ground up for home NAS builds rather than adapted from gaming cases. Drive mounting, airflow routing for HDD longevity, and board layout are engineered for 24/7 storage operation. The N6 carries this heritage at the 6-bay level.
 
-- **$269 for 6-bay M-ATX NAS case with local NZ stock — 20 units available.** Comparable NAS enclosures from Synology or QNAP (proprietary hardware, software-locked) start at similar or higher prices without the build flexibility of a custom NAS. N6 at $269 is the chassis cost for a fully custom, OS-flexible, upgradeable NAS build with any M-ATX board, any CPU, and any storage mix.
-
 ## Ideal For
 
 - **Serious home NAS builders** using TrueNAS (ZFS), Unraid, or Open Media Vault with 6 HDDs in RAID or pool configurations. RAID-Z2 with 6 drives provides 4 drives of usable capacity with 2-drive fault tolerance.
@@ -40,11 +38,11 @@
 
 ## Comparison
 
-- **vs Jonsbo N4 Black:** N4 has 4 HDD bays in ITX/M-ATX, $60 less. N6 adds 2 more bays and M-ATX primary support for $60. If 4 bays are sufficient, N4 saves $60. If 6 bays or M-ATX PCIe expansion is required, N6 is the correct platform.
+- **vs Jonsbo N4 Black:** If 6 bays or M-ATX PCIe expansion is required, N6 is the correct platform.
 
-- **vs Antec VSK3000B-U3:** Antec provides 6 total drive bays (mix of 5.25" + 3.5") at $200 less but without NAS-specific design. N6 is purpose-engineered for 24/7 HDD operation; VSK3000B-U3 is a utility steel case adapted for storage. For a serious NAS OS build with long-term reliability, N6's NAS-specific design is worth the premium.
+- **vs Antec VSK3000B-U3:** N6 is purpose-engineered for 24/7 HDD operation; VSK3000B-U3 is a utility steel case adapted for storage. For a serious NAS OS build with long-term reliability, N6's NAS-specific design is worth the premium.
 
-- **vs Jonsbo N3 ITX:** N3 is 8-bay but ITX-only and $30 more. N6 at $269 is 6-bay with M-ATX support — if 8 bays and ITX constraint are acceptable, N3 is the maximum-density option. If M-ATX is required for PCIe expansion, N6 is the correct choice.
+- **vs Jonsbo N3 ITX:** If M-ATX is required for PCIe expansion, N6 is the correct choice.
 
 ## FAQ
 

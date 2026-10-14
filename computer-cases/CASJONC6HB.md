@@ -19,13 +19,9 @@
 
 ## Selling Points
 
-- **Integrated carry handle for M-ATX — rare at any price point, exceptional at $79.** Most M-ATX cases require buying a separate handle kit or improvising transport. The C6 Handle's top-mounted carry handle is a structural part of the chassis, not an afterthought — rated to support the fully-loaded case during transport. For LAN party regulars, students moving between home and halls of residence, or anyone who transports their PC more than once a year, this changes the practical usability of the machine entirely.
-
-- **Full mesh front panel delivers unrestricted airflow.** Tempered glass front panels look impressive but suffocate intake fans — mesh delivers the air where it needs to go. The C6 Handle's mesh front feeds front-mounted fans directly without obstruction, reducing temperatures and fan noise under load. For a $79 case, the thermal performance ceiling is set by the fans and cooler chosen, not by a restrictive front panel.
+- **Full mesh front panel delivers unrestricted airflow.** Tempered glass front panels look impressive but suffocate intake fans — mesh delivers the air where it needs to go. The C6 Handle's mesh front feeds front-mounted fans directly without obstruction, reducing temperatures and fan noise under load.
 
 - **160mm CPU cooler clearance — 5mm more than most budget cases.** 160mm covers a wide range of mid-size tower coolers including the Thermalright Assassin X 120 R SE, DeepCool AK400, and ID-Cooling SE-224-XT. Budget cases often cap at 155mm, forcing buyers toward specific cooler models. The C6's extra headroom adds flexibility without paying a premium for it.
-
-- **$79 with local Jonsbo warranty through ExtremePC's exclusive NZ distribution.** Jonsbo isn't available through mainstream NZ retailers — ExtremePC is the only source for local warranty on this brand. At $79, the C6 Handle is priced with budget cases but carries the ExtremePC support network behind it.
 
 ## Ideal For
 
@@ -45,11 +41,11 @@
 
 ## Comparison
 
-- **vs Segotep Prime D Black:** Prime D is $20 cheaper but solid steel front (no mesh), no carry handle, and 5mm less CPU cooler clearance. For stationary builds under a desk, Prime D saves money. For portable builds or airflow-priority builds, C6 Handle's $20 premium is clearly justified.
+- **vs Segotep Prime D Black:** For stationary builds under a desk, Prime D saves money.
 
 - **vs Segotep Radiant White (same price):** Radiant offers tempered glass + white finish but no handle, solid front, and less airflow. C6 Handle and Radiant are the same price targeting opposite priorities — portability/airflow vs aesthetics. Neither is objectively better; choose based on use case.
 
-- **vs Thermalright TL-M10 White:** TL-M10 adds 3× ARGB fans, 4mm TG, 165mm CPU clearance, and USB-C I/O for $50 more. Significant step up in features and finish. If budget allows and the build is stationary, TL-M10 is worth the premium. C6 Handle wins where portability or pure value matters.
+- **vs Thermalright TL-M10 White:** Significant step up in features and finish. If budget allows and the build is stationary, TL-M10 is worth the premium. C6 Handle wins where portability or pure value matters.
 
 ## FAQ
 
@@ -57,7 +53,7 @@
 The handle is designed for a fully-built M-ATX system including GPU, cooler, and drives. While no rated weight spec is published, the structural design supports typical gaming PC weights (5–8kg loaded). Avoid swinging or jerking — carry at walking pace.
 
 **Q: Does the mesh front require a dust filter?**
-A mesh front without a dust filter will accumulate dust faster than a filtered intake. Most C6 Handle builds benefit from a removable magnetic dust filter on the front — check if included or budget $5–$10 for an aftermarket filter.
+A mesh front without a dust filter will accumulate dust faster than a filtered intake.
 
 **Q: How many fans can I install?**
 Typical M-ATX mesh front supports 2× 120mm or 1× 240mm front, 1× 120mm rear, 1× 120mm top. Confirm specific mounting positions against the product page.

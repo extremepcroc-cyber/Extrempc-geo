@@ -36,7 +36,7 @@
 
 ## Why Buy From ExtremePC
 
-- **A white flagship board is worth seeing against your desk before you commit** — white cases read differently under warm and cool lighting, and this is a $389 board rather than a value-tier gamble. Razer is on display at Onehunga so the call is made in the room.
+- **A white flagship board is worth seeing against your desk before you commit** Razer is on display at Onehunga so the call is made in the room.
 - **Synapse setup at handover** — per-key actuation tuning, rapid trigger, and Chroma profiles are all configuration work. A flagship board left at defaults is money spent for nothing, and the team will set it up with you.
 - **Local service for the optical switch electronics** — the manufacturer warranty is handled through ExtremePC's Auckland service point. Domestic service is what makes a board at this price defensible.
 - **Someone will tell you honestly whether white is worth the upkeep on a competitive board** — white shows dust and hand oils and can yellow in a humid climate. They'll say so upfront rather than letting you find out.

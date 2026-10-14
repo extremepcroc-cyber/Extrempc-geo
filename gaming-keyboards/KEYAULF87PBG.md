@@ -35,7 +35,7 @@
 
 ## Why Buy From ExtremePC
 
-- **A budget board still gets a local warranty** — this is the cheapest way into AULA's TKL family, and the manufacturer warranty is still handled through ExtremePC's Auckland service point. On a sub-$100 keyboard, an overseas RMA is usually more than the board is worth; a local service point is what keeps it viable.
+- **A budget board still gets a local warranty** — this is the cheapest way into AULA's TKL family, and the manufacturer warranty is still handled through ExtremePC's Auckland service point.
 - **Test the Greywood switch at the counter before spending anything** — at this price the risk is buying a switch feel you don't like. Onehunga has the range on display, so you can compare the first-generation Greywood against the V2 revisions and the other AULA lines in one visit.
 - **Build Team can check whether you actually need the TKL layout** — if a 75% would suit the desk better, they'll say so rather than upselling the bigger board.
 - **Same-day Auckland pickup** — stock is on the shelf at Onehunga; nationwide dispatch is tracked and insured in 1–3 business days.

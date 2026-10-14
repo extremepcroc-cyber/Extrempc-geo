@@ -23,8 +23,6 @@
 
 - **Gray anodized aluminum — a colour that no other case in the ExtremePC range offers.** The BO400CG's gray is an anodized aluminum finish — the color is integral to the material, not painted over it. Anodized aluminum doesn't chip, peel, or fade the way paint does. Gray aluminum is the natural color of aluminum without added pigment — the BO400CG's color is a material truth rather than a design choice applied over steel. For builders whose desk aesthetic includes aluminum monitors, MacBook Pro, or natural material keyboards, gray aluminum is the coherent extension into the PC case.
 
-- **$579 positions the BO400CG as a multi-generational investment, not a component.** Steel cases are bought with a build and replaced with the next build. The BO400CG's aluminum construction — the same material in premium audio equipment, professional studio gear, and architectural hardware — has a service life measured in decades rather than PC generations. For a builder who has owned 4–5 steel cases over 10 years and wants to stop replacing the case every cycle, the BO400CG is the case bought once.
-
 - **Jonsbo precision manufacturing — CNC machining of aluminum frame components requires higher manufacturing investment than stamped steel.** The BO400 is Jonsbo demonstrating their top-tier manufacturing capability. Panel tolerances, frame alignment, and surface finishing on the BO400CG are above what any steel-frame case process can achieve at the same cost — because the production process for machined aluminum is fundamentally more precise.
 
 ## Ideal For
@@ -45,9 +43,7 @@
 
 ## Comparison
 
-- **vs Jonsbo TK-4 Black:** TK-4 delivers more showcase features (dual curved glass, 420mm GPU, ARGB fans, dual USB-C) for $250 less. BO400CG trades those visual showcase features for a fundamentally different material — aluminum vs steel frame. For design-showcase builds, TK-4 is more feature-rich at lower cost. For material quality and desk aesthetic, BO400CG is the different proposition entirely.
-
-- **vs Lian Li O11 Dynamic EVO ($400–$450 NZD range):** Lian Li O11 is a dual-chamber premium ATX case with excellent build quality less. O11 uses aluminum-accented steel, not aluminum frame. BO400CG at $579 has a true aluminum structure; O11 has Lian Li's premium steel construction. For premium case quality at lower cost, O11. For aluminum frame specifically, BO400CG.
+- **vs Jonsbo TK-4 Black:** BO400CG trades those visual showcase features for a fundamentally different material — aluminum vs steel frame. For design-showcase builds, TK-4 is more feature-rich at lower cost. For material quality and desk aesthetic, BO400CG is the different proposition entirely.
 
 - **vs premium audio/workstation case alternatives (Fractal Torrent, Define 7 XL):** Fractal Design cases are optimised for acoustics and clean cable management at lower prices. BO400CG is optimised for material quality and visual identity. Different purposes: Fractal for quiet workstations, BO400CG for material-conscious desk presence.
 
@@ -64,9 +60,6 @@ Yes — standard ATX motherboard, ATX PSU (bottom mounted), PCIe GPU. 380mm GPU 
 
 **Q: Can I remove the TG panels?**
 Tempered glass panels in the aluminum frame are typically removable for component installation, sitting in the frame channels. Check the product page for the specific glass mounting mechanism.
-
-**Q: Is the $579 price justified vs a $329 TK-4?**
-If visual showcase features (curved glass, dual-angle visibility, 420mm GPU) are the priority, TK-4 delivers more for $250 less. If material quality and desk aesthetic coherence (aluminum frame, gray color, long-term investment) are the priority, BO400CG is the correct product regardless of price comparison. These are different product categories serving different buyer motivations.
 
 ## Related Products
 

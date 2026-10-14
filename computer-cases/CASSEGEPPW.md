@@ -19,13 +19,7 @@
 
 ## Selling Points
 
-- **EATX motherboard support at $115 — a specification almost never found below the $200 NZD case tier.** Extended ATX (EATX) boards (up to 305×330mm) are used on high-end AMD Threadripper, Intel HEDT, and premium AM5/LGA1851 X-series motherboards. Cases that support EATX form factor typically start at $200–$250 in NZ. The Endura Pro+ White supports full EATX at $115 — a genuine specification outlier at this price. Builders planning an EATX board (ASRock W790, ASUS Pro WS, Supermicro workstation) can use this case without a $300+ enclosure.
-
-- **360mm front AND 360mm top radiator support at $115 in a white TG case.** Dual 360mm positions (front + top) is typically a mid-premium case feature. At $115, the Endura Pro+ White supports a 360mm front AIO and a separate 360mm top AIO simultaneously — useful for dual-loop cooling or a 360mm AIO plus top-mounted 120/140mm system fans. No white ATX case at ExtremePC at this price matches this radiator flexibility.
-
 - **400mm GPU clearance and 180mm CPU cooler clearance — full-size premium components fit without compatibility research.** 400mm accommodates RTX 5080 Founders Edition (336mm) and extended AIB variants; 180mm CPU clearance is above the 165mm standard, opening up large tower coolers like the Thermalright Assassin X 120 R SE (157mm), Noctua NH-D15 (165mm), and similar. The Endura Pro+ White's clearances are set to avoid being a constraint even for top-tier component selections.
-
-- **White TG full tower with 3× 3.5" bays and 4× 2.5" bays — storage-capable white build chassis at $115.** 7 total drive positions in a white TG case at this price is uncommon. For content creator workstations or gaming PCs with large local storage arrays, the Endura Pro+ White's drive bay count is a practical advantage over cases that offer 2× 3.5" + 2× 2.5".
 
 ## Ideal For
 
@@ -39,17 +33,16 @@
 
 ## Why Buy From ExtremePC
 
-- **EATX white TG full tower at $115 — only available through ExtremePC in NZ.** No mainstream NZ retailer stocks Segotep.
 - **7 units in Onehunga** — reliable stock for immediate pickup.
 - **Segotep warranty** through ExtremePC with NZ Consumer Guarantees Act coverage.
 
 ## Comparison
 
-- **vs Segotep LUX 360 White:** LUX 360 is $26 less with acrylic panel (not TG) and ATX support only (not EATX). Endura Pro+ White adds TG, EATX, 400mm GPU, 360mm top radiator, and more drive bays for $26 more. The step-up is clearly worth it for most builds.
+- **vs Segotep LUX 360 White:** The step-up is clearly worth it for most builds.
 
-- **vs Valkyrie VK03 Lite White:** VK03 Lite is $64 more — mesh front panel, 380mm GPU, ARGB fans, USB-C, TG. Endura Pro+ White's advantage is EATX support, 360mm top radiator, and 3× 3.5" HDD bays. Neither is strictly better — Endura Pro+ suits EATX and storage; VK03 Lite suits mid-range white gaming builds with ARGB aesthetic.
+- **vs Valkyrie VK03 Lite White:** Endura Pro+ White's advantage is EATX support, 360mm top radiator, and 3× 3.5" HDD bays. Neither is strictly better — Endura Pro+ suits EATX and storage; VK03 Lite suits mid-range white gaming builds with ARGB aesthetic.
 
-- **vs Zalman I3 Neo Black:** I3 Neo includes ARGB fans at $24 more but is black only and ATX-only. For builders committed to white, Endura Pro+ wins at $24 less. For black ARGB builds, I3 Neo.
+- **vs Zalman I3 Neo Black:** For black ARGB builds, I3 Neo.
 
 ## FAQ
 
@@ -57,7 +50,7 @@
 EATX (Extended ATX) is a larger motherboard form factor (up to 305×330mm vs standard ATX's 305×244mm). Most consumer boards (B650, Z890, X670E) are standard ATX. EATX is used on Threadripper, Intel HEDT, and high-end workstation boards. If your board is standard ATX, EATX support is not needed — but also doesn't cause any issues.
 
 **Q: Are fans included?**
-No fans at $115. Budget for 3× 120mm front intake + 3× 120mm top exhaust + 1× 120mm rear exhaust for optimal airflow in a full tower.
+Budget for 3× 120mm front intake + 3× 120mm top exhaust + 1× 120mm rear exhaust for optimal airflow in a full tower.
 
 **Q: Can this fit in a standard desk setup?**
 Full tower cases are taller than mid-towers — typically 500–550mm tall. Measure your desk clearance before purchasing. Under-desk placement may be more appropriate than on-desk.

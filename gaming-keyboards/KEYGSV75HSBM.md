@@ -57,9 +57,6 @@
 - **Q: Is it wired only?**
   A: Yes — USB-C wired. Wired removes the wireless variable entirely, which is standard for competitive magnetic boards. The GravaStar Mercury K1 Pro in the same series is the wireless option.
 
-- **Q: Is $349 justified over a cheaper magnetic board?**
-  A: Honestly, the functional difference between this and a value-tier magnetic TKL is smaller than the price difference — both give you rapid trigger and adjustable actuation. What the extra buys is the Gateron Jade Pro switch and the Mercury case. If neither matters to you, a cheaper board will do the same job, and the Build Team will say so.
-
 - **Q: Are the switches hot-swappable?**
   A: Yes — the sockets accept the standard switch families, so the Jade Pro can be swapped without soldering.
 

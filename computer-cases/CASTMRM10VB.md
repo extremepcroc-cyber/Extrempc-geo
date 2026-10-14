@@ -21,8 +21,6 @@
 
 - **3.5" IPS LCD front panel — display real-time system stats, custom GIFs, or brand imagery directly on the case exterior.** The TL-M10 Vision adds a 3.5" colour LCD screen to the front panel. Common use cases: CPU temperature, GPU load, clock speed readouts; animated GIFs; custom artwork; system monitoring dashboards. For builders whose PC is part of their desk aesthetic or streaming setup, the front display adds an active visual element that no passive tempered glass can match.
 
-- **3× ARGB fans + 4mm TG + LCD panel in one package at $199.** The Vision bundles everything from the standard TL-M10 Black and adds the LCD: three pre-installed ARGB fans, thick glass panel, 165mm cooler clearance. Alternative approaches to a front-panel display (dedicated monitor, desk widget) cost as much or more and take separate desk space. The Vision integrates the display into the case.
-
 - **165mm CPU clearance and 330mm GPU length — the same internal specs as the standard TL-M10.** The LCD panel addition doesn't change the interior. Thermalright flagship air coolers (Peerless Assassin 120 SE at 155mm, Assassin Spirit at 165mm) and mid-range GPUs up to 330mm fit identically.
 
 - **Front LCD differentiates a streaming or content creator setup visually without monitor or desk real estate cost.** Gaming YouTube, PC build videos, streaming setups — the TL-M10 Vision Black with an active front display is visually distinctive on camera in a way that standard black TG cases aren't.
@@ -45,9 +43,9 @@
 
 ## Comparison
 
-- **vs Thermalright TL-M10 Black:** Standard TL-M10 Black is $80 less with identical internal specs — same fans, glass, clearances — without the LCD display. If the LCD display isn't a feature the builder will actively use, standard TL-M10 Black is the rational choice. Vision Black is justified specifically when the front display is the reason to buy.
+- **vs Thermalright TL-M10 Black:** If the LCD display isn't a feature the builder will actively use, standard TL-M10 Black is the rational choice. Vision Black is justified specifically when the front display is the reason to buy.
 
-- **vs Thermalright TL-M10 Vision White:** Vision White is $30 less than Vision Black — unusual (white is usually the premium). Same specs including LCD, same fans. If colour is flexible, Vision White is the better value. If black specifically is required, Vision Black at $199 is the only option in this spec range.
+- **vs Thermalright TL-M10 Vision White:** Same specs including LCD, same fans. If colour is flexible, Vision White is the better value.
 
 - **vs Lian Li O11 Vision (ATX, higher tier):** Lian Li O11 Vision is a premium ATX full-build showcase case at a significantly higher price point with more advanced display integration. TL-M10 Vision Black is M-ATX form factor at half the price — for builders who need M-ATX or want an LCD case without the Lian Li premium.
 
@@ -59,9 +57,6 @@ Via USB header to the motherboard (typically USB 2.0 internal). Configuration so
 **Q: Can the LCD show custom images and animations?**
 Yes — the 3.5" IPS panel supports custom GIF uploads and static images. Monitoring overlays (temperature, clock speed) depend on the control software's integration with system sensor APIs.
 
-**Q: Why is Vision Black $30 more than Vision White?**
-Manufacturing cost and demand differences between colour finishes at Thermalright's production level. The white Vision at $169 represents a price anomaly where the non-standard colour is cheaper — unusual in this market segment.
-
 **Q: Does the LCD screen affect internal temperature?**
 The LCD is mounted externally on the front panel, not inside the case. No thermal impact on internal components.
 
@@ -70,7 +65,6 @@ Yes — the same 3× 120mm ARGB fans are included in both Vision and standard TL
 
 ## Related Products
 
-- Thermalright TL-M10 Vision White (CASTMRM10VW) — same LCD specs, white finish, $169
 - Thermalright TL-M10 Black (CASTMRM10B) — no LCD, same fans + glass
 - Thermalright TL-M10 White (CASTMRM10W) — no LCD, white finish
 

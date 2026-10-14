@@ -16,7 +16,7 @@
 
 ## Selling Points
 
-- **A premium magnetic board with no backlight — and that's a deliberate specification, not a stripped one** — at $399 a board that arrives without RGB is telling you where the money went: the Gateron Jade Pro switches and the case. For a competitive board that lives in a dark room, no backlight also means no ambient glow competing with the screen, which is a working preference rather than a compromise.
+- **A premium magnetic board with no backlight — and that's a deliberate specification, not a stripped one** For a competitive board that lives in a dark room, no backlight also means no ambient glow competing with the screen, which is a working preference rather than a compromise.
 
 - **Gateron Magnetic Jade Pro — a documented switch at its Pro revision** — this isn't an unbranded magnetic line. Gateron's Jade Pro has published characteristics, so you can compare actuation force and travel against your reference switch before buying, and at this price that matters more than at the entry tier.
 
@@ -37,7 +37,7 @@
 
 - **Rapid trigger has to be tuned to the game, and that's a counter job** — actuation depth and reset sensitivity are configuration work, not defaults. Someone sets it up with you at handover rather than pointing you at a firmware guide for a revision you may not have.
 - **All the Gateron magnetic revisions are on the same counter** — Jade Pro here, Jade on the Lamzu Jet75, Jade Esport Pro on the FGG MAD68 Pro. At this price the revision is the whole decision, and comparing them takes one visit rather than a return.
-- **Have the no-backlight specification confirmed before you commit** — if you assumed lighting came with a $399 board, that's worth verifying rather than discovering. The Build Team will confirm the specification and point you at a lit alternative if it matters.
+- **Have the no-backlight specification confirmed before you commit** The Build Team will confirm the specification and point you at a lit alternative if it matters.
 - **Local service for the magnetic switch electronics at the top tier** — the warranty runs through ExtremePC's Auckland service point. Sensor and firmware faults on a Gateron Jade Pro board are exactly the class of failure a local service point handles and an overseas seller can't.
 - **One to two units on the shelf — GST-inclusive with Afterpay** — low stock at Onehunga, so a call confirms what's physically there; the listed price is final and four instalments is available.
 

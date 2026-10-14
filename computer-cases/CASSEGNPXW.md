@@ -18,11 +18,9 @@
 
 ## Selling Points
 
-- **The most capable white M-ATX case in the Segotep NZ range — 165mm CPU clearance, 340mm GPU, 240mm AIO, USB-C, all in one chassis at $129.** This is the top of the Segotep white case lineup at ExtremePC. At $129, the Nexus PX White bundles specifications that typically require spending more on cases from Fractal or Lian Li: sub-$150 NZD for a white TG M-ATX case with confirmed 240mm AIO front mount, proper GPU length clearance, and USB-C front I/O.
-
 - **165mm CPU cooler clearance — fits the Thermalright Peerless Assassin 120 SE and similar flagship air coolers.** The Peerless Assassin 120 SE (155mm) fits with 10mm clearance; the Phantom Spirit 120 EVO (158mm) fits with 7mm margin. For builders pairing a white case with Thermalright's popular cooler lineup, the Nexus PX White has the clearance to accommodate flagship air coolers without interference.
 
-- **White finish is premium at this price tier.** White tempered glass cases in NZ from established brands (Fractal Define 7, Lian Li Lancool 216) sit at higher price points. The Nexus PX White delivers the white TG aesthetic at a sub-$130 NZD price with local stock — a gap that Segotep fills specifically because major brands price their white equivalents higher.
+- **White finish is premium at this price tier.** White tempered glass cases in NZ from established brands (Fractal Define 7, Lian Li Lancool 216) sit at higher price points.
 
 - **340mm GPU clearance future-proofs the build for mid-to-upper GPU upgrades.** A builder putting an RTX 4060 today may upgrade to an RTX 5070 or RX 9070 XT in two years — both of which run 290–330mm on standard AIB variants. The Nexus PX White's 340mm clearance accommodates that path without a case change.
 
@@ -38,22 +36,20 @@
 
 ## Why Buy From ExtremePC
 
-- **Top-spec white Segotep case in NZ with local warranty** — full specs (165mm/340mm/AIO/USB-C) in white at $129 is not available through mainstream NZ retail.
 - **6 units in Onehunga stock** — limited; confirm availability before visiting.
 - **1-year NZ warranty** through ExtremePC as exclusive NZ Segotep distributor.
 
 ## Comparison
 
-- **vs Segotep Nexus PX Black:** Identical internal specs. White costs $20 more — colour premium only. For white builds, the premium is straightforward. For black builds, save $20 with the Black variant.
+- **vs Segotep Nexus PX Black:** Identical internal specs. For white builds, the premium is straightforward.
 
-- **vs Thermalright TL-M10 White (same price):** Both are $129 white M-ATX TG cases. TL-M10 White includes 3× ARGB fans (worth) and 4mm TG vs standard thickness. Nexus PX White offers 340mm GPU (vs ~330mm for TL-M10) and confirmed 240mm front AIO position. For included fans, TL-M10 wins. For GPU clearance and AIO flexibility, Nexus PX is comparable. Both are strong options at the same price — choose based on whether included fans or GPU clearance matters more.
+- **vs Thermalright TL-M10 White (same price):** TL-M10 White includes 3× ARGB fans (worth) and 4mm TG vs standard thickness. Nexus PX White offers 340mm GPU (vs ~330mm for TL-M10) and confirmed 240mm front AIO position. For included fans, TL-M10 wins. For GPU clearance and AIO flexibility, Nexus PX is comparable. Both are strong options at the same price — choose based on whether included fans or GPU clearance matters more.
 
-- **vs Segotep Lumi 3S White:** Lumi 3S is $20 less with panoramic curved glass for a showcase aesthetic. Nexus PX White has better cooling specs (165mm vs 155mm, AIO support). For showcase builds where the visual is the priority, Lumi 3S. For performance-balanced white builds, Nexus PX.
+- **vs Segotep Lumi 3S White:** Nexus PX White has better cooling specs (165mm vs 155mm, AIO support). For showcase builds where the visual is the priority, Lumi 3S. For performance-balanced white builds, Nexus PX.
 
 ## FAQ
 
 **Q: Does the white version cost more than the black?**
-Yes — Nexus PX Black is $109 while Nexus PX White is $129. Identical specifications; colour premium of $20 for the white finish.
 
 **Q: Will a Thermalright Peerless Assassin 120 SE fit?**
 Yes — the Peerless Assassin 120 SE is 155mm tall, well within the Nexus PX White's 165mm clearance.
@@ -69,7 +65,6 @@ Typically no fans at this price tier. Budget for 2× 120mm front intake + 1× 12
 
 ## Related Products
 
-- Segotep Nexus PX Black (CASSEGNPXB) — same specs, black finish, $20 less
 - Thermalright TL-M10 White (CASTMRM10W) — same price, includes ARGB fans
 - Segotep Lumi 3S White (CASSEGLUM3SW) — panoramic glass showcase alternative
 

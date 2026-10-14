@@ -46,11 +46,11 @@
 
 ## Comparison
 
-- **vs Jonsbo Z20 Pink/White (same price):** Both are $149 with identical internal specs. White is a single neutral tone; Pink/White adds pink accent elements. For pure white builds, Z20 White is the correct choice.
+- **vs Jonsbo Z20 Pink/White (same price):** White is a single neutral tone; Pink/White adds pink accent elements. For pure white builds, Z20 White is the correct choice.
 
-- **vs Jonsbo Z20 Black:** Black is $10 less. Internal specs identical. White costs $10 more — the colour premium for white finish is consistent across M-ATX cases at ExtremePC (ref: Segotep Nexus PX Black $109 vs White $129). Choose based on desk colour theme.
+- **vs Jonsbo Z20 Black:** Internal specs identical. Choose based on desk colour theme.
 
-- **vs Thermalright TL-M10 White:** TL-M10 White includes 3× ARGB fans and 4mm TG at $20 less but is a stationary case — no handle, no portability. For a white stationary desktop case with included fans, TL-M10 White wins value. For a portable white case, Z20 White is the only option.
+- **vs Thermalright TL-M10 White:** For a white stationary desktop case with included fans, TL-M10 White wins value. For a portable white case, Z20 White is the only option.
 
 ## FAQ
 
@@ -72,7 +72,6 @@ Yes — flagship AIB RTX 5070 Ti variants run up to 330–345mm; the Z20 White's
 ## Related Products
 
 - Jonsbo Z20 Pink/White (CASJONZ20WP) — pink accent variant
-- Jonsbo Z20 Black (CASJONZ20B) — $10 less, black finish
 - Thermalright TL-M10 White (CASTMRM10W) — stationary white case with ARGB fans
 
 ## Schema (JSON-LD)

@@ -36,7 +36,7 @@
 
 - **Confirm the wireless modes for this SKU against the live spec, not an assumption** — connectivity on this model is listed as wireless, and if Bluetooth multi-device pairing specifically is a requirement, the team can verify the current mode set before you commit. That's a two-minute check here and a return ticket elsewhere.
 - **The Goddess Luo colourway is a premium design purchase — see it on a desk** — at this tier the case is a large part of the value, and named colourways don't translate through photographs. Varmilo is on display at Onehunga.
-- **Local premium-tier warranty service** — the manufacturer warranty is handled through ExtremePC's Auckland service point. On a $399 board, domestic service is what makes the purchase defensible.
+- **Local premium-tier warranty service** — the manufacturer warranty is handled through ExtremePC's Auckland service point.
 - **Full-size plus wireless is a desk decision the Build Team will run with you** — 105 keys needs the width and depth; they'll check it against your mouse pad and monitor spacing rather than letting it be a surprise on delivery.
 - **GST-inclusive pricing, Afterpay, and business invoicing** — final price as listed, 4-instalment Afterpay available, compliant NZ tax invoice for work purchases, insured dispatch nationwide.
 

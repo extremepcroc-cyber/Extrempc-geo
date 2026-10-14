@@ -23,8 +23,6 @@ A 120mm ARGB case fan from Segotep's Irisflo series. The Irisflo U120 is a budge
 
 The Irisflo U120 is one of the cheapest 120mm ARGB case fans on the NZ market. It's not a high-performance fan — you won't get the airflow or quiet operation of a Noctua or a Phanteks — but it's cheap, it has ARGB lighting, and it's good enough for a budget build where you want some RGB in your case.
 
-**Best for**: Budget builders who want ARGB case fans without paying $30+ per fan.
-
 ## Who It's For
 
 - **Budget builders** who want case fans with ARGB

@@ -36,7 +36,6 @@
 ## Why Buy From ExtremePC
 
 - **See the blue against a real desk before you commit to the colourway** — the blue F108 PRO is the statement version of this board, and a colour panel on a screen is not the same as the case sitting next to your monitor. The Onehunga showroom carries AULA's range on display, so you can compare the blue against the grey before deciding.
-- **Local warranty service on the wireless electronics** — the manufacturer warranty is handled through ExtremePC's Auckland service point, so a battery or 2.4GHz fault is a local matter rather than an overseas RMA with freight costs on a sub-$150 board.
 - **Build Team checks the layout against your actual work** — 104 keys is the right call for spreadsheet and CAD work and the wrong call for a narrow desk. They'll run the numbers on desk depth and mouse-pad clearance with you rather than after the fact.
 - **Same-day Auckland pickup and insured courier nationwide** — Onehunga stock for same-day collection; 1–3 business days tracked and insured for the rest of the country.
 - **GST-inclusive, Afterpay, and business invoicing** — the price shown is what you pay, Afterpay spreads it over four instalments, and business buyers get a compliant NZ tax invoice.

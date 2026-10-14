@@ -34,7 +34,6 @@
 
 ## Why Buy From ExtremePC
 
-- **A local warranty is the difference between a $69 magnetic board being a bargain or a write-off** — the manufacturer warranty is handled through ExtremePC's Auckland service point. At this price an overseas RMA costs more than the keyboard, so buying locally is what makes the warranty real rather than decorative.
 - **Test the magnetic switch before you commit — it's the cheapest way to find out if HE suits you** — the whole risk at this price is discovering the heavier return-spring feel isn't for you. Onehunga keeps the magnetic and mechanical ranges side by side, so that comparison is a five-minute job.
 - **Full stock means it's a walk-in purchase, not a wait** — this SKU sits well-stocked at Onehunga. Auckland buyers collect the same day; nationwide dispatch is tracked and insured in 1–3 business days.
 - **Build Team will say if a 60% is the wrong call for your work** — no arrow keys and no F-row is fine for gaming and painful for spreadsheets. They'll tell you straight rather than letting you find out.

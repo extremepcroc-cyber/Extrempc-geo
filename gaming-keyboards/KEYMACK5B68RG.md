@@ -34,7 +34,7 @@
 
 ## Why Buy From ExtremePC
 
-- **At this price, bought overseas, there is effectively no warranty — here there is** — a sub-$60 mechanical board is not worth an international return, so a local service point is what makes the coverage meaningful. The manufacturer warranty is handled through ExtremePC's Auckland service point.
+- **At this price, bought overseas, there is effectively no warranty — here there is** The manufacturer warranty is handled through ExtremePC's Auckland service point.
 - **Try a mechanical board before spending anything at all** — this is the lowest-risk way to find out whether red linears suit you, and Onehunga keeps the switch families on display so the decision is made with your hands rather than a review.
 - **Straight advice if red linears turn out to be too light** — they'll point you at a tactile or magnetic board in the same range instead of letting you buy the wrong switch twice.
 - **Walk-in purchase, same-day pickup** — shelf stock at Onehunga; nationwide dispatch tracked and insured in 1–3 business days.

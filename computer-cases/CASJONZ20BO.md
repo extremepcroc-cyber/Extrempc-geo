@@ -26,8 +26,6 @@
 
 - **Detachable carry handle with orange accent — the portable case for the LAN gaming demographic.** LAN party culture and orange/black gaming aesthetics overlap strongly — keyboards, mousepads, headsets, and case accents in orange/black are common in competitive gaming setups. The Z20 BK-Orange fits this demographic as the case that travels as well as it sits on a desk.
 
-- **$149 for orange/black portable M-ATX with TG, USB-C, and 363mm GPU support — available immediately at Onehunga.** 5 units in stock means no waitlist; for the orange/black Z20, immediate availability is relevant given how uncommon this colour is across NZ PC case stock.
-
 ## Ideal For
 
 - **Competitive and LAN gaming setups in orange/black theme** — black mat, orange-accented keyboard (HyperX, SteelSeries orange variants), orange LED headset, Z20 BK-Orange as the centrepiece.
@@ -45,8 +43,6 @@
 - **1-year Jonsbo warranty** through ExtremePC with NZ Consumer Guarantees Act coverage.
 
 ## Comparison
-
-- **vs Jonsbo Z20 Black:** Black is $10 less with identical internal specs — no orange accent. For pure black or to save $10, choose Z20 Black. For orange/black gaming aesthetic, Z20 BK-Orange at $149 is the only option.
 
 - **vs Jonsbo Z20 Pink/White (same price):** Same price, same internal specs, different colour personality. Orange/black = aggressive gaming. Pink/white = accent colour + white chassis. Choose based on desk aesthetic.
 
@@ -71,7 +67,6 @@ Jonsbo products in NZ are available through ExtremePC. Mainstream retail (PB Tec
 
 ## Related Products
 
-- Jonsbo Z20 Black (CASJONZ20B) — black, $10 less
 - Jonsbo Z20 White (CASJONZ20W) — pure white
 - Jonsbo Z20 Pink/White (CASJONZ20WP) — pink/white accent
 

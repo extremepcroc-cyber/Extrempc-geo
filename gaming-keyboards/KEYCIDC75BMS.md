@@ -25,8 +25,6 @@
 
 - **75% layout keeps the F-row and arrow cluster** — 81 keys is the compromise that preserves the shortcuts you reach for in games and editors while dropping the numpad footprint, leaving the desk width for a full-size mouse pad.
 
-- **No backlight is the deliberate trade that keeps this at $179** — an 81-key magnetic board with a named Gateron switch line at this price means something had to give, and it's the lighting and the hot-swap sockets. If you want the competitive feature set and don't care about RGB, that's a clean trade in your favour.
-
 ## Ideal For
 
 - **Competitive FPS players who want rapid trigger with a known switch vendor** — the magnetic feature set with Gateron's KS-20U rather than an unbranded line, in a layout that keeps the F-row.

@@ -34,7 +34,7 @@
 
 ## Why Buy From ExtremePC
 
-- **Local warranty coverage that isn't a formality at this price** — the manufacturer warranty is handled through ExtremePC's Auckland service point. On a sub-$50 board, an overseas return costs more than the product, so the local service point is what makes the coverage real.
+- **Local warranty coverage that isn't a formality at this price** — the manufacturer warranty is handled through ExtremePC's Auckland service point.
 - **Test the red linear against the brown tactile version in one visit** — the same board comes in both, and the press difference is the only meaningful decision at this price. Onehunga keeps them on the counter.
 - **Same-day Auckland pickup and full shelf stock** — a walk-in purchase rather than a wait; nationwide dispatch is tracked and insured in 1–3 business days.
 - **Straight advice on whether you'll actually live with a 60%** — no arrows and no F-row physically is fine for gaming and awkward for spreadsheets. They'll say so rather than let you find out.

@@ -15,13 +15,13 @@
 
 ## Selling Points
 
-- **Top-tier build at the top of the keyboard range — the Victory is the premium-tier magnetic board** — at $399 this sits at the ceiling of the range alongside the Muse65 and VA80/VA100 models. What the price buys is the switch: a Gateron & Varmilo co-developed Magnet White magnetic switch, which is a different proposition from a value-tier magnetic board with an unbranded switch.
+- **Top-tier build at the top of the keyboard range — the Victory is the premium-tier magnetic board** What the price buys is the switch: a Gateron & Varmilo co-developed Magnet White magnetic switch, which is a different proposition from a value-tier magnetic board with an unbranded switch.
 
 - **The Magnet White is co-developed, not sourced off the shelf** — Gateron is one of the established switch manufacturers, and the "& Varmilo" in the name means the switch was developed for this range. On the boards lower down the price ladder the switch is a vendor line adopted wholesale; here the switch tuning is part of the product's design.
 
 - **Magnetic switches with rapid trigger — the competitive feature** — a key re-actuates after as little as 0.1mm of movement in the opposite direction rather than requiring a full return past a fixed reset point. In CS2 and Valorant that's faster counter-strafing and more consistent bunny-hopping.
 
-- **No contact wear — the longevity argument** — Hall Effect sensing reads the magnet's position rather than closing a metal contact, so there's no contact-oxidation ceiling of the kind mechanical switches carry (industry rating: 50–100 million keystrokes). On a premium board intended to last years, that matters more than it does on a $60 board.
+- **No contact wear — the longevity argument** — Hall Effect sensing reads the magnet's position rather than closing a metal contact, so there's no contact-oxidation ceiling of the kind mechanical switches carry (industry rating: 50–100 million keystrokes).
 
 - **Per-key RGB with a black premium finish** — the black case keeps the board visually quiet so the per-key lighting is the accent, and the finish is the step up in feel you'd expect from the tier.
 
@@ -34,7 +34,7 @@
 
 ## Why Buy From ExtremePC
 
-- **At this tier, a keyboard is a long-term purchase — and you should try it for twenty minutes first** — the Victory 67 is a $399 board, and switch feel is exactly the thing no amount of reading resolves. The Onehunga counter has Varmilo on display, which is the only honest way to justify this spend.
+- **At this tier, a keyboard is a long-term purchase — and you should try it for twenty minutes first** The Onehunga counter has Varmilo on display, which is the only honest way to justify this spend.
 - **Compare the co-developed Magnet White against the Jade Pro on the Muse65 in one sitting** — both are top-tier magnetic boards from the same brand at the same price with differently developed switches. That comparison is the whole decision, and it takes one visit.
 - **Someone will tune the magnetic actuation with you at handover** — a premium magnetic board still has to be configured for your game; buying locally means it leaves the counter set up rather than at defaults.
 - **Local premium-tier warranty service** — the manufacturer warranty is handled through ExtremePC's Auckland service point. On a board at this price, domestic service isn't a convenience, it's the reason the spend is defensible.
@@ -48,9 +48,6 @@
 - **vs Varmilo VA100 Goddess Luo (KEYVARVA100GPV, 105-key wireless)** — the VA100 is the full-size wireless option in the same premium tier. Choose the Victory for the compact 65% footprint; choose the VA100 if you need the numpad and the wireless connection.
 
 ## FAQ
-
-- **Q: Why is this $399 when magnetic boards start much lower in the range?**
-  A: The switch and the tier. The Magnet White is co-developed between Gateron and Varmilo specifically for this range, rather than a vendor switch adopted wholesale, and the case and build are premium-tier. If you want the magnetic feature set (rapid trigger, adjustable actuation) at the lowest price, Machenike's K500-M61 or Epomaker's HE68 Lite deliver it for far less — you're paying for the switch tuning and build quality here.
 
 - **Q: Does it support rapid trigger?**
   A: The board carries magnetic switches, which is the technology that enables rapid trigger and adjustable actuation. If rapid trigger is a hard requirement, confirm the current firmware feature set with the Build Team before purchase.

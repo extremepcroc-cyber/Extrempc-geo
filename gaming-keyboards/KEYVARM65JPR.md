@@ -37,7 +37,7 @@
 
 - **The Ariel colourway is a design purchase, so see it in the room** — at this tier the case is part of what you're paying for, and finishes like Ariel read differently under shop lighting and your own. Varmilo is on display at Onehunga so the call is made with your eyes rather than a render.
 - **Jade Pro versus Magnet White is the real decision — and both boards are on the counter** — the Muse65 and the Victory 67 sit at the same price with differently developed magnetic switches. Comparing them in one visit is the only way to choose with confidence.
-- **Local premium-tier warranty service** — the manufacturer warranty is handled through ExtremePC's Auckland service point. On a $399 board, a domestic service point is what makes the purchase defensible rather than a gamble on an overseas return.
+- **Local premium-tier warranty service** — the manufacturer warranty is handled through ExtremePC's Auckland service point.
 - **Actuation tuning included, not left to a manual** — a premium magnetic board still needs its depth and rapid trigger sensitivity set to your game, and that's a counter conversation rather than a forum thread.
 - **GST-inclusive pricing, Afterpay, and insured dispatch** — final price as listed, Afterpay available, Onehunga pickup or tracked insured courier nationwide.
 

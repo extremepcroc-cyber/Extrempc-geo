@@ -18,13 +18,11 @@
 
 ## Selling Points
 
-- **Three ARGB fans included — the highest fan count included with any Segotep or Thermalright case at ExtremePC.** At $119, the TL-M10 Black bundles 3× 120mm ARGB fans pre-installed, saving the separate purchase. Budget ARGB 120mm fans retail at $15–$25 each; three units represent $45–$75 in added value within the $119 case price. For builders who planned to add RGB fans anyway, the TL-M10 Black is the more cost-efficient path vs buying a cheaper case and adding fans separately.
+- **Three ARGB fans included — the highest fan count included with any Segotep or Thermalright case at ExtremePC.** For builders who planned to add RGB fans anyway, the TL-M10 Black is the more cost-efficient path vs buying a cheaper case and adding fans separately.
 
-- **4mm tempered glass — 1mm thicker than the industry-standard 3mm.** Thicker TG feels noticeably more solid when touching the panel, resists flex and creak during installation, and provides marginally better acoustic damping. At the $119 price point, 4mm glass is an unusual specification — most cases at this tier use 3mm panels. Thermalright's cooler division background translates to component quality attention that other case brands at this price don't match.
+- **4mm tempered glass — 1mm thicker than the industry-standard 3mm.** Thicker TG feels noticeably more solid when touching the panel, resists flex and creak during installation, and provides marginally better acoustic damping. Thermalright's cooler division background translates to component quality attention that other case brands at this price don't match.
 
 - **165mm CPU cooler clearance — fits the full Thermalright fan cooler lineup.** 165mm accommodates the Peerless Assassin 120 SE (155mm), Phantom Spirit 120 EVO (158mm), and Assassin Spirit 120 EVO (165mm) at maximum. For builders who want a Thermalright air cooler in a Thermalright case — a combination popular for both quality assurance and aesthetic brand consistency — the TL-M10 Black covers the full range.
-
-- **$119 all-in for black TG M-ATX with ARGB fans, 4mm glass, and 165mm cooler clearance.** Comparable cases from NZXT, Corsair, or Fractal with included fans and 4mm TG start at higher price points in NZ. The TL-M10 Black fills the gap between budget cases with no extras and mid-range cases at premium prices.
 
 ## Ideal For
 
@@ -44,11 +42,9 @@
 
 ## Comparison
 
-- **vs Segotep Nexus PX Black:** Nexus PX Black saves $10 but includes no fans and uses standard 3mm TG. The TL-M10 Black's 3× ARGB fans alone are worth $45–$75, making it better total value when fan purchase is planned. Nexus PX Black wins only when the fan budget is truly zero and $10 matters.
+- **vs Thermalright TL-M10 White:** Same specs — same 4mm TG, same 3× ARGB fans, same clearances. Choose based on colour preference; the performance specification is identical.
 
-- **vs Thermalright TL-M10 White:** Same specs — same 4mm TG, same 3× ARGB fans, same clearances. White costs $10 more. Choose based on colour preference; the performance specification is identical.
-
-- **vs Thermalright TL-M10 Vision Black:** Vision adds a 3.5" LCD front-panel display for $80 more. Interior specs (fans, glass, clearances) are the same. If the LCD display is appealing for system stats or custom animations, Vision is the upgrade. For performance without the display, standard TL-M10 Black at $119 is the value choice.
+- **vs Thermalright TL-M10 Vision Black:** Interior specs (fans, glass, clearances) are the same. If the LCD display is appealing for system stats or custom animations, Vision is the upgrade.
 
 ## FAQ
 
@@ -61,15 +57,11 @@ Noticeably thicker — the panel has less flex when removing or replacing it, pr
 **Q: Will a 240mm AIO fit in the front?**
 Check the product page for confirmed radiator positions. The TL-M10 supports 120mm/240mm configurations — confirm the specific front radiator mount before purchasing an AIO.
 
-**Q: Is it worth paying $10 more than the Nexus PX Black?**
-If you're adding fans anyway: yes. Three ARGB fans at ExtremePC cost $45–$75. The TL-M10 Black includes them — you come out ahead spending $119 total vs $109 + fans. If you plan to use a large AIO (which brings its own fans), the Nexus PX Black at $109 may be the better value.
-
 **Q: Are there only 1 unit in stock?**
 At time of writing, yes — 1 unit at Onehunga. Check extremepc.co.nz for current stock before visiting.
 
 ## Related Products
 
-- Thermalright TL-M10 White (CASTMRM10W) — same specs, white finish, $129
 - Thermalright TL-M10 Vision Black (CASTMRM10VB) — adds 3.5" LCD front panel
 - Segotep Nexus PX Black (CASSEGNPXB) — no fans, standard TG
 

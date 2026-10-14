@@ -15,7 +15,7 @@
 
 ## Selling Points
 
-- **Budget 1TB NVMe — the cheapest way to get M.2 SSD speed in NZ** — At $269 inc GST, this is the most affordable 1TB M.2 NVMe drive at ExtremePC. For an OS + applications drive, or an upgrade from a spinning HDD to SSD, it delivers the responsiveness jump at the lowest price point.
+- **Budget 1TB NVMe — the cheapest way to get M.2 SSD speed in NZ** For an OS + applications drive, or an upgrade from a spinning HDD to SSD, it delivers the responsiveness jump at the lowest price point.
 
 - **M.2 NVMe — the modern form factor for all current desktops and laptops** — NVMe M.2 is the standard SSD interface on both DDR4 (AM4, LGA1700) and DDR5 (AM5, LGA1851) platforms. Drop-in upgrade for any M.2 slot.
 
@@ -25,7 +25,6 @@
 
 ## Ideal For
 
-- **Budget builds wanting an NVMe primary drive** — At $269 for 1TB, this is the cheapest way to get M.2 SSD speed.
 - **Upgrading from HDD to SSD** — Drop-in M.2 upgrade that transforms system responsiveness.
 - **Secondary storage drives** — A budget second drive for game storage or file archiving.
 - **Office PC refresh** — The cheapest reliable NVMe for office workstations.

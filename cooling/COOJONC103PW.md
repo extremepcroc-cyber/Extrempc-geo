@@ -21,11 +21,9 @@ The next step up from the CR-1000 EVO — Jonsbo's CR-1000 V3 PRO is a single-to
 
 ## Why It Matters
 
-The CR-1000 V3 PRO is a sweet-spot cooler for people who want better performance than the EVO but don't want to spend $80+ on a dual-tower cooler.
-
 The white frame and ARGB fan make it a clean match for white-themed builds.
 
-**Best for**: Builders who want a solid single-tower cooler with ARGB lighting. If you're running a mid-range K-series CPU and want better cooling than the EVO but don't want to spend $80+ on a dual-tower, this is the one.
+**Best for**: Builders who want a solid single-tower cooler with ARGB lighting.
 
 ## Who It's For
 

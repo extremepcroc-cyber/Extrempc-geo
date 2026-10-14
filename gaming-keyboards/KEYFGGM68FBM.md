@@ -17,8 +17,6 @@
 
 ## Selling Points
 
-- **Magnetic switches at $99 — the entry point into adjustable actuation** — the feature set that normally pushes Hall Effect boards a tier or more up (adjustable actuation depth, rapid trigger) is here at an entry-tier price. The trade is the 65% layout and the wired-only connection, which is a fair exchange if you don't need the F-row.
-
 - **Adjustable actuation is not just an FPS feature — fighting games get real use out of it** — with a shallow actuation point and rapid trigger, a directional input re-registers the instant you release, without waiting for the key to travel back past a fixed reset. For SF6, Tekken, and Guilty Gear, that's the difference between a clean dash-cancel and a dropped input, and it's the specific use case where magnetic boards outperform mechanically.
 
 - **Hot-swappable across both magnetic and conventional switches** — the sockets accept other magnetic switches as well as standard mechanical families, which is unusual. It means the board isn't tied to one switch platform, so the decision on feel can be revisited later without buying another keyboard.

@@ -19,7 +19,7 @@
 
 - **Panoramic curved glass wraps side and top — the "Sea View Room" design that shows your components from two angles.** The 3S distinguishing feature is its curved joint glass panels: the glass flows continuously from the side across the top of the case with a smooth curved transition — no metal frame interrupting the view. Standing at your desk, you see your build from the front-side angle AND the top-down angle simultaneously. For RGB showcases — ARGB coolers, RAM with addressable lighting, GPU with illuminated logo — the 3S turns the interior into a display case.
 
-- **Curved glass joint is a manufacturing step above flat-panel TG cases.** Standard tempered glass panels sit flat in a metal channel. The Lumi 3S's curved glass requires a different forming process — the result is a smoother visual transition between surfaces and no corner frame breaking the sightline. At $109, this is a premium aesthetic feature at a mid-budget price.
+- **Curved glass joint is a manufacturing step above flat-panel TG cases.** Standard tempered glass panels sit flat in a metal channel. The Lumi 3S's curved glass requires a different forming process — the result is a smoother visual transition between surfaces and no corner frame breaking the sightline.
 
 - **White chassis + panoramic glass = maximum light reflection for ARGB components.** White interior surfaces bounce RGB light more diffusely than black interiors — colours appear warmer and more visible through the glass rather than being absorbed into dark surfaces. An ARGB cooler or addressable RAM kit looks dramatically different in a white Lumi 3S interior vs a dark-interior case.
 
@@ -37,7 +37,6 @@
 
 ## Why Buy From ExtremePC
 
-- **Panoramic curved glass M-ATX case in white with local NZ warranty at $109** — this combination is not available through mainstream NZ retail at this price.
 - **27 units in Onehunga** — highest local stock of any Micro Tower case, meaning reliable availability regardless of demand spikes.
 - **1-year NZ warranty** through ExtremePC as exclusive Segotep NZ distributor.
 
@@ -45,9 +44,7 @@
 
 - **vs Segotep Lumi 3T White (same price):** 3T uses flat/angular joint glass panels rather than the 3S's curved panels — same internal specs, different glass aesthetic. 3S = curved, soft, panoramic flow. 3T = angular, geometric, defined edges. Choose based on which visual style matches your preference. Same price, same internal specs.
 
-- **vs Segotep Nexus PX White:** Nexus PX White has better cooling specs — 165mm CPU clearance and confirmed AIO support. Lumi 3S is $20 cheaper with the panoramic glass advantage. For pure showcase builds, Lumi 3S. For performance-balanced white builds, Nexus PX White.
-
-- **vs Thermalright TL-M10 White:** TL-M10 White includes ARGB fans (worth) and 165mm cooler clearance for $20 more, but standard single-side TG — no top glass. If top visibility is the priority, Lumi 3S at $109 is the right choice. If included fans and cooler clearance matter more than top glass, TL-M10 White for $20 more.
+- **vs Segotep Nexus PX White:** Nexus PX White has better cooling specs — 165mm CPU clearance and confirmed AIO support. For pure showcase builds, Lumi 3S. For performance-balanced white builds, Nexus PX White.
 
 ## FAQ
 
@@ -64,7 +61,7 @@ Top glass panel cases often have a top 240mm radiator mount accessible when the 
 Tempered glass is scratch-resistant but not scratch-proof. Use a soft cloth for cleaning; avoid abrasive cleaners. The curved forming process doesn't reduce glass hardness.
 
 **Q: Are RGB fans included?**
-No fans included. For maximum RGB visual impact, budget for 2–3 ARGB 120mm fans for the front/top positions. Segotep, DeepCool, or budget ARGB fan sets from ExtremePC start at $15–$25 for a pack.
+No fans included. For maximum RGB visual impact, budget for 2–3 ARGB 120mm fans for the front/top positions.
 
 ## Related Products
 

@@ -17,8 +17,6 @@
 
 ## Selling Points
 
-- **The cheapest full HD webcam on ExtremePC — $69** — At $69 inc GST, the Brio 90 is the most affordable dedicated 1080p webcam. For a basic upgrade from a laptop's built-in cam (or a 720p budget cam), it's the lowest-cost entry.
-
 - **Logitech reliability** — Logitech is the market leader in webcams. The Brio 90 is an entry model with proven driver support and consistent performance on Windows and macOS.
 
 - **Privacy shutter** — A physical lens cover lets you fully block the camera when not in use. For privacy-conscious remote workers, the hardware shutter is a real advantage over software "off".

@@ -25,7 +25,7 @@ The FR-505 is one of the cheapest 120mm ARGB case fans on the NZ market. It's no
 
 The 25mm slim profile is a practical plus. Many cases have tight clearance between the fan mount and the front panel or radiator, and a standard 25mm fan (like a Noctua NF-A12x25) won't fit in some of those spaces. The FR-505 is thin enough to squeeze into most standard mounts.
 
-**Best for**: Budget builders who want ARGB case fans without paying $30+ per fan. If you're filling a case with 4–6 fans and want something cheap with RGB, this is the way to go.
+**Best for**If you're filling a case with 4–6 fans and want something cheap with RGB, this is the way to go.
 
 ## Who It's For
 

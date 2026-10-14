@@ -42,7 +42,7 @@
 
 ## Comparison
 
-- **vs AULA F75 MAX (KEYAULF75MWS / KEYAULF75MBS, 80-key siblings)** — the F75 MAX is the same 75% family with a neutral case and tri-mode wireless. Choose the AU75 if you want the black-yellow colourway and the $10-ish lower tier; choose the F75 MAX if you want the neutral look and the Bluetooth mode.
+- **vs AULA F75 MAX (KEYAULF75MWS / KEYAULF75MBS, 80-key siblings)** — the F75 MAX is the same 75% family with a neutral case and tri-mode wireless.
 - **vs AULA S75 Pro (KEYAULS75PBS, 84-key with media row)** — the S75 Pro adds a dedicated media/browser row. Choose the AU75 for the colourway and the tighter footprint; choose the S75 Pro if you want physical media keys.
 - **vs AULA Nova75 (KEYAULN75WI, Ice Shadow switch)** — the Nova75 carries a different in-house switch line (Ice Shadow) and a warm-white case. Choose the AU75 for the black-yellow look and the Star Vector feel; choose the Nova75 for the light theme and the different switch.
 - **vs MCHOSE Jet 75 (KEYMCHJ75WTK, magnetic)** — MCHOSE's Jet 75 is a Hall-effect board with rapid trigger. For competitive FPS counter-strafing, the magnetic board is the technical choice; for general gaming and typing, the AU75's Star Vector is sufficient.

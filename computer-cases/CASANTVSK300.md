@@ -18,9 +18,7 @@
 
 - **6 drive bays in a Micro-ATX chassis — the highest drive capacity case in the ExtremePC M-ATX range.** The VSK3000B-U3 includes 2× 5.25" external bays and 4× 3.5"/2.5" internal bays. For NAS-adjacent workstations, server-lite builds, video editing workstations with large HDDs, or any build where storage density matters more than RGB, 6 bays in an M-ATX footprint is the specification that determines the purchase. No other M-ATX case at ExtremePC matches this drive count at any price.
 
-- **$69 for a purpose-built storage workstation chassis — no wasted budget on glass or ARGB.** The VSK3000B-U3 prices at the floor of the ExtremePC M-ATX range. There is no tempered glass panel, no bundled ARGB fans, no RGB anything — this is a steel enclosure designed for function. For server builds, office machines, network-attached storage on a budget, or secondary workstations where visibility into the chassis isn't a priority, the $69 keeps system budget where it belongs: on the CPU, RAM, and drives.
-
-- **2× USB 3.0 front panel — practical I/O for high-throughput peripherals.** USB 3.0 at the front panel transfers at 5Gbps — fast enough for external SSDs, USB 3.0 drives, and backup destinations without routing around to the rear. At $69, USB 3.0 front I/O is not guaranteed on all cases; VSK3000B-U3 includes it as a baseline.
+- **2× USB 3.0 front panel — practical I/O for high-throughput peripherals.** USB 3.0 at the front panel transfers at 5Gbps — fast enough for external SSDs, USB 3.0 drives, and backup destinations without routing around to the rear.
 
 - **Antec brand reliability — 30+ years of PC case manufacturing.** Antec has produced cases since the early 1990s and has long-term brand reputation in the NZ market. The VSK series is Antec's value-tier workstation and office line, built to functional spec rather than aesthetic spec. For builds that need to stay running in a rack or under a desk for years without attention, Antec's manufacturing consistency is a relevant credential.
 
@@ -41,11 +39,11 @@
 
 ## Comparison
 
-- **vs Segotep Prime D Black:** Prime D is $10 cheaper with a TG side window and more modern aesthetic but fewer drive bays (2× 3.5" internal). For drive density, VSK3000B-U3 wins by a large margin. For any build where a window or contemporary styling matters, Prime D is the better pick.
+- **vs Segotep Prime D Black:** For drive density, VSK3000B-U3 wins by a large margin. For any build where a window or contemporary styling matters, Prime D is the better pick.
 
-- **vs Jonsbo N4 NAS:** N4 is an ITX/M-ATX NAS-specific case with 4× 3.5" bays and full NAS ecosystem features at $209. VSK3000B-U3 achieves comparable raw drive count in M-ATX for $69 but lacks NAS-specific features (hot-swap, SAS backplane). For true NAS OS builds, N4 is engineered for the purpose. For a budget media server or local backup machine using standard drives, VSK3000B-U3 does more for less.
+- **vs Jonsbo N4 NAS:** For true NAS OS builds, N4 is engineered for the purpose. For a budget media server or local backup machine using standard drives, VSK3000B-U3 does more for less.
 
-- **vs Thermalright TL-M10 Black:** TL-M10 is a display/gaming case with ARGB fans and TG at $50 more. For a gaming or showcase build, TL-M10 wins on every aesthetic metric. VSK3000B-U3 is not for gaming — it's for storage density and cost efficiency. Different use cases entirely.
+- **vs Thermalright TL-M10 Black:** For a gaming or showcase build, TL-M10 wins on every aesthetic metric. VSK3000B-U3 is not for gaming — it's for storage density and cost efficiency. Different use cases entirely.
 
 ## FAQ
 

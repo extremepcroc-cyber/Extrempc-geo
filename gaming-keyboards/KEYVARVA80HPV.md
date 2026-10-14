@@ -36,7 +36,7 @@
 
 - **Voice versus Silent is a real decision, and the counter settles it** — the two VA80 Hygge SKUs are the same board with differently tuned switches, and whether you want to hear the keystroke is a household question rather than a spec one. Ten minutes at Onehunga answers it.
 - **At this tier the case and keycaps are part of the value, so judge them in person** — the Hygge finish is a designed colourway; photos are a poor proxy for how it sits next to your monitor and desk mat.
-- **Local premium-tier warranty service** — the manufacturer warranty is handled through ExtremePC's Auckland service point. On a $339 board, domestic service is what makes the price defensible.
+- **Local premium-tier warranty service** — the manufacturer warranty is handled through ExtremePC's Auckland service point.
 - **Somebody will tell you plainly whether the F-row is worth the step up from a 65%** — for editor and IDE work it is; for gaming alone it isn't. They'll say which one you are.
 - **Afterpay keeps a premium spend off one month's statement** — the listed price includes GST, and four instalments is the low-friction way to buy a board at this tier without finance.
 

@@ -16,7 +16,7 @@
 
 ## Selling Points
 
-- **Full HD 1080p60 — crisp, smooth video for the price** — 1080p at up to 60fps is the sweet spot for a budget webcam. Smooth motion for hand gestures and panning, sharp enough for video calls and casual streaming. At $99, it's one of the cheapest ways to get a dedicated webcam better than a laptop's built-in cam.
+- **Full HD 1080p60 — crisp, smooth video for the price** — 1080p at up to 60fps is the sweet spot for a budget webcam. Smooth motion for hand gestures and panning, sharp enough for video calls and casual streaming.
 
 - **Elgato quality at a budget price** — Elgato's Facecam line is well-regarded in the streaming community. The Facecam Neo is the entry model — same brand reliability as the flagship Facecam 4K, at a fraction of the cost.
 

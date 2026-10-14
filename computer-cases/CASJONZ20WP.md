@@ -46,11 +46,11 @@
 
 ## Comparison
 
-- **vs Jonsbo Z20 Black:** $10 less, identical internal specs, black finish. Choose black to save $10 or for colour preference. Choose Pink/White for the accent colour and the handle design.
+- **vs Jonsbo Z20 Black:** Choose Pink/White for the accent colour and the handle design.
 
 - **vs Jonsbo Z20 White (same price):** Pure white vs pink/white accents. Internal specs are identical. White reads cleaner and more neutral; Pink/White is a deliberate colour statement. Same price.
 
-- **vs Jonsbo Z20 Orange/Black (same price):** Orange/Black has a darker base with orange accents — a different aesthetic entirely. Both are $149. Choose based on colour preference; specs are identical.
+- **vs Jonsbo Z20 Orange/Black (same price):** Orange/Black has a darker base with orange accents — a different aesthetic entirely. Choose based on colour preference; specs are identical.
 
 ## FAQ
 
@@ -67,12 +67,11 @@ Yes — 164mm clearance accommodates Thermalright Peerless Assassin 120 White (1
 Yes — same detachable handle mechanism, same mounting points. The Pink/White handle carries the pink accent colour on the handle piece.
 
 **Q: Are the other Z20 colours the same price?**
-White and Orange/Black are also $149. Black is $10 less at $139. Internal specs are identical across all four colours.
+Internal specs are identical across all four colours.
 
 ## Related Products
 
 - Jonsbo Z20 White (CASJONZ20W) — pure white finish
-- Jonsbo Z20 Black (CASJONZ20B) — black finish, $10 less
 - Jonsbo Z20 Orange/Black (CASJONZ20BO) — orange/black accent
 
 ## Schema (JSON-LD)

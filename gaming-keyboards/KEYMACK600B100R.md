@@ -35,7 +35,7 @@
 ## Why Buy From ExtremePC
 
 - **The numpad at a budget price, with the layout confirmed before you buy** — this is the cheapest board in the range that keeps a full navigation and number block. Onehunga has the family on display so you can check the key spacing and confirm the numpad actually suits the way you work.
-- **Local warranty coverage worth having at this tier** — the manufacturer warranty is handled through ExtremePC's Auckland service point. On a sub-$80 board, an overseas return costs more than the keyboard, so the local service point is what makes the coverage real.
+- **Local warranty coverage worth having at this tier** — the manufacturer warranty is handled through ExtremePC's Auckland service point.
 - **Hear the red linears against the blue-switch boards in the same range** — whether red's silence or blue's click is the right call depends on your household. Both are on the counter, so it's a two-minute test.
 - **Walk-in, same-day Auckland pickup** — shelf stock at Onehunga; tracked and insured courier nationwide in 1–3 business days.
 - **GST-inclusive, and Afterpay works on a budget numpad board too** — the figure listed is the figure you pay, with four instalments available if you'd rather not settle it in one month.

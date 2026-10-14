@@ -25,9 +25,7 @@
 
 - **USB-C 3.2 Gen2×2 at 20Gbps — the fastest front panel USB-C in the ExtremePC case range.** Most cases provide USB-C 3.2 Gen1 (5Gbps) or Gen2 (10Gbps). The Lancool 217 INF provides Gen2×2 at 20Gbps — the current maximum for USB-C front I/O. This matters for Thunderbolt-adjacent workflows and high-speed external SSDs (Samsung T7 Shield transfers at 10Gbps; devices targeting the 20Gbps ceiling are emerging for video production and external GPU use cases).
 
-- **Lian Li Lancool build quality — premium materials and cable management as a brand standard.** Lian Li has been making premium PC cases since 1983. Lancool is Lian Li's mainstream-premium line, inheriting Lian Li's attention to panel tolerance, cable management infrastructure, and material quality at an accessible price point. The 217 INF includes cable routing channels, dedicated PSU shroud, tie-down points, and panel fit quality above competing cases at $249. A Lian Li case is bought once and kept across multiple hardware generations.
-
-- **400mm GPU + 360mm front AND 360mm top radiator + 176mm CPU clearance + 4× 2.5" bays at $249.** Every internal specification of the Lancool 217 INF is at or above the standard for the mid-tower tier. No clearance constraint, no radiator compromise, generous storage, and the fastest front USB-C available — the INF variant is Lian Li's most-specified version of the Lancool 217.
+- **Lian Li Lancool build quality — premium materials and cable management as a brand standard.** Lian Li has been making premium PC cases since 1983. Lancool is Lian Li's mainstream-premium line, inheriting Lian Li's attention to panel tolerance, cable management infrastructure, and material quality at an accessible price point. A Lian Li case is bought once and kept across multiple hardware generations.
 
 ## Ideal For
 
@@ -37,8 +35,6 @@
 
 - **Lian Li ecosystem builds** — Lian Li Uni Fan SL140/SL120 fans, Lian Li GA II AIO coolers, all coordinate with Lian Li's L-Connect software alongside the INF front panel.
 
-- **Enthusiast builders** for whom $249 is the right budget for the case — the INF is the best-specified ATX case under the Jonsbo TK-4 at $329 in the ExtremePC range, delivering more total specification than any case between $179 and $249.
-
 ## Why Buy From ExtremePC
 
 - **Lian Li Lancool 217 INF locally stocked at 1 unit** — contact ExtremePC to confirm and hold before visiting.
@@ -47,11 +43,11 @@
 
 ## Comparison
 
-- **vs Jonsbo TK-4 Black:** TK-4 adds hyperboloid Sea View dual-glass (side + top curved glass) and 420mm GPU for $80 more. Lian Li wins on USB-C speed (20Gbps vs TK-4's standard), brand heritage, and cable management quality at $249. TK-4 wins on showcase glass format and GPU clearance. Both are premium ATX cases; different aesthetic and specification priorities.
+- **vs Jonsbo TK-4 Black:** TK-4 wins on showcase glass format and GPU clearance. Both are premium ATX cases; different aesthetic and specification priorities.
 
-- **vs Corsair 3000D Airflow RGB White:** Corsair is $20 less, white, mesh front, iCUE ecosystem. Lian Li adds Infinity Mirror, 20Gbps USB-C, 400mm GPU, and Lian Li build quality for $20 more. The step-up is clearly justified for black builds wanting superior specs.
+- **vs Corsair 3000D Airflow RGB White:** The step-up is clearly justified for black builds wanting superior specs.
 
-- **vs Jonsbo TK-2 Black:** TK-2 is $20 less with hyperboloid curved glass. Lian Li adds Infinity Mirror active display, 20Gbps USB-C, 400mm GPU, and Lian Li manufacturing quality for $20 more. For design-first buyers, TK-2's curved glass vs INF's infinity mirror is a purely aesthetic decision.
+- **vs Jonsbo TK-2 Black:** For design-first buyers, TK-2's curved glass vs INF's infinity mirror is a purely aesthetic decision.
 
 ## FAQ
 

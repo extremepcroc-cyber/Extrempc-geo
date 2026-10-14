@@ -19,8 +19,6 @@
 
 - **White colourway — a clean look for light-themed desks** — The Brio 90 White is the same webcam as the Black version in a different colour. For a light or white desk aesthetic, the White finish is the pick; for a dark setup, the Black version.
 
-- **The cheapest full HD webcam on ExtremePC — $69** — At $69 inc GST, the Brio 90 is the most affordable dedicated 1080p webcam. For a basic upgrade from a laptop's built-in cam, it's the lowest-cost entry.
-
 - **Logitech reliability** — Logitech is the market leader in webcams. The Brio 90 is an entry model with proven driver support on Windows and macOS.
 
 - **Privacy shutter** — A physical lens cover lets you fully block the camera when not in use. For privacy-conscious remote workers, the hardware shutter is a real advantage.

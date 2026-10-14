@@ -21,7 +21,7 @@
 
 - **82mm CPU cooler clearance — double the N2/N3's 56mm limit.** The extra headroom means standard tower coolers become viable: Noctua NH-U9S (95mm with fan swap), ID-Cooling IS-47, or budget options like DeepCool AK400 Low Profile all fit. For NAS CPUs that run warmer (older Xeon-D, Ryzen 5000 series), this clearance matters for sustained quiet operation under load.
 
-- **4-bay NAS at the lowest price in the Jonsbo range.** At $209, the N4 is $50 cheaper than the N2 and $90 cheaper than the N3. If 4× 3.5" drives meets your storage ceiling — for a ZFS mirror pair plus two data drives, or a 4-drive RAID-Z1 — the N4 delivers NAS functionality with M-ATX flexibility at entry-level NAS case pricing.
+- **4-bay NAS at the lowest price in the Jonsbo range.** If 4× 3.5" drives meets your storage ceiling — for a ZFS mirror pair plus two data drives, or a 4-drive RAID-Z1 — the N4 delivers NAS functionality with M-ATX flexibility at entry-level NAS case pricing.
 
 - **ATX PSU support in M-ATX configuration.** If you're reusing an ATX PSU from a previous build, the N4 is the only Jonsbo NAS case that accommodates it. No need to purchase a new SFX unit — reducing total build cost when repurposing existing components.
 
@@ -31,19 +31,18 @@
 
 - **Hybrid NAS + light workstation users** who need a proper HBA card (full-height) for drive management plus reasonable CPU cooling (82mm clearance). Not a gaming rig, but more capable than a pure NAS appliance — suitable for VM hosting, light Docker containers, and NAS simultaneously.
 
-- **Budget NAS builders** who need 4 drives maximum and want to save $40–90 vs the N2/N3 for the enclosure itself. 4× 16TB = 64TB raw — sufficient for most residential NAS scenarios.
+- **Budget NAS builders** 4× 16TB = 64TB raw — sufficient for most residential NAS scenarios.
 
 - **Office or retail storage** where an M-ATX workstation board is available surplus, and NAS storage needs are moderate (4-bay). Repurposing a desktop M-ATX board into a NAS avoids both appliance costs and new ITX board purchases.
 
 ## Why Buy From ExtremePC
 
 - **Exclusive NZ Jonsbo distributor** — N4 is not available from mainstream NZ retailers. ExtremePC is the only local source for warranty support and in-person purchase.
-- **Lowest-cost entry to a multi-bay NAS enclosure with local stock** — at $209 in-store, this is the most accessible Jonsbo NAS case available same-day in Auckland.
 - **NZ Consumer Guarantees Act coverage** — 1-year NZ warranty, no grey-market uncertainty.
 
 ## Comparison
 
-- **vs Jonsbo N2 (5-bay ITX only):** N2 adds one more drive bay and is $50 more, but ITX and half-height only — no M-ATX, no ATX PSU, 56mm cooler limit. If M-ATX board compatibility or a taller cooler matters, the N4 at $209 is the better value despite fewer bays. If you need 5 bays and are committed to ITX, N2 is the choice.
+- **vs Jonsbo N2 (5-bay ITX only):** If you need 5 bays and are committed to ITX, N2 is the choice.
 
 - **vs Jonsbo N3 (8-bay ITX only):** N3 is the high-capacity option; N4 is the flexible/affordable option. N3 is ITX-only and half-height. For maximum storage expansion, N3. For M-ATX + GPU + taller cooler in a NAS form factor, N4.
 

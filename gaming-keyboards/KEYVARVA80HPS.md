@@ -36,7 +36,7 @@
 
 - **Quiet is a household decision, and a demo is the only honest way to test it** — "dampened" covers a wide range, and whether the Prestige Silent is quiet enough for a shared bedroom, a close microphone, or an open-plan office depends on the room. Onehunga has both the Silent and the Voice variants on the counter so you can hear the actual difference.
 - **At this tier the finish is part of what you're buying — judge it in person** — the Hygge colourway and the case quality are a large part of the price, and photographs don't carry them.
-- **Local premium-tier warranty service** — the manufacturer warranty is handled through ExtremePC's Auckland service point. On a $399 board, domestic service is what makes the spend defensible rather than a gamble on an overseas return.
+- **Local premium-tier warranty service** — the manufacturer warranty is handled through ExtremePC's Auckland service point.
 - **Somebody will tell you whether the F-row justifies the step up from a 65%** — for editor and IDE work it does; for gaming alone it doesn't. They'll be straight about which you are.
 - **A premium work board comes with the paperwork, and the courier is insured** — GST is inside the listed price, compliant NZ tax invoices are issued for business accounts, and delivery is tracked and insured nationwide.
 

@@ -45,7 +45,7 @@
 
 - **vs Jonsbo N2 Black (CASJONN2B, same price):** Identical specifications — drive capacity, cooler clearance, PSU support, dimensions. Colour is the only difference. Choose White for light interiors; choose Black for dark setups or if the NAS will be hidden from view.
 
-- **vs Jonsbo N3 Black (8-bay):** N3 adds three more drive bays for $40 more, but is black only — no white option available. If colour matters and 5 bays is sufficient, N2 White is the only local compact NAS case in white at this price tier.
+- **vs Jonsbo N3 Black (8-bay):** If colour matters and 5 bays is sufficient, N2 White is the only local compact NAS case in white at this price tier.
 
 - **vs Fractal Design Node 304 White (higher price tier):** Node 304 offers 6-bay capacity, cleaner cable management, and a slightly more refined build quality. Available in white. Costs more. If the budget allows and cable routing is a priority, Node 304 White is worth considering. For straightforward value, N2 White wins.
 

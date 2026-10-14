@@ -28,8 +28,6 @@
 
 - **Corsair brand recognition and 20+ year NZ market presence.** Corsair is an established brand in the NZ PC market, stocked at multiple retailers for PSUs, RAM, keyboards, and peripherals. Buying a Corsair case through ExtremePC carries the same brand-level warranty expectations as any Corsair product. For builders who value brand continuity and established warranty support, Corsair is the established reference point in the white ATX case tier.
 
-- **White ATX mid-tower with mesh front, 3× RGB fans, TG panel, and USB-C at $229 — a complete white gaming build chassis.** The 3000D Airflow RGB White requires no additional fans (3× SP120 RGB included), has all required I/O (USB-C + USB-A), and delivers white + mesh + glass at a single price. For a builder choosing a white ATX case at the $229 price point, the 3000D Airflow is the established brand answer.
-
 ## Ideal For
 
 - **Corsair ecosystem builds** — Corsair AIO (Hydro H150i), Corsair RAM (Dominator Platinum RGB), Corsair PSU (RM850e), Corsair case. Full iCUE sync across all components from one software.
@@ -48,11 +46,11 @@
 
 ## Comparison
 
-- **vs Valkyrie VK03 Lite White:** VK03 Lite is $50 less with mesh front, ARGB fans, TG, USB-C — very similar specs. Corsair adds iCUE ecosystem and brand recognition for $50 more. If iCUE matters, Corsair. If $50 matters more, VK03 Lite White.
+- **vs Valkyrie VK03 Lite White:** If iCUE matters, Corsair.
 
-- **vs Valkyrie VK03 LCD White:** VK03 LCD is $10 less and adds a front LCD display panel. Corsair has no LCD but has brand recognition and iCUE. Same white ATX tier; different feature priorities.
+- **vs Valkyrie VK03 LCD White:** Corsair has no LCD but has brand recognition and iCUE. Same white ATX tier; different feature priorities.
 
-- **vs Lian Li Lancool 217 INF Black:** Lian Li is $20 more, black, with Infinity Mirror front display and USB-C 20Gbps. If white is required, Corsair. If black and Lian Li quality/display features matter more, Lancool 217.
+- **vs Lian Li Lancool 217 INF Black:** If white is required, Corsair. If black and Lian Li quality/display features matter more, Lancool 217.
 
 ## FAQ
 
@@ -73,7 +71,6 @@ The 3000D Airflow has a mesh front for higher airflow at the cost of a less poli
 
 ## Related Products
 
-- Valkyrie VK03 Lite White (CASVALVK03W) — white mesh ATX, ARGB, $50 less
 - Valkyrie VK03 LCD White (CASVALVK03LW) — white ATX + front LCD
 - Lian Li Lancool 217 INF Black (CASLIAL217BI) — Infinity Mirror, premium build
 

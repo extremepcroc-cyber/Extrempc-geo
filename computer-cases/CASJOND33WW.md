@@ -19,8 +19,6 @@
 
 - **White body + wood accent = the biophilic design build.** The D33 Wood White's colour combination is white chassis with warm wood tones — a combination familiar from Scandi-influenced desk setups, bamboo desk accessories, and "warm minimalist" aesthetics popular in home office and content creator spaces. For builders whose desk uses wood and white as the base colour language, the D33 Wood White is the PC case that coheres with the setup rather than contrasting with it.
 
-- **$169 for a distinctive material-design M-ATX case — in stock locally.** Wood-accented cases from brands like InWin (901 series) reach premium price points in NZ when they're available at all. The D33 Wood White at $169 is locally stocked through ExtremePC, making a wood-accent M-ATX case accessible without importing or waiting on international order.
-
 - **Jonsbo D-series construction quality with the wood accent as an additional design layer.** The D33 carries Jonsbo's M-ATX case engineering — case fit, panel quality, TG glass — plus the wood accent panels. It's not a budget case with a wood sticker; it's a mid-premium Jonsbo M-ATX case with a material-specific design choice.
 
 ## Ideal For
@@ -41,11 +39,11 @@
 
 ## Comparison
 
-- **vs Jonsbo D300 Black:** D300 Black is $10 more, black, no wood accent — Jonsbo's flagship M-ATX in a clean black aesthetic. D33 Wood White is $10 less with a distinctive material design. If black is the requirement, D300. If white + wood is the aesthetic goal, D33 Wood White.
+- **vs Jonsbo D300 Black:** If black is the requirement, D300. If white + wood is the aesthetic goal, D33 Wood White.
 
 - **vs Thermalright TL-M10 Vision White (same price):** TL-M10 Vision White includes a 3.5" LCD front display and 3× ARGB fans — significant hardware value at the same price. D33 Wood White trades those features for a unique material aesthetic. If hardware features (LCD, fans) matter more than case design distinctiveness, Vision White wins value. If the wood-accent aesthetic is the point, D33 Wood White is the only option in NZ.
 
-- **vs Segotep Nexus PX White:** Nexus PX White is $40 less, standard TG M-ATX with no wood, no fans. D33 Wood White is for builders who see the case as a design object and budget accordingly.
+- **vs Segotep Nexus PX White:** D33 Wood White is for builders who see the case as a design object and budget accordingly.
 
 ## FAQ
 

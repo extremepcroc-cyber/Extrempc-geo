@@ -21,10 +21,6 @@
 
 ## Selling Points
 
-- **360mm front radiator support with 3× ARGB fans included at $139 — the best AIO-ready ATX value in the ExtremePC entry range.** At the $139 price point alongside two competing Zalman models (I3 Neo and N4 Rev.1), the N7 Plus V2 is the only one that combines 360mm front radiator support and USB-C front I/O while also including three ARGB fans. For builders planning a 360mm AIO as the cooling solution, the N7 Plus V2 eliminates both the case search (360mm fit confirmed) and the fan purchase (AIO fans + 1 rear already covered).
-
-- **USB-C front I/O standard at $139 — charges and connects modern devices directly from the front panel.** USB-C front I/O became a standard expectation on mid-range cases in 2023–2025. At $139, the N7 Plus V2 includes it while the Zalman I3 Neo (same price) does not. For daily desk use where phones, USB-C drives, and peripherals connect regularly, front USB-C is a practical quality-of-life feature at no extra cost.
-
 - **V2 revision improvements over original N7 Plus** — the V2 designation indicates an updated revision with refined airflow optimisation, updated panel tolerances, or fan specification improvements over the original N7 Plus. In case manufacturing, V2 revisions typically address feedback from the original release.
 
 - **21 units at Onehunga — second-highest stocked mid-tower case, behind only the I3 Neo.** Reliable availability for immediate pickup. At 21 units, the N7 Plus V2 can fulfil batch or multi-unit orders without pre-ordering.
@@ -35,23 +31,22 @@
 
 - **Mid-range builds where USB-C daily use matters** — charging a phone, connecting a USB-C external SSD, or plugging in a USB-C DAC from the front of the case. The N7 Plus V2's USB-C front port is used multiple times daily in active desk setups.
 
-- **Entry-to-mid ATX gaming builds** that want included ARGB fans, 360mm AIO capability, USB-C, and TG panel — all from one $139 purchase. The N7 Plus V2 removes four separate purchasing decisions (case, fans, fan controller, USB-C header planning) into one.
+- **Entry-to-mid ATX gaming builds** The N7 Plus V2 removes four separate purchasing decisions (case, fans, fan controller, USB-C header planning) into one.
 
 - **Builds expecting to add a 360mm AIO as a future upgrade** — buying the N7 Plus V2 now means the AIO upgrade path is already supported when the time comes.
 
 ## Why Buy From ExtremePC
 
 - **21 units in Onehunga — reliable same-day availability.**
-- **Best combination of 360mm radiator + USB-C + included ARGB fans at $139 in NZ.**
 - **Zalman warranty** through ExtremePC with NZ Consumer Guarantees Act coverage.
 
 ## Comparison
 
 - **vs Zalman I3 Neo Black (same price):** I3 Neo lacks USB-C and 360mm front radiator support. N7 Plus V2 includes both at the same price. Unless the I3 Neo's 24-unit availability is specifically needed for immediate stock, N7 Plus V2 is the better specification at the same price.
 
-- **vs Zalman N4 Rev.1 (same price):** N4 Rev.1 has 380mm GPU clearance (30mm more) and 3× 3.5" HDD bays (1 more). N7 Plus V2 has USB-C and 360mm front radiator. N4 Rev.1 is the choice for larger GPUs and more HDD storage; N7 Plus V2 for AIO cooling. Both at $139.
+- **vs Zalman N4 Rev.1 (same price):** N4 Rev.1 has 380mm GPU clearance (30mm more) and 3× 3.5" HDD bays (1 more). N7 Plus V2 has USB-C and 360mm front radiator. N4 Rev.1 is the choice for larger GPUs and more HDD storage; N7 Plus V2 for AIO cooling.
 
-- **vs Jonsbo D41 Mesh Black:** D41 Mesh is $20 less with 400mm GPU clearance and mesh front for better airflow — but no included fans. N7 Plus V2 includes ARGB fans, USB-C, and TG at $20 more. If fans are already owned, D41 Mesh is the better case spec. If simplicity and included fans matter, N7 Plus V2.
+- **vs Jonsbo D41 Mesh Black:** If fans are already owned, D41 Mesh is the better case spec. If simplicity and included fans matter, N7 Plus V2.
 
 ## FAQ
 

@@ -25,8 +25,6 @@ The CR-1000 EVO is one of the best-value CPU coolers in its price bracket. The w
 
 The single-tower design means it's shorter and lighter than dual-tower coolers, so it fits in more cases and doesn't require a heavy backplate. The 4 heat pipes provide good heat transfer, and the 120mm fan is quiet at low RPMs.
 
-**Best for**: Budget builders who want a better CPU cooler than stock but don't want to pay $100+.
-
 ## Who It's For
 
 - **Budget builders** who want a better CPU cooler than stock

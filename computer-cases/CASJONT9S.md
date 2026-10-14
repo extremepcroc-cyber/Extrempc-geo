@@ -46,11 +46,9 @@
 
 ## Comparison
 
-- **vs NCase M1 (higher price tier, import only):** NCase M1 is the benchmark premium SFF case — better community support, more accessory ecosystem, slightly smaller volume. Not locally stocked in NZ; import pricing plus shipping typically places it significantly above the T9's $299. The T9 is the locally-available aluminum SFF option at the NZ market's accessible price tier.
+- **vs NCase M1 (higher price tier, import only):** NCase M1 is the benchmark premium SFF case — better community support, more accessory ecosystem, slightly smaller volume. The T9 is the locally-available aluminum SFF option at the NZ market's accessible price tier.
 
 - **vs Lian Li A4-H2O (higher price tier):** A4-H2O is optimized for 240mm AIO liquid cooling — a different thermal approach. Better for high-TDP CPUs that need AIO support; T9's 70mm cooler limit restricts to air cooling. If you're running a Ryzen 7/9 or Core i7/i9 and need AIO, A4-H2O is the right choice. For mid-range CPU builds where air cooling suffices, T9 at lower NZD is the better call.
-
-- **vs Jonsbo N-series NAS cases ($209–$299):** Entirely different product category. N-series are NAS/storage-first with 4–8 HDD bays and no GPU support. T9 is a gaming/workstation SFF case with GPU support and no HDD bays. They don't compete — choose based on use case.
 
 ## FAQ
 

@@ -18,8 +18,6 @@
 
 - **Gray — a colour that standard ATX showcase cases rarely offer.** The PC case market defaults to black and white. Gray as a primary colour choice is uncommon, especially in Sea View panoramic glass cases. The X400 Gray reads as neutral but not invisible — a warm-gray metal and glass combination that works with both dark and light desk setups without committing to either.
 
-- **$299 for a full ATX Sea View mid-tower from Jonsbo — the premium showcase platform at the top of the Jonsbo case range at ExtremePC.** At $299, the X400 Gray is the flagship case in the ExtremePC Jonsbo lineup. Full ATX, dual-angle glass, gray colour, Jonsbo build quality. For a high-end ATX gaming build where the case aesthetic is the final considered decision, the X400 positions at the top of the mid-range market.
-
 - **Full ATX compatibility unlocks the full motherboard and expansion ecosystem.** ATX boards allow more PCIe slots (GPU + capture card + 10GbE simultaneously), more M.2 slots, more VRM phases for overclocking, and Thunderbolt 5 on premium boards. For a flagship ATX build with dual-channel high-capacity RAM (128GB potential), multiple NVMe drives, and a high-end GPU, the X400 Gray's ATX form factor is the ceiling.
 
 ## Ideal For
@@ -40,11 +38,9 @@
 
 ## Comparison
 
-- **vs Segotep Lumi 3S/3T (M-ATX):** Lumi series is M-ATX Sea View at $109 — half the price but M-ATX form factor only. X400 Gray at $299 is full ATX Sea View with Jonsbo build quality. For M-ATX builds, Lumi 3S/3T is the Sea View option. For ATX, X400 Gray.
+- **vs Segotep Lumi 3S/3T (M-ATX):** For M-ATX builds, Lumi 3S/3T is the Sea View option. For ATX, X400 Gray.
 
-- **vs Lian Li O11 Dynamic EVO ($350–$400+ NZD):** Lian Li O11 is a premium ATX showcase case with dual-chamber design at a higher price. X400 Gray at $299 is the mid-point between standard M-ATX cases and premium ATX cases — Jonsbo quality in a Sea View ATX format for less than O11.
-
-- **vs Jonsbo D300 Black (M-ATX):** D300 is $120 less in M-ATX form factor. If M-ATX is the build requirement, D300 is the Jonsbo premium M-ATX option. If ATX is needed or the Sea View glass is the feature, X400 Gray at $299 is the step up.
+- **vs Jonsbo D300 Black (M-ATX):** If M-ATX is the build requirement, D300 is the Jonsbo premium M-ATX option.
 
 ## FAQ
 

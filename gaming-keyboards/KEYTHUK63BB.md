@@ -17,8 +17,6 @@
 
 - **Brown switches are the all-rounder, and at this price that's the right default** — a tactile bump you can feel for typing confirmation, but no click, so it works in a shared room and on a microphone. It's the switch for someone who wants feedback without committing to either extreme, which is exactly what a first or second keyboard wants.
 
-- **$46 for a hot-swappable mechanical board is the whole proposition** — at this price most boards in the NZ market are membrane, and the mechanical ones are soldered. The K63 gives you real mechanical switches, RGB, and sockets that let you change the switch family later, which is what turns a cheap board into a long-term one.
-
 - **60% layout frees the maximum desk width** — 63 keys puts everything but the letter block and modifiers on the Fn layer. For a small desk, a dual-monitor arrangement, or a bag that goes to LAN events, that's the size that fits and the most mouse room you can get.
 
 - **Blue case, if you're tired of black** — the colourway breaks the default without being a full statement piece. It reads as a deliberate choice on a budget board, which is rare in this segment.
@@ -38,7 +36,6 @@
 - **Hear the brown tactile against a red linear and a clicky blue in one visit** — at this price the switch is the only variable that matters, and Onehunga keeps the families on display. That's a five-minute test rather than a return.
 - **Full shelf stock — it's a walk-in purchase, not a wait** — this SKU sits well-stocked at Onehunga. Auckland buyers collect the same day; nationwide dispatch is tracked and insured in 1–3 business days.
 - **The Build Team will say if a 60% is the wrong call for your work** — no arrow keys and no F-row is fine for gaming and painful for spreadsheets. They'll tell you straight.
-- **GST is in the listed price, and Afterpay is available at the entry tier too** — nothing added at checkout, and four instalments is an option on a $46 board as much as on the expensive ones.
 
 ## Comparison
 

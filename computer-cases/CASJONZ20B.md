@@ -26,8 +26,6 @@
 
 - **164mm CPU cooler clearance and 240mm radiator support together.** 164mm covers all major air coolers (Thermalright Peerless Assassin 120 SE at 155mm, DeepCool AK620 at 160mm) with margin. The 240mm radiator mount means AIO cooling is also an option — important for a portable case where minimizing component heat during transport and quick setup matters.
 
-- **Black at $139 — $10 less than the coloured Z20 variants.** Black is the base colour and the most practical finish for LAN use — doesn't show transport wear. At $10 below the pink/white and orange/black variants, the black Z20 is the value entry to the Z20 portable platform.
-
 ## Ideal For
 
 - **LAN party regulars** who carry their full gaming PC to events. The Z20's carrying handle makes M-ATX transport genuinely comfortable rather than an awkward two-handed carry.
@@ -46,11 +44,11 @@
 
 ## Comparison
 
-- **vs Jonsbo Z20 White/Pink-White/Orange-Black:** Same internal specs (164mm CPU, 363mm GPU, 240mm AIO, handle). Black is $10 cheaper. Colour variants cost $149 — premium for the accent colour. Black is practical and most available.
+- **vs Jonsbo Z20 White/Pink-White/Orange-Black:** Same internal specs (164mm CPU, 363mm GPU, 240mm AIO, handle). Black is practical and most available.
 
-- **vs Jonsbo C6 Handle Mesh:** C6 also has a carry handle at $60 less but is a different category — mesh front, smaller footprint, different clearances. Z20 Black is the premium portable case with longer GPU clearance and 240mm AIO support. C6 is the budget handle case.
+- **vs Jonsbo C6 Handle Mesh:** Z20 Black is the premium portable case with longer GPU clearance and 240mm AIO support. C6 is the budget handle case.
 
-- **vs Segotep Nexus PX Black:** Nexus PX Black is $30 cheaper, no handle, 340mm GPU clearance. For a stationary desktop M-ATX, Nexus PX saves $30. For portability and 363mm GPU clearance, Z20 Black is the only option.
+- **vs Segotep Nexus PX Black:** For portability and 363mm GPU clearance, Z20 Black is the only option.
 
 ## FAQ
 
