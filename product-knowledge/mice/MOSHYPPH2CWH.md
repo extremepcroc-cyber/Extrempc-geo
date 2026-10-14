@@ -4,7 +4,7 @@
 
 **Brand:** HyperX
 
-**Price:** NZD $86.25 (incl. GST, on sale from $97.99) — BC API verified 2026-09-15 (was $78.99 on 2026-09-14)
+**Price:** NZD $78.20 (incl. GST, on sale from $98.00) — sale 2026-10-06 (was $86.25 on 09-15)
 
 ## Quick Specs
 

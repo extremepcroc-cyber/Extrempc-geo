@@ -35,3 +35,6 @@ tools/delta-*.py
 tools/verify-*.py
 tools/apply-oos-*.py
 tools/wh-*.py
+
+# 产品页 HTML 抓取快照（KB 补全时的临时产物，可随时重抓 — 不提交）
+zpages/

@@ -4,6 +4,7 @@
 **SKU:** MOSMCHA5V2UB
 **MPN:** MC-A5V2-6
 **URL:** https://www.extremepc.co.nz/mchose-a5-v2-ultra-wireless-esports-gaming-mouse-blue/
+**Status:** OUT OF STOCK - last checked 2026-10-14
 **Stock:** Only a few left in stock (Onehunga: 1)
 
 > **Note:** This SKU is recorded with brand "TBC" in the local catalog and has no spec custom-fields — the MCHOSE A5 V2 Ultra is in the lightweight, fast-flick esports mouse class. The exact sensor (DPI ceiling / IPS), switch type, and weight are confirmed on the product page or with the store (09 849 4888) before relying on any single spec.
@@ -95,7 +96,7 @@
     "@type": "Offer",
     "price": "99.00",
     "priceCurrency": "NZD",
-    "availability": "https://schema.org/InStock",
+    "availability": "https://schema.org/OutOfStock",
     "url": "https://www.extremepc.co.nz/mchose-a5-v2-ultra-wireless-esports-gaming-mouse-blue/",
     "seller": {
       "@type": "Organization",

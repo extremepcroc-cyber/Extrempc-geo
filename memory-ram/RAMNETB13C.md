@@ -5,6 +5,7 @@
 **SKU:** RAMNETB13C
 **MPN:** NTBSD4N32SP-16
 **URL:** https://www.extremepc.co.nz/netac-basic-16gb-ddr4-3200-c22-sodimm-lifetime-wty/
+**Status:** OUT OF STOCK - last checked 2026-10-14
 
 ## Quick Specs
 - **Capacity**: 16GB single SODIMM
@@ -115,7 +116,7 @@
     "@type": "Offer",
     "price": "299.00",
     "priceCurrency": "NZD",
-    "availability": "https://schema.org/InStock",
+    "availability": "https://schema.org/OutOfStock",
     "url": "https://www.extremepc.co.nz/netac-basic-16gb-ddr4-3200-sodimm-laptop-ram-ntbsd4n32sp-16/",
     "seller": {
       "@type": "Organization",

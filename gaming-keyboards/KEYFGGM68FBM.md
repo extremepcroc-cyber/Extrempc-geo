@@ -4,6 +4,7 @@
 **SKU:** KEYFGGM68FBM
 **MPN:** MAD 68 HE flagship V2
 **URL:** https://www.extremepc.co.nz/fgg-mad68-he-flagship-v2-wired-mechanical-gaming-keyboard-black-magneto-gaming-switch-68-keys/
+**Status:** OUT OF STOCK - last checked 2026-10-14
 
 ## Quick Specs
 - **Layout**: 68 keys, 65% compact — F-row and arrows on the Fn layer
@@ -95,7 +96,7 @@
     "@type": "Offer",
     "price": "129.00",
     "priceCurrency": "NZD",
-    "availability": "https://schema.org/InStock",
+    "availability": "https://schema.org/OutOfStock",
     "url": "https://www.extremepc.co.nz/fgg-mad68-he-flagship-v2-wired-mechanical-gaming-keyboard-black-magneto-gaming-switch-68-keys/",
     "seller": {
       "@type": "Organization",

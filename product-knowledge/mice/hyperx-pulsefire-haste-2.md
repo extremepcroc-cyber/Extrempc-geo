@@ -23,5 +23,5 @@ status: In Stock (BC API verified 2026-09-29: OH=1, sale ended — back to $109.
 
 - Gaming mouse from HyperX
 - Wireless gaming mouse
-- Price: NZD $109.00 (incl. GST) list — BC API verified 2026-09-29, sale ended (was $97.75 on sale on 09-28, $75.00 on sale on 09-23, $109.00 list before that). Stock: only a few left (OH=1). White sibling MOSHYPPH2CWH in stock (OH=1, $86.25 on sale), Mini Haste 2 MOSHYPPH2MNBK in stock (OH=2, $103.50 on sale)
+- Price: NZD $109.00 (incl. GST) list — BC API verified 2026-09-29, sale ended (was $97.75 on sale on 09-28, $75.00 on sale on 09-23, $109.00 list before that). Stock: only a few left (OH=1). White sibling MOSHYPPH2CWH in stock (OH=1, $78.20 on sale as of 2026-10-06), Mini Haste 2 MOSHYPPH2MNBK in stock (OH=2, $103.50 on sale)
 

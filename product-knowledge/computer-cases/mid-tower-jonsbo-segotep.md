@@ -45,6 +45,7 @@ Two variants: D41 STD (standard TG) and D41 Mesh (mesh front panel).
 
 ## Jonsbo TK-2 — CASJONTK2B — $229
 
+- **Status:** OUT OF STOCK (verified 2026-10-12, BC API OH=0 — was limited to ~2 units; recommend TK-4 as the in-stock sibling)
 - **Form factor:** ATX mid-tower
 - **Glass type:** Hyperboloid tempered glass — curved convex side panel (not flat TG)
 - **Colour:** Black
@@ -53,13 +54,13 @@ Two variants: D41 STD (standard TG) and D41 Mesh (mesh front panel).
 - **Radiator support:** 360mm front, 240mm top
 - **Drive bays:** 2× 3.5" + 2× 2.5"
 - **Front I/O:** 2× USB 3.0, 1× USB-C, HD Audio
-- **Stock OH:** 2
+- **Stock OH:** 0 — OUT OF STOCK (verified 2026-10-12)
 - **Key differentiator:** Hyperboloid (curved) glass side panel — the glass bows outward from the case in a convex curve rather than sitting flat. This creates a distinctive 3D visual effect: components inside appear to float behind a curved glass lens. Jonsbo is one of very few brands producing hyperboloid glass cases; this design language is unique in the NZ market. Premium appearance at $229 that flat-panel TG cases can't replicate.
-- **NZ context:** Limited to 2 units — contact ExtremePC to confirm. The TK-2's hyperboloid glass is a deliberate design purchase; buyers specifically seek it out.
+- **NZ context:** ⚠️ OUT OF STOCK as of 2026-10-12 — direct guests to the TK-4 (CASJONTK4B, $299, in stock) as the sibling with the hyperboloid glass aesthetic.
 
 ---
 
-## Jonsbo TK-4 — CASJONTK4B — $329
+## Jonsbo TK-4 — CASJONTK4B — $299
 
 - **Form factor:** ATX mid-tower
 - **Glass type:** Hyperbolic Sea View Room glass — curved glass covering BOTH side AND top panels
@@ -70,9 +71,9 @@ Two variants: D41 STD (standard TG) and D41 Mesh (mesh front panel).
 - **Drive bays:** 2× 3.5" + 4× 2.5"
 - **Front I/O:** 2× USB 3.0, 2× USB-C, HD Audio
 - **Included fans:** typically 3× ARGB fans
-- **Stock OH:** 19 — best-stocked premium case at ExtremePC
+- **Stock OH:** 16 — best-stocked premium case at ExtremePC (verified 2026-10-12)
 - **Key differentiator:** Combines Jonsbo's hyperboloid glass with the Sea View Room dual-angle visibility. The side glass is curved; the top glass is also curved/panoramic — both side and top interior are visible simultaneously through curved glass. 420mm GPU clearance is the highest of any case in the ExtremePC Mid Tower range. This is the flagship Jonsbo showcase ATX case.
-- **TK-4 vs TK-2:** TK-4 adds top glass panel, 420mm vs 380mm GPU, more USB-C ports, for $100 more. TK-4 is the definitive version; TK-2 is for buyers who want the hyperboloid glass aesthetic at a lower price.
+- **TK-4 vs TK-2:** TK-4 adds top glass panel, 420mm vs 380mm GPU, more USB-C ports, for $70 more. TK-4 is the definitive version; TK-2 is for buyers who want the hyperboloid glass aesthetic at a lower price. ⚠️ TK-2 out of stock since 2026-10-12 — TK-4 is the current pick.
 
 ---
 

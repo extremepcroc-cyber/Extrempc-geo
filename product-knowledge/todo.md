@@ -18,6 +18,139 @@
 
 历史段落保留原样（当时写下的观测记录），但**以本声明为准**。
 
+## KB Backfill — Cron Run (2026-10-13)
+✔️ 已完成（2026-10-13）：EVA 知识补全 cron（**Phase 2 — 库存/价格 diff + 兼容缺口补全**）。基准 2026-10-12 vs 2026-10-13 EVAcache（latest.txt → 2026-10-13，1549 品，与 10-12 持平，净 0）。
+
+**📉 从缓存消失（10-12 有 / 10-13 无，共 1 项）:**
+- **KEYCIDC75BMS** CIDOO C75 Rapid Trigger 磁轴键盘 黑（sale $179 from $269，原 OH=1）— **BC API OH=0 售罄**。`keyboards/KEYCIDC75BMS.md` Status "Only a few left (OH=1)" → **OUT OF STOCK**（2026-10-13 验证）。无指南文件引用此 SKU（已扫描 0 处），无需联动修正。
+
+**📈 回库（10-13 新增 / 10-12 无，共 1 项）:**
+- **PKG465** Sea View Room Style Gaming PC — Ryzen 5 9600X | RTX 5060 Ti 16GB | 32GB RAM | 1TB SSD | Win11（**OH=10**，sale **$3,695** from $3,999，2 年质保）— **整机 pre-built，按约定不进 KB，无 per-product 规格文件**，无卡片可建。
+
+**💰 价格变动:** 0 项（1,548 件共有 SKU 全部价格/在库稳定）。
+
+**🔧 兼容缺口补全（Phase 2）:** 无新增可补值。今日（10-13）重测品牌官方页可达性，结果与 10-11/10-05/10-09 一致，仍被风控/JS 壳/403/超时挡住：Segotep 200（JS 渲染壳，无静态规格）/ Jonsbo 301（重定向非厂商）/ Lian Li 超时（HTTP 000）/ Gigabyte 403（Akamai bot-block）/ MSI 403 / Thermalright 200（W360-EPYC 官方本无消费级 TDP 标称值）。**遵守铁律「只用官方页 + 绝不编造」，0 个新值可合法填入。** 未填集合维持 10-11 口径：机箱 8 + 主板 2 stub 数值规格（Segotep 5 / Jonsbo 2 / Lian Li 1 / Gigabyte 1 / MSI 1）+ 散热 1（COOTHEW360EP TDP）+ 电源 6 件网络专用电源尺寸。
+
+**🚧 升级（连续第 9 次同一阻塞，需店主决策）:** 这批未填项已冻结约 10 天。二选一：① **在有住宅代理 / 正常出口的环境重跑 Phase 1**（能打开 Segotep/Gigabyte/MSI/Lian Li 官方页的环境）；② **店主逐项确认**机箱 Max GPU Length / Cooler Height / PSU Length / MB Support / Radiator 后由 EVA 落库。其余待店主项（warranty-policy 阻塞 / 库存措辞 backlog / RAM 瓶颈 skill 语过期 / git working tree 自 09-22 起 21 天未提交 / 3 件 BC slug 误标）与 10-11 一致，仍待店主，本段不重复。
+
+**✅ 本次动作清单:** 1 个 KB 文件更新（KEYCIDC75BMS OOS）；0 个补值（官方页不可达，遵守绝不编造）；0 个文件删除。
+
+## KB Backfill — Cron Run (2026-10-12)
+✔️ 已完成（2026-10-12）：EVA 知识补全 cron（**Phase 2 — 库存/价格 diff + 兼容缺口补全**）。基准 2026-10-11 vs 2026-10-12 EVAcache（latest.txt → 2026-10-12，1545 品，比 10-11 的 1557 品少 12 品）。
+
+**📉 从缓存消失（10-11 有 / 10-12 无，共 12 项 — 均为 OH 边界售罄，BC API 逐一验证）:**
+- **CASJONTK2B** Jonsbo TK-2（$229，原 OH=1）— **BC API OH=0 售罄**。`computer-cases/CASJONTK2B.md` Stock "Only a few left" → **OUT OF STOCK**（2026-10-12 验证）。
+- **CASSEGI5PW** Segotep Infinite 5 Pro 白（$159，原 OH=1）— **BC API OH=0 售罄**。`computer-cases/CASSEGI5PW.md` 改 OOS。⚠️ 兄弟款黑 CASSEGI5PB 仍 OH=17，不受影响。
+- **GPUCOL58U162** Colorful iGame RTX 5080 Ultra OC 16GB V2 黑（$2,999，原 OH=1）— **BC API OH=0 售罄**。`gpus/GPUCOL58U162.md` 改 OOS。
+- **GPUCOL5080UW16** Colorful iGame RTX 5080 Ultra W 白 — **BC API OH=0 售罄**（10-11 亦 OH=0，今日出缓存）。`gpus/GPUCOL5080UW16.md` 补 OOS 状态行。⚠️ 两色 5080 全售罄。
+- **KEYMCHJ75WTK** MCHOSE Jet 75 白（sale $149.01 from $189，原 OH=1）— **BC API OH=0 售罄**。`keyboards/KEYMCHJ75WTK.md` 改 OOS + 补 Price。⚠️ 兄弟款黑 KEYMCHJ75BTK 本日 BC 亦 OH=0（09-10 已标 OOS），Jet 75 两色全售罄。
+- 其余 7 项消失 SKU 均无 KB 文件（按约定不建卡，无需标记）。
+
+**📈 回库：** 0 项（12 减 0 增，纯减员日）。
+
+**📋 指南文件联动修正（防止 EVA 引用到售罄/旧价）:**
+- `computer-cases/mid-tower-jonsbo-segotep.md` — TK-2 加 OOS 状态行、Stock OH: 2 → 0、NZ context 改「已售罄，引导 TK-4」；**TK-4 价格 $329 → $299**（BC 实测 2026-10-12，sale from $329），TK-4 vs TK-2 差价 $100 → $70，Stock OH 19 → 16。
+- ⚠️ `computer-cases/mid-tower-brands.md:181` 仍写 "TK-2 ($229) and TK-4 ($329)" — TK-4 应为 $299，TK-2 已售罄。**建议店主更新此品牌指南**（本 run 未动，品牌对比文案属店主维护范围）。
+- ⚠️ **`recent-deals.md` 陈旧警告（店主维护文件，本 run 未动，仅标记）:** ① August Birthday Sale（1–31 Aug）已于 8 月 31 日过期，文件仍标为当前活动；② New Arrivals 五个价格全部陈旧（2026-10-12 BC/cache 实测）：AULA T610 $69→**$99**（OH=2）/ AULA F108 PRO $129→**$149.01 且全色 OH=0 售罄** / AULA F75 MAX $129→**$139**（OH=8）/ Lamzu Maya X $199-219→**$169**（OH=22）/ Lamzu Thorn V2 $249→**$179**（OH=19）；LiberNovo Omni 椅 $2,099 仍对（OH=22）。EVA 答促销问题时会引用此文件，建议店主刷新。
+
+**❄️ 冻结缺口（官方页连续被挡，不写猜测值 — 同 10-05/10-09/10-11 结论）:**
+- 机箱 8 + 主板 2 stub 的**数值规格**仍缺（Segotep 5 / Jonsbo 2 / Lian Li 1 / Gigabyte 1 / MSI 1）— 官方页在此 cron 环境连续被风控/JS 壳/454/403/DNS 超时挡住。
+- **散热 1:** COOTHEW360EP TDP（Thermalright 官方无消费级标称值）。
+- **电源 6 件网络专用电源**（Cisco/Fortinet/Ubiquiti）尺寸按 N/A。
+- 本日重测：segotep.com 返回 200 但为 JS 渲染壳（无规格文本，同前）；jonsbo.com 404。
+
+## KB Backfill — Cron Run (2026-10-11)
+✔️ 已完成（2026-10-11）：EVA 知识补全 cron（**Phase 2 — 库存/价格 diff + 兼容缺口补全**）。基准 2026-10-10 vs 2026-10-11 EVAcache（latest.txt → 2026-10-11，1557 品，比 10-10 的 1559 品少 2 品）。
+
+**📉 从缓存消失（10-10 有 / 10-11 无，共 2 项）:**
+- **GPUGIG5080WFO16** Gigabyte GeForce RTX 5080 WINDFORCE OC 16GB（原 $3,219）— **BC API 实测 `inventory_level=0`、OH=0、全仓（OH/WL/SL/SU）全 0 = 真正售罄**（⚠️ `availability` 字段仍返回 "available"，但不可信；以 inventory_level + 分仓 custom_fields 为准）。→ **已更新 `gpus/GPUGIG5080WFO16.md`**：Stock 行 "Only a few left" → **Out of stock**，新增 `**Status:** OUT OF STOCK (OH=0, all warehouses 0, verified 2026-10-11)`，并把陈旧价格 **$2,999（09-09 快照）校准为 $3,219 (incl. GST)**（BC calculated_price $2,799.13 ×1.15）。
+- **LAPASUV4A711** *Manufacturer Refurbished* ASUS Vivobook 14 M1407KA-LY057W（原 $1,499）— **无 KB 文件**（refurbished 笔记本，不进 KB），无卡片可标。
+
+**📈 回库：** 0 项。
+
+**💰 价格变动（17 项 — 全部为整机 Pre-built 配置变体，无一有 KB 文件）:** PKG423/746/879、XPC11159/1127/1134/1174/1194/1239/1242/1252/1258/1327/1328/3311/3314/3316，普遍上调 $100（例：XPC11159 $4,299→$4,599、PKG423 $4,499→$4,699、XPC3311 "October Sale" $4,699→$4,899）。**整机按约定不进 KB，无 per-product 规格文件** → **无价格文件需改**。其余 1,540 件 SKUs 价格/在库状态稳定。
+
+**🔧 兼容缺口补全（Phase 2）:** 无新增可补值。**今日（10-11）重测品牌官方页可达性，结果与 10-03/10-04/10-05 完全一致，仍被风控/JS 壳挡住：** Segotep product 404（home 200 但 JS 渲染无静态规格）/ Gigabyte 产品页 403（Akamai bot-block）/ MSI 产品页 403 / Lian Li 超时（HTTP 000）/ Jonsbo 301→解析到瑞典语博客（非厂商）。ExtremePC 自家产品页只含营销描述、无数值规格（历史已验证）。**遵守铁律「只用官方页 + 绝不编造」，0 个新值可合法填入。** 未填集合维持 10-06/10-08/10-09 口径：机箱 8 + 主板 2 stub 数值规格（Segotep 5 / Jonsbo 2 / Lian Li 1 / Gigabyte 1 / MSI 1，主板仅 Memory 字段缺，Socket/Chipset/FF 已按产品名正确填写）+ 散热 1（COOTHEW360EP TDP）+ 电源 6 件网络专用电源尺寸。
+
+**🚧 升级（连续第 7 次同一阻塞，需店主决策）:** 这批未填项已冻结约 8 天。二选一：① **在有住宅代理 / 正常出口的环境重跑 Phase 1**（能打开 Segotep/Gigabyte/MSI/Lian Li 官方页的环境）；② **店主逐项确认**机箱 Max GPU Length / Cooler Height / PSU Length / MB Support / Radiator 后由 EVA 落库。其余待店主项（warranty-policy 阻塞 / 库存措辞 backlog / RAM 瓶颈 skill 语过期 / **git working tree 自 09-22 起 12 天未提交，含本次 RTX 5080 更新** / 3 件 BC slug 误标）与 10-08/10-09 一致，仍待店主，本段不重复。
+
+**✅ 本次动作清单:** 1 个 KB 文件更新（GPUGIG5080WFO16 OOS + 价格校准）；0 个补值（官方页不可达，遵守绝不编造）；0 个文件删除。
+
+## KB Backfill — Cron Run (2026-10-09)
+✔️ 已完成（2026-10-09）：EVA 知识补全 cron（**Phase 2 — 库存/价格 diff + 兼容缺口补全**）。基准 2026-10-08 vs 2026-10-09 EVAcache（latest.txt → 2026-10-09，1521 品，比 10-08 的 1519 多 2 品 = 2 个鼠标回库）。
+
+**📉 从缓存消失（10-08 有 / 10-09 无，共 3 项，全部 BC API 实时核验 `inventory_level` 确认）:**
+- **GAMLIBOCP48G** LiberNovo Omni Pro 48cm Space Grey（$2,399）— BC `inventory_level=0`（OOS）。**无 per-product KB 文件**（椅子仅 `chairs/research/` + `buying-guide.md`），无卡片可标。⚠️ 同系列 GAMLIBOC148B/G（Omni 48cm）仍在库存 — 兄弟款不受影响。
+- **MOSLOGLIFTW** Logitech Lift Vertical Ergonomic 白（$127.99）— BC `inventory_level=0`（OOS）。`mice/MOSLOGLIFTW.md` Status 改 **OUT OF STOCK**（原误标 "In Stock"）。
+- **WEBRAZKV2B** Razer Kiyo V2 4K 30FPS 摄像头 黑（$249）— BC `inventory_level=1`（**有货但不在缓存**，缓存只收 OH>0 品，此处 inv=1 属边界/快照时序差）。**无 KB 文件**，无卡片可标。
+
+**📈 回库（10-08 无 / 10-09 有，共 2 项，均为 Razer 鼠标，BC API 核验在库）:**
+- **MOSRAZDAV3HS** Razer DeathAdder V3 HyperSpeed 无线（$208.00）— BC `inventory_level=5`。`mice/MOSRAZDAV3HS.md` Status 改 **In Stock** + 补 Price（原 2026-09-10 标 OOS）。
+- **MOSRAZNV2HS** Razer Naga V2 HyperSpeed 无线（$199.00）— BC `inventory_level=2`。`mice/MOSRAZNV2HS.md` Status 改 **In Stock** + 补 Price（原 2026-09-27 标 OOS）。
+
+**💰 价格变动（4 项，全部 BC API 核验）:** KEYLOGMK295 Logitech MK295（$99→$78.20）/ MOSASX3W Attack Shark X3（$128→$99）/ XPC1117 i5 14400F 整机（$2279→$2199）/ XPC3314 9800X3D 整机（$5999→$5999 实际无变，sale 尾数）— **这 4 项均为鼠标/整机，无 per-product KB 文件**（键鼠整机类按约定不进 KB），故**无价格文件需改**，无需 OOS 误标清理。
+
+**🔧 兼容缺口补全（Phase 2）:** 无新增可补项。待补的机箱兼容 stub（Segotep / Jonsbo / Lian Li / Gigabyte / MSI 系列）官方规格页仍被风控拦截（2026-10-08 已核实），**不臆造数值**。LiberNovo Omni Pro 48cm 本次 OOS，但椅子 KB 为 research 级非逐品兼容卡，无字段可填。
+
+**✅ 本次动作清单:** 3 个 KB 文件更新（1 OOS + 2 回库，均加 Price + BC verified 日期）；0 个新兼容规格；0 个待办移除（待办项官方页仍无数据）。
+
+## KB Backfill — Cron Run (2026-10-08)
+✔️ 已完成（2026-10-08）：EVA 知识补全 cron 运行（**Phase 2 — 全站兼容性补全 / 库存价格 diff**）。基准为 2026-10-06 vs 2026-10-07 EVAcache 快照（latest.txt → 2026-10-07，缓存 1548 品，比 10-06 的 1554 品少 6 个）。本次无新增在库品、**无价格变动**（全量 diff 0 项），聚焦 **6 项从缓存消失（全部 BC API 实时核验 OH=0 确认 OOS，均有 KB 文件）**。
+
+**📉 从缓存消失（10-06 有、10-07 无 = OOS / 下架，共 6 项，均已标 OUT OF STOCK）:**
+- **COOTMRPA120SE** Thermalright PA120 SE（原 OH=1）— `cooling/thermalright-pa120-se.md` Status 改 OOS。⚠️ 兄弟款 **COOTMRPA120SEB**（PA120 SE Black）仍在库 OH=4，不受影响，其 KB 文件不动。
+- **KEYGSV75HMGM** GravaStar Mercury V75 HE 灰（原 OH=1，sale $329）— `keyboards/KEYGSV75HMGM.md` Status 改 OOS。
+- **MBCOLBAH61ME** Colorful BATTLE-AX H610M-E WIFI V20（原 OH=1，$159）— `motherboards/MBCOLBAH61ME.md` Stock 改 OOS。
+- **MEMKIN6D564** Kingston 64GB DDR5-6400 ECC RDIMM（原 OH=4，$4600 incl GST）— `ram/kingston-64gb-ddr5-6400-ecc-rdimm.md` status 改 OOS。
+- **MOSMCHAX5PMPB** MCHOSE AX5 Pro Max 粉蓝（原 OH=1，$169）— `mice/MOSMCHAX5PMPB.md` Status 改 OOS。
+- **PSUGIG650SSI** Gigabyte P650SS ICE White（原 OH=1，$99）— `power-supplies/PSUGIG650SSI.md` Stock 改 OOS。
+- ✅ 无新增在库品（10-07 比 10-06 少 6、多 0）。
+- ✅ 6 个消失 SKU 在 `kb_skus.txt` 中的登记行保留（SKU 索引，非库存声明，按约定不动）。
+
+**📋 兼容性补全未填项（现状不变，沿用 10-06 结论）:**
+- 机箱 8 + 主板 2 stub 的**数值规格**仍缺（Segotep 5 / Jonsbo 2 / Lian Li 1 / Gigabyte 1 / MSI 1）— 官方页在此 cron 环境连续被风控/JS 壳/454/403/DNS 超时挡住，**不写猜测值**。
+- **散热 1:** COOTHEW360EP TDP（Thermalright 官方无消费级标称值，保留不编造）。
+- **电源 6 件网络专用电源**（Cisco/Fortinet/Ubiquiti）尺寸按 N/A，保留「网站无数据」。
+
+**🚧 待店主（沿用，仍有效）:**
+1. **warranty-policy.md** — 仍阻塞，需店主逐项确认各品类保修年限。
+2. **git working tree 累积未提交** — 自 09-22 店主上次 commit 后已 **16 天**，含本次 6 文件 OOS 改动，强烈建议店主 commit 一次。
+3. **库存措辞 backlog / GPUASRR9700CT32 URL 404 / MONACEX32X3 slug 误标 / MONGIGGS24F14 拼写** — 仍待店主。
+4. **在有住宅代理的环境重跑占位符补值**（Segotep/Gigabyte/MSI/Jonsbo/Lian Li 官方页仍不可达）— 仍待店主。
+
+**本次实际产出: 6 项 KB OOS 标记（共 6 文件改动，均 BC API 实时核验 OH=0），0 个价格变动，0 个新增品，0 个兼容性数值补值。**
+
+---
+## KB Backfill — Cron Run (2026-10-06)
+✔️ 已完成（2026-10-06 03:00）：EVA 知识补全 cron 运行（**Phase 2 — 全站兼容性补全 / 库存价格 diff**）。基准为 2026-10-05 vs 2026-10-06 EVAcache 快照（latest.txt → 2026-10-06，缓存 1554 品，比 10-05 的 1561 品少 7 个）。本次无新增在库品，无兼容规格新补值项（官方页数值规格缺口仍沿用 10-05 结论，见下），聚焦 **3 项价格变动 + 7 项从缓存消失（5 项无 KB 文件 / 3 项需标 OOS）**。
+
+**💰 价格变动（4 项 KB 卡已校准，均为含 GST 价）:**
+- **KEYEPOF75LBR** Epomaker X AULA F75 浅蓝 LEOBOG Reaper — $129.00→**$139.00**（sale from $159 不变，10-05 的 $129 已校准）。
+- **MOSMCHK7UWG** MCHOSE K7 Ultra 白金 — sale $159.00→**$169.00**（from $179 不变；09-30 起的促销价 10-06 上调）。
+- **MOSVGND3MB** VGN Dragonfly3 Master 黑 — list $99.00→**$109.00**（无 sale，涨价）。
+- **MOSHYPPH2CWH** HyperX Haste 2 Core 白 — sale $86.25→**$78.20**（from $98.00；09-15 的 $86.25 已校准）。
+- ⚠️ 联动：`mice/hyperx-pulsefire-haste-2.md` 注释里对该白色款的引用（原 "$86.25 on sale"）同步改为 "$78.20 on sale as of 2026-10-06"，避免 EVA 引用到旧价。
+
+**📉 从缓存消失（10-05 有、10-06 无 = OOS / 下架，共 7 项）:**
+- **有 KB 文件、已标 OUT OF STOCK（3 项）:** KEYVARM65JPR Varmilo Muse65（原 OH=1）/ MOSMCHA5V2UB MCHOSE A5 V2 Ultra 蓝（原 OH=1）/ RAMNETB13C Netac Basic 16GB DDR4-3200 SoDIMM（原 OH=6，`**Stock:**` 行由 "plenty" 改 OOS）。
+- **无 KB 文件、无引用残留（4 项，按约定不建卡，安全 grep 确认 0 残留）:** CPUAMD9600XOEM AMD 9600X OEM（原 OH=8）/ DESQOOI515 QOOBE Mini PC i5-12450H（原 OH=7）/ XPC11429 XPC i5-14400F RTX5060Ti（原 OH=10）/ XPC11619 XPC i5-14400F RTX5070（原 OH=10）。
+- ✅ 无新增在库品（10-06 比 10-05 少 7、多 0）。
+- ⚠️ 6 个 deal-churn 促销 SKU（WKS51279/WKS51289/XPC1198/XPC11159/XPC1122/XPC31159）在 10-06 缓存中，均无 KB 文件，不处理。
+- **指南文件核查（无误导）:** switch-guide.md 列 Muse65 仅为「Gateron Magnetic Jade Pro 开关示例」，非库存声明；buying-guide.md:137 的 "Netac Basic 16GB DDR5-5600" 是 **DDR5 款**（另一在库品），非本次 OOS 的 DDR4-3200 SoDIMM；A5 V2 Ultra 无任何指南引用。均无需改。
+
+**📋 兼容性补全未填项（现状不变，沿用 10-05 结论）:**
+- 机箱 8 + 主板 2 stub 的**数值规格**仍缺（Segotep 5 / Jonsbo 2 / Lian Li 1 / Gigabyte 1 / MSI 1）— 官方页在此 cron 环境连续被风控/JS 壳/454/403/DNS 超时挡住，**不写猜测值**。
+- **散热 1:** COOTHEW360EP TDP（Thermalright 官方无消费级标称值，保留不编造）。
+- **电源 6 件网络专用电源**（Cisco/Fortinet/Ubiquiti）尺寸按 N/A，保留「网站无数据」。
+
+**🚧 待店主（沿用，仍有效）:**
+1. **warranty-policy.md** — 仍阻塞，需店主逐项确认各品类保修年限。
+2. **git working tree 累积未提交** — 自 09-22 店主上次 commit 后已 **14 天**，含本次 8 文件改动（4 价格 + 1 联动注释 + 3 OOS），强烈建议店主 commit 一次。
+3. **库存措辞 backlog / GPUASRR9700CT32 URL 404 / MONACEX32X3 slug 误标 / MONGIGGS24F14 拼写** — 仍待店主。
+
+**本次实际产出: 4 项 KB 价格校准 + 1 项联动注释更新 + 3 项 OOS 标记（共 8 文件改动），0 个兼容性数值补值（官方页仍不可达），4 个无 KB 文件的消失 SKU 确认无引用残留。**
+
+---
 ## KB Backfill — Cron Run (2026-10-05)
 ✔️ 已完成（2026-10-05 03:01）：EVA 知识补全 cron 运行（**Phase 2 — 全站兼容性补全**）。本次聚焦 10-04 遗留的占位符 stub（机箱 8 + 主板 2）+ 重测全部官方页可达性 + BC API 库存/价格同步。
 

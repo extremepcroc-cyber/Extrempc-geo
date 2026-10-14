@@ -4,6 +4,7 @@
 **SKU:** CASJONTK2B
 **MPN:** TBC
 **URL:** https://www.extremepc.co.nz/jonsbo-tk-2-black-atx-hyperboloid-glass-mid-tower-case-black/
+**Status:** OUT OF STOCK - last checked 2026-10-14
 
 ## Quick Specs
 - Form factor: ATX mid-tower
@@ -92,7 +93,7 @@ Check extremepc.co.nz for current colour availability. At time of writing, TK-2 
     "@type": "Offer",
     "priceCurrency": "NZD",
     "price": "229",
-    "availability": "https://schema.org/InStock",
+    "availability": "https://schema.org/OutOfStock",
     "seller": {
       "@type": "Organization",
       "name": "ExtremePC"

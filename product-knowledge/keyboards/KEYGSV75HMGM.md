@@ -17,4 +17,4 @@
 - **Display:** No
 - **Color:** Gray
 
-**Status:** In Stock
+**Status:** OUT OF STOCK (verified 2026-10-07, BC API OH=0)

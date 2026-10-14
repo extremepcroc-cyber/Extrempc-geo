@@ -1,6 +1,6 @@
 # VGN Dragonfly3 Master Ultra-Lightweight Wireless Gaming Mouse Black
 
-**Price:** NZD $99.00 (incl. GST) — BC API verified 2026-09-30 (list, no sale)
+**Price:** NZD $109.00 (incl. GST) — price increased 2026-10-06 (was $99 on 09-30, list, no sale)
 **SKU:** MOSVGND3MB
 **Brand:** VGN
 **URL:** https://www.extremepc.co.nz/wireless-gaming-mice/vgn-dragonfly3-master-ultra-lightweight-wireless-gaming-mouse-black/

@@ -3,11 +3,11 @@ sku: MEMKIN6D564
 name: Kingston 64GB DDR5-6400MT/s ECC Reg CL52 RDIMM 2Rx4 Server Memory For AMD Threadripper 7000, 9000 Series
 brand: Kingston
 mpn: KSM64R52BD4-64HA
-price_nzd_ex_gst: 3800.00
-price_nzd_incl_gst: 4370.00
+price_nzd_ex_gst: 4000.00
+price_nzd_incl_gst: 4600.00
 url: /server-ram/kingston-64gb-ddr5-6400mt-s-ecc-reg-cl52-rdimm-2rx4-server-memory-for-amd-threadripper-7000-9000-series-ksm64r52bd4-64ha/
 category: RAM
-status: In Stock
+status: OUT OF STOCK (verified 2026-10-07, BC API OH=0)
 ---
 
 # Kingston 64GB DDR5-6400 ECC RDIMM

@@ -4,7 +4,6 @@
 **SKU:** MOSRAZBASV3X
 **MPN:** RZ01-04870100-R3A1
 **URL:** https://www.extremepc.co.nz/razer-basilisk-v3-x-hyperspeed-ergonomic-rgb-wireless-gaming-mouse/
-**Status:** OUT OF STOCK - last checked 2026-10-05
 
 ## Quick Specs
 - **Connection:** Wireless — Razer HyperSpeed (2.4 GHz low-latency) + USB wired/charging
@@ -90,7 +89,7 @@
     "@type": "Offer",
     "price": "128.00",
     "priceCurrency": "NZD",
-    "availability": "https://schema.org/OutOfStock",
+    "availability": "https://schema.org/InStock",
     "url": "https://www.extremepc.co.nz/razer-basilisk-v3-x-hyperspeed-ergonomic-rgb-wireless-gaming-mouse/",
     "seller": {
       "@type": "Organization",

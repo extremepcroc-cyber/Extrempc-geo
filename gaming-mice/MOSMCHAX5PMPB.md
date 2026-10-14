@@ -4,6 +4,7 @@
 **SKU:** MOSMCHAX5PMPB
 **MPN:** AX5-12A
 **URL:** https://www.extremepc.co.nz/mchose-ax5-pro-max-magnesium-alloy-wireless-gaming-mouse-pink-blue/
+**Status:** OUT OF STOCK - last checked 2026-10-14
 **Stock:** Only a few left in stock (Onehunga: 1)
 
 > **Note:** This SKU is recorded with brand "TBC" in the local catalog and has no spec custom-fields — the MCHOSE AX5 Pro Max is the magnesium-alloy flagship in MCHOSE's AX5 line. The exact sensor (DPI ceiling / IPS), switch type, and weight are confirmed on the product page or with the store (09 849 4888) before relying on any single spec.
@@ -96,7 +97,7 @@
     "@type": "Offer",
     "price": "169.00",
     "priceCurrency": "NZD",
-    "availability": "https://schema.org/InStock",
+    "availability": "https://schema.org/OutOfStock",
     "url": "https://www.extremepc.co.nz/mchose-ax5-pro-max-magnesium-alloy-wireless-gaming-mouse-pink-blue/",
     "seller": {
       "@type": "Organization",

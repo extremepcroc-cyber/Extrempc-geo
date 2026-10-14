@@ -4,6 +4,7 @@
 **SKU:** KEYCIDC75BMS
 **MPN:** 6907584990773
 **URL:** https://www.extremepc.co.nz/cidoo-c75-rapid-trigger-wired-mechanical-gaming-keyboard-black-gateron-ks-20u-magnetic-switch-81-key/
+**Status:** OUT OF STOCK - last checked 2026-10-14
 
 ## Quick Specs
 - **Layout**: 81 keys, 75% compact — full F-row, arrow cluster, function block, no numpad
@@ -95,7 +96,7 @@
     "@type": "Offer",
     "price": "269.00",
     "priceCurrency": "NZD",
-    "availability": "https://schema.org/InStock",
+    "availability": "https://schema.org/OutOfStock",
     "url": "https://www.extremepc.co.nz/cidoo-c75-rapid-trigger-wired-mechanical-gaming-keyboard-black-gateron-ks-20u-magnetic-switch-81-key/",
     "seller": {
       "@type": "Organization",

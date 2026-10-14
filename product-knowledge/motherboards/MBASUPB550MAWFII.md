@@ -3,12 +3,12 @@
 **Price:** NZD $209.0 (incl. GST)
 **SKU:** MBASUPB550MAWFII
 **URL:** https://www.extremepc.co.nz/asus-prime-b550m-a-wifi-ii-amd-am4-matx-motherboard/
-**Stock:** OUT OF STOCK (verified 2026-09-10, BC API inventory=0; Onehunga not available online)
+**Stock:** In Stock (verified 2026-10-10, BC API inventory=1)
 
 ## Quick Specs
 - CPU Socket: AM4
 - Chipset: B550
-- Memory Type: DDR5
+- Memory Type: DDR4
 - Form Factor: mATX
 
 ## Compatibility Notes

@@ -4,7 +4,7 @@
 **SKU:** GPUCOL5080UW16
 **Brand:** Colorful
 **URL:** https://www.extremepc.co.nz/colorful-igame-geforce-rtx-5080-ultra-w-oc-16gb-v-gddr7-graphics-card/
-**Stock:** We have plenty in stock (OH=10)
+**Stock:** Out of stock (OH=0, verified 2026-10-12; was OH=10 as of 09-08)
 
 ## Quick Specs
 - GPU: NVIDIA GeForce RTX 5080 (Blackwell)
@@ -15,6 +15,7 @@
 - Power Connectors: 2x 8-pin or 1x 12VHPWR (16-pin)
 - Target Resolution: 4K high / 1440p ultra
 - AIB Variant: iGame "Ultra W" — WHITE premium variant (sibling to GPUCOL58U162 black)
+- **Status:** OUT OF STOCK (verified 2026-10-12, BC API OH=0; sibling black GPUCOL58U162 also out of stock 2026-10-12)
 - Note: specs are standard RTX 5080 reference values — the ExtremePC product page carries no spec table.
 
 ## Compatibility Notes

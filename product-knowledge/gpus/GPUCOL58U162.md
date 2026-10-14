@@ -3,7 +3,7 @@
 **Price:** NZD $2,999.00 (incl. GST) — BC API verified 2026-09-08 (was $2,899)
 **SKU:** GPUCOL58U162
 **URL:** https://www.extremepc.co.nz/rtx-30-series/colorful-igame-geforce-rtx-5080-ultra-oc-16gb-v2-v-graphics-card/
-**Stock:** Only a few left in stock
+**Status:** OUT OF STOCK (verified 2026-10-12, BC API OH=0; history: OH=1 → sold out 2026-10-12; sibling white variant GPUCOL5080UW16 also out of stock 2026-10-12)
 
 ## Quick Specs
 - GPU: NVIDIA GeForce RTX 5080 (Blackwell)

@@ -3,7 +3,7 @@
 **Price:** NZD $99.00 (incl. GST)
 **SKU:** PSUGIG650SSI
 **URL:** https://www.extremepc.co.nz/gigabyte-p650ss-ice-white-650w-atx-3-1-ready-80-plus-silver-power-supply-gp-p650/
-**Stock:** We have plenty in stock
+**Stock:** OUT OF STOCK (verified 2026-10-07, BC API OH=0)
 
 ## Quick Specs
 - Wattage: 650W

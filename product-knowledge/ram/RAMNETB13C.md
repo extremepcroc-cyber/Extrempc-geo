@@ -3,7 +3,7 @@
 **Price:** NZD $299.00 (incl. GST) — BC API verified 2026-09-05 (increased from $259)
 **SKU:** RAMNETB13C
 **URL:** https://www.extremepc.co.nz/netac-basic-16gb-ddr4-3200-sodimm-laptop-ram-ntbsd4n32sp-16/
-**Stock:** We have plenty in stock
+**Stock:** OUT OF STOCK (verified 2026-10-06 — absent from 10-06 EVAcache, was OH=6)
 
 ## Quick Specs
 - Type: DDR4

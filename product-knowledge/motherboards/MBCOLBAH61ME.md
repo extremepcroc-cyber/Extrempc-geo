@@ -3,7 +3,7 @@
 **Price:** NZD $159.0 (incl. GST)
 **SKU:** MBCOLBAH61ME
 **URL:** https://www.extremepc.co.nz/colorful-battle-ax-h610m-e-wifi-v20-ddr4-wifi-5-m-atx-intel-motherboard/
-**Stock:** Plenty in stock
+**Stock:** OUT OF STOCK (verified 2026-10-07, BC API OH=0)
 
 ## Quick Specs
 - Chipset: H610

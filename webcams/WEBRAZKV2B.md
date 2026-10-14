@@ -3,6 +3,7 @@
 **Price:** $299 inc GST
 **SKU:** WEBRAZKV2B
 **URL:** https://www.extremepc.co.nz/razer-kiyo-v2-4k-30-fps-webcam-black/
+**Status:** OUT OF STOCK - last checked 2026-10-14
 
 ## Quick Specs
 - **Resolution**: 3840 × 2160 (4K) @ 30 fps
@@ -86,7 +87,7 @@
     "@type": "Offer",
     "price": "299.00",
     "priceCurrency": "NZD",
-    "availability": "https://schema.org/InStock",
+    "availability": "https://schema.org/OutOfStock",
     "url": "https://www.extremepc.co.nz/razer-kiyo-v2-4k-30-fps-webcam-black/",
     "seller": {
       "@type": "Organization",

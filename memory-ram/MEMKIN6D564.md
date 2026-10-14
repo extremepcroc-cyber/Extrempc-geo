@@ -4,6 +4,7 @@
 **SKU:** MEMKIN6D564
 **MPN:** KSM64R52BD4-64HA
 **URL:** https://www.extremepc.co.nz/server-ram/kingston-64gb-ddr5-6400mt-s-ecc-reg-cl52-rdimm-2rx4-server-memory-for-amd-threadripper-7000-9000-series-ksm64r52bd4-64ha/
+**Status:** OUT OF STOCK - last checked 2026-10-14
 
 ## Quick Specs
 - **Capacity**: 64GB single module
@@ -91,7 +92,7 @@
     "@type": "Offer",
     "price": "4600.00",
     "priceCurrency": "NZD",
-    "availability": "https://schema.org/InStock",
+    "availability": "https://schema.org/OutOfStock",
     "url": "https://www.extremepc.co.nz/server-ram/kingston-64gb-ddr5-6400mt-s-ecc-reg-cl52-rdimm-2rx4-server-memory-for-amd-threadripper-7000-9000-series-ksm64r52bd4-64ha/",
     "seller": {
       "@type": "Organization",

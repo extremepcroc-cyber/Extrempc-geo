@@ -11,4 +11,5 @@
 - **Ergonomic:** Yes
 - **Gaming:** Yes
 
-**Status:** OUT OF STOCK (BC API verified 2026-09-27, Onehunga OH=0)
+**Status:** In Stock (BC API verified 2026-10-09, inventory_level=2)
+**Price:** NZD $199.00 (incl. GST)

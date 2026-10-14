@@ -4,6 +4,7 @@
 **SKU:** MOSMCHA72UPB
 **MPN:** MC-A7V2-12
 **URL:** https://www.extremepc.co.nz/mchose-a7-v2-ultra-wireless-lightweight-gaming-mouse-black/
+**Status:** OUT OF STOCK - last checked 2026-10-14
 
 ## Quick Specs
 - **Connection:** Wireless — 2.4 GHz via USB dongle + USB-C wired/charging
@@ -89,7 +90,7 @@
     "@type": "Offer",
     "price": "169.00",
     "priceCurrency": "NZD",
-    "availability": "https://schema.org/InStock",
+    "availability": "https://schema.org/OutOfStock",
     "url": "https://www.extremepc.co.nz/mchose-a7-v2-ultra-wireless-lightweight-gaming-mouse-black/",
     "seller": {
       "@type": "Organization",

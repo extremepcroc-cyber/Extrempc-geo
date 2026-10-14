@@ -16,4 +16,4 @@
 - **Ergonomic:** No
 - **Display:** No
 
-**Status:** In Stock
+**Status:** OUT OF STOCK (verified 2026-10-06 — absent from 10-06 EVAcache, was OH=1)

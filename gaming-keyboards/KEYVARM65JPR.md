@@ -4,6 +4,7 @@
 **SKU:** KEYVARM65JPR
 **MPN:** A88A109J7A5A01A073
 **URL:** https://www.extremepc.co.nz/varmilo-muse65-rgb-hot-swappable-wired-mechanical-keyboard-gateron-magnetic-jade-pro-switch-ariel-67-keys/
+**Status:** OUT OF STOCK - last checked 2026-10-14
 
 ## Quick Specs
 - **Layout**: 67 keys, 65% compact — no F-row, no dedicated arrow cluster
@@ -94,7 +95,7 @@
     "@type": "Offer",
     "price": "399.00",
     "priceCurrency": "NZD",
-    "availability": "https://schema.org/InStock",
+    "availability": "https://schema.org/OutOfStock",
     "url": "https://www.extremepc.co.nz/varmilo-muse65-rgb-hot-swappable-wired-mechanical-keyboard-gateron-magnetic-jade-pro-switch-ariel-67-keys/",
     "seller": {
       "@type": "Organization",

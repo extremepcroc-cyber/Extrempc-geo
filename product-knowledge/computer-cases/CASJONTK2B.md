@@ -3,7 +3,7 @@
 **Price:** NZD $229.0 (incl. GST)
 **SKU:** CASJONTK2B
 **URL:** https://www.extremepc.co.nz/jonsbo-tk-2-black-atx-hyperboloid-glass-mid-tower-case-black/
-**Stock:** Only a few left
+**Status:** OUT OF STOCK (verified 2026-10-12, BC API OH=0; history: OH=1 → sold out 2026-10-12; sibling TK-4 (CASJONTK4B) in stock at $299)
 
 ## Quick Specs
 - Max GPU Length: 405mm
