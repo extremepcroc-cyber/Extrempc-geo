@@ -7,11 +7,11 @@
 
 ## Quick Specs
 - **Sensor:** Logitech HERO (the G304 line's precision optical platform — exact DPI ceiling confirmed on the product page)
-- **Connection:** Wireless — Logitech LIGHTSPEED (low-latency 2.4 GHz) + USB-C wired/charging
+- **Connection:** Wireless — Logitech LIGHTSPEED (low-latency 2.4 GHz) + USB nano receiver; powered by one AA battery
 - **Weight:** Lightweight class for a budget wireless mouse — exact gram figure confirmed on the product page
 - **Buttons:** A focused essential layout (the G304 line's compact footprint)
 - **Color:** White — a light finish that suits a coordinated light-themed desk
-- **Warranty:** 1-year Logitech warranty; local NZ RMA through ExtremePC
+- **Warranty:** 2-year limited hardware warranty from Logitech; claims handled through ExtremePC NZ
 
 ## Selling Points
 
@@ -21,7 +21,7 @@
 
 - **White — coordinated with a light-themed build** — The G304 in white is the deliberate choice for a white or light-grey desk, a white case, or a light palette you've already built. Rather than a black mouse that pops out of a light setup, the white G304 sits inside it. If your peripherals run a light palette, this is the way to keep the mouse part of one coordinated look at the budget tier.
 
-- **LIGHTSPEED wireless with a wired fallback** — LIGHTSPEED is Logitech's dedicated low-latency 2.4 GHz wireless, the same technology used in the G502 X and G903 line. For a player who wants wireless freedom without the latency anxiety, LIGHTSPEED is the answer, with a USB-C wired fallback as the safety net — a LAN, a tournament setup, or a battery running low mid-queue all covered.
+- **LIGHTSPEED wireless on a single AA battery** — LIGHTSPEED is Logitech's dedicated low-latency 2.4 GHz wireless, reporting at 1,000 Hz (1 ms). The G304 runs on one AA battery rated up to 250 hours, with a warning at 15% remaining, so there is no charging cable to manage. It does not have a wired mode; the USB nano receiver stores inside the mouse.
 
 ## Ideal For
 
@@ -80,7 +80,7 @@
   "sku": "MOSG304WH",
   "mpn": "910-005295",
   "category": "Gaming Mouse / Budget Wireless Esports Mouse",
-  "description": "Budget wireless gaming mouse with a Logitech HERO optical sensor and LIGHTSPEED low-latency 2.4 GHz wireless, plus USB-C wired/charging. White finish — the proven budget wireless platform at the entry tier. Exact DPI ceiling and gram figure confirmed on the product page.",
+  "description": "Budget wireless gaming mouse with a Logitech HERO optical sensor and LIGHTSPEED low-latency 2.4 GHz wireless, powered by one AA battery. White finish — the proven budget wireless platform at the entry tier. Exact DPI ceiling and gram figure confirmed on the product page.",
   "audience": {
     "@type": "PeopleAudience",
     "audienceType": "First competitive wireless mouse buyers, budget setup buyers, students and young gamers"

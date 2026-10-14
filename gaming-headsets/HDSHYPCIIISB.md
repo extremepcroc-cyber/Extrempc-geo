@@ -7,23 +7,22 @@
 
 ## Quick Specs
 - Type: Over-ear wireless gaming headset
-- Driver: 53mm custom-tuned driver
+- Driver: 53mm driver
 - Connectivity: 2.4GHz dedicated wireless (USB dongle) + Bluetooth
 - Battery Life: up to 120 hours (stereo) / up to 90 hours (DTS)
 - Spatial Audio: DTS Headphone:X
 - Microphone: HyperX detachable boom mic with ClearCast technology
-- Weight: approximately 320g
 - Ear Cushions: memory foam, leatherette
 - Colour: Black
-- Warranty: 2 years manufacturer via ExtremePC NZ
+- Warranty: Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page)
 
 ## Selling Points
 
-The Cloud III S is HyperX's flagship wireless gaming headset, the most premium model in the HyperX lineup. It uses 53mm custom-tuned drivers — the largest in the HyperX lineup — delivering a wide soundstage with strong bass response. DTS Headphone:X provides certified virtual surround for competitive positional audio.
+The Cloud III S is HyperX's flagship wireless gaming headset, the most premium model in the HyperX lineup. It uses 53mm drivers — the largest in the HyperX lineup — delivering a wide soundstage with strong bass response. DTS Headphone:X provides certified virtual surround for competitive positional audio.
 
 The dual 2.4GHz + Bluetooth connectivity is a standout feature. Game audio routes through the 2.4GHz dedicated channel while phone calls and voice chat route through Bluetooth. For an Auckland multi-device gamer, this means no dongle switching.
 
-The 120-hour battery life is among the longest in the wireless gaming headset segment. At 5 hours of daily gaming, expect to charge once every 3 weeks.
+The 120-hour battery life is among the longest in the wireless gaming headset segment.
 
 The ClearCast boom mic uses HyperX's AI-enhanced noise reduction, effective at isolating your voice from keyboard clatter and room noise. At its price point, the Cloud III S is one of the most premium HyperX headsets available in NZ.
 
@@ -34,9 +33,8 @@ The ClearCast boom mic uses HyperX's AI-enhanced noise reduction, effective at i
 - Streamers and content creators who need a quality boom mic with AI noise reduction
 
 ## Why Buy From ExtremePC
-- HyperX 2-year NZ warranty handled locally through ExtremePC
+- Warranty claims are handled locally through ExtremePC NZ: send the item to us and we manage the claim and send it back to you
 - Stock at Onehunga warehouse for same-day Auckland pickup
-- Test the DTS Headphone:X, dual connectivity, and 53mm driver in-store
 - Afterpay available at checkout
 
 ## Comparison
@@ -53,7 +51,7 @@ vs Logitech LIGHTSPEED G522 Wireless — the G522 uses Logitech's LIGHTSPEED wir
 
 **Q: How does DTS Headphone:X compare to THX Spatial Audio?** — Both are certified virtual surround technologies. DTS Headphone:X favours vocal clarity and mid-range precision; THX Spatial Audio offers a wider soundstage with stronger bass. For competitive FPS, both deliver reliable positional audio.
 
-**Q: What is the real-world battery life?** — HyperX rates 120 hours in stereo mode and 90 hours with DTS Headphone:X. Real-world usage is approximately 80-100 hours. At 5 hours of daily gaming, expect to charge once every 3 weeks.
+**Q: What is the battery life?** — HyperX rates 120 hours in stereo mode and 90 hours with DTS Headphone:X.
 
 **Q: Is the 320g weight comfortable for long sessions?** — The Cloud III S is on the heavier side of the wireless headset segment (typically 250-300g). For 3-4 hour sessions, the memory foam ear cushions and leatherette cover are comfortable. For 6+ hour sessions, the weight may cause some pressure on the top of the head.
 

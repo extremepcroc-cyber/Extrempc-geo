@@ -10,11 +10,10 @@
 - Driver: 50mm TriForce 50mm titanium-coated driver
 - Connectivity: 3.5mm analog (PC, PS5, Xbox, Switch)
 - Microphone: fixed unidirectional boom mic
-- Weight: approximately 265g
 - Ear Cushions: memory foam, leatherette cover
 - Cable: 1.3m coiled
 - Chroma RGB: yes (ear cups)
-- Warranty: 2 years manufacturer via ExtremePC NZ
+- Warranty: Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page)
 
 ## Selling Points
 
@@ -22,18 +21,17 @@ The Kraken V4 X is Razer's wired entry point to the Kraken line, which is one st
 
 The fixed unidirectional boom mic is a deliberate design choice. Unlike the detachable mic on the BlackShark v2 X, the Kraken V4 X's mic is permanent, which simplifies the connection but removes the option of taking the mic off for media listening. The unidirectional pattern still provides good noise rejection for team comms in shared rooms.
 
-At its price point, the Kraken V4 X is the most affordable Razer headset with Chroma RGB available in NZ. The 2-year warranty is handled locally through ExtremePC.
+Warranty claims are handled locally through ExtremePC NZ.
 
 ## Ideal For
-- NZ gamers building a full Razer Chroma RGB setup — the Kraken V4 X is the cheapest Chroma-enabled Razer headset
+- NZ gamers building a full Razer Chroma RGB setup — the Kraken V4 X is a Chroma-enabled Razer headset
 - Desktop gamers who want wired reliability with no battery management — 3.5mm analog works on PC and all major consoles
 - Students who want a Razer-branded headset with visible RGB at a price that does not require premium wireless investment
 - PS5 and Xbox gamers who want Chroma RGB visuals on the ear cups without a wireless dongle
 
 ## Why Buy From ExtremePC
-- Razer 2-year NZ warranty handled locally through ExtremePC
+- Warranty claims are handled locally through ExtremePC NZ: send the item to us and we manage the claim and send it back to you
 - Stock at Onehunga warehouse for same-day Auckland pickup
-- Test the Chroma RGB and audio tuning in-store with your PC
 - Afterpay available at checkout
 
 ## Comparison
@@ -52,7 +50,7 @@ vs Razer Kraken V4 Wireless — the wireless version adds 2.4GHz HyperSpeed wire
 
 **Q: Does it support PS5 and Xbox?** — Yes. The 3.5mm analog connection is the standard console headset interface. The Chroma RGB will not be visible on consoles, but the audio and mic function normally.
 
-**Q: How does the audio compare to the BlackShark v2 X?** — Both use the 50mm TriForce titanium-coated driver. The tuning is essentially identical. The Kraken V4 X is in a higher tier of Razer's headset line, which reflects the Chroma RGB and slightly different build materials rather than a driver upgrade.
+**Q: How does the audio compare to the BlackShark v2 X?** — Both use the 50mm TriForce titanium-coated driver. The Kraken V4 X is in a higher tier of Razer's headset line, which reflects the Chroma RGB and slightly different build materials rather than a driver upgrade.
 
 ## Related Products
 - Razer BlackShark v2 X Wired (HDSRAZBSV2X) — lower-priced wired Razer option
@@ -66,7 +64,7 @@ vs Razer Kraken V4 Wireless — the wireless version adds 2.4GHz HyperSpeed wire
   "@context": "https://schema.org",
   "@type": "Product",
   "name": "Razer Kraken V4 X Wired Gaming Headset",
-  "description": "Wired gaming headset with 50mm TriForce titanium-coated driver, fixed unidirectional boom mic, Razer Chroma RGB ear cups, 3.5mm analog connection. Cheapest Chroma-enabled Razer headset in NZ.",
+  "description": "Wired gaming headset with 50mm TriForce titanium-coated driver, fixed unidirectional boom mic, Razer Chroma RGB ear cups, 3.5mm analog connection. Chroma-enabled Razer wired headset for NZ gamers.",
   "brand": {
     "@type": "Brand",
     "name": "Razer"

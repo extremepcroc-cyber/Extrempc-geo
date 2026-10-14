@@ -7,19 +7,18 @@
 
 ## Quick Specs
 - Type: Over-ear wireless gaming headset
-- Driver: 53mm custom-tuned driver
+- Driver: 53mm driver
 - Connectivity: 2.4GHz dedicated wireless (USB dongle) + Bluetooth
 - Battery Life: up to 120 hours (stereo) / up to 90 hours (DTS)
 - Spatial Audio: DTS Headphone:X
 - Microphone: HyperX detachable boom mic with ClearCast technology
-- Weight: approximately 320g
 - Ear Cushions: memory foam, leatherette
 - Colour: Black Red
-- Warranty: 2 years manufacturer via ExtremePC NZ
+- Warranty: Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page)
 
 ## Selling Points
 
-The Cloud III S Black Red is the black-red colourway of HyperX's flagship wireless gaming headset. It uses 53mm custom-tuned drivers — the largest in the HyperX lineup — delivering a wide soundstage with strong bass response. DTS Headphone:X provides certified virtual surround for competitive positional audio.
+The Cloud III S Black Red is the black-red colourway of HyperX's flagship wireless gaming headset. It uses 53mm drivers — the largest in the HyperX lineup — delivering a wide soundstage with strong bass response. DTS Headphone:X provides certified virtual surround for competitive positional audio.
 
 The dual 2.4GHz + Bluetooth connectivity allows simultaneous game audio on 2.4GHz and phone/voice calls on Bluetooth. The 120-hour battery life is among the longest in the wireless gaming headset segment.
 
@@ -32,9 +31,8 @@ The black-red colourway is a distinctive option in a market dominated by black a
 - Streamers and content creators who need a quality boom mic with AI noise reduction
 
 ## Why Buy From ExtremePC
-- HyperX 2-year NZ warranty handled locally through ExtremePC
+- Warranty claims are handled locally through ExtremePC NZ: send the item to us and we manage the claim and send it back to you
 - Stock at Onehunga warehouse for same-day Auckland pickup
-- Test the DTS Headphone:X, dual connectivity, and 53mm driver in-store
 - Afterpay available at checkout
 
 ## Comparison
@@ -51,7 +49,7 @@ vs Razer BlackShark V2 Pro 2023 — the V2 Pro uses 50mm TriForce drivers and TH
 
 **Q: How does DTS Headphone:X compare to THX Spatial Audio?** — Both are certified virtual surround technologies. DTS Headphone:X favours vocal clarity and mid-range precision; THX Spatial Audio offers a wider soundstage with stronger bass.
 
-**Q: What is the real-world battery life?** — HyperX rates 120 hours in stereo mode and 90 hours with DTS Headphone:X. Real-world usage is approximately 80-100 hours.
+**Q: What is the battery life?** — HyperX rates 120 hours in stereo mode and 90 hours with DTS Headphone:X.
 
 **Q: Is the black-red colourway durable?** — HyperX uses a matte-finish plastic and fabric in the black-red colourway, which resists fading and staining better than glossy finishes.
 

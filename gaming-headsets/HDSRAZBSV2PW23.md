@@ -12,15 +12,14 @@
 - Battery Life: up to 70 hours (HyperSpeed) / up to 120 hours (Bluetooth)
 - Spatial Audio: THX Spatial Audio virtual surround
 - Microphone: ClearVoice unidirectional boom mic
-- Weight: approximately 265g
 - Colour: White
-- Warranty: 2 years manufacturer via ExtremePC NZ
+- Warranty: Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page)
 
 ## Selling Points
 
 The BlackShark V2 Pro 2023 is Razer's flagship wireless gaming headset, combining HyperSpeed 2.4GHz wireless with Bluetooth in a dual-mode connectivity design. This means you can game on HyperSpeed (lowest latency) and take a phone call on Bluetooth without unplugging a dongle. The 70-hour HyperSpeed battery life is the longest in Razer's wireless headset lineup, and the 120-hour Bluetooth rating covers all-day office or study use.
 
-The 50mm TriForce titanium-coated drivers are Razer's largest driver in the BlackShark line, tuned for a wide soundstage with strong bass response. THX Spatial Audio provides certified virtual surround — a different technology from DTS Headphone:X but similarly measured and consistent for competitive positional audio.
+The BlackShark V2 Pro uses 50mm TriForce titanium-coated drivers. THX Spatial Audio provides certified virtual surround — a different technology from DTS Headphone:X but similarly measured and consistent for competitive positional audio.
 
 The ClearVoice unidirectional boom mic uses Razer's AI-enhanced noise reduction, which is effective at isolating your voice from keyboard clatter and room noise. For an Auckland streamer or Discord-heavy gamer, the mic quality is a step above the value-tier options.
 
@@ -31,9 +30,8 @@ The ClearVoice unidirectional boom mic uses Razer's AI-enhanced noise reduction,
 - NZ gamers who want the longest battery life in the Razer wireless lineup — 70 hours on HyperSpeed means one charge per week at 5 hours daily
 
 ## Why Buy From ExtremePC
-- Razer 2-year NZ warranty handled locally through ExtremePC
+- Warranty claims are handled locally through ExtremePC NZ: send the item to us and we manage the claim and send it back to you
 - Stock at Onehunga warehouse for same-day Auckland pickup
-- Test the THX Spatial Audio and dual connectivity in-store
 - Afterpay available at checkout
 
 ## Comparison
@@ -42,17 +40,17 @@ vs Razer BlackShark V2 HyperSpeed Wireless — the HyperSpeed model is a tier be
 
 vs HyperX Cloud III S Wireless — the Cloud III S uses 53mm drivers and DTS Headphone:X. The BlackShark V2 Pro uses 50mm TriForce drivers and THX Spatial Audio. Both are premium-tier wireless options with different spatial audio engines. Choose based on which spatial audio technology you prefer.
 
-vs Logitech LIGHTSPEED G522 Wireless RGB — the G522 uses Logitech's LIGHTSPEED wireless and a different driver tuning. Both are premium-tier options. The BlackShark V2 Pro adds Bluetooth dual-mode and THX Spatial Audio.
+vs Logitech LIGHTSPEED G522 Wireless RGB — the G522 uses Logitech's LIGHTSPEED wireless. Both are premium-tier options. The BlackShark V2 Pro adds Bluetooth dual-mode and THX Spatial Audio.
 
 ## FAQ
 
 **Q: Can I use HyperSpeed and Bluetooth at the same time?** — Yes. The BlackShark V2 Pro supports simultaneous HyperSpeed and Bluetooth connections. Game audio routes through HyperSpeed while phone calls and voice chat route through Bluetooth. This is the key differentiator from the single-mode HyperSpeed model.
 
-**Q: How does THX Spatial Audio compare to DTS Headphone:X?** — Both are certified virtual surround technologies. THX Spatial Audio is tuned for a slightly wider soundstage with stronger bass; DTS Headphone:X favours vocal clarity and mid-range precision. For competitive FPS, both deliver reliable positional audio. Choose based on your preference after in-store testing.
+**Q: How does THX Spatial Audio compare to DTS Headphone:X?** — Both are certified virtual surround technologies aimed at positional audio in games. Which one sounds better is a matter of personal preference, so read reviews of the specific headsets you are considering.
 
 **Q: Is the ClearVoice mic good for streaming?** — The ClearVoice unidirectional boom mic with AI noise reduction is adequate for Discord and team comms. For serious streaming, pair with a dedicated USB microphone. The ClearVoice excels at rejecting keyboard noise, which is the main advantage over a standard boom mic.
 
-**Q: What is the real-world battery life?** — Razer rates 70 hours on HyperSpeed. Real-world usage with RGB off is approximately 55-65 hours. At 5 hours of daily gaming, expect to charge once every 11-13 days.
+**Q: What is the battery life?** — Razer rates 70 hours on HyperSpeed.
 
 ## Related Products
 - Razer BlackShark V2 Pro 2023 Wireless Black (HDSRAZBSV2PBK) — same model, black colourway

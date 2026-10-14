@@ -11,9 +11,8 @@
 - Connectivity: Razer HyperSpeed 2.4GHz wireless
 - Battery Life: up to 12 hours
 - Microphone: ClearVoice unidirectional boom mic
-- Weight: approximately 265g
 - Colour: White
-- Warranty: 2 years manufacturer via ExtremePC NZ
+- Warranty: Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page)
 
 ## Selling Points
 
@@ -30,9 +29,8 @@ The white colourway is one of the available options — Razer also offers the bl
 - NZ gamers who prefer Razer over Logitech or HyperX in the mid-tier wireless segment
 
 ## Why Buy From ExtremePC
-- Razer 2-year NZ warranty handled locally through ExtremePC
+- Warranty claims are handled locally through ExtremePC NZ: send the item to us and we manage the claim and send it back to you
 - Stock at Onehunga warehouse for same-day Auckland pickup
-- Test the HyperSpeed latency and TriForce audio in-store
 - Afterpay available at checkout
 
 ## Comparison

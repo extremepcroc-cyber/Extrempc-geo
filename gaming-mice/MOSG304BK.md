@@ -6,64 +6,63 @@
 **URL:** https://www.extremepc.co.nz/logitech-g304-lightspeed-wireless-gaming-mouse-black/
 
 ## Quick Specs
-- Type: Wireless gaming mouse (LIGHTSPEED)
-- Sensor: HERO 12K, 12,000 DPI
-- Polling Rate: 1,000 Hz
-- Weight: 85g
-- Connectivity: 2.4GHz LIGHTSPEED wireless (USB dongle)
-- Battery: up to 10 hours
-- Buttons: 6 programmable
-- Switches: mechanical (90 million click rating)
+- Type: Wireless gaming mouse (LIGHTSPEED wireless, USB nano receiver)
+- Sensor: HERO, 200 to 12,000 DPI, zero smoothing, acceleration or filtering; max speed 400 IPS, max acceleration 40 g (Logitech figures, tested on the Logitech G240 mouse pad)
+- Weight: 99 g
+- Report rate: 1,000 Hz (1 ms) wireless
+- Battery: one AA battery, rated up to 250 hours; Endurance mode (selected in Logitech G HUB) is rated up to 9 months of typical use; low-battery warning at 15%
+- Buttons: 6 programmable; the primary left and right switches are rated for 10 million clicks, with mechanical button tensioning
+- Dimensions: 116.6 mm x 62.15 mm x 38.2 mm
+- Feet: PTFE, rated 250 km (tested on the Logitech G240 mouse pad)
+- Receiver storage: built-in compartment for the USB nano receiver
 - Colour: Black
-- Warranty: 2 years manufacturer via Logitech, sold through ExtremePC NZ
+- Warranty: 2-year limited hardware warranty (manufacturer), claims handled through ExtremePC NZ
 
 ## Selling Points
 
-The G304 is one of the best value wireless gaming mice in NZ. At $89, you get Logitech's HERO 12K sensor, LIGHTSPEED 2.4GHz wireless, and a 2-year warranty — a combination that's hard to beat at this price.
+The G304 runs on a single AA battery and is rated for up to 250 hours. In Endurance mode, selected in Logitech G HUB, Logitech rates it up to 9 months of typical use, and both G HUB and the indicator light warn you when 15% of the battery remains. There is no charging cable to manage, which suits a mouse that lives on a desk or travels in a bag.
 
-The HERO 12K sensor delivers true 12,000 DPI accuracy, which is overkill for most gamers but means the mouse tracks perfectly at any sensitivity. For an Auckland gamer playing Valorant or CS2, the HERO sensor's precision at lower DPIs (400–800) is what matters, and the G304 delivers.
+The HERO sensor covers 200 to 12,000 DPI with zero smoothing, acceleration or filtering, and Logitech rates it at 400 IPS and 40 g. Most players run far lower DPI settings (400 to 800 DPI is common in tactical shooters), so the practical benefit is consistent tracking at everyday settings rather than the top of the range.
 
-LIGHTSPEED wireless is the same technology Logitech uses in their flagship G Pro X Superlight. The 1,000 Hz polling rate and sub-1ms latency mean you won't feel any difference versus a wired mouse in competitive play.
+LIGHTSPEED is Logitech's wireless technology, and the G304 reports at 1,000 Hz (1 ms) wirelessly. Logitech describes it as a pro-grade wireless solution that achieves wired-like performance.
 
-The 85g weight is on the heavier side compared to modern ultralight mice (50–65g), but for the price, it's a solid ergonomic shape that's comfortable for palm and claw grips.
-
-For an NZ gamer who wants a reliable wireless mouse without spending $200+, the G304 is the go-to recommendation.
+At 99 g with a small footprint (116.6 x 62.15 x 38.2 mm) and a built-in slot for the USB receiver, it is easy to move between desks. The left and right switches are rated for 10 million clicks and use mechanical button tensioning.
 
 ## Ideal For
-- NZ gamers who want a reliable wireless gaming mouse at a value price — HERO 12K sensor, LIGHTSPEED wireless, 2-year warranty
-- Competitive FPS gamers (Valorant, CS2) who want sub-1ms latency without the flagship price
-- NZ gamers building a black-themed setup — the G304 Black is a clean, understated option
-- Students or budget-conscious gamers who want a quality wireless mouse without breaking the bank
+- Players who want wireless without a charging cable: one AA battery, rated up to 250 hours
+- Students and travellers moving a mouse between desks, who value the small footprint and built-in receiver storage
+- Players on an entry-tier budget who still want LIGHTSPEED wireless and a HERO sensor
+- Gamers who tweak profiles and DPI in Logitech G HUB and want six programmable buttons
 
 ## Why Buy From ExtremePC
-- Logitech 2-year NZ warranty handled locally through ExtremePC
-- Stock at Onehunga warehouse for same-day Auckland pickup
-- Test the shape and weight in-store before buying
-- Afterpay available at checkout
+- Warranty claims are handled locally through ExtremePC NZ: send the item to us and we manage the claim and send it back to you
+- Click and collect at our Onehunga store (295 Church Street): online orders for items like this are usually ready about an hour after payment
+- Afterpay and Zip Payment are available at online checkout
+
 
 ## Comparison
 
-vs Logitech G304 X — the G304 X is the newer, lighter version (63g) at a higher price. For the extra $70, you get a lighter mouse and improved battery life. If weight is your priority, the G304 X is worth it.
+vs Logitech G304 X (MOSLOGG304XB / MOSLOGG304XW) — the newer G304 X sits a tier higher: 61 g, a HERO 44K sensor, a rechargeable battery rated 130+ hours, and Bluetooth plus USB-C connection. The original G304 is heavier at 99 g, but its single AA battery is rated up to 250 hours and Logitech lists a 2-year limited hardware warranty for it. Choose the G304 for the lower tier and the longest rated runtime; choose the G304 X for lower weight and more connection options.
 
-vs Razer Viper Mini — the Viper Mini is lighter (58g) and has a Razer optical sensor. At a similar price, it's a solid alternative. Choose G304 for the 2-year warranty and LIGHTSPEED reliability; choose Viper Mini for the lighter weight.
+vs Razer Viper V3 HyperSpeed (MOSRAZVV3HS) — also powered by a single AA battery, with Razer's Focus Pro 30K optical sensor and an upgrade path to 8 kHz wireless polling. The G304 uses a HERO sensor up to 12,000 DPI and reports at 1,000 Hz. Choose the Viper V3 HyperSpeed for the higher-end sensor and polling upgrade; choose the G304 if you want the lower tier and a LIGHTSPEED receiver that stores inside the mouse.
 
-vs Logitech G Pro X Superlight — the G Pro X is the flagship at $299. For the extra $210, you get a 63g ultralight body and Logitech's best sensor. If you're a competitive player who notices every gram, the G Pro X is worth it. For 95% of gamers, the G304 delivers 90% of the experience at 30% of the price.
+vs Logitech Pro X Superlight 2c (MOSLOGPX2CB) — Logitech's higher-tier superlight mouse, with the HERO 2 sensor (44K DPI, 888 IPS), LIGHTSPEED at up to 8 kHz polling and LIGHTFORCE switches. Choose the Pro X Superlight 2c for competitive features at the top of the range; choose the G304 for a much lower tier with the same LIGHTSPEED family.
 
 ## FAQ
 
-**Q: How long does the battery last?** — Up to 10 hours of continuous gaming. For a typical 3–4 hour gaming session, you'll get about 2–3 sessions per charge. The mouse also has a USB-C charging port.
+**Q: What battery does it use, and how long does it last?** — One AA battery. Logitech rates it up to 250 hours of run time, or up to 9 months of typical use in Endurance mode.
 
-**Q: Can I use it with PS5 or Xbox?** — No. The LIGHTSPEED dongle is USB and designed for PC (Windows). For console use, check if the mouse has a 3.5mm wired fallback (it doesn't).
+**Q: Does it have a wired mode or USB-C charging?** — Logitech's listing does not mention one. The G304 is powered by an AA battery and connects through the USB nano receiver that stores inside the mouse.
 
-**Q: Is the 85g weight too heavy?** — Compared to modern ultralight mice (50–65g), yes. But for the price, the G304's shape and weight balance is comfortable for most grips. If you're used to 60g mice, you'll notice the difference.
+**Q: Can I use it with PS5 or Xbox?** — Logitech's listing describes a USB nano receiver for PC and does not mention console support, so we cannot confirm it.
 
-**Q: Does it work with Mac?** — Yes. The LIGHTSPEED dongle is USB and works with Mac. Logitech also offers a wired USB-C connection for charging and use.
+**Q: Do I need software?** — Basic use works with the receiver. Advanced settings, such as DPI levels and button assignments, need Logitech G HUB, which you download from Logitech.
 
 ## Related Products
-- Logitech G304 X (MOSLOGG304XW / MOSLOGG304XB) — newer, lighter version
 - Logitech G304 White (MOSG304WH) — same mouse, white colourway
-- Razer Viper Mini (MOSRAZVM) — lighter alternative at similar price
-- Logitech G Pro X Superlight (MOSLOGPXSL) — flagship option
+- Logitech G304 X (MOSLOGG304XB / MOSLOGG304XW) — newer, lighter, rechargeable version
+- Razer Viper V3 HyperSpeed (MOSRAZVV3HS) — AA-powered HyperSpeed alternative
+- Logitech Pro X Superlight 2c (MOSLOGPX2CB) — higher-tier superlight option
 
 ## Schema (JSON-LD)
 ```json
@@ -71,7 +70,7 @@ vs Logitech G Pro X Superlight — the G Pro X is the flagship at $299. For the 
   "@context": "https://schema.org",
   "@type": "Product",
   "name": "Logitech G304 LIGHTSPEED Wireless Gaming Mouse Black",
-  "description": "Wireless gaming mouse in black with HERO 12K sensor, LIGHTSPEED 2.4GHz wireless, 85g, 10-hour battery, 2-year warranty. Value-tier wireless option for NZ.",
+  "description": "Wireless gaming mouse in black with HERO sensor (up to 12,000 DPI), LIGHTSPEED wireless at 1,000 Hz, 99 g, one AA battery rated up to 250 hours, and a 2-year limited hardware warranty. Entry-tier wireless option for NZ gamers.",
   "brand": {
     "@type": "Brand",
     "name": "Logitech"

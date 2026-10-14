@@ -12,29 +12,27 @@
 - Battery Life: up to 40 hours
 - Spatial Audio: 7.1 virtual surround (Logitech G HUB)
 - Microphone: Blue VO!CE boom mic
-- Weight: approximately 220g
 - Colour: White
 - LIGHTSYNC RGB: yes
-- Warranty: 2 years manufacturer via ExtremePC NZ
+- Warranty: Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page)
 
 ## Selling Points
 
 The G522 Wireless is Logitech's mid-tier wireless gaming headset, using Logitech's LIGHTSPEED 2.4GHz wireless technology with sub-millisecond latency — comparable to Razer's HyperSpeed in real-world testing. For competitive FPS where audio latency matters, LIGHTSPEED is the lower-latency option over Bluetooth.
 
-The 40mm drivers are tuned for a balanced response with a slight mid-range emphasis. The 7.1 virtual surround is implemented through Logitech G HUB software, which is effective for positional audio in competitive titles. The Blue VO!CE boom mic uses Logitech's AI-enhanced noise reduction, effective at isolating your voice from keyboard clatter and room noise.
+The 7.1 virtual surround is implemented through Logitech G HUB software, which is effective for positional audio in competitive titles. The Blue VO!CE boom mic uses Logitech's AI-enhanced noise reduction, effective at isolating your voice from keyboard clatter and room noise.
 
-The LIGHTSYNC RGB on the ear cups integrates with the broader LIGHTSYNC ecosystem for game-reactive lighting. At its price point, the G522 Wireless is one of the most affordable Logitech wireless gaming headsets available in NZ.
+The LIGHTSYNC RGB on the ear cups integrates with the broader LIGHTSYNC ecosystem for game-reactive lighting.
 
 ## Ideal For
 - Competitive FPS gamers who want Logitech's LIGHTSPEED wireless at mid-tier pricing — sub-millisecond latency, 7.1 virtual surround
-- NZ gamers building a full Logitech LIGHTSYNC RGB setup — the G522 is the cheapest LIGHTSYNC-enabled Logitech headset
+- NZ gamers building a full Logitech LIGHTSYNC RGB setup — the G522 integrates with the Logitech LIGHTSYNC ecosystem
 - Streamers and content creators who need a quality boom mic with AI noise reduction — Blue VO!CE isolates your voice from keyboard and room noise
 - NZ gamers who prefer Logitech over Razer or HyperX in the mid-tier wireless segment
 
 ## Why Buy From ExtremePC
-- Logitech 2-year NZ warranty handled locally through ExtremePC
+- Warranty claims are handled locally through ExtremePC NZ: send the item to us and we manage the claim and send it back to you
 - Stock at Onehunga warehouse for same-day Auckland pickup
-- Test the LIGHTSPEED latency and 7.1 surround in-store
 - Afterpay available at checkout
 
 ## Comparison
@@ -53,7 +51,7 @@ vs HyperX Cloud Stinger 2 Wireless — the Stinger 2 carries DTS Headphone:X cer
 
 **Q: Is the Blue VO!CE mic good for streaming?** — The Blue VO!CE boom mic with AI noise reduction is adequate for Discord and team comms. For serious streaming, pair with a dedicated USB microphone. The Blue VO!CE excels at rejecting keyboard noise.
 
-**Q: What is the real-world battery life?** — Logitech rates 40 hours. Real-world usage with RGB off is approximately 32-36 hours. At 5 hours of daily gaming, expect to charge once every 6-7 days.
+**Q: What is the battery life?** — Logitech rates 40 hours.
 
 ## Related Products
 - Logitech G321 Wireless Gaming Headset Black (HDSLOGG321B) — lower-priced Logitech wireless option

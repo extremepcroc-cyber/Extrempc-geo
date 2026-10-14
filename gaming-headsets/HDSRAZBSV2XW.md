@@ -10,19 +10,18 @@
 - Driver: 50mm TriForce 50mm titanium-coated driver
 - Connectivity: 3.5mm analog (PC, PS5, Xbox, Switch)
 - Microphone: detachable unidirectional boom mic
-- Weight: approximately 260g
 - Ear Cushions: memory foam, leatherette cover
 - Colour: White
 - Cable: coiled, 1.3m
-- Warranty: 2 years manufacturer via ExtremePC NZ
+- Warranty: Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page)
 
 ## Selling Points
 
-The BlackShark v2 X White is the white colourway of Razer's entry-tier wired gaming headset. It carries the same 50mm TriForce titanium-coated driver as the black variant, tuned for a slightly bass-forward response that suits shooters and open-world games. The titanium coating on the diaphragm improves driver rigidity, reducing distortion at higher volumes.
+The BlackShark v2 X White is the white colourway of Razer's entry-tier wired gaming headset. It carries the same 50mm TriForce titanium-coated driver as the black variant. The titanium coating on the diaphragm improves driver rigidity, reducing distortion at higher volumes.
 
 The detachable unidirectional boom mic focuses on your voice and rejects side noise. For Discord team comms in a shared room, the unidirectional pattern is more effective than an omnidirectional mic at isolating your voice from background conversation. The detachable design means you can remove the mic for movie or music listening.
 
-At its price point, the BlackShark v2 X White is one of the most affordable Razer-branded headsets in the white colourway available in NZ. The 2-year Razer global warranty is handled locally through ExtremePC.
+Warranty claims are handled locally through ExtremePC NZ.
 
 ## Ideal For
 - Budget PC gamers who want a Razer-branded wired headset in white for a light-themed setup — 50mm TriForce drivers deliver directional audio at entry pricing
@@ -31,9 +30,8 @@ At its price point, the BlackShark v2 X White is one of the most affordable Raze
 - PS5 and Xbox gamers who want a Razer-branded headset in white — 3.5mm analog works across all three platforms
 
 ## Why Buy From ExtremePC
-- Razer 2-year NZ warranty handled locally through ExtremePC
+- Warranty claims are handled locally through ExtremePC NZ: send the item to us and we manage the claim and send it back to you
 - Stock at Onehunga warehouse for same-day Auckland pickup
-- Test the fit and audio tuning in-store before buying
 - Afterpay available at checkout
 
 ## Comparison

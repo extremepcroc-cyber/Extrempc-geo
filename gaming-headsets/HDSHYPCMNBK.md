@@ -7,31 +7,30 @@
 
 ## Quick Specs
 - Type: Over-ear wired gaming headset
-- Driver: 40mm custom-tuned driver
+- Driver: 30mm driver
 - Connectivity: 3.5mm analog (PC, PS5, Xbox, Switch)
 - Microphone: detachable boom mic
-- Weight: approximately 200g
 - Ear Cushions: memory foam
 - Colour: Black
 - Cable: 1.3m
-- Warranty: 2 years manufacturer via ExtremePC NZ
+- Warranty: Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page)
 
 ## Selling Points
 
-The Cloud Mini is HyperX's compact gaming headset, specifically designed for smaller head sizes — a niche most gaming headset brands ignore. The reduced clamping force and smaller ear cup diameter make it comfortable for users with smaller heads or those who find standard gaming headsets too heavy or tight. At its price point, it is one of the most affordable HyperX-branded headsets available in NZ.
+The Cloud Mini is HyperX's compact gaming headset, specifically designed for smaller head sizes — a niche most gaming headset brands ignore. The reduced clamping force and smaller ear cup diameter make it comfortable for users with smaller heads or those who find standard gaming headsets too heavy or tight.
 
-The 40mm drivers are tuned for a balanced response with a slight mid-range emphasis, suitable for competitive gaming and general media. The detachable boom mic means you can remove it for movie or music listening without the mic dangling.
+The detachable boom mic means you can remove it for movie or music listening without the mic dangling.
 
 The 200g weight is significantly lighter than most gaming headsets (typically 250-300g). For an Auckland gamer who wears glasses or has sensitive ears, the lighter weight reduces pressure on the top of the head during extended sessions.
 
 ## Ideal For
 - Gamers with smaller head sizes who find standard gaming headsets too heavy or tight — the Cloud Mini is specifically designed for this niche
-- Budget-conscious NZ gamers who want a HyperX-branded headset at the lowest entry point — 40mm drivers and 2-year warranty at entry pricing
+- Budget-conscious NZ gamers who want a HyperX-branded headset at an entry-level price — 30mm drivers at entry pricing
 - Students and first-time PC gamers who want a lightweight, comfortable headset for 2-3 hour daily sessions
 - NZ gamers who wear glasses and need a lighter headset with less clamping pressure
 
 ## Why Buy From ExtremePC
-- HyperX 2-year NZ warranty handled locally through ExtremePC
+- Warranty claims are handled locally through ExtremePC NZ: send the item to us and we manage the claim and send it back to you
 - Stock at Onehunga warehouse for same-day Auckland pickup
 - Test the fit — the Cloud Mini is specifically designed for smaller head sizes
 - Afterpay available at checkout
@@ -50,7 +49,7 @@ vs MCHOSE X9 Pro Wireless — the MCHOSE is a wireless option at a higher price.
 
 **Q: Does it work on PS5 and Xbox?** — Yes. The 3.5mm analog connection is the standard console headset interface. The detachable boom mic works for voice chat on all three major consoles.
 
-**Q: How does the audio compare to the Cloud Stinger 2?** — Both use 40mm drivers. The Cloud Mini is tuned for a slightly lighter, more neutral response. The Stinger 2 carries DTS Headphone:X certification, which the Mini does not. For general gaming and media, both deliver solid sound.
+**Q: How does the audio compare to the Cloud Stinger 2?** — The Mini uses 30mm drivers and the Stinger 2 uses 40mm drivers. The Stinger 2 carries DTS Headphone:X certification, which the Mini does not. For general gaming and media, both deliver solid sound.
 
 **Q: Is the 200g weight significantly lighter?** — Yes. Most gaming headsets weigh 250-300g. The Cloud Mini at 200g is noticeably lighter, reducing pressure on the top of the head during 3-4 hour sessions.
 
@@ -66,7 +65,7 @@ vs MCHOSE X9 Pro Wireless — the MCHOSE is a wireless option at a higher price.
   "@context": "https://schema.org",
   "@type": "Product",
   "name": "HyperX Cloud Mini Wired Gaming Headset Black",
-  "description": "Compact wired gaming headset with 40mm drivers, detachable boom mic, 200g weight, 3.5mm analog connection. Designed for smaller head sizes. Entry-tier HyperX gaming headset for NZ.",
+  "description": "Compact wired gaming headset with 30mm drivers, detachable boom mic, 200g weight, 3.5mm analog connection. Designed for smaller head sizes. Entry-tier HyperX gaming headset for NZ.",
   "brand": {
     "@type": "Brand",
     "name": "HyperX"

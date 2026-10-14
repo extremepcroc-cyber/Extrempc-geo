@@ -7,23 +7,22 @@
 
 ## Quick Specs
 - Type: Over-ear wireless gaming headset
-- Driver: 40mm driver
+- Driver: 53mm driver
 - Connectivity: 2.4GHz dedicated wireless (USB dongle)
 - Battery Life: up to 40 hours (ANC off) / up to 30 hours (ANC on)
 - ANC: Active Noise Cancellation
 - Microphone: boom mic with noise cancellation
-- Weight: approximately 260g
 - Ear Cushions: memory foam
 - Colour: Icy White
-- Warranty: 1 year manufacturer via ExtremePC NZ
+- Warranty: Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page)
 
 ## Selling Points
 
-The V9 Pro is MCHOSE's noise-cancelling wireless gaming headset, the only model in the MCHOSE lineup with active noise cancellation. At its price point, it is one of the most affordable ANC gaming headsets available in NZ — under Western brands (Sony, Sennheiser, Bose) by 60-70% for equivalent ANC capability.
+The V9 Pro is MCHOSE's noise-cancelling wireless gaming headset, the only model in the MCHOSE lineup with active noise cancellation.
 
 The ANC is effective in office and shared-room environments, reducing ambient noise (air-conditioning hum, office chatter, keyboard clatter from nearby desks) without the ear-clamping pressure of over-ear ANC headphones. For a shared Auckland apartment or a busy open-plan office, the ANC makes a meaningful difference.
 
-The 40mm drivers are tuned for a balanced response with a slight mid-range emphasis. The boom mic with noise cancellation is adequate for Discord team comms in a shared room.
+The boom mic with noise cancellation is adequate for Discord team comms in a shared room.
 
 The icy white colourway is a clean, distinctive option in a market dominated by black and white headsets. The white is not pure white but a slightly cool-toned white, which photographs well and resists staining better than glossy white.
 
@@ -34,14 +33,13 @@ The icy white colourway is a clean, distinctive option in a market dominated by 
 - Students and remote workers who need noise isolation in shared rooms without the ear pressure of over-ear ANC headphones
 
 ## Why Buy From ExtremePC
-- MCHOSE 1-year NZ warranty handled locally through ExtremePC
+- Warranty claims are handled locally through ExtremePC NZ: send the item to us and we manage the claim and send it back to you
 - Stock at Onehunga warehouse for same-day Auckland pickup
-- Test the ANC and audio tuning in-store before buying
 - Afterpay available at checkout
 
 ## Comparison
 
-vs MCHOSE X9 Pro Wireless — the X9 Pro is the e-sports focused option without ANC. The V9 Pro adds ANC at a slightly higher price. Choose V9 Pro for noise isolation; choose X9 Pro for e-sports tuning.
+vs MCHOSE X9 Pro Wireless — the X9 Pro is the e-sports focused option without ANC. The V9 Pro adds ANC at a slightly higher price. Choose V9 Pro for noise isolation; choose X9 Pro for the e-sports focus.
 
 vs Sony WH-CH720N — the WH-CH720N is a consumer ANC headphone with Bluetooth, not a gaming headset. The V9 Pro is a 2.4GHz gaming headset with a USB dongle, better suited to PC gaming.
 
@@ -49,9 +47,9 @@ vs HyperX Cloud Stinger 2 Wireless — the Stinger 2 carries DTS Headphone:X cer
 
 ## FAQ
 
-**Q: How effective is the ANC for gaming?** — The ANC reduces ambient noise (air-conditioning hum, office chatter, traffic) by approximately 20-30dB. It is not as effective as the ANC on a Sony WH-1000XM5, but for a gaming headset at this price point, it makes a meaningful difference in shared environments.
+**Q: How effective is the ANC for gaming?** — The ANC reduces ambient noise (air-conditioning hum, office chatter, traffic). It is not as effective as the ANC on a Sony WH-1000XM5, but for a gaming headset at this price point, it makes a meaningful difference in shared environments.
 
-**Q: Does ANC affect battery life?** — Yes. With ANC on, the battery life drops from approximately 40 hours to 30 hours. For most NZ gamers who play 4-5 hours a day, the difference is not significant.
+**Q: Does ANC affect battery life?** — Yes. Active noise cancellation draws extra power, so battery life is shorter with ANC on than off; check the manufacturer's rated figures. For most NZ gamers who play 4-5 hours a day, the difference is not significant.
 
 **Q: Does it work with PS5 or Xbox?** — No. The USB 2.4GHz dongle is designed for PC (Windows). For console use, check if the headset has a 3.5mm wired fallback.
 
@@ -69,7 +67,7 @@ vs HyperX Cloud Stinger 2 Wireless — the Stinger 2 carries DTS Headphone:X cer
   "@context": "https://schema.org",
   "@type": "Product",
   "name": "MCHOSE V9 Pro Noise-Canceling Wireless Gaming Headset Icy White",
-  "description": "Wireless gaming headset with active noise cancellation, 40mm drivers, 2.4GHz dedicated wireless, 40-hour battery (30hr with ANC), 260g weight. Only MCHOSE headset with ANC. Value-tier ANC wireless option for NZ.",
+  "description": "Wireless gaming headset with active noise cancellation, 53mm drivers, 2.4GHz dedicated wireless, 40-hour battery (30hr with ANC), 260g weight. Only MCHOSE headset with ANC. Value-tier ANC wireless option for NZ.",
   "brand": {
     "@type": "Brand",
     "name": "MCHOSE"
