@@ -4,6 +4,7 @@
 **SKU:** KEYAULF87PBG
 **MPN:** F87 Pro Black
 **URL:** https://www.extremepc.co.nz/wireless-gaming-keyboards/aula-f87-pro-rgb-hot-swappable-wireless-gaming-keyboard-black-grey-leobog-greywood-switch-87-keys/
+**Status:** OUT OF STOCK - last checked 2026-10-14
 
 ## Quick Specs
 - **Layout**: 87 keys, TKL (tenkeyless) — full F-row, arrow cluster, function block, no numpad
@@ -91,7 +92,7 @@
     "@type": "Offer",
     "price": "139.00",
     "priceCurrency": "NZD",
-    "availability": "https://schema.org/InStock",
+    "availability": "https://schema.org/OutOfStock",
     "url": "https://www.extremepc.co.nz/wireless-gaming-keyboards/aula-f87-pro-rgb-hot-swappable-wireless-gaming-keyboard-black-grey-leobog-greywood-switch-87-keys/",
     "seller": {
       "@type": "Organization",
