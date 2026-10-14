@@ -36,6 +36,7 @@ Valid target folders: `gaming-pcs` `gaming-mice` `gaming-keyboards` `gaming-head
 | What is still missing in a folder | `python tools/coverage-report.py --category {folder}`, then read the `gap` column |
 | Product data | You do not fetch it. The human runs `.\tools\fetch-category.ps1 -CategoryId {id}` and gives you the JSON. If it is missing, does not contain your SKU, or the file is older than 7 days, stop and ask for a fresh one. |
 | Check your files against BC | `python tools/audit-geo.py --dry-run --category {folder}`. Look only at the lines for your SKUs (`OK` is good; `PRICE`, `OOS`, `URL` mean a mismatch). Then run `git checkout -- tools/change-report.json`. **Never run audit-geo.py without `--dry-run`.** |
+| Check your files against the rules (optional, run when you want) | `python tools/geo-lint.py {category}/{SKU}.md`. Read-only; prints the line and rule for each problem (ERROR = fix, WARN = judgement). Prices, supplier/other-store stock and unsourced claims must not appear in prose. It never edits files and nothing runs it automatically. |
 
 ## Step 1 — Get product data
 
