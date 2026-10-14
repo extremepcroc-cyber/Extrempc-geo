@@ -1,4 +1,4 @@
-﻿# WD Purple PRO 22TB 3.5" SATA3 AI Surveillance Hard Drive WD221PURP
+# WD Purple PRO 22TB 3.5" SATA3 AI Surveillance Hard Drive WD221PURP
 
 **Price:** $2547 inc GST
 **SKU:** HDDWDSPRO22T
@@ -16,7 +16,6 @@
 - **Firmware**: AllFrame AI
 - **MTBF**: 1M hours
 - **Warranty**: 5-year WD
-- **NZ Stock**: 14 units at supplier
 
 ## Selling Points
 
@@ -28,8 +27,6 @@
 
 - **360 TB/year workload + AllFrame AI — enterprise AI NVR validated** — Dual-mode capability: handles legacy HD NVR and modern AI NVR (person detection, vehicle classification, facial recognition) simultaneously.
 
-- **14 units at supplier** — Strong volume availability for enterprise integrator orders.
-
 ## Ideal For
 
 - **Enterprise AI surveillance (64-channel 4K)** — Stadiums, airports, large commercial campuses, smart-city infrastructure.
@@ -38,13 +35,10 @@
 
 - **High-density surveillance server (multi-bay NVR)** — Fewer, higher-capacity drives in 8–24 bay NVR servers reduces management complexity and bay count.
 
-- **Security integrators specifying for enterprise accounts** — 14-unit supplier stock supports project-volume sourcing.
-
 ## Why Buy From ExtremePC
 
 - **WD authorized distributor NZ** — 5-year warranty serviced domestically.
 - **Build Team for enterprise surveillance projects** — Can advise on multi-bay NVR configuration and total capacity planning.
-- **14 units at supplier** — Enterprise volume orders.
 - **Business account GST invoicing and PO workflows** — For integrators and enterprise procurement.
 - **Insured, signature-required courier** — For high-value hardware.
 
@@ -65,7 +59,6 @@
   A: Yes — WD Purple PRO is on Hikvision's validated HDD list including DeepinMind and other AI NVR platforms.
 
 - **Q: How long is delivery?**
-  A: 14 units at supplier — 3–7 business day ETA, then 1–3 days courier.
 
 - **Q: 5-year warranty — NZ domestic RMA?**
   A: Yes — WD warranty serviced through ExtremePC NZ for the full 5-year period.

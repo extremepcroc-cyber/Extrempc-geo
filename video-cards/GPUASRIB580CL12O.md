@@ -1,7 +1,7 @@
 # ASRock Intel Arc B580 Challenger OC 12GB GDDR6 Graphics Card
 
 **Price:** $649 inc GST
-**Stock:** 53 units in stock (Onehunga: 23, Supplier: 30)
+**Stock:** 53 units in stock (Onehunga: 23)
 **SKU:** GPUASRIB580CL12O
 **MPN:** B580 CL 12GO
 **URL:** https://www.extremepc.co.nz/shop-all/asrock-intel-arc-b580-challenger-oc-12gb-gddr6-pcie-4-0-graphics-card/
@@ -27,7 +27,7 @@
 - **Max Resolution**: 7680 × 4320 (8K)
 - **Multi-view**: Up to 4 displays
 - **Warranty**: 3 years ASRock warranty via authorized NZ distributor (ExtremePC)
-- **NZ Stock**: 24 units at Auckland Onehunga + 30 at supplier (3–7 day ETA)
+- **NZ Stock**: 24 units at Auckland Onehunga
 
 ## Selling Points
 
@@ -41,7 +41,7 @@
 
 - **Compact 2-slot, 249mm, 720g — SFF-friendly** — Same compact form factor as the ASRock RX 9060 XT Challenger. Fits FormD T1, NR200, Lian Li A4-H2O, and similar SFF cases. Light weight reduces sag risk.
 
-- **Strong NZ stock (24 at Onehunga + 30 at supplier)** — Intel Arc supply has been steady; ExtremePC carries deep inventory. Same-day Auckland pickup realistic.
+- **Strong NZ stock (24 at Onehunga)** — Intel Arc supply has been steady; ExtremePC carries deep inventory. Same-day Auckland pickup realistic.
 
 ## Ideal For
 
@@ -62,8 +62,6 @@
 - **Authorized ASRock NZ distributor** — 3-year ASRock warranty serviced domestically through ExtremePC NZ.
 
 - **Build Team consultation for value-tier builds** — Build Team can spec the matched CPU + motherboard + PSU combination. Important: ensure PCIe 4.0+ motherboard pairing to avoid Arc's small PCIe 3.0 bottleneck.
-
-- **Same-day Auckland pickup + supplier ETA** — 24 at Onehunga, 30 at supplier with 3–7 day ETA.
 
 - **National courier dispatch 1–3 business days** — Insured shipping to Wellington and South Island.
 

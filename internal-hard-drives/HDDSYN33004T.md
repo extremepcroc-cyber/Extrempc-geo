@@ -1,4 +1,4 @@
-﻿# Synology HAT3300 4TB 3.5" SATA3 NAS Hard Drive HAT3300-4T
+# Synology HAT3300 4TB 3.5" SATA3 NAS Hard Drive HAT3300-4T
 
 **Price:** $552 inc GST
 **SKU:** HDDSYN33004T
@@ -16,15 +16,12 @@
 - **Workload**: 180 TB/year
 - **MTBF**: 1M hours
 - **Warranty**: 3-year standard / **5-year when used in compatible Synology NAS** (Synology extended warranty program)
-- **NZ Stock**: 25 units at supplier
 
 ## Selling Points
 
 - **Extended warranty on Synology hardware** — When installed in a compatible Synology NAS, HAT3300 drives qualify for Synology's 5-year extended warranty program. For Synology NAS owners, this extends coverage by 2 years over the standard 3-year warranty — at no additional cost vs the base purchase price.
 
 - **Synology-validated firmware** — HAT3300 drives are validated by Synology's compatibility lab and include firmware tuned specifically for Synology DSM (DiskStation Manager). DSM displays health data, predictive alerts, and IronWolf Health Management features native to Synology hardware.
-
-- **25 units at supplier** — Strong stock for Synology NAS project orders (4-bay requires 4 units; 8-bay requires 8).
 
 - **CMR + 180 TB/year + AgileArray equivalent** — NAS-safe recording with workload and vibration specifications appropriate for home and SOHO Synology deployments.
 
@@ -41,8 +38,6 @@
 ## Why Buy From ExtremePC
 
 - **Authorized Synology NZ distributor** — Synology HAT drive warranty serviced through ExtremePC NZ. Synology warranty verification and RMA processed domestically.
-
-- **25 units at supplier** — Supports 4-bay and 8-bay Synology project orders reliably.
 
 - **Build Team Synology expertise** — Build Team can specify HAT drive + DS/RS Synology model pairing and confirm extended warranty eligibility.
 
@@ -70,7 +65,6 @@
   A: HAT3300 is manufactured by Seagate for Synology (an OEM relationship). The drives share similar underlying specs but have Synology-specific firmware and are validated for Synology's DSM features (health management, predictive failure alerts).
 
 - **Q: How long is delivery?**
-  A: 25 units at supplier — 3–7 business day ETA, then 1–3 days courier.
 
 ## Related Products
 

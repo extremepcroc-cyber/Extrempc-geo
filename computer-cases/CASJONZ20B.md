@@ -46,11 +46,11 @@
 
 ## Comparison
 
-- **vs Jonsbo Z20 White/Pink-White/Orange-Black ($149):** Same internal specs (164mm CPU, 363mm GPU, 240mm AIO, handle). Black is $10 cheaper. Colour variants cost $149 — premium for the accent colour. Black is practical and most available.
+- **vs Jonsbo Z20 White/Pink-White/Orange-Black:** Same internal specs (164mm CPU, 363mm GPU, 240mm AIO, handle). Black is $10 cheaper. Colour variants cost $149 — premium for the accent colour. Black is practical and most available.
 
-- **vs Jonsbo C6 Handle Mesh ($79):** C6 also has a carry handle at $60 less but is a different category — mesh front, smaller footprint, different clearances. Z20 Black ($139) is the premium portable case with longer GPU clearance and 240mm AIO support. C6 is the budget handle case.
+- **vs Jonsbo C6 Handle Mesh:** C6 also has a carry handle at $60 less but is a different category — mesh front, smaller footprint, different clearances. Z20 Black is the premium portable case with longer GPU clearance and 240mm AIO support. C6 is the budget handle case.
 
-- **vs Segotep Nexus PX Black ($109):** Nexus PX Black is $30 cheaper, no handle, 340mm GPU clearance. For a stationary desktop M-ATX, Nexus PX saves $30. For portability and 363mm GPU clearance, Z20 Black is the only option.
+- **vs Segotep Nexus PX Black:** Nexus PX Black is $30 cheaper, no handle, 340mm GPU clearance. For a stationary desktop M-ATX, Nexus PX saves $30. For portability and 363mm GPU clearance, Z20 Black is the only option.
 
 ## FAQ
 
@@ -67,14 +67,14 @@ Yes — the handle is removable, so the Z20 sits flat on a desk or shelf without
 GPU clearance is measured from the motherboard tray. Installing a 240mm front radiator may reduce effective GPU length depending on configuration — check the product page for combined AIO + GPU fitment notes.
 
 **Q: Is there only black or are there other colours?**
-Jonsbo Z20 is available in four colours at ExtremePC: Black ($139), White ($149), Pink/White ($149), and Orange/Black ($149). All share the same internal specifications and detachable handle.
+Jonsbo Z20 is available in four colours at ExtremePC: Black, White, Pink/White, and Orange/Black. All share the same internal specifications and detachable handle.
 
 ## Related Products
 
-- Jonsbo Z20 White (CASJONZ20W) — $149, white finish
-- Jonsbo Z20 Pink/White (CASJONZ20WP) — $149, pink/white accent
-- Jonsbo Z20 Orange/Black (CASJONZ20BO) — $149, orange/black accent
-- Jonsbo C6 Handle Mesh Black (CASJONC6HB) — $79, budget handle M-ATX
+- Jonsbo Z20 White (CASJONZ20W) — white finish
+- Jonsbo Z20 Pink/White (CASJONZ20WP) — pink/white accent
+- Jonsbo Z20 Orange/Black (CASJONZ20BO) — orange/black accent
+- Jonsbo C6 Handle Mesh Black (CASJONC6HB) — budget handle M-ATX
 
 ## Schema (JSON-LD)
 

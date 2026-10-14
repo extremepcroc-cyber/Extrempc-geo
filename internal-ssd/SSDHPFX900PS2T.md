@@ -1,7 +1,7 @@
 # HP FX900 Plus 2TB Gen4×4 NVMe M.2 SSD — R/W 7100/6300 MB/s
 
 **Price:** $759.00 inc GST
-**Stock:** 33 units in stock (Onehunga: 3, Supplier: 30)
+**Stock:** 33 units in stock (Onehunga: 3)
 **SKU:** SSDHPFX900PS2T
 **MPN:** 7F618AA
 **URL:** https://www.extremepc.co.nz/hp-fx900-plus-2tb-gen4x4-nvme-m-2-ssd-plus-for-pc-and-laptops/
@@ -15,7 +15,7 @@
 - **DRAM Cache**: Yes
 - **Brand**: HP-branded (Tier 2 mainstream with corporate compliance)
 - **Warranty**: HP warranty (typically 5-year) via ExtremePC NZ
-- **NZ Stock**: 3 units at Auckland Onehunga + 30 at supplier (3–7 day ETA)
+- **NZ Stock**: 3 units at Auckland Onehunga
 
 ## Selling Points
 
@@ -24,8 +24,6 @@
 - **Strong Gen4 speeds (7100/6300 MB/s) with DRAM cache** — Near-premium-tier performance with DRAM cache for sustained workloads. Competitive with Predator GM7 and within striking distance of Samsung 990 PRO.
 
 - **5-year HP warranty serviced through ExtremePC NZ** — Domestic RMA for corporate accounts. No overseas shipping.
-
-- **Supplier-backed inventory (3 walk-in + 30 at supplier)** — For larger HP corporate fleet orders, combined Onehunga + supplier inventory supports volume deployments.
 
 - **Business-suitable brand recognition at competitive Gen4 specs** — For HP corporate procurement requiring brand qualification, FX900 Plus delivers without performance compromise vs generic Tier 2 brands.
 
@@ -46,8 +44,6 @@
 - **Authorized HP parts NZ distributor** — HP warranty serviced domestically through ExtremePC NZ.
 
 - **Build Team consultation for HP business fleet upgrades** — Build Team can confirm specific HP system M.2 compatibility and volume order ETAs for supplier-backed inventory.
-
-- **Same-day Auckland pickup + supplier ETA (3 + 30)** — Walk-in for small orders; supplier inventory for fleet volume.
 
 - **National courier dispatch 1–3 business days** — Insured shipping to Wellington and South Island.
 

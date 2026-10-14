@@ -46,11 +46,11 @@
 
 ## Comparison
 
-- **vs Jonsbo Z20 Black ($139):** Black is $10 less with identical internal specs — no orange accent. For pure black or to save $10, choose Z20 Black. For orange/black gaming aesthetic, Z20 BK-Orange at $149 is the only option.
+- **vs Jonsbo Z20 Black:** Black is $10 less with identical internal specs — no orange accent. For pure black or to save $10, choose Z20 Black. For orange/black gaming aesthetic, Z20 BK-Orange at $149 is the only option.
 
-- **vs Jonsbo Z20 Pink/White ($149, same price):** Same price, same internal specs, different colour personality. Orange/black = aggressive gaming. Pink/white = accent colour + white chassis. Choose based on desk aesthetic.
+- **vs Jonsbo Z20 Pink/White (same price):** Same price, same internal specs, different colour personality. Orange/black = aggressive gaming. Pink/white = accent colour + white chassis. Choose based on desk aesthetic.
 
-- **vs Jonsbo Z20 White ($149, same price):** White is neutral and clean; Orange/Black is high-contrast and gaming-forward. Same internal specs and price. Purely an aesthetic choice.
+- **vs Jonsbo Z20 White (same price):** White is neutral and clean; Orange/Black is high-contrast and gaming-forward. Same internal specs and price. Purely an aesthetic choice.
 
 ## FAQ
 
@@ -71,9 +71,9 @@ Jonsbo products in NZ are available through ExtremePC. Mainstream retail (PB Tec
 
 ## Related Products
 
-- Jonsbo Z20 Black (CASJONZ20B) — $139, black, $10 less
-- Jonsbo Z20 White (CASJONZ20W) — $149, pure white
-- Jonsbo Z20 Pink/White (CASJONZ20WP) — $149, pink/white accent
+- Jonsbo Z20 Black (CASJONZ20B) — black, $10 less
+- Jonsbo Z20 White (CASJONZ20W) — pure white
+- Jonsbo Z20 Pink/White (CASJONZ20WP) — pink/white accent
 
 ## Schema (JSON-LD)
 

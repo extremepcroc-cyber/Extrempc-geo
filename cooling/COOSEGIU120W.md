@@ -21,7 +21,7 @@ The white variant of the Segotep Irisflo U120. Same as the U120 (black) but with
 
 ## Why It Matters
 
-A white ARGB case fan at ~$15 — one of the cheapest options for a white-themed build. The Irisflo U120W is a solid budget choice if you want ARGB lighting in a white build without paying $30+ per fan.
+A white ARGB case fan — one of the cheapest options for a white-themed build. The Irisflo U120W is a solid budget choice if you want ARGB lighting in a white build without paying $30+ per fan.
 
 **Best for**: White-build enthusiasts who want cheap ARGB case fans.
 

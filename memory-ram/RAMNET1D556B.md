@@ -1,7 +1,7 @@
 # Netac Basic 16GB DDR5-5600 CL46 Desktop RAM — Black
 
 **Price:** $573 inc GST
-**Stock:** 4 units in stock (Onehunga: 1, Supplier: 3)
+**Stock:** 4 units in stock (Onehunga: 1)
 **SKU:** RAMNET1D556B
 **MPN:** NTBSD5P56SP-16
 **URL:** https://www.extremepc.co.nz/netac-basic-16gb-ddr5-5600-cl46-desktop-ram-black/
@@ -19,7 +19,7 @@
 - **On-die ECC**: Built-in error correction (DDR5 standard)
 - **Built-in PMIC**: Power management on the stick (DDR5 standard)
 - **Warranty**: Lifetime warranty via ExtremePC NZ
-- **NZ Stock**: 1 unit at Auckland Onehunga + 4 at supplier (3–7 day ETA)
+- **NZ Stock**: 1 unit at Auckland Onehunga
 
 ## Selling Points
 
@@ -50,8 +50,6 @@
 - **Authorized Netac NZ distributor** — Lifetime warranty serviced domestically through ExtremePC NZ. RMA process is straightforward.
 
 - **Build Team consultation for budget DDR5 builds** — Build Team can spec the matched motherboard + CPU combination for the user's budget DDR5 build.
-
-- **Same-day Auckland pickup + supplier ETA** — 1 unit at Onehunga, 4 at supplier with 3–7 day ETA.
 
 - **National courier dispatch 1–3 business days** — Insured shipping to Wellington and South Island.
 
@@ -95,7 +93,6 @@
   A: At 1.1V JEDEC operation, DDR5 doesn't generate enough heat to require a heatsink for normal use. Heatsinks matter for overclocked / high-frequency kits (6400+ MT/s) and aesthetic showcase builds. For 5600 MT/s JEDEC operation, no concern.
 
 - **Q: Stock is 1 unit at Onehunga — when does supplier restock?**
-  A: 4 units at supplier with 3–7 day ETA. For most buyers, supplier restock is reliable. For build-day deadlines, the Whalekom DDR5 alternative has 94 units immediately available.
 
 - **Q: How long is delivery to Wellington / South Island?**
   A: 1–3 business days via insured CourierPost from Auckland.

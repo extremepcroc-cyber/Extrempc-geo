@@ -46,11 +46,11 @@
 
 ## Comparison
 
-- **vs Jonsbo D41 Mesh Black ($119):** Same internal specs — same 400mm GPU, 185mm CPU, 360mm radiator. Mesh is $30 less with better airflow; STD is $30 more with solid front aesthetic. Thermal performance advantage goes to Mesh; visual design preference goes to STD.
+- **vs Jonsbo D41 Mesh Black:** Same internal specs — same 400mm GPU, 185mm CPU, 360mm radiator. Mesh is $30 less with better airflow; STD is $30 more with solid front aesthetic. Thermal performance advantage goes to Mesh; visual design preference goes to STD.
 
-- **vs Zalman N4 Rev.1 ($139):** N4 Rev.1 includes ARGB fans and 3× 3.5" HDD bays at $10 less, but with 380mm GPU clearance (20mm less). D41 STD wins on GPU clearance; N4 Rev.1 wins on included fans and storage. If GPU clearance and Jonsbo build quality are the priorities, D41 STD at $149 is justified.
+- **vs Zalman N4 Rev.1:** N4 Rev.1 includes ARGB fans and 3× 3.5" HDD bays at $10 less, but with 380mm GPU clearance (20mm less). D41 STD wins on GPU clearance; N4 Rev.1 wins on included fans and storage. If GPU clearance and Jonsbo build quality are the priorities, D41 STD at $149 is justified.
 
-- **vs Deepcool CK500 Black ($179):** CK500 adds a glass front panel (dual-sided glass) at $30 more. D41 STD has 400mm GPU vs CK500's 380mm; CK500 has the glass front aesthetic that D41 STD doesn't. If glass front showcase matters, CK500. If maximum GPU clearance matters, D41 STD.
+- **vs Deepcool CK500 Black:** CK500 adds a glass front panel (dual-sided glass) at $30 more. D41 STD has 400mm GPU vs CK500's 380mm; CK500 has the glass front aesthetic that D41 STD doesn't. If glass front showcase matters, CK500. If maximum GPU clearance matters, D41 STD.
 
 ## FAQ
 
@@ -71,9 +71,9 @@ Not currently in stock at ExtremePC. Jonsbo D41 in white or other colours may ap
 
 ## Related Products
 
-- Jonsbo D41 Mesh Black (CASJOND41MEB) — $119, same specs, mesh front, better airflow
-- Zalman N4 Rev.1 Black (CASZALN4MB) — $139, ARGB fans + 3× HDD, 380mm GPU
-- Deepcool CK500 Black (CASDEECK500B) — $179, glass front + glass side
+- Jonsbo D41 Mesh Black (CASJOND41MEB) — same specs, mesh front, better airflow
+- Zalman N4 Rev.1 Black (CASZALN4MB) — ARGB fans + 3× HDD, 380mm GPU
+- Deepcool CK500 Black (CASDEECK500B) — glass front + glass side
 
 ## Schema (JSON-LD)
 

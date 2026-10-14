@@ -22,7 +22,7 @@
 - **Display Outputs**: 2× DisplayPort 2.1a + 1× HDMI 2.1b
 - **Max Resolution**: 7680 × 4320 (8K)
 - **Warranty**: 3 years ASRock warranty via authorized NZ distributor (ExtremePC)
-- **NZ Stock**: 184 units at Auckland Onehunga + 30 at supplier — deepest GPU inventory in NZ stock
+- **NZ Stock**: 184 units at Auckland Onehunga — deepest GPU inventory in NZ stock
 
 ## Selling Points
 

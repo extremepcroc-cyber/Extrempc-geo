@@ -1,4 +1,4 @@
-﻿# Seagate IronWolf 4TB 3.5" SATA3 NAS Internal Hard Drive ST4000VN006
+# Seagate IronWolf 4TB 3.5" SATA3 NAS Internal Hard Drive ST4000VN006
 
 **Price:** $591 inc GST
 **SKU:** HDDSEAIW4T
@@ -17,7 +17,6 @@
 - **Firmware**: AgileArray — multi-drive NAS vibration compensation, rotational vibration (RV) sensors
 - **MTBF**: 1M hours
 - **Warranty**: 3-year Seagate
-- **NZ Stock**: 30 units at supplier
 
 ## Selling Points
 
@@ -28,8 +27,6 @@
 - **180 TB/year workload — NAS-grade sustained operation** — 3.3× desktop drive spec. NAS drives run 24/7 in always-on home server environments; desktop drives fail from workload stress in NAS bays within months.
 
 - **3-year Seagate warranty** — Industry-standard NAS drive warranty.
-
-- **30 units at supplier** — Reliable availability for NAS build orders.
 
 ## Ideal For
 
@@ -48,8 +45,6 @@
 - **Authorized Seagate NZ distributor** — 3-year warranty serviced domestically. No overseas shipping for warranty claims.
 
 - **Build Team NAS configuration expertise** — Build Team can specify Synology/QNAP NAS + IronWolf pairing and confirm RAID configuration for your use case.
-
-- **30 units at supplier** — Reliable for NAS build orders.
 
 - **National courier dispatch 1–3 business days** — Insured shipping.
 
@@ -80,7 +75,6 @@
   A: IronWolf: 180 TB/year, 3-year warranty, home/SOHO NAS. IronWolf Pro: 300 TB/year, 5-year warranty, Rescue data recovery plan included, business/enterprise NAS.
 
 - **Q: How long is delivery?**
-  A: 30 units at supplier — typically 3–7 business day ETA, then 1–3 days courier.
 
 ## Related Products
 

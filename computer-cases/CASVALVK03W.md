@@ -48,11 +48,11 @@
 
 ## Comparison
 
-- **vs Segotep Endura Pro+ EATX White ($115):** Endura Pro+ is $64 less with TG (not mesh), EATX support, 400mm GPU, but no included fans. VK03 Lite White adds ARGB fans, mesh front, and front accent RGB for $64 more. For gaming aesthetics, VK03 Lite. For EATX/workstation builds on a tighter budget, Endura Pro+.
+- **vs Segotep Endura Pro+ EATX White:** Endura Pro+ is $64 less with TG (not mesh), EATX support, 400mm GPU, but no included fans. VK03 Lite White adds ARGB fans, mesh front, and front accent RGB for $64 more. For gaming aesthetics, VK03 Lite. For EATX/workstation builds on a tighter budget, Endura Pro+.
 
-- **vs Valkyrie VK03 LCD White ($219):** LCD adds a front-panel display for $40 more. Same fans, same chassis, same internal specs. Choose based on whether the LCD display is a feature you'll actively use.
+- **vs Valkyrie VK03 LCD White:** LCD adds a front-panel display for $40 more. Same fans, same chassis, same internal specs. Choose based on whether the LCD display is a feature you'll actively use.
 
-- **vs Corsair 3000D Airflow RGB White ($229):** Corsair is $50 more with brand recognition and Corsair iCUE ecosystem integration. VK03 Lite White saves $50 and delivers comparable white ATX gaming specs. For iCUE ecosystem builders, Corsair. For everyone else, VK03 Lite White at $179.
+- **vs Corsair 3000D Airflow RGB White:** Corsair is $50 more with brand recognition and Corsair iCUE ecosystem integration. VK03 Lite White saves $50 and delivers comparable white ATX gaming specs. For iCUE ecosystem builders, Corsair. For everyone else, VK03 Lite White at $179.
 
 ## FAQ
 
@@ -73,9 +73,9 @@ Yes — 165mm CPU clearance accommodates the Peerless Assassin 120 (155mm). A wh
 
 ## Related Products
 
-- Valkyrie VK03 LCD White (CASVALVK03LW) — $219, adds front LCD display
-- Corsair 3000D Airflow RGB White (CASCOR3000DAFRW) — $229, iCUE ecosystem
-- Segotep Endura Pro+ EATX White (CASSEGEPPW) — $115, EATX support, no fans
+- Valkyrie VK03 LCD White (CASVALVK03LW) — adds front LCD display
+- Corsair 3000D Airflow RGB White (CASCOR3000DAFRW) — iCUE ecosystem
+- Segotep Endura Pro+ EATX White (CASSEGEPPW) — EATX support, no fans
 
 ## Schema (JSON-LD)
 

@@ -16,7 +16,6 @@
 - **Firmware**: AllFrame AI
 - **MTBF**: 1M hours
 - **Warranty**: 3-year WD
-- **NZ Stock**: 5 units at supplier
 
 ## Selling Points
 
@@ -37,12 +36,10 @@
 ## Why Buy From ExtremePC
 
 - **WD warranty via ExtremePC NZ** — 3-year warranty domestically serviced.
-- **Supplier inventory (5 units)** — Available on order.
 - **National courier 1–3 business days** — Insured shipping.
 
 ## Comparison
 
-- **vs WD Purple 2TB (HDDWDSP2T64, less capacity, 31-unit supplier stock)** — 2TB has better supplier stock. 3TB only if more capacity or 256MB cache is required.
 - **vs SkyHawk 6TB (HDDSEASKY6TST, double capacity at similar NZD)** — For a similar budget, SkyHawk 6TB delivers double the capacity and 30-day retention. Consider unless WD Purple is specifically required.
 - **vs WD Purple 6TB (HDDWDSUPU6T, double capacity at higher NZD)** — 6TB doubles retention. Worth the step up for commercial deployments.
 

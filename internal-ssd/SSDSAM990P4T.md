@@ -1,4 +1,4 @@
-﻿# Samsung 990 PRO 4TB PCIe Gen4 NVMe M.2 2280 SSD — MZ-V9P4T0BW
+# Samsung 990 PRO 4TB PCIe Gen4 NVMe M.2 2280 SSD — MZ-V9P4T0BW
 
 **Price:** $1799.00 inc GST
 **SKU:** SSDSAM990P4T
@@ -17,7 +17,7 @@
 - **Endurance (TBW)**: 2,400 TBW
 - **Brand**: Samsung (Tier 1 gold standard)
 - **Warranty**: 5-year Samsung warranty (or 2,400 TBW, whichever first) via ExtremePC NZ
-- **NZ Stock**: 20 units at Auckland Onehunga + 9 at supplier
+- **NZ Stock**: 20 units at Auckland Onehunga
 
 ## Selling Points
 
@@ -51,7 +51,7 @@
 
 - **Build Team consultation for 4TB workstation builds** — Build Team can spec the complete workstation (motherboard with M.2 heatsink + cooling + RAM + PSU) matched to Samsung 990 PRO 4TB requirements.
 
-- **Same-day Auckland pickup (20 units) + supplier ETA (9 units)** — Combined 29-unit availability for moderate volume orders.
+- **Same-day Auckland pickup (20 units)** — Combined 29-unit availability for moderate volume orders.
 
 - **National courier dispatch 1–3 business days** — Insured shipping to Wellington and South Island. High-value drives shipped with signature required.
 

@@ -16,7 +16,6 @@
 - **Firmware**: AllFrame AI (AI NVR optimized)
 - **MTBF**: 1M hours
 - **Warranty**: 5-year WD (longer than standard WD Purple's 3-year)
-- **NZ Stock**: 20 units at supplier
 
 ## Selling Points
 
@@ -27,8 +26,6 @@
 - **10TB at mid-tier NZD — excellent capacity value** — WD Purple PRO 10TB sits at a competitive NZD point for its capacity class. 10TB is sufficient for 16-channel 1080p systems targeting 40+ day retention.
 
 - **AllFrame AI firmware for AI NVR** — WD's AllFrame AI is specifically validated for AI NVR platforms (Hikvision DeepinMind, Dahua WizSense, Axis). Handles the combined AI inference + recording workload.
-
-- **20 units at supplier** — Strong stock availability for integrator orders.
 
 ## Ideal For
 
@@ -44,7 +41,6 @@
 
 - **WD authorized distributor NZ** — 5-year warranty serviced domestically.
 - **Build Team consultation for AI NVR builds** — Can specify WD Purple PRO + NVR pairing for AI deployments.
-- **20 units at supplier** — Volume order capability.
 - **National courier 1–3 business days** — Insured, signature-required shipping.
 - **Business account GST invoicing** — For commercial integrators.
 
@@ -73,7 +69,6 @@
   A: Yes — WD warranty claimed through ExtremePC NZ for domestic service throughout the 5-year coverage period.
 
 - **Q: How long is delivery?**
-  A: 20 units at supplier — typically 3–7 business day ETA, then 1–3 days courier.
 
 ## Related Products
 

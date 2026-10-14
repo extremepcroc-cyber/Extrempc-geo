@@ -1,4 +1,4 @@
-﻿# Seagate IronWolf 10TB 3.5" SATA3 NAS Internal Hard Drive ST10000VN0008
+# Seagate IronWolf 10TB 3.5" SATA3 NAS Internal Hard Drive ST10000VN0008
 
 **Price:** $1,055.00 inc GST
 **SKU:** HDDSEAIW10T
@@ -17,7 +17,6 @@
 - **Firmware**: AgileArray (RV sensors)
 - **MTBF**: 1M hours
 - **Warranty**: 3-year Seagate
-- **NZ Stock**: 7 units at supplier
 
 ## Selling Points
 
@@ -42,7 +41,6 @@
 ## Why Buy From ExtremePC
 
 - **Authorized Seagate NZ distributor** — 3-year warranty domestically.
-- **Supplier inventory (7 units)** — Available on order.
 - **Build Team NAS consultation** — 4-bay NAS configuration advice.
 - **National courier 1–3 business days** — Insured.
 
@@ -63,11 +61,9 @@
   A: IronWolf 10TB is on Synology's compatibility list for DS423+, DS923+, RS series, and all enterprise models.
 
 - **Q: How long is delivery?**
-  A: 7 units at supplier — 3–7 business day ETA, then 1–3 days courier.
 
 ## Related Products
 
-- **HDDSEAIW8TB** — IronWolf 8TB step down (30 supplier units)
 - **HDDSEAIW12T** — IronWolf 12TB step up
 - **HDDSEAIWP16T** — IronWolf Pro 16TB (business NAS tier)
 

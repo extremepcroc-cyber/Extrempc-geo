@@ -24,7 +24,7 @@
 - **Software**: MSI Center for monitoring; MSI Afterburner for overclocking
 - **Weight**: 573 g — light, low sag risk
 - **Warranty**: 3 years MSI warranty via authorized NZ distributor (ExtremePC)
-- **NZ Stock**: 5 units at Auckland Onehunga + 30 at supplier (3–7 day ETA)
+- **NZ Stock**: 5 units at Auckland Onehunga
 
 ## Selling Points
 
@@ -55,8 +55,6 @@
 - **Authorized MSI NZ distributor** — 3-year warranty serviced domestically through ExtremePC NZ.
 
 - **Build Team consultation for SFF and neutral builds** — VENTUS 2X is one of the most SFF-friendly options; Build Team can confirm fit against your case and spec coordinated components.
-
-- **Same-day Auckland pickup + supplier ETA** — 5 units at Onehunga for immediate pickup; 30 at supplier with 3–7 day ETA.
 
 - **National courier dispatch 1–3 business days** — Insured shipping to Wellington and South Island.
 
@@ -91,9 +89,6 @@
 
 - **Q: Can I overclock with MSI Afterburner?**
   A: Yes. Afterburner is MSI's industry-standard tool, free download. Gives full control over core clock, memory clock, voltage, fan curves. Compatible with non-MSI cards too.
-
-- **Q: 5 at Onehunga + 30 at supplier — what's the supplier ETA?**
-  A: 3–7 business days for supplier stock movement to Auckland. Email support@extremepc.co.nz to reserve a unit or confirm current ETA.
 
 - **Q: What PSU do I need?**
   A: 600W minimum, 750W 80+ Gold recommended. Corsair RM750x, be quiet! Pure Power 12 M 750W, Seasonic Focus GX-750 are quality choices.

@@ -23,7 +23,7 @@ A 120mm ARGB reverse-rotation case fan from Thermalright. The TL-S12RW is the wh
 
 ## Why It Matters
 
-A white reverse-rotation ARGB case fan at ~$14 — one of the cheapest options for a white push/pull AIO setup. The TL-S12RW is a solid budget choice if you want ARGB lighting in a white reverse configuration.
+A white reverse-rotation ARGB case fan — one of the cheapest options for a white push/pull AIO setup. The TL-S12RW is a solid budget choice if you want ARGB lighting in a white reverse configuration.
 
 **Best for**: White-themed push/pull AIO setups on a budget.
 

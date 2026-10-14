@@ -44,11 +44,11 @@
 
 ## Comparison
 
-- **vs Segotep Nexus PX Black ($109):** Nexus PX Black saves $10 but includes no fans and uses standard 3mm TG. The TL-M10 Black's 3× ARGB fans alone are worth $45–$75, making it better total value when fan purchase is planned. Nexus PX Black wins only when the fan budget is truly zero and $10 matters.
+- **vs Segotep Nexus PX Black:** Nexus PX Black saves $10 but includes no fans and uses standard 3mm TG. The TL-M10 Black's 3× ARGB fans alone are worth $45–$75, making it better total value when fan purchase is planned. Nexus PX Black wins only when the fan budget is truly zero and $10 matters.
 
-- **vs Thermalright TL-M10 White ($129):** Same specs — same 4mm TG, same 3× ARGB fans, same clearances. White costs $10 more. Choose based on colour preference; the performance specification is identical.
+- **vs Thermalright TL-M10 White:** Same specs — same 4mm TG, same 3× ARGB fans, same clearances. White costs $10 more. Choose based on colour preference; the performance specification is identical.
 
-- **vs Thermalright TL-M10 Vision Black ($199):** Vision adds a 3.5" LCD front-panel display for $80 more. Interior specs (fans, glass, clearances) are the same. If the LCD display is appealing for system stats or custom animations, Vision is the upgrade. For performance without the display, standard TL-M10 Black at $119 is the value choice.
+- **vs Thermalright TL-M10 Vision Black:** Vision adds a 3.5" LCD front-panel display for $80 more. Interior specs (fans, glass, clearances) are the same. If the LCD display is appealing for system stats or custom animations, Vision is the upgrade. For performance without the display, standard TL-M10 Black at $119 is the value choice.
 
 ## FAQ
 
@@ -70,8 +70,8 @@ At time of writing, yes — 1 unit at Onehunga. Check extremepc.co.nz for curren
 ## Related Products
 
 - Thermalright TL-M10 White (CASTMRM10W) — same specs, white finish, $129
-- Thermalright TL-M10 Vision Black (CASTMRM10VB) — $199, adds 3.5" LCD front panel
-- Segotep Nexus PX Black (CASSEGNPXB) — $109, no fans, standard TG
+- Thermalright TL-M10 Vision Black (CASTMRM10VB) — adds 3.5" LCD front panel
+- Segotep Nexus PX Black (CASSEGNPXB) — no fans, standard TG
 
 ## Schema (JSON-LD)
 

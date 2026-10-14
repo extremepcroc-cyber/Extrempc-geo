@@ -1,4 +1,4 @@
-﻿# ASUS PRIME GeForce RTX 5070 12GB GDDR7 OC Edition Graphics Card
+# ASUS PRIME GeForce RTX 5070 12GB GDDR7 OC Edition Graphics Card
 
 **Price:** $1449.00 inc GST
 **SKU:** GPUASU5070PO12
@@ -21,7 +21,7 @@
 - **Display Outputs**: 3× DisplayPort 2.1 + 1× HDMI 2.1
 - **Software**: ASUS GPU Tweak III for monitoring, fan curves, OC
 - **Warranty**: 3 years ASUS warranty via authorized NZ distributor (ExtremePC)
-- **NZ Stock**: 1 unit at Auckland Onehunga + 30 at supplier (3–7 day ETA)
+- **NZ Stock**: 1 unit at Auckland Onehunga
 
 ## Selling Points
 
@@ -32,8 +32,6 @@
 - **SFF-Ready 2.5-slot at RTX 5070 performance level** — Most RTX 5070 cards are 3-slot, 320mm+ designs. PRIME is 2.5-slot — fits SFF and compact mid-tower builds where higher-tier 5070s won't.
 
 - **Dual BIOS toggle for Performance / Quiet** — Hardware switch on the card lets you toggle between Performance mode (max boost, slightly noisier) and Quiet mode (slightly reduced boost, quieter fan curve). Useful for users who switch between gaming and quiet productivity sessions.
-
-- **In-stock NZ supply chain** — 1 unit at Onehunga for immediate pickup; 30 units at supplier with 3–7 business day ETA. For builders planning a 1440p ultra build this week or next, both paths realistic.
 
 ## Ideal For
 
@@ -52,8 +50,6 @@
 - **Authorized ASUS NZ distributor** — 3-year warranty serviced domestically.
 
 - **Build Team consultation for 1440p ultra builds** — RTX 5070 builds typically pair with Ryzen 7 7800X3D / 7700X / 9700X or Intel i7-14700F / Core Ultra 7 265K. Build Team can spec the matched CPU + DDR5 + cooler bundle.
-
-- **Same-day Auckland pickup + supplier ETA** — 1 at Onehunga, 30 at supplier 3–7 day ETA.
 
 - **National courier dispatch 1–3 business days** — Insured shipping to Wellington and South Island.
 

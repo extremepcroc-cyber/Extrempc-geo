@@ -23,7 +23,7 @@ A 120mm ARGB reverse-rotation case fan from Thermalright. The TL-C12RB-S V2 is t
 
 ## Why It Matters
 
-A reverse-rotation ARGB case fan at ~$15 — one of the cheapest options for a push/pull AIO setup. The TL-C12RB-S V2 is a solid budget choice if you want ARGB lighting in a push/pull setup.
+A reverse-rotation ARGB case fan — one of the cheapest options for a push/pull AIO setup. The TL-C12RB-S V2 is a solid budget choice if you want ARGB lighting in a push/pull setup.
 
 **Best for**: Push/pull AIO setups on a budget.
 

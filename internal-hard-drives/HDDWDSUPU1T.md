@@ -17,7 +17,6 @@
 - **Firmware**: AllFrame AI — surveillance-optimized
 - **MTBF**: 1M hours
 - **Warranty**: 3-year WD
-- **NZ Stock**: 4 units at supplier
 
 ## Selling Points
 
@@ -40,7 +39,6 @@
 ## Why Buy From ExtremePC
 
 - **WD warranty via ExtremePC NZ** — 3-year warranty domestically serviced.
-- **Supplier inventory** — Available on order.
 - **National courier dispatch 1–3 business days** — Insured shipping.
 
 ## Comparison

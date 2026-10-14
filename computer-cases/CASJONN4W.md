@@ -45,7 +45,7 @@
 
 - **vs Jonsbo N4 Black (CASJONN4B, same price):** Identical specifications — same drive bays, board support, cooler clearance, PSU options. White finish only. Choose based on setup colour scheme.
 
-- **vs Jonsbo N2 White (CASJONN2W, $259):** N2 White adds one more drive bay (5 vs 4) for $50 more, but drops M-ATX to ITX-only and CPU clearance to 56mm. If M-ATX compatibility or cooler height matters more than an extra bay, N4 White is better value. If 5 bays is the priority and ITX is fine, N2 White.
+- **vs Jonsbo N2 White (CASJONN2W):** N2 White adds one more drive bay (5 vs 4) for $50 more, but drops M-ATX to ITX-only and CPU clearance to 56mm. If M-ATX compatibility or cooler height matters more than an extra bay, N4 White is better value. If 5 bays is the priority and ITX is fine, N2 White.
 
 - **vs Fractal Design Node 304 White (higher price tier):** Node 304 White supports 6× 3.5" and has cleaner cable management with a more premium finish. Costs more in NZ. If you can stretch budget and want 6 bays in white, Node 304 is worth considering. For 4-bay M-ATX flexibility at minimum cost, N4 White.
 

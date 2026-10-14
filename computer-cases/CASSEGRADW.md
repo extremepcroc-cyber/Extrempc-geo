@@ -44,11 +44,11 @@
 
 ## Comparison
 
-- **vs Segotep Prime D Black ($59):** Prime D saves $20 but drops the TG window and white finish. If the case is visible and aesthetics matter at all, Radiant is worth the $20 difference. If it goes under a desk and is never seen, Prime D wins.
+- **vs Segotep Prime D Black:** Prime D saves $20 but drops the TG window and white finish. If the case is visible and aesthetics matter at all, Radiant is worth the $20 difference. If it goes under a desk and is never seen, Prime D wins.
 
-- **vs Segotep Nexus 1 White ($89):** Nexus 1 adds USB-C front I/O and slightly more internal clearance for $10 more. If USB-C device charging from the front panel matters, Nexus 1 is the better choice. For pure price-to-appearance value, Radiant at $79 is the entry.
+- **vs Segotep Nexus 1 White:** Nexus 1 adds USB-C front I/O and slightly more internal clearance for $10 more. If USB-C device charging from the front panel matters, Nexus 1 is the better choice. For pure price-to-appearance value, Radiant at $79 is the entry.
 
-- **vs Segotep Endura 240S White ($89):** Endura 240S adds 240mm radiator support for $10 more — a meaningful upgrade if you're planning an AIO liquid cooler. For air-cooled builds, Radiant saves the $10 without losing anything relevant.
+- **vs Segotep Endura 240S White:** Endura 240S adds 240mm radiator support for $10 more — a meaningful upgrade if you're planning an AIO liquid cooler. For air-cooled builds, Radiant saves the $10 without losing anything relevant.
 
 ## FAQ
 
@@ -62,16 +62,16 @@ Typically no fans included at this price point. Budget for at least one 120mm re
 The Peerless Assassin 120 is 155mm tall — right at the Radiant's 155mm CPU clearance limit. It may fit but with very little headroom. Confirm your specific cooler's dimensions before purchasing; the Thermalright TL-M10 (165mm clearance) is a safer choice for that cooler.
 
 **Q: Is there a black version of the Radiant?**
-The Radiant is white only in the current ExtremePC range. For black TG at a similar price tier, see the Segotep Nexus PX Black ($109) or Thermalright TL-M10 Black ($119).
+The Radiant is white only in the current ExtremePC range. For black TG at a similar price tier, see the Segotep Nexus PX Black or Thermalright TL-M10 Black.
 
 **Q: What's the PSU clearance / max PSU length?**
 Typical M-ATX budget cases support ATX PSUs up to ~160mm length. Most standard ATX PSUs (Corsair CX, Seasonic Focus) fit within this. Check PSU dimensions if using a longer modular unit.
 
 ## Related Products
 
-- Segotep Nexus 1 White (CASSEGBN1W) — $89, TG white with USB-C front I/O
-- Segotep Endura 240S White (CASSEGE240SW) — $89, TG white with 240mm AIO support
-- Segotep Nexus PX White (CASSEGNPXW) — $129, TG white with enhanced specs
+- Segotep Nexus 1 White (CASSEGBN1W) — TG white with USB-C front I/O
+- Segotep Endura 240S White (CASSEGE240SW) — TG white with 240mm AIO support
+- Segotep Nexus PX White (CASSEGNPXW) — TG white with enhanced specs
 
 ## Schema (JSON-LD)
 

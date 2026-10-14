@@ -16,15 +16,12 @@
 - **Workload**: 550 TB/year (3× more than HAT5300, significant enterprise spec)
 - **MTBF**: 1.2M hours
 - **Warranty**: 3-year standard / 5-year on compatible Synology NAS
-- **NZ Stock**: 9 units at supplier
 
 ## Selling Points
 
 - **550 TB/year workload — the highest-spec Synology drive line** — HAT5310 has a 550 TB/year workload rating, nearly equal to enterprise data center drives. This is 3× the HAT5300's 180 TB/year and reflects HAT5310's target: large enterprise Synology deployments with intensive 24/7 multi-workload operations (NAS + surveillance + backup + virtualization simultaneously).
 
 - **HAT5310 — Synology's top-tier drive series for enterprise and SA6400 series** — HAT5310 is validated for Synology's highest-tier systems including the SA3600 and SA6400 enterprise NAS appliances, where lower-spec drives would fail from workload stress.
-
-- **9 units at supplier — solid stock for enterprise project orders** — HAT5310 8TB has reasonable availability for Synology enterprise project configuration.
 
 - **5-year Synology extended warranty** — On compatible Synology enterprise NAS.
 
@@ -39,7 +36,6 @@
 ## Why Buy From ExtremePC
 
 - **Authorized Synology NZ distributor** — 5-year extended warranty via ExtremePC NZ.
-- **9 units at supplier** — Enterprise project availability.
 - **Build Team Synology enterprise consultation** — SA series + HAT5310 pairing.
 - **National courier 1–3 business days** — Insured.
 
@@ -60,7 +56,6 @@
   A: No — HAT3310 or HAT5300 is sufficient for DS920+. HAT5310 is specified for SA series and RS enterprise models with intensive multi-service workloads.
 
 - **Q: How long is delivery?**
-  A: 9 units at supplier — 3–7 business day ETA, then 1–3 days courier.
 
 ## Related Products
 

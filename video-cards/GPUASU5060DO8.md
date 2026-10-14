@@ -20,7 +20,7 @@
 - **Recommended PSU**: 550W 80+ Bronze minimum, 650W 80+ Gold recommended
 - **Display Outputs**: 3× DisplayPort 2.1 + 1× HDMI 2.1
 - **Warranty**: 3 years ASUS warranty via authorized NZ distributor (ExtremePC)
-- **NZ Stock**: 3 units at Auckland Onehunga + 30 at supplier (3–7 day ETA)
+- **NZ Stock**: 3 units at Auckland Onehunga
 
 ## Selling Points
 
@@ -31,8 +31,6 @@
 - **ASUS DUAL build quality at entry-tier NZD** — Dual ball bearing fans (2× the lifespan of sleeve bearings), stainless steel bracket resistant to corrosion, GPU Guard adhesive on all four corners to prevent PCB cracking. Build quality typically reserved for higher tiers, applied to the entry chip.
 
 - **0dB Technology — silent at desktop, ramps only under load** — Fans completely stop below 50°C GPU temp. For productivity, web browsing, and video playback the card is genuinely silent. Fans engage only when gaming or stressed.
-
-- **In-stock NZ supply chain** — 3 units at Auckland Onehunga for immediate pickup, 30 units at supplier with 3–7 business day ETA. For builders on a deadline, this is a stable supply unlike the broader RTX 50 launch supply intermittency.
 
 ## Ideal For
 
@@ -51,8 +49,6 @@
 - **Authorized ASUS NZ distributor** — 3-year ASUS warranty handled through ExtremePC NZ. No parallel-import warranty risk.
 
 - **Build Team consultation for first-time builders** — RTX 5060 builds often pair with first-time builds. Build Team can spec the right CPU, motherboard, PSU, and case combination for the user's budget and form factor.
-
-- **Same-day Auckland pickup + supplier ETA for restock** — 3 units in stock at Onehunga; 30 at supplier with 3–7 day ETA. For Auckland builders walking in today or planning a build in the next week, both paths are realistic.
 
 - **National courier dispatch 1–3 business days** — Insured shipping to Wellington and South Island.
 

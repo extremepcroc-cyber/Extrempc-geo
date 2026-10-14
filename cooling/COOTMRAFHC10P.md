@@ -21,7 +21,7 @@ A 10-port 5V ARGB hub from Thermalright. This is a small controller board that l
 
 If you have 4–10 ARGB case fans, you need a lot of 5V ARGB headers on your motherboard. Most motherboards only have 1–2 ARGB headers, so a hub like the Thermalright 10-Port lets you chain all your fans through a single header.
 
-This is one of the cheapest 10-port ARGB hubs on the market at ~$25. It's a practical solution for anyone with a multi-fan ARGB build.
+This is one of the cheapest 10-port ARGB hubs on the market. It's a practical solution for anyone with a multi-fan ARGB build.
 
 **Best for**: Multi-fan ARGB builds where you want to simplify wiring.
 

@@ -59,7 +59,7 @@ def body_without_header_and_schema(text):
 LINE_RULES = [
     ('R3', 'ERROR', 'hardcoded dollar amount in prose (use tier language)', re.compile(r'\$\s?\d')),
     ('R4', 'ERROR', 'in-store testing / inspection promise', re.compile(r'(tested|test(ing)?|inspected|checked) (in[- ]store|before (dispatch|pickup|sale|shipping))|we (test|inspect)|in-store (test|demo)', re.I)),
-    ('R5', 'ERROR', 'unverified store/stock claim (Wellington, warehouse, unit counts)', re.compile(r'Wellington|\b\d+ units\b|warehouse (stock|availability)|Last verified|Pricing at ExtremePC', re.I)),
+    ('R5', 'ERROR', 'stock claim outside policy (only Onehunga stock counts; no supplier/other-store/warehouse stock)', re.compile(r'Wellington (store|branch|showroom|stock|pickup)|stocked (in|at) Wellington|supplier[- ](stock|inventory|ETA|units|direct)|units? (at|from) supplier|warehouse (stock|availability)|Last verified|Pricing at ExtremePC', re.I)),
     ('R6', 'WARN', 'store-range / market superlative (needs evidence)', re.compile(r'\b(cheapest|most affordable|lowest[- ]priced?|best[- ]value|one of the best|best[^.\n]{0,25}on the (NZ )?market|(NZ|New Zealand)[- ]market|only NZ retailer|undercuts|unbeatable|class-leading|longest (warranty|in))\b', re.I)),
     ('R7', 'WARN', 'invented-measurement phrasing', re.compile(r'real-world (usage|battery|life)|approximately \d+(\.\d+)? ?(hours|hrs|dB|mm|g)\b|\bestimated\b|~\s?\d', re.I)),
     ('R9', 'ERROR', 'scientific-notation or malformed price', re.compile(r'\$\s?\d+(\.\d+)?e[+-]?\d+|\$\d{1,3},\d{3}\.\d{2}', re.I)),

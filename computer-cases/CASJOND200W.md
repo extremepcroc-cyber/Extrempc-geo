@@ -41,13 +41,13 @@
 
 ## Comparison
 
-- **vs Thermalright TL-M10 White ($129, same price):** TL-M10 White includes 3× ARGB fans (worth ~$45–$75) and 4mm TG. For total included value, TL-M10 White is harder to beat at $129. D200 White is for builders who specifically want Jonsbo's case design and are comfortable buying fans separately.
+- **vs Thermalright TL-M10 White (same price):** TL-M10 White includes 3× ARGB fans (worth–$75) and 4mm TG. For total included value, TL-M10 White is harder to beat at $129. D200 White is for builders who specifically want Jonsbo's case design and are comfortable buying fans separately.
 
-- **vs Segotep Nexus PX White ($129, same price):** Nexus PX White provides 340mm GPU clearance (vs D200's TBC), no fans, standard TG. For maximum GPU clearance at $129, Nexus PX White. For Jonsbo build quality, D200 White.
+- **vs Segotep Nexus PX White (same price):** Nexus PX White provides 340mm GPU clearance (vs D200's TBC), no fans, standard TG. For maximum GPU clearance at $129, Nexus PX White. For Jonsbo build quality, D200 White.
 
-- **vs Jonsbo D200 Black ($119):** White is $10 more than black — consistent with the white premium across the M-ATX range. Same internal specs; choice is purely colour preference.
+- **vs Jonsbo D200 Black:** White is $10 more than black — consistent with the white premium across the M-ATX range. Same internal specs; choice is purely colour preference.
 
-- **vs Jonsbo D300 Black ($179):** D300 is the step-up with additional features for $50 more. If white is required and D300 lacks a white variant in stock, D200 White is the Jonsbo white option.
+- **vs Jonsbo D300 Black:** D300 is the step-up with additional features for $50 more. If white is required and D300 lacks a white variant in stock, D200 White is the Jonsbo white option.
 
 ## FAQ
 
@@ -68,9 +68,9 @@ Check the product page for confirmed GPU length specification. For maximum clear
 
 ## Related Products
 
-- Jonsbo D200 Black (CASJOND200B) — $119, black finish, $10 less
-- Jonsbo D300 Black (CASJOND300B) — $179, flagship D-series
-- Thermalright TL-M10 White (CASTMRM10W) — $129, includes 3× ARGB fans
+- Jonsbo D200 Black (CASJOND200B) — black finish, $10 less
+- Jonsbo D300 Black (CASJOND300B) — flagship D-series
+- Thermalright TL-M10 White (CASTMRM10W) — includes 3× ARGB fans
 
 ## Schema (JSON-LD)
 

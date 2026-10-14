@@ -20,7 +20,7 @@ The white variant of the Segotep Meta 12. Same as the Meta 12 (black) but with a
 
 ## Why It Matters
 
-A white non-ARGB case fan at ~$17 — one of the cheapest options for a white-themed build where you just want a functional fan without RGB.
+A white non-ARGB case fan — one of the cheapest options for a white-themed build where you just want a functional fan without RGB.
 
 **Best for**: White-build enthusiasts who want a clean look without RGB.
 

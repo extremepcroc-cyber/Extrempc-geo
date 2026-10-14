@@ -56,8 +56,6 @@
 
 - **vs Segotep GM1000W Black (PSUSEGGM1000W1B, 380W less at value-tier NZD, 120 retail units)** — GM1000W for single-GPU RTX 4090 / 5090 builds at value-tier NZD. PT1380W when dual-GPU configurations, Threadripper PRO, or AI workstations exceed 1000W system draw.
 
-- **vs Cooler Master X Mighty 2000W (PSUCMXM2000, 620W more at higher NZD, supplier stock)** — X Mighty 2000W for the most extreme dual-GPU configurations or future 3-GPU research systems. PT1380W covers all realistic dual-RTX-4090/5090 workstations at lower NZD with retail stock available now.
-
 - **vs ASUS ROG Strix 1200W (PSUASURS1200, 180W less, premium-tier NZD, currently OOS)** — ROG Strix 1200W 80+ Platinum for RTX 5090 gaming enthusiast builds where 1200W is the target. PT1380W provides 180W additional headroom for dual-GPU or Threadripper platforms at similar NZD tier, with retail stock available vs OOS on Strix.
 
 - **vs generic 1200W 80+ Gold alternatives** — 80+ Gold at 1200W loses ~120W as heat at full load vs PT1380W Platinum's ~100W. In a professional setting running 8+ hours, Platinum efficiency is an operational cost and thermal management decision, not just a spec checkbox.

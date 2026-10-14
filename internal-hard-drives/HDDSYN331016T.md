@@ -1,4 +1,4 @@
-﻿# Synology HAT3310 16TB 3.5" SATA3 NAS Hard Drive HAT3310-16T
+# Synology HAT3310 16TB 3.5" SATA3 NAS Hard Drive HAT3310-16T
 
 **Price:** $1521 inc GST
 **SKU:** HDDSYN331016T
@@ -15,7 +15,6 @@
 - **Recording**: CMR — NAS/RAID safe
 - **Workload**: 180 TB/year
 - **Warranty**: 3-year standard / 5-year on compatible Synology NAS
-- **NZ Stock**: 3 units at supplier
 
 ## Selling Points
 
@@ -34,12 +33,9 @@
 ## Why Buy From ExtremePC
 
 - **Authorized Synology NZ distributor** — 5-year extended warranty via ExtremePC NZ.
-- **3 units at supplier** — Limited; confirm availability before ordering multi-drive.
 - **Build Team Synology consultation** — DS923+ configuration advice.
 
 ## Comparison
-
-- **vs HAT3310 12TB (HDDSYNHAT12T, 4TB less, 7 units stock)** — 12TB has better supplier stock (7 vs 3). For assured availability, 12TB. For maximum capacity with 3 units available, 16TB.
 
 - **vs IronWolf Pro 16TB (HDDSEAIWP16T, same capacity at lower NZD)** — IronWolf Pro 16TB has 300 TB/year workload and 5-year warranty but doesn't qualify for the Synology extended warranty program. For pure Synology ecosystem with extended warranty, HAT3310. For cost and business NAS spec, IronWolf Pro.
 

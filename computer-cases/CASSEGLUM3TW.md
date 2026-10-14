@@ -44,11 +44,11 @@
 
 ## Comparison
 
-- **vs Segotep Lumi 3S White ($109, same price):** Internal specs are identical. The only difference is glass geometry — 3S uses curved joints for a flowing aesthetic; 3T uses flat joints for an angular geometric aesthetic. Same price, same internal spec, different visual personality. Choose based on design preference.
+- **vs Segotep Lumi 3S White (same price):** Internal specs are identical. The only difference is glass geometry — 3S uses curved joints for a flowing aesthetic; 3T uses flat joints for an angular geometric aesthetic. Same price, same internal spec, different visual personality. Choose based on design preference.
 
-- **vs Segotep Nexus PX White ($129):** Nexus PX White adds 165mm CPU clearance, 340mm GPU, and confirmed 240mm AIO support for $20 more, with standard single-side TG. For performance-focused white builds, Nexus PX White is the better investment. For showcase builds where top glass visibility is the feature, Lumi 3T at $109 wins.
+- **vs Segotep Nexus PX White:** Nexus PX White adds 165mm CPU clearance, 340mm GPU, and confirmed 240mm AIO support for $20 more, with standard single-side TG. For performance-focused white builds, Nexus PX White is the better investment. For showcase builds where top glass visibility is the feature, Lumi 3T at $109 wins.
 
-- **vs Thermalright TL-M10 White ($129):** TL-M10 includes ARGB fans and 165mm cooler clearance for $20 more, standard single-side TG only. Lumi 3T at $109 trades included fans and 10mm extra clearance for top-panel glass visibility. If the top glass is important, save $20 with 3T and add fans separately.
+- **vs Thermalright TL-M10 White:** TL-M10 includes ARGB fans and 165mm cooler clearance for $20 more, standard single-side TG only. Lumi 3T at $109 trades included fans and 10mm extra clearance for top-panel glass visibility. If the top glass is important, save $20 with 3T and add fans separately.
 
 ## FAQ
 
@@ -62,7 +62,7 @@ Typically yes — top glass panels in Sea View cases are removable, allowing fan
 No fans included. For the full RGB showcase effect, budget 2–3 ARGB 120mm fans for front and top positions.
 
 **Q: Is there a black version?**
-Not in the current ExtremePC range. Lumi 3S/3T are white only. For black TG showcase cases, see the Segotep Nexus PX Black ($109) or Thermalright TL-M10 Black ($119).
+Not in the current ExtremePC range. Lumi 3S/3T are white only. For black TG showcase cases, see the Segotep Nexus PX Black or Thermalright TL-M10 Black.
 
 **Q: Which glass style looks better in photos?**
 Curved glass (3S) tends to photograph more organically and is popular in social media setup shots. Flat joint glass (3T) looks more intentional in architectural-style setup photography. Neither is objectively better — it's personal preference.
@@ -70,8 +70,8 @@ Curved glass (3S) tends to photograph more organically and is popular in social 
 ## Related Products
 
 - Segotep Lumi 3S White (CASSEGLUM3SW) — same price, curved joint glass alternative
-- Segotep Nexus PX White (CASSEGNPXW) — $129, better cooling specs, standard TG
-- Thermalright TL-M10 White (CASTMRM10W) — $129, includes ARGB fans
+- Segotep Nexus PX White (CASSEGNPXW) — better cooling specs, standard TG
+- Thermalright TL-M10 White (CASTMRM10W) — includes ARGB fans
 
 ## Schema (JSON-LD)
 

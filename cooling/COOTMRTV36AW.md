@@ -24,7 +24,6 @@
 
 - **360mm Radiator for NZ Summer Conditions**: The 360mm aluminum radiator with triple PWM fans provides maximum heat dissipation surface area in the standard 120mm form factor. Auckland and North Island summers regularly push indoor temperatures above 25C. A 360mm radiator absorbs sustained CPU thermal output that would throttle a 240mm unit, keeping boost clocks stable during gaming or rendering sessions.
 
-
 ## Ideal For
 - **All-white build enthusiasts on a moderate budget** — Users assembling a white-themed PC who want a 360mm AIO from a reputable brand. The Trofeo Vision White delivers high-end Thermalright engineering at a tier below the Stream Vision LCD models, making it accessible for white builds that typically carry a color premium.
 - **NZ students building their first white gaming rig** — First-time builders in Auckland who want a visually impressive white AIO with ARGB lighting. The Trofeo Vision provides 360mm cooling capacity and synchronized lighting at a tier that leaves budget for other components.

@@ -21,7 +21,7 @@ The white variant of the Jonsbo FR-505 120mm slim ARGB case fan. Same as the FR-
 
 ## Why It Matters
 
-The FR-505W is the white version of one of the cheapest 120mm ARGB case fans on the market. At ~$20, it's hard to beat for a white-themed build where you want clean fans with RGB lighting. The 25mm slim profile fits in most standard case mounts without clearance issues.
+The FR-505W is the white version of one of the cheapest 120mm ARGB case fans on the market. At, it's hard to beat for a white-themed build where you want clean fans with RGB lighting. The 25mm slim profile fits in most standard case mounts without clearance issues.
 
 **Best for**: White-build enthusiasts who want cheap ARGB case fans.
 

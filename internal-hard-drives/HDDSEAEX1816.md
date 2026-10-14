@@ -17,7 +17,6 @@
 - **MTBF**: 2.5M hours
 - **AFR**: <0.35%
 - **Warranty**: 5-year Seagate
-- **NZ Stock**: 1 unit at supplier
 
 ## Selling Points
 
@@ -42,7 +41,6 @@
 ## Why Buy From ExtremePC
 
 - **Authorized Seagate NZ distributor** — 5-year warranty via ExtremePC NZ.
-- **Supplier inventory (1 unit)** — Available; contact for additional availability.
 - **Build Team consultation** — Enterprise storage configuration advice.
 - **Business account GST invoicing** — Enterprise procurement.
 

@@ -45,9 +45,9 @@
 
 ## Comparison
 
-- **vs Thermalright TL-M10 Black ($119):** Standard TL-M10 Black is $80 less with identical internal specs — same fans, glass, clearances — without the LCD display. If the LCD display isn't a feature the builder will actively use, standard TL-M10 Black is the rational choice. Vision Black is justified specifically when the front display is the reason to buy.
+- **vs Thermalright TL-M10 Black:** Standard TL-M10 Black is $80 less with identical internal specs — same fans, glass, clearances — without the LCD display. If the LCD display isn't a feature the builder will actively use, standard TL-M10 Black is the rational choice. Vision Black is justified specifically when the front display is the reason to buy.
 
-- **vs Thermalright TL-M10 Vision White ($169):** Vision White is $30 less than Vision Black — unusual (white is usually the premium). Same specs including LCD, same fans. If colour is flexible, Vision White is the better value. If black specifically is required, Vision Black at $199 is the only option in this spec range.
+- **vs Thermalright TL-M10 Vision White:** Vision White is $30 less than Vision Black — unusual (white is usually the premium). Same specs including LCD, same fans. If colour is flexible, Vision White is the better value. If black specifically is required, Vision Black at $199 is the only option in this spec range.
 
 - **vs Lian Li O11 Vision (ATX, higher tier):** Lian Li O11 Vision is a premium ATX full-build showcase case at a significantly higher price point with more advanced display integration. TL-M10 Vision Black is M-ATX form factor at half the price — for builders who need M-ATX or want an LCD case without the Lian Li premium.
 
@@ -71,8 +71,8 @@ Yes — the same 3× 120mm ARGB fans are included in both Vision and standard TL
 ## Related Products
 
 - Thermalright TL-M10 Vision White (CASTMRM10VW) — same LCD specs, white finish, $169
-- Thermalright TL-M10 Black (CASTMRM10B) — $119, no LCD, same fans + glass
-- Thermalright TL-M10 White (CASTMRM10W) — $129, no LCD, white finish
+- Thermalright TL-M10 Black (CASTMRM10B) — no LCD, same fans + glass
+- Thermalright TL-M10 White (CASTMRM10W) — no LCD, white finish
 
 ## Schema (JSON-LD)
 

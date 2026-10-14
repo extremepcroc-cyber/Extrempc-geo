@@ -16,7 +16,6 @@
 - **Workload**: 180 TB/year
 - **MTBF**: 1.2M hours (higher than HAT3310's 1M)
 - **Warranty**: 3-year standard / 5-year on compatible Synology NAS
-- **NZ Stock**: 1 unit at supplier
 
 ## Selling Points
 
@@ -40,7 +39,6 @@
 
 - **Authorized Synology NZ distributor** — 5-year extended warranty via ExtremePC NZ.
 - **Build Team Synology enterprise consultation** — RS series + HAT5300 pairing advice.
-- **Supplier inventory (1 unit)** — Contact for additional availability.
 
 ## Comparison
 
@@ -60,8 +58,6 @@
 
 ## Related Products
 
-- **HDDSYN33004T** — HAT3300 4TB (home NAS tier, 25 supplier units, better value)
-- **HDDSYNHAT53012T** — HAT5300 12TB (higher capacity, 8 supplier units)
 - **HDDSYN530016T** — HAT5300 16TB step up
 
 ## Schema

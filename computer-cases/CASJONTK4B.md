@@ -47,11 +47,11 @@
 
 ## Comparison
 
-- **vs Jonsbo TK-2 Black ($229):** TK-2 has hyperboloid side glass only — no top glass, 380mm GPU (vs 420mm), 2× USB-C vs TK-4's 2× USB-C, no included fans. TK-4 adds top glass panel, 40mm more GPU clearance, and ARGB fans for $100 more. The top glass is the critical upgrade — dual-angle visibility vs single-angle is the most significant visual difference. For the full TK experience, TK-4 is the definitive version.
+- **vs Jonsbo TK-2 Black:** TK-2 has hyperboloid side glass only — no top glass, 380mm GPU (vs 420mm), 2× USB-C vs TK-4's 2× USB-C, no included fans. TK-4 adds top glass panel, 40mm more GPU clearance, and ARGB fans for $100 more. The top glass is the critical upgrade — dual-angle visibility vs single-angle is the most significant visual difference. For the full TK experience, TK-4 is the definitive version.
 
-- **vs Lian Li Lancool 217 INF Black ($249):** Lian Li is $80 less with Infinity Mirror front, 20Gbps USB-C, and superior cable management quality. TK-4 wins on hyperboloid Sea View glass aesthetics, 420mm GPU (vs 400mm), and ARGB fans included. Both are premium ATX; Lian Li's quality and USB-C speed vs TK-4's design uniqueness and GPU clearance.
+- **vs Lian Li Lancool 217 INF Black:** Lian Li is $80 less with Infinity Mirror front, 20Gbps USB-C, and superior cable management quality. TK-4 wins on hyperboloid Sea View glass aesthetics, 420mm GPU (vs 400mm), and ARGB fans included. Both are premium ATX; Lian Li's quality and USB-C speed vs TK-4's design uniqueness and GPU clearance.
 
-- **vs Jonsbo BO400CG Aluminum Gray ($579):** BO400 is $250 more with an aluminum frame construction. TK-4 at $329 delivers more showcase features (dual curved glass, 420mm GPU, dual USB-C, fans) for significantly less. BO400 is an investment in material quality; TK-4 is an investment in visual design.
+- **vs Jonsbo BO400CG Aluminum Gray:** BO400 is $250 more with an aluminum frame construction. TK-4 at $329 delivers more showcase features (dual curved glass, 420mm GPU, dual USB-C, fans) for significantly less. BO400 is an investment in material quality; TK-4 is an investment in visual design.
 
 ## FAQ
 
@@ -72,9 +72,9 @@ Standard glass cleaner or water + soft microfibre cloth. The curved shape means 
 
 ## Related Products
 
-- Jonsbo TK-2 Black (CASJONTK2B) — $229, single-side hyperboloid glass entry
-- Lian Li Lancool 217 INF Black (CASLIAL217BI) — $249, Infinity Mirror + Lian Li quality
-- Jonsbo BO400CG Aluminum Gray (CASJONBO400G) — $579, aluminum frame premium
+- Jonsbo TK-2 Black (CASJONTK2B) — single-side hyperboloid glass entry
+- Lian Li Lancool 217 INF Black (CASLIAL217BI) — Infinity Mirror + Lian Li quality
+- Jonsbo BO400CG Aluminum Gray (CASJONBO400G) — aluminum frame premium
 
 ## Schema (JSON-LD)
 

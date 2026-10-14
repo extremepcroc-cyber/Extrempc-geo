@@ -1,4 +1,4 @@
-﻿# Kingston 32GB DDR4-3200 ECC Registered DIMM CL22 — Server / Workstation RAM
+# Kingston 32GB DDR4-3200 ECC Registered DIMM CL22 — Server / Workstation RAM
 
 **Price:** $989.00 inc GST
 **SKU:** RAMKINKSM32RD432HDR
@@ -52,8 +52,6 @@
 
 - **Build Team consultation for workstation / server builds** — ECC Registered RAM only works with specific server / workstation motherboard chipsets. Build Team can confirm compatibility (Threadripper PRO TRX50/WRX90, Xeon W W680/W790, server platforms) before purchase to avoid incompatible orders.
 
-- **Same-day Auckland pickup from Onehunga (1 unit)** — Server-class RAM has limited NZ retail demand; single unit walk-in is realistic. For volume orders (8+ DIMMs for a workstation), email ExtremePC for supplier ETA.
-
 - **National courier dispatch 1–3 business days** — Insured shipping to Wellington and South Island.
 
 - **23 years of NZ retail with physical Auckland presence** — Direct experience supporting workstation / server builds across multiple generations.
@@ -90,7 +88,6 @@
   A: Yes on supported server/workstation motherboards at JEDEC 3200. With 8+ DIMMs populated, speed may auto-drop to 2933 or 2666 due to memory controller load (this is normal RDIMM behavior).
 
 - **Q: Stock at Onehunga is 1 unit — what for higher volume orders?**
-  A: ExtremePC's supplier inventory varies. For workstation builds needing 4× / 8× of these for matched 128GB or 256GB total, contact ExtremePC pre-purchase for ETA. Typical restock 7–14 business days for server-class RAM.
 
 - **Q: Can I get a GST tax invoice for company purchase?**
   A: Yes. ExtremePC issues compliant NZ tax invoices for business accounts. Contact ExtremePC business team before ordering for invoice arrangement and volume pricing.

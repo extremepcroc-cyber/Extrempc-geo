@@ -14,7 +14,6 @@
 - **Rails**: Single +12V rail
 - **Capacity**: 2000W — the highest-wattage ATX desktop PSU available in NZ retail
 - **Protection**: OCP, OVP, UVP, SCP, OPP, OTP
-- **NZ Stock**: 230 units at supplier (3–7 day ETA)
 
 ## Selling Points
 
@@ -23,8 +22,6 @@
 - **ATX 3.1 native 12VHPWR — two or more native connectors for multi-GPU configurations** — X Mighty 2000W includes multiple 12VHPWR connectors to power dual RTX 5090 / RTX 4090 configurations directly without adapter chains. PCIe 5.0 power delivered natively at the rated 600W per connector spec.
 
 - **80 Plus Platinum efficiency at 2000W rated load** — 89–92% efficiency means only 160W lost as heat at full 2000W draw. A Silver PSU at this wattage would lose 320W+ as heat — significant in server closet or rack-adjacent deployments. Platinum at 2000W is a cooling and operating cost decision, not a hobbyist spec.
-
-- **230 units at supplier — the largest single PSU SKU depth in ExtremePC's range** — Supplier stock of 230 units enables bulk integrator orders. ExtremePC can fulfil 10–20 unit orders for AI workstation builds without restocking delays.
 
 - **Cooler Master engineering pedigree at extreme wattage** — Cooler Master (Taiwan, est. 1992) has 30+ years of PSU manufacturing. The X Mighty series targets the AI workstation market where PSU failure at high load is a critical risk. Cooler Master's OCP/OPP tuning at 2000W is calibrated for sustained load, not brief peak draws.
 
@@ -36,21 +33,15 @@
 
 - **Professional video AI workstations (Adobe Firefly / DaVinci Neural Engine acceleration)** — Video AI pipelines using two high-TDP GPUs run continuously for hours. 2000W Platinum minimises heat and operating cost at sustained load.
 
-- **Bulk AI lab deployments** — 230-unit supplier stock enables organisations deploying AI workstation fleets to order 10–20 units at once. Build Team can assist with specification and bulk quoting.
-
 - **Extreme enthusiast single-GPU builds with future multi-GPU expansion** — Single RTX 5090 now; PSU pre-sized to add a second without replacement. 2000W provides ~1400W headroom on a single RTX 5090.
 
 - **Research universities and commercial AI labs in NZ** — Local stock pathway for NZ institutions deploying on-premise GPU clusters. ExtremePC can discuss commercial pricing for institutional orders.
 
 ## Why Buy From ExtremePC
 
-- **230-unit supplier stock — largest single PSU inventory at ExtremePC** — Handles bulk institutional and integrator orders without stock uncertainty.
-
 - **Only 2000W ATX PSU available in NZ** — No alternative 2000W ATX desktop PSU exists in the NZ retail market. This is the only path to 2000W for NZ AI workstation builders.
 
 - **Build Team consultation for high-TDP workstations** — Build Team has experience speccing GPU workstations. Can validate TDP calculations for dual/triple GPU configurations before purchase.
-
-- **National courier dispatch 1–3 business days after supplier receipt** — Supplier ETA 3–7 business days; then 1–3 day courier from Auckland. Total 4–10 business days from order.
 
 - **23 years of NZ retail — commercial account and warranty support** — Institutional purchases welcome. Warranty claims handled through ExtremePC NZ.
 
@@ -76,9 +67,6 @@
 
 - **Q: Is it loud?**
   A: At 2000W capacity, the PSU fan runs audibly under sustained high-load operation. AI training rigs are typically deployed in server closets or equipment rooms where acoustics are less of a concern. For open-room gaming environments, at typical gaming loads (600–900W), the fan runs at reduced speed.
-
-- **Q: 230 units at supplier — is this slow delivery?**
-  A: Supplier ETA is typically 3–7 business days from Auckland, then 1–3 days courier. Confirm current lead time with ExtremePC at order time.
 
 - **Q: What warranty does Cooler Master provide on X Mighty?**
   A: Confirm warranty period on the product page. Cooler Master typically provides 5–10 year warranties on premium PSU lines. Claims handled through ExtremePC NZ.

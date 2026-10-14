@@ -20,7 +20,7 @@
 
 - **Jonsbo manufacturing quality at the M-ATX mid-tier.** Jonsbo is a Chinese case manufacturer known in the enthusiast market for construction quality above its price tier. Compared to generic M-ATX cases, Jonsbo cases typically feature tighter panel tolerances, better cable management routing, and component fit quality that punches above the price. The D200 brings this build quality to the $119 category where most alternatives are budget brands.
 
-- **Black TG M-ATX at $119 — positioned between budget Segotep and premium Thermalright Vision.** The D200 Black fills a gap in the range: above the Segotep Nexus PX Black ($109) which lacks included fans, and below the Thermalright TL-M10 Vision Black ($199) with its LCD display. For builders who want Jonsbo build quality in black TG M-ATX form without the Z20 portability premium or D300's display features, D200 is the entry.
+- **Black TG M-ATX at $119 — positioned between budget Segotep and premium Thermalright Vision.** The D200 Black fills a gap in the range: above the Segotep Nexus PX Black which lacks included fans, and below the Thermalright TL-M10 Vision Black with its LCD display. For builders who want Jonsbo build quality in black TG M-ATX form without the Z20 portability premium or D300's display features, D200 is the entry.
 
 - **Limited stock — 2 units in Onehunga.** The D200 Black is one of the lower-stocked SKUs in the Micro Tower range. Contact ExtremePC to confirm availability before visiting.
 
@@ -42,11 +42,11 @@
 
 ## Comparison
 
-- **vs Segotep Nexus PX Black ($109):** Nexus PX Black is $10 less with comparable specs. D200 Black adds Jonsbo build quality — tighter tolerances, better material feel — for $10 more. For budget-first, Nexus PX. For quality-first, D200.
+- **vs Segotep Nexus PX Black:** Nexus PX Black is $10 less with comparable specs. D200 Black adds Jonsbo build quality — tighter tolerances, better material feel — for $10 more. For budget-first, Nexus PX. For quality-first, D200.
 
-- **vs Thermalright TL-M10 Black ($119, same price):** TL-M10 Black includes 3× ARGB fans and 4mm TG at the same $119. For total value including fans, TL-M10 Black is harder to beat at this price. D200 Black is for builders who prefer Jonsbo's design language and don't need the fans bundled.
+- **vs Thermalright TL-M10 Black (same price):** TL-M10 Black includes 3× ARGB fans and 4mm TG at the same $119. For total value including fans, TL-M10 Black is harder to beat at this price. D200 Black is for builders who prefer Jonsbo's design language and don't need the fans bundled.
 
-- **vs Jonsbo D300 Black ($179):** D300 is a step-up from D200 with additional features — display panel or enhanced glass configuration — for $60 more. D200 is the entry Jonsbo D-series at mid-range pricing; D300 is for builders who want the full feature set.
+- **vs Jonsbo D300 Black:** D300 is a step-up from D200 with additional features — display panel or enhanced glass configuration — for $60 more. D200 is the entry Jonsbo D-series at mid-range pricing; D300 is for builders who want the full feature set.
 
 ## FAQ
 
@@ -67,9 +67,9 @@ Contact ExtremePC directly for stock status and restock timing.
 
 ## Related Products
 
-- Jonsbo D200 White (CASJOND200W) — $129, white finish
-- Jonsbo D300 Black (CASJOND300B) — $179, flagship Jonsbo D-series
-- Thermalright TL-M10 Black (CASTMRM10B) — $119, includes 3× ARGB fans
+- Jonsbo D200 White (CASJOND200W) — white finish
+- Jonsbo D300 Black (CASJOND300B) — flagship Jonsbo D-series
+- Thermalright TL-M10 Black (CASTMRM10B) — includes 3× ARGB fans
 
 ## Schema (JSON-LD)
 

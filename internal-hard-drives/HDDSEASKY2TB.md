@@ -1,4 +1,4 @@
-﻿# Seagate SkyHawk 2TB 3.5" SATA3 Surveillance Internal Hard Drive ST2000VX017
+# Seagate SkyHawk 2TB 3.5" SATA3 Surveillance Internal Hard Drive ST2000VX017
 
 **Price:** $325.00 inc GST
 **SKU:** HDDSEASKY2TB
@@ -17,7 +17,6 @@
 - **Firmware**: ImagePerfect — optimized for continuous 24/7 write
 - **MTBF**: 1M hours
 - **Warranty**: 3-year Seagate
-- **NZ Stock**: 6 units at supplier
 
 ## Selling Points
 
@@ -48,8 +47,6 @@
 - **Seagate NZ distributor** — 3-year warranty serviced domestically through ExtremePC NZ. No overseas shipping for warranty claims.
 
 - **Build Team consultation** — Build Team can advise on NVR compatibility and retention calculation for your camera count + resolution.
-
-- **Supplier inventory** — Available on order.
 
 - **National courier dispatch 1–3 business days** — Insured shipping to Wellington and South Island.
 
@@ -83,7 +80,6 @@
   A: Yes — SkyHawk is compatible with all major NVR brands. Check your NVR's compatibility list for confirmation.
 
 - **Q: How long is delivery?**
-  A: 3–7 business day supplier ETA, then 1–3 days courier.
 
 ## Related Products
 

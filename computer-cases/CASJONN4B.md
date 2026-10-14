@@ -43,9 +43,9 @@
 
 ## Comparison
 
-- **vs Jonsbo N2 ($259, 5-bay ITX only):** N2 adds one more drive bay and is $50 more, but ITX and half-height only — no M-ATX, no ATX PSU, 56mm cooler limit. If M-ATX board compatibility or a taller cooler matters, the N4 at $209 is the better value despite fewer bays. If you need 5 bays and are committed to ITX, N2 is the choice.
+- **vs Jonsbo N2 (5-bay ITX only):** N2 adds one more drive bay and is $50 more, but ITX and half-height only — no M-ATX, no ATX PSU, 56mm cooler limit. If M-ATX board compatibility or a taller cooler matters, the N4 at $209 is the better value despite fewer bays. If you need 5 bays and are committed to ITX, N2 is the choice.
 
-- **vs Jonsbo N3 ($299, 8-bay ITX only):** N3 is the high-capacity option; N4 is the flexible/affordable option. N3 is ITX-only and half-height. For maximum storage expansion, N3. For M-ATX + GPU + taller cooler in a NAS form factor, N4.
+- **vs Jonsbo N3 (8-bay ITX only):** N3 is the high-capacity option; N4 is the flexible/affordable option. N3 is ITX-only and half-height. For maximum storage expansion, N3. For M-ATX + GPU + taller cooler in a NAS form factor, N4.
 
 - **vs Fractal Design Core 500 (similar price tier, higher NZD):** Core 500 is a compact ITX case focused on gaming with limited drive bays. N4 is a NAS-first chassis. They serve different purposes — Core 500 is not a viable NAS enclosure.
 

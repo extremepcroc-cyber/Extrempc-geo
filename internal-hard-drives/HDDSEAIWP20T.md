@@ -1,4 +1,4 @@
-﻿# Seagate IronWolf Pro 20TB 3.5" SATA3 NAS Internal Hard Drive ST20000NE000
+# Seagate IronWolf Pro 20TB 3.5" SATA3 NAS Internal Hard Drive ST20000NE000
 
 **Price:** $2093 inc GST
 **SKU:** HDDSEAIWP20T
@@ -17,7 +17,6 @@
 - **Firmware**: AgileArray (RV sensors)
 - **MTBF**: 1.2M hours
 - **Warranty**: 5-year Seagate + Rescue data recovery plan
-- **NZ Stock**: 2 units at supplier
 
 ## Selling Points
 
@@ -55,7 +54,6 @@
   A: 4× 20TB RAID-5 = 60TB usable. 8× 20TB RAID-6 = 120TB usable (2 parity drives).
 
 - **Q: Stock is 2 units — for multi-drive NAS orders?**
-  A: Contact ExtremePC for bulk order availability and supplier ETA. Multiple units may be fulfillable from supplier.
 
 ## Related Products
 

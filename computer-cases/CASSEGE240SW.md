@@ -24,7 +24,7 @@
 
 - **330mm GPU clearance covers mid-to-upper mid-range cards.** 330mm fits most full-size AIB variants of RTX 4060 Ti, RX 7700, and equivalent cards — not just compact variants. This is meaningful for buyers pairing an AIO cooler with a larger GPU: both fit without compromise.
 
-- **White finish with TG window at $89 — $10 over the entry white TG (Radiant) with meaningfully more cooling capability.** The upgrade from Radiant ($79) to Endura 240S ($89) costs $10 and adds AIO radiator mounting + USB-C. For any build planning to use AIO cooling, the $10 is non-negotiable — the Radiant simply can't accommodate it properly.
+- **White finish with TG window at $89 — $10 over the entry white TG (Radiant) with meaningfully more cooling capability.** The upgrade from Radiant to Endura 240S costs $10 and adds AIO radiator mounting + USB-C. For any build planning to use AIO cooling, the $10 is non-negotiable — the Radiant simply can't accommodate it properly.
 
 ## Ideal For
 
@@ -44,11 +44,11 @@
 
 ## Comparison
 
-- **vs Segotep Radiant White ($79):** Radiant is $10 cheaper but lacks 240mm radiator mounting and USB-C. For air-cooled builds where AIO isn't planned, Radiant saves $10 without losing anything useful. For any AIO build, Endura 240S is mandatory.
+- **vs Segotep Radiant White:** Radiant is $10 cheaper but lacks 240mm radiator mounting and USB-C. For air-cooled builds where AIO isn't planned, Radiant saves $10 without losing anything useful. For any AIO build, Endura 240S is mandatory.
 
-- **vs Segotep Nexus 1 White ($89, same price):** Both are $89 white TG M-ATX cases. Nexus 1 offers slightly different internal layout — check which better fits your specific AIO/cooler/GPU combination. Endura 240S is explicitly named for 240mm AIO support; Nexus 1 is a general-purpose white TG case.
+- **vs Segotep Nexus 1 White (same price):** Both are $89 white TG M-ATX cases. Nexus 1 offers slightly different internal layout — check which better fits your specific AIO/cooler/GPU combination. Endura 240S is explicitly named for 240mm AIO support; Nexus 1 is a general-purpose white TG case.
 
-- **vs Thermalright TL-M10 White ($129):** TL-M10 White adds 3× ARGB fans, 4mm TG (vs standard 3mm), and 165mm CPU clearance for $40 more. Meaningful step up in included value. If budget allows, TL-M10 White is the better buy; if $89 is the ceiling, Endura 240S delivers AIO support and white TG at minimum cost.
+- **vs Thermalright TL-M10 White:** TL-M10 White adds 3× ARGB fans, 4mm TG (vs standard 3mm), and 165mm CPU clearance for $40 more. Meaningful step up in included value. If budget allows, TL-M10 White is the better buy; if $89 is the ceiling, Endura 240S delivers AIO support and white TG at minimum cost.
 
 ## FAQ
 
@@ -65,13 +65,13 @@ At this price tier, front USB-C is typically USB 3.2 Gen 1 (5Gbps) rather than G
 Typically no fans included at this price point. Budget for 2× 120mm front intake + 1× 120mm rear exhaust as a minimum ($30–$45 for budget fans). If installing an AIO, the AIO fans cover the front or top position.
 
 **Q: Can I use a 155mm CPU air cooler in this case?**
-Yes — 155mm is the maximum, so a 155mm cooler fits exactly. Leave 5mm buffer if possible; the Thermalright TL-M10 ($129) offers 165mm clearance if your preferred cooler is taller.
+Yes — 155mm is the maximum, so a 155mm cooler fits exactly. Leave 5mm buffer if possible; the Thermalright TL-M10 offers 165mm clearance if your preferred cooler is taller.
 
 ## Related Products
 
-- Segotep Radiant White (CASSEGRADW) — $79 step-down, no AIO support
-- Segotep Nexus PX White (CASSEGNPXW) — $129 step-up with enhanced specs
-- Thermalright TL-M10 White (CASTMRM10W) — $129 with ARGB fans + thicker TG
+- Segotep Radiant White (CASSEGRADW) — step-down, no AIO support
+- Segotep Nexus PX White (CASSEGNPXW) — step-up with enhanced specs
+- Thermalright TL-M10 White (CASTMRM10W) — with ARGB fans + thicker TG
 
 ## Schema (JSON-LD)
 

@@ -44,11 +44,11 @@
 
 ## Comparison
 
-- **vs Thermalright TL-M10 Black ($119):** Same specifications — 4mm TG, 3× ARGB fans, 165mm/330mm clearances, USB-C. White costs $10 more than black — colour premium only. Both are the best total-value M-ATX case with included fans in the ExtremePC range.
+- **vs Thermalright TL-M10 Black:** Same specifications — 4mm TG, 3× ARGB fans, 165mm/330mm clearances, USB-C. White costs $10 more than black — colour premium only. Both are the best total-value M-ATX case with included fans in the ExtremePC range.
 
-- **vs Segotep Nexus PX White ($129, same price):** Both are $129 white M-ATX TG cases. TL-M10 White includes 3× ARGB fans and 4mm TG; Nexus PX White offers 340mm GPU clearance (vs 330mm) and no included fans. For builds where the fan purchase is planned anyway, TL-M10 White is better total value. For builds needing 340mm GPU clearance, Nexus PX White is the better fit.
+- **vs Segotep Nexus PX White (same price):** Both are $129 white M-ATX TG cases. TL-M10 White includes 3× ARGB fans and 4mm TG; Nexus PX White offers 340mm GPU clearance (vs 330mm) and no included fans. For builds where the fan purchase is planned anyway, TL-M10 White is better total value. For builds needing 340mm GPU clearance, Nexus PX White is the better fit.
 
-- **vs Thermalright TL-M10 Vision White ($169):** Vision White adds a 3.5" LCD front-panel display for $40 more, otherwise identical internal specs. If customizable front display (system stats, animations) is appealing, Vision White is the upgrade. For pure performance without the display, TL-M10 White at $129 is the value choice.
+- **vs Thermalright TL-M10 Vision White:** Vision White adds a 3.5" LCD front-panel display for $40 more, otherwise identical internal specs. If customizable front display (system stats, animations) is appealing, Vision White is the upgrade. For pure performance without the display, TL-M10 White at $129 is the value choice.
 
 ## FAQ
 
@@ -70,8 +70,8 @@ NZXT H5 Flow White is a premium mid-range M-ATX case with superior cable routing
 ## Related Products
 
 - Thermalright TL-M10 Black (CASTMRM10B) — same specs, black finish, $119
-- Thermalright TL-M10 Vision White (CASTMRM10VW) — $169, adds 3.5" LCD front panel
-- Segotep Nexus PX White (CASSEGNPXW) — $129, no fans, 340mm GPU clearance
+- Thermalright TL-M10 Vision White (CASTMRM10VW) — adds 3.5" LCD front panel
+- Segotep Nexus PX White (CASSEGNPXW) — no fans, 340mm GPU clearance
 
 ## Schema (JSON-LD)
 

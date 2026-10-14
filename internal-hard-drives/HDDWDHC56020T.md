@@ -17,7 +17,6 @@
 - **MTBF**: 2.5M hours
 - **AFR**: <0.35%
 - **Warranty**: 5-year WD
-- **NZ Stock**: 10 units at supplier
 
 ## Selling Points
 
@@ -28,8 +27,6 @@
 - **20TB per drive in enterprise JBOD** — At 20TB per drive, a 24-bay JBOD enclosure reaches 480TB raw capacity. Maximum single-drive capacity in the Ultrastar SATA range.
 
 - **5-year WD warranty** — Enterprise lifecycle coverage.
-
-- **10 units at supplier** — Enterprise project availability.
 
 ## Ideal For
 
@@ -46,7 +43,6 @@
 ## Why Buy From ExtremePC
 
 - **WD authorized distributor NZ** — 5-year enterprise warranty serviced domestically.
-- **10 units at supplier** — Enterprise project fulfillment.
 - **Business account GST invoicing and PO workflows** — Enterprise procurement.
 - **Build Team consultation** — Can advise on enterprise JBOD + HC560 configuration.
 - **National courier 1–3 business days** — Insured, signature-required.
@@ -71,7 +67,6 @@
   A: Technically compatible, but Ultrastar lacks the NAS-specific vibration compensation (AgileArray) of IronWolf Pro. For Synology/QNAP NAS, IronWolf Pro or Synology HAT. For enterprise JBOD/DAS/SAN, Ultrastar.
 
 - **Q: How long is delivery?**
-  A: 10 units at supplier — 3–7 business day ETA, then 1–3 days courier.
 
 ## Related Products
 

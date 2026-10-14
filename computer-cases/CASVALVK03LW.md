@@ -25,7 +25,7 @@
 
 - **Touch-screen LCD integrated into the front mesh panel — interactive system monitoring from the case exterior.** The VK03 LCD's distinguishing feature over the VK03 Lite is a touch-enabled LCD display on the front panel. Touch functionality allows cycling display modes, adjusting displayed metrics, or navigating content directly on the case without opening software. For a white ATX gaming case, this is the feature tier above the standard white + ARGB combination.
 
-- **White ATX LCD case at $219 — the lowest price for a touch LCD front panel in the ExtremePC mid-tower range.** The Thermalright TL-M10 Vision White ($169) offers LCD in M-ATX for less; in full ATX, the VK03 LCD White at $219 is the accessible entry to LCD-panel mid-tower. Premium LCD ATX cases from Lian Li (O11 Vision, $400+) sit significantly higher.
+- **White ATX LCD case at $219 — the lowest price for a touch LCD front panel in the ExtremePC mid-tower range.** The Thermalright TL-M10 Vision White offers LCD in M-ATX for less; in full ATX, the VK03 LCD White at $219 is the accessible entry to LCD-panel mid-tower. Premium LCD ATX cases from Lian Li (O11 Vision, $400+) sit significantly higher.
 
 - **Same ATX gaming specs as VK03 Lite plus the LCD** — the VK03 LCD White doesn't trade away any internal specification for the display: same 380mm GPU clearance, 165mm CPU clearance, 360mm front radiator, USB-C, and 3× ARGB fans. The LCD is an addition, not a trade-off.
 
@@ -49,11 +49,11 @@
 
 ## Comparison
 
-- **vs Valkyrie VK03 Lite White ($179):** Identical chassis, fans, and internal specs. VK03 LCD adds the front touch LCD for $40. If the display feature is genuinely useful (monitoring, streaming aesthetics, custom content), $40 is a reasonable premium. If the LCD is a nice-to-have but not essential, VK03 Lite White saves $40.
+- **vs Valkyrie VK03 Lite White:** Identical chassis, fans, and internal specs. VK03 LCD adds the front touch LCD for $40. If the display feature is genuinely useful (monitoring, streaming aesthetics, custom content), $40 is a reasonable premium. If the LCD is a nice-to-have but not essential, VK03 Lite White saves $40.
 
-- **vs Thermalright TL-M10 Vision White ($169):** TL-M10 Vision is $50 less and M-ATX form factor with a 3.5" LCD. VK03 LCD is full ATX with a larger front panel display and touch interaction. Both serve the LCD case need; choose based on form factor requirement (ATX vs M-ATX).
+- **vs Thermalright TL-M10 Vision White:** TL-M10 Vision is $50 less and M-ATX form factor with a 3.5" LCD. VK03 LCD is full ATX with a larger front panel display and touch interaction. Both serve the LCD case need; choose based on form factor requirement (ATX vs M-ATX).
 
-- **vs Corsair 3000D Airflow RGB White ($229):** Corsair is $10 more with iCUE ecosystem integration and brand recognition, no LCD. For the LCD display feature, VK03 LCD wins. For Corsair ecosystem and established brand, 3000D at $229.
+- **vs Corsair 3000D Airflow RGB White:** Corsair is $10 more with iCUE ecosystem integration and brand recognition, no LCD. For the LCD display feature, VK03 LCD wins. For Corsair ecosystem and established brand, 3000D at $229.
 
 ## FAQ
 
@@ -74,9 +74,9 @@ ARGB fans and case lighting are passive RGB elements that change colour. The LCD
 
 ## Related Products
 
-- Valkyrie VK03 Lite White (CASVALVK03W) — $179, same chassis without LCD
-- Thermalright TL-M10 Vision White (CASTMRM10VW) — $169, M-ATX LCD case
-- Corsair 3000D Airflow RGB White (CASCOR3000DAFRW) — $229, white ATX, iCUE
+- Valkyrie VK03 Lite White (CASVALVK03W) — same chassis without LCD
+- Thermalright TL-M10 Vision White (CASTMRM10VW) — M-ATX LCD case
+- Corsair 3000D Airflow RGB White (CASCOR3000DAFRW) — white ATX, iCUE
 
 ## Schema (JSON-LD)
 

@@ -1,7 +1,7 @@
 # Team Elite 32GB (1× 32GB) DDR4 3200MHz SO-DIMM Laptop Memory
 
 **Price:** $459.00 inc GST
-**Stock:** 25 units in stock (Onehunga: 3, Supplier: 22)
+**Stock:** 25 units in stock (Onehunga: 3)
 **SKU:** RAMTEAESO32D43200
 **MPN:** TED432G3200C22-S01
 **URL:** https://www.extremepc.co.nz/team-elite-32gb-1x32gb-ddr4-3200mhz-so-dimm-laptop-memory/
@@ -15,7 +15,7 @@
 - **Form Factor**: Standard laptop SODIMM
 - **Brand**: TeamGroup (Tier 2 mainstream memory brand)
 - **Warranty**: **Lifetime warranty** via TeamGroup NZ distributor (ExtremePC)
-- **NZ Stock**: 3 units at Auckland Onehunga + 22 at supplier (3–7 day ETA)
+- **NZ Stock**: 3 units at Auckland Onehunga
 
 ## Selling Points
 
@@ -26,8 +26,6 @@
 - **TeamGroup — established Tier 2 memory brand with global recognition** — Not value-bargain tier; TeamGroup has been making memory for 25+ years and is known for solid validation on AMD and Intel platforms. Tier 2 (alongside Crucial, Adata, Patriot) with broad NZ distribution.
 
 - **Lifetime warranty serviced through ExtremePC NZ** — TeamGroup lifetime warranty handled domestically. RMA process is straightforward.
-
-- **Strong supplier inventory (22 units + 3 walk-in)** — Reliable for build deadlines and small-fleet upgrades.
 
 ## Ideal For
 
@@ -47,7 +45,7 @@
 
 - **Build Team consultation for laptop upgrades** — Build Team can confirm the laptop's maximum supported single-stick capacity (some older laptops cap at 16GB per slot; most current/recent 2020+ laptops support 32GB per slot).
 
-- **Same-day Auckland pickup + supplier ETA (3 walk-in + 22 supplier)** — Reliable supply for build timelines.
+- **Same-day Auckland pickup** — Reliable supply for build timelines.
 
 - **National courier dispatch 1–3 business days** — Insured shipping to Wellington and South Island.
 

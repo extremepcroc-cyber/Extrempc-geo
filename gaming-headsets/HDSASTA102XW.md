@@ -49,7 +49,6 @@ vs Logitech G321 Wireless — the G321 is wireless with a 15-hour battery at a s
 
 **Q: Is the boom mic good for console voice chat?** — The boom mic provides adequate voice quality for Xbox Live and PS5 party chat. It is not a noise-cancelling mic, so in a noisy room, expect some background noise to be picked up.
 
-
 ## Related Products
 - Astro A40 Wireless — step-up with wireless
 - Razer BlackShark v2 X Wired (HDSRAZBSV2X) — Razer wired alternative

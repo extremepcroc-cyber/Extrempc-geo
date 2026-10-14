@@ -14,7 +14,6 @@
 - **Cache**: 64MB
 - **Sequential Read/Write**: ~180 MB/s typical for 7200 RPM 1TB
 - **Warranty**: 2-year WD
-- **NZ Stock**: 6 units at supplier
 
 ## Selling Points
 
@@ -37,8 +36,6 @@
 ## Why Buy From ExtremePC
 
 - **WD warranty via ExtremePC NZ** — 2-year warranty domestically serviced.
-
-- **Supplier inventory** — Available on order.
 
 - **National courier dispatch 1–3 business days** — Insured shipping.
 

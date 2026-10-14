@@ -15,7 +15,6 @@
 - **Fan**: 120mm PWM silent fan
 - **Protection**: OCP, OVP, UVP, SCP, OPP, OTP
 - **Colour**: Black
-- **NZ Stock**: 1 unit at supplier (3–7 day ETA)
 
 ## Selling Points
 
@@ -55,19 +54,14 @@
 
 ## Comparison
 
-- **vs Segotep WJ750W Black (PSUSEGWJ750W1B, same spec at higher NZD, 4 retail units)** — WJ750W is higher NZD with immediate pickup at Onehunga (4 units). TR-KG750 is lower NZD with supplier stock (3–7 day wait). Same core specification. Choose: pay more for immediacy (WJ750W) or save NZD and wait (TR-KG750).
-
 - **vs Segotep GM650W Black (PSUSEGGM650WB, 100W less at lower NZD, retail stocked)** — GM650W for RTX 4070 / RTX 5070 builds where 650W is sufficient and budget is tight. TR-KG750 for builds needing 750W headroom.
 
 - **vs Thermalright TR-KG850W White (PSUTMRKG850W, 100W more at higher NZD)** — KG850W for RTX 4070 Ti Super + Core i9 or RTX 4080 class builds needing 850W.
 
 ## FAQ
 
-- **Q: Supplier stock — how long is actual delivery?**
-  A: Supplier ETA is typically 3–7 business days, then 1–3 days courier from Auckland. Total 4–10 business days from order. Confirm current ETA with ExtremePC at time of order.
-
 - **Q: Same spec as WJ750W — why is TR-KG750 cheaper?**
-  A: Different brand + supplier vs retail stock availability. Both are 750W ATX 3.1 80+ Gold fully modular. TR-KG750 passes the savings from lower brand premium and supplier-stock model vs Segotep's retail-stocked position.
+  A: Different brand. Both are 750W ATX 3.1 80+ Gold fully modular.
 
 - **Q: Is 750W enough for RTX 4070 Ti Super?**
   A: For RTX 4070 Ti Super (285W TGP) + Core i5/Ryzen 5 (125W TDP) systems, 750W provides ~340W headroom above combined peak — adequate. For Core i9 / Ryzen 9 platforms, 850W is recommended.

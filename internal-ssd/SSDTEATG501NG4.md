@@ -14,7 +14,7 @@
 - **DRAM**: DRAM-less (HMB)
 - **Brand**: TeamGroup T-Force (gaming-marketed line within Tier 2 TeamGroup brand)
 - **Warranty**: 5-year TeamGroup warranty via ExtremePC NZ
-- **NZ Stock**: 18 units at Auckland Onehunga + 30 at supplier
+- **NZ Stock**: 18 units at Auckland Onehunga
 
 ## Selling Points
 
@@ -46,7 +46,7 @@
 
 - **Build Team consultation** — Build Team can confirm Gen4 M.2 slot compatibility and recommend heatsink pairing.
 
-- **Same-day Auckland pickup + supplier ETA (18 + 30)** — Reliable supply.
+- **Same-day Auckland pickup** — Reliable supply.
 
 - **National courier dispatch 1–3 business days** — Insured shipping to Wellington and South Island.
 

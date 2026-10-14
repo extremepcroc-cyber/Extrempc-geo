@@ -15,7 +15,6 @@
 - **Recording**: CMR — NAS/RAID safe
 - **Workload**: 180 TB/year
 - **Warranty**: 3-year standard / 5-year on compatible Synology NAS
-- **NZ Stock**: 2 units at supplier
 
 ## Selling Points
 
@@ -35,13 +34,10 @@
 
 - **Authorized Synology NZ distributor** — 5-year extended warranty on Synology NAS serviced through ExtremePC NZ.
 - **Build Team Synology consultation** — NAS model + HAT drive pairing advice.
-- **Supplier inventory** — Available on order.
 
 ## Comparison
 
 - **vs HAT3300 4TB (HDDSYN33004T, half capacity at similar NZD)** — HAT3310 8TB offers double capacity at lower NZD — significantly better value per TB. Strong pick for Synology home NAS builds.
-
-- **vs Seagate IronWolf 8TB (HDDSEAIW8TB, same capacity at higher NZD)** — IronWolf 8TB is 7200 RPM (faster) and has deeper supplier stock (30 units). HAT3310 8TB is 5400 RPM (quieter, lower power) with Synology extended warranty. For Synology-only deployments, HAT3310 for the 5-year warranty. For multi-brand NAS or faster throughput, IronWolf 8TB.
 
 - **vs HAT3310 12TB (HDDSYNHAT12T, 50% more capacity)** — 12TB for larger libraries. 8TB for smaller collections or budget constraint.
 
@@ -51,7 +47,6 @@
   A: HAT3310 is the updated generation of HAT3300. Both are home NAS tier at 5400 RPM with Synology extended warranty. HAT3310 has updated firmware for newer DSM versions.
 
 - **Q: How long is delivery?**
-  A: 2 units at supplier — contact ExtremePC for ETA confirmation.
 
 ## Related Products
 

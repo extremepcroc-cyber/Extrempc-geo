@@ -41,11 +41,11 @@
 
 ## Comparison
 
-- **vs Jonsbo D200 Black ($119):** D200 is $60 less with similar core specs. D300 adds enhanced construction, better glass quality, and flagship D-series design refinements. The $60 premium buys Jonsbo's best M-ATX execution — worth it for builds where case quality is a priority. D200 for mid-range budget; D300 for premium builds.
+- **vs Jonsbo D200 Black:** D200 is $60 less with similar core specs. D300 adds enhanced construction, better glass quality, and flagship D-series design refinements. The $60 premium buys Jonsbo's best M-ATX execution — worth it for builds where case quality is a priority. D200 for mid-range budget; D300 for premium builds.
 
-- **vs Thermalright TL-M10 Vision Black ($199):** TL-M10 Vision Black is $20 more, adding a 3.5" LCD front display and 3× ARGB fans — significant included value. For builders attracted to the LCD display feature, Vision Black is the better $199 spend. D300 at $179 is for builders who prefer Jonsbo's case design heritage without the LCD feature.
+- **vs Thermalright TL-M10 Vision Black:** TL-M10 Vision Black is $20 more, adding a 3.5" LCD front display and 3× ARGB fans — significant included value. For builders attracted to the LCD display feature, Vision Black is the better $199 spend. D300 at $179 is for builders who prefer Jonsbo's case design heritage without the LCD feature.
 
-- **vs Jonsbo D33 Wood White ($169):** D33 Wood adds wooden accent panels in white for $10 less. Different aesthetic directions — D300 Black is clean all-black TG; D33 is white with natural wood texture. Both are Jonsbo premium M-ATX; choose based on aesthetic preference.
+- **vs Jonsbo D33 Wood White:** D33 Wood adds wooden accent panels in white for $10 less. Different aesthetic directions — D300 Black is clean all-black TG; D33 is white with natural wood texture. Both are Jonsbo premium M-ATX; choose based on aesthetic preference.
 
 ## FAQ
 
@@ -66,9 +66,9 @@ Check the product page for the confirmed GPU clearance specification. Jonsbo pre
 
 ## Related Products
 
-- Jonsbo D200 Black (CASJOND200B) — $119, entry D-series
-- Jonsbo D33 Wood White (CASJOND33WW) — $169, white wood accent variant
-- Thermalright TL-M10 Vision Black (CASTMRM10VB) — $199, includes LCD + ARGB fans
+- Jonsbo D200 Black (CASJOND200B) — entry D-series
+- Jonsbo D33 Wood White (CASJOND33WW) — white wood accent variant
+- Thermalright TL-M10 Vision Black (CASTMRM10VB) — includes LCD + ARGB fans
 
 ## Schema (JSON-LD)
 

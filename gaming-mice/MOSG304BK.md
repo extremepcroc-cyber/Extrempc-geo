@@ -39,7 +39,6 @@ At 99 g with a small footprint (116.6 x 62.15 x 38.2 mm) and a built-in slot for
 - Click and collect at our Onehunga store (295 Church Street): online orders for items like this are usually ready about an hour after payment
 - Afterpay and Zip Payment are available at online checkout
 
-
 ## Comparison
 
 vs Logitech G304 X (MOSLOGG304XB / MOSLOGG304XW) — the newer G304 X sits a tier higher: 61 g, a HERO 44K sensor, a rechargeable battery rated 130+ hours, and Bluetooth plus USB-C connection. The original G304 is heavier at 99 g, but its single AA battery is rated up to 250 hours and Logitech lists a 2-year limited hardware warranty for it. Choose the G304 for the lower tier and the longest rated runtime; choose the G304 X for lower weight and more connection options.

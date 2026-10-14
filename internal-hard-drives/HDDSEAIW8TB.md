@@ -17,7 +17,6 @@
 - **Firmware**: AgileArray (RV sensors, multi-drive vibration compensation)
 - **MTBF**: 1M hours
 - **Warranty**: 3-year Seagate
-- **NZ Stock**: 30 units at supplier
 
 ## Selling Points
 
@@ -28,8 +27,6 @@
 - **AgileArray firmware + RV sensors** — Compensates for adjacent drive vibration in multi-bay NAS. Critical in 4-bay+ NAS enclosures.
 
 - **180 TB/year workload** — 24/7 home NAS operation rating.
-
-- **30 units at supplier** — Reliable for home NAS project orders.
 
 ## Ideal For
 
@@ -47,7 +44,6 @@
 
 - **Authorized Seagate NZ distributor** — 3-year warranty domestically.
 - **Build Team NAS expertise** — Can specify Synology + IronWolf 8TB pairing and confirm RAID pool configuration.
-- **30 units at supplier** — NAS project orders reliably fulfilled.
 - **National courier 1–3 business days** — Insured shipping.
 - **23 years of NZ retail**.
 

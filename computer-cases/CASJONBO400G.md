@@ -45,9 +45,9 @@
 
 ## Comparison
 
-- **vs Jonsbo TK-4 Black ($329):** TK-4 delivers more showcase features (dual curved glass, 420mm GPU, ARGB fans, dual USB-C) for $250 less. BO400CG trades those visual showcase features for a fundamentally different material — aluminum vs steel frame. For design-showcase builds, TK-4 is more feature-rich at lower cost. For material quality and desk aesthetic, BO400CG is the different proposition entirely.
+- **vs Jonsbo TK-4 Black:** TK-4 delivers more showcase features (dual curved glass, 420mm GPU, ARGB fans, dual USB-C) for $250 less. BO400CG trades those visual showcase features for a fundamentally different material — aluminum vs steel frame. For design-showcase builds, TK-4 is more feature-rich at lower cost. For material quality and desk aesthetic, BO400CG is the different proposition entirely.
 
-- **vs Lian Li O11 Dynamic EVO ($400–$450 NZD range):** Lian Li O11 is a dual-chamber premium ATX case with excellent build quality at ~$150 less. O11 uses aluminum-accented steel, not aluminum frame. BO400CG at $579 has a true aluminum structure; O11 has Lian Li's premium steel construction. For premium case quality at lower cost, O11. For aluminum frame specifically, BO400CG.
+- **vs Lian Li O11 Dynamic EVO ($400–$450 NZD range):** Lian Li O11 is a dual-chamber premium ATX case with excellent build quality less. O11 uses aluminum-accented steel, not aluminum frame. BO400CG at $579 has a true aluminum structure; O11 has Lian Li's premium steel construction. For premium case quality at lower cost, O11. For aluminum frame specifically, BO400CG.
 
 - **vs premium audio/workstation case alternatives (Fractal Torrent, Define 7 XL):** Fractal Design cases are optimised for acoustics and clean cable management at lower prices. BO400CG is optimised for material quality and visual identity. Different purposes: Fractal for quiet workstations, BO400CG for material-conscious desk presence.
 
@@ -70,9 +70,9 @@ If visual showcase features (curved glass, dual-angle visibility, 420mm GPU) are
 
 ## Related Products
 
-- Jonsbo TK-4 Black (CASJONTK4B) — $329, flagship showcase ATX with curved glass
-- Lian Li Lancool 217 INF Black (CASLIAL217BI) — $249, premium ATX with Infinity Mirror
-- Jonsbo TK-2 Black (CASJONTK2B) — $229, entry hyperboloid glass ATX
+- Jonsbo TK-4 Black (CASJONTK4B) — flagship showcase ATX with curved glass
+- Lian Li Lancool 217 INF Black (CASLIAL217BI) — premium ATX with Infinity Mirror
+- Jonsbo TK-2 Black (CASJONTK2B) — entry hyperboloid glass ATX
 
 ## Schema (JSON-LD)
 

@@ -46,11 +46,11 @@
 
 ## Comparison
 
-- **vs Jonsbo Z20 Black ($139):** $10 less, identical internal specs, black finish. Choose black to save $10 or for colour preference. Choose Pink/White for the accent colour and the handle design.
+- **vs Jonsbo Z20 Black:** $10 less, identical internal specs, black finish. Choose black to save $10 or for colour preference. Choose Pink/White for the accent colour and the handle design.
 
-- **vs Jonsbo Z20 White ($149, same price):** Pure white vs pink/white accents. Internal specs are identical. White reads cleaner and more neutral; Pink/White is a deliberate colour statement. Same price.
+- **vs Jonsbo Z20 White (same price):** Pure white vs pink/white accents. Internal specs are identical. White reads cleaner and more neutral; Pink/White is a deliberate colour statement. Same price.
 
-- **vs Jonsbo Z20 Orange/Black ($149, same price):** Orange/Black has a darker base with orange accents — a different aesthetic entirely. Both are $149. Choose based on colour preference; specs are identical.
+- **vs Jonsbo Z20 Orange/Black (same price):** Orange/Black has a darker base with orange accents — a different aesthetic entirely. Both are $149. Choose based on colour preference; specs are identical.
 
 ## FAQ
 
@@ -71,9 +71,9 @@ White and Orange/Black are also $149. Black is $10 less at $139. Internal specs 
 
 ## Related Products
 
-- Jonsbo Z20 White (CASJONZ20W) — $149, pure white finish
-- Jonsbo Z20 Black (CASJONZ20B) — $139, black finish, $10 less
-- Jonsbo Z20 Orange/Black (CASJONZ20BO) — $149, orange/black accent
+- Jonsbo Z20 White (CASJONZ20W) — pure white finish
+- Jonsbo Z20 Black (CASJONZ20B) — black finish, $10 less
+- Jonsbo Z20 Orange/Black (CASJONZ20BO) — orange/black accent
 
 ## Schema (JSON-LD)
 

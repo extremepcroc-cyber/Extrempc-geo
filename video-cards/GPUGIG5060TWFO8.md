@@ -1,7 +1,7 @@
 # Gigabyte GeForce RTX 5060 Ti WINDFORCE OC 8GB GDDR7 Graphics Card
 
 **Price:** $1,039.00 inc GST
-**Stock:** 20 units in stock (Onehunga: 9, Supplier: 11)
+**Stock:** 20 units in stock (Onehunga: 9)
 **SKU:** GPUGIG5060TWFO8
 **MPN:** GV-N506TWF2OC-8GD
 **URL:** https://www.extremepc.co.nz/gigabyte-geforce-rtx-5060-ti-windforce-oc-8gb-gddr7-graphics-card-gv-n506twf2-8gd/
@@ -20,7 +20,7 @@
 - **Display Outputs**: 3× DisplayPort + 1× HDMI
 - **Software**: Gigabyte Control Center for monitoring; RGB Fusion for lighting sync
 - **Warranty**: 3 years Gigabyte warranty via authorized NZ distributor (ExtremePC)
-- **NZ Stock**: 9 units at Auckland Onehunga + 12 at supplier (3–7 day ETA)
+- **NZ Stock**: 9 units at Auckland Onehunga
 
 ## Selling Points
 
@@ -51,8 +51,6 @@
 - **Authorized Gigabyte NZ distributor** — 3-year warranty serviced domestically.
 
 - **Build Team consultation for thermal-priority builds** — Build Team can spec the case airflow setup that pairs correctly with the WINDFORCE thermal headroom — getting full value from the cooler upgrade.
-
-- **Same-day Auckland pickup from Onehunga (9 units) + supplier ETA** — 9 for walk-in; 12 at supplier with 3–7 day ETA.
 
 - **National courier dispatch 1–3 business days** — Insured shipping to Wellington and South Island.
 

@@ -40,11 +40,11 @@
 
 ## Comparison
 
-- **vs Segotep Lumi 3S/3T ($109, M-ATX):** Lumi series is M-ATX Sea View at $109 — half the price but M-ATX form factor only. X400 Gray at $299 is full ATX Sea View with Jonsbo build quality. For M-ATX builds, Lumi 3S/3T is the Sea View option. For ATX, X400 Gray.
+- **vs Segotep Lumi 3S/3T (M-ATX):** Lumi series is M-ATX Sea View at $109 — half the price but M-ATX form factor only. X400 Gray at $299 is full ATX Sea View with Jonsbo build quality. For M-ATX builds, Lumi 3S/3T is the Sea View option. For ATX, X400 Gray.
 
 - **vs Lian Li O11 Dynamic EVO ($350–$400+ NZD):** Lian Li O11 is a premium ATX showcase case with dual-chamber design at a higher price. X400 Gray at $299 is the mid-point between standard M-ATX cases and premium ATX cases — Jonsbo quality in a Sea View ATX format for less than O11.
 
-- **vs Jonsbo D300 Black ($179, M-ATX):** D300 is $120 less in M-ATX form factor. If M-ATX is the build requirement, D300 is the Jonsbo premium M-ATX option. If ATX is needed or the Sea View glass is the feature, X400 Gray at $299 is the step up.
+- **vs Jonsbo D300 Black (M-ATX):** D300 is $120 less in M-ATX form factor. If M-ATX is the build requirement, D300 is the Jonsbo premium M-ATX option. If ATX is needed or the Sea View glass is the feature, X400 Gray at $299 is the step up.
 
 ## FAQ
 
@@ -65,9 +65,9 @@ The X400 is an ATX mid-tower physically — it appears in the Micro Tower catego
 
 ## Related Products
 
-- Jonsbo D300 Black (CASJOND300B) — $179, flagship Jonsbo M-ATX
-- Segotep Lumi 3S White (CASSEGLUM3SW) — $109, M-ATX Sea View
-- Jonsbo D33 Wood White (CASJOND33WW) — $169, distinctive Jonsbo M-ATX aesthetic
+- Jonsbo D300 Black (CASJOND300B) — flagship Jonsbo M-ATX
+- Segotep Lumi 3S White (CASSEGLUM3SW) — M-ATX Sea View
+- Jonsbo D33 Wood White (CASJOND33WW) — distinctive Jonsbo M-ATX aesthetic
 
 ## Schema (JSON-LD)
 

@@ -44,11 +44,11 @@
 
 ## Comparison
 
-- **vs Segotep Nexus PX Black ($109):** Identical internal specs. White costs $20 more — colour premium only. For white builds, the premium is straightforward. For black builds, save $20 with the Black variant.
+- **vs Segotep Nexus PX Black:** Identical internal specs. White costs $20 more — colour premium only. For white builds, the premium is straightforward. For black builds, save $20 with the Black variant.
 
-- **vs Thermalright TL-M10 White ($129, same price):** Both are $129 white M-ATX TG cases. TL-M10 White includes 3× ARGB fans (worth ~$30) and 4mm TG vs standard thickness. Nexus PX White offers 340mm GPU (vs ~330mm for TL-M10) and confirmed 240mm front AIO position. For included fans, TL-M10 wins. For GPU clearance and AIO flexibility, Nexus PX is comparable. Both are strong options at the same price — choose based on whether included fans or GPU clearance matters more.
+- **vs Thermalright TL-M10 White (same price):** Both are $129 white M-ATX TG cases. TL-M10 White includes 3× ARGB fans (worth) and 4mm TG vs standard thickness. Nexus PX White offers 340mm GPU (vs ~330mm for TL-M10) and confirmed 240mm front AIO position. For included fans, TL-M10 wins. For GPU clearance and AIO flexibility, Nexus PX is comparable. Both are strong options at the same price — choose based on whether included fans or GPU clearance matters more.
 
-- **vs Segotep Lumi 3S White ($109):** Lumi 3S is $20 less with panoramic curved glass for a showcase aesthetic. Nexus PX White has better cooling specs (165mm vs 155mm, AIO support). For showcase builds where the visual is the priority, Lumi 3S. For performance-balanced white builds, Nexus PX.
+- **vs Segotep Lumi 3S White:** Lumi 3S is $20 less with panoramic curved glass for a showcase aesthetic. Nexus PX White has better cooling specs (165mm vs 155mm, AIO support). For showcase builds where the visual is the priority, Lumi 3S. For performance-balanced white builds, Nexus PX.
 
 ## FAQ
 
@@ -71,7 +71,7 @@ Typically no fans at this price tier. Budget for 2× 120mm front intake + 1× 12
 
 - Segotep Nexus PX Black (CASSEGNPXB) — same specs, black finish, $20 less
 - Thermalright TL-M10 White (CASTMRM10W) — same price, includes ARGB fans
-- Segotep Lumi 3S White (CASSEGLUM3SW) — $109 panoramic glass showcase alternative
+- Segotep Lumi 3S White (CASSEGLUM3SW) — panoramic glass showcase alternative
 
 ## Schema (JSON-LD)
 

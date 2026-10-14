@@ -47,11 +47,11 @@
 
 ## Comparison
 
-- **vs Jonsbo TK-4 Black ($329):** TK-4 adds hyperboloid Sea View dual-glass (side + top curved glass) and 420mm GPU for $80 more. Lian Li wins on USB-C speed (20Gbps vs TK-4's standard), brand heritage, and cable management quality at $249. TK-4 wins on showcase glass format and GPU clearance. Both are premium ATX cases; different aesthetic and specification priorities.
+- **vs Jonsbo TK-4 Black:** TK-4 adds hyperboloid Sea View dual-glass (side + top curved glass) and 420mm GPU for $80 more. Lian Li wins on USB-C speed (20Gbps vs TK-4's standard), brand heritage, and cable management quality at $249. TK-4 wins on showcase glass format and GPU clearance. Both are premium ATX cases; different aesthetic and specification priorities.
 
-- **vs Corsair 3000D Airflow RGB White ($229):** Corsair is $20 less, white, mesh front, iCUE ecosystem. Lian Li adds Infinity Mirror, 20Gbps USB-C, 400mm GPU, and Lian Li build quality for $20 more. The step-up is clearly justified for black builds wanting superior specs.
+- **vs Corsair 3000D Airflow RGB White:** Corsair is $20 less, white, mesh front, iCUE ecosystem. Lian Li adds Infinity Mirror, 20Gbps USB-C, 400mm GPU, and Lian Li build quality for $20 more. The step-up is clearly justified for black builds wanting superior specs.
 
-- **vs Jonsbo TK-2 Black ($229):** TK-2 is $20 less with hyperboloid curved glass. Lian Li adds Infinity Mirror active display, 20Gbps USB-C, 400mm GPU, and Lian Li manufacturing quality for $20 more. For design-first buyers, TK-2's curved glass vs INF's infinity mirror is a purely aesthetic decision.
+- **vs Jonsbo TK-2 Black:** TK-2 is $20 less with hyperboloid curved glass. Lian Li adds Infinity Mirror active display, 20Gbps USB-C, 400mm GPU, and Lian Li manufacturing quality for $20 more. For design-first buyers, TK-2's curved glass vs INF's infinity mirror is a purely aesthetic decision.
 
 ## FAQ
 
@@ -65,16 +65,16 @@ Yes — the ARGB in the front panel can be turned off via software or the button
 USB-C devices negotiate the fastest mutual speed — a 10Gbps drive in a 20Gbps port will run at 10Gbps. No compatibility loss; only speed benefit with devices that support 20Gbps.
 
 **Q: Is there a white version?**
-Check extremepc.co.nz for colour availability. At time of writing, Lancool 217 INF is in stock in black (Infinity). For white ATX premium, see Corsair 3000D Airflow RGB White ($229) or Valkyrie VK03 variants.
+Check extremepc.co.nz for colour availability. At time of writing, Lancool 217 INF is in stock in black (Infinity). For white ATX premium, see Corsair 3000D Airflow RGB White or Valkyrie VK03 variants.
 
 **Q: How does Lian Li compare to Corsair or Jonsbo in case quality?**
 Lian Li is widely regarded as the benchmark for premium case build quality. Panel tolerance, material thickness, hinge quality, and cable routing are consistently above Corsair and significantly above Jonsbo at this price tier. The trade-off is higher price vs cases with more aggressive design features (Jonsbo hyperboloid glass) or ecosystem integration (Corsair iCUE).
 
 ## Related Products
 
-- Jonsbo TK-4 Black (CASJONTK4B) — $329, hyperboloid Sea View ATX flagship
-- Jonsbo TK-2 Black (CASJONTK2B) — $229, hyperboloid glass entry
-- Corsair 3000D Airflow RGB White (CASCOR3000DAFRW) — $229, iCUE, white
+- Jonsbo TK-4 Black (CASJONTK4B) — hyperboloid Sea View ATX flagship
+- Jonsbo TK-2 Black (CASJONTK2B) — hyperboloid glass entry
+- Corsair 3000D Airflow RGB White (CASCOR3000DAFRW) — iCUE, white
 
 ## Schema (JSON-LD)
 

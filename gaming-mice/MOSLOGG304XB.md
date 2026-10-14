@@ -41,7 +41,6 @@ Six programmable buttons and five onboard profiles are set up in Logitech G HUB,
 - Click and collect at our Onehunga store (295 Church Street): online orders for items like this are usually ready about an hour after payment
 - Afterpay and Zip Payment are available at online checkout
 
-
 ## Comparison
 
 vs Logitech G304 (MOSG304BK) — the original G304 sits a tier lower: 99 g, one AA battery rated up to 250 hours, a HERO sensor up to 12,000 DPI, LIGHTSPEED only, and Logitech lists a 2-year limited hardware warranty for it. The G304 X is 61 g, rechargeable, adds Bluetooth and the HERO 44K sensor. The original has the longer rated runtime on a single battery. Choose the original if weight and connection options matter less; choose the G304 X for the lower weight and extra connection modes.

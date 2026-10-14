@@ -12,7 +12,7 @@
 - Side panel: Steel (no window)
 - PSU: not included
 - Colour: All black
-- NZ Stock: In stock Onehunga (2 units); 112 units available from supplier
+- NZ Stock: In stock Onehunga (2 units)
 
 ## Selling Points
 
@@ -36,17 +36,16 @@
 
 ## Why Buy From ExtremePC
 
-- **112 units available from supplier** — bulk restockable; no waitlist risk for commercial or multi-unit orders.
 - **2 units at Onehunga for immediate pickup** — available same day.
 - **Full Antec warranty** — internationally established brand with local NZ warranty coverage through ExtremePC.
 
 ## Comparison
 
-- **vs Segotep Prime D Black ($59):** Prime D is $10 cheaper with a TG side window and more modern aesthetic but fewer drive bays (2× 3.5" internal). For drive density, VSK3000B-U3 wins by a large margin. For any build where a window or contemporary styling matters, Prime D is the better pick.
+- **vs Segotep Prime D Black:** Prime D is $10 cheaper with a TG side window and more modern aesthetic but fewer drive bays (2× 3.5" internal). For drive density, VSK3000B-U3 wins by a large margin. For any build where a window or contemporary styling matters, Prime D is the better pick.
 
-- **vs Jonsbo N4 NAS ($209):** N4 is an ITX/M-ATX NAS-specific case with 4× 3.5" bays and full NAS ecosystem features at $209. VSK3000B-U3 achieves comparable raw drive count in M-ATX for $69 but lacks NAS-specific features (hot-swap, SAS backplane). For true NAS OS builds, N4 is engineered for the purpose. For a budget media server or local backup machine using standard drives, VSK3000B-U3 does more for less.
+- **vs Jonsbo N4 NAS:** N4 is an ITX/M-ATX NAS-specific case with 4× 3.5" bays and full NAS ecosystem features at $209. VSK3000B-U3 achieves comparable raw drive count in M-ATX for $69 but lacks NAS-specific features (hot-swap, SAS backplane). For true NAS OS builds, N4 is engineered for the purpose. For a budget media server or local backup machine using standard drives, VSK3000B-U3 does more for less.
 
-- **vs Thermalright TL-M10 Black ($119):** TL-M10 is a display/gaming case with ARGB fans and TG at $50 more. For a gaming or showcase build, TL-M10 wins on every aesthetic metric. VSK3000B-U3 is not for gaming — it's for storage density and cost efficiency. Different use cases entirely.
+- **vs Thermalright TL-M10 Black:** TL-M10 is a display/gaming case with ARGB fans and TG at $50 more. For a gaming or showcase build, TL-M10 wins on every aesthetic metric. VSK3000B-U3 is not for gaming — it's for storage density and cost efficiency. Different use cases entirely.
 
 ## FAQ
 
@@ -62,14 +61,11 @@ No — "No PSU" is part of the product name. Add a PSU separately. Antec's own P
 **Q: Will a full-size ATX PSU fit?**
 Check the product page for PSU length restrictions. The VSK3000B-U3 supports standard ATX PSUs — confirm maximum PSU depth for your specific unit.
 
-**Q: Is the 112 supplier stock reliably restockable?**
-Supplier stock indicates Antec distribution channel availability — typically a reliable indication that restocking is possible. For commercial quantities, contact ExtremePC directly.
-
 ## Related Products
 
-- Jonsbo N4 Black (CASJONN4B) — $209, purpose-built NAS ITX/M-ATX case
-- Jonsbo N6 Black (CASJONN6B) — $269, M-ATX NAS with 6+ bays
-- Segotep Prime D Black (CASSEGPRIDB) — $59 budget M-ATX with TG window
+- Jonsbo N4 Black (CASJONN4B) — purpose-built NAS ITX/M-ATX case
+- Jonsbo N6 Black (CASJONN6B) — M-ATX NAS with 6+ bays
+- Segotep Prime D Black (CASSEGPRIDB) — budget M-ATX with TG window
 
 ## Schema (JSON-LD)
 

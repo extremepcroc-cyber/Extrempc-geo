@@ -17,7 +17,6 @@
 - **Firmware**: AgileArray (RV sensors)
 - **MTBF**: 1.2M hours
 - **Warranty**: 5-year Seagate + Rescue data recovery plan
-- **NZ Stock**: 2 units at supplier
 
 ## Selling Points
 
@@ -57,7 +56,6 @@
   A: Yes — IronWolf Pro 16TB is on Synology's compatibility list for all current RS series rackmount and enterprise DS series.
 
 - **Q: How long is delivery?**
-  A: 2 units at supplier — contact ExtremePC for ETA confirmation.
 
 ## Related Products
 

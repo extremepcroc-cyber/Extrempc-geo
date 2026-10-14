@@ -43,11 +43,11 @@
 
 ## Comparison
 
-- **vs Segotep Lumi 3T White ($109, same price):** 3T uses flat/angular joint glass panels rather than the 3S's curved panels — same internal specs, different glass aesthetic. 3S = curved, soft, panoramic flow. 3T = angular, geometric, defined edges. Choose based on which visual style matches your preference. Same price, same internal specs.
+- **vs Segotep Lumi 3T White (same price):** 3T uses flat/angular joint glass panels rather than the 3S's curved panels — same internal specs, different glass aesthetic. 3S = curved, soft, panoramic flow. 3T = angular, geometric, defined edges. Choose based on which visual style matches your preference. Same price, same internal specs.
 
-- **vs Segotep Nexus PX White ($129):** Nexus PX White has better cooling specs — 165mm CPU clearance and confirmed AIO support. Lumi 3S is $20 cheaper with the panoramic glass advantage. For pure showcase builds, Lumi 3S. For performance-balanced white builds, Nexus PX White.
+- **vs Segotep Nexus PX White:** Nexus PX White has better cooling specs — 165mm CPU clearance and confirmed AIO support. Lumi 3S is $20 cheaper with the panoramic glass advantage. For pure showcase builds, Lumi 3S. For performance-balanced white builds, Nexus PX White.
 
-- **vs Thermalright TL-M10 White ($129):** TL-M10 White includes ARGB fans (worth ~$30) and 165mm cooler clearance for $20 more, but standard single-side TG — no top glass. If top visibility is the priority, Lumi 3S at $109 is the right choice. If included fans and cooler clearance matter more than top glass, TL-M10 White for $20 more.
+- **vs Thermalright TL-M10 White:** TL-M10 White includes ARGB fans (worth) and 165mm cooler clearance for $20 more, but standard single-side TG — no top glass. If top visibility is the priority, Lumi 3S at $109 is the right choice. If included fans and cooler clearance matter more than top glass, TL-M10 White for $20 more.
 
 ## FAQ
 
@@ -69,8 +69,8 @@ No fans included. For maximum RGB visual impact, budget for 2–3 ARGB 120mm fan
 ## Related Products
 
 - Segotep Lumi 3T White (CASSEGLUM3TW) — same price, angular flat glass joint variant
-- Segotep Nexus PX White (CASSEGNPXW) — $129 with better cooling specs
-- Thermalright TL-M10 White (CASTMRM10W) — $129 with ARGB fans included
+- Segotep Nexus PX White (CASSEGNPXW) — with better cooling specs
+- Thermalright TL-M10 White (CASTMRM10W) — with ARGB fans included
 
 ## Schema (JSON-LD)
 

@@ -1,4 +1,4 @@
-﻿# WD Red Plus 8TB 3.5" SATA3 NAS Hard Drive WD80EFPX
+# WD Red Plus 8TB 3.5" SATA3 NAS Hard Drive WD80EFPX
 
 **Price:** $924.00 inc GST
 **SKU:** HDDWDRPLUS8T
@@ -17,15 +17,12 @@
 - **Firmware**: NASware 3.0 — QNAP/WD NAS ecosystem validated
 - **MTBF**: 1M hours
 - **Warranty**: 3-year WD
-- **NZ Stock**: 30 units at supplier
 
 ## Selling Points
 
 - **CMR — confirmed NAS/RAID safe** — WD Red Plus (not to be confused with old WD Red, which was controversial for SMR use) uses CMR. Critical note: the original WD Red line used SMR in some capacities, causing NAS failures. WD Red Plus was introduced specifically to provide a CMR-only NAS option. No SMR.
 
 - **NASware 3.0 firmware — QNAP-optimized** — WD's NASware 3.0 is specifically validated for QNAP NAS enclosures. For users with QNAP hardware (TS-series), WD Red Plus is WD's own validated recommendation.
-
-- **30 units at supplier** — Reliable for NAS project orders.
 
 - **3-year WD warranty** — Standard NAS drive coverage.
 
@@ -42,7 +39,6 @@
 ## Why Buy From ExtremePC
 
 - **WD authorized distributor NZ** — 3-year warranty domestically serviced.
-- **30 units at supplier** — NAS project order reliability.
 - **Build Team consultation** — QNAP/Unraid + WD Red Plus pairing advice.
 - **National courier 1–3 business days** — Insured shipping.
 
@@ -63,7 +59,6 @@
   A: WD Red Plus for QNAP (WD's own validated recommendation). IronWolf for Synology (Seagate partnership). Both work in either NAS, but the brand-validated choice reduces edge-case compatibility risk.
 
 - **Q: How long is delivery?**
-  A: 30 units at supplier — 3–7 business day ETA, then 1–3 days courier.
 
 ## Related Products
 

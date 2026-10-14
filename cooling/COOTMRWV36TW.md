@@ -57,7 +57,6 @@
 
 **Q: Is the flagship tier worth it over the premium Stream Vision?** — If your case supports 140mm fans and you're running a high-TDP CPU (Core i9, Ryzen 9), the thermal advantage of 140mm turbo fans is meaningful, particularly in NZ summer conditions. If you're running a mid-range CPU or your case only supports 120mm, the Stream Vision or Trofeo Vision delivers sufficient cooling at a lower tier.
 
-
 ## Related Products
 - Thermalright Wonder Vision 360 Turbo ARGB Black (COOTMRWV36TB) — same model, black colorway
 - Thermalright Rainbow Vision 360 Turbo ARGB Black (COOTMRRV36TB) — sibling flagship with 140mm turbo fans

@@ -48,11 +48,11 @@
 
 ## Comparison
 
-- **vs Jonsbo D41 STD Black ($149):** D41 STD is $30 less with 400mm GPU (vs 380mm for CK500) and solid/mesh front options. CK500 adds glass front, 10Gbps USB-C, and 140mm fans. For glass-front showcase, CK500 is the choice; for maximum GPU clearance, D41 STD at $149.
+- **vs Jonsbo D41 STD Black:** D41 STD is $30 less with 400mm GPU (vs 380mm for CK500) and solid/mesh front options. CK500 adds glass front, 10Gbps USB-C, and 140mm fans. For glass-front showcase, CK500 is the choice; for maximum GPU clearance, D41 STD at $149.
 
-- **vs Valkyrie VK03 Lite White ($179, same price):** Both are $179. CK500 is black with glass front; VK03 Lite is white with mesh front. CK500 has 4× 2.5" bays and 10Gbps USB-C; VK03 Lite is white. Colour preference drives the decision.
+- **vs Valkyrie VK03 Lite White (same price):** Both are $179. CK500 is black with glass front; VK03 Lite is white with mesh front. CK500 has 4× 2.5" bays and 10Gbps USB-C; VK03 Lite is white. Colour preference drives the decision.
 
-- **vs Jonsbo TK-2 Black ($229):** TK-2 steps up to hyperboloid (curved convex) glass for $50 more — a fundamentally different glass aesthetic. CK500 at $179 is flat TG on front and side; TK-2 is curved. For curved glass, pay the TK-2 premium. For flat dual-glass at a lower price, CK500.
+- **vs Jonsbo TK-2 Black:** TK-2 steps up to hyperboloid (curved convex) glass for $50 more — a fundamentally different glass aesthetic. CK500 at $179 is flat TG on front and side; TK-2 is curved. For curved glass, pay the TK-2 premium. For flat dual-glass at a lower price, CK500.
 
 ## FAQ
 
@@ -73,9 +73,9 @@ Deepcool typically includes standard (non-ARGB) 140mm fans in the CK500. For ARG
 
 ## Related Products
 
-- Jonsbo TK-2 Black (CASJONTK2B) — $229, hyperboloid curved glass
-- Valkyrie VK03 Lite White (CASVALVK03W) — $179, white mesh front ATX
-- Jonsbo D41 STD Black (CASJOND41STDB) — $149, 400mm GPU, solid front
+- Jonsbo TK-2 Black (CASJONTK2B) — hyperboloid curved glass
+- Valkyrie VK03 Lite White (CASVALVK03W) — white mesh front ATX
+- Jonsbo D41 STD Black (CASJOND41STDB) — 400mm GPU, solid front
 
 ## Schema (JSON-LD)
 

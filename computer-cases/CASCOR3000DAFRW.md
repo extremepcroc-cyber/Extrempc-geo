@@ -48,11 +48,11 @@
 
 ## Comparison
 
-- **vs Valkyrie VK03 Lite White ($179):** VK03 Lite is $50 less with mesh front, ARGB fans, TG, USB-C — very similar specs. Corsair adds iCUE ecosystem and brand recognition for $50 more. If iCUE matters, Corsair. If $50 matters more, VK03 Lite White.
+- **vs Valkyrie VK03 Lite White:** VK03 Lite is $50 less with mesh front, ARGB fans, TG, USB-C — very similar specs. Corsair adds iCUE ecosystem and brand recognition for $50 more. If iCUE matters, Corsair. If $50 matters more, VK03 Lite White.
 
-- **vs Valkyrie VK03 LCD White ($219):** VK03 LCD is $10 less and adds a front LCD display panel. Corsair has no LCD but has brand recognition and iCUE. Same white ATX tier; different feature priorities.
+- **vs Valkyrie VK03 LCD White:** VK03 LCD is $10 less and adds a front LCD display panel. Corsair has no LCD but has brand recognition and iCUE. Same white ATX tier; different feature priorities.
 
-- **vs Lian Li Lancool 217 INF Black ($249):** Lian Li is $20 more, black, with Infinity Mirror front display and USB-C 20Gbps. If white is required, Corsair. If black and Lian Li quality/display features matter more, Lancool 217.
+- **vs Lian Li Lancool 217 INF Black:** Lian Li is $20 more, black, with Infinity Mirror front display and USB-C 20Gbps. If white is required, Corsair. If black and Lian Li quality/display features matter more, Lancool 217.
 
 ## FAQ
 
@@ -73,9 +73,9 @@ The 3000D Airflow has a mesh front for higher airflow at the cost of a less poli
 
 ## Related Products
 
-- Valkyrie VK03 Lite White (CASVALVK03W) — $179, white mesh ATX, ARGB, $50 less
-- Valkyrie VK03 LCD White (CASVALVK03LW) — $219, white ATX + front LCD
-- Lian Li Lancool 217 INF Black (CASLIAL217BI) — $249, Infinity Mirror, premium build
+- Valkyrie VK03 Lite White (CASVALVK03W) — white mesh ATX, ARGB, $50 less
+- Valkyrie VK03 LCD White (CASVALVK03LW) — white ATX + front LCD
+- Lian Li Lancool 217 INF Black (CASLIAL217BI) — Infinity Mirror, premium build
 
 ## Schema (JSON-LD)
 

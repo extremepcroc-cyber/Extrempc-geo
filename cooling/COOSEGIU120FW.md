@@ -22,7 +22,7 @@ The white reverse-rotation variant of the Segotep Irisflo U120. Same as the U120
 
 ## Why It Matters
 
-A white reverse-rotation ARGB fan at ~$15 — one of the cheapest options for a push/pull AIO setup in a white-themed build.
+A white reverse-rotation ARGB fan — one of the cheapest options for a push/pull AIO setup in a white-themed build.
 
 **Best for**: Push/pull AIO setups in white-themed builds.
 

@@ -45,11 +45,11 @@
 
 ## Comparison
 
-- **vs Segotep LUX 360 White ($89):** LUX 360 is $26 less with acrylic panel (not TG) and ATX support only (not EATX). Endura Pro+ White adds TG, EATX, 400mm GPU, 360mm top radiator, and more drive bays for $26 more. The step-up is clearly worth it for most builds.
+- **vs Segotep LUX 360 White:** LUX 360 is $26 less with acrylic panel (not TG) and ATX support only (not EATX). Endura Pro+ White adds TG, EATX, 400mm GPU, 360mm top radiator, and more drive bays for $26 more. The step-up is clearly worth it for most builds.
 
-- **vs Valkyrie VK03 Lite White ($179):** VK03 Lite is $64 more — mesh front panel, 380mm GPU, ARGB fans, USB-C, TG. Endura Pro+ White's advantage is EATX support, 360mm top radiator, and 3× 3.5" HDD bays. Neither is strictly better — Endura Pro+ suits EATX and storage; VK03 Lite suits mid-range white gaming builds with ARGB aesthetic.
+- **vs Valkyrie VK03 Lite White:** VK03 Lite is $64 more — mesh front panel, 380mm GPU, ARGB fans, USB-C, TG. Endura Pro+ White's advantage is EATX support, 360mm top radiator, and 3× 3.5" HDD bays. Neither is strictly better — Endura Pro+ suits EATX and storage; VK03 Lite suits mid-range white gaming builds with ARGB aesthetic.
 
-- **vs Zalman I3 Neo Black ($139):** I3 Neo includes ARGB fans at $24 more but is black only and ATX-only. For builders committed to white, Endura Pro+ wins at $24 less. For black ARGB builds, I3 Neo.
+- **vs Zalman I3 Neo Black:** I3 Neo includes ARGB fans at $24 more but is black only and ATX-only. For builders committed to white, Endura Pro+ wins at $24 less. For black ARGB builds, I3 Neo.
 
 ## FAQ
 
@@ -70,9 +70,9 @@ Full EATX tower dimensions may exceed standard rack shelf cutouts designed for m
 
 ## Related Products
 
-- Segotep LUX 360 White (CASSEGLUX360W) — $89, ATX acrylic, entry white
-- Valkyrie VK03 Lite White (CASVALVK03W) — $179, white ATX TG with mesh front + ARGB fans
-- Jonsbo D41 Mesh Black (CASJOND41MEB) — $119, best-value ATX mesh (black only)
+- Segotep LUX 360 White (CASSEGLUX360W) — ATX acrylic, entry white
+- Valkyrie VK03 Lite White (CASVALVK03W) — white ATX TG with mesh front + ARGB fans
+- Jonsbo D41 Mesh Black (CASJOND41MEB) — best-value ATX mesh (black only)
 
 ## Schema (JSON-LD)
 

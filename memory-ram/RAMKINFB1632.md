@@ -1,4 +1,4 @@
-﻿# Kingston FURY Beast 16GB DDR4 3200MHz CL16 Desktop Memory
+# Kingston FURY Beast 16GB DDR4 3200MHz CL16 Desktop Memory
 
 **Price:** $477.00 inc GST
 **SKU:** RAMKINFB1632
@@ -18,7 +18,7 @@
 - **Voltage**: 1.35V (XMP) / 1.2V (JEDEC)
 - **Warranty**: **Lifetime warranty** via authorized Kingston NZ distributor (ExtremePC)
 - **Testing**: 100% factory-tested at speed
-- **NZ Stock**: 1 unit at Auckland Onehunga + 100 at supplier (3–7 day ETA)
+- **NZ Stock**: 1 unit at Auckland Onehunga
 
 ## Selling Points
 
@@ -29,8 +29,6 @@
 - **Intel XMP-ready and AMD Ryzen Plug N Play** — Enable XMP in BIOS for 3200 MT/s CL16; works on Intel boards. For AMD Ryzen, Plug N Play auto-overclocks to the highest motherboard-supported speed at boot. Zero configuration required.
 
 - **Lifetime warranty through Kingston NZ distributor** — Kingston's lifetime warranty is handled through ExtremePC NZ — no overseas RMA, no parallel-import warranty risk. Modules with manufacturing defects can be replaced for the lifetime of the product.
-
-- **Deep NZ supply via supplier — 100 units available with 3–7 day ETA** — While only 1 unit currently at Onehunga walk-in, supplier inventory of 100 ensures restock for builders on flexible timelines. For high-volume office or business PC fleet builds, this depth matters.
 
 ## Ideal For
 
@@ -51,8 +49,6 @@
 - **Authorized Kingston NZ distributor** — Lifetime warranty serviced domestically through ExtremePC NZ. Kingston is one of the most-stocked RAM brands at ExtremePC with broad SKU coverage.
 
 - **Build Team consultation for AM4 / LGA1200 / LGA1700 DDR4 builds** — Build Team can spec the matched motherboard + CPU + cooler combination. Important for upgraders: confirm motherboard BIOS supports the kit.
-
-- **Same-day Auckland pickup + supplier ETA** — 1 at Onehunga, 100 at supplier with 3–7 day ETA. For high-volume needs (office fleets), this supply depth is realistic.
 
 - **National courier dispatch 1–3 business days** — Insured shipping to Wellington and South Island.
 
@@ -93,7 +89,6 @@
   A: Yes — DDR4 at 1.35V XMP runs cool even without elaborate heatsinks. The low-profile design ensures cooler clearance with tall air coolers. For sustained heavy workloads (Prime95, AVX-heavy productivity), the heat spreader is sufficient.
 
 - **Q: Stock at Onehunga is only 1 unit — should I be worried about availability?**
-  A: 1 unit walk-in plus 100 at supplier. Supplier restock to Auckland is 3–7 business days. For most buyers, this combined supply is more than adequate.
 
 - **Q: How long is delivery to Wellington / South Island?**
   A: 1–3 business days via insured CourierPost from Auckland warehouse.

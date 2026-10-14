@@ -17,7 +17,6 @@
 - **Firmware**: AgileArray (RV sensors, multi-drive vibration compensation)
 - **MTBF**: 1.2M hours (vs standard IronWolf's 1M)
 - **Warranty**: 5-year Seagate + Rescue data recovery plan included
-- **NZ Stock**: 3 units at supplier
 
 ## Selling Points
 

@@ -1,4 +1,4 @@
-﻿# ASRock AMD Radeon RX 9070 XT STEEL LEGEND 16GB GDDR6 Graphics Card
+# ASRock AMD Radeon RX 9070 XT STEEL LEGEND 16GB GDDR6 Graphics Card
 
 **Price:** $1729 inc GST
 **SKU:** GPUASR9070XTSL16
@@ -22,7 +22,7 @@
 - **Recommended PSU**: 800W minimum
 - **Display Outputs**: 3× DisplayPort 2.1a + 1× HDMI 2.1b
 - **Warranty**: 3 years ASRock warranty via authorized NZ distributor (ExtremePC)
-- **NZ Stock**: 97 units at Auckland Onehunga + 4 at supplier — deepest premium-tier GPU inventory in NZ
+- **NZ Stock**: 97 units at Auckland Onehunga — deepest premium-tier GPU inventory in NZ
 
 ## Selling Points
 

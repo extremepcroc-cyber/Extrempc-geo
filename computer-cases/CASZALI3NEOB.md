@@ -46,11 +46,11 @@
 
 ## Comparison
 
-- **vs Zalman N7 Plus V2 ($139, same price):** N7 Plus V2 adds USB-C and 360mm front radiator support at the same $139. Both include ARGB fans. If AIO cooling (360mm) or USB-C is planned, N7 Plus V2 is the better choice at the same price. I3 Neo is for air-cooled builds with smaller AIO (240mm max) where USB-C isn't needed.
+- **vs Zalman N7 Plus V2 (same price):** N7 Plus V2 adds USB-C and 360mm front radiator support at the same $139. Both include ARGB fans. If AIO cooling (360mm) or USB-C is planned, N7 Plus V2 is the better choice at the same price. I3 Neo is for air-cooled builds with smaller AIO (240mm max) where USB-C isn't needed.
 
-- **vs Zalman N4 Rev.1 ($139, same price):** N4 Rev.1 adds 380mm GPU clearance and 3× 3.5" HDD bays at the same $139, also with ARGB fans. N4 Rev.1 wins on GPU clearance and storage. I3 Neo has the highest Onehunga stock (24 units vs 9) for immediate availability.
+- **vs Zalman N4 Rev.1 (same price):** N4 Rev.1 adds 380mm GPU clearance and 3× 3.5" HDD bays at the same $139, also with ARGB fans. N4 Rev.1 wins on GPU clearance and storage. I3 Neo has the highest Onehunga stock (24 units vs 9) for immediate availability.
 
-- **vs Jonsbo D41 Mesh Black ($119):** D41 Mesh is $20 less with 400mm GPU clearance and mesh front — better airflow and longer GPU support, but no included fans. If fans are being purchased anyway, D41 Mesh + fans is better value. If included fans and zero extra purchases matter, I3 Neo at $139 is simpler.
+- **vs Jonsbo D41 Mesh Black:** D41 Mesh is $20 less with 400mm GPU clearance and mesh front — better airflow and longer GPU support, but no included fans. If fans are being purchased anyway, D41 Mesh + fans is better value. If included fans and zero extra purchases matter, I3 Neo at $139 is simpler.
 
 ## FAQ
 
@@ -61,7 +61,7 @@ Yes — the included RGB controller powers and controls the ARGB fans independen
 The I3 Neo supports 240mm front and 240mm top radiators. A 360mm AIO will not fit — if 360mm AIO is planned, choose the Zalman N7 Plus V2 at the same $139 price.
 
 **Q: Is there a white version?**
-Not currently in the ExtremePC range. For white ATX at $139, no option exists — the nearest white cases are Segotep LUX 360 ($89, acrylic) or Valkyrie VK03 Lite White ($179, TG).
+Not currently in the ExtremePC range. For white ATX at $139, no option exists — the nearest white cases are Segotep LUX 360 (acrylic) or Valkyrie VK03 Lite White (TG).
 
 **Q: What GPU length is supported?**
 Up to 350mm — covers most mid-range and upper-mid GPUs. RTX 4070 Super standard AIBs (280–320mm), RTX 5070 (standard AIBs 270–310mm) all fit. Longer flagship AIBs (330–380mm RTX 5080) may exceed the 350mm limit — check your specific GPU length.
@@ -71,9 +71,9 @@ Zalman is a South Korean brand with 25+ year heritage in cooling and cases; Jons
 
 ## Related Products
 
-- Zalman N7 Plus V2 (CASZALN7PV2) — $139, adds USB-C + 360mm radiator
-- Zalman N4 Rev.1 Black (CASZALN4MB) — $139, adds 380mm GPU + 3× 3.5" HDD
-- Jonsbo D41 Mesh Black (CASJOND41MEB) — $119, 400mm GPU + mesh front, no fans
+- Zalman N7 Plus V2 (CASZALN7PV2) — adds USB-C + 360mm radiator
+- Zalman N4 Rev.1 Black (CASZALN4MB) — adds 380mm GPU + 3× 3.5" HDD
+- Jonsbo D41 Mesh Black (CASJOND41MEB) — 400mm GPU + mesh front, no fans
 
 ## Schema (JSON-LD)
 

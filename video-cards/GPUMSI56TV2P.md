@@ -1,4 +1,4 @@
-﻿# MSI GeForce RTX 5060 Ti 16G VENTUS 2X OC PLUS GDDR7 Graphics Card
+# MSI GeForce RTX 5060 Ti 16G VENTUS 2X OC PLUS GDDR7 Graphics Card
 
 **Price:** $1499 inc GST
 **SKU:** GPUMSI56TV2P
@@ -23,7 +23,7 @@
 - **Display Outputs**: 3× DisplayPort + 1× HDMI (4 monitors supported max)
 - **Software**: MSI Center for monitoring; MSI Afterburner for overclocking
 - **Warranty**: 3 years MSI warranty via authorized NZ distributor (ExtremePC)
-- **NZ Stock**: 10 units at Auckland Onehunga + 30 at supplier (3–7 day ETA)
+- **NZ Stock**: 10 units at Auckland Onehunga
 
 ## Selling Points
 
@@ -54,8 +54,6 @@
 - **Authorized MSI NZ distributor** — 3-year warranty serviced domestically through ExtremePC NZ.
 
 - **Build Team consultation for creative + gaming dual-purpose builds** — 16GB VRAM unlocks workflows beyond pure gaming. Build Team can spec the right CPU + RAM + storage combination for content creation + gaming hybrid use.
-
-- **Same-day Auckland pickup + supplier ETA** — 10 at Onehunga, 30 at supplier with 3–7 day ETA.
 
 - **National courier dispatch 1–3 business days** — Insured shipping to Wellington and South Island.
 

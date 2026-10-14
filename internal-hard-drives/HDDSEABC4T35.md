@@ -14,7 +14,6 @@
 - **Cache**: 256MB
 - **Sequential Read/Write**: ~180 MB/s typical
 - **Warranty**: 2-year Seagate
-- **NZ Stock**: 30 units at supplier (3–7 day ETA)
 
 ## Selling Points
 
@@ -40,8 +39,6 @@
 
 - **Seagate warranty via ExtremePC NZ** — 2-year warranty serviced domestically.
 
-- **Supplier inventory (30 units)** — Available on order with 3–7 day ETA.
-
 - **National courier dispatch 1–3 business days** — Insured shipping.
 
 - **23 years of NZ retail**.
@@ -65,7 +62,6 @@
   A: Yes for desktop secondary storage where data is backed up. The 2-year BarraCuda warranty is appropriate for this tier.
 
 - **Q: How long is delivery?**
-  A: Supplier stock — 3–7 business day ETA, then 1–3 days courier.
 
 ## Related Products
 

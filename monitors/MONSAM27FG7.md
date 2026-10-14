@@ -1,4 +1,4 @@
-﻿# Samsung Odyssey G70F 27" UHD 4K 180Hz 1ms IPS Gaming Monitor
+# Samsung Odyssey G70F 27" UHD 4K 180Hz 1ms IPS Gaming Monitor
 
 **Price:** $999.00 inc GST
 **SKU:** MONSAM27FG7
@@ -14,7 +14,6 @@
 - **Brightness**: 600 nits peak
 - **Ports**: 2× HDMI 2.1, 1× DisplayPort 1.4, USB hub
 - **Adaptive Sync**: FreeSync Premium Pro (G-Sync Compatible)
-- **NZ Stock**: 300 units at supplier (3–7 day ETA)
 
 ## Selling Points
 
@@ -25,8 +24,6 @@
 - **DisplayHDR 600 — real HDR headroom at this tier** — 600 nits peak is the threshold where HDR visibly improves highlight rendering in mastered titles (Cyberpunk 2077, Hogwarts Legacy). Most monitors at this NZD tier carry DisplayHDR 400 (minimal perceptible HDR impact). IPS panel retains wide-angle colour consistency that VA panels sacrifice at off-axis viewing.
 
 - **HDMI 2.1 — 4K/120Hz for PS5 and Xbox Series X without adapter** — Two HDMI 2.1 ports support PS5 and Xbox Series X at 4K/120Hz natively. For multi-device setups (PC via DisplayPort 1.4 + console via HDMI 2.1), the G70F handles both simultaneously with no signal conversion.
-
-- **300 units at supplier — large volume for system bundle builds** — Supplier depth of 300 units supports multi-unit purchasing for gaming PC + monitor bundles without stock constraints.
 
 ## Ideal For
 
@@ -75,7 +72,6 @@
   A: Verify on the Samsung product page. DisplayHDR 600 on IPS typically uses edge-lit backlight with limited dimming zones, not FALD. HDR is improved vs DisplayHDR 400 but not equivalent to OLED or FALD. For OLED HDR, look at the Odyssey G80SF series.
 
 - **Q: How long is delivery outside Auckland?**
-  A: Supplier ETA 3–7 business days, then 1–3 business days courier from Auckland. Total 4–10 business days. Confirm current ETA with ExtremePC at order time.
 
 ## Related Products
 

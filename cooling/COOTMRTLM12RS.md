@@ -23,7 +23,7 @@ A 120mm ARGB reverse-rotation case fan from Thermalright. The TL-M12R-S is the r
 
 ## Why It Matters
 
-A reverse-rotation ARGB case fan at ~$17 — a solid choice for push/pull AIO setups. The TL-M12R-S is a good option if you want ARGB lighting in a push/pull configuration.
+A reverse-rotation ARGB case fan — a solid choice for push/pull AIO setups. The TL-M12R-S is a good option if you want ARGB lighting in a push/pull configuration.
 
 **Best for**: Push/pull AIO setups where you want ARGB lighting.
 

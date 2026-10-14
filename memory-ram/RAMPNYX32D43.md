@@ -17,15 +17,13 @@
 - **OS Compatibility**: Windows 10 and older (Windows 11 also fully supported)
 - **PNY Heritage**: 35+ years memory manufacturing experience
 - **Warranty**: Lifetime warranty via PNY NZ distributor (ExtremePC)
-- **NZ Stock**: 69 units at Auckland Onehunga + 30 at supplier
+- **NZ Stock**: 69 units at Auckland Onehunga
 
 ## Selling Points
 
 - **Low-profile 32mm heat spreader — universal CPU air cooler clearance** — At only 32mm tall, the PNY XLR8 fits under any CPU tower cooler without clearance issues. Tall air coolers (Noctua NH-D15, Thermalright Phantom Spirit 120 EVO, Be Quiet Dark Rock 4) often conflict with tall-heatsink RAM kits. PNY's low-profile design solves this for SFF / ITX builds and tall-cooler builds.
 
 - **Matched 2× 16GB dual-channel kit — guaranteed dual-channel out of the box** — Unlike adding a single 16GB stick (often results in single-channel), this matched pair guarantees dual-channel 32GB. Gaming benefits 10–15% from dual-channel.
-
-- **69 units at Auckland Onehunga + 30 at supplier — strong NZ supply** — Second-deepest 32GB DDR4 inventory at ExtremePC. For builders chasing build-day deadlines, walk-in pickup is realistic. For volume orders, combined Onehunga + supplier inventory of ~100 units supports office PC fleet builds.
 
 - **PNY 35+ year memory heritage with lifetime warranty** — PNY has been making memory upgrades since 1985. Validated against thousands of platforms. Lifetime warranty handled through ExtremePC NZ.
 
@@ -51,7 +49,7 @@
 
 - **Build Team consultation for DDR4 builds with tall coolers** — Build Team can spec the matched motherboard + CPU + cooler combination. PNY XLR8 low-profile is the recommendation for Noctua NH-D15 / Phantom Spirit / Dark Rock 4 builds where standard-height RAM conflicts.
 
-- **Same-day Auckland pickup from Onehunga (69 units) + supplier ETA** — Reliable supply for build deadlines.
+- **Same-day Auckland pickup from Onehunga (69 units)** — Reliable supply for build deadlines.
 
 - **National courier dispatch 1–3 business days** — Insured shipping to Wellington and South Island.
 

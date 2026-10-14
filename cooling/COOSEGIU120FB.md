@@ -24,7 +24,7 @@ The reverse-rotation variant of the Segotep Irisflo U120. Same as the U120 but t
 
 The reverse-rotation fan is the counterpart to the standard (positive) U120. In a push/pull AIO setup, you'd want one standard and one reverse so both fans push air through the radiator in the same direction.
 
-At ~$14, it's one of the cheapest reverse-rotation ARGB fans on the market.
+At, it's one of the cheapest reverse-rotation ARGB fans on the market.
 
 **Best for**: Push/pull AIO setups on a budget.
 

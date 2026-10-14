@@ -14,7 +14,7 @@
 - **DRAM**: DRAM-less (HMB — Host Memory Buffer)
 - **Brand**: Kingston (Tier 1 brand, NV3 is Kingston's value-tier line)
 - **Warranty**: 3-year Kingston warranty via ExtremePC NZ
-- **NZ Stock**: 12 units at Auckland Onehunga + 30 at supplier
+- **NZ Stock**: 12 units at Auckland Onehunga
 
 ## Selling Points
 
@@ -46,7 +46,7 @@
 
 - **Build Team consultation** — Build Team can confirm motherboard Gen4 M.2 slot compatibility and recommend heatsink pairing.
 
-- **Same-day Auckland pickup + supplier ETA (12 + 30)** — Reliable supply.
+- **Same-day Auckland pickup** — Reliable supply.
 
 - **National courier dispatch 1–3 business days** — Insured shipping to Wellington and South Island.
 

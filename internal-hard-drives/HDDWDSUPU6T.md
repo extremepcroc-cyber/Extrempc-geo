@@ -1,4 +1,4 @@
-﻿# WD Purple 6TB 3.5" SATA3 Surveillance Hard Drive WD60PURZ
+# WD Purple 6TB 3.5" SATA3 Surveillance Hard Drive WD60PURZ
 
 **Price:** $699.00 inc GST
 **SKU:** HDDWDSUPU6T
@@ -16,11 +16,8 @@
 - **Firmware**: AllFrame AI
 - **MTBF**: 1M hours
 - **Warranty**: 3-year WD
-- **NZ Stock**: 27 units at supplier
 
 ## Selling Points
-
-- **27 units at supplier — most reliable WD Purple high-capacity stock** — WD Purple 6TB has the deepest high-capacity supplier stock in the WD Purple range, making it the best pick for volume orders or projects requiring reliable availability.
 
 - **6TB — industry-standard capacity for commercial 30-day retention** — 6TB covers the commercial surveillance industry's common 30-day retention requirement at 8-camera 1080p. Suitable for retail, hospitality, and small commercial premises without a multi-drive NVR.
 
@@ -36,12 +33,9 @@
 
 - **NVR upgrade from lower-capacity drives** — When 2TB or 3TB fills too quickly for your camera count.
 
-- **Security integrator standard-configuration drive** — Volume orders supported by 27-unit supplier stock.
-
 ## Why Buy From ExtremePC
 
 - **WD warranty via ExtremePC NZ** — 3-year warranty domestically serviced.
-- **27 units at supplier** — Volume order reliability.
 - **Build Team consultation** — Retention calculation for your camera/resolution setup.
 - **National courier 1–3 business days** — Insured shipping.
 
@@ -62,7 +56,6 @@
   A: The WD Purple PRO line covers 8TB+ with higher workload rating (360 TB/year) and AI NVR support. Standard WD Purple tops at 6TB in this range.
 
 - **Q: How long is delivery?**
-  A: 3–7 business day supplier ETA, then 1–3 days courier.
 
 ## Related Products
 

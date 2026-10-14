@@ -1,4 +1,4 @@
-﻿# Seagate SkyHawk 4TB 3.5" SATA3 Surveillance Internal Hard Drive ST4000VX016
+# Seagate SkyHawk 4TB 3.5" SATA3 Surveillance Internal Hard Drive ST4000VX016
 
 **Price:** $429 inc GST
 **SKU:** HDDSEASKY4TS6
@@ -16,7 +16,6 @@
 - **Firmware**: ImagePerfect (24/7 surveillance-optimized)
 - **MTBF**: 1M hours
 - **Warranty**: 3-year Seagate
-- **NZ Stock**: 1 unit at supplier
 
 ## Selling Points
 
@@ -47,7 +46,6 @@
 ## Comparison
 
 - **vs SkyHawk 2TB (HDDSEASKY2TB, half capacity at lower NZD)** — 4TB doubles retention vs 2TB for the same camera setup.
-- **vs SkyHawk 6TB (HDDSEASKY6TST, 50% more capacity, deeper supplier stock)** — 6TB has SU=9 vs this drive's SU=1. For better stock assurance, 6TB may be more reliable to order.
 - **vs WD Purple 3TB (HDDWDSP3T256, similar capacity surveillance)** — Both surveillance-rated. 4TB SkyHawk vs 3TB WD Purple — for maximum capacity, SkyHawk 4TB.
 
 ## FAQ
@@ -55,14 +53,12 @@
 - **Q: How many days of footage on 4TB?**
   A: Approximate at H.264: 4 cams × 1080p: 45–60 days. 8 cams × 1080p: 20–28 days. 16 cams × 1080p: 10–14 days. Resolution and bitrate vary by NVR settings.
 - **Q: Single supplier unit — is supply reliable?**
-  A: Contact ExtremePC sales for stock confirmation and supplier ETA before ordering.
 - **Q: Will it work with Hikvision / Dahua / Reolink?**
   A: Yes — SkyHawk is compatible with all major NVR brands.
 
 ## Related Products
 
 - **HDDSEASKY2TB** — SkyHawk 2TB step down
-- **HDDSEASKY6TST** — SkyHawk 6TB step up (better supplier stock)
 - **HDDSEASKYAI8T** — SkyHawk AI 8TB with AI NVR support
 
 ## Schema

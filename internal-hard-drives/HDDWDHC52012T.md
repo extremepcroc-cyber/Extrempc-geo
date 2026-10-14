@@ -17,7 +17,6 @@
 - **MTBF**: 2.5M hours — significantly higher than NAS drives
 - **AFR**: <0.35%
 - **Warranty**: 5-year WD
-- **NZ Stock**: 16 units at supplier
 
 ## Selling Points
 
@@ -26,8 +25,6 @@
 - **550 TB/year enterprise workload** — Same as Synology HAT5310 and enterprise-equivalent sustained write rating. Built for 24/7 rack-mount JBOD, server direct-attached storage, and SAN environments.
 
 - **5-year WD warranty** — Full enterprise lifecycle coverage through WD.
-
-- **16 units at supplier** — Best-stocked Ultrastar variant for enterprise project orders.
 
 ## Ideal For
 
@@ -44,7 +41,6 @@
 ## Why Buy From ExtremePC
 
 - **WD authorized distributor NZ** — 5-year enterprise warranty serviced domestically.
-- **16 units at supplier** — Enterprise project order availability.
 - **Build Team consultation** — Enterprise JBOD + Ultrastar configuration advice.
 - **Business account GST invoicing and PO** — Enterprise procurement supported.
 - **National courier 1–3 business days** — Insured, signature-required shipping.
@@ -66,7 +62,6 @@
   A: Annualized Failure Rate below 0.35%. For comparison: typical desktop drives are 1–5% AFR. Enterprise Ultrastar drives are more reliable, meaning fewer drive failures per year across a fleet.
 
 - **Q: How long is delivery?**
-  A: 16 units at supplier — 3–7 business day ETA, then 1–3 days courier.
 
 ## Related Products
 

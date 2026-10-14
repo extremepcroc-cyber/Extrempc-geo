@@ -41,11 +41,11 @@
 
 ## Comparison
 
-- **vs Jonsbo D300 Black ($179):** D300 Black is $10 more, black, no wood accent — Jonsbo's flagship M-ATX in a clean black aesthetic. D33 Wood White is $10 less with a distinctive material design. If black is the requirement, D300. If white + wood is the aesthetic goal, D33 Wood White.
+- **vs Jonsbo D300 Black:** D300 Black is $10 more, black, no wood accent — Jonsbo's flagship M-ATX in a clean black aesthetic. D33 Wood White is $10 less with a distinctive material design. If black is the requirement, D300. If white + wood is the aesthetic goal, D33 Wood White.
 
-- **vs Thermalright TL-M10 Vision White ($169, same price):** TL-M10 Vision White includes a 3.5" LCD front display and 3× ARGB fans — significant hardware value at the same price. D33 Wood White trades those features for a unique material aesthetic. If hardware features (LCD, fans) matter more than case design distinctiveness, Vision White wins value. If the wood-accent aesthetic is the point, D33 Wood White is the only option in NZ.
+- **vs Thermalright TL-M10 Vision White (same price):** TL-M10 Vision White includes a 3.5" LCD front display and 3× ARGB fans — significant hardware value at the same price. D33 Wood White trades those features for a unique material aesthetic. If hardware features (LCD, fans) matter more than case design distinctiveness, Vision White wins value. If the wood-accent aesthetic is the point, D33 Wood White is the only option in NZ.
 
-- **vs Segotep Nexus PX White ($129):** Nexus PX White is $40 less, standard TG M-ATX with no wood, no fans. D33 Wood White is for builders who see the case as a design object and budget accordingly.
+- **vs Segotep Nexus PX White:** Nexus PX White is $40 less, standard TG M-ATX with no wood, no fans. D33 Wood White is for builders who see the case as a design object and budget accordingly.
 
 ## FAQ
 
@@ -66,9 +66,9 @@ Check the product page for confirmed clearance specifications.
 
 ## Related Products
 
-- Jonsbo D300 Black (CASJOND300B) — $179, flagship D-series, black
-- Thermalright TL-M10 Vision White (CASTMRM10VW) — $169, LCD front display, ARGB fans
-- Jonsbo D200 White (CASJOND200W) — $129, entry D-series white
+- Jonsbo D300 Black (CASJOND300B) — flagship D-series, black
+- Thermalright TL-M10 Vision White (CASTMRM10VW) — LCD front display, ARGB fans
+- Jonsbo D200 White (CASJOND200W) — entry D-series white
 
 ## Schema (JSON-LD)
 

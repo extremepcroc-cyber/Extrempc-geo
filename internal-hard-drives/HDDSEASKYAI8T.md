@@ -1,4 +1,4 @@
-﻿# Seagate SkyHawk AI 8TB 3.5" SATA3 Surveillance Internal Hard Drive ST8000VE001
+# Seagate SkyHawk AI 8TB 3.5" SATA3 Surveillance Internal Hard Drive ST8000VE001
 
 **Price:** $789 inc GST
 **SKU:** HDDSEASKYAI8T
@@ -16,7 +16,6 @@
 - **Firmware**: SkyHawk AI firmware — supports AI edge inference co-workloads
 - **MTBF**: 1.2M hours
 - **Warranty**: 3-year Seagate
-- **NZ Stock**: 30 units at supplier
 
 ## Selling Points
 
@@ -28,8 +27,6 @@
 
 - **1.2M MTBF hours — higher reliability than standard SkyHawk** — 20% higher MTBF vs standard SkyHawk's 1M hours. For AI NVR systems with higher workload, the reliability uplift matters.
 
-- **Deep supplier stock (30 units)** — Reliable availability for security integrator volume orders.
-
 ## Ideal For
 
 - **AI-enabled NVR systems (Hikvision DeepinMind, Dahua WizSense, Uniview AI)** — For NVR platforms with built-in deep learning acceleration. SkyHawk AI is specifically validated for AI NVR edge computing platforms.
@@ -38,8 +35,6 @@
 
 - **4K surveillance primary storage** — 8TB handles 4K H.265 streams at reasonable bitrate across 8–16 channels.
 
-- **Security integrators deploying large-scale commercial systems** — Volume orders supported by 30 units supplier stock.
-
 - **Retail chain / multi-location CCTV** — Standardizing on AI-capable surveillance across store locations.
 
 ## Why Buy From ExtremePC
@@ -47,8 +42,6 @@
 - **Authorized Seagate NZ distributor** — 3-year warranty serviced domestically.
 
 - **Build Team consultation for AI CCTV builds** — Build Team can advise on NVR + HDD pairing, channel count + resolution vs retention calculation for AI systems.
-
-- **30 units at supplier** — Volume orders welcome.
 
 - **National courier dispatch 1–3 business days** — Insured shipping to Wellington and South Island.
 
@@ -77,7 +70,6 @@
   A: Yes — SkyHawk AI is validated for major AI NVR platforms including Hikvision and Dahua AI systems.
 
 - **Q: How long is delivery?**
-  A: 30 units at supplier — typically 3–7 business day ETA, then 1–3 days courier.
 
 ## Related Products
 

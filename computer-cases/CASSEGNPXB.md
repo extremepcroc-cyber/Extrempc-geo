@@ -44,11 +44,11 @@
 
 ## Comparison
 
-- **vs Segotep Nexus PX White ($129):** Identical specs — same clearances, same I/O, same radiator support. White costs $20 more. Choose colour based on build aesthetic; black saves $20.
+- **vs Segotep Nexus PX White:** Identical specs — same clearances, same I/O, same radiator support. White costs $20 more. Choose colour based on build aesthetic; black saves $20.
 
-- **vs Thermalright TL-M10 Black ($119):** TL-M10 Black costs $10 more and includes 3× ARGB fans and 4mm TG (vs standard 3mm). The fans alone are worth ~$30 at retail. For $10 more, TL-M10 Black is the better total value. Nexus PX Black wins on pure entry price when $109 is the ceiling.
+- **vs Thermalright TL-M10 Black:** TL-M10 Black costs $10 more and includes 3× ARGB fans and 4mm TG (vs standard 3mm). The fans alone are worth at retail. For $10 more, TL-M10 Black is the better total value. Nexus PX Black wins on pure entry price when $109 is the ceiling.
 
-- **vs Segotep Lumi 3S/3T White ($109):** Same price, different target — Lumi series is panoramic glass aesthetic for showcase builds; Nexus PX is standard TG with better cooling specs. For black builds, Nexus PX is the only $109 option.
+- **vs Segotep Lumi 3S/3T White:** Same price, different target — Lumi series is panoramic glass aesthetic for showcase builds; Nexus PX is standard TG with better cooling specs. For black builds, Nexus PX is the only $109 option.
 
 ## FAQ
 
@@ -62,16 +62,16 @@ Standard budget cases use lightly tinted or clear TG. The Nexus PX Black typical
 RTX 4070 Super Founders Edition is 267mm — well within 340mm clearance. Most AIB RTX 4070 Super variants run 280–320mm, also within spec. Check your specific AIB card dimensions to confirm.
 
 **Q: Is there a handle like the Jonsbo C6?**
-No — the Nexus PX Black is a stationary case. For portable M-ATX with a carry handle, see the Jonsbo C6 Handle Mesh ($79).
+No — the Nexus PX Black is a stationary case. For portable M-ATX with a carry handle, see the Jonsbo C6 Handle Mesh.
 
 **Q: Does it include case fans?**
 Typically no fans at this price tier. Budget for front 2× 120mm intake + 1× 120mm rear exhaust. Total fan cost from ExtremePC: $30–$50 depending on brand and RGB preference.
 
 ## Related Products
 
-- Segotep Nexus PX White (CASSEGNPXW) — same specs, white finish ($129)
-- Thermalright TL-M10 Black (CASTMRM10B) — $119, includes ARGB fans + 4mm TG
-- Segotep Lumi 3S White (CASSEGLUM3SW) — $109 panoramic glass alternative
+- Segotep Nexus PX White (CASSEGNPXW) — same specs, white finish
+- Thermalright TL-M10 Black (CASTMRM10B) — includes ARGB fans + 4mm TG
+- Segotep Lumi 3S White (CASSEGLUM3SW) — panoramic glass alternative
 
 ## Schema (JSON-LD)
 

@@ -43,9 +43,9 @@
 
 ## Comparison
 
-- **vs Segotep Radiant White ($79):** The Radiant adds a tempered glass side panel and white finish for $20 more. If the build will be visible and aesthetics matter even slightly, Radiant is worth the extra $20. If the case goes under a desk and is never seen, Prime D at $59 is the correct call.
+- **vs Segotep Radiant White:** The Radiant adds a tempered glass side panel and white finish for $20 more. If the build will be visible and aesthetics matter even slightly, Radiant is worth the extra $20. If the case goes under a desk and is never seen, Prime D at $59 is the correct call.
 
-- **vs Jonsbo C6 Handle Mesh ($79):** C6 adds a carry handle and full mesh front for $20 more — better airflow and portability. Worth the premium if the PC moves between locations (LAN party, desk to desk). Prime D wins on pure price for stationary builds.
+- **vs Jonsbo C6 Handle Mesh:** C6 adds a carry handle and full mesh front for $20 more — better airflow and portability. Worth the premium if the PC moves between locations (LAN party, desk to desk). Prime D wins on pure price for stationary builds.
 
 - **vs second-hand cases (Trade Me):** Used cases at $30–$50 carry no warranty, unknown damage history, and may lack screws or brackets. Prime D at $59 new with 1-year warranty is often the better value once you factor in the risk of a defective used case.
 
@@ -58,19 +58,19 @@ Typically no fans included at this price point — the Prime D ships as a bare c
 No — the Prime D supports Micro-ATX (244 × 244mm) and smaller. Full ATX (305 × 244mm) will not fit. Check your motherboard form factor before purchasing.
 
 **Q: Is there a tempered glass version of the Prime D?**
-Not in the current ExtremePC range. The Segotep Radiant ($79) and Nexus 1 ($89) are the next step up with TG panels in white; the Nexus PX ($109) adds more features including USB-C front I/O.
+Not in the current ExtremePC range. The Segotep Radiant and Nexus 1 are the next step up with TG panels in white; the Nexus PX adds more features including USB-C front I/O.
 
 **Q: Can I install a 240mm AIO?**
-The Prime D's radiator mounting support at this price tier is typically limited — check the product page for confirmed radiator positions. For guaranteed 240mm AIO support, consider the Segotep Endura 240S ($89) which is named for and designed around 240mm radiator compatibility.
+The Prime D's radiator mounting support at this price tier is typically limited — check the product page for confirmed radiator positions. For guaranteed 240mm AIO support, consider the Segotep Endura 240S which is named for and designed around 240mm radiator compatibility.
 
 **Q: What's the warranty process?**
 1-year warranty through ExtremePC. Bring the unit to Onehunga or contact ExtremePC support — no need to deal with overseas manufacturer RMA processes.
 
 ## Related Products
 
-- Segotep Radiant White ($79) — step up to TG + white finish
-- Segotep Endura 240S White ($89) — TG + 240mm AIO support
-- Jonsbo C6 Handle Mesh Black ($79) — mesh airflow + carry handle alternative
+- Segotep Radiant White — step up to TG + white finish
+- Segotep Endura 240S White — TG + 240mm AIO support
+- Jonsbo C6 Handle Mesh Black — mesh airflow + carry handle alternative
 
 ## Schema (JSON-LD)
 

@@ -13,7 +13,7 @@
 - **DRAM**: DRAM-less (HMB — Host Memory Buffer)
 - **Brand**: ADATA (Tier 2 mainstream brand)
 - **Warranty**: 3-year ADATA warranty via ExtremePC NZ
-- **NZ Stock**: 7 units at Auckland Onehunga + 11 at supplier
+- **NZ Stock**: 7 units at Auckland Onehunga
 
 ## Selling Points
 
@@ -45,7 +45,7 @@
 
 - **Build Team consultation for older platform upgrades** — Build Team can confirm whether your motherboard's M.2 slot is Gen3 (Legend 710 matches) or Gen4 (Kingston NV3 / Team G50 may be better).
 
-- **Same-day Auckland pickup + supplier ETA (7 + 11)** — Reliable supply for build deadlines.
+- **Same-day Auckland pickup** — Reliable supply for build deadlines.
 
 - **National courier dispatch 1–3 business days** — Insured shipping to Wellington and South Island.
 

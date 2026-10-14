@@ -43,7 +43,7 @@
 
 ## Comparison
 
-- **vs Jonsbo N3 ($299, 8-bay):** The N3 adds three more 3.5" bays and one more 2.5" bay for $40 more. If you're planning to fill drives over time, the N3's headroom costs less per bay in the long run. The N2 makes sense if 5 bays is your ceiling and the smaller 12L footprint matters for placement.
+- **vs Jonsbo N3 (8-bay):** The N3 adds three more 3.5" bays and one more 2.5" bay for $40 more. If you're planning to fill drives over time, the N3's headroom costs less per bay in the long run. The N2 makes sense if 5 bays is your ceiling and the smaller 12L footprint matters for placement.
 
 - **vs Fractal Design Node 304 (higher price tier):** Node 304 supports 6× 3.5" in a slightly larger volume with better cable routing and more premium build quality. Costs more in NZ. For buyers who prioritize finish and cable management over price, Node 304 is worth considering. For raw value, N2 wins.
 

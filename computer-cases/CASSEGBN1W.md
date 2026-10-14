@@ -43,11 +43,11 @@
 
 ## Comparison
 
-- **vs Segotep Radiant White ($79):** Radiant is $10 cheaper with 155mm clearance and no USB-C. For builds where 155mm is sufficient and USB-C isn't needed, Radiant saves $10. For any cooler taller than 155mm or if USB-C matters, Nexus 1 is the correct choice.
+- **vs Segotep Radiant White:** Radiant is $10 cheaper with 155mm clearance and no USB-C. For builds where 155mm is sufficient and USB-C isn't needed, Radiant saves $10. For any cooler taller than 155mm or if USB-C matters, Nexus 1 is the correct choice.
 
-- **vs Segotep Endura 240S White ($89, same price):** Both are $89 white TG cases. Endura 240S is optimised for 240mm AIO liquid cooling; Nexus 1 suits air-cooled builds better with its 160mm clearance focus. The choice depends on cooling method: AIO → Endura 240S; air → Nexus 1.
+- **vs Segotep Endura 240S White (same price):** Both are $89 white TG cases. Endura 240S is optimised for 240mm AIO liquid cooling; Nexus 1 suits air-cooled builds better with its 160mm clearance focus. The choice depends on cooling method: AIO → Endura 240S; air → Nexus 1.
 
-- **vs Segotep Nexus PX White ($129):** Nexus PX adds enhanced build quality, 165mm clearance, and a larger internal layout for $40 more. Worth the step-up if the build is higher-end. Nexus 1 at $89 is the right call when budget is the primary constraint.
+- **vs Segotep Nexus PX White:** Nexus PX adds enhanced build quality, 165mm clearance, and a larger internal layout for $40 more. Worth the step-up if the build is higher-end. Nexus 1 at $89 is the right call when budget is the primary constraint.
 
 ## FAQ
 
@@ -64,13 +64,13 @@ Check the product page for confirmed radiator positions. The Nexus 1 may support
 Typically no fans at this price tier. Budget for 1× 120mm rear exhaust as a minimum; add front fans for improved airflow.
 
 **Q: Is there a black version?**
-Not currently in the ExtremePC range. For black TG at a similar price, see Thermalright TL-M10 Black ($119) or Segotep Nexus PX Black ($109).
+Not currently in the ExtremePC range. For black TG at a similar price, see Thermalright TL-M10 Black or Segotep Nexus PX Black.
 
 ## Related Products
 
 - Segotep Endura 240S White (CASSEGE240SW) — same price, AIO-optimised alternative
-- Segotep Nexus PX White (CASSEGNPXW) — $129 step-up with enhanced specs
-- Thermalright TL-M10 White (CASTMRM10W) — $129 with ARGB fans + 165mm clearance
+- Segotep Nexus PX White (CASSEGNPXW) — step-up with enhanced specs
+- Thermalright TL-M10 White (CASTMRM10W) — with ARGB fans + 165mm clearance
 
 ## Schema (JSON-LD)
 

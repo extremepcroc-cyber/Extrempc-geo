@@ -45,11 +45,11 @@
 
 ## Comparison
 
-- **vs Segotep Prime D Black ($59):** Prime D is $20 cheaper but solid steel front (no mesh), no carry handle, and 5mm less CPU cooler clearance. For stationary builds under a desk, Prime D saves money. For portable builds or airflow-priority builds, C6 Handle's $20 premium is clearly justified.
+- **vs Segotep Prime D Black:** Prime D is $20 cheaper but solid steel front (no mesh), no carry handle, and 5mm less CPU cooler clearance. For stationary builds under a desk, Prime D saves money. For portable builds or airflow-priority builds, C6 Handle's $20 premium is clearly justified.
 
-- **vs Segotep Radiant White ($79, same price):** Radiant offers tempered glass + white finish but no handle, solid front, and less airflow. C6 Handle and Radiant are the same price targeting opposite priorities — portability/airflow vs aesthetics. Neither is objectively better; choose based on use case.
+- **vs Segotep Radiant White (same price):** Radiant offers tempered glass + white finish but no handle, solid front, and less airflow. C6 Handle and Radiant are the same price targeting opposite priorities — portability/airflow vs aesthetics. Neither is objectively better; choose based on use case.
 
-- **vs Thermalright TL-M10 White ($129):** TL-M10 adds 3× ARGB fans, 4mm TG, 165mm CPU clearance, and USB-C I/O for $50 more. Significant step up in features and finish. If budget allows and the build is stationary, TL-M10 is worth the premium. C6 Handle wins where portability or pure value matters.
+- **vs Thermalright TL-M10 White:** TL-M10 adds 3× ARGB fans, 4mm TG, 165mm CPU clearance, and USB-C I/O for $50 more. Significant step up in features and finish. If budget allows and the build is stationary, TL-M10 is worth the premium. C6 Handle wins where portability or pure value matters.
 
 ## FAQ
 
@@ -63,15 +63,15 @@ A mesh front without a dust filter will accumulate dust faster than a filtered i
 Typical M-ATX mesh front supports 2× 120mm or 1× 240mm front, 1× 120mm rear, 1× 120mm top. Confirm specific mounting positions against the product page.
 
 **Q: Is there a white or TG version of the C6 Handle?**
-Not currently stocked at ExtremePC. The C6 Handle is available in Black Mesh only. For white TG cases, see Segotep Radiant ($79) or Thermalright TL-M10 White ($129).
+Not currently stocked at ExtremePC. The C6 Handle is available in Black Mesh only. For white TG cases, see Segotep Radiant or Thermalright TL-M10 White.
 
 **Q: Will the case tip over when carried by the handle?**
 The handle is top-centre mounted — the case balances when lifted if components are reasonably symmetrically installed. Heavy GPUs in the lower-front portion may cause slight forward lean during carry; hold the handle in a horizontal carry position rather than a swing to prevent component stress.
 
 ## Related Products
 
-- Segotep Prime D Black (CASSEGPRIDB) — $59 budget alternative, no handle
-- Thermalright TL-M10 White (CASTMRM10W) — $129 step-up with ARGB fans + TG
+- Segotep Prime D Black (CASSEGPRIDB) — budget alternative, no handle
+- Thermalright TL-M10 White (CASTMRM10W) — step-up with ARGB fans + TG
 - Jonsbo N4 NAS ITX/M-ATX Black (CASJONN4B) — if NAS use case applies
 
 ## Schema (JSON-LD)

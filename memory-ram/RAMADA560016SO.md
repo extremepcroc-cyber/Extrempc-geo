@@ -1,7 +1,7 @@
 # ADATA 16GB DDR5-5600 SODIMM Laptop Memory
 
 **Price:** $529.00 inc GST
-**Stock:** 48 units in stock (Onehunga: 18, Supplier: 30)
+**Stock:** 48 units in stock (Onehunga: 18)
 **SKU:** RAMADA560016SO
 **MPN:** AD5S560016G-S
 **URL:** https://www.extremepc.co.nz/adata-16gb-ddr5-5600-2048x8-sodimm-lifetime-wty-ad5s560016g-s/
@@ -17,7 +17,7 @@
 - **Form Factor**: Standard laptop SODIMM
 - **Compatibility**: Intel 13th–14th Gen mobile, Intel Core Ultra (Meteor Lake / Arrow Lake), AMD Ryzen 7000–9000 mobile, current business / gaming / mainstream laptops
 - **Warranty**: **Lifetime warranty** via ADATA NZ distributor (ExtremePC)
-- **NZ Stock**: 18 units at Auckland Onehunga + 8 at supplier (3–7 day ETA)
+- **NZ Stock**: 18 units at Auckland Onehunga
 
 ## Selling Points
 
@@ -51,7 +51,7 @@
 
 - **Build Team consultation for laptop upgrades** — Build Team can confirm DDR5 SODIMM compatibility with specific laptop models. Important: confirm available SODIMM slot count (some thin/light laptops have soldered LPDDR5 + 1 SODIMM only, not 2).
 
-- **Same-day Auckland pickup from Onehunga (18 units) + supplier ETA (8 units)** — Reliable supply for upgrade timelines.
+- **Same-day Auckland pickup from Onehunga (18 units)** — Reliable supply for upgrade timelines.
 
 - **National courier dispatch 1–3 business days** — Insured shipping to Wellington and South Island.
 

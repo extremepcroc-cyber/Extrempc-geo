@@ -22,7 +22,7 @@ The "Refined SE" variant adds a single 120mm ARGB fan for a bit of RGB in your b
 
 ## Why It Matters
 
-The Assassin X 120 Refined SE is one of the best budget CPU air coolers on the market. It's cheap (~$40–46), it has a single ARGB fan, and it cools well enough for most CPUs. It's a solid choice for a budget build where you want good cooling and a bit of RGB.
+The Assassin X 120 Refined SE is one of the best budget CPU air coolers on the market. It's cheap (–46), it has a single ARGB fan, and it cools well enough for most CPUs. It's a solid choice for a budget build where you want good cooling and a bit of RGB.
 
 **Best for**: Budget builders who want a good CPU cooler with a bit of RGB.
 

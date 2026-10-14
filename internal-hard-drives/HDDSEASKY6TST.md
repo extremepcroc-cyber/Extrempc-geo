@@ -1,4 +1,4 @@
-﻿# Seagate SkyHawk 6TB 3.5" SATA3 Surveillance Internal Hard Drive ST6000VX009
+# Seagate SkyHawk 6TB 3.5" SATA3 Surveillance Internal Hard Drive ST6000VX009
 
 **Price:** $575.00 inc GST
 **SKU:** HDDSEASKY6TST
@@ -17,15 +17,12 @@
 - **Firmware**: ImagePerfect
 - **MTBF**: 1M hours
 - **Warranty**: 3-year Seagate
-- **NZ Stock**: 9 units at supplier
 
 ## Selling Points
 
 - **6TB — practical sweet spot for standard CCTV deployments** — 6TB gives 30+ days retention for an 8-camera 1080p system with loop recording. The industry rule of thumb for commercial surveillance is 30-day retention; 6TB achieves this at 8-channel 1080p without additional drives.
 
 - **ImagePerfect surveillance firmware — purpose-built, not desktop repurposed** — Handles 24/7 constant-write workloads, 64 simultaneous HD streams, and the specific I/O pattern of CCTV NVR recording without the video pixelation that occurs on consumer HDDs.
-
-- **9 units at supplier** — Better stock depth than SkyHawk 4TB (SU=1). More reliable for order fulfillment.
 
 - **3-year Seagate warranty** — Standard surveillance-grade coverage.
 
@@ -43,7 +40,6 @@
 
 - **3-year Seagate warranty via ExtremePC NZ** — Domestic RMA.
 - **Build Team consultation** — Retention calculation for your specific camera setup.
-- **9 units at supplier** — Better order reliability.
 - **National courier dispatch 1–3 business days**.
 
 ## Comparison

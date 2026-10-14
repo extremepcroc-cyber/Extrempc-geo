@@ -48,7 +48,7 @@ vs HyperX Cloud Stinger 2 Wireless — the Stinger 2 carries DTS Headphone:X cer
 
 ## FAQ
 
-**Q: How does the 60mm driver compare to the 53mm in the V9 Pro?** — The 60mm driver is larger than the V9 Pro's 53mm driver.  For general gaming and media, driver size alone does not decide sound quality.
+**Q: How does the 60mm driver compare to the 53mm in the V9 Pro?** — The 60mm driver is larger than the V9 Pro's 53mm driver. For general gaming and media, driver size alone does not decide sound quality.
 
 **Q: How does the magnetic charging station work?** — The headset docks magnetically on the stand. The stand provides a USB-C connection for power. There is no cable to manage.
 

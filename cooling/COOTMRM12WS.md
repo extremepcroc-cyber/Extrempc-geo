@@ -19,7 +19,7 @@ A 120mm case fan from Thermalright's TL-M series. The TL-M12W-S is a budget-frie
 
 ## Why It Matters
 
-The TL-M12W-S is one of the cheapest 120mm case fans on the NZ market at ~$15. It's a white non-ARGB fan — if you're building a white-themed case and just want a functional fan without RGB, it's a solid choice.
+The TL-M12W-S is one of the cheapest 120mm case fans on the NZ market. It's a white non-ARGB fan — if you're building a white-themed case and just want a functional fan without RGB, it's a solid choice.
 
 **Best for**: White-build enthusiasts who want a clean look without RGB.
 

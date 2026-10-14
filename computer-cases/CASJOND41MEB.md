@@ -47,11 +47,11 @@
 
 ## Comparison
 
-- **vs Jonsbo D41 STD Black ($149):** Same internal specs — 400mm GPU, 185mm CPU, 360mm front radiator. D41 STD has a solid front panel for $30 more. Solid front = cleaner look; mesh front = better thermals + $30 saved. For performance-first builds, D41 Mesh is the better choice. For aesthetics-first builds or the Jonsbo D41 look with a solid front, pay the $30 for STD.
+- **vs Jonsbo D41 STD Black:** Same internal specs — 400mm GPU, 185mm CPU, 360mm front radiator. D41 STD has a solid front panel for $30 more. Solid front = cleaner look; mesh front = better thermals + $30 saved. For performance-first builds, D41 Mesh is the better choice. For aesthetics-first builds or the Jonsbo D41 look with a solid front, pay the $30 for STD.
 
-- **vs Zalman N4 Rev.1 Black ($139):** N4 Rev.1 includes 3× ARGB fans at $20 more but has 380mm GPU clearance (vs 400mm) and a solid front. D41 Mesh wins on GPU clearance and airflow; N4 Rev.1 wins on included fans. If the build already has fans planned, D41 Mesh at $119 is the better chassis.
+- **vs Zalman N4 Rev.1 Black:** N4 Rev.1 includes 3× ARGB fans at $20 more but has 380mm GPU clearance (vs 400mm) and a solid front. D41 Mesh wins on GPU clearance and airflow; N4 Rev.1 wins on included fans. If the build already has fans planned, D41 Mesh at $119 is the better chassis.
 
-- **vs Zalman N7 Plus V2 ($139):** N7 Plus V2 includes ARGB fans, USB-C, 360mm radiator at $20 more with 350mm GPU clearance (vs 400mm on D41 Mesh). For GPU clearance, D41 Mesh wins. For included fans and slightly easier setup, N7 Plus V2 for $20 more.
+- **vs Zalman N7 Plus V2:** N7 Plus V2 includes ARGB fans, USB-C, 360mm radiator at $20 more with 350mm GPU clearance (vs 400mm on D41 Mesh). For GPU clearance, D41 Mesh wins. For included fans and slightly easier setup, N7 Plus V2 for $20 more.
 
 ## FAQ
 
@@ -72,9 +72,9 @@ Not currently in stock at ExtremePC. The D41 range is available in black; for wh
 
 ## Related Products
 
-- Jonsbo D41 STD Black (CASJOND41STDB) — $149, same specs with solid front panel
-- Zalman N7 Plus V2 (CASZALN7PV2) — $139, includes ARGB fans + USB-C
-- Zalman N4 Rev.1 Black (CASZALN4MB) — $139, includes ARGB fans + 3× 3.5" HDD bays
+- Jonsbo D41 STD Black (CASJOND41STDB) — same specs with solid front panel
+- Zalman N7 Plus V2 (CASZALN7PV2) — includes ARGB fans + USB-C
+- Zalman N4 Rev.1 Black (CASZALN4MB) — includes ARGB fans + 3× 3.5" HDD bays
 
 ## Schema (JSON-LD)
 

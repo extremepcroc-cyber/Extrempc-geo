@@ -1,4 +1,4 @@
-﻿# Synology HAT5310 20TB 3.5" SATA3 NAS Hard Drive HAT5310-20T
+# Synology HAT5310 20TB 3.5" SATA3 NAS Hard Drive HAT5310-20T
 
 **Price:** $2250.00 inc GST
 **SKU:** HDDSYNHAT20T
@@ -16,11 +16,8 @@
 - **Workload**: 550 TB/year
 - **MTBF**: 1.2M hours
 - **Warranty**: 3-year standard / 5-year on compatible Synology NAS
-- **NZ Stock**: 16 units at supplier — deepest HAT5310 stock
 
 ## Selling Points
-
-- **16 units at supplier — deepest HAT5310 stock in the Synology range** — HAT5310 20TB has the highest supplier stock of any HAT5310 variant, making it the most reliably available enterprise Synology drive for large-capacity project orders.
 
 - **20TB flagship HAT5310 — maximum density Synology enterprise NAS** — 20TB is the largest capacity in the HAT5310 line. 4-bay Synology SA3600 RAID-5 = 60TB usable. 12-bay RS3621xs+ RAID-6 = 180TB usable with 5-year warranty on all drives.
 
@@ -34,15 +31,11 @@
 
 - **Enterprise NAS builds for media post-production (60–200TB pools)** — Feature film post houses, broadcast archives, digital asset management systems.
 
-- **Managed service providers standardizing on Synology enterprise storage** — 16 supplier units supports multi-project volume sourcing.
-
 - **Government / institutional compliance NAS** — Long-retention storage requiring Synology enterprise certification and 5-year warranty.
 
 ## Why Buy From ExtremePC
 
 - **Authorized Synology NZ distributor** — 5-year extended warranty serviced through ExtremePC NZ for all HAT5310 drives on eligible Synology hardware.
-
-- **16 units at supplier — the deepest HAT5310 capacity stock** — For 4-bay (4 units) and 8-bay (8 units) Synology enterprise project orders, 16 supplier units provides strong fulfillment confidence.
 
 - **Build Team Synology enterprise consultation** — Can specify SA3600 / RS series Synology NAS + HAT5310 20TB configuration and confirm 5-year warranty eligibility.
 
@@ -72,15 +65,12 @@
   A: Yes — Synology SHR (Synology Hybrid RAID) handles mixed capacities. Standard RAID-5/6 uses the smallest drive size × N. For maximum usable capacity, use uniform drive sizes.
 
 - **Q: Volume orders — can I buy 12 for a RS3621xs+ build?**
-  A: 16 units at supplier — 12-unit orders are within current availability. Contact ExtremePC for volume pricing.
 
 - **Q: How long is delivery?**
-  A: 3–7 business day supplier ETA, then 1–3 days courier. Signature required on delivery for high-value orders.
 
 ## Related Products
 
 - **HDDSYNHAT531018** — HAT5310 18TB step down (limited stock)
-- **HDDSYN53108T** — HAT5310 8TB entry enterprise (9 supplier units)
 - **HDDSEAIWP22T** — IronWolf Pro 22TB (multi-brand NAS CMR, more capacity at lower NZD)
 - **HDDWDHC56020T** — WD Ultrastar HC560 20TB (enterprise JBOD alternative)
 

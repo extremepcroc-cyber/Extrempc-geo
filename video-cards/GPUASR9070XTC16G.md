@@ -1,4 +1,4 @@
-﻿# ASRock Challenger Radeon RX 9070 XT 16GB GDDR6 Graphics Card
+# ASRock Challenger Radeon RX 9070 XT 16GB GDDR6 Graphics Card
 
 **Price:** $1729 inc GST
 **SKU:** GPUASR9070XTC16G
@@ -22,7 +22,7 @@
 - **Display Outputs**: 3× DisplayPort 2.1a + 1× HDMI 2.1b
 - **Max Resolution**: 7680 × 4320 (8K)
 - **Warranty**: 3 years ASRock warranty via authorized NZ distributor (ExtremePC)
-- **NZ Stock**: 10 units at Auckland Onehunga + 30 at supplier (3–7 day ETA)
+- **NZ Stock**: 10 units at Auckland Onehunga
 
 ## Selling Points
 
@@ -55,8 +55,6 @@
 - **Authorized ASRock NZ distributor** — 3-year warranty serviced domestically.
 
 - **Build Team consultation for 1440p ultra builds** — RX 9070 XT builds pair with serious CPU and PSU. Build Team can spec the matched 850W quality PSU, CPU, and cooling.
-
-- **Same-day Auckland pickup + supplier ETA** — 10 at Onehunga, 30 at supplier with 3–7 day ETA.
 
 - **National courier dispatch 1–3 business days** — Insured shipping to Wellington and South Island.
 

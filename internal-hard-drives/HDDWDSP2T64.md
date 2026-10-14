@@ -16,11 +16,8 @@
 - **Firmware**: AllFrame AI
 - **MTBF**: 1M hours
 - **Warranty**: 3-year WD
-- **NZ Stock**: 31 units at supplier — deepest WD Purple supplier stock
 
 ## Selling Points
-
-- **31 units at supplier — most available WD Purple capacity at ExtremePC** — WD Purple 2TB has the deepest supplier stock of any WD Purple variant, making it the most reliable for order fulfillment.
 
 - **AllFrame AI surveillance firmware** — WD's AllFrame AI technology reduces frame loss, handles 64 simultaneous HD streams, and optimizes for the constant-write pattern of CCTV recording. Specifically validated for Hikvision, Dahua, and Axis NVR platforms.
 
@@ -43,13 +40,10 @@
 ## Why Buy From ExtremePC
 
 - **WD warranty via ExtremePC NZ** — 3-year warranty serviced domestically.
-- **31 units at supplier** — Best stock depth in the WD Purple range.
 - **National courier dispatch 1–3 business days** — Insured shipping.
 - **23 years of NZ retail**.
 
 ## Comparison
-
-- **vs Seagate SkyHawk 2TB (HDDSEASKY2TB, equivalent at lower NZD)** — SkyHawk 2TB has fewer supplier units (6) vs WD Purple 2TB (31). For NVR platforms specifically recommending WD Purple, choose WD. For pure value, SkyHawk 2TB at lower NZD.
 
 - **vs WD Purple 3TB (HDDWDSP3T256, 50% more capacity at higher NZD)** — 3TB adds significantly more retention for modest premium. For cameras > 4 or longer retention targets, 3TB.
 

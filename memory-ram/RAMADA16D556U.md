@@ -18,7 +18,7 @@
 - **On-die ECC**: Built-in error correction (real-time bit error correction)
 - **Compatibility**: Works with latest AMD AM5 and Intel LGA1700-DDR5 / LGA1851 platforms
 - **Warranty**: **Lifetime warranty** via authorized Adata NZ distributor (ExtremePC)
-- **NZ Stock**: 4 units at Auckland Onehunga + 25 at supplier (3–7 day ETA)
+- **NZ Stock**: 4 units at Auckland Onehunga
 
 ## Selling Points
 
@@ -51,8 +51,6 @@
 - **Authorized Adata NZ distributor** — Lifetime warranty serviced domestically through ExtremePC NZ.
 
 - **Build Team consultation for AM5 / LGA1851 builds** — Build Team can spec the matched motherboard + CPU combination for the user's DDR5 build.
-
-- **Same-day Auckland pickup + supplier ETA** — 4 at Onehunga, 25 at supplier with 3–7 day ETA. Reliable supply.
 
 - **National courier dispatch 1–3 business days** — Insured shipping to Wellington and South Island.
 
@@ -96,7 +94,6 @@
   A: Yes — Adata OEM is bare PCB with no heatsink (very low profile, ~32mm tall). Universal cooler clearance.
 
 - **Q: Stock at Onehunga is 4 units — is supply reliable?**
-  A: 4 at Onehunga, 25 at supplier with 3–7 day ETA. For most build timelines, supply is reliable. For high-volume orders, contact ExtremePC for confirmed ETAs.
 
 - **Q: How long is delivery to Wellington / South Island?**
   A: 1–3 business days via insured CourierPost from Auckland.

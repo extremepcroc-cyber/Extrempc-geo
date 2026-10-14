@@ -1,4 +1,4 @@
-﻿# Samsung 9100 PRO 2TB M.2 NVMe Gen5 Internal SSD — 14700/13400 MB/s
+# Samsung 9100 PRO 2TB M.2 NVMe Gen5 Internal SSD — 14700/13400 MB/s
 
 **Price:** $1099.00 inc GST
 **SKU:** SSDSAMPRO2T
@@ -16,7 +16,7 @@
 - **Platform**: Designed for Intel Z890 / AMD X870 motherboards with Gen5 M.2 slots (boots in Gen4 slots at Gen4 speeds — but defeats the point)
 - **Brand**: Samsung (Tier 1 gold standard, Gen5 flagship)
 - **Warranty**: 5-year Samsung warranty via ExtremePC NZ
-- **NZ Stock**: 1 unit at Auckland Onehunga + 30 at supplier (3–7 day ETA)
+- **NZ Stock**: 1 unit at Auckland Onehunga
 
 ## Selling Points
 
@@ -47,8 +47,6 @@
 - **Authorized Samsung NZ distributor** — 5-year Samsung warranty serviced domestically.
 
 - **Build Team consultation for Gen5 builds** — Build Team can confirm Z890 / X870 motherboard Gen5 M.2 slot compatibility and recommend appropriate cooling (Gen5 drives generate substantial heat — active cooling often recommended).
-
-- **Same-day Auckland pickup + supplier ETA (1 + 30)** — Walk-in for the available unit; supplier ETA for orders.
 
 - **National courier dispatch 1–3 business days** — Insured shipping to Wellington and South Island.
 
@@ -87,7 +85,7 @@
   A: 2TB is the sweet spot capacity for Gen5 flagship. 1TB available at lower NZD; 4TB available at higher NZD. The 2TB sits at the value/capacity sweet spot for Gen5.
 
 - **Q: Stock at Onehunga is 1 unit — is supply reliable?**
-  A: Gen5 SSDs in NZ have had variable supply through 2024–2025. Current 1 unit at walk-in + 30 at supplier (3–7 day ETA) means restock is available with short lead time.
+  A: Gen5 SSDs in NZ have had variable supply through 2024–2025. Current 1 unit at walk-in means restock is available with short lead time.
 
 - **Q: How long is delivery to Wellington / South Island?**
   A: 1–3 business days via insured CourierPost from Auckland.

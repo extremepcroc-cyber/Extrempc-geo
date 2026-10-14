@@ -1,7 +1,7 @@
 # Netac Basic 16GB DDR4-3200 SODIMM Laptop RAM
 
 **Price:** $299.00 inc GST
-**Stock:** 23 units in stock (Onehunga: 9, Supplier: 14)
+**Stock:** 23 units in stock (Onehunga: 9)
 **SKU:** RAMNETB13C
 **MPN:** NTBSD4N32SP-16
 **URL:** https://www.extremepc.co.nz/netac-basic-16gb-ddr4-3200-c22-sodimm-lifetime-wty/
@@ -16,7 +16,7 @@
 - **Profile**: JEDEC standard 3200 — boots out of the box on compatible laptops
 - **Compatibility**: Intel 10th–11th Gen mobile, AMD Ryzen 4000–5000 mobile, business laptops with DDR4 slots
 - **Warranty**: Lifetime warranty via ExtremePC NZ
-- **NZ Stock**: 9 units at Auckland Onehunga + 21 at supplier (3–7 day ETA)
+- **NZ Stock**: 9 units at Auckland Onehunga
 
 ## Selling Points
 
@@ -48,7 +48,7 @@
 
 - **Build Team consultation for laptop upgrades** — Build Team can confirm compatibility with specific laptop models. Important for laptop upgrades: confirm number of available SODIMM slots and existing RAM speed match.
 
-- **Same-day Auckland pickup from Onehunga (9 units) + supplier ETA (21 units)** — Reliable supply.
+- **Same-day Auckland pickup from Onehunga (9 units)** — Reliable supply.
 
 - **National courier dispatch 1–3 business days** — Insured shipping to Wellington and South Island.
 

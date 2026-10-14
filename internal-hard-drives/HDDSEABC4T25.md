@@ -13,7 +13,7 @@
 - **Cache**: 128MB
 - **Sequential Read/Write**: ~140 MB/s typical
 - **Warranty**: 2-year Seagate
-- **NZ Stock**: 6 units at Auckland Onehunga + 3 at supplier
+- **NZ Stock**: 6 units at Auckland Onehunga
 
 ## Selling Points
 
@@ -79,7 +79,6 @@
 ## Related Products
 
 - **HDDSEABC8T35** — BarraCuda 8TB 3.5" (3.5" form factor, deepest stock)
-- **HDDSEABC4T35** — BarraCuda 4TB 3.5" (3.5" form factor, supplier stock)
 - **SSDKINNV32TG4** — Kingston NV3 2TB M.2 NVMe (SSD upgrade alternative for modern laptops)
 
 ## Schema

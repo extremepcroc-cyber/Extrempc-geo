@@ -1,4 +1,4 @@
-﻿# Synology HAT5300 16TB 3.5" SATA3 NAS Hard Drive HAT5300-16T
+# Synology HAT5300 16TB 3.5" SATA3 NAS Hard Drive HAT5300-16T
 
 **Price:** $1740.00 inc GST
 **SKU:** HDDSYN530016T
@@ -16,7 +16,6 @@
 - **Workload**: 180 TB/year
 - **MTBF**: 1.2M hours
 - **Warranty**: 3-year standard / 5-year on compatible Synology NAS
-- **NZ Stock**: 2 units at supplier
 
 ## Selling Points
 
@@ -33,12 +32,9 @@
 ## Why Buy From ExtremePC
 
 - **Authorized Synology NZ distributor** — 5-year extended warranty via ExtremePC NZ.
-- **2 supplier units** — Limited; verify availability before ordering multi-drive.
 - **Build Team Synology enterprise consultation**.
 
 ## Comparison
-
-- **vs HAT5300 12TB (HDDSYNHAT53012T, 4TB less, 8 supplier units)** — 12TB has significantly better supplier availability (8 vs 2). For assured 4-drive order fulfillment, 12TB is safer. 16TB only if maximum capacity is required.
 
 - **vs IronWolf Pro 16TB (HDDSEAIWP16T, same capacity, lower NZD, 300 TB/year)** — IronWolf Pro 16TB at lower NZD with higher workload rating (300 TB/year). For Synology ecosystem + extended warranty: HAT5300 16TB. For cost and workload spec: IronWolf Pro 16TB.
 
@@ -52,7 +48,6 @@
 
 ## Related Products
 
-- **HDDSYNHAT53012T** — HAT5300 12TB (better supplier stock)
 - **HDDSYN53108T** — HAT5310 8TB (HAT5310 enterprise line)
 - **HDDSEAIWP16T** — IronWolf Pro 16TB (multi-brand NAS alternative)
 

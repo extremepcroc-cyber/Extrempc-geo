@@ -21,7 +21,7 @@ The white reverse-rotation variant of the Segotep Meta 12. Same as the Meta 12F 
 
 ## Why It Matters
 
-A white reverse-rotation fan at ~$17 — one of the cheapest options for a push/pull AIO setup in a white-themed build. No RGB, but functional and affordable.
+A white reverse-rotation fan — one of the cheapest options for a push/pull AIO setup in a white-themed build. No RGB, but functional and affordable.
 
 **Best for**: Push/pull AIO setups in white-themed builds on a budget.
 

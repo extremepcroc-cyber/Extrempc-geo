@@ -22,7 +22,7 @@ The "4g" tube is a larger size than the 2g variant — useful if you're building
 
 Thermal paste is essential for good CPU/GPU cooling. The TF4 is a high-performance paste with good thermal conductivity — it transfers heat efficiently from the CPU to the heatsink.
 
-The 4g tube is a good size for multiple builds or for having spare paste on hand. It's one of the cheapest high-performance thermal pastes on the market at ~$9.
+The 4g tube is a good size for multiple builds or for having spare paste on hand. It's one of the cheapest high-performance thermal pastes on the market.
 
 **Best for**: CPU/GPU cooling, or anyone who wants a high-performance thermal paste.
 

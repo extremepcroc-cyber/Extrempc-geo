@@ -23,11 +23,11 @@
 
 - **Hyperboloid tempered glass side panel — the glass bows outward in a convex curve, creating a 3D lens effect over the components.** The TK-2's defining feature is a side panel that is not flat — the glass curves outward toward the viewer in a convex hyperboloid shape. This creates a visual effect where components inside appear to float behind a curved glass lens. Jonsbo calls this the hyperboloid glass design; it requires a different glass forming process than standard flat TG panels. No other case brand in the ExtremePC lineup produces this curved panel format. The visual result is distinctive to the point of being immediately recognisable as a TK-series Jonsbo case.
 
-- **Curved glass is a statement design choice, not a spec upgrade.** The TK-2 buyer is not primarily purchasing GPU clearance or fan count — they're purchasing a visual identity. The hyperboloid glass defines the case from every angle. A flat-panel TG case at this price ($229) would offer more fans included or other features; the TK-2 spends its premium on the glass geometry.
+- **Curved glass is a statement design choice, not a spec upgrade.** The TK-2 buyer is not primarily purchasing GPU clearance or fan count — they're purchasing a visual identity. The hyperboloid glass defines the case from every angle. A flat-panel TG case at this price would offer more fans included or other features; the TK-2 spends its premium on the glass geometry.
 
 - **170mm CPU cooler clearance — accommodates large dual-tower air coolers.** 170mm is above the 165mm standard, adding margin for oversized coolers and dual-tower designs. For the Thermalright Assassin King 120 (170mm) or be quiet! Dark Rock Pro 5, the TK-2's 170mm clearance is the critical specification.
 
-- **$229 for hyperboloid glass ATX in black — positioned between standard flat-TG mid-range ($149–$179) and Sea View panoramic premium ($329).** The TK-2 occupies the design differentiation tier: more than entry ATX cases, less than the TK-4's full Sea View panoramic specification. For builders who want the hyperboloid glass look without the TK-4's $329 price, TK-2 is the entry to this aesthetic.
+- **$229 for hyperboloid glass ATX in black — positioned between standard flat-TG mid-range ($149–$179) and Sea View panoramic premium.** The TK-2 occupies the design differentiation tier: more than entry ATX cases, less than the TK-4's full Sea View panoramic specification. For builders who want the hyperboloid glass look without the TK-4's $329 price, TK-2 is the entry to this aesthetic.
 
 ## Ideal For
 
@@ -47,11 +47,11 @@
 
 ## Comparison
 
-- **vs Jonsbo TK-4 Black ($329):** TK-4 adds top glass panel (dual-angle Sea View visibility), 420mm GPU clearance (40mm more), and 3× ARGB fans for $100 more. TK-4 is the full expression of the TK hyperboloid concept; TK-2 is the entry. The top glass panel is the most significant functional difference — TK-4 shows components from two angles; TK-2 from one.
+- **vs Jonsbo TK-4 Black:** TK-4 adds top glass panel (dual-angle Sea View visibility), 420mm GPU clearance (40mm more), and 3× ARGB fans for $100 more. TK-4 is the full expression of the TK hyperboloid concept; TK-2 is the entry. The top glass panel is the most significant functional difference — TK-4 shows components from two angles; TK-2 from one.
 
-- **vs Deepcool CK500 Black ($179):** CK500 is $50 less with flat dual-sided TG (front + side). CK500 has 10Gbps USB-C and 140mm fans included. TK-2 has hyperboloid glass side for $50 more. The case aesthetic is entirely different — flat glass front vs curved glass side.
+- **vs Deepcool CK500 Black:** CK500 is $50 less with flat dual-sided TG (front + side). CK500 has 10Gbps USB-C and 140mm fans included. TK-2 has hyperboloid glass side for $50 more. The case aesthetic is entirely different — flat glass front vs curved glass side.
 
-- **vs Corsair 3000D Airflow RGB White ($229, same price):** Corsair 3000D is white, mesh front, iCUE ecosystem, flat TG. TK-2 is black, hyperboloid TG. Same price, different aesthetic directions entirely. iCUE ecosystem buyers choose Corsair; hyperboloid glass buyers choose TK-2.
+- **vs Corsair 3000D Airflow RGB White (same price):** Corsair 3000D is white, mesh front, iCUE ecosystem, flat TG. TK-2 is black, hyperboloid TG. Same price, different aesthetic directions entirely. iCUE ecosystem buyers choose Corsair; hyperboloid glass buyers choose TK-2.
 
 ## FAQ
 
@@ -72,9 +72,9 @@ Check extremepc.co.nz for current colour availability. At time of writing, TK-2 
 
 ## Related Products
 
-- Jonsbo TK-4 Black (CASJONTK4B) — $329, full Sea View dual-glass + ARGB fans
-- Deepcool CK500 Black (CASDEECK500B) — $179, flat dual-sided TG, 140mm fans
-- Corsair 3000D Airflow RGB White (CASCOR3000DAFRW) — $229, iCUE ecosystem white
+- Jonsbo TK-4 Black (CASJONTK4B) — full Sea View dual-glass + ARGB fans
+- Deepcool CK500 Black (CASDEECK500B) — flat dual-sided TG, 140mm fans
+- Corsair 3000D Airflow RGB White (CASCOR3000DAFRW) — iCUE ecosystem white
 
 ## Schema (JSON-LD)
 

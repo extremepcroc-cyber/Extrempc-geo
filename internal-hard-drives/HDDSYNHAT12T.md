@@ -1,4 +1,4 @@
-﻿# Synology HAT3310 12TB 3.5" SATA3 NAS Hard Drive HAT3310-12T
+# Synology HAT3310 12TB 3.5" SATA3 NAS Hard Drive HAT3310-12T
 
 **Price:** $1289.00 inc GST
 **SKU:** HDDSYNHAT12T
@@ -15,7 +15,6 @@
 - **Recording**: CMR — NAS/RAID safe
 - **Workload**: 180 TB/year
 - **Warranty**: 3-year standard / 5-year on compatible Synology NAS
-- **NZ Stock**: 7 units at supplier
 
 ## Selling Points
 
@@ -24,8 +23,6 @@
 - **5-year Synology extended warranty program** — HAT3310 in compatible Synology NAS extends the standard 3-year to 5-year warranty coverage at no additional cost.
 
 - **Synology DSM health integration** — Storage Manager shows drive health, predictive failure alerts, and S.M.A.R.T. data natively.
-
-- **7 units at supplier** — Reasonable stock for 4-bay NAS project orders (4 units required).
 
 ## Ideal For
 
@@ -36,7 +33,6 @@
 ## Why Buy From ExtremePC
 
 - **Authorized Synology NZ distributor** — 5-year extended warranty serviced through ExtremePC NZ.
-- **7 units at supplier** — Supports 4-bay NAS orders without supply shortfall.
 - **Build Team Synology consultation** — DS923+ + HAT3310 12TB pairing advice.
 
 ## Comparison

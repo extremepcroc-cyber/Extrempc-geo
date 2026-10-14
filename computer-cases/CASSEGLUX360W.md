@@ -45,11 +45,11 @@
 
 ## Comparison
 
-- **vs Segotep Endura Pro+ EATX White ($115):** Endura Pro+ is $26 more — TG panel (not acrylic), EATX board support, 400mm GPU clearance. For builds planning an upgrade to EATX or needing TG, Endura Pro+ is worth the step up. For ATX-only builds on the tightest budget, LUX 360 at $89 works.
+- **vs Segotep Endura Pro+ EATX White:** Endura Pro+ is $26 more — TG panel (not acrylic), EATX board support, 400mm GPU clearance. For builds planning an upgrade to EATX or needing TG, Endura Pro+ is worth the step up. For ATX-only builds on the tightest budget, LUX 360 at $89 works.
 
-- **vs Valkyrie VK03 Lite White ($179):** VK03 Lite is $90 more — TG panel, 380mm GPU, mesh front for better airflow, included ARGB fans, USB-C. Clear step-up for mid-range builds. LUX 360 is the entry option when $179 is out of reach.
+- **vs Valkyrie VK03 Lite White:** VK03 Lite is $90 more — TG panel, 380mm GPU, mesh front for better airflow, included ARGB fans, USB-C. Clear step-up for mid-range builds. LUX 360 is the entry option when $179 is out of reach.
 
-- **vs Zalman I3 Neo Black ($139):** I3 Neo Black includes 3× ARGB fans at $50 more, TG panel, but is black only. For builders committed to white at the lowest price, LUX 360 is the only option under $139.
+- **vs Zalman I3 Neo Black:** I3 Neo Black includes 3× ARGB fans at $50 more, TG panel, but is black only. For builders committed to white at the lowest price, LUX 360 is the only option under $139.
 
 ## FAQ
 
@@ -70,9 +70,9 @@ Yes — white interior + ARGB fans + acrylic panel creates an effective RGB show
 
 ## Related Products
 
-- Segotep Endura Pro+ EATX White (CASSEGEPPW) — $115, TG panel, EATX support
-- Valkyrie VK03 Lite White (CASVALVK03W) — $179, mesh front, TG, ARGB fans
-- Zalman N7 Plus V2 (CASZALN7PV2) — $139, black TG ATX with 360mm radiator
+- Segotep Endura Pro+ EATX White (CASSEGEPPW) — TG panel, EATX support
+- Valkyrie VK03 Lite White (CASVALVK03W) — mesh front, TG, ARGB fans
+- Zalman N7 Plus V2 (CASZALN7PV2) — black TG ATX with 360mm radiator
 
 ## Schema (JSON-LD)
 

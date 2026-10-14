@@ -40,11 +40,11 @@
 
 ## Comparison
 
-- **vs Jonsbo N4 Black ($209):** N4 has 4 HDD bays in ITX/M-ATX, $60 less. N6 adds 2 more bays and M-ATX primary support for $60. If 4 bays are sufficient, N4 saves $60. If 6 bays or M-ATX PCIe expansion is required, N6 is the correct platform.
+- **vs Jonsbo N4 Black:** N4 has 4 HDD bays in ITX/M-ATX, $60 less. N6 adds 2 more bays and M-ATX primary support for $60. If 4 bays are sufficient, N4 saves $60. If 6 bays or M-ATX PCIe expansion is required, N6 is the correct platform.
 
-- **vs Antec VSK3000B-U3 ($69):** Antec provides 6 total drive bays (mix of 5.25" + 3.5") at $200 less but without NAS-specific design. N6 is purpose-engineered for 24/7 HDD operation; VSK3000B-U3 is a utility steel case adapted for storage. For a serious NAS OS build with long-term reliability, N6's NAS-specific design is worth the premium.
+- **vs Antec VSK3000B-U3:** Antec provides 6 total drive bays (mix of 5.25" + 3.5") at $200 less but without NAS-specific design. N6 is purpose-engineered for 24/7 HDD operation; VSK3000B-U3 is a utility steel case adapted for storage. For a serious NAS OS build with long-term reliability, N6's NAS-specific design is worth the premium.
 
-- **vs Jonsbo N3 ITX ($299):** N3 is 8-bay but ITX-only and $30 more. N6 at $269 is 6-bay with M-ATX support — if 8 bays and ITX constraint are acceptable, N3 is the maximum-density option. If M-ATX is required for PCIe expansion, N6 is the correct choice.
+- **vs Jonsbo N3 ITX:** N3 is 8-bay but ITX-only and $30 more. N6 at $269 is 6-bay with M-ATX support — if 8 bays and ITX constraint are acceptable, N3 is the maximum-density option. If M-ATX is required for PCIe expansion, N6 is the correct choice.
 
 ## FAQ
 
@@ -65,9 +65,9 @@ Check the product page for included fan configuration. NAS cases typically inclu
 
 ## Related Products
 
-- Jonsbo N4 Black (CASJONN4B) — $209, 4-bay ITX/M-ATX NAS
-- Jonsbo N3 Black (CASJONN3) — $299, 8-bay ITX NAS
-- Antec VSK3000B-U3 (CASANTVSK300) — $69, 6-bay utility case (non-NAS specific)
+- Jonsbo N4 Black (CASJONN4B) — 4-bay ITX/M-ATX NAS
+- Jonsbo N3 Black (CASJONN3) — 8-bay ITX NAS
+- Antec VSK3000B-U3 (CASANTVSK300) — 6-bay utility case (non-NAS specific)
 
 ## Schema (JSON-LD)
 

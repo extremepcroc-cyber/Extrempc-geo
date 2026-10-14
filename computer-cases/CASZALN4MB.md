@@ -46,11 +46,11 @@
 
 ## Comparison
 
-- **vs Zalman N7 Plus V2 ($139, same price):** N7 Plus V2 has 350mm GPU (30mm less) and 2× 3.5" bays (1 less). N4 Rev.1 wins on GPU clearance and storage. Both have USB-C, 360mm front radiator, ARGB fans. Choose N4 Rev.1 for GPU clearance or storage needs; N7 Plus V2 if 21-unit stock availability is a priority (vs 9 for N4).
+- **vs Zalman N7 Plus V2 (same price):** N7 Plus V2 has 350mm GPU (30mm less) and 2× 3.5" bays (1 less). N4 Rev.1 wins on GPU clearance and storage. Both have USB-C, 360mm front radiator, ARGB fans. Choose N4 Rev.1 for GPU clearance or storage needs; N7 Plus V2 if 21-unit stock availability is a priority (vs 9 for N4).
 
-- **vs Zalman I3 Neo Black ($139, same price):** I3 Neo lacks USB-C and 360mm radiator. N4 Rev.1 wins on every spec except stock level (24 units for I3 Neo vs 9 for N4). For spec, N4 Rev.1 is clearly superior at the same price.
+- **vs Zalman I3 Neo Black (same price):** I3 Neo lacks USB-C and 360mm radiator. N4 Rev.1 wins on every spec except stock level (24 units for I3 Neo vs 9 for N4). For spec, N4 Rev.1 is clearly superior at the same price.
 
-- **vs Jonsbo D41 Mesh Black ($119):** D41 Mesh is $20 less with 400mm GPU clearance (20mm more than N4 Rev.1) and mesh front airflow — but no included fans. N4 Rev.1 includes ARGB fans + 3× 3.5" HDD + USB-C at $20 more. For maximum GPU clearance, D41 Mesh. For included fans and storage, N4 Rev.1.
+- **vs Jonsbo D41 Mesh Black:** D41 Mesh is $20 less with 400mm GPU clearance (20mm more than N4 Rev.1) and mesh front airflow — but no included fans. N4 Rev.1 includes ARGB fans + 3× 3.5" HDD + USB-C at $20 more. For maximum GPU clearance, D41 Mesh. For included fans and storage, N4 Rev.1.
 
 ## FAQ
 
@@ -71,9 +71,9 @@ Both Zalman and Jonsbo are above-average for the $139 price tier. Jonsbo's D41 s
 
 ## Related Products
 
-- Zalman N7 Plus V2 (CASZALN7PV2) — $139, same price, 360mm rad + USB-C, 21 units
-- Zalman I3 Neo Black (CASZALI3NEOB) — $139, 24 units, 240mm radiator only
-- Jonsbo D41 Mesh Black (CASJOND41MEB) — $119, 400mm GPU, mesh front, no fans
+- Zalman N7 Plus V2 (CASZALN7PV2) — same price, 360mm rad + USB-C, 21 units
+- Zalman I3 Neo Black (CASZALI3NEOB) — 24 units, 240mm radiator only
+- Jonsbo D41 Mesh Black (CASJOND41MEB) — 400mm GPU, mesh front, no fans
 
 ## Schema (JSON-LD)
 

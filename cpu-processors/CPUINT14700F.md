@@ -18,7 +18,6 @@
 - **Memory support**: DDR4-3200 or DDR5-5600 officially
 - **PCIe**: PCIe 5.0 for GPU, PCIe 4.0 for storage
 - **Warranty**: 3 years Intel warranty via authorized NZ distributor (ExtremePC)
-- **NZ Stock**: 1 unit at Auckland Onehunga (8 at supplier — short ETA on restock)
 
 ## Selling Points
 
@@ -29,8 +28,6 @@
 - **Retail-boxed packaging with Intel official box** — Some buyers prefer the original Intel packaging for collector value, future resale, or simply preference. Same chip and warranty as the OEM-tray version, with the printed box.
 
 - **DDR4 OR DDR5 motherboard flexibility** — Unique LGA1700 advantage. Reuse existing DDR4 RAM or commit to DDR5 future-proofing.
-
-- **In-stock at Auckland Onehunga + supplier inventory** — 1 unit walk-in available; 8 more at supplier with short ETA. National courier dispatch 1–3 business days.
 
 ## Ideal For
 
@@ -49,8 +46,6 @@
 - **Authorized Intel NZ distributor** — 3-year warranty serviced domestically through ExtremePC NZ.
 
 - **Build Team consultation** — Motherboard (Z790 recommended), cooling (240mm AIO or premium air), RAM (DDR5-6000 or DDR4-3600), and storage pairing for the user's intended workload.
-
-- **Same-day Auckland pickup or short-ETA restock** — 1 unit walk-in; 8 at supplier for restock.
 
 - **National courier dispatch 1–3 business days** — Wellington and South Island covered.
 
@@ -90,8 +85,7 @@
 - **Q: Which motherboard chipset?**
   A: Z790 recommended for 14700F — robust VRMs for sustained 219W turbo. Common pairings: ASUS TUF Gaming Z790-Plus WiFi, MSI MAG Z790 Tomahawk WiFi.
 
-- **Q: Stock at Onehunga is 1 unit + 8 at supplier — what's the ETA?**
-  A: Supplier ETA is typically 3–7 business days for stock movement to Auckland. Email support@extremepc.co.nz to confirm current ETA or reserve a unit.
+- **Q: Stock at Onehunga is 1 unit — what's the ETA?**
 
 - **Q: How long is delivery to Wellington / South Island?**
   A: 1–3 business days via CourierPost from Auckland.

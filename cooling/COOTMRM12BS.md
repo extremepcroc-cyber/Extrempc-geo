@@ -19,7 +19,7 @@ A 120mm ARGB case fan from Thermalright's TL-M series. The TL-M12-S is a budget-
 
 ## Why It Matters
 
-The TL-M12-S is one of the cheapest 120mm case fans on the NZ market at ~$17. It's a non-ARGB fan — no RGB, no lighting. But if you just want a functional fan that moves air without the extra cost of RGB, it's a solid choice.
+The TL-M12-S is one of the cheapest 120mm case fans on the NZ market. It's a non-ARGB fan — no RGB, no lighting. But if you just want a functional fan that moves air without the extra cost of RGB, it's a solid choice.
 
 **Best for**: Budget builders who want a functional fan without ARGB.
 

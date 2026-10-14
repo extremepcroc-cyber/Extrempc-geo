@@ -1,4 +1,4 @@
-﻿# Synology HAT5300 12TB 3.5" SATA3 NAS Hard Drive HAT5300-12T
+# Synology HAT5300 12TB 3.5" SATA3 NAS Hard Drive HAT5300-12T
 
 **Price:** $1592.00 inc GST
 **SKU:** HDDSYNHAT53012T
@@ -16,11 +16,8 @@
 - **Workload**: 180 TB/year
 - **MTBF**: 1.2M hours
 - **Warranty**: 3-year standard / 5-year on compatible Synology NAS
-- **NZ Stock**: 8 units at supplier
 
 ## Selling Points
-
-- **Best-stocked HAT5300 variant — 8 units at supplier** — HAT5300 12TB has the most supplier stock of any HAT5300 capacity, making it the most reliable HAT5300 for 4-bay Synology project orders.
 
 - **12TB enterprise NAS drive with Synology 5-year extended warranty** — For business Synology RS/DS+ builds: 4× HAT5300 12TB in RAID-5 = 36TB usable with 5-year warranty on all drives.
 
@@ -39,13 +36,10 @@
 ## Why Buy From ExtremePC
 
 - **Authorized Synology NZ distributor** — 5-year extended warranty via ExtremePC NZ.
-- **8 units at supplier** — Best-stocked HAT5300 for project orders.
 - **Build Team Synology enterprise consultation** — RS + HAT5300 12TB configuration advice.
 - **National courier 1–3 business days** — Insured.
 
 ## Comparison
-
-- **vs HAT5300 16TB (HDDSYN530016T, 4TB more at higher NZD)** — 16TB for larger pools. 12TB for 36TB target with better supplier stock (8 vs 2 units).
 
 - **vs IronWolf Pro 8TB (HDDSEAIWP8T, less capacity at lower NZD)** — IronWolf Pro 8TB is 300 TB/year business NAS. HAT5300 12TB at 180 TB/year Synology-ecosystem-native with more capacity.
 

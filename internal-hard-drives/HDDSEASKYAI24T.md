@@ -58,8 +58,6 @@
 
 ## Comparison
 
-- **vs SkyHawk AI 18TB (HDDSEASKYAI18T, 6TB less at lower NZD, limited supplier stock)** — 18TB for 32-channel systems targeting 45–90 day retention. 24TB when 18TB capacity is insufficient or longer retention is required.
-
 - **vs SkyHawk AI 8TB (HDDSEASKYAI8T, entry AI surveillance tier)** — 8TB for medium commercial CCTV (16–32 cameras, 30-day retention). 24TB for enterprise-scale deployments.
 
 - **vs WD Purple PRO 22TB (HDDWDSPRO22T, competing high-capacity AI surveillance)** — WD Purple PRO 22TB is 2TB less capacity at similar NZD tier. SkyHawk AI 24TB has deeper NZ stock (12 retail units vs limited). Both are validated for AI NVR. For maximum capacity + retail stock reliability, SkyHawk AI 24TB.

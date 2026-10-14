@@ -57,8 +57,6 @@
 
 - **vs Segotep GM650W Black (PSUSEGGM650WB, 100W less at lower NZD)** — GM650W for RTX 4070 / RTX 5070 builds where 650W is confirmed sufficient. WJ750W when GPU TDP is higher (RTX 4070 Ti class) or future upgrade headroom is wanted.
 
-- **vs Thermalright TR-KG750 Black (PSUTMRKG750, same wattage/spec at lower NZD, supplier stock)** — TR-KG750 is lower NZD at supplier stock (1 unit, 3–7 day ETA). WJ750W is higher NZD with 4 retail units at Onehunga (walk-in today). Pay the NZD premium for immediate availability, or wait for TR-KG750.
-
 - **vs Segotep GM850W Black (PSUSEGGM850W1B, +100W at modest NZD premium)** — GM850W 850W for RTX 4070 Ti Super + Core i9 builds or RTX 4080 class. WJ750W for RTX 4070 Ti + mid-range CPU.
 
 - **vs Segotep GM1000W (PSUSEGGM1000W1B, +250W at higher NZD)** — 1000W for RTX 4080 / 5080 and RTX 4090 / 5090 systems. Overkill for 750W-appropriate builds.
@@ -83,7 +81,6 @@
 ## Related Products
 
 - **PSUSEGGM650WB** — Segotep GM650W 650W Black (100W less, lower NZD)
-- **PSUTMRKG750** — Thermalright TR-KG750 750W Black (same spec, lower NZD, supplier stock)
 - **PSUSEGGM850W1B** — Segotep GM850W 850W Black (step up for higher-TDP builds)
 - **PSUTMRKG850W** — Thermalright TR-KG850W 850W White
 

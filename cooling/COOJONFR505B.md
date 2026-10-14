@@ -21,7 +21,7 @@ A 25mm-thin 120mm PWM case fan with ARGB lighting from Jonsbo. The FR-505 is par
 
 ## Why It Matters
 
-The FR-505 is one of the cheapest 120mm ARGB case fans on the NZ market at ~$20. It's not a high-performance fan — you won't get the airflow of a Noctua or a Phanteks — but it's quiet, it looks good with ARGB lighting, and it's cheap enough to fill a case without breaking the bank.
+The FR-505 is one of the cheapest 120mm ARGB case fans on the NZ market. It's not a high-performance fan — you won't get the airflow of a Noctua or a Phanteks — but it's quiet, it looks good with ARGB lighting, and it's cheap enough to fill a case without breaking the bank.
 
 The 25mm slim profile is a practical plus. Many cases have tight clearance between the fan mount and the front panel or radiator, and a standard 25mm fan (like a Noctua NF-A12x25) won't fit in some of those spaces. The FR-505 is thin enough to squeeze into most standard mounts.
 

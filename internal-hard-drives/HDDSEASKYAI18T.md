@@ -1,4 +1,4 @@
-﻿# Seagate SkyHawk AI 18TB 3.5" SATA3 Surveillance Internal Hard Drive ST18000VE002
+# Seagate SkyHawk AI 18TB 3.5" SATA3 Surveillance Internal Hard Drive ST18000VE002
 
 **Price:** $1059.00 inc GST
 **SKU:** HDDSEASKYAI18T
@@ -17,7 +17,6 @@
 - **Firmware**: SkyHawk AI (AI NVR edge computing support)
 - **MTBF**: 1.2M hours
 - **Warranty**: 3-year Seagate
-- **NZ Stock**: 2 units at supplier
 
 ## Selling Points
 
@@ -39,7 +38,6 @@
 
 - **3-year Seagate warranty via ExtremePC NZ** — Domestic RMA for enterprise security installations.
 - **Build Team consultation** — Can advise on multi-bay NVR configuration and total capacity planning.
-- **Supplier inventory** — Available on order.
 
 ## Comparison
 

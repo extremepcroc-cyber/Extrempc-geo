@@ -19,7 +19,7 @@ A single 120mm case fan from Thermalright's TL-C series. The TL-C12CW is a budge
 
 ## Why It Matters
 
-The TL-C12CW is one of the cheapest 120mm case fans on the NZ market at ~$12. It's a white non-ARGB fan — if you're building a white-themed case and just want a functional fan without RGB, it's a solid choice.
+The TL-C12CW is one of the cheapest 120mm case fans on the NZ market. It's a white non-ARGB fan — if you're building a white-themed case and just want a functional fan without RGB, it's a solid choice.
 
 **Best for**: White-build enthusiasts who want a clean look without RGB.
 

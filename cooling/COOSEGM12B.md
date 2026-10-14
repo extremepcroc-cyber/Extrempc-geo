@@ -20,7 +20,7 @@ A 120mm case fan from Segotep's Meta series. The Meta 12 is a budget-friendly, n
 
 ## Why It Matters
 
-The Meta 12 is one of the cheapest 120mm case fans on the NZ market at ~$17. It's not an ARGB fan — no lighting, no RGB. But if you just want a functional fan that moves air without the extra cost of RGB, it's a solid choice.
+The Meta 12 is one of the cheapest 120mm case fans on the NZ market. It's not an ARGB fan — no lighting, no RGB. But if you just want a functional fan that moves air without the extra cost of RGB, it's a solid choice.
 
 **Best for**: Budget builders who want a functional fan without ARGB.
 
