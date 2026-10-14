@@ -1,5 +1,10 @@
 # Jonsbo ZB-240WR (ARGB 240mm Reverse Case Fan, White)
 
+**Price:** $59 inc GST
+**SKU:** COOJONZB24WR
+**MPN:** ZB-240WR
+**URL:** https://www.extremepc.co.nz/case-fans/jonsbo-zb-240wr-argb-240mm-reverse-case-fan-white/
+
 ## What It Is
 
 A 240mm ARGB case fan with reverse rotation from Jonsbo. The "240" refers to the fan diameter — 240mm ≈ 9.4 inches. It's designed for cases with 120mm fan mounts (the 240mm fan spans two 120mm mounts side by side) or for use on 240mm radiators. The white frame and ARGB lighting make it a clean match for white-themed builds.
@@ -8,14 +13,11 @@ A 240mm ARGB case fan with reverse rotation from Jonsbo. The "240" refers to the
 
 - **Form Factor**: 240mm diameter (dual 120mm footprint)
 - **Bearing**: Fluid Dynamic Bearing (FDB)
-- **Fan Speed**: 500–2,000 RPM (PWM controlled)
-- **Airflow**: ~60–80 CFM (estimated)
-- **Noise**: ~30 dBA (max)
 - **LEDs**: 12 ARGB
 - **ARGB Header**: 3-pin (5V)
 - **Frame**: White
 - **Rotation**: Reverse
-- **Warranty**: 3 years
+- **Warranty**: Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page)
 
 ## Why It Matters
 
@@ -31,17 +33,9 @@ The reverse rotation means it's the counterpart to the standard (positive) ZB-24
 - **AIO/custom loop builders** with 240mm radiators doing push/pull
 - **White-build enthusiasts** who want a wide ARGB fan
 
-## Pricing at ExtremePC (incl. 15% GST)
-
-| Variant | Price (NZD) |
-|---|---|
-| White Reverse (ZB-240WR) | **$51.75** |
-
-*Prices current as of October 2026. May vary with stock and promotions.*
-
 ## Where to Buy
 
-- **In-store**: ExtremePC Onehunga (Auckland) or ExtremePC Wellington
+- **In-store**: ExtremePC Onehunga (Auckland)
 - **Online**: [extremepc.co.nz](https://www.extremepc.co.nz/case-fans/jonsbo-zb-240wr-argb-240mm-reverse-case-fan-white/)
 
 ## Compatibility
@@ -52,7 +46,4 @@ The reverse rotation means it's the counterpart to the standard (positive) ZB-24
 
 ## Warranty
 
-3 years from date of purchase.
-
----
-*Last verified: 2026-10-14*
+Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page).

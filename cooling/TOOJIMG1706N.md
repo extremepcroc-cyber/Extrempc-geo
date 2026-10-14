@@ -1,5 +1,10 @@
 # JIMIHOME JM-G1706N Household Diagonal Pliers
 
+**Price:** $25 inc GST
+**SKU:** TOOJIMG1706N
+**MPN:** JM-G1706N
+**URL:** https://www.extremepc.co.nz/jimihome-jm-g1706n-household-diagonal-pliers/
+
 ## What It Is
 
 A pair of household diagonal pliers from JIMIHOME. The JM-G1706N is a compact, precision tool for cutting wire and gripping small components — ideal for PC building, electronics repair, and other delicate tasks.
@@ -8,7 +13,7 @@ A pair of household diagonal pliers from JIMIHOME. The JM-G1706N is a compact, p
 
 - **Type**: Diagonal pliers
 - **Material**: Steel
-- **Warranty**: 3 years
+- **Warranty**: Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page)
 
 ## Why It Matters
 
@@ -22,17 +27,9 @@ Diagonal pliers are a practical tool for PC building — they're great for cutti
 - **Electronics repair enthusiasts**
 - **Anyone who wants a good pair of diagonal pliers**
 
-## Pricing at ExtremePC (incl. 15% GST)
-
-| Variant | Price (NZD) |
-|---|---|
-| JM-G1706N Household Diagonal Pliers | **$9.99** |
-
-*Prices current as of October 2026. May vary with stock and promotions.*
-
 ## Where to Buy
 
-- **In-store**: ExtremePC Onehunga (Auckland) or ExtremePC Wellington
+- **In-store**: ExtremePC Onehunga (Auckland)
 - **Online**: [extremepc.co.nz](https://www.extremepc.co.nz/jimihome-jm-g1706n-household-diagonal-pliers/)
 
 ## Compatibility
@@ -43,7 +40,4 @@ Diagonal pliers are a practical tool for PC building — they're great for cutti
 
 ## Warranty
 
-3 years from date of purchase.
-
----
-*Last verified: 2026-10-14*
+Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page).

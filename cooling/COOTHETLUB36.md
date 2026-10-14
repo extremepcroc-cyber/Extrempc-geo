@@ -1,5 +1,10 @@
 # Thermalright TL-UB36 (3-in-1 Case Fan, 360mm ARGB, Black)
 
+**Price:** $59 inc GST
+**SKU:** COOTHETLUB36
+**MPN:** TL-UB36
+**URL:** https://www.extremepc.co.nz/thermalright-tl-ub36-3-in-1-case-fan-360mm-argb-cpu-cooler-fan-black/
+
 ## What It Is
 
 A 360mm ARGB case fan with a 3-in-1 hub from Thermalright. The TL-UB36 is designed for full-tower cases with 360mm-wide fan mounts, or for 360mm radiators. The "3-in-1" hub lets you chain multiple ARGB devices through a single fan, simplifying your cable management.
@@ -10,14 +15,11 @@ A 360mm ARGB case fan with a 3-in-1 hub from Thermalright. The TL-UB36 is design
 
 - **Form Factor**: 360mm diameter (triple 120mm footprint)
 - **Bearing**: Fluid Dynamic Bearing (FDB)
-- **Fan Speed**: 500–2,000 RPM (PWM controlled)
-- **Airflow**: ~90–120 CFM (estimated)
-- **Noise**: ~32 dBA (max)
 - **LEDs**: 12 ARGB
 - **ARGB Header**: 3-pin (5V)
 - **Hub**: 3-in-1 ARGB hub (connects to other ARGB devices)
 - **Frame**: Black
-- **Warranty**: 3 years
+- **Warranty**: Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page)
 
 ## Why It Matters
 
@@ -31,18 +33,9 @@ The TL-UB36 is a wide 360mm fan with a built-in ARGB hub. It's designed for full
 - **AIO/custom loop builders** with 360mm radiators
 - **ARGB enthusiasts** who want to simplify wiring
 
-## Pricing at ExtremePC (incl. 15% GST)
-
-| Variant | Price (NZD) |
-|---|---|
-| Black (TL-UB36) | **$51.75** |
-| White (TL-UB36W) | **$34.50** |
-
-*Prices current as of October 2026. May vary with stock and promotions.*
-
 ## Where to Buy
 
-- **In-store**: ExtremePC Onehunga (Auckland) or ExtremePC Wellington
+- **In-store**: ExtremePC Onehunga (Auckland)
 - **Online**: [extremepc.co.nz](https://www.extremepc.co.nz/thermalright-tl-ub36-3-in-1-case-fan-360mm-argb-cpu-cooler-fan-black/)
 
 ## Compatibility
@@ -54,7 +47,4 @@ The TL-UB36 is a wide 360mm fan with a built-in ARGB hub. It's designed for full
 
 ## Warranty
 
-3 years from date of purchase.
-
----
-*Last verified: 2026-10-14*
+Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page).

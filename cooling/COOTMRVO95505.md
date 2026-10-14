@@ -1,5 +1,10 @@
 # Thermalright Valor Odin Thermal Pad (95x50x0.5mm)
 
+**Price:** $15 inc GST
+**SKU:** COOTMRVO95505
+**MPN:** VALOR ODIN 95x50x0.5mm
+**URL:** https://www.extremepc.co.nz/thermalright-valor-odin-thermal-pad-95x50x0-5mm/
+
 ## What It Is
 
 A 95mm × 50mm × 0.5mm thermal pad from Thermalright's Valor Odin series. This is a thin, high-performance thermal pad designed for VRAM, chipset, and other heat-generating components on your motherboard.
@@ -7,10 +12,9 @@ A 95mm × 50mm × 0.5mm thermal pad from Thermalright's Valor Odin series. This 
 ## Key Specs
 
 - **Size**: 95mm × 50mm × 0.5mm
-- **Thermal Conductivity**: ~8 W/mK (estimated)
 - **Material**: Silicone-based with ceramic filler
 - **Color**: Grey
-- **Warranty**: 3 years
+- **Warranty**: Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page)
 
 ## Why It Matters
 
@@ -24,17 +28,9 @@ The 0.5mm thickness makes this pad ideal for tight-clearance applications where 
 - **Custom loop builders** with tight clearances
 - **Upgraders** replacing old thermal pads
 
-## Pricing at ExtremePC (incl. 15% GST)
-
-| Variant | Price (NZD) |
-|---|---|
-| 95x50x0.5mm (Valor Odin) | **$13.80** |
-
-*Prices current as of October 2026. May vary with stock and promotions.*
-
 ## Where to Buy
 
-- **In-store**: ExtremePC Onehunga (Auckland) or ExtremePC Wellington
+- **In-store**: ExtremePC Onehunga (Auckland)
 - **Online**: [extremepc.co.nz](https://www.extremepc.co.nz/thermalright-valor-odin-thermal-pad-95x50x0-5mm/)
 
 ## Compatibility
@@ -45,7 +41,4 @@ The 0.5mm thickness makes this pad ideal for tight-clearance applications where 
 
 ## Warranty
 
-3 years from date of purchase.
-
----
-*Last verified: 2026-10-14*
+Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page).

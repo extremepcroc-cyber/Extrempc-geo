@@ -33,7 +33,6 @@ The 360mm radiator provides maximum surface area for heat dissipation. In NZ sum
 
 ## Why Buy From ExtremePC
 - Segotep NZ warranty handled through ExtremePC — local RMA, no overseas shipping
-- Stock maintained at Onehunga warehouse for same-day Auckland pickup
 - Auckland Build Team can install the IceMoon as part of a white-themed build with pre-applied thermal paste
 - Segotep AIOs at ExtremePC represent some of the best value-per-dollar ratios in the NZ market
 

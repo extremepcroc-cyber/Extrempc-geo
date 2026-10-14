@@ -36,7 +36,6 @@
 
 ## Why Buy From ExtremePC
 - **ASRock authorized NZ distributor** — 6-year warranty serviced through ExtremePC Auckland. Local RMA, no international shipping required.
-- **Onehunga warehouse availability** — 11 units in stock for same-day Auckland pickup or next-day delivery nationwide.
 - **Auckland Build Team integration** — the build team will install the Steel Legend, configure Polychrome SYNC or motherboard ARGB headers, and verify pump head display output before dispatch.
 - **Paired with the white variant** — ExtremePC stocks both the Dark (black) and white (COOASRSL360W) Steel Legend 360, so builders can match their color scheme without sourcing from multiple retailers.
 

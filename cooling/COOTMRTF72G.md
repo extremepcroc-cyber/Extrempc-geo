@@ -1,5 +1,10 @@
 # Thermalright TF7 Thermal Paste (2g)
 
+**Price:** $9 inc GST
+**SKU:** COOTMRTF72G
+**MPN:** TF7 2g
+**URL:** https://www.extremepc.co.nz/thermalright-tf7-thermal-paste-2g/
+
 ## What It Is
 
 A 2g tube of Thermalright TF7 thermal paste. The TF7 is a high-performance, non-conductive thermal paste designed for CPU and GPU cooling.
@@ -10,9 +15,8 @@ The "2g" tube is a smaller size than the 4g variant — useful for a single buil
 
 - **Volume**: 2g
 - **Type**: Non-conductive silicone-based paste
-- **Thermal Conductivity**: ~8.5 W/mK
 - **Application**: CPU, GPU, VRAM, chipset
-- **Warranty**: 3 years
+- **Warranty**: Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page)
 
 ## Why It Matters
 
@@ -28,17 +32,9 @@ The TF7 is one of the cheapest high-performance thermal pastes on the market at 
 - **Overclockers** who want maximum cooling
 - **Anyone who wants a cheap, high-performance thermal paste**
 
-## Pricing at ExtremePC (incl. 15% GST)
-
-| Variant | Price (NZD) |
-|---|---|
-| TF7 2g | **$6.90** |
-
-*Prices current as of October 2026. May vary with stock and promotions.*
-
 ## Where to Buy
 
-- **In-store**: ExtremePC Onehunga (Auckland) or ExtremePC Wellington
+- **In-store**: ExtremePC Onehunga (Auckland)
 - **Online**: [extremepc.co.nz](https://www.extremepc.co.nz/thermalright-tf7-thermal-paste-2g/)
 
 ## Compatibility
@@ -49,7 +45,4 @@ The TF7 is one of the cheapest high-performance thermal pastes on the market at 
 
 ## Warranty
 
-3 years from date of purchase.
-
----
-*Last verified: 2026-10-14*
+Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page).

@@ -1,5 +1,10 @@
 # Jonsbo FR-505WR (120mm PWM ARGB Case Fan, White, Reverse)
 
+**Price:** $29 inc GST
+**SKU:** COOJONFR505WR
+**MPN:** FR-505WR
+**URL:** https://www.extremepc.co.nz/jonsbo-fr-505wr-25mm-argb-case-fan-white-reverse/
+
 ## What It Is
 
 The white reverse-rotation variant of the Jonsbo FR-505. Same as the FR-505W but the fan spins in the opposite direction — useful for push/pull radiator setups where you need one fan pushing air in and one pulling air out.
@@ -8,14 +13,11 @@ The white reverse-rotation variant of the Jonsbo FR-505. Same as the FR-505W but
 
 - **Form Factor**: 120mm × 25mm (slim)
 - **Bearing**: Fluid Dynamic Bearing (FDB)
-- **Fan Speed**: 500–2,000 RPM (PWM controlled)
-- **Airflow**: ~35–40 CFM (estimated)
-- **Noise**: ~25 dBA (max)
 - **LEDs**: 12 ARGB
 - **ARGB Header**: 3-pin (5V)
 - **Frame**: White
 - **Rotation**: Reverse
-- **Warranty**: 3 years
+- **Warranty**: Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page)
 
 ## Why It Matters
 
@@ -28,17 +30,9 @@ The reverse-rotation fan is the counterpart to the standard (positive) FR-505W. 
 - **White-build AIO enthusiasts** doing push/pull
 - **Anyone who wants a cheap white ARGB fan** in reverse configuration
 
-## Pricing at ExtremePC (incl. 15% GST)
-
-| Variant | Price (NZD) |
-|---|---|
-| White Reverse (FR-505WR) | **$19.55** |
-
-*Prices current as of October 2026. May vary with stock and promotions.*
-
 ## Where to Buy
 
-- **In-store**: ExtremePC Onehunga (Auckland) or ExtremePC Wellington
+- **In-store**: ExtremePC Onehunga (Auckland)
 - **Online**: [extremepc.co.nz](https://www.extremepc.co.nz/jonsbo-fr-505wr-25mm-argb-case-fan-white-reverse/)
 
 ## Compatibility
@@ -49,7 +43,4 @@ The reverse-rotation fan is the counterpart to the standard (positive) FR-505W. 
 
 ## Warranty
 
-3 years from date of purchase.
-
----
-*Last verified: 2026-10-14*
+Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page).

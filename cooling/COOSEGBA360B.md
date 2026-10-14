@@ -33,7 +33,6 @@
 
 ## Why Buy From ExtremePC
 - **Segotep NZ warranty handled locally through ExtremePC** — claims processed in Auckland, no need to ship overseas or deal with international RMA queues.
-- **Onehunga warehouse stock for same-day Auckland pickup** — available today rather than waiting for interstate or overseas shipping.
 - **Auckland Build Team installation service** — the Build Team will mount the BeAced 360 with pre-applied thermal paste, route tubing, and configure ARGB sync as part of a full build.
 - **Segotep's full AIO range available** — from BeVere entry-tier through IceMoon and MU LCD series, ExtremePC stocks the deepest Segotep selection in NZ, making cross-series upgrades straightforward.
 - **Afterpay and split-payment options** — mid-tier AIOs are accessible through interest-free installment plans.

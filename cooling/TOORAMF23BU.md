@@ -1,5 +1,10 @@
 # REMAX lcying Bladeless Neckband Fan (Blue)
 
+**Price:** $39 inc GST
+**SKU:** TOORAMF23BU
+**MPN:** F23 BU
+**URL:** https://www.extremepc.co.nz/remax-lcying-bladeless-neckband-fan-blue/
+
 ## What It Is
 
 A bladeless neckband fan from REMAX. The lcying is a portable, wearable fan that attaches around your neck — great for staying cool while gaming, working, or on the go.
@@ -8,7 +13,7 @@ A bladeless neckband fan from REMAX. The lcying is a portable, wearable fan that
 
 - **Type**: Bladeless neckband fan
 - **Color**: Blue
-- **Warranty**: 3 years
+- **Warranty**: Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page)
 
 ## Why It Matters
 
@@ -22,17 +27,9 @@ A neckband fan is a practical accessory for staying cool — it's great for PC b
 - **Gamers** who want a portable fan
 - **Anyone who wants a good neckband fan**
 
-## Pricing at ExtremePC (incl. 15% GST)
-
-| Variant | Price (NZD) |
-|---|---|
-| lcying Bladeless Neckband Fan (Blue) | **$29** |
-
-*Prices current as of October 2026. May vary with stock and promotions.*
-
 ## Where to Buy
 
-- **In-store**: ExtremePC Onehunga (Auckland) or ExtremePC Wellington
+- **In-store**: ExtremePC Onehunga (Auckland)
 - **Online**: [extremepc.co.nz](https://www.extremepc.co.nz/remax-lcying-bladeless-neckband-fan-blue/)
 
 ## Compatibility
@@ -43,7 +40,4 @@ A neckband fan is a practical accessory for staying cool — it's great for PC b
 
 ## Warranty
 
-3 years from date of purchase.
-
----
-*Last verified: 2026-10-14*
+Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page).

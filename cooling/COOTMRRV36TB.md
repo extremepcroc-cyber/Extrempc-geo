@@ -33,7 +33,6 @@ The FDB bearing fans are rated for 150,000 hours and scale from 500 RPM silent i
 
 ## Why Buy From ExtremePC
 - Thermalright NZ warranty handled locally through ExtremePC — RMA processed in Auckland, no overseas shipping
-- Onehunga warehouse stock available for same-day pickup; the Rainbow Vision is a higher-end item with consistent local availability
 - Auckland Build Team can pair the Rainbow Vision with matching Thermalright case fans for a cohesive cooling aesthetic
 - Afterpay available — the price splits into manageable instalments for premium builds
 

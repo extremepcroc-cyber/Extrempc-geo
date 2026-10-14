@@ -1,5 +1,10 @@
 # Segotep Irisflo U120 (120mm ARGB Case Fan, Black)
 
+**Price:** $19 inc GST
+**SKU:** COOSEGIU120B
+**MPN:** Irisflo U120 black
+**URL:** https://www.extremepc.co.nz/segotep-irisflo-u120-120mm-argb-case-fan-black/
+
 ## What It Is
 
 A 120mm ARGB case fan from Segotep's Irisflo series. The Irisflo U120 is a budget-friendly fan with 12 ARGB LEDs, a PWM connector for speed control, and a black frame. It's part of Segotep's entry-level ARGB fan lineup — cheap, functional, and good enough for most builds.
@@ -9,12 +14,10 @@ A 120mm ARGB case fan from Segotep's Irisflo series. The Irisflo U120 is a budge
 - **Form Factor**: 120mm × 25mm
 - **Bearing**: Fluid Dynamic Bearing (FDB)
 - **Fan Speed**: 500–2,000 RPM (PWM controlled)
-- **Airflow**: ~35–40 CFM (estimated)
-- **Noise**: ~25 dBA (max)
 - **LEDs**: 12 ARGB
 - **ARGB Header**: 3-pin (5V)
 - **Frame**: Black
-- **Warranty**: 3 years
+- **Warranty**: Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page)
 
 ## Why It Matters
 
@@ -28,18 +31,9 @@ The Irisflo U120 is one of the cheapest 120mm ARGB case fans on the NZ market at
 - **Anyone who wants a cheap, functional ARGB fan**
 - **Upgraders** replacing old case fans with something newer
 
-## Pricing at ExtremePC (incl. 15% GST)
-
-| Variant | Price (NZD) |
-|---|---|
-| Black (Irisflo U120) | **$19** |
-| Black Reverse (Irisflo U120F) | **$13.80** |
-
-*Prices current as of October 2026. May vary with stock and promotions.*
-
 ## Where to Buy
 
-- **In-store**: ExtremePC Onehunga (Auckland) or ExtremePC Wellington
+- **In-store**: ExtremePC Onehunga (Auckland)
 - **Online**: [extremepc.co.nz](https://www.extremepc.co.nz/segotep-irisflo-u120-120mm-argb-case-fan-black/)
 
 ## Compatibility
@@ -50,7 +44,4 @@ The Irisflo U120 is one of the cheapest 120mm ARGB case fans on the NZ market at
 
 ## Warranty
 
-3 years from date of purchase.
-
----
-*Last verified: 2026-10-14*
+Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page).

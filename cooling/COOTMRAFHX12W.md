@@ -1,5 +1,10 @@
 # Thermalright ARGB & Fan Hub X12 IR (White)
 
+**Price:** $49 inc GST
+**SKU:** COOTMRAFHX12W
+**MPN:** ARGB AND FAN HUB X12 IR White
+**URL:** https://www.extremepc.co.nz/cooling-accessories/thermalright-argb-and-fan-hub-x12-ir-white-hub-controller/
+
 ## What It Is
 
 The white variant of the Thermalright X12 IR ARGB and fan hub. Same as the X12 IR (black) but with a white housing. 12 ARGB ports, 12 fan speed control ports, and an IR remote.
@@ -11,7 +16,7 @@ The white variant of the Thermalright X12 IR ARGB and fan hub. Same as the X12 I
 - **Input**: 1× 3-pin 5V ARGB (motherboard), 1× 4-pin PWM (motherboard)
 - **Remote**: IR (infrared) — control lighting and speed without software
 - **Color**: White
-- **Warranty**: 3 years
+- **Warranty**: Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page)
 
 ## Why It Matters
 
@@ -24,17 +29,9 @@ A white ARGB and fan hub with 12 ports — a rare combination. If you're buildin
 - **White-build enthusiasts** with multi-fan ARGB setups
 - **Anyone who wants the most ports** in a white ARGB and fan hub
 
-## Pricing at ExtremePC (incl. 15% GST)
-
-| Variant | Price (NZD) |
-|---|---|
-| White (X12 IR) | **$49** |
-
-*Prices current as of October 2026. May vary with stock and promotions.*
-
 ## Where to Buy
 
-- **In-store**: ExtremePC Onehunga (Auckland) or ExtremePC Wellington
+- **In-store**: ExtremePC Onehunga (Auckland)
 - **Online**: [extremepc.co.nz](https://www.extremepc.co.nz/cooling-accessories/thermalright-argb-and-fan-hub-x12-ir-white-hub-controller/)
 
 ## Compatibility
@@ -45,7 +42,4 @@ A white ARGB and fan hub with 12 ports — a rare combination. If you're buildin
 
 ## Warranty
 
-3 years from date of purchase.
-
----
-*Last verified: 2026-10-14*
+Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page).

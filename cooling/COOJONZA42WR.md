@@ -1,5 +1,10 @@
 # Jonsbo ZA-420WR (ARGB 420mm Reverse Case Fan, White)
 
+**Price:** $89 inc GST
+**SKU:** COOJONZA42WR
+**MPN:** ZA-420WR White
+**URL:** https://www.extremepc.co.nz/jonsbo-za-420wr-argb-420mm-reverse-case-fan-white/
+
 ## What It Is
 
 The white reverse-rotation variant of the Jonsbo ZA-420. Same as the ZA-420W but the fan spins in the opposite direction.
@@ -8,14 +13,11 @@ The white reverse-rotation variant of the Jonsbo ZA-420. Same as the ZA-420W but
 
 - **Form Factor**: 420mm diameter (14-inch)
 - **Bearing**: Fluid Dynamic Bearing (FDB)
-- **Fan Speed**: 500–1,800 RPM (PWM controlled)
-- **Airflow**: ~80–100 CFM (estimated)
-- **Noise**: ~35 dBA (max)
 - **LEDs**: 12 ARGB
 - **ARGB Header**: 3-pin (5V)
 - **Frame**: White
 - **Rotation**: Reverse
-- **Warranty**: 3 years
+- **Warranty**: Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page)
 
 ## Why It Matters
 
@@ -26,17 +28,9 @@ The rarest of the ZA-420 family: white + reverse. If you're building a white-the
 - **White-build custom loop enthusiasts** doing push/pull 420mm radiators
 - **Anyone who wants a large white ARGB fan** in reverse configuration
 
-## Pricing at ExtremePC (incl. 15% GST)
-
-| Variant | Price (NZD) |
-|---|---|
-| White Reverse (ZA-420WR) | **$74.75** |
-
-*Prices current as of October 2026. May vary with stock and promotions.*
-
 ## Where to Buy
 
-- **In-store**: ExtremePC Onehunga (Auckland) or ExtremePC Wellington
+- **In-store**: ExtremePC Onehunga (Auckland)
 - **Online**: [extremepc.co.nz](https://www.extremepc.co.nz/jonsbo-za-420wr-argb-420mm-reverse-case-fan-white/)
 
 ## Compatibility
@@ -47,7 +41,4 @@ The rarest of the ZA-420 family: white + reverse. If you're building a white-the
 
 ## Warranty
 
-3 years from date of purchase.
-
----
-*Last verified: 2026-10-14*
+Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page).

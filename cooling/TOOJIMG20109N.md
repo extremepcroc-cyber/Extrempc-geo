@@ -1,5 +1,10 @@
 # JIMIHOME JM-G20109N Household Claw Hammer
 
+**Price:** $25 inc GST
+**SKU:** TOOJIMG20109N
+**MPN:** JM-G20109N
+**URL:** https://www.extremepc.co.nz/jimihome-jm-g20109n-household-claw-hammer/
+
 ## What It Is
 
 A household claw hammer from JIMIHOME. The JM-G20109N is a general-purpose hammer for driving and removing nails — ideal for PC building, furniture assembly, and other tasks.
@@ -8,7 +13,7 @@ A household claw hammer from JIMIHOME. The JM-G20109N is a general-purpose hamme
 
 - **Type**: Claw hammer
 - **Material**: Steel
-- **Warranty**: 3 years
+- **Warranty**: Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page)
 
 ## Why It Matters
 
@@ -22,17 +27,9 @@ A claw hammer is a practical tool for a variety of tasks — driving and removin
 - **Furniture assembly enthusiasts**
 - **Anyone who wants a good claw hammer**
 
-## Pricing at ExtremePC (incl. 15% GST)
-
-| Variant | Price (NZD) |
-|---|---|
-| JM-G20109N Household Claw Hammer | **$11.99** |
-
-*Prices current as of October 2026. May vary with stock and promotions.*
-
 ## Where to Buy
 
-- **In-store**: ExtremePC Onehunga (Auckland) or ExtremePC Wellington
+- **In-store**: ExtremePC Onehunga (Auckland)
 - **Online**: [extremepc.co.nz](https://www.extremepc.co.nz/jimihome-jm-g20109n-household-claw-hammer/)
 
 ## Compatibility
@@ -43,7 +40,4 @@ A claw hammer is a practical tool for a variety of tasks — driving and removin
 
 ## Warranty
 
-3 years from date of purchase.
-
----
-*Last verified: 2026-10-14*
+Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page).

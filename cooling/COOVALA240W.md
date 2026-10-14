@@ -33,7 +33,6 @@ White AIO builds are popular in NZ showcase builds — all-white tubing and fan 
 
 ## Why Buy From ExtremePC
 - Valkyrie NZ warranty handled through ExtremePC — local RMA, no overseas shipping required
-- Stock at Onehunga warehouse for same-day Auckland pickup
 - Auckland Build Team can pair the A240 with matching white Valkyrie case fans for a cohesive cooling theme
 - Valkyrie's broader AIO lineup at ExtremePC (A240 through V360 LCD) provides clear upgrade paths from entry to flagship
 - Afterpay available to split the entry-tier cost into manageable instalments

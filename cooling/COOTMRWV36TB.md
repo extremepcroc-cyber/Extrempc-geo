@@ -33,7 +33,6 @@ At its price point, the Wonder Vision sits a tier below the Rainbow Vision 360 T
 
 ## Why Buy From ExtremePC
 - Thermalright carries 3-year NZ warranty through ExtremePC — longest standard warranty in the flagship AIO segment
-- Stock at Onehunga warehouse for same-day Auckland pickup
 - Auckland Build Team can install with pre-applied thermal paste, torque-spec mounting, and leak-test verification
 - Thermalright's AIO range at ExtremePC spans the entry to flagship tiers — the Wonder Vision is near the top with clear comparison to the Rainbow Vision
 

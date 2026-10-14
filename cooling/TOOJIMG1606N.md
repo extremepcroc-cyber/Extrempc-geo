@@ -1,5 +1,10 @@
 # JIMIHOME JM-G1606N Household Lineman Pliers
 
+**Price:** $25 inc GST
+**SKU:** TOOJIMG1606N
+**MPN:** JM-G1606N
+**URL:** https://www.extremepc.co.nz/jimihome-jm-g1606n-household-lineman-pliers/
+
 ## What It Is
 
 A pair of household lineman pliers from JIMIHOME. The JM-G1606N is a sturdy, general-purpose pliers for gripping, bending, and cutting wire — ideal for PC building, electrical work, and other tasks.
@@ -8,7 +13,7 @@ A pair of household lineman pliers from JIMIHOME. The JM-G1606N is a sturdy, gen
 
 - **Type**: Lineman pliers
 - **Material**: Steel
-- **Warranty**: 3 years
+- **Warranty**: Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page)
 
 ## Why It Matters
 
@@ -22,17 +27,9 @@ Lineman pliers are a practical tool for a variety of tasks — gripping, bending
 - **Electrical work enthusiasts**
 - **Anyone who wants a good pair of lineman pliers**
 
-## Pricing at ExtremePC (incl. 15% GST)
-
-| Variant | Price (NZD) |
-|---|---|
-| JM-G1606N Household Lineman Pliers | **$9.99** |
-
-*Prices current as of October 2026. May vary with stock and promotions.*
-
 ## Where to Buy
 
-- **In-store**: ExtremePC Onehunga (Auckland) or ExtremePC Wellington
+- **In-store**: ExtremePC Onehunga (Auckland)
 - **Online**: [extremepc.co.nz](https://www.extremepc.co.nz/jimihome-jm-g1606n-household-lineman-pliers/)
 
 ## Compatibility
@@ -43,7 +40,4 @@ Lineman pliers are a practical tool for a variety of tasks — gripping, bending
 
 ## Warranty
 
-3 years from date of purchase.
-
----
-*Last verified: 2026-10-14*
+Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page).

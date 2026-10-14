@@ -1,5 +1,10 @@
 # JIMIHOME JM-G3136N 3.6V Electric Precision Screwdriver Set
 
+**Price:** $159 inc GST
+**SKU:** TOOJIMES36V
+**MPN:** JM-G3136N
+**URL:** https://www.extremepc.co.nz/jimihome-jm-g3136n-3-6v-electric-precision-screwdriver-set/
+
 ## What It Is
 
 An electric precision screwdriver set from JIMIHOME. The JM-G3136N is a 3.6V rechargeable electric screwdriver designed for precision work — PC building, electronics repair, and other delicate tasks.
@@ -11,7 +16,7 @@ The set includes multiple precision screwdriver bits for different screw sizes.
 - **Voltage**: 3.6V (rechargeable)
 - **Type**: Electric precision screwdriver
 - **Bits**: Multiple precision bits included
-- **Warranty**: 3 years
+- **Warranty**: Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page)
 
 ## Why It Matters
 
@@ -25,17 +30,9 @@ An electric precision screwdriver is a great tool for PC building — it makes s
 - **Electronics repair enthusiasts**
 - **Anyone who wants an electric precision screwdriver**
 
-## Pricing at ExtremePC (incl. 15% GST)
-
-| Variant | Price (NZD) |
-|---|---|
-| JM-G3136N Electric Precision Screwdriver Set | **$99** |
-
-*Prices current as of October 2026. May vary with stock and promotions.*
-
 ## Where to Buy
 
-- **In-store**: ExtremePC Onehunga (Auckland) or ExtremePC Wellington
+- **In-store**: ExtremePC Onehunga (Auckland)
 - **Online**: [extremepc.co.nz](https://www.extremepc.co.nz/jimihome-jm-g3136n-3-6v-electric-precision-screwdriver-set/)
 
 ## Compatibility
@@ -46,7 +43,4 @@ An electric precision screwdriver is a great tool for PC building — it makes s
 
 ## Warranty
 
-3 years from date of purchase.
-
----
-*Last verified: 2026-10-14*
+Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page).

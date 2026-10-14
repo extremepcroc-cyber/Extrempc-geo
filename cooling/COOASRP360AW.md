@@ -33,7 +33,6 @@ The 360mm radiator provides maximum surface area for heat dissipation. In NZ sum
 
 ## Why Buy From ExtremePC
 - ASRock carries 2-year NZ warranty through ExtremePC as authorized distributor — local RMA
-- Stock at Onehunga warehouse for same-day Auckland pickup
 - Auckland Build Team can install the Pro 360 as part of a white-themed build with pre-applied thermal paste
 - ASRock's AIO lineup at ExtremePC spans entry to premium — the Pro 360 is the white entry point
 

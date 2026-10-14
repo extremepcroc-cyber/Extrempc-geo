@@ -1,5 +1,10 @@
 # JIMIHOME X3-ABG Stackable Tools Combo Layer ABG
 
+**Price:** $299 inc GST
+**SKU:** TOOJIMSTLABG
+**MPN:** X3-ABG
+**URL:** https://www.extremepc.co.nz/jimihome-x3-abg-stackable-tools-combo-layer-abg/
+
 ## What It Is
 
 A stackable tools combo from JIMIHOME. The X3-ABG is a three-layer storage solution for keeping your tools organized and easily accessible — it combines Layers A, B, and G for maximum storage capacity.
@@ -8,7 +13,7 @@ A stackable tools combo from JIMIHOME. The X3-ABG is a three-layer storage solut
 
 - **Type**: Stackable tools combo (Layers A + B + G)
 - **Material**: Plastic/metal
-- **Warranty**: 3 years
+- **Warranty**: Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page)
 
 ## Why It Matters
 
@@ -22,17 +27,9 @@ A stackable tools combo is a practical accessory for keeping your tools organize
 - **DIY enthusiasts**
 - **Anyone who wants a good tools combo with maximum storage**
 
-## Pricing at ExtremePC (incl. 15% GST)
-
-| Variant | Price (NZD) |
-|---|---|
-| X3-ABG Stackable Tools Combo Layer ABG | **$199** |
-
-*Prices current as of October 2026. May vary with stock and promotions.*
-
 ## Where to Buy
 
-- **In-store**: ExtremePC Onehunga (Auckland) or ExtremePC Wellington
+- **In-store**: ExtremePC Onehunga (Auckland)
 - **Online**: [extremepc.co.nz](https://www.extremepc.co.nz/jimihome-x3-abg-stackable-tools-combo-layer-abg/)
 
 ## Compatibility
@@ -43,7 +40,4 @@ A stackable tools combo is a practical accessory for keeping your tools organize
 
 ## Warranty
 
-3 years from date of purchase.
-
----
-*Last verified: 2026-10-14*
+Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page).

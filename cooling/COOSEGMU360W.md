@@ -34,7 +34,6 @@ The FDB bearing fans scale from 500 RPM silent idle to 1900 RPM under load. In N
 
 ## Why Buy From ExtremePC
 - Segotep NZ warranty handled through ExtremePC — local RMA, no overseas shipping
-- Stock at Onehunga warehouse for same-day Auckland pickup
 - Auckland Build Team can install the MU 360 as part of a white-themed build with pre-applied thermal paste
 - Segotep AIOs at ExtremePC represent some of the best value-per-dollar ratios in the NZ market
 

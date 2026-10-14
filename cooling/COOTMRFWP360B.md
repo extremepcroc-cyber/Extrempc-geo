@@ -33,7 +33,6 @@ Thermalright's FDB (Fluid Dynamic Bearing) fans are a class above the sleeve and
 
 ## Why Buy From ExtremePC
 - Thermalright carries NZ warranty through ExtremePC — local RMA, no overseas shipping required
-- Stock at Onehunga warehouse for same-day Auckland pickup; Wellington store carries select Thermalright AIOs
 - Auckland Build Team installs with pre-applied thermal paste, torque-spec mounting, and leak-test verification before handover
 - Thermalright has the deepest AIO inventory at ExtremePC — 18 models across price tiers, making cross-comparison and upgrade paths straightforward
 

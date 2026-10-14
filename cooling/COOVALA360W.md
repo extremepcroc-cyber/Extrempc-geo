@@ -33,7 +33,6 @@ The 360mm radiator provides maximum surface area for heat dissipation. In NZ sum
 
 ## Why Buy From ExtremePC
 - Valkyrie NZ warranty handled through ExtremePC — local RMA, no overseas shipping
-- Stock at Onehunga warehouse for same-day Auckland pickup
 - Auckland Build Team can install the A360 as part of a white-themed build with pre-applied thermal paste
 - Valkyrie's AIO range at ExtremePC spans the entry to flagship tiers — the A360 is the white entry point
 

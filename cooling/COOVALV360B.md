@@ -35,7 +35,6 @@ The 3400 RPM pump and 300W TDP rating position the V360 LCD between Thermalright
 
 ## Why Buy From ExtremePC
 - Valkyrie NZ warranty handled through ExtremePC — local RMA, no overseas shipping required
-- Stock at Onehunga warehouse; the V360 LCD is a premium item with consistent local availability
 - Auckland Build Team can install and configure the LCD display content during build service
 - Afterpay splits the cost into manageable instalments for premium builds
 

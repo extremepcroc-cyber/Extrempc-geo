@@ -1,5 +1,10 @@
 # Jonsbo ZB-360WR (ARGB 360mm Reverse Case Fan, White)
 
+**Price:** $69 inc GST
+**SKU:** COOJONZB36WR
+**MPN:** ZB-360WR
+**URL:** https://www.extremepc.co.nz/case-fans/jonsbo-zb-360wr-argb-360mm-reverse-case-fan-white/
+
 ## What It Is
 
 The white reverse-rotation variant of the Jonsbo ZB-360. Same as the ZB-360W but the fan spins in the opposite direction.
@@ -8,14 +13,11 @@ The white reverse-rotation variant of the Jonsbo ZB-360. Same as the ZB-360W but
 
 - **Form Factor**: 360mm diameter (triple 120mm footprint)
 - **Bearing**: Fluid Dynamic Bearing (FDB)
-- **Fan Speed**: 500–2,000 RPM (PWM controlled)
-- **Airflow**: ~90–120 CFM (estimated)
-- **Noise**: ~32 dBA (max)
 - **LEDs**: 12 ARGB
 - **ARGB Header**: 3-pin (5V)
 - **Frame**: White
 - **Rotation**: Reverse
-- **Warranty**: 3 years
+- **Warranty**: Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page)
 
 ## Why It Matters
 
@@ -26,17 +28,9 @@ The rarest of the ZB-360 family: white + reverse. If you're building a white-the
 - **White-build custom loop enthusiasts** doing push/pull 360mm radiators
 - **Anyone who wants a wide white ARGB fan** in reverse configuration
 
-## Pricing at ExtremePC (incl. 15% GST)
-
-| Variant | Price (NZD) |
-|---|---|
-| White Reverse (ZB-360WR) | **$63.25** |
-
-*Prices current as of October 2026. May vary with stock and promotions.*
-
 ## Where to Buy
 
-- **In-store**: ExtremePC Onehunga (Auckland) or ExtremePC Wellington
+- **In-store**: ExtremePC Onehunga (Auckland)
 - **Online**: [extremepc.co.nz](https://www.extremepc.co.nz/case-fans/jonsbo-zb-360wr-argb-360mm-reverse-case-fan-white/)
 
 ## Compatibility
@@ -47,7 +41,4 @@ The rarest of the ZB-360 family: white + reverse. If you're building a white-the
 
 ## Warranty
 
-3 years from date of purchase.
-
----
-*Last verified: 2026-10-14*
+Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page).

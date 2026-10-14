@@ -33,7 +33,6 @@ The 240mm form factor is the most versatile radiator size for mid-tower builds. 
 
 ## Why Buy From ExtremePC
 - Valkyrie NZ warranty handled through ExtremePC — local RMA, no overseas shipping
-- Stock at Onehunga warehouse for same-day Auckland pickup
 - Auckland Build Team can pair the A240 with matching Valkyrie case fans for a cohesive cooling theme
 - Valkyrie's broader AIO lineup at ExtremePC (A240 through V360 LCD) provides clear upgrade paths
 

@@ -33,7 +33,6 @@ The V2 revision specifically addresses pump noise — a common complaint on the 
 
 ## Why Buy From ExtremePC
 - DeepCool NZ warranty handled through ExtremePC — local RMA, no overseas shipping
-- Stock at Onehunga warehouse for same-day Auckland pickup
 - Auckland Build Team can install with pre-applied thermal paste verification
 - DeepCool's broader cooling lineup at ExtremePC (air coolers, AIOs, case fans) provides cross-component compatibility
 

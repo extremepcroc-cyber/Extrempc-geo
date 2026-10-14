@@ -1,5 +1,10 @@
 # Jonsbo ZA-420W (ARGB 420mm Case Fan, White)
 
+**Price:** $89 inc GST
+**SKU:** COOJONZA420W
+**MPN:** ZA-420W White
+**URL:** https://www.extremepc.co.nz/jonsbo-za-420w-argb-420mm-case-fan-white/
+
 ## What It Is
 
 The white variant of the Jonsbo ZA-420 420mm ARGB case fan. Same as the ZA-420B but with a white frame. 420mm (14-inch) diameter, 12 ARGB LEDs, PWM speed control.
@@ -8,13 +13,10 @@ The white variant of the Jonsbo ZA-420 420mm ARGB case fan. Same as the ZA-420B 
 
 - **Form Factor**: 420mm diameter (14-inch)
 - **Bearing**: Fluid Dynamic Bearing (FDB)
-- **Fan Speed**: 500–1,800 RPM (PWM controlled)
-- **Airflow**: ~80–100 CFM (estimated)
-- **Noise**: ~35 dBA (max)
 - **LEDs**: 12 ARGB
 - **ARGB Header**: 3-pin (5V)
 - **Frame**: White
-- **Warranty**: 3 years
+- **Warranty**: Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page)
 
 ## Why It Matters
 
@@ -27,18 +29,9 @@ A 420mm fan in white — a rare combination. Most large fans come in black, so i
 - **White-build custom loop enthusiasts**
 - **Anyone who needs a 420mm fan** in white
 
-## Pricing at ExtremePC (incl. 15% GST)
-
-| Variant | Price (NZD) |
-|---|---|
-| White (ZA-420W) | **$63.25** |
-| White Reverse (ZA-420WR) | **$74.75** |
-
-*Prices current as of October 2026. May vary with stock and promotions.*
-
 ## Where to Buy
 
-- **In-store**: ExtremePC Onehunga (Auckland) or ExtremePC Wellington
+- **In-store**: ExtremePC Onehunga (Auckland)
 - **Online**: [extremepc.co.nz](https://www.extremepc.co.nz/jonsbo-za-420w-argb-420mm-case-fan-white/)
 
 ## Compatibility
@@ -49,7 +42,4 @@ A 420mm fan in white — a rare combination. Most large fans come in black, so i
 
 ## Warranty
 
-3 years from date of purchase.
-
----
-*Last verified: 2026-10-14*
+Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page).

@@ -1,5 +1,10 @@
 # REMAX Handheld High-Endurance Small Cannon Fan (Black)
 
+**Price:** $39 inc GST
+**SKU:** TOORAMSF21BK
+**MPN:** RS-SF21 BK
+**URL:** https://www.extremepc.co.nz/remax-handheld-high-endurance-small-cannon-fan-black/
+
 ## What It Is
 
 A handheld high-endurance small cannon fan from REMAX. The RS-SF21 is a portable, powerful fan for staying cool while gaming, working, or on the go.
@@ -8,7 +13,7 @@ A handheld high-endurance small cannon fan from REMAX. The RS-SF21 is a portable
 
 - **Type**: Handheld high-endurance small cannon fan
 - **Color**: Black
-- **Warranty**: 3 years
+- **Warranty**: Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page)
 
 ## Why It Matters
 
@@ -22,17 +27,9 @@ A handheld fan is a practical accessory for staying cool — it's great for PC b
 - **Gamers** who want a portable fan
 - **Anyone who wants a good handheld fan**
 
-## Pricing at ExtremePC (incl. 15% GST)
-
-| Variant | Price (NZD) |
-|---|---|
-| RS-SF21 Handheld High-Endurance Small Cannon Fan (Black) | **$39** |
-
-*Prices current as of October 2026. May vary with stock and promotions.*
-
 ## Where to Buy
 
-- **In-store**: ExtremePC Onehunga (Auckland) or ExtremePC Wellington
+- **In-store**: ExtremePC Onehunga (Auckland)
 - **Online**: [extremepc.co.nz](https://www.extremepc.co.nz/remax-handheld-high-endurance-small-cannon-fan-black/)
 
 ## Compatibility
@@ -43,7 +40,4 @@ A handheld fan is a practical accessory for staying cool — it's great for PC b
 
 ## Warranty
 
-3 years from date of purchase.
-
----
-*Last verified: 2026-10-14*
+Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page).

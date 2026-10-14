@@ -1,5 +1,10 @@
 # JIMIHOME JM-G603N 8 Inch Adjustable Wrench
 
+**Price:** $29 inc GST
+**SKU:** TOOJIMG603N
+**MPN:** JM-G603N
+**URL:** https://www.extremepc.co.nz/jimihome-jm-g603n-8-inch-adjustable-wrench/
+
 ## What It Is
 
 An 8-inch adjustable wrench from JIMIHOME. The JM-G603N is a versatile tool for gripping and turning nuts and bolts — ideal for PC building, mechanical work, and other tasks.
@@ -9,7 +14,7 @@ An 8-inch adjustable wrench from JIMIHOME. The JM-G603N is a versatile tool for 
 - **Size**: 8 inches
 - **Type**: Adjustable wrench
 - **Material**: Steel
-- **Warranty**: 3 years
+- **Warranty**: Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page)
 
 ## Why It Matters
 
@@ -23,17 +28,9 @@ An adjustable wrench is a practical tool for a variety of tasks — gripping and
 - **Mechanical work enthusiasts**
 - **Anyone who wants a good adjustable wrench**
 
-## Pricing at ExtremePC (incl. 15% GST)
-
-| Variant | Price (NZD) |
-|---|---|
-| JM-G603N 8 Inch Adjustable Wrench | **$13.80** |
-
-*Prices current as of October 2026. May vary with stock and promotions.*
-
 ## Where to Buy
 
-- **In-store**: ExtremePC Onehunga (Auckland) or ExtremePC Wellington
+- **In-store**: ExtremePC Onehunga (Auckland)
 - **Online**: [extremepc.co.nz](https://www.extremepc.co.nz/jimihome-jm-g603n-8-inch-adjustable-wrench/)
 
 ## Compatibility
@@ -44,7 +41,4 @@ An adjustable wrench is a practical tool for a variety of tasks — gripping and
 
 ## Warranty
 
-3 years from date of purchase.
-
----
-*Last verified: 2026-10-14*
+Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page).

@@ -1,5 +1,10 @@
 # Jonsbo ZB-360B (ARGB 360mm Case Fan, Black)
 
+**Price:** $69 inc GST
+**SKU:** COOJONZB360B
+**MPN:** ZB-360B
+**URL:** https://www.extremepc.co.nz/case-fans/jonsbo-zb-360b-argb-360mm-case-fan-black/
+
 ## What It Is
 
 A 360mm ARGB case fan from Jonsbo. The "360" refers to the fan diameter — 360mm spans three 120mm fan mounts side by side. It's designed for full-tower cases with 360mm-wide fan mounts, or for 360mm radiators where you want a single wide fan instead of three 120mm fans.
@@ -10,13 +15,10 @@ A 360mm ARGB case fan from Jonsbo. The "360" refers to the fan diameter — 360m
 
 - **Form Factor**: 360mm diameter (triple 120mm footprint)
 - **Bearing**: Fluid Dynamic Bearing (FDB)
-- **Fan Speed**: 500–2,000 RPM (PWM controlled)
-- **Airflow**: ~90–120 CFM (estimated)
-- **Noise**: ~32 dBA (max)
 - **LEDs**: 12 ARGB
 - **ARGB Header**: 3-pin (5V)
 - **Frame**: Black
-- **Warranty**: 3 years
+- **Warranty**: Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page)
 
 ## Why It Matters
 
@@ -30,20 +32,9 @@ A 360mm fan is a niche product. It's designed for cases that have a 360mm-wide f
 - **AIO/custom loop builders** with 360mm radiators
 - **Anyone who wants a wide ARGB fan** for high airflow
 
-## Pricing at ExtremePC (incl. 15% GST)
-
-| Variant | Price (NZD) |
-|---|---|
-| Black (ZB-360B) | **$63.25** |
-| White (ZB-360W) | **$63.25** |
-| Black Reverse (ZB-360BR) | **$63.25** |
-| White Reverse (ZB-360WR) | **$63.25** |
-
-*Prices current as of October 2026. May vary with stock and promotions.*
-
 ## Where to Buy
 
-- **In-store**: ExtremePC Onehunga (Auckland) or ExtremePC Wellington
+- **In-store**: ExtremePC Onehunga (Auckland)
 - **Online**: [extremepc.co.nz](https://www.extremepc.co.nz/case-fans/jonsbo-zb-360b-argb-360mm-case-fan-black/)
 
 ## Compatibility
@@ -54,7 +45,4 @@ A 360mm fan is a niche product. It's designed for cases that have a 360mm-wide f
 
 ## Warranty
 
-3 years from date of purchase.
-
----
-*Last verified: 2026-10-14*
+Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page).

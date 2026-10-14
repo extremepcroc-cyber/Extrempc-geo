@@ -33,10 +33,8 @@
 - **Auckland summer gaming rigs** — Gamers in North Island locations where indoor temperatures regularly hit 25C+ during summer. The 360mm form factor provides thermal margin that 240mm AIOs cannot match, preventing CPU throttling during extended gaming sessions.
 
 ## Why Buy From ExtremePC
-- **3-year NZ warranty through ExtremePC** — Thermalright's warranty is processed locally at the Onehunga warehouse. Pump failures, ARGB issues, or manufacturing defects are handled through ExtremePC's support team without overseas RMA shipping.
 - **Auckland Build Team integration** — ExtremePC's build team installs the Trofeo Vision with thermal paste application, ARGB cable routing, and motherboard synchronization verification. The team is familiar with Thermalright's mounting system and can optimize fan curves for your specific CPU.
 - **Complete Thermalright AIO range in stock** — From Aqua Elite entry-tier through Wonder Vision Turbo flagship, ExtremePC carries the full Thermalright AIO lineup. This makes cross-tier comparisons easy and future upgrades straightforward.
-- **Local stock, same-day Auckland pickup** — Units held at the Onehunga warehouse for immediate collection, avoiding the 2-3 week wait for overseas orders.
 
 ## Comparison
 

@@ -1,5 +1,10 @@
 # Thermalright TL-S12RW (120mm ARGB Reverse Case Fan, White)
 
+**Price:** $15 inc GST
+**SKU:** COOTMRTLS12RW
+**MPN:** TL-S12RW
+**URL:** https://www.extremepc.co.nz/thermalright-tl-s12rw-120mm-argb-reverse-case-fan-white/
+
 ## What It Is
 
 A 120mm ARGB reverse-rotation case fan from Thermalright. The TL-S12RW is the white reverse-rotation variant — a budget-friendly fan with ARGB lighting and PWM speed control.
@@ -10,14 +15,11 @@ A 120mm ARGB reverse-rotation case fan from Thermalright. The TL-S12RW is the wh
 
 - **Form Factor**: 120mm × 25mm
 - **Bearing**: Fluid Dynamic Bearing (FDB)
-- **Fan Speed**: 500–2,000 RPM (PWM controlled)
-- **Airflow**: ~35–40 CFM (estimated)
-- **Noise**: ~25 dBA (max)
 - **LEDs**: 12 ARGB
 - **ARGB Header**: 3-pin (5V)
 - **Frame**: White
 - **Rotation**: Reverse
-- **Warranty**: 3 years
+- **Warranty**: Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page)
 
 ## Why It Matters
 
@@ -31,17 +33,9 @@ A white reverse-rotation ARGB case fan at ~$14 — one of the cheapest options f
 - **Budget builders** who want a cheap white reverse-rotation ARGB fan
 - **Anyone who wants a functional ARGB fan** in a white reverse configuration
 
-## Pricing at ExtremePC (incl. 15% GST)
-
-| Variant | Price (NZD) |
-|---|---|
-| White Reverse (TL-S12RW) | **$13.80** |
-
-*Prices current as of October 2026. May vary with stock and promotions.*
-
 ## Where to Buy
 
-- **In-store**: ExtremePC Onehunga (Auckland) or ExtremePC Wellington
+- **In-store**: ExtremePC Onehunga (Auckland)
 - **Online**: [extremepc.co.nz](https://www.extremepc.co.nz/thermalright-tl-s12rw-120mm-argb-reverse-case-fan-white/)
 
 ## Compatibility
@@ -52,7 +46,4 @@ A white reverse-rotation ARGB case fan at ~$14 — one of the cheapest options f
 
 ## Warranty
 
-3 years from date of purchase.
-
----
-*Last verified: 2026-10-14*
+Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page).

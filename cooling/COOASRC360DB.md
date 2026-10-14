@@ -34,7 +34,6 @@ At its price point, the Challenger 360 Digital competes with the Segotep MU 360 
 
 ## Why Buy From ExtremePC
 - ASRock carries 2-year NZ warranty through ExtremePC as authorized distributor — local RMA
-- Stock at Onehunga warehouse for same-day Auckland pickup
 - Auckland Build Team can install and verify the LCD display content during build service
 - ASRock's AIO lineup at ExtremePC spans entry to premium — the Challenger is the mid-tier LCD option
 

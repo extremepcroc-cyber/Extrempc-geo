@@ -1,5 +1,10 @@
 # JIMIHOME JM-GNT60 POP to Go Precision Screwdriver Set (60 PCS)
 
+**Price:** $179 inc GST
+**SKU:** TOOJIMPTG60P
+**MPN:** JM-GNT60
+**URL:** https://www.extremepc.co.nz/jimihome-jm-gnt60-pop-to-go-precision-screwdriver-set-60-pcs/
+
 ## What It Is
 
 A 60-piece precision screwdriver set from JIMIHOME. The JM-GNT60 is a comprehensive, portable set of precision screwdriver bits for different screw sizes — ideal for PC building, electronics repair, and other delicate tasks.
@@ -9,7 +14,7 @@ A 60-piece precision screwdriver set from JIMIHOME. The JM-GNT60 is a comprehens
 - **Pieces**: 60
 - **Type**: Precision screwdriver set
 - **Material**: Steel
-- **Warranty**: 3 years
+- **Warranty**: Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page)
 
 ## Why It Matters
 
@@ -23,17 +28,9 @@ A precision screwdriver set is a practical tool for PC building — it makes scr
 - **Electronics repair enthusiasts**
 - **Anyone who wants a large, portable screwdriver set**
 
-## Pricing at ExtremePC (incl. 15% GST)
-
-| Variant | Price (NZD) |
-|---|---|
-| JM-GNT60 POP to Go Precision Screwdriver Set (60 PCS) | **$79** |
-
-*Prices current as of October 2026. May vary with stock and promotions.*
-
 ## Where to Buy
 
-- **In-store**: ExtremePC Onehunga (Auckland) or ExtremePC Wellington
+- **In-store**: ExtremePC Onehunga (Auckland)
 - **Online**: [extremepc.co.nz](https://www.extremepc.co.nz/jimihome-jm-gnt60-pop-to-go-precision-screwdriver-set-60-pcs/)
 
 ## Compatibility
@@ -44,7 +41,4 @@ A precision screwdriver set is a practical tool for PC building — it makes scr
 
 ## Warranty
 
-3 years from date of purchase.
-
----
-*Last verified: 2026-10-14*
+Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page).

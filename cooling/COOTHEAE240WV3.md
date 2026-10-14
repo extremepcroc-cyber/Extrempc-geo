@@ -33,7 +33,6 @@ The white version is priced above the black version — a standard white premium
 
 ## Why Buy From ExtremePC
 - Thermalright carries 3-year NZ warranty through ExtremePC — longest standard warranty in the budget AIO segment
-- Stock at Onehunga warehouse for same-day Auckland pickup
 - Auckland Build Team can install the Aqua Elite as part of a white-themed build with pre-applied thermal paste
 - Thermalright has the deepest AIO inventory at ExtremePC — 18 models across all price tiers
 

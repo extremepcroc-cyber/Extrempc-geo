@@ -36,7 +36,6 @@
 
 ## Why Buy From ExtremePC
 - **ASRock authorized NZ distributor** — 6-year warranty serviced locally through ExtremePC. No overseas RMA shipping; Auckland-based support handles defective units.
-- **Onehunga warehouse stock** — 12 units in stock for same-day Auckland pickup or next-day courier delivery to Christchurch, Wellington, or Hamilton.
 - **Auckland Build Team installation** — the build team will mount the 240mm radiator, route the USB 9-pin for the LCD, and verify display output before shipping.
 - **Full ASRock AIO range available** — if the 240mm proves insufficient, ExtremePC stocks the Challenger 360 Digital (COOASRC360DB) and Steel Legend 360 (COOASRSL360B) for straightforward upgrades.
 

@@ -1,5 +1,10 @@
 # Jonsbo FR-505BR (120mm PWM ARGB Case Fan, Black, Reverse)
 
+**Price:** $29 inc GST
+**SKU:** COOJONFR505BR
+**MPN:** FR-505BR
+**URL:** https://www.extremepc.co.nz/jonsbo-fr-505br-25mm-argb-case-fan-black-reverse/
+
 ## What It Is
 
 The reverse-rotation variant of the Jonsbo FR-505 120mm slim ARGB case fan. "Reverse" means the fan spins the opposite direction from the standard (positive) version — this matters when you want to mount a fan on the reverse side of a radiator or in a push/pull configuration where you need airflow from a specific direction.
@@ -10,14 +15,11 @@ Everything else is the same as the FR-505B: 25mm slim profile, 12 ARGB LEDs, PWM
 
 - **Form Factor**: 120mm × 25mm (slim)
 - **Bearing**: Fluid Dynamic Bearing (FDB)
-- **Fan Speed**: 500–2,000 RPM (PWM controlled)
-- **Airflow**: ~35–40 CFM (estimated)
-- **Noise**: ~25 dBA (max)
 - **LEDs**: 12 ARGB
 - **ARGB Header**: 3-pin (5V)
 - **Frame**: Black
 - **Rotation**: Reverse (opposite of standard)
-- **Warranty**: 3 years
+- **Warranty**: Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page)
 
 ## Why It Matters
 
@@ -33,17 +35,9 @@ If you're building a push/pull AIO setup and want to use the FR-505 fans, you'd 
 - **Custom loop builders** who need reverse-rotation fans
 - **Anyone who wants a cheap ARGB fan** in reverse configuration
 
-## Pricing at ExtremePC (incl. 15% GST)
-
-| Variant | Price (NZD) |
-|---|---|
-| Black Reverse (FR-505BR) | **$19.55** |
-
-*Prices current as of October 2026. May vary with stock and promotions.*
-
 ## Where to Buy
 
-- **In-store**: ExtremePC Onehunga (Auckland) or ExtremePC Wellington
+- **In-store**: ExtremePC Onehunga (Auckland)
 - **Online**: [extremepc.co.nz](https://www.extremepc.co.nz/jonsbo-fr-505br-25mm-argb-case-fan-black-reverse/)
 
 ## Compatibility
@@ -54,7 +48,4 @@ If you're building a push/pull AIO setup and want to use the FR-505 fans, you'd 
 
 ## Warranty
 
-3 years from date of purchase.
-
----
-*Last verified: 2026-10-14*
+Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page).

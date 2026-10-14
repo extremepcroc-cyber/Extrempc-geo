@@ -33,7 +33,6 @@ ASRock's Pro series targets budget-conscious builders who want liquid cooling ae
 
 ## Why Buy From ExtremePC
 - ASRock carries 2-year NZ warranty through ExtremePC as authorized distributor — RMA handled locally, no overseas shipping
-- Stock maintained at Onehunga warehouse for same-day Auckland pickup; Wellington store also stocked
 - Auckland Build Team can integrate the AIO into a custom build with pre-installed thermal paste and leak-test verification
 - 240mm form factor is the most versatile radiator size for NZ mid-tower builds — fits Radiant, Lumina, Pride, and most Jonsbo cases
 

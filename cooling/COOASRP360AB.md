@@ -34,7 +34,6 @@ The Pro 360 is priced below the white version — standard across ASRock's AIO l
 
 ## Why Buy From ExtremePC
 - ASRock carries 2-year NZ warranty through ExtremePC as authorized distributor — local RMA
-- Stock at Onehunga warehouse for same-day Auckland pickup
 - Auckland Build Team can install the Pro 360 with pre-applied thermal paste
 - ASRock's AIO lineup at ExtremePC spans entry to premium — the Pro 360 is the black entry point
 

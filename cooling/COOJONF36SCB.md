@@ -34,7 +34,6 @@ The TF3-360SCB uses a clean, minimal aesthetic — no LCD display, no RGB pump h
 
 ## Why Buy From ExtremePC
 - Jonsbo NZ warranty handled through ExtremePC — local RMA, no overseas shipping
-- Stock at Onehunga warehouse for same-day Auckland pickup
 - Auckland Build Team can pair the TF3 with a matching Jonsbo case (N6 series) for a cohesive build aesthetic
 - Jonsbo's case + cooling combination at ExtremePC is unique in the NZ market — few retailers stock both
 

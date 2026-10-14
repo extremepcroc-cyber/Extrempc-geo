@@ -33,7 +33,6 @@
 - **NZ summer overclockers** — Enthusiasts who push CPUs beyond stock frequencies and need maximum cooling headroom during Auckland summer when ambient temperatures reduce the effectiveness of smaller radiators. The Wonder Vision's turbo fans compensate for reduced delta-T in warm conditions.
 
 ## Why Buy From ExtremePC
-- **3-year NZ warranty via Onehunga warehouse** — Thermalright's flagship warranty is processed locally. If the high-flow pump or turbo fans fail, ExtremePC handles the RMA without requiring overseas return shipping. This is critical for flagship-tier investments.
 - **Auckland Build Team flagship build expertise** — ExtremePC's build team has experience installing 140mm AIO coolers in full-tower cases, including proper cable routing for the wider fan mounts and ARGB synchronization across the larger fan array.
 - **Full Thermalright AIO range for cross-reference** — ExtremePC stocks every Thermalright AIO tier. If the Wonder Vision doesn't fit your case, the team can recommend a 120mm-based alternative (Stream Vision, Trofeo Vision, Peerless Vision) from the same warehouse.
 - **Same-day Auckland pickup** — Flagship components often require longer shipping times from overseas. The Wonder Vision is stocked at Onehunga for immediate collection.
@@ -58,7 +57,6 @@
 
 **Q: Is the flagship tier worth it over the premium Stream Vision?** — If your case supports 140mm fans and you're running a high-TDP CPU (Core i9, Ryzen 9), the thermal advantage of 140mm turbo fans is meaningful, particularly in NZ summer conditions. If you're running a mid-range CPU or your case only supports 120mm, the Stream Vision or Trofeo Vision delivers sufficient cooling at a lower tier.
 
-**Q: What's the warranty coverage?** — Thermalright provides a 3-year manufacturer warranty through ExtremePC NZ. The warranty covers pump failure, fan defects, ARGB malfunction, and manufacturing defects. RMA processing is handled locally at the Onehunga warehouse.
 
 ## Related Products
 - Thermalright Wonder Vision 360 Turbo ARGB Black (COOTMRWV36TB) — same model, black colorway

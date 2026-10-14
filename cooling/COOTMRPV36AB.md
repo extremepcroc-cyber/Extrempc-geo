@@ -34,7 +34,6 @@ The 360mm radiator provides maximum surface area for heat dissipation. In Auckla
 
 ## Why Buy From ExtremePC
 - Thermalright carries 3-year NZ warranty through ExtremePC — longest standard warranty in this price tier
-- Stock at Onehunga warehouse for same-day Auckland pickup
 - Auckland Build Team can install with pre-applied thermal paste and torque-spec mounting
 - Thermalright has the deepest AIO inventory at ExtremePC — 18 models across all price tiers
 

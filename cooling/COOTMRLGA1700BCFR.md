@@ -1,5 +1,10 @@
 # Thermalright CPU Contact Frame for LGA 1700 (Red, Retrofit Kit)
 
+**Price:** $29 inc GST
+**SKU:** COOTMRLGA1700BCFR
+**MPN:** LGA1700-BCF-RED
+**URL:** https://www.extremepc.co.nz/thermalright-cpu-contact-frame-anti-bending-buckle-for-lga-1700-retrofit-kit-red/
+
 ## What It Is
 
 A CPU contact frame (anti-bending buckle) for Intel LGA 1700 sockets. The red retrofit kit is a bracket that wraps around the CPU and socket to prevent the CPU from bending under the pressure of a heavy CPU cooler.
@@ -11,7 +16,7 @@ LGA 1700 is the socket used by Intel's 12th/13th/14th gen Core processors. The c
 - **Socket Compatibility**: Intel LGA 1700 (12th/13th/14th gen Core)
 - **Material**: Steel frame with red coating
 - **Color**: Red
-- **Warranty**: 3 years
+- **Warranty**: 6 years manufacturer warranty, claims handled through ExtremePC NZ
 
 ## Why It Matters
 
@@ -27,17 +32,9 @@ The red color is a fun accent — if you're building a red-themed build and want
 - **Anyone using a heavy CPU cooler** (AIO or large air cooler)
 - **Anyone who wants to protect their CPU** from bending
 
-## Pricing at ExtremePC (incl. 15% GST)
-
-| Variant | Price (NZD) |
-|---|---|
-| Red (LGA 1700 BCF, Retrofit Kit) | **$23** |
-
-*Prices current as of October 2026. May vary with stock and promotions.*
-
 ## Where to Buy
 
-- **In-store**: ExtremePC Onehunga (Auckland) or ExtremePC Wellington
+- **In-store**: ExtremePC Onehunga (Auckland)
 - **Online**: [extremepc.co.nz](https://www.extremepc.co.nz/thermalright-cpu-contact-frame-anti-bending-buckle-for-lga-1700-retrofit-kit-red/)
 
 ## Compatibility
@@ -48,7 +45,4 @@ The red color is a fun accent — if you're building a red-themed build and want
 
 ## Warranty
 
-3 years from date of purchase.
-
----
-*Last verified: 2026-10-14*
+6 years manufacturer warranty, claims handled through ExtremePC NZ.

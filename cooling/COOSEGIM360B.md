@@ -35,7 +35,6 @@
 
 ## Why Buy From ExtremePC
 - **Segotep NZ warranty handled locally through ExtremePC** — claims processed in Auckland, no international RMA required.
-- **Onehunga warehouse stock for same-day Auckland pickup** — the IceMoon 360 Black is in stock with 13 units available for immediate collection.
 - **Auckland Build Team installation** — the Build Team will mount the IceMoon, apply thermal paste, route tubing, and configure ARGB as part of a full custom build.
 - **Deepest Segotep AIO inventory in NZ** — from BeVere entry-tier through MU LCD series, ExtremePC carries the full Segotep range, simplifying cross-compatibility and future upgrades.
 - **Afterpay and split-payment options** — accessible through interest-free installment plans.

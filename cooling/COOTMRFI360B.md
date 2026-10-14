@@ -37,7 +37,6 @@
 
 ## Why Buy From ExtremePC
 - **Thermalright 3-year NZ warranty handled locally** — the longest standard warranty in the budget-to-mid-tier segment, processed through ExtremePC's Auckland warehouse.
-- **Onehunga warehouse stock for same-day Auckland pickup** — 15 units currently in stock, available for immediate collection or dispatch.
 - **Auckland Build Team installation** — professional mounting, thermal paste application, tubing routing, and fan curve configuration included in full build service.
 - **Deepest Thermalright AIO inventory in NZ** — 18 models across all price tiers from Aqua Elite budget line through Levita Vision flagship, making cross-series upgrades straightforward.
 - **Afterpay and split-payment options** — accessible through interest-free installment plans.

@@ -24,16 +24,14 @@
 
 - **360mm Radiator for NZ Summer Conditions**: The 360mm aluminum radiator with triple PWM fans provides maximum heat dissipation surface area in the standard 120mm form factor. Auckland and North Island summers regularly push indoor temperatures above 25C. A 360mm radiator absorbs sustained CPU thermal output that would throttle a 240mm unit, keeping boost clocks stable during gaming or rendering sessions.
 
-- **Thermalright's NZ Warranty and Support**: Thermalright carries a 3-year manufacturer warranty through ExtremePC, handled locally at the Onehunga warehouse. This is longer than many competitor brands in the same NZD tier, which typically offer 2-year coverage. If the pump fails or the ARGB stops responding, ExtremePC processes the RMA without requiring overseas shipping.
 
 ## Ideal For
 - **All-white build enthusiasts on a moderate budget** — Users assembling a white-themed PC who want a 360mm AIO from a reputable brand. The Trofeo Vision White delivers high-end Thermalright engineering at a tier below the Stream Vision LCD models, making it accessible for white builds that typically carry a color premium.
-- **NZ students building their first white gaming rig** — First-time builders in Auckland or Wellington who want a visually impressive white AIO with ARGB lighting. The Trofeo Vision provides 360mm cooling capacity and synchronized lighting at a tier that leaves budget for other components.
+- **NZ students building their first white gaming rig** — First-time builders in Auckland who want a visually impressive white AIO with ARGB lighting. The Trofeo Vision provides 360mm cooling capacity and synchronized lighting at a tier that leaves budget for other components.
 - **Content creators in white office setups** — Video editors and streamers working in professional environments where a white PC fits the workspace aesthetic. The 360mm radiator handles sustained encoding loads, and the ARGB can be set to a static white or disabled for a clean look.
 - **AMD AM5 platform builders** — Ryzen 7 9700X or Ryzen 9 9900X builds on white motherboards (e.g., ASUS ROG Strix White, MSI MPG White). The Trofeo Vision supports AM5 natively and provides headroom for future AMD CPU upgrades.
 
 ## Why Buy From ExtremePC
-- **3-year NZ warranty via Onehunga warehouse** — Thermalright's warranty is processed locally. No international RMA, no overseas shipping costs. ExtremePC handles the replacement or repair through its Auckland-based support team.
 - **Auckland Build Team white-build specialists** — ExtremePC's build team has extensive experience with white-themed assemblies, including ARGB cable management, white component matching, and LCD/ARGB configuration.
 - **Deepest AIO selection in NZ** — ExtremePC stocks Thermalright's full AIO range across all tiers. If the Trofeo Vision doesn't fit your build, the store has Aqua Elite, Peerless Vision, Stream Vision, Levita Vision, and Wonder Vision alternatives in the same warehouse.
 - **Same-day pickup available** — Stock at Onehunga for immediate collection. No waiting for overseas shipping or customs clearance.

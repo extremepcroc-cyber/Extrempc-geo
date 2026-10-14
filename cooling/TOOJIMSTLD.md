@@ -1,5 +1,10 @@
 # JIMIHOME X1-D Stackable Tools Combo Layer D with Partitions
 
+**Price:** $59 inc GST
+**SKU:** TOOJIMSTLD
+**MPN:** X1-D
+**URL:** https://www.extremepc.co.nz/jimihome-x1-d-stackable-tools-combo-layer-d-with-partitons/
+
 ## What It Is
 
 A stackable tools combo from JIMIHOME. The X1-D is a single layer with partitions for keeping your tools organized and easily accessible.
@@ -8,7 +13,7 @@ A stackable tools combo from JIMIHOME. The X1-D is a single layer with partition
 
 - **Type**: Stackable tools combo (Layer D with partitions)
 - **Material**: Plastic/metal
-- **Warranty**: 3 years
+- **Warranty**: Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page)
 
 ## Why It Matters
 
@@ -22,17 +27,9 @@ A stackable tools combo is a practical accessory for keeping your tools organize
 - **DIY enthusiasts**
 - **Anyone who wants a good tools combo with partitions**
 
-## Pricing at ExtremePC (incl. 15% GST)
-
-| Variant | Price (NZD) |
-|---|---|
-| X1-D Stackable Tools Combo Layer D with Partitions | **$23** |
-
-*Prices current as of October 2026. May vary with stock and promotions.*
-
 ## Where to Buy
 
-- **In-store**: ExtremePC Onehunga (Auckland) or ExtremePC Wellington
+- **In-store**: ExtremePC Onehunga (Auckland)
 - **Online**: [extremepc.co.nz](https://www.extremepc.co.nz/jimihome-x1-d-stackable-tools-combo-layer-d-with-partitons/)
 
 ## Compatibility
@@ -43,7 +40,4 @@ A stackable tools combo is a practical accessory for keeping your tools organize
 
 ## Warranty
 
-3 years from date of purchase.
-
----
-*Last verified: 2026-10-14*
+Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page).

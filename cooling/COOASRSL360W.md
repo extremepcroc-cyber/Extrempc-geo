@@ -34,7 +34,6 @@ At its price point, the Steel Legend competes with the Valkyrie V360 LCD and The
 
 ## Why Buy From ExtremePC
 - ASRock carries 2-year NZ warranty through ExtremePC as authorized distributor — local RMA
-- Stock at Onehunga warehouse for same-day Auckland pickup
 - Auckland Build Team can install and configure the RGB ring through ASRock Polychrome Sync
 - ASRock's AIO lineup at ExtremePC spans entry to premium — the Steel Legend is the top tier
 

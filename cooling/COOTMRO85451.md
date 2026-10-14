@@ -1,5 +1,10 @@
 # Thermalright Extreme Odyssey Thermal Pad (85x45x1.0mm)
 
+**Price:** $19 inc GST
+**SKU:** COOTMRO85451
+**MPN:** PAD 85x45x1.0mm
+**URL:** https://www.extremepc.co.nz/cooling-accessories/thermalright-extreme-odyssey-thermal-pad-85x45x1-0mm-pad-85x45x1-0mm/
+
 ## What It Is
 
 An 85mm × 45mm × 1.0mm thermal pad from Thermalright's Extreme Odyssey series. This is a standard thermal pad designed for VRAM, chipset, and other heat-generating components on your motherboard.
@@ -7,10 +12,9 @@ An 85mm × 45mm × 1.0mm thermal pad from Thermalright's Extreme Odyssey series.
 ## Key Specs
 
 - **Size**: 85mm × 45mm × 1.0mm
-- **Thermal Conductivity**: ~6 W/mK (estimated)
 - **Material**: Silicone-based with ceramic filler
 - **Color**: Grey
-- **Warranty**: 3 years
+- **Warranty**: Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page)
 
 ## Why It Matters
 
@@ -24,17 +28,9 @@ Thermal pads are used to fill the gap between a heatsink and a heat-generating c
 - **Upgraders** replacing old thermal pads
 - **Anyone who wants a standard thermal pad** without spending too much
 
-## Pricing at ExtremePC (incl. 15% GST)
-
-| Variant | Price (NZD) |
-|---|---|
-| 85x45x1.0mm (Extreme Odyssey) | **$19** |
-
-*Prices current as of October 2026. May vary with stock and promotions.*
-
 ## Where to Buy
 
-- **In-store**: ExtremePC Onehunga (Auckland) or ExtremePC Wellington
+- **In-store**: ExtremePC Onehunga (Auckland)
 - **Online**: [extremepc.co.nz](https://www.extremepc.co.nz/cooling-accessories/thermalright-extreme-odyssey-thermal-pad-85x45x1-0mm-pad-85x45x1-0mm/)
 
 ## Compatibility
@@ -45,7 +41,4 @@ Thermal pads are used to fill the gap between a heatsink and a heat-generating c
 
 ## Warranty
 
-3 years from date of purchase.
-
----
-*Last verified: 2026-10-14*
+Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page).

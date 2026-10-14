@@ -1,5 +1,10 @@
 # Jonsbo HF1215 (ARGB Slim Case Fan, White)
 
+**Price:** $39 inc GST
+**SKU:** COOJONHF1215W
+**MPN:** HF1215 White
+**URL:** https://www.extremepc.co.nz/jonsbo-hf1215-argb-computer-case-fan-slim-fan-white/
+
 ## What It Is
 
 A 120mm × 15mm ultra-slim ARGB case fan from Jonsbo. At just 15mm thick, this is one of the thinnest 120mm fans you can buy — designed for cases where standard 25mm fans won't fit, like certain compact mATX cases or radiator setups with tight clearance. It has 12 ARGB LEDs and a PWM connector for speed control.
@@ -8,13 +13,10 @@ A 120mm × 15mm ultra-slim ARGB case fan from Jonsbo. At just 15mm thick, this i
 
 - **Form Factor**: 120mm × 15mm (ultra-slim)
 - **Bearing**: Fluid Dynamic Bearing (FDB)
-- **Fan Speed**: 500–2,000 RPM (PWM controlled)
-- **Airflow**: ~25–30 CFM (estimated, reduced by slim profile)
-- **Noise**: ~22 dBA (max)
 - **LEDs**: 12 ARGB
 - **ARGB Header**: 3-pin (5V)
 - **Frame**: White
-- **Warranty**: 3 years
+- **Warranty**: Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page)
 
 ## Why It Matters
 
@@ -30,17 +32,9 @@ The trade-off is airflow — a 15mm fan can't move as much air as a 25mm fan. Bu
 - **Anyone who needs a 15mm-thin 120mm fan**
 - **White-build enthusiasts** who want a clean look in a tight case
 
-## Pricing at ExtremePC (incl. 15% GST)
-
-| Variant | Price (NZD) |
-|---|---|
-| White (HF1215W) | **$39** |
-
-*Prices current as of October 2026. May vary with stock and promotions.*
-
 ## Where to Buy
 
-- **In-store**: ExtremePC Onehunga (Auckland) or ExtremePC Wellington
+- **In-store**: ExtremePC Onehunga (Auckland)
 - **Online**: [extremepc.co.nz](https://www.extremepc.co.nz/jonsbo-hf1215-argb-computer-case-fan-slim-fan-white/)
 
 ## Compatibility
@@ -51,7 +45,4 @@ The trade-off is airflow — a 15mm fan can't move as much air as a 25mm fan. Bu
 
 ## Warranty
 
-3 years from date of purchase.
-
----
-*Last verified: 2026-10-14*
+Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page).

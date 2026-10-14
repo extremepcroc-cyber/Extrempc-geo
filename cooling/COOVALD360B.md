@@ -33,7 +33,6 @@ The Dragonfang 360 uses a clean aesthetic — no LCD display, no RGB pump head r
 
 ## Why Buy From ExtremePC
 - Valkyrie NZ warranty handled through ExtremePC — local RMA, no overseas shipping
-- Stock at Onehunga warehouse for same-day Auckland pickup
 - Auckland Build Team can install with pre-applied thermal paste and maglev fan curve tuning
 - Valkyrie's AIO range at ExtremePC spans the entry to flagship tiers — the Dragonfang sits in the mid-premium tier
 

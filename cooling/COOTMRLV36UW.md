@@ -33,7 +33,6 @@ The FDB bearing fans are rated for 150,000 hours and scale from 500 RPM silent i
 
 ## Why Buy From ExtremePC
 - Thermalright carries 3-year NZ warranty through ExtremePC — longest standard warranty in the premium AIO segment
-- Stock at Onehunga warehouse for same-day Auckland pickup
 - Auckland Build Team can install with pre-applied thermal paste, torque-spec mounting, and leak-test verification
 - Thermalright's AIO range at ExtremePC spans the entry to flagship tiers — the Levita Vision sits in the upper tier with clear upgrade/downgrade paths
 

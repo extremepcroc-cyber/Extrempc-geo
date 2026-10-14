@@ -34,7 +34,6 @@ For NZ white builds where matching cooling components is a priority, the Frozen 
 
 ## Why Buy From ExtremePC
 - Thermalright carries 3-year NZ warranty through ExtremePC — longest standard warranty in this price tier
-- Stock at Onehunga warehouse for same-day Auckland pickup
 - Auckland Build Team can install with pre-applied thermal paste and FDB fan curve tuning
 - Thermalright has the deepest AIO inventory at ExtremePC — 18 models across all price tiers
 

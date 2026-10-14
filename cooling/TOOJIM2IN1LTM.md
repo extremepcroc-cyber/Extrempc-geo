@@ -1,5 +1,10 @@
 # JIMIHOME JM-G25A 2 in 1 Laser Tape Measure (5.5M/30M)
 
+**Price:** $139 inc GST
+**SKU:** TOOJIM2IN1LTM
+**MPN:** JM-G25A
+**URL:** https://www.extremepc.co.nz/jimihome-jm-g25a-2-in-1-laser-tape-measure-5-5m-30m/
+
 ## What It Is
 
 A 2-in-1 laser tape measure from JIMIHOME. The JM-G25A combines a laser measure (5.5m/30m range) with a traditional tape measure — a versatile tool for measuring distances in a variety of applications.
@@ -8,7 +13,7 @@ A 2-in-1 laser tape measure from JIMIHOME. The JM-G25A combines a laser measure 
 
 - **Laser Range**: 5.5m / 30m
 - **Type**: 2-in-1 laser tape measure
-- **Warranty**: 3 years
+- **Warranty**: Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page)
 
 ## Why It Matters
 
@@ -22,17 +27,9 @@ A 2-in-1 laser tape measure is a practical tool for measuring distances — whet
 - **DIY enthusiasts**
 - **Anyone who wants a versatile measuring tool**
 
-## Pricing at ExtremePC (incl. 15% GST)
-
-| Variant | Price (NZD) |
-|---|---|
-| JM-G25A 2 in 1 Laser Tape Measure | **$69** |
-
-*Prices current as of October 2026. May vary with stock and promotions.*
-
 ## Where to Buy
 
-- **In-store**: ExtremePC Onehunga (Auckland) or ExtremePC Wellington
+- **In-store**: ExtremePC Onehunga (Auckland)
 - **Online**: [extremepc.co.nz](https://www.extremepc.co.nz/jimihome-jm-g25a-2-in-1-laser-tape-measure-5-5m-30m/)
 
 ## Compatibility
@@ -43,7 +40,4 @@ A 2-in-1 laser tape measure is a practical tool for measuring distances — whet
 
 ## Warranty
 
-3 years from date of purchase.
-
----
-*Last verified: 2026-10-14*
+Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page).

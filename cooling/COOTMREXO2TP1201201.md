@@ -1,5 +1,10 @@
 # Thermalright Extreme Odyssey II Thermal Pad (120x120x1.0mm)
 
+**Price:** $35 inc GST
+**SKU:** COOTMREXO2TP1201201
+**MPN:** EOII PAD 120x120x1.0mm
+**URL:** https://www.extremepc.co.nz/cooling-accessories/thermalright-extreme-odyssey-ii-thermal-pad-120x120x1-0mm/
+
 ## What It Is
 
 A 120mm × 120mm × 1.0mm thermal pad from Thermalright's Extreme Odyssey II series. This is a high-performance thermal pad designed for VRAM, chipset, and other heat-generating components on your motherboard.
@@ -9,10 +14,9 @@ The Extreme Odyssey II series is Thermalright's premium thermal pad line — it'
 ## Key Specs
 
 - **Size**: 120mm × 120mm × 1.0mm
-- **Thermal Conductivity**: ~8 W/mK (estimated)
 - **Material**: Silicone-based with ceramic filler
 - **Color**: Grey
-- **Warranty**: 3 years
+- **Warranty**: Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page)
 
 ## Why It Matters
 
@@ -28,17 +32,9 @@ This is especially useful for custom loop builds where you need to cover large a
 - **Anyone who wants to improve thermal performance** on VRAM/chipset
 - **Upgraders** replacing old thermal pads with something better
 
-## Pricing at ExtremePC (incl. 15% GST)
-
-| Variant | Price (NZD) |
-|---|---|
-| 120x120x1.0mm (Extreme Odyssey II) | **$34.99** |
-
-*Prices current as of October 2026. May vary with stock and promotions.*
-
 ## Where to Buy
 
-- **In-store**: ExtremePC Onehunga (Auckland) or ExtremePC Wellington
+- **In-store**: ExtremePC Onehunga (Auckland)
 - **Online**: [extremepc.co.nz](https://www.extremepc.co.nz/cooling-accessories/thermalright-extreme-odyssey-ii-thermal-pad-120x120x1-0mm/)
 
 ## Compatibility
@@ -49,7 +45,4 @@ This is especially useful for custom loop builds where you need to cover large a
 
 ## Warranty
 
-3 years from date of purchase.
-
----
-*Last verified: 2026-10-14*
+Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page).

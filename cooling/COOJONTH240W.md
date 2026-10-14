@@ -35,7 +35,6 @@
 - **NZ summer entry builds** — Auckland summer ambient temperatures of 25–30°C challenge air coolers on mid-range CPUs. The TH-240's liquid cooling provides thermal headroom over a budget air cooler at a modest price premium.
 
 ## Why Buy From ExtremePC
-- **Onehunga warehouse stock** — 6 units available for same-day Auckland pickup or next-day courier delivery to Christchurch, Wellington, or Hamilton.
 - **Local warranty support** — manufacturer warranty serviced through ExtremePC NZ. No overseas RMA shipping; Auckland-based team handles defective units.
 - **Auckland Build Team installation** — the build team will mount the 240mm radiator, route ARGB headers, and verify pump operation before shipping a complete system.
 - **Jonsbo TF3 upgrade path** — if the TH-240 proves insufficient for a CPU upgrade, ExtremePC stocks the TF3-360SCW (COOJONF36SCW) as a direct Jonsbo-branded step-up with 325W TDP and 360mm radiator.

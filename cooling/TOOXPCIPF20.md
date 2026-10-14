@@ -1,5 +1,10 @@
 # Instant Pack Quick Expanding Foam 20# (46x45cm) QuickPak Packaging Bag
 
+**Price:** $15 inc GST
+**SKU:** TOOXPCIPF20
+**MPN:** TOOXPCIPF20
+**URL:** https://www.extremepc.co.nz/instant-pack-quick-expanding-foam-20-17x17-packaging-bag/
+
 ## What It Is
 
 A 20# quick expanding foam packaging bag from QuickPak. The 46x45cm bag is designed for packaging medium-sized items — it's a practical solution for protecting your PC components during shipping or storage.
@@ -8,7 +13,7 @@ A 20# quick expanding foam packaging bag from QuickPak. The 46x45cm bag is desig
 
 - **Size**: 46x45cm (18"x17.7")
 - **Type**: Quick expanding foam packaging bag
-- **Warranty**: 3 years
+- **Warranty**: Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page)
 
 ## Why It Matters
 
@@ -22,17 +27,9 @@ A quick expanding foam packaging bag is a practical accessory for protecting you
 - **Shippers** who want a good packaging solution
 - **Anyone who wants a good foam packaging bag**
 
-## Pricing at ExtremePC (incl. 15% GST)
-
-| Variant | Price (NZD) |
-|---|---|
-| 20# Quick Expanding Foam Packaging Bag (46x45cm) | **$14.98** |
-
-*Prices current as of October 2026. May vary with stock and promotions.*
-
 ## Where to Buy
 
-- **In-store**: ExtremePC Onehunga (Auckland) or ExtremePC Wellington
+- **In-store**: ExtremePC Onehunga (Auckland)
 - **Online**: [extremepc.co.nz](https://www.extremepc.co.nz/instant-pack-quick-expanding-foam-20-17x17-packaging-bag/)
 
 ## Compatibility
@@ -43,7 +40,4 @@ A quick expanding foam packaging bag is a practical accessory for protecting you
 
 ## Warranty
 
-3 years from date of purchase.
-
----
-*Last verified: 2026-10-14*
+Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page).

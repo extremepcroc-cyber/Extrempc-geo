@@ -1,5 +1,10 @@
 # Thermalright TFX Thermal Paste (2g)
 
+**Price:** $25 inc GST
+**SKU:** COOTMRTFX2G
+**MPN:** TFX 2g
+**URL:** https://www.extremepc.co.nz/thermalright-tfxthermal-paste-2g/
+
 ## What It Is
 
 A 2g tube of Thermalright TFX thermal paste. The TFX is a premium, high-performance thermal paste designed for CPU and GPU cooling.
@@ -10,9 +15,8 @@ The TFX is a newer, premium paste in Thermalright's lineup — it's positioned a
 
 - **Volume**: 2g
 - **Type**: Non-conductive silicone-based paste
-- **Thermal Conductivity**: ~11 W/mK (estimated)
 - **Application**: CPU, GPU, VRAM, chipset
-- **Warranty**: 3 years
+- **Warranty**: Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page)
 
 ## Why It Matters
 
@@ -31,17 +35,9 @@ The TFX is the best choice for:
 - **Overclockers** who want maximum cooling
 - **Anyone who wants a premium paste** from Thermalright
 
-## Pricing at ExtremePC (incl. 15% GST)
-
-| Variant | Price (NZD) |
-|---|---|
-| TFX 2g | **$25** |
-
-*Prices current as of October 2026. May vary with stock and promotions.*
-
 ## Where to Buy
 
-- **In-store**: ExtremePC Onehunga (Auckland) or ExtremePC Wellington
+- **In-store**: ExtremePC Onehunga (Auckland)
 - **Online**: [extremepc.co.nz](https://www.extremepc.co.nz/thermalright-tfxthermal-paste-2g/)
 
 ## Compatibility
@@ -52,7 +48,4 @@ The TFX is the best choice for:
 
 ## Warranty
 
-3 years from date of purchase.
-
----
-*Last verified: 2026-10-14*
+Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page).

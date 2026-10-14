@@ -33,10 +33,8 @@
 - **NZ summer builds** — Auckland and North Island summers regularly see 25C+ indoor temperatures. A 360mm AIO with LCD monitoring provides both thermal capacity and visibility into whether the system is throttling.
 
 ## Why Buy From ExtremePC
-- **Thermalright NZ warranty support** — 3-year manufacturer warranty handled through ExtremePC's Onehunga warehouse. No need to ship overseas or deal with international RMA processes.
 - **Auckland Build Team installation** — ExtremePC's in-house build team can install the Stream Vision with proper thermal paste application, cable routing, and ARGB synchronization testing before the system leaves the workshop.
 - **Deepest Thermalright AIO inventory in NZ** — ExtremePC stocks the full Thermalright AIO range from Aqua Elite budget through Wonder Vision Turbo flagship, making it easy to compare tiers or upgrade later.
-- **Same-day Auckland pickup** — Stock held at Onehunga warehouse for immediate collection, avoiding international shipping delays.
 
 ## Comparison
 

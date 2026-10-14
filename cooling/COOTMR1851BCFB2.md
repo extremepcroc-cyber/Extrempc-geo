@@ -1,5 +1,10 @@
 # Thermalright LGA 1851 BCF (Black V2) — CPU Contact Frame Anti-Bending Buckle
 
+**Price:** $29 inc GST
+**SKU:** COOTMR1851BCFB2
+**MPN:** LGA 1851-BCF-Black V2
+**URL:** https://www.extremepc.co.nz/thermalright-lga-1851-black-v2-cpu-contact-frame-anti-bending-buckle/
+
 ## What It Is
 
 A CPU contact frame buckle for Intel LGA 1851 sockets. The "BCF" stands for "Backplate Contact Frame" — it's a bracket that wraps around the CPU and socket to prevent the CPU from bending under the pressure of a heavy CPU cooler.
@@ -11,7 +16,7 @@ Intel's 1851 socket (used by Arrow Lake processors) is a new socket design that 
 - **Socket Compatibility**: Intel LGA 1851 (Arrow Lake)
 - **Material**: Steel frame with black coating
 - **Color**: Black
-- **Warranty**: 3 years
+- **Warranty**: 1 year manufacturer warranty, claims handled through ExtremePC NZ
 
 ## Why It Matters
 
@@ -27,17 +32,9 @@ This is especially important for 1851-socket builds because the new socket desig
 - **Anyone using a heavy CPU cooler** (280/360mm AIO or large air cooler)
 - **Anyone who wants to protect their CPU** from bending
 
-## Pricing at ExtremePC (incl. 15% GST)
-
-| Variant | Price (NZD) |
-|---|---|
-| Black V2 (LGA 1851 BCF) | **$17.25** |
-
-*Prices current as of October 2026. May vary with stock and promotions.*
-
 ## Where to Buy
 
-- **In-store**: ExtremePC Onehunga (Auckland) or ExtremePC Wellington
+- **In-store**: ExtremePC Onehunga (Auckland)
 - **Online**: [extremepc.co.nz](https://www.extremepc.co.nz/thermalright-lga-1851-black-v2-cpu-contact-frame-anti-bending-buckle/)
 
 ## Compatibility
@@ -48,7 +45,4 @@ This is especially important for 1851-socket builds because the new socket desig
 
 ## Warranty
 
-3 years from date of purchase.
-
----
-*Last verified: 2026-10-14*
+1 year manufacturer warranty, claims handled through ExtremePC NZ.

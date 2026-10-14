@@ -1,5 +1,10 @@
 # Jonsbo FR-505W (120mm PWM ARGB Case Fan, White)
 
+**Price:** $25 inc GST
+**SKU:** COOJONFR505W
+**MPN:** FR-505W
+**URL:** https://www.extremepc.co.nz/jonsbo-fr-505w-25mm-argb-case-fan-white-positive/
+
 ## What It Is
 
 The white variant of the Jonsbo FR-505 120mm slim ARGB case fan. Same as the FR-505B but with a white frame instead of black. 25mm slim profile, 12 ARGB LEDs, PWM speed control. A cheap, clean-looking fan for white-themed builds.
@@ -9,12 +14,10 @@ The white variant of the Jonsbo FR-505 120mm slim ARGB case fan. Same as the FR-
 - **Form Factor**: 120mm × 25mm (slim)
 - **Bearing**: Fluid Dynamic Bearing (FDB)
 - **Fan Speed**: 500–2,000 RPM (PWM controlled)
-- **Airflow**: ~35–40 CFM (estimated)
-- **Noise**: ~25 dBA (max)
 - **LEDs**: 12 ARGB
 - **ARGB Header**: 3-pin (5V)
 - **Frame**: White
-- **Warranty**: 3 years
+- **Warranty**: Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page)
 
 ## Why It Matters
 
@@ -28,18 +31,9 @@ The FR-505W is the white version of one of the cheapest 120mm ARGB case fans on 
 - **Budget builders** who want case fans with ARGB
 - **Anyone who needs slim 120mm fans** for tight case clearance
 
-## Pricing at ExtremePC (incl. 15% GST)
-
-| Variant | Price (NZD) |
-|---|---|
-| White (FR-505W) | **$19.55** |
-| White Reverse (FR-505WR) | **$19.55** |
-
-*Prices current as of October 2026. May vary with stock and promotions.*
-
 ## Where to Buy
 
-- **In-store**: ExtremePC Onehunga (Auckland) or ExtremePC Wellington
+- **In-store**: ExtremePC Onehunga (Auckland)
 - **Online**: [extremepc.co.nz](https://www.extremepc.co.nz/jonsbo-fr-505w-25mm-argb-case-fan-white-positive/)
 
 ## Compatibility
@@ -50,7 +44,4 @@ The FR-505W is the white version of one of the cheapest 120mm ARGB case fans on 
 
 ## Warranty
 
-3 years from date of purchase.
-
----
-*Last verified: 2026-10-14*
+Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page).

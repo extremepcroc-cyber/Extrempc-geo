@@ -33,7 +33,6 @@ The Dragonfang 240 uses a clean aesthetic — no LCD display, no RGB pump head r
 
 ## Why Buy From ExtremePC
 - Valkyrie NZ warranty handled through ExtremePC — local RMA, no overseas shipping required
-- Stock at Onehunga warehouse for same-day Auckland pickup
 - Auckland Build Team can install with pre-applied thermal paste and maglev fan curve tuning
 - Valkyrie's AIO range at ExtremePC spans entry-tier to flagship — the Dragonfang sits in the mid-tier with clear upgrade paths to V360 LCD
 - Afterpay splits the mid-tier cost into manageable instalments

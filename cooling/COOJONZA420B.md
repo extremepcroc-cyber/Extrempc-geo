@@ -1,5 +1,10 @@
 # Jonsbo ZA-420B (ARGB 420mm Case Fan, Black)
 
+**Price:** $89 inc GST
+**SKU:** COOJONZA420B
+**MPN:** ZA-420B Black
+**URL:** https://www.extremepc.co.nz/jonsbo-za-420b-argb-420mm-case-fan-black/
+
 ## What It Is
 
 A 420mm (14-inch) ARGB case fan from Jonsbo — one of the largest single 120mm-compatible fans you can buy. The "420" refers to the fan diameter: 420mm ≈ 14 inches. It's designed for cases with 140mm or 160mm fan mounts, or for use as a radiator fan on 420mm radiators (some 420mm radiators accept 140mm fans).
@@ -10,13 +15,10 @@ The fan has 12 ARGB LEDs, a PWM connector for speed control, and a black frame. 
 
 - **Form Factor**: 420mm diameter (14-inch)
 - **Bearing**: Fluid Dynamic Bearing (FDB)
-- **Fan Speed**: 500–1,800 RPM (PWM controlled)
-- **Airflow**: ~80–100 CFM (estimated)
-- **Noise**: ~35 dBA (max)
 - **LEDs**: 12 ARGB
 - **ARGB Header**: 3-pin (5V)
 - **Frame**: Black
-- **Warranty**: 3 years
+- **Warranty**: Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page)
 
 ## Why It Matters
 
@@ -32,20 +34,9 @@ The main advantage of a 420mm fan over three 140mm fans is that it moves a lot o
 - **High-end case builders** with 160mm+ fan mounts
 - **Anyone who wants maximum airflow** in a single fan
 
-## Pricing at ExtremePC (incl. 15% GST)
-
-| Variant | Price (NZD) |
-|---|---|
-| Black (ZA-420B) | **$63.25** |
-| White (ZA-420W) | **$63.25** |
-| Black Reverse (ZA-420BR) | **$63.25** |
-| White Reverse (ZA-420WR) | **$74.75** |
-
-*Prices current as of October 2026. May vary with stock and promotions.*
-
 ## Where to Buy
 
-- **In-store**: ExtremePC Onehunga (Auckland) or ExtremePC Wellington
+- **In-store**: ExtremePC Onehunga (Auckland)
 - **Online**: [extremepc.co.nz](https://www.extremepc.co.nz/jonsbo-za-420b-argb-420mm-case-fan-black/)
 
 ## Compatibility
@@ -56,7 +47,4 @@ The main advantage of a 420mm fan over three 140mm fans is that it moves a lot o
 
 ## Warranty
 
-3 years from date of purchase.
-
----
-*Last verified: 2026-10-14*
+Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page).

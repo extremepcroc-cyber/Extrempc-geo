@@ -1,5 +1,10 @@
 # Jonsbo ZL-120 (3-in-1 ARGB 120mm Case Fan, White)
 
+**Price:** $79 inc GST
+**SKU:** COOJONZL120W
+**MPN:** ZL-120W
+**URL:** https://www.extremepc.co.nz/jonsbo-zl-120-3in1-argb-120mm-computer-case-fan-white/
+
 ## What It Is
 
 A 120mm ARGB case fan with a "3-in-1" design from Jonsbo. The ZL-120 is part of Jonsbo's premium fan line — it combines three features in one fan: ARGB lighting, a PWM fan motor, and a USB-powered hub that can connect to other ARGB devices. This means you can chain multiple ARGB fans through the ZL-120's hub without needing a separate ARGB controller.
@@ -8,14 +13,11 @@ A 120mm ARGB case fan with a "3-in-1" design from Jonsbo. The ZL-120 is part of 
 
 - **Form Factor**: 120mm × 25mm
 - **Bearing**: Fluid Dynamic Bearing (FDB)
-- **Fan Speed**: 500–2,000 RPM (PWM controlled)
-- **Airflow**: ~35–40 CFM (estimated)
-- **Noise**: ~25 dBA (max)
 - **LEDs**: 12 ARGB
 - **ARGB Header**: 3-pin (5V)
 - **Hub**: 3-in-1 ARGB hub (connects to other ARGB devices)
 - **Frame**: White
-- **Warranty**: 3 years
+- **Warranty**: Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page)
 
 ## Why It Matters
 
@@ -29,17 +31,9 @@ The 3-in-1 hub is the standout feature. Normally, if you have 4–6 ARGB case fa
 - **White-build enthusiasts** who want a clean look
 - **Anyone who has multiple ARGB fans** and wants a built-in hub
 
-## Pricing at ExtremePC (incl. 15% GST)
-
-| Variant | Price (NZD) |
-|---|---|
-| White (ZL-120W) | **$78.99** |
-
-*Prices current as of October 2026. May vary with stock and promotions.*
-
 ## Where to Buy
 
-- **In-store**: ExtremePC Onehunga (Auckland) or ExtremePC Wellington
+- **In-store**: ExtremePC Onehunga (Auckland)
 - **Online**: [extremepc.co.nz](https://www.extremepc.co.nz/jonsbo-zl-120-3in1-argb-120mm-computer-case-fan-white/)
 
 ## Compatibility
@@ -50,7 +44,4 @@ The 3-in-1 hub is the standout feature. Normally, if you have 4–6 ARGB case fa
 
 ## Warranty
 
-3 years from date of purchase.
-
----
-*Last verified: 2026-10-14*
+Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page).

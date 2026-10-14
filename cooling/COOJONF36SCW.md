@@ -36,7 +36,6 @@
 - **Future-proof builders** — the broad socket support (LGA1851 down to LGA115x, AM5 down to AM4) means the cooler remains usable across multiple CPU generations. Invest once, upgrade the CPU later without replacing the AIO.
 
 ## Why Buy From ExtremePC
-- **Jonsbo stocked in Onehunga warehouse** — 6 units available for same-day Auckland pickup or next-day courier delivery to Christchurch, Wellington, or Hamilton.
 - **Local warranty processing** — manufacturer warranty serviced through ExtremePC NZ. If the pump fails, you deal with the Auckland team, not an overseas portal.
 - **Auckland Build Team white-build expertise** — the build team has experience assembling white-themed systems and will route cables, mount the radiator, and sync ARGB headers before dispatch.
 - **Black variant available** — ExtremePC also stocks the TF3-360SCB black version (COOJONF36SCB), so if your build theme changes, the matching color is in the same store.

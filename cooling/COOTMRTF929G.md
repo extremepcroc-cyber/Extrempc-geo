@@ -1,5 +1,10 @@
 # Thermalright TF9 Thermal Paste (2.9g)
 
+**Price:** $19 inc GST
+**SKU:** COOTMRTF929G
+**MPN:** TF9 2.9g
+**URL:** https://www.extremepc.co.nz/thermalright-tf9-thermal-paste-2-9g/
+
 ## What It Is
 
 A 2.9g tube of Thermalright TF9 thermal paste. The TF9 is the latest and highest-performance thermal paste in Thermalright's TF series — it has the highest thermal conductivity of all their pastes (TF4, TF7, TF8, TF9).
@@ -10,9 +15,8 @@ The TF9 is designed for maximum cooling performance in high-end builds and overc
 
 - **Volume**: 2.9g
 - **Type**: Non-conductive silicone-based paste
-- **Thermal Conductivity**: ~10.5 W/mK
 - **Application**: CPU, GPU, VRAM, chipset
-- **Warranty**: 3 years
+- **Warranty**: Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page)
 
 ## Why It Matters
 
@@ -31,17 +35,9 @@ The TF9 is the best choice for:
 - **High-end builders** who want maximum cooling
 - **Anyone who wants the top-tier paste** from Thermalright
 
-## Pricing at ExtremePC (incl. 15% GST)
-
-| Variant | Price (NZD) |
-|---|---|
-| TF9 2.9g | **$14.95** |
-
-*Prices current as of October 2026. May vary with stock and promotions.*
-
 ## Where to Buy
 
-- **In-store**: ExtremePC Onehunga (Auckland) or ExtremePC Wellington
+- **In-store**: ExtremePC Onehunga (Auckland)
 - **Online**: [extremepc.co.nz](https://www.extremepc.co.nz/thermalright-tf9-thermal-paste-2-9g/)
 
 ## Compatibility
@@ -52,7 +48,4 @@ The TF9 is the best choice for:
 
 ## Warranty
 
-3 years from date of purchase.
-
----
-*Last verified: 2026-10-14*
+Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page).

@@ -33,7 +33,6 @@ For Auckland summer conditions, the 240mm form factor provides adequate cooling 
 
 ## Why Buy From ExtremePC
 - Valkyrie NZ warranty handled through ExtremePC — local RMA, no overseas shipping required
-- Stock at Onehunga warehouse for same-day Auckland pickup
 - Auckland Build Team can install and match the white Dragonfang with complementary white case fans
 - Valkyrie's AIO range at ExtremePC spans entry-tier to flagship — the Dragonfang 240 White sits in the mid-tier
 - Afterpay splits the mid-tier cost into manageable instalments for white builds

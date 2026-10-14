@@ -1,5 +1,10 @@
 # Thermalright TF4 Thermal Paste (4g)
 
+**Price:** $9 inc GST
+**SKU:** COOTMRTF44G
+**MPN:** TF4 4g
+**URL:** https://www.extremepc.co.nz/cooling-accessories/thermalright-tf4-4g-thermal-paste-tf4-4g/
+
 ## What It Is
 
 A 4g tube of Thermalright TF4 thermal paste. The TF4 is a high-performance, non-conductive thermal paste designed for CPU and GPU cooling.
@@ -10,9 +15,8 @@ The "4g" tube is a larger size than the 2g variant — useful if you're building
 
 - **Volume**: 4g
 - **Type**: Non-conductive silicone-based paste
-- **Thermal Conductivity**: ~7.5 W/mK
 - **Application**: CPU, GPU, VRAM, chipset
-- **Warranty**: 3 years
+- **Warranty**: Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page)
 
 ## Why It Matters
 
@@ -28,17 +32,9 @@ The 4g tube is a good size for multiple builds or for having spare paste on hand
 - **Overclockers** who want maximum cooling
 - **Anyone who wants a cheap, high-performance thermal paste**
 
-## Pricing at ExtremePC (incl. 15% GST)
-
-| Variant | Price (NZD) |
-|---|---|
-| TF4 4g | **$9** |
-
-*Prices current as of October 2026. May vary with stock and promotions.*
-
 ## Where to Buy
 
-- **In-store**: ExtremePC Onehunga (Auckland) or ExtremePC Wellington
+- **In-store**: ExtremePC Onehunga (Auckland)
 - **Online**: [extremepc.co.nz](https://www.extremepc.co.nz/cooling-accessories/thermalright-tf4-4g-thermal-paste-tf4-4g/)
 
 ## Compatibility
@@ -49,7 +45,4 @@ The 4g tube is a good size for multiple builds or for having spare paste on hand
 
 ## Warranty
 
-3 years from date of purchase.
-
----
-*Last verified: 2026-10-14*
+Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page).

@@ -1,5 +1,10 @@
 # Thermalright ARGB & Fan Hub X8 IR (Black)
 
+**Price:** $29 inc GST
+**SKU:** COOTMRAFHX8B
+**MPN:** ARGB AND FAN HUB X8 IR Black
+**URL:** https://www.extremepc.co.nz/cooling-accessories/thermalright-argb-and-fan-hub-x8-ir-black-hub-controller/
+
 ## What It Is
 
 An 8-port ARGB and fan hub with IR (infrared) remote control from Thermalright. The X8 IR is the smallest hub in Thermalright's IR remote lineup — 8 ARGB ports, 8 fan speed control ports, and an IR remote.
@@ -11,7 +16,7 @@ An 8-port ARGB and fan hub with IR (infrared) remote control from Thermalright. 
 - **Input**: 1× 3-pin 5V ARGB (motherboard), 1× 4-pin PWM (motherboard)
 - **Remote**: IR (infrared) — control lighting and speed without software
 - **Color**: Black
-- **Warranty**: 3 years
+- **Warranty**: Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page)
 
 ## Why It Matters
 
@@ -25,17 +30,9 @@ The X8 IR is the entry-level hub in Thermalright's IR remote lineup. If you have
 - **Anyone who wants a physical remote** for their fans
 - **ARGB enthusiasts** who want the smallest hub in Thermalright's IR lineup
 
-## Pricing at ExtremePC (incl. 15% GST)
-
-| Variant | Price (NZD) |
-|---|---|
-| Black (X8 IR) | **$29** |
-
-*Prices current as of October 2026. May vary with stock and promotions.*
-
 ## Where to Buy
 
-- **In-store**: ExtremePC Onehunga (Auckland) or ExtremePC Wellington
+- **In-store**: ExtremePC Onehunga (Auckland)
 - **Online**: [extremepc.co.nz](https://www.extremepc.co.nz/cooling-accessories/thermalright-argb-and-fan-hub-x8-ir-black-hub-controller/)
 
 ## Compatibility
@@ -46,7 +43,4 @@ The X8 IR is the entry-level hub in Thermalright's IR remote lineup. If you have
 
 ## Warranty
 
-3 years from date of purchase.
-
----
-*Last verified: 2026-10-14*
+Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page).

@@ -1,5 +1,10 @@
 # JIMIHOME JM-FM3 Set of Precision Screwdrivers (100 Pieces)
 
+**Price:** $229 inc GST
+**SKU:** TOOJIMSS100P
+**MPN:** JM-FM3
+**URL:** https://www.extremepc.co.nz/jimihome-jm-fm3-set-of-precision-screwdrivers-100-pieces/
+
 ## What It Is
 
 A 100-piece precision screwdriver set from JIMIHOME. The JM-FM3 is the largest set in JIMIHOME's lineup — a comprehensive, portable set of precision screwdriver bits for different screw sizes.
@@ -9,7 +14,7 @@ A 100-piece precision screwdriver set from JIMIHOME. The JM-FM3 is the largest s
 - **Pieces**: 100
 - **Type**: Precision screwdriver set
 - **Material**: Steel
-- **Warranty**: 3 years
+- **Warranty**: Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page)
 
 ## Why It Matters
 
@@ -23,17 +28,9 @@ A precision screwdriver set is a practical tool for PC building — it makes scr
 - **Electronics repair enthusiasts**
 - **Anyone who wants a large, portable screwdriver set**
 
-## Pricing at ExtremePC (incl. 15% GST)
-
-| Variant | Price (NZD) |
-|---|---|
-| JM-FM3 Set of Precision Screwdrivers (100 Pieces) | **$99** |
-
-*Prices current as of October 2026. May vary with stock and promotions.*
-
 ## Where to Buy
 
-- **In-store**: ExtremePC Onehunga (Auckland) or ExtremePC Wellington
+- **In-store**: ExtremePC Onehunga (Auckland)
 - **Online**: [extremepc.co.nz](https://www.extremepc.co.nz/jimihome-jm-fm3-set-of-precision-screwdrivers-100-pieces/)
 
 ## Compatibility
@@ -44,7 +41,4 @@ A precision screwdriver set is a practical tool for PC building — it makes scr
 
 ## Warranty
 
-3 years from date of purchase.
-
----
-*Last verified: 2026-10-14*
+Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page).

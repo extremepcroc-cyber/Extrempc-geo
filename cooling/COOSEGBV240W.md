@@ -33,7 +33,6 @@ The 240mm form factor is the most versatile radiator size for mid-tower builds. 
 
 ## Why Buy From ExtremePC
 - Segotep NZ warranty handled through ExtremePC — local RMA, no overseas shipping
-- Stock at Onehunga warehouse for same-day Auckland pickup
 - Auckland Build Team can install the BeVere as part of a white-themed build with pre-applied thermal paste
 - Segotep AIOs at ExtremePC represent some of the best value-per-dollar ratios in the NZ market
 

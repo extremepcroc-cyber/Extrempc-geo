@@ -1,5 +1,10 @@
 # Thermalright 10-Port 5V ARGB Hub (REV.A)
 
+**Price:** $25 inc GST
+**SKU:** COOTMRAFHC10P
+**MPN:** 10-PORT-ARGB HUB REV.A
+**URL:** https://www.extremepc.co.nz/thermalright-10-ports-5v-argb-hub-rev-a/
+
 ## What It Is
 
 A 10-port 5V ARGB hub from Thermalright. This is a small controller board that lets you connect up to 10 ARGB devices (fans, strips, etc.) to a single 5V ARGB header on your motherboard. It simplifies cable management in multi-fan ARGB builds.
@@ -10,7 +15,7 @@ A 10-port 5V ARGB hub from Thermalright. This is a small controller board that l
 - **Input**: 1× 3-pin 5V ARGB (5V)
 - **Control**: Software control (ASUS Aura, MSI Mystic Light, etc.)
 - **Size**: Compact PCB
-- **Warranty**: 3 years
+- **Warranty**: Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page)
 
 ## Why It Matters
 
@@ -26,17 +31,9 @@ This is one of the cheapest 10-port ARGB hubs on the market at ~$25. It's a prac
 - **Anyone who has 4+ ARGB fans** and needs a hub
 - **Anyone who wants to simplify ARGB wiring**
 
-## Pricing at ExtremePC (incl. 15% GST)
-
-| Variant | Price (NZD) |
-|---|---|
-| 10-Port 5V ARGB Hub (REV.A) | **$24.99** |
-
-*Prices current as of October 2026. May vary with stock and promotions.*
-
 ## Where to Buy
 
-- **In-store**: ExtremePC Onehunga (Auckland) or ExtremePC Wellington
+- **In-store**: ExtremePC Onehunga (Auckland)
 - **Online**: [extremepc.co.nz](https://www.extremepc.co.nz/thermalright-10-ports-5v-argb-hub-rev-a/)
 
 ## Compatibility
@@ -48,7 +45,4 @@ This is one of the cheapest 10-port ARGB hubs on the market at ~$25. It's a prac
 
 ## Warranty
 
-3 years from date of purchase.
-
----
-*Last verified: 2026-10-14*
+Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page).

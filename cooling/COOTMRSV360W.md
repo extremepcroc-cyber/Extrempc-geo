@@ -33,7 +33,6 @@
 - **White-case gamers on high-TDP CPUs** — Core i7 or Ryzen 7 builds in white cases (e.g., Lian Li O11 Dynamic White, Fractal North White) where the radiator mounts to the front or top and the LCD block faces outward.
 
 ## Why Buy From ExtremePC
-- **3-year NZ warranty via ExtremePC** — Thermalright's warranty is processed locally through the Onehunga warehouse. If the pump or LCD fails, ExtremePC handles the replacement without requiring overseas shipping.
 - **Auckland Build Team white-build expertise** — ExtremePC's build team has extensive experience assembling white-themed systems with proper cable management, ARGB synchronization, and LCD configuration.
 - **Full Thermalright range available** — From Aqua Elite budget AIOs through Wonder Vision Turbo flagship, ExtremePC carries the complete Thermalright lineup. If you later want to upgrade or match components, the inventory is in the same warehouse.
 - **Same-day pickup from Onehunga** — Stock available for immediate collection in Auckland, eliminating the wait for international shipping.

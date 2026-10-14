@@ -1,5 +1,10 @@
 # Thermalright Heilos Solid Thermal Interface Sheet (Intel 30x40x0.2mm)
 
+**Price:** $10 inc GST
+**SKU:** COOTMRHEIINT
+**MPN:** Heilos Intel 30x40x0.2mm
+**URL:** https://www.extremepc.co.nz/thermalright-heilos-solid-thermal-interface-sheet-for-intel-30-40-0-2mm/
+
 ## What It Is
 
 A solid thermal interface sheet (TIM) for Intel CPUs from Thermalright's Heilos series. The Heilos is a 30mm × 40mm × 0.2mm sheet that sits between the CPU and the heatsink — it's a solid-state alternative to traditional thermal paste.
@@ -9,10 +14,9 @@ The "Solid" in Heilos means it's a rigid sheet, not a liquid paste. It's pre-app
 ## Key Specs
 
 - **Size**: 30mm × 40mm × 0.2mm
-- **Thermal Conductivity**: ~10 W/mK (estimated)
 - **Material**: Solid ceramic-based sheet
 - **Socket Support**: Intel (115x/1200/1700/1851)
-- **Warranty**: 3 years
+- **Warranty**: Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page)
 
 ## Why It Matters
 
@@ -31,17 +35,9 @@ This is especially useful for:
 - **Anyone who wants a set-and-forget** thermal solution
 - **Upgraders** who don't want to mess with paste
 
-## Pricing at ExtremePC (incl. 15% GST)
-
-| Variant | Price (NZD) |
-|---|---|
-| Intel 30x40x0.2mm (Heilos) | **$5.75** |
-
-*Prices current as of October 2026. May vary with stock and promotions.*
-
 ## Where to Buy
 
-- **In-store**: ExtremePC Onehunga (Auckland) or ExtremePC Wellington
+- **In-store**: ExtremePC Onehunga (Auckland)
 - **Online**: [extremepc.co.nz](https://www.extremepc.co.nz/thermalright-heilos-solid-thermal-interface-sheet-for-intel-30-40-0-2mm/)
 
 ## Compatibility
@@ -53,7 +49,4 @@ This is especially useful for:
 
 ## Warranty
 
-3 years from date of purchase.
-
----
-*Last verified: 2026-10-14*
+Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page).
