@@ -3,7 +3,7 @@
 **Price:** NZD $187.85 (incl. GST) — BC API verified 2026-09-22 (sale ended, back to list $163.35 ex-GST × 1.15)
 **SKU:** MBCOLB65ME4
 **URL:** https://www.extremepc.co.nz/colorful-battle-ax-b650m-e-wifi-v14-am5-matx-motherboard/
-**Stock:** We have plenty in stock
+**Stock:** Only a few left in stock (OH=4, BC API verified 2026-10-24; was OH=6 on 10-23)
 
 ## Quick Specs
 - CPU Socket: AM5

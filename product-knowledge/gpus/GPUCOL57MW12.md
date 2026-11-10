@@ -3,7 +3,7 @@
 **Price:** NZD $1699.0 (incl. GST)
 **SKU:** GPUCOL57MW12
 **URL:** https://www.extremepc.co.nz/rtx-50-series/colorful-igame-geforce-rtx-5070-mini-w-oc-12gb-v-graphics-card/
-**Stock:** Only a few left in stock
+**Stock:** OUT OF STOCK (BC API verified 2026-10-17, OH=0 — stale "Only a few left" corrected; sibling RTX 5070 line still stocked)
 
 ## Quick Specs
 - GPU: NVIDIA GeForce RTX 5070 (Blackwell)

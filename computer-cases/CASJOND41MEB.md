@@ -69,7 +69,7 @@ Not currently in stock at ExtremePC. The D41 range is available in black; for wh
 
 - Jonsbo D41 STD Black (CASJOND41STDB) — same specs with solid front panel
 - Zalman N7 Plus V2 (CASZALN7PV2) — includes ARGB fans + USB-C
-- Zalman N4 Rev.1 Black (CASZALN4MB) — includes ARGB fans + 3× 3.5" HDD bays
+- Zalman N4 Rev.1 Black (CASZALN4MB) — includes ARGB fans + 3× 3.5" HDD bays (⚠️ OOS 2026-10-31)
 
 ## Schema (JSON-LD)
 

@@ -1,6 +1,6 @@
 # Thermalright Peerless Assassin 120 (Black CPU Cooler)
 
-**Price:** $109 inc GST
+**Price:** $92 inc GST (sale from $109.00, BC API verified 2026-11-06)
 **SKU:** COOTMRPA120B
 **MPN:** PA120 BLACK
 **URL:** https://www.extremepc.co.nz/thermalright-peerless-assassin-120-black-cpu-cooler/

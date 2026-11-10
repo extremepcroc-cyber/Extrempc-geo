@@ -14,4 +14,5 @@
 - **Display:** No
 - **Color:** Gray
 
-**Stock:** OUT OF STOCK (verified 2026-09-10, BC API inventory=0; Onehunga not available online)
+**Price:** NZD $86.25 (incl. GST, on sale from $99.00) — BC API verified 2026-10-23
+**Stock:** Only a few left in stock (RESTOCKED — BC API verified 2026-10-23, Onehunga OH=3; was OUT OF STOCK on 2026-09-10)

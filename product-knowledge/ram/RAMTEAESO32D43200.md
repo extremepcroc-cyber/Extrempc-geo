@@ -3,7 +3,7 @@
 **Price:** NZD $459.0 (incl. GST)
 **SKU:** RAMTEAESO32D43200
 **URL:** https://www.extremepc.co.nz/team-elite-32gb-1x32gb-ddr4-3200mhz-so-dimm-laptop-memory/
-**Stock:** Only a few left in stock
+**Stock:** OUT OF STOCK (BC API verified 2026-10-19, Onehunga OH=0; was OH=1 on 2026-10-18)
 
 ## Quick Specs
 - Type: DDR4

@@ -3,7 +3,7 @@
 **Price:** NZD $69.0 (incl. GST)
 **SKU:** COOJONPISAA5G
 **URL:** https://www.extremepc.co.nz/jonsbo-pisa-a5-rgb-cpu-cooler-gray/
-**Stock:** Only a few left in stock (OH=5, verified 2026-09-24, BC API; was OH=6 on 09-23)
+**Status:** OUT OF STOCK (OH=0, BC API verified 2026-10-25; was OH=5 on 09-24)
 
 ## Quick Specs
 - Type: Air Cooler
@@ -18,4 +18,4 @@ This CPU cooler is available at ExtremePC in Auckland, NZ. For detailed compatib
 - Local NZ stock with fast availability
 - In-store pickup at Onehunga or Wellington
 - Expert build service available ($80 build fee)
-- 2-year NZ warranty support
+- Manufacturer warranty — exact length on the product page

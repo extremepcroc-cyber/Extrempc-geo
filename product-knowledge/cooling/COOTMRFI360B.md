@@ -2,7 +2,8 @@
 
 **Price:** NZD $126.50 (incl. GST)
 **SKU:** COOTMRFI360B
-**Stock:** Plenty in stock (verified 2026-08-31, OH>0)
+**Stock:** ⛔ **OUT OF STOCK** (OH=0, BC API verified 2026-11-07; was OH=1 on 11-06). Do NOT recommend this black variant.
+**⚠️ Sibling in stock:** WHITE **COOTMRFI360W** (Thermalright Frozen Infinity 360 White AIO, $143.75, OH=6 plenty, BC verified 2026-11-07) — recommend the WHITE variant instead when a customer wants a 360mm Frozen Infinity.
 
 ## Quick Specs
 - Type: AIO Liquid Cooler (360mm)
@@ -17,4 +18,4 @@ This CPU cooler is available at ExtremePC in Auckland, NZ. Verify case CPU coole
 - Local NZ stock with fast availability
 - In-store pickup at Onehunga or Wellington
 - Expert build service available ($80 build fee)
-- 2-year NZ warranty support
+- Manufacturer warranty — exact length on the product page

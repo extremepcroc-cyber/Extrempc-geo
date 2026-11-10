@@ -1,9 +1,9 @@
 # Razer Pro Click v2 Vertical Ergonomic Wireless Mouse (AP Packaging) RZ01-05250100-R3A
 
-**Price:** NZD $229.00 (incl. GST)
+**Price:** NZD $239.00 (incl. GST) — BC API verified 2026-10-20 (was $229.00)
 **SKU:** MOSRAZPCV2V
 **URL:** https://www.extremepc.co.nz/razer-pro-click-v2-wireless-productivity-mouse-vertical-edition-ap-packaging/
-**Stock:** Only a few left in stock
+**Stock:** OUT OF STOCK (BC API verified 2026-10-20, Onehunga OH=0; was "only a few left" previously)
 
 ## Quick Specs
 - Connection: Wireless (2.4G + USB-C)

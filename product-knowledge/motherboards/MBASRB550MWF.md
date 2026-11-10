@@ -1,9 +1,9 @@
 # ASRock B550M WIFI AM4 MATX Ryzen Motherboard
 
-**Price:** NZD $184.00 (incl. GST) — on sale from $199.00 (verified 2026-09-23, BC API calc $160 × 1.15)
+**Price:** NZD $181.70 (incl. GST) — on sale from $199.00 (BC API verified 2026-11-03; was $184.00 on 09-23)
 **SKU:** MBASRB550MWF
 **URL:** https://www.extremepc.co.nz/amd-motherboards/asrock-b550m-wifi-se-am4-matx-ryzen-motherboard/
-**Stock:** In Stock — We have plenty in stock (OH=25, verified 2026-09-23, BC API)
+**Stock:** In Stock — We have plenty in stock (OH=163, BC API verified 2026-11-03; was OH=25 on 09-23)
 
 ## Quick Specs
 - CPU Socket: AMD AM4 (spec line corrected 2026-09-13 — B550 is an AM4 chipset; name says "AM4 MATX Ryzen")
@@ -21,4 +21,4 @@ This motherboard is available at ExtremePC in Auckland, NZ. For detailed compati
 - Local NZ stock with fast availability
 - In-store pickup at Onehunga or Wellington
 - Expert build service available ($80 build fee)
-- 2-year NZ warranty support
+- Manufacturer warranty — exact length on the product page

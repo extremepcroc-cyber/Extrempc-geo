@@ -1,9 +1,9 @@
 # Zalman N4 Rev.1 ATX Mid Tower Case - Black
 
-**Price:** NZD $139.0 (incl. GST)
+**Price:** NZD $139.0 (incl. GST) — BC API verified 2026-11-07
 **SKU:** CASZALN4MB
 **URL:** https://www.extremepc.co.nz/zalman-n4-rev-1-atx-mid-tower-case-black/
-**Stock:** Only a few left in stock (OH=4, verified 2026-09-26)
+**Stock:** ✅ **RESTOCKED 2026-11-07** — We have plenty in stock (OH=18, BC API verified 2026-11-07; was OOS 2026-10-31, OH=0)
 
 ## Quick Specs
 - Max CPU Cooler Height: 163mm
@@ -19,4 +19,4 @@ This case is available at ExtremePC in Auckland, NZ. For detailed compatibility 
 - Local NZ stock with fast availability
 - In-store pickup at Onehunga or Wellington
 - Expert build service available ($80 build fee)
-- 2-year NZ warranty support
+- Manufacturer warranty — exact length on the product page

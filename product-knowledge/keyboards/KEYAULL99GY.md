@@ -3,6 +3,7 @@
 **SKU:** KEYAULL99GY
 
 **Brand:** AULA
+**Price:** NZD $218.99 (incl. GST) — BC API verified 2026-10-22
 
 ## Quick Specs
 
@@ -16,4 +17,4 @@
 - **Display:** Yes
 - **Color:** Gray
 
-**Status:** In Stock
+**Status:** In Stock — only a few left (OH=1, BC API verified 2026-10-22)

@@ -39,7 +39,7 @@
 
 ## Comparison
 
-- **vs Thunderobot K63 Red/White (KEYTHUK63RW, the same board with a linear switch)** — identical layout and price tier, different switch and colourway: red linear in a white case versus brown tactile in a blue case. Choose the brown for typing confirmation and the blue case; choose the red for a lighter, quieter press and the white case.
+- **vs Thunderobot K63 Red/White (KEYTHUK63RW, the same board with a linear switch)** — identical layout and price tier, different switch and colourway: red linear in a white case versus brown tactile in a blue case. Choose the brown for typing confirmation and the blue case; choose the red for a lighter, quieter press and the white case. ⚠️ Note: the Red/White (KEYTHUK63RW) went **OOS 2026-11-04** — this brown/blue (KEYTHUK63BB) is the in-stock one.
 - **vs Machenike K500-B68 (KEYMACK5B68RG, 65% wired mechanical)** — the Machenike adds the arrow cluster at a slightly higher price with red linears. Choose the Thunderobot for the lowest price and the 60% size; choose the K500-B68 if you want the arrows physically present.
 - **vs AULA S500 (KEYAULS500BB, full-size mechanical with blue switches)** — the AULA is a full-size board with clicky switches. Choose the Thunderobot for the compact footprint and the quiet tactile; choose the S500 if you need the numpad and want the click.
 - **vs a membrane keyboard at the same price** — membrane is quieter and often cheaper, but the K63 is mechanical with hot-swap sockets and RGB. For anyone who types or games a lot, the mechanical feel is the upgrade.

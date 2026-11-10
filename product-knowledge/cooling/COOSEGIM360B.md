@@ -3,7 +3,7 @@
 **Price:** NZD $97.75 (incl. GST) (on sale from $159.00)
 **SKU:** COOSEGIM360B
 **URL:** https://www.extremepc.co.nz/segotep-icemoon-360-argb-aio-liquid-cpu-cooler-black/
-**Stock:** Plenty in stock
+**Stock:** Only a few left in stock (OH=3, BC API verified 2026-10-26)
 
 ## Quick Specs
 - Type: AIO Liquid Cooler
@@ -16,4 +16,4 @@ This CPU cooler is available at ExtremePC in Auckland, NZ. For detailed compatib
 - Local NZ stock with fast availability
 - In-store pickup at Onehunga or Wellington
 - Expert build service available ($80 build fee)
-- 2-year NZ warranty support
+- Manufacturer warranty — exact length on the product page

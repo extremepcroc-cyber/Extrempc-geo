@@ -3,6 +3,7 @@
 **SKU:** MOSLOGG703B
 
 **Brand:** Logitech
+**Price:** NZD $155.25 (incl. GST, on sale from $179.00) — BC API verified 2026-10-22
 
 ## Quick Specs
 
@@ -12,4 +13,4 @@
 - **Gaming:** Yes
 - **Color:** Black
 
-**Stock:** OUT OF STOCK (verified 2026-09-10, BC API inventory=0; Onehunga not available online)
+**Stock:** In Stock — Only a few left (OH=3, verified 2026-10-18, BC API RESTOCKED from OOS)

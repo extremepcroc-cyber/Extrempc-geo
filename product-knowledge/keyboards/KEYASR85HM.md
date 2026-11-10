@@ -19,7 +19,7 @@
 
 ## Compatibility Notes
 - 75%+ layout (79 keys)
-- Sibling: R85 HE White Contours (KEYASR85HWC, in stock)
+- Sibling: R85 HE White Contours (KEYASR85HWC — ⚠️ OOS 2026-11-03, do not recommend; Moonlight variant KEYASR85HM is the in-stock R85 HE pick)
 - R82 HE sibling: Black (KEYASR82HB, in stock)
 
 ## Why Buy From ExtremePC

@@ -3,11 +3,11 @@ sku: KEYAULAU75BS
 name: AULA AU75 RGB Hot-Swappable Wireless Gaming Keyboard - Black Yellow, Star Vector Switch, 81 keys
 brand: AULA
 mpn: AU75 Black Yellow
-price_nzd_ex_gst: 129.57
-price_nzd_incl_gst: 149.01
+price_nzd_ex_gst: 120.87
+price_nzd_incl_gst: 139.00
 url: /wireless-gaming-keyboards/aula-au75-rgb-hot-swappable-wireless-gaming-keyboard-black-yellow-star-vector-switch-81-keys/
 category: Keyboards
-status: In Stock
+status: In Stock — only a few left (OH=5, BC API verified 2026-10-22; was $149.01 on 2026-10-18)
 ---
 
 # AULA AU75 RGB Hot-Swappable Wireless Gaming Keyboard - Black Yellow

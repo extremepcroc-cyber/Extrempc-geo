@@ -66,7 +66,7 @@
 ## Related Products
 
 - **WEBRAZKV2XB** — Razer Kiyo V2 X (1080p60)
-- **WEBELGF4KB** — Elgato Facecam 4K (4K60 + HDR)
+- **WEBELGF4KB** — Elgato Facecam 4K (4K60 + HDR; ⚠️ OOS 2026-10-30 — in-stock sibling: Facecam Neo WEBELGFACEN)
 - **MICELGW3USBB** — Elgato Wave:3 (dedicated USB mic)
 - Recommended pairing: a USB mic for a complete streaming setup
 

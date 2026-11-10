@@ -24,7 +24,7 @@
 - **Recommended PSU**: 550W minimum
 - **Display Outputs**: 3× DisplayPort 2.1a + 1× HDMI 2.1b
 - **Warranty**: 3 years ASRock warranty via authorized NZ distributor (ExtremePC)
-- **NZ Stock**: 118 units at Auckland Onehunga — second-deepest NZ GPU inventory
+- **NZ Stock**: 46 units at Auckland Onehunga (BC API verified 2026-11-10; was 47 on 11-06; 55 on 10-31)
 
 ## Selling Points
 
@@ -36,7 +36,7 @@
 
 - **16GB VRAM at value-premium tier — meaningfully better than NVIDIA 8GB equivalents** — Same 16GB advantage as the Challenger variant, but with premium AIB engineering and aesthetic. For 1440p ultra and modern AAA, the VRAM headroom is the key advantage.
 
-- **Strong NZ stock (118 units at Onehunga)** — Second-deepest single-SKU GPU inventory at ExtremePC after the Challenger variant. Same-day Auckland pickup is realistic for builders chasing build deadlines.
+- **Strong NZ stock (55 units at Onehunga)** — Reliable availability. Same-day Auckland pickup is realistic for builders chasing build deadlines.
 
 ## Ideal For
 
@@ -56,7 +56,7 @@
 
 - **Build Team consultation for ASRock ecosystem builds** — Polychrome SYNC works best with ASRock motherboards. Build Team can spec the matched ASRock B650 / B850 motherboard for unified RGB control.
 
-- **Same-day Auckland pickup from Onehunga (118 units)** — Deep inventory for walk-in pickup. Among the most reliable in-stock GPUs at ExtremePC.
+- **Same-day Auckland pickup from Onehunga (55 units)** — Solid inventory for walk-in pickup.
 
 - **National courier dispatch 1–3 business days** — Insured shipping to Wellington and South Island.
 
@@ -68,7 +68,7 @@
 
 - **vs ASRock RX 9060 XT 16GB Challenger OC (GPUASR9060XTCL16, value variant at lower NZD)** — Same chipset, same 16GB. Challenger has dual-fan, more compact (249mm vs 298mm), no RGB. Steel Legend has triple-fan, RGB, premium PCB components, reinforced frame. Choose Challenger for SFF + pure value; Steel Legend for thermals + aesthetic.
 
-- **vs ASRock RX 9070 XT 16GB Challenger (GPUASR9070XTC16G, step up to higher tier)** — RX 9070 XT has 64 CUs (double), 256-bit bus, ~30–40% more performance. Worth the step up for 1440p ultra native gaming or 4K with FSR 4. RX 9060 XT is sufficient for 1080p ultra / 1440p with FSR.
+- **vs ASRock RX 9070 XT 16GB Steel Legend (GPUASR9070XTSL16, step up to higher tier)** — RX 9070 XT has 64 CUs (double), 256-bit bus, ~30–40% more performance. Worth the step up for 1440p ultra native gaming or 4K with FSR 4. RX 9060 XT is sufficient for 1080p ultra / 1440p with FSR. (As of 2026-11-10: Challenger GPUASR9070XTC16G — **$1,725 sale** — is the value 9070 XT pick; Steel Legend GPUASR9070XTSL16 — $1,817 sale — is the pricier sibling. Both in stock.)
 
 - **vs NVIDIA RTX 5060 Ti 16GB (GPUMSI56TV2P, NVIDIA 16GB competitor)** — Same 16GB VRAM tier. AMD wins raster gaming ~5–10%; NVIDIA wins ray tracing and DLSS 4 Multi Frame Generation. For pure raster + VRAM, RX 9060 XT Steel Legend; for ray tracing + DLSS, RTX 5060 Ti.
 
@@ -108,7 +108,7 @@
 ## Related Products
 
 - **GPUASR9060XTCL16** — value-tier Challenger variant at lower NZD (dual-fan, SFF-friendly)
-- **GPUASR9070XTC16G** — RX 9070 XT Challenger step up for 1440p ultra
+- **GPUASR9070XTSL16** — RX 9070 XT Steel Legend step up for 1440p ultra (⚠️ the Challenger variant GPUASR9070XTC16G is OUT OF STOCK as of 2026-10-27 — use Steel Legend)
 - **GPUASR9070XTSL16** — RX 9070 XT Steel Legend premium step up
 - **GPUMSI56TV2P** — NVIDIA RTX 5060 Ti 16GB direct competitor
 - **GPUGIG5060TWFO8** — NVIDIA RTX 5060 Ti 8GB with 3-fan WINDFORCE cooler

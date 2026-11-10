@@ -12,7 +12,7 @@
 - **Modularity**: Full Modular
 - **Colour**: White
 - **Warranty**: Segotep warranty (ExtremePC)
-- **NZ Stock**: In stock at Auckland Onehunga
+- **NZ Stock**: ⛔ **OUT OF STOCK** — BC API verified 2026-11-05 (OH=0; was OH=2 on 2026-11-04). White 850W now unavailable — in-stock 850W alternatives: BLACK **PSUSEGGM850W1B** (Segotep GM850W Black, $169, OH=33) and **PSUTMRKG850** (Thermalright TR-KG850 850W, $169, OH=16).
 
 ## Selling Points
 
@@ -33,7 +33,7 @@
 
 - **Authorized retailer** — Segotep warranty serviced domestically through ExtremePC NZ.
 - **Build Team consultation for PSU sizing** — Build Team can size the PSU to your exact CPU + GPU combo (avoiding over- or under-buying wattage).
-- **Auckland Onehunga in stock** — Walk-in pickup for Auckland.
+- **⛔ Currently OUT OF STOCK** (2026-11-05) — the in-stock 850W alternatives are BLACK **PSUSEGGM850W1B** ($169) and **PSUTMRKG850** ($169); direct white-build customers to those or 09 849 4999 for restock timing.
 - **National courier dispatch 1–3 business days** — Insured shipping to Wellington and South Island.
 - **23 years of NZ retail with physical Auckland presence.**
 - **Local payment options** — Inc GST pricing, Afterpay 4-instalment, credit card with no FX surcharges.

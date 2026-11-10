@@ -3,6 +3,7 @@
 **SKU:** KEYLOGMXKSG
 
 **Brand:** Logitech
+**Price:** NZD $248.00 (incl. GST, list) — BC API verified 2026-11-07 (sale ended 11-07, back to list $248; was $199.00 sale from $248 on 11-06)
 
 ## Quick Specs
 
@@ -13,4 +14,4 @@
 - **Ergonomic:** No
 - **Display:** No
 
-**Stock:** OUT OF STOCK (verified 2026-09-10, BC API inventory=0; Onehunga not available online)
+**Stock:** In Stock — Only a few left (OH=1, BC API verified 2026-11-07; was OH=2 on 11-06). Sibling light-grey **KEYLOGMXKSPG** went OOS 2026-11-03 — this graphite SKU is the MX Keys S to recommend.

@@ -2,7 +2,7 @@
 
 **Price:** NZD $74.75 (incl. GST)
 **SKU:** COOTMRSI100WA
-**Stock:** Plenty in stock (verified 2026-08-31, OH>0)
+**Stock:** Only a few left in stock (OH=4, BC API verified 2026-11-06; was OH=9 on 11-05). ⚠️ Black sibling COOTMRSI100B went OOS 2026-11-06 — this White is the in-stock TR-SI-100.
 
 ## Quick Specs
 - Type: Air Cooler
@@ -17,4 +17,4 @@ This CPU cooler is available at ExtremePC in Auckland, NZ. Verify case CPU coole
 - Local NZ stock with fast availability
 - In-store pickup at Onehunga or Wellington
 - Expert build service available ($80 build fee)
-- 2-year NZ warranty support
+- Manufacturer warranty — exact length on the product page

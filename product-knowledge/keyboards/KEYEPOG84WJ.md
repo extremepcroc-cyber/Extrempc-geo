@@ -16,4 +16,5 @@
 - **Display:** No
 - **Color:** White
 
-**Status:** In Stock
+**Price:** NZD $149.01 (incl. GST, on sale from $189.00) — BC API verified 2026-10-23
+**Status:** In Stock — only a few left (BC API verified 2026-10-23, Onehunga OH=5)

@@ -2,8 +2,8 @@
 
 **SKU:** MONAOC27B36X
 **Brand:** AOC
-**Price:** NZD $189.00 (incl. GST)
-**Status:** In Stock
+**Price:** NZD $199.00 (incl. GST) — BC API verified 2026-11-10 (up from $189.00 on 11-07)
+**Status:** In Stock — Only a few left (OH=1, BC API verified 2026-11-10; was OH=4 on 11-07, OH=6 on 10-29) — running low
 
 ## Quick Specs
 

@@ -3,7 +3,7 @@
 **SKU:** HDSMCHX9PB (Black) / HDSMCHX9PR (Rose Red) / HDSMCHX9PW (White)
 **Brand:** MCHOSE
 **Price:** NZD $149.01 (incl. GST) — BC API verified 2026-09-30 (list price increased $129→$149.01)
-**Status:** In Stock — RESTOCKED (verified 2026-09-22, BC API). Rose Red HDSMCHX9PR OH=5 / White HDSMCHX9PW OH=14 / Black HDSMCHX9PB removed from BC catalog. All $149.01 incl GST (list, no sale, verified 2026-09-30)
+**Status:** **OUT OF STOCK** (2026-10-16 batch, BC API OH=0, not in 2026-10-15 cache; all color variants gone — Black HDSMCHX9PB, Rose Red HDSMCHX9PR, White HDSMCHX9PW).
 
 ## Quick Specs
 

@@ -1,8 +1,8 @@
 # AOC 27E4UJ 27" FHD 120Hz IPS Business Monitor
 
-**Price:** NZD $249.00 (incl. GST)
 **SKU:** MONAOC27E4UJ
-**Stock:** Only a few left in stock (verified 2026-08-31, OH>0)
+**Price:** NZD $239.00 (incl. GST, on sale from $269.00) — BC API verified 2026-11-07 (was $249.00 on 11-06)
+**Stock:** In Stock — Only a few left (OH=2, BC API verified 2026-11-07; was OH=3 on 11-06)
 
 ## Quick Specs
 - Panel Size: 27"

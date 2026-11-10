@@ -1,6 +1,6 @@
 # AMD Ryzen 5 9500F — 6 Core / 12 Thread AM5 OEM (no iGPU, no cooler, Zen 5)
 
-**Price:** $359.00 inc GST
+**Price:** NZD $333.50 (incl. GST, on sale from $359.00) — BC API verified 2026-10-23 (was $359.00 list)
 **SKU:** CPUAMD9500FOEM
 **MPN:** 100-100001406
 **URL:** https://www.extremepc.co.nz/amd-desktop-cpus/amd-ryzen-5-9500f-6-core-12-threads-5ghz-am5-processor-oem-without-cooler-no-retail-package/
@@ -104,7 +104,7 @@
   "description": "AMD Ryzen 5 9500F Zen 5 AM5 desktop CPU. 6 cores / 12 threads, 3.9 GHz base / 5.0 GHz boost, 38MB cache, 65W TDP, no integrated graphics, DDR5 + PCIe 5.0 support. OEM packaging. 3-year AMD warranty via authorized NZ distributor.",
   "offers": {
     "@type": "Offer",
-    "price": "359.00",
+    "price": "333.50",
     "priceCurrency": "NZD",
     "availability": "https://schema.org/InStock",
     "url": "https://www.extremepc.co.nz/amd-desktop-cpus/amd-ryzen-5-9500f-6-core-12-threads-5ghz-am5-processor-oem-without-cooler-no-retail-package/",

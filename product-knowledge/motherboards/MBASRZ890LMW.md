@@ -1,9 +1,9 @@
 # ASRock Z890 LiveMixer WiFi LGA 1851 Intel ATX Motherboard
 
-**Price:** NZD $649.75 (incl. GST) — on sale from $699.00 (verified 2026-09-13, BC API calc $565 × 1.15)
+**Price:** NZD $689.00 (incl. GST) — back to list, sale ended (BC API verified 2026-11-03; was $649.75 sale from $699.00 on 09-13)
 **SKU:** MBASRZ890LMW
 **URL:** https://www.extremepc.co.nz/intel-motherboards/asrock-z890-livemixer-wifi-lga-1851-intel-atx-motherboard/
-**Stock:** Only a few left in stock (OH=5, verified 2026-09-13, BC API)
+**Stock:** Only a few left in stock (OH=3, BC API verified 2026-11-03; was OH=5 on 09-13)
 **Status:** NEW ARRIVAL 2026-09-13 (first seen in stock in 09-13 cache)
 
 ## Quick Specs

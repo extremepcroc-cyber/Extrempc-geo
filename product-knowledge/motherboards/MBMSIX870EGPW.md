@@ -4,7 +4,8 @@
 **SKU:** MBMSIX870EGPW
 **MPN:** X870E GAMING PLUS WIFI
 **URL:** https://www.extremepc.co.nz/amd-motherboards/msi-x870e-gaming-plus-wifi-am5-atx-amd-motherboard/
-**Status:** In stock — Only a few left (BC API verified 2026-08-28: OH=1, WL=0, SL=0)
+**Status:** ⛔ **OUT OF STOCK** (OH=0, BC API verified 2026-11-07; was OH=1 on 11-06). Do NOT recommend — was the last unit of this SKU.
+**⚠️ In-stock X870E / X870 alternatives (BC verified 2026-11-07):** ASRock **X870E NOVA WiFi MBASRX870ENW** (OH=1 few) / ASRock **Phantom Gaming X870 Riptide MBASRX870RWF** (OH=2 few) / ASRock **X870 Pro-A WiFi MBASRX870PA** (OH=1 few) — all MSI/ASRock AM5, pick by preferred brand and features.
 
 ## Quick Specs
 - Socket: AM5 — supports AMD Ryzen 9000 / 8000 / 7000 Series desktop processors
@@ -34,4 +35,4 @@
 - Local NZ stock with fast availability
 - In-store pickup at Onehunga or Wellington
 - Expert build service available ($80 build fee)
-- 2-year NZ warranty support
+- Manufacturer warranty — exact length on the product page

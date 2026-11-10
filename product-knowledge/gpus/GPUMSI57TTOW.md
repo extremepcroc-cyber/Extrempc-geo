@@ -1,9 +1,10 @@
 # MSI GeForce RTX 5070 Ti GAMING TRIO OC 16GB Graphics Card - White
 
-**Price:** NZD $2,519.01 (incl. GST)
+**Price:** NZD $2,599.00 (incl. GST) — BC API verified 2026-11-05
 **SKU:** GPUMSI57TTOW
 **URL:** https://www.extremepc.co.nz/rtx-50-series/msi-geforce-rtx-5070-ti-gaming-trio-oc-16gb-graphics-card-white-rtx-5070-ti-16g-gaming-trio-oc-white/
-**Stock:** Only a few left in stock
+**Stock:** ⛔ **OUT OF STOCK** — BC API verified 2026-11-05 (OH=0; was OH=1 on 2026-11-04). Do NOT recommend this white MSI variant.
+**⚠️ RTX 5070 Ti still available** from other brands (ASUS TUF/PRIME, Colorful, Gigabyte, MSI VENTUS) — see the other 5070 Ti KB cards for in-stock siblings.
 
 ## Quick Specs
 - GPU: NVIDIA GeForce RTX 5070 Ti (Blackwell)

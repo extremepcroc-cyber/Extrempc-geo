@@ -16,7 +16,7 @@
 - Included fans: 3× 120mm ARGB fans
 - PSU: ATX (not included)
 - Colour: Black
-- NZ Stock: In stock Onehunga — 9 units
+- NZ Stock: OUT OF STOCK (OH=0, BC API verified 2026-10-31)
 
 ## Selling Points
 
@@ -80,7 +80,7 @@ Jonsbo's D41 series has slightly sharper design language; Zalman's N4 Rev.1 is a
     "@type": "Offer",
     "priceCurrency": "NZD",
     "price": "139.00",
-    "availability": "https://schema.org/InStock",
+    "availability": "https://schema.org/OutOfStock",
     "seller": {
       "@type": "Organization",
       "name": "ExtremePC"

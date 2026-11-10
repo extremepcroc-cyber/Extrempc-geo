@@ -1,6 +1,6 @@
 # MSI GeForce RTX 5060 Ti 16G VENTUS 2X OC PLUS GDDR7 Graphics Card
 
-**Price:** $1499 inc GST
+**Price:** NZD $1,758.99 (incl. GST) — BC API verified 2026-11-09 (channel-wide 5060 Ti 16GB increase; was $1,598.99 on 11-06; $1,499 before). Duplicate of product-knowledge/gpus/GPUMSI56TV2P.md.
 **SKU:** GPUMSI56TV2P
 **MPN:** GeForce RTX 5060 Ti 16G VENTUS 2X OC PLUS
 **URL:** https://www.extremepc.co.nz/msi-nvidia-geforce-rtx-5060-ti-16g-ventus-2x-oc-plus-16gb-gddr7-graphics-card/

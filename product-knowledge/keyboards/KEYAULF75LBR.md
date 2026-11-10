@@ -1,6 +1,6 @@
 # AULA F75 Hot-Swappable RGB Wireless Mechanical Keyboard - Light Blue, Leobog Reaper Switch, 80 Keys
 
-**Status:** REPLACED — delisted from BC (gone from EVAcache 2026-08-22). Superseded by the Epomaker X AULA co-branded F75 Light Blue: **KEYEPOF75LBR** ($129 incl. GST, see `keyboards/KEYEPOF75LBR.md`). Same board and switch, co-brand relist at a lower price.
+**Status:** REPLACED — delisted from BC (gone from EVAcache 2026-08-22). Superseded by the Epomaker X AULA co-branded F75 Light Blue: **KEYEPOF75LBR** ($159 incl. GST, sale ended 2026-10-28, see `keyboards/KEYEPOF75LBR.md`). Same board and switch, co-brand relist at a lower price.
 
 **Price:** NZD $155.00 (incl. GST)
 **SKU:** KEYAULF75LBR
@@ -19,7 +19,7 @@
 ## Compatibility Notes
 - 75% layout — compact footprint with full F-row
 - Hot-swappable — customize switches as needed
-- Black side-print (Star Vector) variant: KEYAULF75MBS; other colors: KEYAULF75MWS
+- Black side-print (Star Vector) variant: KEYAULF75MBS; White KEYAULF75MWS (⚠️ OOS 2026-10-30 — in-stock sibling Grey KEYAULF75MGR)
 
 ## Why Buy From ExtremePC
 - Local NZ stock with fast availability

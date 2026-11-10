@@ -14,7 +14,7 @@
 - **Connectors**: 24-pin ATX, 2× 4+4-pin EPS CPU, 1× 12VHPWR (16-pin PCIe 5.0), SATA, Molex
 - **Fan**: 120mm PWM silent fan
 - **Protection**: OCP, OVP, UVP, SCP, OPP, OTP
-- **NZ Stock**: 2 units at Auckland Onehunga
+- **NZ Stock**: ❌ OUT OF STOCK (Onehunga OH=0, BC API verified 2026-11-04 — was 2 units on 11-03). In-stock 650W-class white alternative: **Segotep GM650W White (PSUSEGGM650WW, OH=10)**. Step-up in-stock: Thermalright KG750 (OH=42) / KG850 (OH=16).
 
 ## Selling Points
 

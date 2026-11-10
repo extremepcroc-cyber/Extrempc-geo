@@ -1,6 +1,6 @@
 # Razer BlackShark V2 HyperSpeed Wireless Gaming Headset Black
 
-**Price:** $229 inc GST
+**Price:** NZD $195.50 (incl. GST, on sale from $229.00) — BC API verified 2026-11-09 (was $199.00 sale on 11-06)
 **SKU:** HDSRAZBSV2HSBK
 **MPN:** RZ04-04960100-R3M1
 **URL:** https://www.extremepc.co.nz/razer-blackshark-v2-hyperspeed-wireless-ultra-lightweight-esports-headset-frml-packaging/

@@ -3,7 +3,7 @@
 **Price:** NZD $319.00 (incl. GST) (verified 2026-09-09, list price)
 **SKU:** SSDTEATG501NG4
 **URL:** https://www.extremepc.co.nz/team-teamgroup-t-force-g50-1tb-m-2-pcie-gen-4x4-with-nvme-ssd-5000mb-s-read/
-**Stock:** We have plenty in stock
+**Stock:** Only a few left in stock (OH=1, BC API verified 2026-11-07; was OH=3 on 11-06, OH=4 on 11-02)
 
 ## Quick Specs
 - Capacity: 1TB

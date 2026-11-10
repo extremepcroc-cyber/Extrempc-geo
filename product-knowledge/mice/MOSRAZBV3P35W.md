@@ -27,4 +27,4 @@ Flagship wireless ergonomic gaming mouse — the Basilisk V3 Pro line pairs a hi
 ## Why Buy From ExtremePC
 - Local NZ stock with fast availability
 - In-store pickup at Onehunga or Wellington
-- 2-year NZ warranty support
+- Manufacturer warranty — exact length on the product page

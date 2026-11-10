@@ -1,9 +1,10 @@
 # Razer DeathAdder V3 Ergonomic Optical Gaming Mouse
 
-**Price:** NZD $115.00 (incl. GST) (on sale from $138.00)
+**Price:** NZD $138.00 (incl. GST) — BC API verified 2026-10-28 (sale ended; was $115 on sale from $138)
 **SKU:** MOSRAZDAV3
 **URL:** https://www.extremepc.co.nz/razer-deathadder-v3-ergonomic-optical-gaming-mouse/
-**Stock:** Only a few left
+**Stock:** OUT OF STOCK (OH=0, BC API verified 2026-10-30; was OH=1 on 10-29)
+⚠️ Siblings in stock: **MOSRAZDAV3HS** HyperSpeed 无线 (OH=5, $188) / **MOSRAZDAV3PBK** Pro 黑 (OH=1, $218.50) — EVA 推 DeathAdder V3 改用兄弟款。
 
 ## Quick Specs
 - **Connection:** Wired USB
@@ -27,4 +28,4 @@ Legendary ergonomic gaming mouse, one of the most popular shapes for palm grip. 
 ## Why Buy From ExtremePC
 - Local NZ stock with fast availability
 - In-store pickup at Onehunga or Wellington
-- 2-year NZ warranty support
+- Manufacturer warranty — exact length on the product page

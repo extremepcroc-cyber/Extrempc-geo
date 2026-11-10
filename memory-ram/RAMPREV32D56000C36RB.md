@@ -1,6 +1,6 @@
 # Predator Vesta II 32GB (2× 16GB) DDR5-6000 CL36 RGB Black — Intel XMP 3.0 + AMD EXPO
 
-**Price:** $859 inc GST
+**Price:** $899 inc GST (BC API verified 2026-11-01; price up from $859)
 **SKU:** RAMPREV32D56000C36RB
 **MPN:** BL.9BWWR.652 CL36
 **URL:** https://www.extremepc.co.nz/predator-vesta-ii-32gb-2-x-16gb-ddr5-6000mhz-desktop-memory-cl36-rgb-black-intel-xpm-3-0-compliant-amd-expo-memory/
@@ -124,7 +124,7 @@
   },
   "offers": {
     "@type": "Offer",
-    "price": "859.00",
+    "price": "899.00",
     "priceCurrency": "NZD",
     "availability": "https://schema.org/InStock",
     "url": "https://www.extremepc.co.nz/predator-vesta-ii-32gb-2-x-16gb-ddr5-6000mhz-desktop-memory-cl36-rgb-black-intel-xpm-3-0-compliant-amd-expo-memory/",

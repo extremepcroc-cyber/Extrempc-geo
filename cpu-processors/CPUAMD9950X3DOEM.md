@@ -1,10 +1,10 @@
 ﻿# AMD Ryzen 9 9950X3D — 16 Core / 32 Thread AM5 OEM (no cooler, Zen 5 + 3D V-Cache flagship)
 
-**Price:** $1298.99 inc GST
+**Price:** NZD $1,276.50 (incl. GST, on sale from $1,299.01) — BC API verified 2026-11-09 (back on sale; was $1,299.01 list on 11-06; $1,253.50 sale on 11-01)
 **SKU:** CPUAMD9950X3DOEM
 **MPN:** 100-000000719
 **URL:** https://www.extremepc.co.nz/amd-ryzen-9-9950x3d-oem-16-core-32-threads-am5-cpu/
-**Status:** OUT OF STOCK - last checked 2026-10-05
+**Status:** In Stock — we have plenty in stock (OH=15, BC API verified 2026-11-06; restocked, was OH=3 on 11-05; was OH=12 on 10-30, RESTOCKED 10-23)
 
 ## Quick Specs
 - **Architecture**: Zen 5, 4nm TSMC process, with AMD 3D V-Cache stacking
@@ -18,7 +18,7 @@
 - **Memory support**: DDR5-5600 officially (DDR5-6000+ EXPO, kits to DDR5-8000)
 - **AI Acceleration**: Built-in AI instruction set support
 - **Warranty**: 3 years AMD warranty via authorized NZ distributor (ExtremePC)
-- **NZ Stock**: 10 units at Auckland Onehunga
+- **NZ Stock**: 12 units at Auckland Onehunga
 
 ## Selling Points
 
@@ -30,7 +30,7 @@
 
 - **AM5 multi-year platform commitment** — Future-proof investment. AMD socket support through 2027+; drop in future X3D chips on the same motherboard.
 
-- **In-stock at Auckland Onehunga (10 units)** — Strong inventory for a flagship chip. Same-day pickup or 1–3 day national delivery.
+- **In-stock at Auckland Onehunga (12 units)** — Strong inventory for a flagship chip. Same-day pickup or 1–3 day national delivery.
 
 ## Ideal For
 
@@ -50,7 +50,7 @@
 
 - **Build Team consultation for flagship builds** — 9950X3D buyers are putting together flagship-tier systems. Build Team can spec the matched X670E/X870E motherboard with robust VRMs, 360mm AIO cooling, 64GB+ DDR5-6000 EXPO RAM, and Gen5 NVMe storage that pairs correctly.
 
-- **Same-day Auckland pickup from Onehunga (10 units)** — Strong flagship inventory for walk-in pickup.
+- **Same-day Auckland pickup from Onehunga (12 units)** — Strong flagship inventory for walk-in pickup.
 
 - **National courier dispatch 1–3 business days** — Wellington and South Island covered with insured shipping.
 
@@ -124,9 +124,9 @@
   },
   "offers": {
     "@type": "Offer",
-    "price": "1299.00",
+    "price": "1299.01",
     "priceCurrency": "NZD",
-    "availability": "https://schema.org/OutOfStock",
+    "availability": "https://schema.org/InStock",
     "url": "https://www.extremepc.co.nz/amd-ryzen-9-9950x3d-oem-16-core-32-threads-am5-cpu/",
     "seller": {
       "@type": "Organization",

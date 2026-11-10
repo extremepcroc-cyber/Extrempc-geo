@@ -1,9 +1,11 @@
 # Thunderobot K63 RGB Hot-Swappable Wired Gaming Keyboard — Red Switch, White, 63 Keys
 
-**Price:** $59 inc GST
+**Price:** $58.99 inc GST
 **SKU:** KEYTHUK63RW
 **MPN:** K63 Wired RGB Red Switch White
 **URL:** https://www.extremepc.co.nz/thunderobot-k63-rgb-hot-swappable-wired-gaming-keyboard-red-switch-white-63-keys/
+**Stock:** ❌ OUT OF STOCK (Onehunga OH=0, BC API verified 2026-11-04 — do NOT recommend)
+**Status:** OUT OF STOCK as of 2026-11-04 (was OH=1 on 11-03). ⚠️ In-stock sibling: **KEYTHUK63BB** brown tactile / blue case (OH=11, $46.00 sale) — same board, different switch/colourway.
 
 ## Quick Specs
 - **Layout**: 63 keys, 60% compact — letter block and modifiers only; F-row, arrows, and numpad on the Fn layer

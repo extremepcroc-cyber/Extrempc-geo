@@ -1,6 +1,6 @@
 # AMD Ryzen 5 9600X — 6 Core / 12 Thread AM5 OEM (iGPU, no cooler, Zen 5)
 
-**Price:** $419.00 inc GST
+**Price:** NZD $379.50 (incl. GST, on sale from $419.00) — BC API verified 2026-11-09 (was $373.75 sale on 11-06; $419 list before)
 **SKU:** CPUAMD9600XOEM
 **MPN:** 100-000001405
 **URL:** https://www.extremepc.co.nz/amd-ryzen-5-9600x-cpu-6-core-12-thread-am5-socket-oem-without-cooler/
@@ -16,7 +16,7 @@
 - **Packaging**: OEM tray — no cooler, no retail box
 - **Memory support**: DDR5-5600 officially (DDR5-6000+ with AMD EXPO)
 - **Warranty**: 3 years AMD warranty via authorized NZ distributor (ExtremePC)
-- **NZ Stock**: In stock at Auckland Onehunga (limited)
+- **NZ Stock**: We have plenty in stock (OH=30, BC API verified 2026-11-06; was OH=16 on 11-05)
 
 ## Selling Points
 

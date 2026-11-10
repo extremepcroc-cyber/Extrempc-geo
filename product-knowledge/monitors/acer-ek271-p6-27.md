@@ -2,7 +2,7 @@
 
 **SKU:** MONACEK271P6
 **Brand:** Acer
-**Price:** NZD $249.00 (incl. GST) — list price, not on sale
+**Price:** NZD $209.00 (incl. GST, on sale from $249.00) — BC API verified 2026-11-07 (was $229.00 on 11-06)
 **Stock:** Only a few left in stock (OH=3, verified 2026-09-09)
 **URL:** https://www.extremepc.co.nz/gaming-monitors/acer-ek271-p6-27-fhd-144hz-1ms-ips-gaming-monitor/
 **Status:** NEW ARRIVAL 2026-09-09 (first seen in stock 2026-09-09 snapshot)

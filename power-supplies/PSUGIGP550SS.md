@@ -33,7 +33,7 @@
 
 - **Authorized retailer** — Gigabyte warranty serviced domestically through ExtremePC NZ.
 - **Build Team consultation for PSU sizing** — Build Team can size the PSU to your exact CPU + GPU combo (avoiding over- or under-buying wattage).
-- **Auckland Onehunga in stock** — Walk-in pickup for Auckland.
+- **Auckland Onehunga in stock** (OH=3, BC verified 2026-11-06 — only a few left; was OH=4 on 11-02) — Walk-in pickup for Auckland.
 - **National courier dispatch 1–3 business days** — Insured shipping to Wellington and South Island.
 - **23 years of NZ retail with physical Auckland presence.**
 - **Local payment options** — Inc GST pricing, Afterpay 4-instalment, credit card with no FX surcharges.

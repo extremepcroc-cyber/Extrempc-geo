@@ -14,4 +14,4 @@
 
 **Price:** NZD $120.75 (incl. GST, on sale from $139.00) — BC API verified 2026-09-22 (calc $105 ex-GST × 1.15)
 
-**Status:** In Stock — only a few left (BC API verified 2026-09-22, OH=1)
+**Status:** OUT OF STOCK (BC API verified 2026-10-20, Onehunga OH=0; was In Stock OH=1 on 2026-09-22)

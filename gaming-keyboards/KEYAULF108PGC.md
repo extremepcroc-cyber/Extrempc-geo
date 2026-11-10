@@ -70,7 +70,7 @@
 
 ## Related Products
 
-- **KEYAULF75MWS** — F75 MAX White: AULA's 75% compact for tight desks
+- **KEYAULF75MWS** — F75 MAX White (⚠️ OOS 2026-10-30): AULA's 75% compact for tight desks. In-stock sibling: Grey **KEYAULF75MGR**
 - **KEYAULF75BR** — F75 Black: AULA's 75% wired with LEOBOG Reaper
 - **KEYAULF87P2B** — F87 PRO V2: AULA's TKL middle ground
 - **KEYAULS75PBS** — S75 Pro: AULA 84-key 75% wireless

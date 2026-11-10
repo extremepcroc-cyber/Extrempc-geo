@@ -14,7 +14,7 @@
 - **DRAM**: DRAM-less (HMB)
 - **Brand**: TeamGroup T-Force (gaming-marketed line within Tier 2 TeamGroup brand)
 - **Warranty**: 5-year TeamGroup warranty via ExtremePC NZ
-- **NZ Stock**: 18 units at Auckland Onehunga
+- **NZ Stock**: 1 unit at Auckland Onehunga (OH=1, BC API verified 2026-11-10; was OH=18 on 11-07, OH=3 on 11-06 — running low)
 
 ## Selling Points
 

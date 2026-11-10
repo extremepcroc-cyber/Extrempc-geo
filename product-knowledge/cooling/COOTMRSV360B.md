@@ -2,7 +2,7 @@
 
 **Price:** NZD $299.00 (incl. GST)
 **SKU:** COOTMRSV360B
-**Stock:** Plenty in stock (verified 2026-08-31, OH>0)
+**Stock:** Only a few left in stock (BC API verified 2026-10-23, Onehunga OH=4; was "plenty" OH=9 on 2026-08-31)
 
 ## Quick Specs
 - Type: AIO Liquid Cooler (360mm)
@@ -17,4 +17,4 @@ This CPU cooler is available at ExtremePC in Auckland, NZ. Verify case CPU coole
 - Local NZ stock with fast availability
 - In-store pickup at Onehunga or Wellington
 - Expert build service available ($80 build fee)
-- 2-year NZ warranty support
+- Manufacturer warranty — exact length on the product page

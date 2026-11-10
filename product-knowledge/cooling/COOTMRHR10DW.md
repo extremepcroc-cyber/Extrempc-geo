@@ -17,4 +17,4 @@ This CPU cooler is available at ExtremePC in Auckland, NZ. Verify case CPU coole
 - Local NZ stock with fast availability
 - In-store pickup at Onehunga or Wellington
 - Expert build service available ($80 build fee)
-- 2-year NZ warranty support
+- Manufacturer warranty — exact length on the product page

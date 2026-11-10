@@ -13,7 +13,7 @@
 - **DRAM**: Yes (Predator GM6 includes DRAM cache)
 - **Brand**: Predator (Acer's enthusiast/gaming brand — Tier 2 value-premium)
 - **Warranty**: 5-year Predator warranty via ExtremePC NZ
-- **NZ Stock**: 35 units at Auckland Onehunga
+- **NZ Stock**: Only a few left (OH=1, BC API verified 2026-11-04; was OH=2 on 11-03)
 
 ## Selling Points
 

@@ -2,7 +2,7 @@
 
 **Price:** NZD $17.25 (incl. GST)
 **SKU:** COOJONNF1W
-**Stock:** Only a few left in stock (verified 2026-08-31, OH>0)
+**Stock:** OUT OF STOCK (BC API verified 2026-10-17, OH=0 — stale "Only a few left" corrected; was in stock as of 2026-08-31)
 
 ## Quick Specs
 - Type: M.2 SSD Heat Sink
@@ -17,4 +17,4 @@ This CPU cooler is available at ExtremePC in Auckland, NZ. Verify case CPU coole
 - Local NZ stock with fast availability
 - In-store pickup at Onehunga or Wellington
 - Expert build service available ($80 build fee)
-- 2-year NZ warranty support
+- Manufacturer warranty — exact length on the product page

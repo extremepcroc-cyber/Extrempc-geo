@@ -1,9 +1,9 @@
 # ASRock X870 Pro-A WiFi AM5 ATX Motherboard
 
-**Price:** NZD $385.25 (incl. GST) — on sale from $415.00 (verified 2026-09-13, BC API calc $335 × 1.15)
+**Price:** NZD $399.00 (incl. GST, list) — BC API verified 2026-11-05 (sale ended, back to list; was $385.25 sale from $415.00 on 09-13)
 **SKU:** MBASRX870PA
 **URL:** https://www.extremepc.co.nz/asrock-x870-pro-a-wifi-am5-atx-motherboard/
-**Stock:** Only a few left in stock (OH=10, verified 2026-09-13, BC API)
+**Stock:** Only a few left in stock (OH=4, BC API verified 2026-11-05; was OH=24 on 10-30)
 **Status:** NEW ARRIVAL 2026-09-13 (first seen in stock in 09-13 cache)
 
 ## Quick Specs

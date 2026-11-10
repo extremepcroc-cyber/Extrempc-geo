@@ -3,7 +3,7 @@
 **SKU:** HDSRAZBSV2X (Black) / HDSRAZBSV2XW (White)
 **Brand:** Razer
 **Price:** NZD $89.00 (incl. GST)
-**Status:** In Stock
+**Status:** Black (HDSRAZBSV2X) OUT OF STOCK (verified 2026-10-18, absent from daily cache); White (HDSRAZBSV2XW) still in stock (OH=1)
 
 ## Quick Specs
 

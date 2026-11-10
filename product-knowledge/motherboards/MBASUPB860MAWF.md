@@ -4,7 +4,7 @@
 **SKU:** MBASUPB860MAWF
 **MPN:** 90MB1JY0-M0UAYC
 **URL:** https://www.extremepc.co.nz/asus-prime-b860m-a-wifi-csm-intel-lga-1851-micro-atx-motherboard/
-**Stock:** Only a few left in stock
+**Stock:** Only a few left in stock (OH=1, BC API verified 2026-11-06; was OH=3 on 11-05)
 
 ## Quick Specs
 - CPU Socket: LGA1851

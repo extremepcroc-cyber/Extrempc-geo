@@ -70,7 +70,7 @@ Zalman is a South Korean brand with 25+ year heritage in cooling and cases; Jons
 ## Related Products
 
 - Zalman N7 Plus V2 (CASZALN7PV2) — adds USB-C + 360mm radiator
-- Zalman N4 Rev.1 Black (CASZALN4MB) — adds 380mm GPU + 3× 3.5" HDD
+- Zalman N4 Rev.1 Black (CASZALN4MB) — adds 380mm GPU + 3× 3.5" HDD (⚠️ OOS 2026-10-31)
 - Jonsbo D41 Mesh Black (CASJOND41MEB) — 400mm GPU + mesh front, no fans
 
 ## Schema (JSON-LD)

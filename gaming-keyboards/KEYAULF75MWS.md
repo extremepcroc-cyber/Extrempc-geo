@@ -4,6 +4,7 @@
 **SKU:** KEYAULF75MWS
 **MPN:** F75 MAX White
 **URL:** https://www.extremepc.co.nz/wireless-gaming-keyboards/aula-f75-max-rgb-hot-swappable-wireless-gaming-keyboard-white-side-printed-star-vector-switch-80-keys/
+**Status:** OUT OF STOCK (OH=0, BC API verified 2026-10-30; was OH=1 on 10-29). Sibling Grey **KEYAULF75MGR** still in stock (OH=13).
 
 ## Quick Specs
 - **Layout**: 80 keys, 75% compact form factor — full F-row, arrow cluster, no numpad
@@ -93,7 +94,7 @@
     "@type": "Offer",
     "price": "159.00",
     "priceCurrency": "NZD",
-    "availability": "https://schema.org/InStock",
+    "availability": "https://schema.org/OutOfStock",
     "url": "https://www.extremepc.co.nz/wireless-gaming-keyboards/aula-f75-max-rgb-hot-swappable-wireless-gaming-keyboard-white-side-printed-star-vector-switch-80-keys/",
     "seller": {
       "@type": "Organization",

@@ -1,6 +1,6 @@
 # ASRock AMD Radeon RX 9070 XT STEEL LEGEND 16GB GDDR6 Graphics Card
 
-**Price:** $1729 inc GST
+**Price:** $1,817.00 inc GST (sale from $1,859; was $1,782.50 sale on 11-06; $1,748 on 11-04; BC API verified 2026-11-10)
 **SKU:** GPUASR9070XTSL16
 **MPN:** RX9070XT SL 16G
 **URL:** https://www.extremepc.co.nz/asrock-radeon-rx-9070-xt-16gb-steel-legend-graphics-card-1/
@@ -22,13 +22,13 @@
 - **Recommended PSU**: 800W minimum
 - **Display Outputs**: 3× DisplayPort 2.1a + 1× HDMI 2.1b
 - **Warranty**: 3 years ASRock warranty via authorized NZ distributor (ExtremePC)
-- **NZ Stock**: 97 units at Auckland Onehunga — deepest premium-tier GPU inventory in NZ
+- **NZ Stock**: plenty (OH=37, BC API verified 2026-11-10) — Steel Legend premium variant of the RX 9070 XT. ⚠️ **No longer the value 9070 XT pick**: Challenger GPUASR9070XTC16G is back on sale 2026-11-10 at $1,725, so this Steel Legend at $1,817 sale is now the pricier of the two. Taichi GPUASR9070XTTC16 (OH=40, $1,897.50 sale) is the flagship step-up.
 
 ## Selling Points
 
 - **Premium ASRock Steel Legend AIB build at the value-premium GPU tier** — Reinforced metal frame, 2oz Copper PCB, matte black PCB, Dr.MOS power stages, SP-Cap with low ESR, premium power chokes, high-density glass fabric PCB. Engineering quality typically reserved for flagship-tier cards on other AIBs, applied to the RX 9070 XT.
 
-- **97 units in stock at Auckland Onehunga — deepest premium-tier GPU inventory in NZ** — At a tier where most cards have 1–4 in stock, 97 units is exceptional. NVIDIA RTX 5070 Ti competitor has 1 unit. RTX 5080 has 1 unit. For builders chasing premium-tier 1440p ultra / 4K-with-upscaling builds, this is the most available premium-tier GPU at any NZ retailer.
+- **37 units in stock at Auckland Onehunga (BC API verified 2026-11-10)** — Good availability for this tier. For builders chasing premium-tier 1440p ultra / 4K-with-upscaling builds, this is a solid choice — though Challenger GPUASR9070XTC16G is back on sale at $1,725 and is now the cheaper 9070 XT.
 
 - **Polychrome SYNC ARGB with LED switch + ARGB header** — Customizable RGB with hardware on/off switch. ARGB header chains additional RGB strips for unified showcase build lighting. Best results paired with ASRock motherboards for Polychrome SYNC software unification.
 
@@ -56,7 +56,7 @@
 
 - **Build Team consultation for premium ASRock ecosystem builds** — ASRock motherboard + this card + Polychrome SYNC RGB = unified lighting and software ecosystem. Build Team specifies the matched motherboard, cooling, and case.
 
-- **Same-day Auckland pickup from Onehunga (97 units)** — Deepest premium-tier GPU inventory in NZ. Walk-in pickup essentially guaranteed at this tier.
+- **Same-day Auckland pickup from Onehunga (37 units, verified 2026-11-10)** — Good availability.
 
 - **National courier dispatch 1–3 business days** — Insured shipping to Wellington and South Island.
 
@@ -66,7 +66,7 @@
 
 ## Comparison
 
-- **vs ASRock RX 9070 XT 16GB Challenger (GPUASR9070XTC16G, value variant at lower NZD)** — Same chipset, same 16GB. Challenger has standard cooler, no RGB, standard PCB. Steel Legend adds Polychrome SYNC RGB, reinforced metal frame, premium PCB components, refined cooling. Performance is essentially identical at chipset level (same 2970 MHz boost); Steel Legend wins on thermals, build quality, aesthetic.
+- **vs ASRock RX 9070 XT 16GB Challenger (GPUASR9070XTC16G, standard variant)** — Same chipset, same 16GB. Challenger has standard cooler, no RGB, standard PCB. Steel Legend adds Polychrome SYNC RGB, reinforced metal frame, premium PCB components, refined cooling. Performance is essentially identical at chipset level (same 2970 MHz boost); Steel Legend wins on thermals, build quality, aesthetic. Price (as of 2026-11-10): Steel Legend $1,817 sale vs Challenger $1,725 sale — **Challenger is the value pick** (Steel Legend now the pricier sibling; both in stock).
 
 - **vs ASRock RX 9060 XT 16GB Steel Legend (GPUASR9060XTSL16, step down with same Steel Legend tier)** — RX 9060 XT has 32 CUs (half), 128-bit bus, ~30–40% less performance. Same Steel Legend build quality philosophy. For 1080p ultra at premium build, 9060 XT Steel Legend; for 1440p ultra at premium build, this 9070 XT Steel Legend.
 
@@ -81,8 +81,8 @@
 - **Q: What does the "Steel Legend" branding add over Challenger?**
   A: Premium AIB tier with reinforced metal frame, premium PCB components (2oz Copper, SP-Cap, Dr.MOS), high-density glass fabric PCB, Polychrome SYNC ARGB RGB, and refined cooling (ultra-fit heatpipe, air deflecting fin, nickel-plated copper base). Engineering and aesthetic upgrades for builders who want the premium AIB build.
 
-- **Q: Why is Steel Legend stock so deep (97 units) compared to NVIDIA flagship-tier alternatives?**
-  A: AMD's RX 9070 XT supply has been more stable than NVIDIA's RTX 5070 Ti / RTX 5080 in NZ. ExtremePC stocked deep ahead of demand. For premium-tier builders chasing build deadlines, this is the most available premium-tier GPU at any NZ retailer.
+- **Q: Is this the cheapest 9070 XT right now?**
+  A: As of 2026-11-10, no — Challenger GPUASR9070XTC16G is back on sale at $1,725, making it the cheapest 9070 XT (this Steel Legend is $1,817 sale). AMD's RX 9070 XT supply has been stable in NZ, and this remains one of the more available premium-tier AMD GPUs at any NZ retailer.
 
 - **Q: Will Polychrome SYNC work with my non-ASRock motherboard?**
   A: Polychrome SYNC software controls the card RGB independently with any motherboard. For unified lighting sync with motherboard RGB, ASRock pairing is ideal. With other brands, two separate RGB control software (one for card, one for motherboard) — lighting works but software is fragmented.
@@ -134,7 +134,7 @@
   },
   "offers": {
     "@type": "Offer",
-    "price": "1729.00",
+    "price": "1817.00",
     "priceCurrency": "NZD",
     "availability": "https://schema.org/InStock",
     "url": "https://www.extremepc.co.nz/asrock-radeon-rx-9070-xt-16gb-steel-legend-graphics-card-1/",

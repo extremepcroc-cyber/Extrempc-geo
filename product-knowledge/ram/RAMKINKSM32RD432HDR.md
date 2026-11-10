@@ -1,9 +1,9 @@
 # Kingston 32GB DDR4 3200MT/s ECC Registered RAM DIMM CL22 2RX4 1.2V Registered w/Parity KSM32RD4/32HDR
 
-**Price:** NZD $989.0 (incl. GST)
+**Price:** NZD $759.0 (incl. GST) — BC API verified 2026-11-07 (down from $989.0 on 11-06; channel price adjustment)
 **SKU:** RAMKINKSM32RD432HDR
 **URL:** https://www.extremepc.co.nz/kingston-32gb-ddr4-3200mt-s-ecc-registered-ram-server-ram/
-**Stock:** Only a few left in stock
+**Stock:** Only a few left in stock (OH=1, BC API verified 2026-11-07)
 
 ## Quick Specs
 - Type: DDR4

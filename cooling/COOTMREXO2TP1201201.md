@@ -1,7 +1,7 @@
 # Thermalright Extreme Odyssey II Thermal Pad (120x120x1.0mm)
 
-**Price:** $35 inc GST
-**SKU:** COOTMREXO2TP1201201
+**Price:** NZD $34.99 (incl. GST) — BC API verified 2026-10-31
+**SKU:** COOTMRO212121 (renamed from COOTMREXO2TP1201201)
 **MPN:** EOII PAD 120x120x1.0mm
 **URL:** https://www.extremepc.co.nz/cooling-accessories/thermalright-extreme-odyssey-ii-thermal-pad-120x120x1-0mm/
 

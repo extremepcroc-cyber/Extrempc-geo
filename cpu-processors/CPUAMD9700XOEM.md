@@ -17,7 +17,7 @@
 - **Memory support**: DDR5-5600 officially (DDR5-6000+ with AMD EXPO)
 - **AI Acceleration**: Built-in AI instruction set support
 - **Warranty**: 3 years AMD warranty via authorized NZ distributor (ExtremePC)
-- **NZ Stock**: 14 units at Auckland Onehunga
+- **NZ Stock**: 15 units at Auckland Onehunga (BC API verified 2026-11-06; was OH=12 on 11-05)
 
 ## Selling Points
 

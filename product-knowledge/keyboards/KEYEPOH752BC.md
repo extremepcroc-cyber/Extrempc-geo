@@ -17,4 +17,5 @@
 - **Display:** No
 - **Color:** Black
 
-**Status:** In Stock
+**Status:** OUT OF STOCK (OH=0, BC API verified 2026-10-30; was OH=1 on 10-29)
+⚠️ Sibling in stock: White **KEYEPOH752WC** (OH=5, sale $169 from $189) — EVA 推 HE75 V2 改用**白色**。

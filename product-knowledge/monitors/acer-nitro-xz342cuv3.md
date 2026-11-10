@@ -2,7 +2,7 @@
 
 **SKU:** MONACEXZ342CUV3
 **Brand:** Acer
-**Price:** NZD $499.00 (incl. GST) (on sale from $569.00)
+**Price:** NZD $469.00 (incl. GST) (on sale from $569.00) — BC API verified 2026-11-07 (was $479.00 on 11-06)
 **Status:** In Stock
 
 ## Quick Specs

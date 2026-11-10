@@ -68,7 +68,7 @@ The V2 is an updated revision — improvements over the original without changin
 ## Related Products
 
 - Zalman I3 Neo Black (CASZALI3NEOB) — 240mm radiator, no USB-C, highest stock (24)
-- Zalman N4 Rev.1 Black (CASZALN4MB) — 380mm GPU, 3× 3.5" HDD
+- Zalman N4 Rev.1 Black (CASZALN4MB) — 380mm GPU, 3× 3.5" HDD (⚠️ OOS 2026-10-31)
 - Jonsbo D41 Mesh Black (CASJOND41MEB) — 400mm GPU, mesh front, no fans
 
 ## Schema (JSON-LD)

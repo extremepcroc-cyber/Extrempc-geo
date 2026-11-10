@@ -55,7 +55,7 @@
 
 ## Comparison
 
-- **vs Thermalright TR-KG650W White (PSUTMRKG650W, same wattage/efficiency/price)** — Identical specification tier (650W, 80+ Gold, fully modular, ATX3.1) and same NZD. Key difference: Segotep GM650W is Black (standard); Thermalright KG650W is White (for white aesthetic builds). Choose by case/build colour theme. Segotep has more units in stock (5 vs 2).
+- **vs Thermalright TR-KG650W White (PSUTMRKG650W, same wattage/efficiency/price)** — Identical specification tier (650W, 80+ Gold, fully modular, ATX3.1) and same NZD. Key difference: Segotep GM650W is Black (standard); Thermalright KG650W is White (for white aesthetic builds). Choose by case/build colour theme. ⚠️ Status 2026-11-04: **both the white KG650W (PSUTMRKG650W) and this black Segotep GM650W (PSUSEGGM650WB) are OOS** — the in-stock 650W-class white option is **Segotep GM650W White (PSUSEGGM650WW, OH=10)**.
 
 - **vs Segotep GM850W 850W (PSUSEGGM850WB, +200W at modest NZD premium)** — For RTX 4070 Ti Super / RTX 5070 Ti or future GPU upgrades, 850W provides meaningful headroom. At modest NZD premium, 850W is worth considering unless budget is the hard constraint.
 

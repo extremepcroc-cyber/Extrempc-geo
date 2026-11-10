@@ -4,6 +4,8 @@
 **SKU:** COOJONZB36BR
 **MPN:** ZB-360BR
 **URL:** https://www.extremepc.co.nz/case-fans/jonsbo-zb-360br-argb-360mm-reverse-case-fan-black/
+**Status:** OUT OF STOCK (OH=0, BC API verified 2026-10-30; was OH=1 on 10-29)
+⚠️ Siblings in stock: **COOJONZB360B** 黑正转 (OH=1, $63.25) / **COOJONZB360W** 白正转 (OH=2) / **COOJONZB36WR** 白反转 (OH=2) — EVA 推 360mm 风扇改用兄弟款。
 
 ## What It Is
 

@@ -2,7 +2,7 @@
 
 **SKU:** PSUASRCL850G
 **Brand:** ASRock
-**Price:** NZD $172.50 (incl. GST)
+**Price:** NZD $199.00 (incl. GST) — BC API verified 2026-10-20 (was $172.50)
 **Status:** In Stock
 
 ## Quick Specs

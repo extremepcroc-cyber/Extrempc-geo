@@ -5,7 +5,7 @@
 **Brand:** Logitech
 **MPN:** 981-000485
 **URL:** https://www.extremepc.co.nz/logitech-h390-usb-pure-digital-headset-comfortable-design-in-line-audio-controls-noise-canceling-microphone/
-**Stock:** In Stock — RESTOCKED (OH=20, verified 2026-09-23, BC API inv=20). Was OOS 2026-09-20.
+**Stock:** In Stock — Only a few left (OH=4, BC API verified 2026-11-07; was OH=19 on 11-06, OH=20 on 09-23). Inventory is low.
 
 ## Quick Specs
 - Type: Wired USB Headset

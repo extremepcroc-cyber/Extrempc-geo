@@ -3,7 +3,8 @@
 **Price:** NZD $129.00 (incl. GST)
 **SKU:** PSUTMRKG650W
 **URL:** https://www.extremepc.co.nz/thermalright-tr-kg650w-650w-atx3-1-80-plus-gold-fully-modular-power-supply-white/
-**Stock:** We have plenty in stock
+**Stock:** ❌ OUT OF STOCK (Onehunga OH=0, BC API verified 2026-11-04 — do NOT recommend)
+**Status:** OUT OF STOCK as of 2026-11-04 (was OH=1 on 11-03). ⚠️ In-stock 650W-class white alternative: **Segotep GM650W White PSUSEGGM650WW** (OH=10, $148.99). Other in-stock 650W: ASRock CL-650G (OH=1) / SL-650G (OH=2) / Gigabyte GP-P650SS (OH=9) / Thermalright TB 650W Bronze (OH=7). Step-up in-stock: Thermalright KG750 (OH=42, $138.99) / KG850 (OH=16, $169.00).
 
 ## Quick Specs
 - Wattage: 650W

@@ -66,7 +66,7 @@
 
 ## Related Products
 
-- **KEYAULF75MWS** — F75 MAX White: same 75% platform, tri-mode, neutral case
+- **KEYAULF75MWS** — F75 MAX White (⚠️ OOS 2026-10-30): same 75% platform, tri-mode, neutral case. In-stock sibling: Grey **KEYAULF75MGR**
 - **KEYAULF75MBS** — F75 MAX Black: same platform in a dark theme
 - **KEYAULS75PBS** — S75 Pro: 84-key with the media row
 - **KEYAULN75WI** — Nova75: 75% with the Ice Shadow switch

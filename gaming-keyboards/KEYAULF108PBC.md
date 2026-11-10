@@ -69,7 +69,7 @@
 - **KEYAULF108PGC** — F108 PRO Grey: identical board, neutral case
 - **KEYAULF87P2B** — F87 PRO V2: AULA's TKL with the LEOBOG X3
 - **KEYAULL99GY** — L99: AULA's 75% with the 3.98" display
-- **KEYAULF75MWS** — F75 MAX White: AULA's compact 75%
+- **KEYAULF75MWS** — F75 MAX White (⚠️ OOS 2026-10-30): AULA's compact 75%. In-stock sibling: Grey **KEYAULF75MGR**
 - **KEYEPOQ108GWW** — Epomaker QK108: full-size wireless with QMK/VIA
 
 ## Schema

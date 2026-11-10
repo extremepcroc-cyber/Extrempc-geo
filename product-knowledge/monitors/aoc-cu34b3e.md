@@ -3,7 +3,7 @@
 **SKU:** MONAOCU34B3E
 **Brand:** AOC
 **Price:** NZD $499.00 (incl. GST) — list price, not on sale
-**Stock:** Only a few left in stock (OH=1, verified 2026-09-06)
+**Stock:** OUT OF STOCK (OH=0, BC API verified 2026-10-30; was OH=1 on 10-29)
 **URL:** https://www.extremepc.co.nz/csv-import/aoc-cu34b3e-34-wqhd-curved-120hz-ultrawide-monitor-with-5-years-warranty-3440x1440-displayport-hdmi-tilt-adjustable-100x100mm-vesa-internal-power/
 **Status:** NEW ARRIVAL 2026-09-06 (first seen in stock 2026-09-05 snapshot)
 
@@ -26,4 +26,4 @@
 ## Why Buy From ExtremePC
 - Local NZ stock with fast availability
 - In-store pickup at Onehunga or Wellington
-- 2-year NZ warranty support
+- Manufacturer warranty — exact length on the product page

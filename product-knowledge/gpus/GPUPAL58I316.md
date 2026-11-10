@@ -1,9 +1,10 @@
 # Palit GeForce RTX 5080 Infinity 3 16GB GDDR7 Graphics Card
 
-**Price:** NZD $2,760.00 (incl. GST, on sale) — BC API verified 2026-09-04 (ex-GST $2,400 × 1.15)
+**Price:** NZD $4,099.00 (incl. GST) — BC API verified 2026-10-24 (price up from $2,760.00 sale on 09-04)
 **SKU:** GPUPAL58I316
 **URL:** https://extremepc.co.nz/nvidia-geforce/palit-geforce-rtx-5080-infinity-3-16gb-gddr7-graphics-card-ne75080019t2-gb2035s/
-**Stock:** We have plenty in stock
+**Status:** ⛔ **OUT OF STOCK** (OH=0, BC API verified 2026-11-07; was OH=5 on 11-06). Do NOT recommend this variant.
+**⚠️ In-stock 5080 alternatives (BC verified 2026-11-07):** Colorful iGame RTX 5080 **Ultra W (WHITE) GPUCOL5080UW16** $4,099 (OH=5 few) / **Ultra OC black GPUCOL58U162** $4,099 (OH=1 few, RESTOCKED 11-07) / PNY 5080 Slim OC **GPUPNY58SDOC** $4,099 (OH=2 few) / Zotac 5080 SOLID Core **GPUZOTG58SO6** $4,099 (OH=1 few).
 
 ## Quick Specs
 - GPU: NVIDIA GeForce RTX 5080 (Blackwell)

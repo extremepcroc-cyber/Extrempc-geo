@@ -2,8 +2,8 @@
 
 **SKU:** SSDPREGM62P4
 **Brand:** Predator (Acer)
-**Price:** NZD $529.00 (incl. GST) (on sale from $599.00)
-**Status:** In Stock
+**Price:** NZD $599.00 (incl. GST) — BC API verified 2026-10-23 (sale ended; was $529.00 on sale from $599.00)
+**Status:** In Stock — only a few left (BC API verified 2026-10-23, Onehunga OH=2)
 
 ## Quick Specs
 

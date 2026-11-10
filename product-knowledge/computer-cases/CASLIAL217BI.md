@@ -3,7 +3,7 @@
 **Price:** NZD $249.0 (incl. GST)
 **SKU:** CASLIAL217BI
 **URL:** https://www.extremepc.co.nz/mid-tower-cases/lian-li-lancool-217-inf-tempered-glass-atx-mid-tower-gaming-case-black-infinity/
-**Stock:** Only a few left
+**Stock:** OUT OF STOCK (OH=0, BC API verified 2026-10-30; was OH=1 on 10-29)
 
 ## Quick Specs
 - Form Factor: ATX Mid Tower — per product name
@@ -20,4 +20,4 @@ This case is available at ExtremePC in Auckland, NZ. For detailed compatibility 
 - Local NZ stock with fast availability
 - In-store pickup at Onehunga or Wellington
 - Expert build service available ($80 build fee)
-- 2-year NZ warranty support
+- Manufacturer warranty — exact length on the product page

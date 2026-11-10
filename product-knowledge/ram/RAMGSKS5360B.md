@@ -3,7 +3,7 @@
 **Price:** NZD $859.00 (incl. GST)
 **SKU:** RAMGSKS5360B
 **URL:** https://www.extremepc.co.nz/g-skill-ripjaws-s5-32gb-2x16gb-ddr5-6000mhz-cl36-desktop-memory-black/
-**Stock:** Only a few left in stock
+**Stock:** OUT OF STOCK (BC API verified 2026-10-19, Onehunga OH=0; was OH=1 on 2026-10-18)
 
 ## Quick Specs
 - Type: DDR5

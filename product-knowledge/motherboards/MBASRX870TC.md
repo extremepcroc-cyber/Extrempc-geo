@@ -1,9 +1,9 @@
 # ASRock X870 TAICHI Creator AM5 AMD ATX Motherboard
 
-**Price:** NZD $816.50 (incl. GST) — on sale from $879.00 (verified 2026-09-13, BC API calc $710 × 1.15)
+**Price:** NZD $759.00 (incl. GST) — on sale from $799.00 (verified 2026-10-24, BC API; was $816.50 sale from $879.00 on 09-13)
 **SKU:** MBASRX870TC
 **URL:** https://www.extremepc.co.nz/asrock-x870-taichi-creator-am5-amd-atx-motherboard/
-**Stock:** Only a few left in stock (OH=5, verified 2026-09-13, BC API)
+**Stock:** We have plenty in stock (OH=14, BC API verified 2026-10-30; was OH=4 on 10-29)
 **Status:** NEW ARRIVAL 2026-09-13 (first seen in stock in 09-13 cache)
 
 ## Quick Specs

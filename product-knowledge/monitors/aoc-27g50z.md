@@ -4,7 +4,7 @@
 **Brand:** AOC
 **Price:** NZD $249.00 (incl. GST) — on sale (list NZD $269.00)
 **URL:** https://www.extremepc.co.nz/aoc-27g50z-27-ips-1920x1080-0-3ms-hdmi-dp-260hz-monitor/
-**Status:** In Stock — back in stock (BC API verified 2026-08-28: OH=2, WL/SL/SU 0, inventory_level 2; "On Sale" flag active).
+**Status:** **OUT OF STOCK** (2026-10-16 batch, BC API OH=0, not in 2026-10-15 cache; was OH=2 on 2026-08-28).
 
 ## Quick Specs
 

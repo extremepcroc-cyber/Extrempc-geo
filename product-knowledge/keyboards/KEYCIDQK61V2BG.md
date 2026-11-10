@@ -3,6 +3,7 @@
 **SKU:** KEYCIDQK61V2BG
 
 **Brand:** CIDOO
+**Price:** NZD $89.00 (incl. GST, on sale from $139.00) — BC API verified 2026-10-22
 
 ## Quick Specs
 
@@ -16,4 +17,4 @@
 - **Display:** No
 - **Color:** Black
 
-**Status:** In Stock
+**Status:** OUT OF STOCK (2026-10-26, BC API is_visible=false / not in 2026-10-26 cache)

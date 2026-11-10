@@ -1,9 +1,9 @@
 # Epomaker X AULA F75 Hot-Swappable RGB Wireless Mechanical Keyboard - Light Blue, LEOBOG Reaper Switch, 80 Keys
 
-**Price:** NZD $139.00 (incl. GST, on sale from $159) — price revised 2026-10-06 (was $129)
+**Price:** NZD $159.00 (incl. GST) — BC API verified 2026-10-28 (sale ended; was $139 on sale from $159)
 **SKU:** KEYEPOF75LBR
 **URL:** https://www.extremepc.co.nz/wireless-gaming-keyboards/epomaker-f75-hot-swappable-rgb-wireless-mechanical-keyboard-light-blue-leobog-reaper-switch-80-keys/
-**Stock:** We have plenty in stock
+**Stock:** Only a few left in stock (OH=2, BC API verified 2026-11-03; was OH=3 on 10-28)
 
 ## Quick Specs
 - Connection: Wireless (2.4G + USB-C)

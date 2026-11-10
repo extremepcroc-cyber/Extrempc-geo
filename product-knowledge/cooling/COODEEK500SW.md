@@ -3,7 +3,7 @@
 **Price:** NZD $79.00 (incl. GST) (on sale from $99.00)
 **SKU:** COODEEK500SW
 **URL:** https://www.extremepc.co.nz/deepcool-ak500s-digital-cpu-air-cooler-white/
-**Stock:** Only a few left
+**Status:** OUT OF STOCK (verified 2026-10-18, absent from daily cache = OH 0; was "Only a few left" on 2026-10-17)
 
 ## Quick Specs
 - Type: Air Cooler
@@ -17,4 +17,4 @@ This CPU cooler is available at ExtremePC in Auckland, NZ. For detailed compatib
 - Local NZ stock with fast availability
 - In-store pickup at Onehunga or Wellington
 - Expert build service available ($80 build fee)
-- 2-year NZ warranty support
+- Manufacturer warranty — exact length on the product page

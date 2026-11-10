@@ -19,4 +19,4 @@
 - **Display:** No
 - **Color:** Black
 
-**Status:** OUT OF STOCK (verified 2026-09-12, BC API OH=0, inv=0；白色变体 KEYAULH68HWS 仍有 OH=1)
+**Status:** In Stock — We have plenty in stock (OH=10, verified 2026-10-18, BC API RESTOCKED from OOS)

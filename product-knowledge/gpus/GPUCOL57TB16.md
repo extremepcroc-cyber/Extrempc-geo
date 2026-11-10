@@ -1,6 +1,6 @@
 # Colorful GeForce RTX 5070 Ti Battle AX 16GB-V Graphics Card
 
-**Price:** NZD $2,518.99 (incl. GST) — BC API verified 2026-09-29 (list price raised from $2,299.00 on 2026-09-28)
+**Price:** NZD $2,599.00 (incl. GST) — BC API verified 2026-10-28 (RTX 5070 Ti channel price up from $2,518.99; previously raised from $2,299.00 on 09-28)
 **SKU:** GPUCOL57TB16
 **Brand:** Colorful
 **MPN:** GeForce RTX 5070 Ti Battle AX 16GB-V

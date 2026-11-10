@@ -1,9 +1,9 @@
 # ASRock X870 Pro RS WiFi ATX AM5 Motherboard
 
-**Price:** NZD $469.0 (incl. GST)
+**Price:** NZD $437.00 (incl. GST) — on sale from $469.00 (BC API verified 2026-10-31; was $469.00 list on 10-29)
 **SKU:** MBASRX870PRS
 **URL:** https://www.extremepc.co.nz/asrock-x870-pro-rs-wifi-atx-motherboard-for-amd-ryzen-7000-8000-9000-series-cpus-socket-am5-amd-x870-chipset-pcie-5-0-3xm-2-4x-ddr5-dimm-back-i-o-10x-usb-2x-type-c-hdmi-lan-hd-audio-2x-internal-usb-2-0-header-1x-internal-usb-3-2-head/
-**Stock:** OUT OF STOCK (verified 2026-09-10, BC API inventory=0; Onehunga not available online)
+**Stock:** We have plenty in stock (OH=10, BC API verified 2026-10-29; restocked, was OUT OF STOCK on 2026-09-10)
 
 ## Quick Specs
 - CPU Socket: am5
@@ -20,4 +20,4 @@ This motherboard is available at ExtremePC in Auckland, NZ. For detailed compati
 - Local NZ stock with fast availability
 - In-store pickup at Onehunga or Wellington
 - Expert build service available ($80 build fee)
-- 2-year NZ warranty support
+- Manufacturer warranty — exact length on the product page

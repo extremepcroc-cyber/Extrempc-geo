@@ -3,7 +3,7 @@
 **Price:** NZD $3,220.00 (incl. GST) (on sale from $3,699.00) — BC API verified 2026-09-24 (calc $2,800 ex-GST × 1.15; was $2,932.50 on 09-23, sale price raised)
 **SKU:** GPUASRB70C32
 **URL:** https://www.extremepc.co.nz/workstation/asrock-intel-arc-pro-b70-creator-32g-graphics-card/
-**Stock:** Only a few left in stock (OH=3, verified 2026-09-24, BC API)
+**Stock:** OUT OF STOCK (BC API verified 2026-10-17, OH=0 — stale "Only a few left" corrected; was in stock as of 2026-09-24)
 
 ## Quick Specs
 - GPU: Intel Arc Pro B70 (Professional workstation GPU)

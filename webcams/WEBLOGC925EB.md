@@ -46,7 +46,7 @@
 
 - **vs Logitech C920 HD Pro (WEBLOGC920PB, 1080p at lower NZD)** — C920 HD Pro has Carl Zeiss optics + stereo mics. C925e is the enterprise model with a detachable privacy shutter + noise-cancelling mics. For consumer streaming, C920. For business deployments, C925e.
 - **vs Logitech Brio 90 (WEBLOGB90B, budget 1080p at much lower NZD)** — Brio 90 is the cheapest 1080p. C925e is the enterprise pick with privacy shutter + noise-cancelling mics.
-- **vs Elgato Facecam 4K (WEBELGF4KB, 4K60 flagship at higher NZD)** — Facecam 4K is 4K60 for best-in-class webcam image. C925e is 1080p enterprise.
+- **vs Elgato Facecam 4K (WEBELGF4KB, 4K60 flagship at higher NZD)** — Facecam 4K is 4K60 for best-in-class webcam image (⚠️ OOS 2026-10-30; in-stock Elgato sibling: Facecam Neo WEBELGFACEN). C925e is 1080p enterprise.
 
 ## FAQ
 

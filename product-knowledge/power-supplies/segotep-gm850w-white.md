@@ -3,7 +3,7 @@
 **SKU:** PSUSEGGM850W3W
 **Brand:** Segotep
 **Price:** NZD $169.00 (incl. GST)
-**Status:** In Stock
+**Status:** ⛔ **OUT OF STOCK** (BC API verified 2026-11-05, OH=0). In-stock 850W alternatives: BLACK PSUSEGGM850W1B (Segotep GM850W Black, OH=33) / PSUTMRKG850 (Thermalright TR-KG850, OH=16).
 
 ## Quick Specs
 

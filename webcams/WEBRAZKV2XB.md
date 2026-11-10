@@ -45,7 +45,7 @@
 ## Comparison
 
 - **vs Razer Kiyo V2 4K (WEBRAZKV2B, 4K30 at higher NZD)** — Kiyo V2 is 4K30 (sharper, less smooth). Kiyo V2 X is 1080p60 (smoother, less sharp). For sharpness, Kiyo V2. For smooth motion, Kiyo V2 X.
-- **vs Elgato Facecam 4K (WEBELGF4KB, 4K60 at higher NZD)** — Facecam 4K is 4K60 + HDR, the top of the range. Kiyo V2 X is 1080p60 at a lower price.
+- **vs Elgato Facecam 4K (WEBELGF4KB, 4K60 at higher NZD)** — Facecam 4K is 4K60 + HDR, the top of the range (⚠️ OOS 2026-10-30; in-stock Elgato sibling: Facecam Neo WEBELGFACEN). Kiyo V2 X is 1080p60 at a lower price.
 - **vs Elgato Facecam Neo (WEBELGFACEN, 1080p60 at lower NZD)** — Facecam Neo is 1080p60 with a 90° FOV. Kiyo V2 X is 1080p60 with a 80° FOV + Razer mics. Choose your preferred brand.
 
 ## FAQ

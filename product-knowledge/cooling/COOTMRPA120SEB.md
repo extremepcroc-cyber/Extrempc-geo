@@ -3,7 +3,7 @@
 **Price:** NZD $89.00 (incl. GST)
 **SKU:** COOTMRPA120SEB
 **URL:** https://www.extremepc.co.nz/thermalright-peerless-assassin-120-se-black-cpu-cooler/
-**Stock:** Only a few left in stock (OH=5, verified 2026-09-26)
+**Stock:** OUT OF STOCK (OH=0, BC API verified 2026-10-29)
 
 ## Quick Specs
 - Type: Air Cooler (Dual Tower)

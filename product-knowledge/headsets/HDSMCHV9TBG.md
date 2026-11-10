@@ -1,11 +1,11 @@
 # MCHOSE V9 Turbo+ Wireless RGB Gaming Headset (Magnetic Charging Station) - Black Gold
 
-**Price:** NZD $249.00 (incl. GST) — BC API verified 2026-09-30 (list price cut $289→$249)
+**Price:** NZD $249.00 (incl. GST) — BC API verified 2026-11-05 (list price cut $289→$249 on 09-30)
 **SKU:** HDSMCHV9TBG
 **Brand:** MCHOSE
 **URL:** https://www.extremepc.co.nz/gaming-headsets/mchose-v9-turbo-wireless-rgb-gaming-headset-with-magnetic-charging-station-black-gold-hw-v9-10/
-**Stock:** In Stock — Only a few left (OH=4, verified 2026-09-23, BC API)
-**Status:** NEW ARRIVAL 2026-09-23 (first seen in stock in 09-23 cache)
+**Stock:** ⛔ **OUT OF STOCK** — BC API verified 2026-11-05 (OH=0; was OH=2 on 2026-11-04). Do NOT recommend this black-gold variant.
+**⚠️ Siblings in stock:** WHITE GOLD **HDSMCHV9TWG** (V9 Turbo+ HW-V9-13, $249, OH=1 few) and **HDSMCHV9PBR** (V9 Pro NC HW-V9-4, $99, OH=7) — recommend these instead when a customer wants the MCHOSE V9 line.
 
 ## Quick Specs
 - Type: Wireless RGB Gaming Headset

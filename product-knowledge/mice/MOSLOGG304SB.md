@@ -5,7 +5,7 @@
 **Brand:** Logitech
 **URL:** https://www.extremepc.co.nz/wireless-gaming-mice/logitech-g304-x-superlight-lightspeed-wireless-gaming-mouse-black-910-007667/
 **Stock:** In Stock — Only a few left (OH=5, verified 2026-09-23, BC API)
-**Status:** In Stock (relaunched 2026-10-01 as new SKUs MOSLOGG304XB / MOSLOGG304XW — old Superlight SKUs MOSLOGG304SB / MOSLOGG304SW removed from BC; see note)
+**Status:** **OUT OF STOCK** (2026-10-16 batch, BC API OH=0, not in 2026-10-15 cache; relaunched 2026-10-01 as new SKUs MOSLOGG304XB / MOSLOGG304XW — old Superlight SKUs removed from BC).
 
 ## Quick Specs
 - Connection: Wireless (LIGHTSPEED 2.4G)

@@ -3,7 +3,7 @@
 **SKU:** MONACEB247YG
 **Brand:** Acer
 **Price:** NZD $159.00 (incl. GST) — BC API verified 2026-09-30 (list price increased $149.01→$159)
-**Status:** In Stock — Only a few left (OH=3, verified 2026-09-30)
+**Status:** OUT OF STOCK (OH=0, BC API verified 2026-10-31; also is_visible=false on storefront — do not recommend/quote)
 
 ## Quick Specs
 

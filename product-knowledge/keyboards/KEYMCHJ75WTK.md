@@ -15,6 +15,6 @@
 - **Form Factor:** TKL (75-80%)
 - **Ergonomic:** No
 - **Display:** No
-**Price:** NZD $149.01 (incl. GST) — was $189.00 (BC API verified 2026-10-12)
+**Price:** NZD $189.00 (incl. GST) — BC API verified 2026-10-18 (restocked, price restored to list)
 
-**Status:** OUT OF STOCK (verified 2026-10-12, BC API OH=0; history: OH=1 → sold out 2026-10-12; ⚠️ black sibling KEYMCHJ75BTK ALSO out of stock 2026-10-12 — both Jet 75 variants now OOS)
+**Status:** In Stock — We have plenty in stock (OH=5, verified 2026-10-18, BC API RESTOCKED from OOS)

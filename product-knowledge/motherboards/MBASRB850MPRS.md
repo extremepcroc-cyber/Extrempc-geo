@@ -1,6 +1,6 @@
 # ASRock B850M Pro RS WiFi AM5 MATX Ryzen Motherboard
 
-**Price:** NZD $264.50 (incl. GST) (on sale from $339.00) — BC API verified 2026-09-19 (calc $230 × 1.15; was $276.00 on 09-13)
+**Price:** NZD $287.50 (incl. GST) (on sale from $339.00) — BC API verified 2026-11-03 (was $253.00 on 10-24; $264.50 on 09-19)
 **SKU:** MBASRB850MPRS
 **URL:** https://www.extremepc.co.nz/asrock-b850m-pro-rs-wifi-am5-matx-ryzen-motherboard/
 **Stock:** We have plenty in stock

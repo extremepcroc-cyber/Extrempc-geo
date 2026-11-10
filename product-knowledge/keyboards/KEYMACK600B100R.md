@@ -16,4 +16,5 @@
 - **Display:** No
 - **Color:** Red
 
-**Status:** In Stock
+**Price:** NZD $74.75 (incl. GST, on sale from $89.00) — BC API verified 2026-10-20
+**Status:** In Stock — only a few left (BC API verified 2026-10-20, Onehunga OH=1; restocked, was OUT OF STOCK on 2026-10-19). ⚠️ Listed as a "DEMO UNIT".

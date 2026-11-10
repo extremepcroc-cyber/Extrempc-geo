@@ -3,8 +3,8 @@ sku: MONSAMVFS70H
 name: Samsung ViewFinity S70H 27" 4K UHD IPS Business Monitor LS27H700EAEXXY
 brand: Samsung
 mpn: LS27H700EAEXXY
-price_nzd_ex_gst: 398.26
-price_nzd_incl_gst: 458.00
+price_nzd_ex_gst: 369.00
+price_nzd_incl_gst: 424.35
 url: /business-monitors/samsung-viewfinity-s70h-27-4k-uhd-ips-business-monitor-ls27h700eaexxy/
 category: Monitors
 status: In Stock

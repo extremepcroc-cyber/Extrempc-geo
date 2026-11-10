@@ -3,7 +3,7 @@
 **SKU:** HDSLOGG321W
 **Brand:** Logitech
 **Price:** NZD $97.75 (incl. GST, on sale from $129.00) — BC API verified 2026-09-22 (calc $85 ex-GST × 1.15)
-**Status:** In Stock — only a few left (OH=1, verified 2026-09-22, BC API inv=1)
+**Status:** OUT OF STOCK (BC API verified 2026-10-19, Onehunga OH=0; was OH=1 on 2026-09-22)
 
 ## Quick Specs
 

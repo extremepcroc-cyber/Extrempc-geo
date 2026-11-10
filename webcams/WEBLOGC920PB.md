@@ -66,7 +66,7 @@
 ## Related Products
 
 - **WEBLOGB90B** — Logitech Brio 90 (budget 1080p)
-- **WEBELGF4KB** — Elgato Facecam 4K (4K60 flagship)
+- **WEBELGF4KB** — Elgato Facecam 4K (4K60 flagship; ⚠️ OOS 2026-10-30 — in-stock sibling: Facecam Neo WEBELGFACEN)
 - **MICELGW3USBB** — Elgato Wave:3 (dedicated mic, better than built-in)
 - Recommended pairing: a USB mic (the C920's built-in mics are usable but a dedicated USB mic is better)
 

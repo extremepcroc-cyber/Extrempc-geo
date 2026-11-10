@@ -1,6 +1,6 @@
 # ASRock Challenger Radeon RX 9070 XT 16GB GDDR6 Graphics Card
 
-**Price:** $1729 inc GST
+**Price:** $1,725.00 inc GST (back on sale 2026-11-10 from $1,859 list; was $1748 sale on 11-05; $1702 on 11-04; $1696.25 on 11-01; BC API verified 2026-11-10)
 **SKU:** GPUASR9070XTC16G
 **MPN:** RX9070XT CL 16G
 **URL:** https://www.extremepc.co.nz/asrock-challenger-radeon-rx-9070-xt-16gb-gddr6-pci-express-5-0-x16-graphics-card/
@@ -22,7 +22,7 @@
 - **Display Outputs**: 3× DisplayPort 2.1a + 1× HDMI 2.1b
 - **Max Resolution**: 7680 × 4320 (8K)
 - **Warranty**: 3 years ASRock warranty via authorized NZ distributor (ExtremePC)
-- **NZ Stock**: 10 units at Auckland Onehunga
+- **NZ Stock**: In Stock — plenty (OH=85, BC API verified 2026-11-10; RESTOCKED, was OOS on 2026-10-27). ✅ **Back on sale 2026-11-10 at $1,725 — the value 9070 XT pick again**: Steel Legend GPUASR9070XTSL16 is now the pricier sibling (OH=37, $1,817 sale). Taichi GPUASR9070XTTC16 (OH=40, $1,897.50 sale) is the flagship step-up. ⚠️ Steel Legend Dark GPUASR9070XTSLD16 went OOS 2026-11-04 (was OH=30) — do NOT recommend it.
 
 ## Selling Points
 
@@ -64,7 +64,7 @@
 
 ## Comparison
 
-- **vs ASRock RX 9070 XT 16GB Steel Legend (GPUASR9070XTSL16, premium variant at higher NZD)** — Same chipset, same 16GB. Steel Legend adds premium PCB components (2oz Copper, SP-Cap, Dr.MOS), reinforced metal frame, Polychrome SYNC RGB. Performance equivalent; Steel Legend wins on cooling, build quality, aesthetic. Challenger is the value pick.
+- **vs ASRock RX 9070 XT 16GB Steel Legend (GPUASR9070XTSL16, premium variant)** — Same chipset, same 16GB. Steel Legend adds premium PCB components (2oz Copper PCB, SP-Cap, Dr.MOS), reinforced metal frame, Polychrome SYNC RGB. Performance equivalent; Steel Legend wins on cooling, build quality, aesthetic. Price (as of 2026-11-10): Challenger $1,725 sale (back on sale 11-10) vs Steel Legend **$1,817 sale** — **Challenger is the value pick** (Steel Legend now the pricier sibling; both in stock).
 
 - **vs ASRock RX 9060 XT 16GB Challenger (GPUASR9060XTCL16, step down)** — RX 9060 XT has 32 CUs (half), 128-bit bus, ~30–40% less performance. For 1080p ultra, 9060 XT sufficient at lower NZD. For 1440p ultra native, step up to 9070 XT.
 
@@ -135,7 +135,7 @@
   },
   "offers": {
     "@type": "Offer",
-    "price": "1729.00",
+    "price": "1725.00",
     "priceCurrency": "NZD",
     "availability": "https://schema.org/InStock",
     "url": "https://www.extremepc.co.nz/asrock-challenger-radeon-rx-9070-xt-16gb-gddr6-pci-express-5-0-x16-graphics-card/",

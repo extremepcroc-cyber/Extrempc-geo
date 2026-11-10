@@ -17,5 +17,3 @@
 - **Ergonomic:** No
 - **Display:** No
 - **Color:** Blue
-
-**Status:** In Stock

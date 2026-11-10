@@ -1,9 +1,9 @@
 # ASRock X870E NOVA WIFI AM5 AMD ATX Motherboard
 
-**Price:** NZD $799.00 (incl. GST)
+**Price:** NZD $799.00 (incl. GST) — BC API verified 2026-11-03 (was $770.50 sale on 10-30; back to list)
 **SKU:** MBASRX870ENW
 **URL:** https://www.extremepc.co.nz/asrock-x870e-nova-wifi-am5-amd-atx-motherboard/
-**Stock:** We have plenty in stock
+**Stock:** Only a few left in stock (OH=2, BC API verified 2026-11-03; was plenty on 11-01)
 
 ## Quick Specs
 - CPU Socket: AM5

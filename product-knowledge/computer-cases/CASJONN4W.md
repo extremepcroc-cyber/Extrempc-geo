@@ -2,7 +2,7 @@
 
 **Price:** NZD $209.00 (incl. GST)
 **SKU:** CASJONN4W
-**Stock:** Plenty in stock (verified 2026-08-31, OH>0)
+**Stock:** Only a few left (OH=5, BC API verified 2026-10-31; was OH=6 on 10-30)
 
 ## Quick Specs
 - Form Factor: Mini ITX / Micro ATX
@@ -17,4 +17,4 @@ This computer case is available at ExtremePC in Auckland, NZ. Verify GPU length 
 - Local NZ stock with fast availability
 - In-store pickup at Onehunga or Wellington
 - Expert build service available ($80 build fee)
-- 2-year NZ warranty support
+- Manufacturer warranty — exact length on the product page

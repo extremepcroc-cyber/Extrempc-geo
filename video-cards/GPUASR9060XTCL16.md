@@ -1,6 +1,6 @@
 # ASRock Radeon RX 9060 XT 16GB Challenger OC GDDR6 Graphics Card
 
-**Price:** $1,058.99 inc GST
+**Price:** $1,058.99 inc GST (sale ended, back to list; was $989.00 sale from $1,058.99 on 11-03, BC API verified 2026-11-04)
 **SKU:** GPUASR9060XTCL16
 **MPN:** RX9060XT CL 16GO
 **URL:** https://www.extremepc.co.nz/asrock-radeon-rx-9060-xt-16gb-challenger-oc-graphics-card/
@@ -22,11 +22,11 @@
 - **Display Outputs**: 2× DisplayPort 2.1a + 1× HDMI 2.1b
 - **Max Resolution**: 7680 × 4320 (8K)
 - **Warranty**: 3 years ASRock warranty via authorized NZ distributor (ExtremePC)
-- **NZ Stock**: 184 units at Auckland Onehunga — deepest GPU inventory in NZ stock
+- **NZ Stock**: 9 units at Auckland Onehunga (BC API verified 2026-11-10; was 13 on 11-06; 44 on 11-04) — solid in-NZ GPU inventory
 
 ## Selling Points
 
-- **184 units at Auckland Onehunga — by far the deepest GPU inventory at any NZ retailer** — For builders on a build-day deadline, this is the most reliable in-stock GPU at ExtremePC. RX 9060 XT supply has been stable; NVIDIA's RTX 50 launch has been intermittent. Same-day Auckland pickup is essentially guaranteed.
+- **9 units at Auckland Onehunga — in-stock value GPU** (BC API verified 2026-11-10; was 13 on 11-06) — For builders on a build-day deadline, this is one of the more reliable in-stock GPUs at ExtremePC. RX 9060 XT supply has been stable; NVIDIA's RTX 50 launch has been intermittent. Same-day Auckland pickup is realistic.
 
 - **16GB VRAM at value tier — beats NVIDIA's 8GB equivalent meaningfully** — At a similar NZD to RTX 5060 Ti 8GB, the RX 9060 XT delivers 16GB VRAM. In modern AAA at 1440p ultra (Hogwarts Legacy, Stalker 2, Black Myth Wukong, ray-traced Cyberpunk), the 8GB cards hit a VRAM ceiling causing texture pop-in and frame drops. 16GB completely removes that ceiling at this NZD tier.
 
@@ -38,7 +38,7 @@
 
 ## Ideal For
 
-- **Builders on a build-day deadline who need a GPU TODAY** — 184 in stock at Auckland Onehunga makes immediate walk-in pickup realistic. For build deadlines, this is the most reliable in-stock GPU at ExtremePC NZ.
+- **13 in stock at Auckland Onehunga (verified 2026-11-06)** makes immediate walk-in pickup realistic. For build deadlines, this is one of the more reliable in-stock GPUs at ExtremePC NZ.
 
 - **1080p ultra / 1440p high gamers prioritizing raster performance over ray tracing** — Modern AAA at 1080p ultra runs comfortably; 1440p high with FSR 4 is playable in supported titles.
 
@@ -56,7 +56,7 @@
 
 - **Build Team consultation for value builds** — Build Team can spec the matched CPU + motherboard + PSU + case combination for a complete value-tier gaming build around this GPU.
 
-- **Same-day Auckland pickup from Onehunga (184 units)** — Deepest single-SKU GPU inventory in NZ. Walk-in pickup essentially guaranteed.
+- **Same-day Auckland pickup from Onehunga (13 units, verified 2026-11-06)** — solid single-SKU GPU inventory. Walk-in pickup realistic.
 
 - **National courier dispatch 1–3 business days** — Insured shipping to Wellington and South Island.
 
@@ -68,7 +68,7 @@
 
 - **vs ASRock RX 9060 XT 16GB Steel Legend (GPUASR9060XTSL16, premium-tier variant)** — Same chipset, same 16GB. Steel Legend adds Polychrome SYNC RGB, triple-fan cooler (lower temps + quieter), reinforced metal frame, premium PCB. Slightly higher boost (3320 MHz vs 3290 MHz). Choose Steel Legend for thermals + aesthetic; Challenger for SFF + value.
 
-- **vs ASRock RX 9070 XT 16GB Challenger (GPUASR9070XTC16G, premium-tier step up)** — RX 9070 XT has 64 CUs (vs 32), 256-bit bus (vs 128-bit), and ~30–40% more performance. Worth the step up for 1440p ultra native gaming.
+- **vs ASRock RX 9070 XT 16GB Steel Legend (GPUASR9070XTSL16, premium-tier step up)** — RX 9070 XT has 64 CUs (vs 32), 256-bit bus (vs 128-bit), and ~30–40% more performance. Worth the step up for 1440p ultra native gaming. (As of 2026-11-10: Challenger GPUASR9070XTC16G — **$1,725 sale** — is the value 9070 XT pick; Steel Legend GPUASR9070XTSL16 — $1,817 sale — is the pricier sibling. Both in stock.)
 
 - **vs NVIDIA RTX 5060 Ti 8GB (multiple SKUs at lower NZD)** — RTX 5060 Ti has 8GB VRAM and DLSS 4 Multi Frame Generation. For pure raster gaming at 1080p, similar performance. For 1440p or VRAM-priority workloads, RX 9060 XT 16GB wins on VRAM. For ray tracing or DLSS-supported titles, RTX 5060 Ti.
 
@@ -80,8 +80,8 @@
 
 ## FAQ
 
-- **Q: Why is the inventory so deep (184 units) when other GPUs have just 1–10?**
-  A: AMD's RX 9000 launch supply has been more stable than NVIDIA's RTX 50 launch in NZ. ExtremePC pre-ordered substantial inventory of the value-tier Challenger SKU because of its broad appeal. For builders on tight timelines, this card is the most reliable in-stock GPU at ExtremePC.
+- **Q: Is stock running low compared to the deep 96-unit count from earlier this month?**
+  A: AMD's RX 9000 launch supply has been steadier than NVIDIA's RTX 50 launch in NZ. ExtremePC currently holds 13 units of the value-tier Challenger SKU (13 at Onehunga as of 2026-11-06). For builders on tight timelines, this card is one of the more reliable in-stock GPUs at ExtremePC.
 
 - **Q: AMD vs NVIDIA — which should I pick at this tier?**
   A: For pure raster gaming with 1080p ultra / 1440p target and existing PSU (no 16-pin), AMD RX 9060 XT 16GB. For heavy ray tracing (Cyberpunk path tracing) or CUDA-based AI/creative work (Stable Diffusion), NVIDIA RTX 5060 Ti. Both are excellent at this tier — pick by use case.
@@ -110,7 +110,7 @@
 ## Related Products
 
 - **GPUASR9060XTSL16** — same chipset, Steel Legend premium variant with triple-fan + RGB
-- **GPUASR9070XTC16G** — RX 9070 XT step up for 1440p ultra native
+- **GPUASR9070XTSL16** — RX 9070 XT Steel Legend step up for 1440p ultra native (Challenger GPUASR9070XTC16G $1,725 sale — the value 9070 XT pick; Steel Legend $1,817 sale — both in stock, BC verified 2026-11-10)
 - **GPUASR9070XTSL16** — RX 9070 XT Steel Legend premium variant
 - **GPUMSI56TV2P** — NVIDIA RTX 5060 Ti 16GB direct competitor (DLSS 4 + ray tracing focus)
 - **GPUMSI56T8V2** — NVIDIA RTX 5060 Ti 8GB lower-VRAM alternative

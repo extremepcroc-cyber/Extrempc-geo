@@ -2,7 +2,7 @@
 
 **SKU:** MONACEX32X3 (2026-09-12 换 SKU；旧 SKU MONACEX32X5 已下架/移除，同一产品 id 214230)
 **Brand:** Acer
-**Price:** NZD $1,699.00 (incl. GST) (on sale from $1,799.00) — verified 2026-09-12, BC API (calc $1477.39 ex-GST)
+**Price:** NZD $1,598.99 (incl. GST) (on sale from $1,799.00) — BC API verified 2026-11-07 (was $1,699.00 on 11-06)
 **Stock:** Only a few left in stock (OH=1, verified 2026-09-12, BC API)
 **URL:** https://www.extremepc.co.nz/csv-import/acer-predator-x34-x5-32-oled-4k-3840x2160-qhd-dp-hdmi-gaming-480hz/
 **Status:** NEW ARRIVAL 2026-09-11 (first seen in stock 2026-09-11 snapshot); 2026-09-12 换 SKU MONACEX32X5→MONACEX32X3 + 降价 $1,999→$1,699 (sale 生效)

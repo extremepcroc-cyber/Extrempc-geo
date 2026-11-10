@@ -2,11 +2,11 @@
 sku: MOSASX11B
 name: Attack Shark X11 Lightweight Wireless Gaming Mouse with RGB Charging Dock Black
 brand: Attack Shark
-price_nzd_ex_gst: 60.0
-price_nzd_incl_gst: 69.0
+price_nzd_ex_gst: 68.7
+price_nzd_incl_gst: 79.0
 url: https://www.extremepc.co.nz/attack-shark-x11-lightweight-wireless-gaming-mouse-with-rgb-charging-dock-black/
 category: Mice
-status: In Stock
+status: Out of Stock
 ---
 
 # Attack Shark X11 Lightweight Wireless Gaming Mouse with RGB Charging Dock Black
@@ -24,5 +24,6 @@ status: In Stock
 
 - Lightweight mouse from Attack Shark
 - Includes charging dock
-- Price: NZD $69.0 (incl. GST)
+- Price: NZD $79.00 (incl. GST) — BC API verified 2026-10-20 (was $69.00)
+- **Status:** OUT OF STOCK (BC API verified 2026-10-20, Onehunga OH=0; last seen In Stock at $69.00 on 2026-10-19)
 

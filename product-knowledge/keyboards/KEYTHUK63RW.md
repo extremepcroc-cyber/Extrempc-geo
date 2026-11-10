@@ -16,4 +16,4 @@
 - **Display:** No
 - **Color:** Red
 
-**Status:** In Stock
+**Status:** ❌ OUT OF STOCK (Onehunga OH=0, BC API verified 2026-11-04 — do NOT recommend). ⚠️ In-stock sibling: **KEYTHUK63BB** brown tactile / blue case (OH=11, $46.00 sale).

@@ -3,7 +3,7 @@
 **Price:** NZD $2,999.00 (incl. GST) — BC API verified 2026-09-08 (was $2,599)
 **SKU:** GPUMSI58V3XO6
 **URL:** https://www.extremepc.co.nz/rtx-50-series/msi-geforce-rtx-5080-ventus-3x-oc-16gb-graphics-card/
-**Stock:** Plenty in stock
+**Stock:** OUT OF STOCK (BC API verified 2026-10-17, OH=0 — stale "Plenty in stock" corrected; do NOT recommend as in stock)
 
 ## Quick Specs
 - GPU: NVIDIA GeForce RTX 5080 (Blackwell)

@@ -1,9 +1,10 @@
 # AULA SC380 Pro Tri-Mode Lightweight Wireless Gaming Mouse with Charging Dock — Black
 
-**Price:** $59 inc GST
+**Price:** $58.99 inc GST (BC API verified 2026-11-01)
 **SKU:** MOSAULC380PB
 **MPN:** SC380 Pro Black
 **URL:** https://www.extremepc.co.nz/aula-sc380-pro-tri-mode-lightweight-wireless-gaming-mouse-with-charging-dock-black/
+**Status:** OUT OF STOCK (OH=0, BC API verified 2026-11-01; is_visible=false — storefront hidden. Do NOT recommend.)
 
 ## Quick Specs
 - **Connection:** Tri-mode — 2.4 GHz wireless, Bluetooth, and USB-C wired, one mouse across desktop, laptop, and tablet

@@ -1,6 +1,6 @@
 ﻿# AMD Ryzen 5 5600X — 6 Core / 12 Thread AM4 OEM (no cooler)
 
-**Price:** $289.00 inc GST
+**Price:** NZD $281.75 (incl. GST, sale from $289.00) — BC API verified 2026-11-06 (sale continues)
 **SKU:** CPUAMD5600XOEM
 **MPN:** 100-000000065
 **URL:** https://www.extremepc.co.nz/amd-ryzen-5-5600x-cpu-6-core-12-thread-am4-socket-oem-without-cooler/
@@ -16,7 +16,7 @@
 - **Packaging**: OEM tray — no cooler, no retail box. Requires AM4-compatible cooler.
 - **Memory support**: DDR4 up to 3200 MT/s officially (faster with overclocking)
 - **Warranty**: 3 years AMD warranty via authorized NZ distributor (ExtremePC)
-- **NZ Stock**: 9 units at Auckland Onehunga store
+- **NZ Stock**: Only a few left in stock (OH=14, BC API verified 2026-11-06; was OH=19 on 11-05)
 
 ## Selling Points
 
@@ -115,7 +115,7 @@
   },
   "offers": {
     "@type": "Offer",
-    "price": "289.00",
+    "price": "281.75",
     "priceCurrency": "NZD",
     "availability": "https://schema.org/InStock",
     "url": "https://www.extremepc.co.nz/amd-ryzen-5-5600x-cpu-6-core-12-thread-am4-socket-oem-without-cooler/",

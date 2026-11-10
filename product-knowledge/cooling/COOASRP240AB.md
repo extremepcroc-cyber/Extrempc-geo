@@ -3,7 +3,7 @@
 **Price:** NZD $109.25 (incl. GST) (on sale from $119.00)
 **SKU:** COOASRP240AB
 **URL:** https://www.extremepc.co.nz/asrock-pro-240-argb-aio-liquid-cpu-cooler-black-90-apra24-baaga6/
-**Stock:** Plenty in stock
+**Stock:** Only a few left (OH=3, BC API verified 2026-10-30; was OH=6 on 10-29)
 
 ## Quick Specs
 - Type: AIO Liquid Cooler
@@ -16,4 +16,4 @@ This CPU cooler is available at ExtremePC in Auckland, NZ. For detailed compatib
 - Local NZ stock with fast availability
 - In-store pickup at Onehunga or Wellington
 - Expert build service available ($80 build fee)
-- 2-year NZ warranty support
+- Manufacturer warranty — exact length on the product page

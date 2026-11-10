@@ -3,7 +3,7 @@
 **Price:** NZD $2070.0 (incl. GST)
 **SKU:** RAMCRUCP6456
 **URL:** https://www.extremepc.co.nz/crucial-pro-64gb-ddr5-5600mhz-desktop-memory-cp64g56c46u5/
-**Stock:** Plenty in stock
+**Stock:** OUT OF STOCK (BC API verified 2026-10-17, OH=0 — stale "Plenty in stock" corrected; do NOT recommend as in stock)
 
 ## Quick Specs
 - Type: DDR5

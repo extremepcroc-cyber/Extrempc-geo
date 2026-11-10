@@ -1,7 +1,7 @@
 # Thermalright LGA 1851 BCF (Black V2) — CPU Contact Frame Anti-Bending Buckle
 
-**Price:** $29 inc GST
-**SKU:** COOTMR1851BCFB2
+**Price:** NZD $17.25 (incl. GST, on sale from $29.00) — BC API verified 2026-10-31
+**SKU:** COOTMR1851BB2 (renamed from COOTMR1851BCFB2)
 **MPN:** LGA 1851-BCF-Black V2
 **URL:** https://www.extremepc.co.nz/thermalright-lga-1851-black-v2-cpu-contact-frame-anti-bending-buckle/
 

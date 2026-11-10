@@ -2,7 +2,7 @@
 
 **Price:** NZD $549.00 (incl. GST)
 **SKU:** MONAOCCQ32G4
-**Stock:** Only a few left in stock (verified 2026-08-31, OH>0)
+**Status:** OUT OF STOCK (OH=0, BC API verified 2026-10-24; was sale $458.85 from $549.00 on 2026-10-23)
 
 ## Quick Specs
 - Panel Size: 32"

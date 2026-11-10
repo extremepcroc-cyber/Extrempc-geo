@@ -1,10 +1,10 @@
 # Attack Shark R82 HE Rapid Trigger RGB Wired Gaming Keyboard - Black, Magnetic Switch, 80 Keys
 
-**Price:** NZD $119.00 (incl. GST) — BC API verified 2026-09-23 (list, no sale)
+**Price:** NZD $129.00 (incl. GST) — BC API verified 2026-11-09 (list, no sale; was $119.00 on 09-23)
 **SKU:** KEYASR82HB
 **Brand:** Attack Shark
 **URL:** https://www.extremepc.co.nz/wired-gaming-keyboards/attack-shark-r82-he-rapid-trigger-rgb-wired-gaming-keyboard-black-magnetic-switch-80-keys/
-**Stock:** In Stock — Only a few left (OH=5, verified 2026-09-23, BC API)
+**Stock:** In Stock — Only a few left (OH=4, BC API verified 2026-11-05; was OH=5 on 11-04)
 **Status:** NEW ARRIVAL 2026-09-23 (first seen in stock in 09-23 cache)
 
 ## Quick Specs
@@ -20,7 +20,7 @@
 ## Compatibility Notes
 - 80-key layout
 - Magnetic/HE switches — good for fighting games & fast resets
-- R85 HE siblings: Moonlight (KEYASR85HM) / White Contours (KEYASR85HWC)
+- R85 HE siblings: Moonlight (KEYASR85HM) / White Contours (KEYASR85HWC — ⚠️ OOS 2026-11-03, do not recommend)
 
 ## Why Buy From ExtremePC
 - Local NZ stock with fast availability

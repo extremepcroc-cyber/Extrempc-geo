@@ -1,9 +1,9 @@
 # ASRock B860M Pro-A WiFi MATX Motherboard
 
-**Price:** NZD $276.00 (incl. GST) — on sale from $299.00 (verified 2026-09-13, BC API calc $240 × 1.15)
+**Price:** NZD $270.25 (incl. GST) — on sale from $299.00 (BC API verified 2026-11-05; was $276.00 on 09-13)
 **SKU:** MBASR860MPAW
 **URL:** https://www.extremepc.co.nz/asrock-b860m-pro-a-wifi-matx-motherboard/
-**Stock:** Plenty in stock (OH=20, verified 2026-09-13, BC API)
+**Stock:** Plenty in stock (OH=16, verified 2026-11-05, BC API)
 **Status:** NEW ARRIVAL 2026-09-13 (first seen in stock in 09-13 cache)
 
 ## Quick Specs

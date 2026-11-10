@@ -11,4 +11,4 @@
 - **Ergonomic:** No
 - **Gaming:** Yes
 
-**Status:** In Stock
+**Status:** In Stock — Only a few left (OH=6, BC API verified 2026-11-06; was OH=7 on 11-05)

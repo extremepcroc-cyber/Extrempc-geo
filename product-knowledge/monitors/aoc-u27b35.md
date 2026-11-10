@@ -1,6 +1,6 @@
 # AOC U27B35 27" 4K UHD 4ms IPS Business Monitor
 
-**Price:** NZD $349.00 (incl. GST)
+**Price:** NZD $329.00 (incl. GST, on sale from $349.00) — BC API verified 2026-11-07 (was $349.00 on 11-06)
 **SKU:** MONAOCU27B35
 **Stock:** Only a few left in stock (verified 2026-08-31, OH>0)
 

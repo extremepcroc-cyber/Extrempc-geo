@@ -16,4 +16,4 @@
 - **Display:** No
 - **Color:** White
 
-**Status:** In Stock
+**Status:** **OUT OF STOCK** (2026-10-16 batch, BC API OH=0, not in 2026-10-15 cache).

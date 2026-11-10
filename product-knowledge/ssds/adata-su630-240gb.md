@@ -3,7 +3,7 @@
 **SKU:** SSDADAUSU630240
 **Brand:** ADATA
 **Price:** NZD $86.25 (incl. GST)
-**Status:** In Stock
+**Status:** OUT OF STOCK (verified 2026-10-18, absent from daily cache = OH 0; was In Stock on 2026-10-17)
 
 ## Quick Specs
 

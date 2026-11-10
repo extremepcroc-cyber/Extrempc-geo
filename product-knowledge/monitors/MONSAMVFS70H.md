@@ -1,6 +1,6 @@
 # Samsung ViewFinity S70H 27" 4K UHD IPS Business Monitor
 
-**Price:** NZD $458.0 (incl. GST)
+**Price:** NZD $424.35 (incl. GST, on sale from $458.00) — BC API verified 2026-11-09 (was $442.75 sale on 11-06)
 **SKU:** MONSAMVFS70H
 **URL:** https://www.extremepc.co.nz/business-monitors/samsung-viewfinity-s70h-27-4k-uhd-ips-business-monitor-ls27h700eaexxy/
 **Stock:** Only a few left in stock

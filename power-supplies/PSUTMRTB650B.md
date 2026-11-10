@@ -1,6 +1,6 @@
 # Thermalright TB 650W 80 PLUS Bronze NON Modular Power Supply Black
 
-**Price:** $109 inc GST
+**Price:** $97.75 inc GST (on sale from $109, BC API verified 2026-11-10)
 **SKU:** PSUTMRTB650B
 **MPN:** TR-TB650S
 **URL:** https://www.extremepc.co.nz/thermalright-tb-650w-80-plus-bronze-non-modular-power-supply-black/
@@ -11,7 +11,7 @@
 - **Modularity**: Non-modular
 - **Colour**: Black
 - **Warranty**: Thermalright warranty (ExtremePC)
-- **NZ Stock**: In stock at Auckland Onehunga
+- **NZ Stock**: Only a few left at Auckland Onehunga (OH=3, BC API verified 2026-11-10)
 
 ## Selling Points
 
@@ -68,7 +68,7 @@
   "description": "Thermalright TB 650W 80 PLUS Bronze NON Modular Power Supply Black. Bronze efficiency, 650W, standard ATX Non-modular. For mid-range builds (Ryzen 5 / Core i5 + RTX 4070 / RX 7800 XT class). Thermalright warranty via ExtremePC NZ.",
   "offers": {
     "@type": "Offer",
-    "price": "109.00",
+    "price": "97.75",
     "priceCurrency": "NZD",
     "availability": "https://schema.org/InStock",
     "url": "https://www.extremepc.co.nz/thermalright-tb-650w-80-plus-bronze-non-modular-power-supply-black/"

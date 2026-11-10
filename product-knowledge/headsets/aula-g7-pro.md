@@ -4,7 +4,7 @@
 **Brand:** AULA
 **Price:** NZD $69.00 (incl. GST)
 **URL:** https://www.extremepc.co.nz/gaming-headsets/aula-g7-pro-tri-mode-rgb-wireless-gaming-headset-black-g7pro-black/
-**Status:** OUT OF STOCK (verified 2026-09-23, BC API inv=0, OH=0). Was In Stock OH=1 on 09-19, sold out by 09-23. No other color variants in stock — EVA should recommend other in-stock headsets.
+**Status:** In Stock — Only a few left (OH=2, BC API verified 2026-11-09; was OH=5 on 10-30; was OH=10 on 10-29)
 
 ## Quick Specs
 

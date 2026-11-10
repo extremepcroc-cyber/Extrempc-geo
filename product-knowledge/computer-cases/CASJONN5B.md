@@ -3,7 +3,7 @@
 **Price:** NZD $359.0 (incl. GST)
 **SKU:** CASJONN5B
 **URL:** https://www.extremepc.co.nz/jonsbo-n5-nas-chassis-e-atx-full-tower-case-black/
-**Stock:** Plenty in stock
+**Stock:** Only a few left in stock (OH=4, BC API verified 2026-10-27; was OH=5 on 10-26)
 
 ## Quick Specs
 - Max GPU Length: 325mm
@@ -17,4 +17,4 @@ This case is available at ExtremePC in Auckland, NZ. For detailed compatibility 
 - Local NZ stock with fast availability
 - In-store pickup at Onehunga or Wellington
 - Expert build service available ($80 build fee)
-- 2-year NZ warranty support
+- Manufacturer warranty — exact length on the product page

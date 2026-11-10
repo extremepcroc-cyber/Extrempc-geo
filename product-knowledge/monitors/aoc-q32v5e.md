@@ -2,7 +2,7 @@
 
 **SKU:** MONAOCQ32V5E
 **Brand:** AOC
-**Price:** NZD $399.00 (incl. GST) — list price, not on sale
+**Price:** NZD $379.01 (incl. GST, on sale from $399.00) — BC API verified 2026-11-07 (was $399.00 on 11-06)
 **Stock:** Only a few left in stock (OH=2, verified 2026-09-06)
 **URL:** https://www.extremepc.co.nz/csv-import/aoc-q32v5e-31-5-qhd-100hz-business-monitor-2560x1440-1ms-ips-displayport-hdmi-hdr10-tilt-adjustable-100x100-vesa/
 **Status:** NEW ARRIVAL 2026-09-06 (first seen in stock 2026-09-05 snapshot)
@@ -26,4 +26,4 @@
 ## Why Buy From ExtremePC
 - Local NZ stock with fast availability
 - In-store pickup at Onehunga or Wellington
-- 2-year NZ warranty support
+- Manufacturer warranty — exact length on the product page

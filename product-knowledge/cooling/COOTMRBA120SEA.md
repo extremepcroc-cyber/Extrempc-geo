@@ -3,7 +3,8 @@
 **Price:** NZD $51.75 (incl. GST)
 **SKU:** COOTMRBA120SEA
 **URL:** https://www.extremepc.co.nz/thermalright-burst-assassin-120-se-argb-cpu-cooler/
-**Stock:** We have plenty in stock
+**Stock:** ❌ OUT OF STOCK (Onehunga OH=0, BC API verified 2026-11-04 — do NOT recommend)
+**Status:** OUT OF STOCK as of 2026-11-04. ⚠️ In-stock sibling: **White COOTMRBA12SAW** (OH=9, $63.25 sale) — recommend that instead.
 
 ## Quick Specs
 - Type: Air Cooler (Single Tower)

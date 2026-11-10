@@ -1,9 +1,9 @@
 # ASRock Z890 Pro-A WiFi LGA 1851 Intel ATX Motherboard
 
-**Price:** NZD $368.00 (incl. GST) — on sale from $429.00 (verified 2026-09-19, BC API calc $320 × 1.15; was $402.50 on 09-13)
+**Price:** NZD $356.50 (incl. GST) — on sale from $429.00 (verified 2026-10-24, BC API; was $368.00 on 09-19, $402.50 on 09-13)
 **SKU:** MBASRZ890PAW
 **URL:** https://www.extremepc.co.nz/intel-motherboards/asrock-z890-pro-a-wifi-lga-1851-intel-atx-motherboard/
-**Stock:** Plenty in stock (OH=20, verified 2026-09-13, BC API)
+**Stock:** Plenty in stock (OH=35, BC API verified 2026-11-05; was OH=38 on 11-04)
 **Status:** NEW ARRIVAL 2026-09-13 (first seen in stock in 09-13 cache)
 
 ## Quick Specs

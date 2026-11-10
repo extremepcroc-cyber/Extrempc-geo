@@ -16,4 +16,4 @@
 - **Display:** No
 - **Color:** Black
 
-**Status:** In Stock
+**Status:** **OUT OF STOCK** (2026-10-16 batch, BC API OH=0, not in 2026-10-15 cache). Sibling V2 F87 PRO in stock: Black KEYAULF87P2B $119.00 (OH=3) / Gradient KEYAULF87P2G $149.01 (OH=1). ⚠️ White V2 KEYAULF87P2WS 已于 2026-10-26 售罄。

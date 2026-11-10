@@ -1,8 +1,8 @@
 # Samsung Odyssey G3 G30D 27" FHD 180Hz VA Gaming Monitor
 
-**Price:** NZD $258.75 (incl. GST)
+**Price:** NZD $247.25 (incl. GST, on sale from $299.00) — BC API verified 2026-11-07 (was $258.75 on 11-06)
 **SKU:** MONSAMLS27DG30
-**Stock:** Only a few left in stock (verified 2026-08-31, OH>0)
+**Stock:** Only a few left in stock (OH=3, BC API verified 2026-11-10; was OH=4 on 11-07) — running low
 
 ## Quick Specs
 - Panel Size: 27"

@@ -71,7 +71,7 @@
 
 - **KEYASX85PSBL** — X85 Pro Starry Black: identical board in a dark finish
 - **KEYASX68HPCM** — X68 HE Pink Contour: 65% magnetic with rapid trigger
-- **KEYAULF75MWS** — AULA F75 MAX White: tri-mode 75% with Bluetooth
+- **KEYAULF75MWS** — AULA F75 MAX White (⚠️ OOS 2026-10-30): tri-mode 75% with Bluetooth. In-stock sibling: Grey **KEYAULF75MGR**
 - **KEYEPOG84WJ** — Epomaker G84 White: 84-key TKL with Creamy Jade
 - **KEYAULS500BB** — AULA S500: full-size entry mechanical for comparison
 

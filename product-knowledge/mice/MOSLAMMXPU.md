@@ -24,5 +24,5 @@ status: In Stock
 
 - Gaming mouse from Lamzu
 - Wireless gaming mouse
-- Price: NZD $199.0 (incl. GST, on sale from NZD $229.00 — verified 2026-09-09)
+- Price: NZD $209.0 (incl. GST, on sale from NZD $229.00 — BC API verified 2026-10-24; was $199.0 on 09-09)
 

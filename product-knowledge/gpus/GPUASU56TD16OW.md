@@ -3,7 +3,7 @@
 **Price:** NZD $1,499.00 (incl. GST) — BC API verified 2026-09-26 (back to list, was $1,379.00 on 09-05)
 **SKU:** GPUASU56TD16OW
 **URL:** https://www.extremepc.co.nz/asus-geforce-rtx-5060-ti-dual-oc-16gb-graphics-card-white/
-**Stock:** Only a few left in stock
+**Stock:** OUT OF STOCK (OH=0, BC API verified 2026-10-30; was OH=1 on 10-29)
 
 ## Quick Specs
 - GPU: NVIDIA GeForce RTX 5060 Ti (Blackwell)

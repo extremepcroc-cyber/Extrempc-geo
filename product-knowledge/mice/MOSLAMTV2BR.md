@@ -3,7 +3,7 @@
 **SKU:** MOSLAMTV2BR
 
 **Brand:** Lamzu
-**Price:** NZD $179.00 (incl. GST) — on sale from NZD $249.00 (verified 2026-09-09)
+**Price:** NZD $169.00 (incl. GST) — sale from NZD $249.00 (BC API verified 2026-11-06; was $179 sale on 09-09, now $10 lower)
 
 ## Quick Specs
 

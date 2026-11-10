@@ -2,7 +2,7 @@
 
 **SKU:** 188023
 **Brand:** HyperX
-**Price:** NZD $109.25 (incl. GST)
+**Price:** NZD $138.00 (incl. GST) — sale ended, back to list price (BC API verified 2026-10-29; was $115.00 on sale)
 **Status:** In Stock
 
 ## Quick Specs

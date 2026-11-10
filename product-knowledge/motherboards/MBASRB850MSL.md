@@ -1,9 +1,9 @@
 # ASRock B850M STEEL LEGEND WIFI AM5 M-ATX AMD Motherboard
 
-**Price:** NZD $345.00 (incl. GST) — on sale from $389.00 (verified 2026-09-19, BC API calc $300 × 1.15; was $356.50 on 09-13)
+**Price:** NZD $333.50 (incl. GST) — on sale from $389.00 (verified 2026-10-24, BC API; was $345.00 on 09-19, $356.50 on 09-13)
 **SKU:** MBASRB850MSL
 **URL:** https://www.extremepc.co.nz/asrock-b850m-steel-legend-wifi-am5-m-atx-amd-motherboard/
-**Stock:** Plenty in stock (OH=20, verified 2026-09-13, BC API)
+**Stock:** Plenty in stock (OH=19, BC API verified 2026-11-04; was OH=39 on 10-30)
 **Status:** NEW ARRIVAL 2026-09-13 (first seen in stock in 09-13 cache)
 
 ## Quick Specs

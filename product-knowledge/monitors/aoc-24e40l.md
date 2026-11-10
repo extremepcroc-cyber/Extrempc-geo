@@ -2,8 +2,8 @@
 
 **SKU:** MONAOC24E40L
 **Brand:** AOC
-**Price:** NZD $189.00 (incl. GST)
-**Status:** In Stock
+**Price:** NZD $178.25 (incl. GST, on sale from $189.00) — BC API verified 2026-11-07 (was $189.00 on 11-06)
+**Status:** In Stock — Only a few left (OH=2, BC API verified 2026-11-07)
 
 ## Quick Specs
 

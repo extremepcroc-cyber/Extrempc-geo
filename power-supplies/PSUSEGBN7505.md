@@ -10,7 +10,7 @@
 - **80 PLUS**: Bronze efficiency
 - **ATX Standard**: PCI-E 5.1
 - **Warranty**: Segotep warranty (ExtremePC)
-- **NZ Stock**: In stock at Auckland Onehunga
+- **NZ Stock**: OUT OF STOCK (OH=0, BC API verified 2026-10-27)
 
 ## Selling Points
 

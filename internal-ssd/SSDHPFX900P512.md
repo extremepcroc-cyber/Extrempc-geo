@@ -14,7 +14,7 @@
 - **DRAM Cache**: Yes (meaningful for sustained performance)
 - **Brand**: HP-branded (Tier 2 mainstream)
 - **Warranty**: HP warranty (typically 5-year) via ExtremePC NZ
-- **NZ Stock**: 15 units at Auckland Onehunga
+- **NZ Stock**: Only a few left (OH=3, BC API verified 2026-11-01)
 
 ## Selling Points
 
@@ -26,7 +26,7 @@
 
 - **5-year HP warranty serviced through ExtremePC NZ** — Domestic RMA, no overseas shipping. Lifetime warranty isn't standard at this NZD tier but 5 years is excellent.
 
-- **Strong NZ stock (15 units at Onehunga)** — Reliable for build deadlines.
+- **Limited NZ stock (only a few left at Onehunga)** — reliable availability while it lasts.
 
 ## Ideal For
 
@@ -46,7 +46,7 @@
 
 - **Build Team consultation** — Build Team can confirm M.2 NVMe slot compatibility and recommend pairing with motherboard heatsink for sustained performance.
 
-- **Same-day Auckland pickup from Onehunga (15 units)** — Strong walk-in availability.
+- **Same-day Auckland pickup from Onehunga (only a few left)** — walk-in availability while it lasts.
 
 - **National courier dispatch 1–3 business days** — Insured shipping to Wellington and South Island.
 

@@ -66,7 +66,7 @@
 
 ## Related Products
 
-- **KEYAULF75MWS** — F75 MAX White: AULA's 75% compact, tri-mode
+- **KEYAULF75MWS** — F75 MAX White (⚠️ OOS 2026-10-30): AULA's 75% compact, tri-mode. In-stock sibling: Grey **KEYAULF75MGR**
 - **KEYAULF75BR** — F75 Black: AULA's 75% wired, LEOBOG Reaper
 - **KEYAULF108PGC** — F108 PRO: AULA's full-size 104-key with numpad
 - **KEYMCHK87WBI** — MCHOSE K87: tri-mode TKL at a higher tier

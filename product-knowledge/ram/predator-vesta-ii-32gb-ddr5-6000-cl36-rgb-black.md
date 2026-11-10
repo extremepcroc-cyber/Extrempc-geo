@@ -7,7 +7,7 @@ price_nzd_ex_gst: 746.96
 price_nzd_incl_gst: 859.00
 url: /predator-vesta-ii-32gb-2-x-16gb-ddr5-6000mhz-desktop-memory-cl36-rgb-black-intel-xpm-3-0-compliant-amd-expo-memory/
 category: RAM
-status: In Stock (BC API verified 2026-09-29: OH=4, $859.00 list — was $819.00, price raised)
+status: In Stock — only a few left (BC API verified 2026-10-29, OH=1; restocked, was OUT OF STOCK 2026-10-25)
 ---
 
 # Predator Vesta II 32GB DDR5 6000MHz CL36 RGB Black

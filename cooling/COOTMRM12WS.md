@@ -1,6 +1,6 @@
 # Thermalright TL-M12W-S (120mm Case Fan, White, Bulk)
 
-**Price:** $19 inc GST
+**Price:** $14.95 inc GST (sale from $19.00, BC API verified 2026-11-06)
 **SKU:** COOTMRM12WS
 **MPN:** TL-M12W-S
 **URL:** https://www.extremepc.co.nz/thermalright-tl-m12w-s-case-fan-120mm-argb-cpu-cooler-fan-white-oem-bulk-package/

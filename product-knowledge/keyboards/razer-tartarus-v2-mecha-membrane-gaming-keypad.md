@@ -7,12 +7,12 @@ price_nzd_ex_gst: 112.17
 price_nzd_incl_gst: 129.00
 url: /razer-tartarus-v2-mecha-membrane-gaming-keypad/
 category: Keyboards
-status: In Stock (verified 2026-09-03 — Onehunga 1, supplier channel 30; restocked)
+status: OUT OF STOCK (BC API verified 2026-10-19 — Onehunga OH=0; was OH=1 on 2026-10-18)
 ---
 
 # Razer Tartarus V2 Mecha-Membrane Gaming Keypad
 
-> **Status:** In Stock — BC API verified 2026-09-04 (OH=1, inventory_level 1). Restocked 2026-09-03 after being OOS on 2026-08-25; supplier channel 30 for reorder. Price NZD $129.00 (incl. GST, on sale).
+> **Status:** OUT OF STOCK — BC API verified 2026-10-19 (Onehunga OH=0; was OH=1 on 2026-10-18). Was restocked 2026-09-03 after OOS on 2026-08-25 (supplier channel 30); sold out again. Price NZD $129.00 (incl. GST, on sale).
 
 ## Quick Specs
 

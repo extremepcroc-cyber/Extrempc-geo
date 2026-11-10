@@ -2,8 +2,8 @@
 
 **SKU:** MONSAMLS24DG30
 **Brand:** Samsung
-**Price:** NZD $229.00 (incl. GST) (on sale from $299.00)
-**Status:** In Stock
+**Price:** NZD $195.50 (incl. GST, on sale from $299.00) — BC API verified 2026-11-10 (was $212.75 on 11-06)
+**Status:** ❌ **OUT OF STOCK** (OH=0, BC API verified 2026-11-10) — do NOT recommend. ⚠️ **Point customers to the 27" sibling MONSAMLS27DG30** ($247.25 sale, only a few left) instead — same G3 G30D line, one size up.
 
 ## Quick Specs
 

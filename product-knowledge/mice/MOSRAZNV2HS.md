@@ -11,5 +11,5 @@
 - **Ergonomic:** Yes
 - **Gaming:** Yes
 
-**Status:** In Stock (BC API verified 2026-10-09, inventory_level=2)
 **Price:** NZD $199.00 (incl. GST)
+**Stock:** Only a few left (OH=1, BC API verified 2026-11-06; was OH=2 on 11-05)

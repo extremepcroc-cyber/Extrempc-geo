@@ -13,7 +13,7 @@
 - PSU support: ATX (M-ATX config) / SFX (ITX config)
 - Dimensions: 235 × 210 × 330mm (~16L)
 - Material: Steel mesh chassis, white powder coat finish
-- NZ Stock: In stock Onehunga — same-day pickup available
+- NZ Stock: Only a few left (OH=5, BC API verified 2026-10-31)
 
 ## Selling Points
 

@@ -65,7 +65,7 @@ Not currently in stock at ExtremePC. Jonsbo D41 in white or other colours may ap
 ## Related Products
 
 - Jonsbo D41 Mesh Black (CASJOND41MEB) — same specs, mesh front, better airflow
-- Zalman N4 Rev.1 Black (CASZALN4MB) — ARGB fans + 3× HDD, 380mm GPU
+- Zalman N4 Rev.1 Black (CASZALN4MB) — ARGB fans + 3× HDD, 380mm GPU (⚠️ OOS 2026-10-31)
 - Deepcool CK500 Black (CASDEECK500B) — glass front + glass side
 
 ## Schema (JSON-LD)

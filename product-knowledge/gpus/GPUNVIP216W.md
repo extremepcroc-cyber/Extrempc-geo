@@ -1,9 +1,9 @@
 # NVIDIA RTX PRO 2000 Blackwell 16GB Graphics Card
 
-**Price:** NZD $3499.00 (incl. GST)
+**Price:** NZD $3,788.00 (incl. GST) — BC API verified 2026-10-24 (price up from $3,499.00)
 **SKU:** GPUNVIP216W
 **URL:** https://www.extremepc.co.nz/nvidia-rtx-pro-2000-blackwell-16gb-graphics-card/
-**Stock:** OUT OF STOCK (verified 2026-09-10, BC API inventory=0; Onehunga not available online)
+**Stock:** In Stock — Only a few left (OH=1, BC API verified 2026-10-24; was OUT OF STOCK verified 2026-09-10)
 
 ## Quick Specs
 - GPU: NVIDIA RTX PRO 2000 Blackwell (Professional workstation GPU)

@@ -3,7 +3,7 @@
 **Price:** NZD $218.50 (incl. GST) — on sale from $259.00 (verified 2026-09-19, BC API calc $190 × 1.15; was $224.25 on 09-13)
 **SKU:** MBASRB850MXWF7O
 **URL:** https://www.extremepc.co.nz/amd-motherboards/asrock-b850m-x-wifi-7-r2-0-am5-ddr5-wifi-7-oem-motherboard-without-retail-package/
-**Stock:** In Stock — RESTOCKED (OH=40, plenty, verified 2026-09-13, BC API; was OOS 2026-09-10)
+**Stock:** We have plenty in stock (OH=17, BC API verified 2026-11-05; was OH=64 on 11-04)
 
 ## Quick Specs
 - CPU Socket: AM5
@@ -19,4 +19,4 @@ This motherboard is available at ExtremePC in Auckland, NZ. For detailed compati
 - Local NZ stock with fast availability
 - In-store pickup at Onehunga or Wellington
 - Expert build service available ($80 build fee)
-- 2-year NZ warranty support
+- Manufacturer warranty — exact length on the product page

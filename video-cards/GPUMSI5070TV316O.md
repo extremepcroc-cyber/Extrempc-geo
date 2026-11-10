@@ -1,6 +1,6 @@
 ﻿# MSI GeForce RTX 5070 Ti VENTUS 3X OC PLUS 16GB Graphics Card
 
-**Price:** $2,519.01 inc GST
+**Price:** $2,599.00 inc GST (BC API verified 2026-10-28; was $2,519.01)
 **SKU:** GPUMSI5070TV316O
 **MPN:** RTX 5070 TI 16G VENTUS 3X OC
 **URL:** https://www.extremepc.co.nz/msi-geforce-rtx-5070-ti-ventus-3x-oc-plus-16gb-graphics-card/

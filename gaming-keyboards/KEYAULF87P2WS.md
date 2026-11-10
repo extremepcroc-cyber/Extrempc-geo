@@ -71,7 +71,7 @@
 
 - **KEYAULF87P2B** — F87 PRO V2 Black: same layout, LEOBOG X3, smoked case
 - **KEYAULF87P2G** — F87 PRO V2 Grey: same layout, Greywood V4
-- **KEYAULF75MWS** — F75 MAX White: AULA's compact 75% in white
+- **KEYAULF75MWS** — F75 MAX White (⚠️ OOS 2026-10-30): AULA's compact 75% in white. In-stock sibling: Grey **KEYAULF75MGR**
 - **KEYAULF108PGC** — F108 PRO: AULA's full-size with numpad
 - **KEYMCHK87WBI** — MCHOSE K87: tri-mode TKL alternative
 

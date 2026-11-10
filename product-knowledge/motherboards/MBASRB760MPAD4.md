@@ -1,9 +1,9 @@
 # ASRock B760M PRO-A/D4 WIFI mATX Intel Motherboard
 
-**Price:** NZD $201.25 (incl. GST) — on sale from $229.00 (verified 2026-09-19, BC API calc $175 × 1.15; was $212.75 on 09-13)
+**Price:** NZD $218.50 (incl. GST) — on sale from $229.00 (BC API verified 2026-11-05; was $212.75 on 11-03; $201.25 on 09-19)
 **SKU:** MBASRB760MPAD4
 **URL:** https://www.extremepc.co.nz/asrock-b760m-pro-a-d4-wifi-matx-motherboard-for-intel-12th-13th-14th-gen-lga1700-cpus-intel-b760-chipset-2x-m-2-2x-internal-usb-2-0-header-1x-internal-usb-3-2-header-1x-internal-type-c-header/
-**Stock:** Plenty in stock (OH=30, verified 2026-09-13, BC API)
+**Stock:** Plenty in stock (OH=102, BC API verified 2026-11-05)
 **Status:** NEW ARRIVAL 2026-09-13 (first seen in stock in 09-13 cache)
 
 ## Quick Specs

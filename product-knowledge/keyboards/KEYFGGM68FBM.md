@@ -4,7 +4,7 @@
 **SKU:** KEYFGGM68FBM
 **MPN:** MAD 68 HE flagship V2
 **URL:** https://www.extremepc.co.nz/fgg-mad68-he-flagship-v2-wired-mechanical-gaming-keyboard-black-magneto-gaming-switch-68-keys/
-**Status:** In stock — Only a few left (BC API verified 2026-08-26: OH=1)
+**Status:** **OUT OF STOCK** (2026-10-16 batch, BC API OH=0, not in 2026-10-15 cache; was OH=1 on 2026-08-26).
 
 ## Quick Specs
 - **Connection:** Wired (USB-C)
@@ -26,4 +26,4 @@
 ## Why Buy From ExtremePC
 - Local NZ stock with fast availability
 - In-store pickup at Onehunga or Wellington
-- 2-year NZ warranty support
+- Manufacturer warranty — exact length on the product page

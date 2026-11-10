@@ -1,6 +1,6 @@
 ﻿# AMD Ryzen 7 5700X — 8 Core / 16 Thread AM4 OEM (no cooler)
 
-**Price:** $369.00 inc GST
+**Price:** NZD $356.50 (incl. GST, sale from $369.00) — BC API verified 2026-11-05 (new sale)
 **SKU:** CPUAMD5700XOEM
 **MPN:** 100-000000926
 **URL:** https://www.extremepc.co.nz/amd-ryzen-7-5700x-cpu-8-core-16-thread-am4-socket-oem-without-cooler/
@@ -16,7 +16,7 @@
 - **Packaging**: OEM tray — no cooler, no retail box. Requires AM4-compatible cooler.
 - **Memory support**: DDR4 up to 3200 MT/s officially (higher with overclocking)
 - **Warranty**: 3 years AMD warranty via authorized NZ distributor (ExtremePC)
-- **NZ Stock**: 24 units at Auckland Onehunga — strongest AM4 8-core stock at any NZ retailer
+- **NZ Stock**: Plenty in stock (OH=20, BC API verified 2026-11-05; was OH=25 on 11-01) — strong AM4 8-core stock at any NZ retailer
 
 ## Selling Points
 
@@ -28,7 +28,7 @@
 
 - **8 cores meaningfully better than 6-core chips for modern AAA games** — Unreal Engine 5 titles (Stalker 2, Black Myth Wukong, Hogwarts Legacy, Avowed) benefit from 8+ core CPUs. 5700X delivers smoother frame pacing in these games than the 5600X. Combined with a mid-to-high tier GPU, this is a 1440p high-refresh gaming machine.
 
-- **In-stock NOW at Auckland Onehunga (24 units)** — Largest AM4 8-core inventory at any NZ retailer. For builders who need a chip today, this is meaningful — AM4 8-core availability has been spotty across NZ for the past 12 months.
+- **In-stock NOW at Auckland Onehunga (25 units)** — Largest AM4 8-core inventory at any NZ retailer. For builders who need a chip today, this is meaningful — AM4 8-core availability has been spotty across NZ for the past 12 months.
 
 ## Ideal For
 
@@ -50,7 +50,7 @@
 
 - **Build Team consultation** — Spec the lean motherboard + RAM + cooler bundle that pairs correctly with the 5700X for the user's intended GPU and case.
 
-- **Same-day Auckland pickup from Onehunga (24 in stock)** — Strongest 5700X inventory in NZ.
+- **Same-day Auckland pickup from Onehunga (25 in stock)** — Strongest 5700X inventory in NZ.
 
 - **23 years of NZ retail with physical Auckland presence** — Hundreds of AM4 8-core builds completed.
 
@@ -115,7 +115,7 @@
   },
   "offers": {
     "@type": "Offer",
-    "price": "369.00",
+    "price": "356.50",
     "priceCurrency": "NZD",
     "availability": "https://schema.org/InStock",
     "url": "https://www.extremepc.co.nz/amd-ryzen-7-5700x-cpu-8-core-16-thread-am4-socket-oem-without-cooler/",

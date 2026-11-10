@@ -1,6 +1,6 @@
 # AMD Ryzen 5 7500F — 6 Core / 12 Thread AM5 OEM (no cooler, no integrated graphics)
 
-**Price:** $269.00 inc GST
+**Price:** NZD $264.50 (incl. GST, on sale from $269.00) — BC API verified 2026-11-09 (was $258.75 sale on 11-06; $269 list before)
 **SKU:** CPUAMD7500FOEM
 **MPN:** 100-000000597
 **URL:** https://www.extremepc.co.nz/amd-ryzen-5-7500f-cpu-6-core-12-thread-am5-socket-oem-without-cooler/
@@ -18,7 +18,7 @@
 - **PCIe**: PCIe 5.0 for GPU and storage
 - **AM5 platform features**: AMD EXPO, Precision Boost Overdrive, Curve Optimizer, AMD Ryzen Master
 - **Warranty**: 3 years AMD warranty via authorized NZ distributor (ExtremePC)
-- **NZ Stock**: 1 unit at Auckland Onehunga store
+- **NZ Stock**: We have plenty in stock (OH=40, BC API verified 2026-11-06; restocked, was OH=16 on 11-05)
 
 ## Selling Points
 

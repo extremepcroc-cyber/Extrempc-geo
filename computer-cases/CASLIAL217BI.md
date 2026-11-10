@@ -17,7 +17,7 @@
 - Included fans: 2× 140mm front + 1× 140mm rear (PWM)
 - PSU: ATX (not included)
 - Colour: Black (INF = Infinity Mirror variant)
-- NZ Stock: In stock Onehunga — 1 unit
+- NZ Stock: OUT OF STOCK (OH=0, BC API verified 2026-10-30; was OH=1 on 10-29)
 
 ## Selling Points
 
@@ -89,7 +89,7 @@ Lian Li is widely regarded as the benchmark for premium case build quality. Pane
     "@type": "Offer",
     "priceCurrency": "NZD",
     "price": "249.00",
-    "availability": "https://schema.org/InStock",
+    "availability": "https://schema.org/OutOfStock",
     "seller": {
       "@type": "Organization",
       "name": "ExtremePC"

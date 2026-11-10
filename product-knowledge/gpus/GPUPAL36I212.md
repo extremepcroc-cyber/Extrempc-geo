@@ -1,9 +1,9 @@
 # Palit GeForce RTX 3060 Infinity 2 OC 12GB GDDR6 Graphics Card
 
-**Price:** NZD $672.75 (incl. GST, on sale)
+**Price:** NZD $719.00 (incl. GST) — sale ended, back to list price (BC API verified 2026-10-29; was $690.00 on sale on 10-20)
 **SKU:** GPUPAL36I212
 **URL:** https://extremepc.co.nz/rtx-30-series/palit-geforce-rtx-3060-infinity-2-oc-12gb-gddr6-graphics-card-ne63060u19k9-pg190l/
-**Stock:** We have plenty in stock
+**Stock:** Only a few left in stock (OH=5, BC API verified 2026-10-25; was OH=6 on 10-20)
 
 ## Quick Specs
 - GPU: NVIDIA GeForce RTX 3060 (Ampere)

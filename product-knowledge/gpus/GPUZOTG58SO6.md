@@ -1,9 +1,9 @@
 # Zotac GAMING NVIDIA GeForce RTX 5080 SOLID Core OC 16GB GDDR7 Graphics Card ZT-B50800J2-10P
 
-**Price:** NZD $2,999.00 (incl. GST) — BC API verified 2026-09-08 (was $2,518.99)
+**Price:** NZD $4,099.00 (incl. GST) — BC API verified 2026-10-24 (price up from $2,999.00 on 09-08; was $2,518.99 before)
 **SKU:** GPUZOTG58SO6
 **URL:** https://www.extremepc.co.nz/rtx-50-series/zotac-gaming-nvidia-geforce-rtx-5080-solid-core-oc-16gb-gddr7-graphics-card-zt-b50800j2-10p/
-**Stock:** Only a few left in stock
+**Stock:** Only a few left in stock (OH=2, BC API verified 2026-11-01; was OH=1 on 10-30)
 
 ## Quick Specs
 - GPU: NVIDIA GeForce RTX 5080 (Blackwell)

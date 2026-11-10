@@ -3,7 +3,7 @@
 **SKU:** MONDELU2724D
 **Brand:** Dell
 **Price:** NZD $575.00 (incl. GST)
-**Status:** In Stock
+**Status:** OUT OF STOCK (OH=0, BC API verified 2026-10-24; was In Stock on 2026-10-23)
 
 ## Quick Specs
 

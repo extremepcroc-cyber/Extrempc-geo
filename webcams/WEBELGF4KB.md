@@ -14,7 +14,7 @@
 - **Connector**: USB-C (plug-and-play)
 - **Low Light**: Sony STARVIS sensor + AI auto-exposure
 - **Warranty**: 1-year Elgato warranty (ExtremePC)
-- **NZ Stock**: In stock at Auckland Onehunga
+- **Status:** OUT OF STOCK (OH=0, BC API verified 2026-10-30; was OH=1 on 10-29)
 
 ## Selling Points
 
@@ -94,7 +94,7 @@
     "@type": "Offer",
     "price": "379.01",
     "priceCurrency": "NZD",
-    "availability": "https://schema.org/InStock",
+    "availability": "https://schema.org/OutOfStock",
     "url": "https://www.extremepc.co.nz/elgato-facecam-4k/",
     "seller": {
       "@type": "Organization",

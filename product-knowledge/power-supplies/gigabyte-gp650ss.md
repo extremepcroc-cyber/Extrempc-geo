@@ -2,8 +2,8 @@
 
 **SKU:** PSUGIGP650SS
 **Brand:** Gigabyte
-**Price:** NZD $99.00 (incl. GST)
-**Status:** OUT OF STOCK (BC API verified 2026-09-08, inv=0; was OH=1 on 2026-09-07, sold out by 2026-09-08)
+**Price:** NZD $103.99 (incl. GST) — BC API verified 2026-10-22
+**Status:** In Stock — plenty (BC API verified 2026-10-22, Onehunga OH=9; restocked, was OUT OF STOCK since 2026-09-08)
 
 ## Quick Specs
 

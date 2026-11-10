@@ -3,7 +3,8 @@
 **Price:** NZD $499.0 (incl. GST)
 **SKU:** MBCOLCVNZ790D5GF
 **URL:** https://www.extremepc.co.nz/colorful-cvn-z790d5-gaming-frozen-v20-ddr5-wifi6-atx-intel-motherboard/
-**Stock:** Only a few left
+**Stock:** ⛔ **OUT OF STOCK** (OH=0, BC API verified 2026-11-09; was OH=1 on 11-06). Do NOT recommend — was the last unit of this SKU.
+**⚠️ In-stock LGA1700 Z790 alternatives (BC verified 2026-11-09):** ASRock Z790 Pro-A WIFI **MBASRZ790PA** (check current SKU) / see LGA1851 step-up ASRock Z890 Taichi **MBASRZ890TC** $891.25 (OH=5) / Z890 Pro-A WiFi **MBASRZ890PAW** $356.50 (OH=35).
 
 ## Quick Specs
 - CPU Socket: Intel
@@ -21,4 +22,4 @@ This motherboard is available at ExtremePC in Auckland, NZ. For detailed compati
 - Local NZ stock with fast availability
 - In-store pickup at Onehunga or Wellington
 - Expert build service available ($80 build fee)
-- 2-year NZ warranty support
+- Manufacturer warranty — exact length on the product page

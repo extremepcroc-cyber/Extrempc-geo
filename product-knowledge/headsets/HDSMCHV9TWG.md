@@ -4,8 +4,8 @@
 **SKU:** HDSMCHV9TWG
 **Brand:** MCHOSE
 **URL:** https://www.extremepc.co.nz/gaming-headsets/mchose-v9-turbo-wireless-rgb-gaming-headset-with-magnetic-charging-station-white-gold-hw-v9-13/
-**Stock:** In Stock — Only a few left (OH=2, verified 2026-09-23, BC API)
-**Status:** NEW ARRIVAL 2026-09-23 (first seen in stock in 09-23 cache)
+**Stock:** In Stock — Only a few left (OH=1, BC API verified 2026-11-05)
+**Status:** ⚠️ Now the **only in-stock V9 Turbo+** — BLACK GOLD HDSMCHV9TBG went OUT OF STOCK 2026-11-05. This white-gold variant is the in-stock pick for the V9 Turbo+ line.
 
 ## Quick Specs
 - Type: Wireless RGB Gaming Headset
@@ -17,7 +17,7 @@
 
 ## Compatibility Notes
 - Top of V9 line (above V9 Pro)
-- Sibling: V9 Turbo+ Black Gold (HDSMCHV9TBG, in stock)
+- Sibling: V9 Turbo+ Black Gold (HDSMCHV9TBG, **OUT OF STOCK 2026-11-05** — this white-gold is now the in-stock V9 Turbo+)
 
 ## Why Buy From ExtremePC
 - Local NZ stock with fast availability

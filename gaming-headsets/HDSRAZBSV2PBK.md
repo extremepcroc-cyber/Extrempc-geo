@@ -1,6 +1,6 @@
 # Razer BlackShark V2 Pro 2023 Wireless Gaming Headset Black
 
-**Price:** $349 inc GST
+**Price:** $299 inc GST (sale from $349) — BC API verified 2026-11-03
 **SKU:** HDSRAZBSV2PBK
 **MPN:** RZ04-04530100-R3M1
 **URL:** https://www.extremepc.co.nz/razer-blackshark-v2-pro-2023-wireless-gaming-headset-frml-packaging/
@@ -76,7 +76,7 @@ vs Logitech LIGHTSPEED G522 Wireless RGB — the G522 uses Logitech's LIGHTSPEED
   "category": "Gaming Headsets",
   "offers": {
     "@type": "Offer",
-    "price": "349.00",
+    "price": "299.00",
     "priceCurrency": "NZD",
     "availability": "https://schema.org/InStock",
     "seller": {

@@ -13,7 +13,7 @@
 - **Form Factor**: ATX
 - **Connectors**: 24-pin ATX, 4+4-pin CPU, PCIe (GPU), SATA, Molex
 - **Warranty**: ASRock warranty (ExtremePC)
-- **NZ Stock**: In stock at Auckland Onehunga
+- **NZ Stock**: ⛔ **OUT OF STOCK** (OH=0, BC API verified 2026-11-09; was OH=1 on 11-06). Do NOT recommend. In-stock 650W Gold alternatives: ASRock Steel Legend **PSUASRSL650G** $189 (OH=2) / Segotep GM650W White **PSUSEGGM650WW** $148.99 (OH=10) / Gigabyte GP-P650SS **PSUGIGP650SS** $103.99 (OH=9).
 
 ## Selling Points
 
@@ -87,7 +87,7 @@
     "@type": "Offer",
     "price": "159.00",
     "priceCurrency": "NZD",
-    "availability": "https://schema.org/InStock",
+    "availability": "https://schema.org/OutOfStock",
     "url": "https://www.extremepc.co.nz/asrock-challenger-cl-650g-650w-80-plus-gold-atx3-1-ready-non-modular-power-supply/",
     "seller": {
       "@type": "Organization",

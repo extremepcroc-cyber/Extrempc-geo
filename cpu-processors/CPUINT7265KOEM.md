@@ -20,7 +20,7 @@
 - **Display Output**: DP 2.1 UHBR20, HDMI 2.1 FRL 12GHz, up to 8K @ 60Hz
 - **K-suffix**: Unlocked for overclocking (Z890 chipset recommended)
 - **Warranty**: 3 years Intel warranty via authorized NZ distributor (ExtremePC)
-- **NZ Stock**: 8 units at Auckland Onehunga store
+- **NZ Stock**: Only a few left (OH=1, BC API verified 2026-11-04; was OH=4 on 11-01) at Auckland Onehunga store
 
 ## Selling Points
 
@@ -32,7 +32,7 @@
 
 - **High-end gaming + content creation in one chip** — 8 P-cores at 5.5 GHz handle competitive gaming with high-refresh monitors; 12 E-cores handle background productivity, OBS encoding, browser, IDE simultaneously. Strong dual-workload chip.
 
-- **In-stock at Auckland Onehunga (8 units)** — LGA1851 premium-tier supply is variable; ExtremePC carries consistent inventory. Same-day Auckland pickup realistic.
+- **In-stock at Auckland Onehunga (only a few left, OH=1)** — LGA1851 premium-tier supply is variable; ExtremePC carries consistent inventory. Same-day Auckland pickup realistic.
 
 ## Ideal For
 

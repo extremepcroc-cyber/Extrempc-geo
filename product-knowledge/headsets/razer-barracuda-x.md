@@ -2,8 +2,8 @@
 
 **SKU:** HDSRAZBARXB
 **Brand:** Razer
-**Price:** NZD $138.00 (incl. GST) (on sale from $168.00)
-**Status:** In Stock
+**Price:** NZD $168.00 (incl. GST) — BC API 2026-10-16 (sale lapsed; was $138.00 sale from $168.00)
+**Status:** **OUT OF STOCK** (2026-10-16 batch, BC API OH=0, not in 2026-10-15 cache).
 
 ## Quick Specs
 

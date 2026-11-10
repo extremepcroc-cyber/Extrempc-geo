@@ -1,9 +1,10 @@
 # ASRock B850 PRO-A WIFI Socket AM5 ATX Motherboard
 
-**Price:** NZD $322.00 (incl. GST) (on sale from $349.00)
+**Price:** NZD $349.00 (incl. GST) — back to list, sale ended (BC API verified 2026-11-03; was $322.00 sale from $349.00)
 **SKU:** MBASRB850PA
 **URL:** https://www.extremepc.co.nz/asrock-b850-pro-a-wifi-socket-am5-atx-motherboard/
-**Stock:** Only a few left in stock (OH=5, verified 2026-09-25)
+**Stock:** ⛔ **OUT OF STOCK** (OH=0, BC API verified 2026-11-09; was OH=1 on 11-06). Do NOT recommend — was the last unit of this ATX B850 PRO-A SKU.
+**⚠️ In-stock B850M AM5 alternatives (BC verified 2026-11-09):** ASRock B850M PRO-A WIFI mATX **MBASRB850MPA** $281.75 (OH=15) / ASRock B850M Pro RS WIFI **MBASRB850MPRS** $287.50 (OH=59) / ASRock B850M STEEL LEGEND **MBASRB850MSL** $333.50 (OH=18) / ASRock B850M-X WiFi 7 R2.0 **MBASRB850MXWF7O** $218.50 (OH=66).
 
 ## Quick Specs
 - CPU Socket: AM5

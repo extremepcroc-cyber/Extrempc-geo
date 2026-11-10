@@ -19,4 +19,4 @@ Dual tower air cooler, MAX variant with enhanced fan performance. Verify case CP
 - Local NZ stock with fast availability
 - In-store pickup at Onehunga or Wellington
 - Expert build service available ($80 build fee)
-- 2-year NZ warranty support
+- Manufacturer warranty — exact length on the product page

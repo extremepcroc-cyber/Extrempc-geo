@@ -61,7 +61,7 @@
 
 ## Related Products
 
-- **WEBELGF4KB** — Elgato Facecam 4K (flagship 4K60)
+- **WEBELGF4KB** — Elgato Facecam 4K (flagship 4K60; ⚠️ OOS 2026-10-30 — this Neo is the in-stock Elgato webcam)
 - **MICELGW3USBB** — Elgato Wave:3 (matching mic)
 - **WEBLOGB90B** — Logitech Brio 90 (budget 1080p)
 - Recommended pairing: a USB mic (Elgato Wave:3 or HyperX QuadCast 2) for a complete setup

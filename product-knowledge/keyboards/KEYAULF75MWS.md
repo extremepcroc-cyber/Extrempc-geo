@@ -16,4 +16,5 @@
 - **Display:** No
 - **Color:** White
 
-**Status:** In Stock
+**Status:** OUT OF STOCK (OH=0, BC API verified 2026-10-30; was OH=1 on 10-29)
+⚠️ Sibling in stock: Grey **KEYAULF75MGR** (OH=13, $159) — EVA 推 F75 MAX 改用**灰色**。

@@ -60,7 +60,7 @@
 
 - **vs Segotep GM850W Black (PSUSEGGM850W1B, same spec at lower NZD in black, 68 units)** — GM850W is On Sale at lower NZD with 68 retail units — objectively better value if black suits your build. TR-KG850W White is the choice only when white colourway is required. The premium over GM850W is purely aesthetic.
 
-- **vs Thermalright TR-KG650W White (PSUTMRKG650W, 200W less at lower NZD)** — KG650W for RTX 4070 / RTX 5070 white builds. KG850W when GPU TDP requires 850W (RTX 4070 Ti Super, RTX 4080, RTX 5080).
+- **vs Thermalright TR-KG650W White (PSUTMRKG650W, 200W less at lower NZD)** — KG650W for RTX 4070 / RTX 5070 white builds. KG850W when GPU TDP requires 850W (RTX 4070 Ti Super, RTX 4080, RTX 5080). ⚠️ Status 2026-11-04: the white KG650W went **OOS 2026-11-04**; for a white 650W the in-stock option is **Segotep GM650W White (PSUSEGGM650WW, OH=10)**.
 
 - **vs Thermalright TR-KG750W White (OOS currently)** — KG750W white is currently out of stock. KG850W is the available white PSU option at 850W.
 

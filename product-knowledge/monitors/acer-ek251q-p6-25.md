@@ -2,7 +2,7 @@
 
 **SKU:** MONACEK51QP6
 **Brand:** Acer
-**Price:** NZD $199.00 (incl. GST) — list price, not on sale
+**Price:** NZD $169.00 (incl. GST, on sale from $199.00) — BC API verified 2026-11-07 (was $179.00 on 11-06)
 **Stock:** Only a few left in stock (OH=3, verified 2026-09-09)
 **URL:** https://www.extremepc.co.nz/gaming-monitors/acer-ek251q-p6-25-fhd-144hz-1ms-ips-gaming-monitor-rso0/
 **Status:** NEW ARRIVAL 2026-09-09 (first seen in stock 2026-09-09 snapshot)
