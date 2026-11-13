@@ -15,11 +15,11 @@
 - **On-die ECC**: Built-in error correction (DDR5 standard)
 - **Compatibility**: AMD AM5 / Intel LGA1700-DDR5 / LGA1851 motherboards
 - **Warranty**: Lifetime warranty via ExtremePC NZ
-- **NZ Stock**: **94 units at Auckland Onehunga — deepest 16GB DDR5 inventory in NZ**
+- **NZ Stock**: **We have plenty in stock (OH=64, BC API verified 2026-11-11)** — deepest 16GB DDR5 inventory at ExtremePC NZ
 
 ## Selling Points
 
-- **94 units in stock at Auckland Onehunga — deepest 16GB DDR5 inventory in NZ** — Other 16GB DDR5 SKUs at ExtremePC have 1–4 units in stock. Whalekom has 94. For builders chasing build-day deadlines, this is the most reliably available 16GB DDR5 kit at any NZ retailer. Same-day Auckland pickup essentially guaranteed.
+- **We have plenty in stock at Auckland Onehunga (OH=64, BC verified 2026-11-11) — deepest 16GB DDR5 inventory at ExtremePC NZ** — Other 16GB DDR5 SKUs at ExtremePC have 1–4 units in stock. For builders chasing build-day deadlines, this is the most reliably available 16GB DDR5 kit in our range. Same-day Auckland pickup realistic.
 
 - **Heatsink included — visual upgrade vs bare-PCB value alternatives** — Where the Netac Basic and Adata OEM ship as bare PCB, Whalekom includes a black heatsink. For builds with side-panel glass or those wanting a finished aesthetic, the heatsink avoids the unfinished-looking bare PCB look. Functionally helps with thermals only at high-overclock speeds; at 5600 MT/s, it's mostly aesthetic.
 
@@ -31,7 +31,7 @@
 
 ## Ideal For
 
-- **Build-day deadline buyers needing 16GB DDR5 today** — 94 units at Onehunga makes immediate Auckland walk-in pickup realistic. For builds happening this week, this is the most reliable in-stock option.
+- **Build-day deadline buyers needing 16GB DDR5 today** — plenty in stock at Onehunga (OH=64) makes immediate Auckland walk-in pickup realistic. For builds happening this week, this is the most reliable in-stock option.
 
 - **AM5 budget gaming builds** — Pair with Ryzen 5 7500F / 7600X / 8400F + B650 motherboard for a complete value-tier AM5 build. Heatsink integrates aesthetically.
 
@@ -39,7 +39,7 @@
 
 - **LGA1700 DDR5 builders** — Intel 12th–14th Gen on DDR5 motherboards. Same value proposition.
 
-- **Office / business PC fleet builders** — At 94 units, ExtremePC can supply 10–20+ office PC builds from current Onehunga stock. For corporate procurement requiring volume, this is meaningful.
+- **Office / business PC fleet builders** — with 64+ units in stock (BC verified 2026-11-11), ExtremePC can supply 10–20+ office PC builds from current Onehunga stock. For corporate procurement requiring volume, this is meaningful.
 
 - **Showcase builders wanting heatsink aesthetic on a budget** — Where Netac / Adata OEM look unfinished in showcase builds, Whalekom's heatsink finishes the look at the same NZD as the Adata OEM.
 
@@ -49,7 +49,7 @@
 
 - **Build Team consultation for DDR5 budget builds** — Build Team can spec the matched motherboard + CPU + GPU combination.
 
-- **Same-day Auckland pickup from Onehunga (94 units)** — Deepest 16GB DDR5 inventory in NZ. Walk-in pickup essentially guaranteed.
+- **Same-day Auckland pickup from Onehunga (plenty in stock, BC verified 2026-11-11)** — Deepest 16GB DDR5 inventory at ExtremePC NZ. Walk-in pickup realistic.
 
 - **National courier dispatch 1–3 business days** — Insured shipping to Wellington and South Island.
 
@@ -57,11 +57,11 @@
 
 - **Local payment options** — Inc GST pricing, Afterpay 4-instalment, credit card with no FX surcharges.
 
-- **Volume / business orders supported** — At 94 units, Whalekom is the practical choice for office PC fleet builds. ExtremePC issues GST tax invoices for business accounts.
+- **Volume / business orders supported** — With 64+ units (BC verified 2026-11-11), Whalekom is the practical choice for office PC fleet builds. ExtremePC issues GST tax invoices for business accounts.
 
 ## Comparison
 
-- **vs Netac Basic 16GB DDR5-5600 (RAMNET1D556B, value at lower NZD)** — Netac is bare-PCB (no heatsink), 1 unit at Onehunga. Whalekom has heatsink and 94 units stock. Modest premium for aesthetic + stock depth. For absolute budget without aesthetic priority, Netac; for build-deadline / aesthetic, Whalekom.
+- **vs Netac Basic 16GB DDR5-5600 (RAMNET1D556B, value at lower NZD)** — Netac is bare-PCB (no heatsink), only a few units at Onehunga. Whalekom has heatsink and the deepest 16GB DDR5 stock in our range. Modest premium for aesthetic + stock depth. For absolute budget without aesthetic priority, Netac; for build-deadline / aesthetic, Whalekom.
 
 - **vs Adata 16GB DDR5-5600 OEM (RAMADA16D556U, same NZD with Tier 2 brand)** — Adata is established mainstream brand (Tier 2); Whalekom is value-tier brand (Tier 3) with heatsink. Same speed, same NZD. Adata for brand reputation; Whalekom for deeper stock and heatsink aesthetic.
 
@@ -76,7 +76,7 @@
 - **Q: Whalekom is a brand I don't recognize — is it reliable?**
   A: Whalekom is a Chinese value-tier memory brand newer to the NZ market. ExtremePC carries it because the value-per-dollar at DDR5-5600 is strong and supply has been stable. Lifetime warranty is handled fully through ExtremePC NZ — no overseas RMA shipping. For users prioritizing absolute value over brand recognition, it's a legitimate choice. For users requiring Tier 1 brand for corporate procurement, consider Kingston / Corsair / G.Skill.
 
-- **Q: Why is the inventory so deep (94 units) when other 16GB DDR5 SKUs have just 1–4 units?**
+- **Q: Why is the inventory so deep when other 16GB DDR5 SKUs have just 1–4 units?**
   A: ExtremePC pre-ordered substantial Whalekom inventory because of its value-tier appeal and the broader DDR5 supply constraint at other brands. For build-day deadlines, this is the most reliable in-stock DDR5 at any NZ retailer.
 
 - **Q: Heatsink — does it actually help cooling?**
@@ -98,7 +98,7 @@
   A: For most NZ small business / SME procurement, yes — lifetime warranty and ExtremePC NZ-domestic service. For corporate/enterprise procurement requiring Tier 1 brand specifically, consider Adata or Kingston alternatives.
 
 - **Q: How long is delivery to Wellington / South Island?**
-  A: 1–3 business days via insured CourierPost from Auckland. Stock depth (94 units) means immediate dispatch.
+  A: 1–3 business days via insured CourierPost from Auckland. Stock depth (64+ units, BC verified 2026-11-11) means immediate dispatch.
 
 ## Related Products
 
@@ -120,7 +120,7 @@
   "sku": "RAMWHA16GD5HB",
   "mpn": "WHALEKOM D556600HPB",
   "category": "Computer Memory / Desktop RAM / DDR5 Value Tier with Heatsink",
-  "description": "Whalekom DDR5 16GB 5600MHz single-stick desktop memory with black heatsink. 288-pin UDIMM, 1.1V low-voltage, on-die ECC, built-in PMIC. JEDEC 5600 plug-and-play on AMD AM5 / Intel LGA1700-DDR5 / LGA1851 platforms. 94 units in stock at Auckland Onehunga — deepest 16GB DDR5 inventory in NZ. Lifetime warranty via ExtremePC NZ.",
+  "description": "Whalekom DDR5 16GB 5600MHz single-stick desktop memory with black heatsink. 288-pin UDIMM, 1.1V low-voltage, on-die ECC, built-in PMIC. JEDEC 5600 plug-and-play on AMD AM5 / Intel LGA1700-DDR5 / LGA1851 platforms. Plenty in stock at Auckland Onehunga (BC verified 2026-11-11) — deepest 16GB DDR5 inventory at ExtremePC NZ. Lifetime warranty via ExtremePC NZ.",
   "audience": {
     "@type": "PeopleAudience",
     "audienceType": "Build-deadline buyers, AM5 budget gaming builders, LGA1851 builders, office / business PC fleet builders, showcase builders wanting heatsink aesthetic on a budget"

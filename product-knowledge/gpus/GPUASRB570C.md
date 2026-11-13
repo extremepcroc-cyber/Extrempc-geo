@@ -1,10 +1,10 @@
 # ASRock Intel Arc B570 Challenger 10GB OC GDDR6 Graphics Card
 
-**Price:** NZD $511.75 (incl. GST) — on sale from $529.00 (BC API verified 2026-11-05)
+**Price:** NZD $494.50 (incl. GST) — on sale from $529.00 (BC API verified 2026-11-14; was $506.00 sale 11-13, $511.75 sale on 11-05)
 **SKU:** GPUASRB570C
 **Brand:** ASRock
 **URL:** https://www.extremepc.co.nz/intel-arc/asrock-intel-arc-b570-challenger-10gb-oc-gddr6-graphics-card-2-slot-1x-8-pin-power-minimum-600w-psu/
-**Stock:** In Stock — plenty (OH=20, BC API verified 2026-11-05)
+**Stock:** In Stock — plenty (OH=20, BC API verified 2026-11-14)
 **Status:** NEW ARRIVAL 2026-11-05 (first seen in 11-05 cache)
 
 ## Quick Specs

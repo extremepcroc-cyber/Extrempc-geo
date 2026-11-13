@@ -1,9 +1,9 @@
 # Epomaker G84 HE Hot-swappable RGB Wireless Mechanical Keyboard
 
-**Price:** NZD $169.00 (incl. GST) (on sale from $199.00)
+**Price:** NZD $199.00 (incl. GST, list) — BC API verified 2026-11-12 (sale $169 ended; back to list)
 **SKU:** KEYEPOG84HBD
 **URL:** https://www.extremepc.co.nz/wireless-gaming-keyboards/epomaker-g84-he-hot-swappable-rgb-wireless-mechanical-keyboard-white-blue-duskrise-magnetic-switch-84-keys/
-**Stock:** Only a few left in stock
+**Stock:** Last one left (OH=1, BC API verified 2026-11-12; was OH=2 on 11-11)
 
 ## Quick Specs
 - Connection: Wireless (2.4GHz / Bluetooth)

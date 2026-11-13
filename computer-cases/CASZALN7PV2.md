@@ -17,13 +17,13 @@
 - Included fans: 3× 120mm ARGB fans + RGB hub
 - PSU: ATX (not included)
 - Colour: Black
-- NZ Stock: In stock Onehunga — 21 units
+- NZ Stock: In stock Onehunga — 8 units (BC API verified 2026-11-11)
 
 ## Selling Points
 
 - **V2 revision improvements over original N7 Plus** — the V2 designation indicates an updated revision with refined airflow optimisation, updated panel tolerances, or fan specification improvements over the original N7 Plus. In case manufacturing, V2 revisions typically address feedback from the original release.
 
-- **21 units at Onehunga — second-highest stocked mid-tower case, behind only the I3 Neo.** Reliable availability for immediate pickup. At 21 units, the N7 Plus V2 can fulfil batch or multi-unit orders without pre-ordering.
+- **8 units at Onehunga (BC API verified 2026-11-11)** — reliable availability for immediate pickup. The N7 Plus V2 can fulfil multi-unit orders without pre-ordering.
 
 ## Ideal For
 
@@ -37,7 +37,7 @@
 
 ## Why Buy From ExtremePC
 
-- **21 units in Onehunga — reliable same-day availability.**
+- **8 units in Onehunga (BC API verified 2026-11-11) — reliable same-day availability.**
 - **Zalman warranty** through ExtremePC with NZ Consumer Guarantees Act coverage.
 
 ## Comparison

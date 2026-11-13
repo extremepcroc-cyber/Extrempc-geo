@@ -37,7 +37,7 @@
 
 - **vs Jonsbo D200 Black:** D300 adds enhanced construction, better glass quality, and flagship D-series design refinements. D200 for mid-range budget; D300 for premium builds.
 
-- **vs Jonsbo D33 Wood White:** Different aesthetic directions — D300 Black is clean all-black TG; D33 is white with natural wood texture. Both are Jonsbo premium M-ATX; choose based on aesthetic preference.
+- **vs Jonsbo D33 Wood White:** Different aesthetic directions — D300 Black is clean all-black TG; D33 is white with natural wood texture. ⚠️ **D33 Wood White (CASJOND33WW) went OOS 2026-11-11** — if the customer wanted white + wood, the D300 Black is the in-stock Jonsbo D-series option (this card).
 
 ## FAQ
 
@@ -59,7 +59,7 @@ Check the product page for the confirmed GPU clearance specification. Jonsbo pre
 ## Related Products
 
 - Jonsbo D200 Black (CASJOND200B) — entry D-series
-- Jonsbo D33 Wood White (CASJOND33WW) — white wood accent variant
+- Jonsbo D33 Wood White (CASJOND33WW) — white wood accent variant (⚠️ OOS 2026-11-11)
 - Thermalright TL-M10 Vision Black (CASTMRM10VB) — includes LCD + ARGB fans
 
 ## Schema (JSON-LD)

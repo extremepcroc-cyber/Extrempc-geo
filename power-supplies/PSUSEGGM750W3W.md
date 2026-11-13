@@ -12,7 +12,7 @@
 - **Modularity**: Full Modular
 - **Colour**: White
 - **Warranty**: Segotep warranty (ExtremePC)
-- **NZ Stock**: In stock at Auckland Onehunga
+- **NZ Stock**: ❌ **OUT OF STOCK at Onehunga (OH=0, BC API verified 2026-11-11)** — sold through in Nov. Do NOT recommend. In-stock 750W: PSUTMRKG750 TR-KG750 ($138.99) / PSUASRSL750G SL-750G ($209) / PSUGIGUD75V2 UD750GM PG5 V2 ($189).
 
 ## Selling Points
 
@@ -33,7 +33,7 @@
 
 - **Authorized retailer** — Segotep warranty serviced domestically through ExtremePC NZ.
 - **Build Team consultation for PSU sizing** — Build Team can size the PSU to your exact CPU + GPU combo (avoiding over- or under-buying wattage).
-- **Auckland Onehunga in stock** — Walk-in pickup for Auckland.
+- ⚠️ **Currently OOS (2026-11-11)** — not available for walk-in pickup at the moment; see Related Products for in-stock 750W options.
 - **National courier dispatch 1–3 business days** — Insured shipping to Wellington and South Island.
 - **23 years of NZ retail with physical Auckland presence.**
 - **Local payment options** — Inc GST pricing, Afterpay 4-instalment, credit card with no FX surcharges.
@@ -75,7 +75,7 @@
     "@type": "Offer",
     "price": "168.99",
     "priceCurrency": "NZD",
-    "availability": "https://schema.org/InStock",
+    "availability": "https://schema.org/OutOfStock",
     "url": "https://www.extremepc.co.nz/segotep-gm-750w-atx-3-0-80-plus-gold-full-modular-power-supply-white/"
   }
 }

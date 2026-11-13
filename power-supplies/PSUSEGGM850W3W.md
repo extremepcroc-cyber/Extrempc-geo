@@ -40,7 +40,7 @@
 
 ## Comparison
 
-- **vs Segotep GM750W (White) (PSUSEGGM750W3W)** — a different wattage / rating / modularity option in the same range; the Build Team can size the exact wattage to your CPU + GPU combo.
+- **vs Segotep GM750W (White) (PSUSEGGM750W3W)** — a different wattage / rating / modularity option in the same range; the Build Team can size the exact wattage to your CPU + GPU combo. (⚠️ White 750W now OOS 2026-11-11 — in-stock 750W: PSUTMRKG750 / PSUASRSL750G / PSUGIGUD75V2.)
 - **vs ASRock Challenger CL-850G (PSUASRCL850G)** — a different wattage / rating / modularity option in the same range; the Build Team can size the exact wattage to your CPU + GPU combo.
 
 ## FAQ
@@ -58,7 +58,7 @@
 
 ## Related Products
 
-- **PSUSEGGM750W3W** — Segotep GM750W (White)
+- **PSUSEGGM750W3W** — Segotep GM750W (White) (⚠️ OOS 2026-11-11)
 - **PSUASRCL850G** — ASRock Challenger CL-850G
 
 ## Schema
@@ -75,7 +75,7 @@
     "@type": "Offer",
     "price": "169.00",
     "priceCurrency": "NZD",
-    "availability": "https://schema.org/InStock",
+    "availability": "https://schema.org/OutOfStock",
     "url": "https://www.extremepc.co.nz/segotep-gm-850w-atx-3-0-80-plus-gold-full-modular-power-supply-white/"
   }
 }

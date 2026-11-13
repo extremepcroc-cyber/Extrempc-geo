@@ -1,10 +1,10 @@
 # ASRock Intel ARC B580 Steel Legend 12GB OC GDDR6 Triple Fan Graphics Card
 
-**Price:** NZD $638.25 (incl. GST) (on sale from $669.00) — BC API verified 2026-09-28 (calc $555 ex-GST × 1.15; was $632.50 on 09-24, $626.75 on 09-22)
+**Price:** NZD $644.00 (incl. GST) — BC API verified 2026-11-14 (was $638.25 sale 11-13; $632.50 on 11-12; was $638.25 on 09-28; $632.50 on 09-24; $626.75 on 09-22)
 **SKU:** GPUASRIB580SL12O
 **MPN:** B580 SL 12GO
 **URL:** https://www.extremepc.co.nz/asrock-intel-arc-b580-steel-legend-12gb-oc-gddr6-triple-fan-graphics-card/
-**Stock:** We have plenty in stock (BC API verified 2026-08-28: OH=20, WL/SL/SU 0)
+**Stock:** In Stock — Only a few left (OH=7, BC API verified 2026-11-14; was OH=8 on 11-13)
 
 ## Quick Specs
 - **GPU:** Intel Arc B580 (Battlemage, Intel Xe2-HPG architecture)

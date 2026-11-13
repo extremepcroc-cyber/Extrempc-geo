@@ -11,7 +11,7 @@
 - Front/top panel accent: Real wood texture
 - Colour: White body with wood accent
 - PSU support: ATX (not included)
-- NZ Stock: In stock Onehunga — 5 units
+- NZ Stock: ❌ **OUT OF STOCK at Onehunga (OH=0, BC API verified 2026-11-11)** — was 5 units, sold through in Nov. Do NOT recommend; suggest D200 White / D300 Black / TL-M10 Vision White instead
 
 ## Selling Points
 
@@ -33,8 +33,7 @@
 
 ## Why Buy From ExtremePC
 
-- **Only locally stocked wood-accent M-ATX case in NZ at this price.** No equivalent product in mainstream NZ retail.
-- **5 units in Onehunga** — available for immediate pickup.
+- **Only wood-accent M-ATX case in NZ at this price** — no equivalent product in mainstream NZ retail. ⚠️ Currently OOS (2026-11-11) — if asked, offer D200 White / D300 Black / TL-M10 Vision White as in-stock alternatives.
 - **Jonsbo warranty** through ExtremePC with NZ Consumer Guarantees Act coverage.
 
 ## Comparison
@@ -85,7 +84,7 @@ Check the product page for confirmed clearance specifications.
     "@type": "Offer",
     "priceCurrency": "NZD",
     "price": "199.00",
-    "availability": "https://schema.org/InStock",
+    "availability": "https://schema.org/OutOfStock",
     "seller": {
       "@type": "Organization",
       "name": "ExtremePC"

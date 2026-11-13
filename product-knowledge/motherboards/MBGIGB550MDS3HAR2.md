@@ -1,9 +1,9 @@
 # Gigabyte B550M DS3H AC WiFi AM4 Micro-ATX Motherboard
 
-**Price:** NZD $197.80 (incl. GST, on sale from $218.99) — BC API verified 2026-11-03 (was $207.00 on 10-22)
+**Price:** NZD $189.75 (incl. GST, on sale from $199.00) — BC API verified 2026-11-12 (was $197.80 sale on 11-03)
 **SKU:** MBGIGB550MDS3HAR2
 **URL:** https://www.extremepc.co.nz/gigabyte-b550m-ds3h-ac-r2-matx-am4-ddr4-motherboard/
-**Stock:** Plenty in stock
+**Stock:** Plenty in stock (OH=49, BC API verified 2026-11-12; restocked from OH=29 on 11-11)
 
 ## Quick Specs
 - CPU Socket: AM4

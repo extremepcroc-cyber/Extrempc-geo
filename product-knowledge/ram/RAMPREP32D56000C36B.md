@@ -1,9 +1,9 @@
 # Predator PALLAS II 32GB (2 x 16GB) DDR5 6000MHz Desktop RAM CL36 Black - Intel XPM 3.0 Compliant AMD Expo Memory
 
-**Price:** NZD $859.00 (incl. GST)
+**Price:** NZD $999.00 (incl. GST) — BC API verified 2026-11-12 (price up from $859.00 on 11-11)
 **SKU:** RAMPREP32D56000C36B
 **URL:** https://www.extremepc.co.nz/predator-pallas-ii-32gb-2-x-16gb-ddr5-6000mhz-desktop-memory-cl36-black-intel-xpm-3-0-compliant-amd-expo-memory/
-**Stock:** Only a few left in stock (OH=5, BC API verified 2026-11-06; was OH=6 on 11-04, OH=4 on 10-29)
+**Stock:** Only a few left in stock (OH=5, BC API verified 2026-11-12; was OH=6 on 11-04, OH=4 on 10-29)
 
 ## Quick Specs
 - Type: DDR5

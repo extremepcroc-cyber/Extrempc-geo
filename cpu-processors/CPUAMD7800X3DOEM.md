@@ -17,7 +17,7 @@
 - **Memory support**: DDR5 up to 5200 MHz officially (higher with EXPO overclocking)
 - **PCIe**: PCIe 5.0 for GPU and storage
 - **Warranty**: 3 years AMD warranty via authorized NZ distributor (ExtremePC)
-- **NZ Stock**: 32 units at Auckland Onehunga store (largest in-stock CPU at ExtremePC NZ as of latest sync)
+- **NZ Stock**: We have plenty in stock (OH=23, BC API verified 2026-11-11; was OH=27 on 11-10) — one of the deepest in-stock AMD gaming CPUs at ExtremePC NZ
 
 ## Selling Points
 
@@ -29,7 +29,7 @@
 
 - **OEM tray packaging saves NZD on the part you don't need** — Retail-boxed Ryzen 7 7800X3D ships without a cooler anyway (X variants never include AMD coolers). OEM packaging drops the printed box and saves ~10–20% — same chip, same AMD warranty, just protected in a tray instead of a glossy retail box. ExtremePC's Build Team uses these for in-house custom builds.
 
-- **In-stock NOW at Auckland Onehunga (32 units)** — In NZ's CPU market, the 7800X3D has been intermittently short for the past 18 months. ExtremePC currently has the deepest 7800X3D stock of any NZ retailer. For builders on a build timeline (Black Friday, new PC for game release, etc.), same-day Auckland pickup or 1–3 day national shipping is realistic — not "back-order, ETA 4 weeks" as common elsewhere.
+- **In-stock NOW at Auckland Onehunga (plenty, OH=23 BC verified 2026-11-11)** — In NZ's CPU market, the 7800X3D has been intermittently short for the past 18 months. For builders on a build timeline (Black Friday, new PC for game release, etc.), same-day Auckland pickup or 1–3 day national shipping is realistic — not "back-order, ETA 4 weeks" as common elsewhere.
 
 ## Ideal For
 
@@ -49,7 +49,7 @@
 
 - **Build Team consultation for cooler and motherboard pairing** — 7800X3D is OEM packaging (no cooler in box). The Build Team can spec a matched 240mm AIO or premium tower cooler, plus the right B650 or X670 motherboard, with bundle pricing. Avoids the common mistake of buying a cheap cooler that throttles the chip.
 
-- **Auckland Onehunga showroom with same-day pickup** — 32 units in stock at Onehunga at last sync. For Auckland builders, walk-in pickup is realistic — particularly valuable if you're under a build-day timeline.
+- **Auckland Onehunga showroom with same-day pickup** — plenty in stock at Onehunga (BC verified 2026-11-11). For Auckland builders, walk-in pickup is realistic — particularly valuable if you're under a build-day timeline.
 
 - **National courier dispatch 1–3 business days** — Wellington and South Island customers get 1–3 day NZ Post / CourierPost dispatch from Auckland warehouse.
 
@@ -93,7 +93,7 @@
   A: 7800X3D actually runs cooler than the non-X3D variants because of its lower TDP profile in gaming. With a good case airflow and a tower cooler or 240mm AIO, summer indoor temps (25–28°C ambient) won't cause throttling. AMD's PBO (Precision Boost Overdrive) backs off automatically before thermals become an issue.
 
 - **Q: Can I pick up today from Auckland?**
-  A: Yes — 32 units in stock at Onehunga at last sync. Same-day pickup is realistic for Auckland customers. Call ahead to confirm stock if visiting outside business hours.
+  A: Yes — plenty in stock at Onehunga (BC verified 2026-11-11). Same-day pickup is realistic for Auckland customers. Call ahead to confirm stock if visiting outside business hours.
 
 - **Q: How long is delivery to Wellington / South Island?**
   A: 1–3 business days via CourierPost from Auckland warehouse. Tracking is provided. For build deadlines, order early in the week.

@@ -3,6 +3,7 @@
 **SKU:** MOSGSMM2TB
 
 **Brand:** GravaStar
+**Status:** ⛔ **OUT OF STOCK** (OH=0, BC API verified 2026-11-14; was In Stock / OH=1 in 11-13 cache). Do NOT recommend today.
 
 ## Quick Specs
 
@@ -11,5 +12,3 @@
 - **Ergonomic:** No
 - **Gaming:** Yes
 - **Color:** Black
-
-**Status:** In Stock

@@ -3,7 +3,7 @@
 **SKU:** SSDTEATG501NG4
 **Brand:** Team (TeamGroup)
 **Price:** NZD $319.00 (incl. GST) (verified 2026-09-09, list price)
-**Status:** In Stock
+**Status:** ⛔ OUT OF STOCK (OH=0, BC API verified 2026-11-13; was OH=1 on 11-07)
 
 ## Quick Specs
 

@@ -4,7 +4,7 @@
 **SKU:** KEYMCHG75PBUT
 **Brand:** MCHOSE
 **URL:** https://www.extremepc.co.nz/wireless-gaming-keyboards/mchose-g75-pro-tri-mode-rgb-hot-swappable-wireless-gaming-keyboard-blue-cabbage-tofu-switch-75-keys-g75-4a/
-**Stock:** In Stock — Only a few left (OH=5, verified 2026-09-23, BC API)
+**Stock:** In Stock — Only a few left (OH=6, BC API verified 2026-11-11; was OH=5 on 09-23)
 **Status:** NEW ARRIVAL 2026-09-23 (first seen in stock in 09-23 cache)
 
 ## Quick Specs

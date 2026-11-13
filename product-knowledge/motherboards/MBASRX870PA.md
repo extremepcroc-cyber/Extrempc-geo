@@ -3,7 +3,7 @@
 **Price:** NZD $399.00 (incl. GST, list) — BC API verified 2026-11-05 (sale ended, back to list; was $385.25 sale from $415.00 on 09-13)
 **SKU:** MBASRX870PA
 **URL:** https://www.extremepc.co.nz/asrock-x870-pro-a-wifi-am5-atx-motherboard/
-**Stock:** Only a few left in stock (OH=4, BC API verified 2026-11-05; was OH=24 on 10-30)
+**Stock:** ⛔ **OUT OF STOCK** (OH=0, BC API verified 2026-11-14; was OH=1 few on 11-12, OH=4 on 11-05). Do NOT recommend today.
 **Status:** NEW ARRIVAL 2026-09-13 (first seen in stock in 09-13 cache)
 
 ## Quick Specs

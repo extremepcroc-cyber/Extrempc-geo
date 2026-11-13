@@ -1,11 +1,11 @@
 # Gigabyte NVIDIA GeForce RTX 5060 Ti EAGLE OC 8GB GDDR7 Graphics Card
 
-**Price:** NZD $1,039.00 (incl. GST) — price increased (verified 2026-09-06)
+**Price:** NZD $1,039.00 (incl. GST) — BC API verified 2026-11-12 (price stable since 09-06)
 **SKU:** GPUGIG5060TEO8
 **Brand:** Gigabyte
 **MPN:** GV-N506TEAGLE OC-8GD
 **URL:** https://www.extremepc.co.nz/gigabyte-nvidia-geforce-rtx-5060-ti-eagle-oc-8gb-gddr7-graphics-card/
-**Stock:** Only a few left in stock
+**Stock:** Only a few left (OH=7, BC API verified 2026-11-12; was OH=6 on 11-11)
 
 ## Quick Specs
 - GPU: NVIDIA GeForce RTX 5060 Ti

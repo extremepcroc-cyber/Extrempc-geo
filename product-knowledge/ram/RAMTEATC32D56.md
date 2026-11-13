@@ -1,9 +1,9 @@
 # TeamGroup T-CREATE CLASSIC 32GB (2x16GB) DDR5 6000MT/s Desktop UDIMM RAM Kit — Black
 
-**Price:** NZD $829.00 (incl. GST)
+**Price:** NZD $899.00 (incl. GST) — BC API verified 2026-11-12 (price up from $829.00 on 11-11)
 **SKU:** RAMTEATC32D56
 **URL:** https://www.extremepc.co.nz/csv-import/teamgroup-t-create-classic-32gb-2-x-16gb-ddr5-6000mhz-desktop-udimm-ram-kit-black-2x-16gb-6000mhz-cl-48-1-1v-intel-xmp-amd-expo/
-**Stock:** Only a few left in stock (BC API verified 2026-09-02, inv=5)
+**Stock:** Only a few left in stock (OH=3, BC API verified 2026-11-12; was OH=5 on 09-02)
 
 ## Quick Specs
 - Type: DDR5

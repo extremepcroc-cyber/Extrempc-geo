@@ -1,9 +1,9 @@
 # Logitech MX Vertical Advanced Ergonomic Mouse
 
-**Price:** NZD $145.00 (incl. GST)
+**Price:** NZD $159.00 (incl. GST) — BC API verified 2026-11-13 (was $145 on older cards)
 **SKU:** MOSLOGMXVERT
 **URL:** https://www.extremepc.co.nz/logitech-mx-vertical-advanced-ergonomic-mouse/
-**Stock:** Only a few left in stock
+**Stock:** ⛔ **OUT OF STOCK** (OH=0, BC API verified 2026-11-13). Do NOT recommend today.
 
 ## Quick Specs
 - Connection: Bluetooth / Logi Bolt USB receiver (2.4GHz)

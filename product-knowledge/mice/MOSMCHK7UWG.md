@@ -12,6 +12,6 @@
 - **Gaming:** Yes
 - **Color:** White
 
-**Stock:** In Stock — RESTOCKED (OH=5, verified 2026-09-22, BC API inv=5). Was OOS 2026-09-10
-**Price:** NZD $169.00 (incl. GST) on sale from $179.00 — sale revised 2026-10-06 (was $159 on 09-30)
+**Stock:** ⛔ **OUT OF STOCK — ENTIRE K7 Ultra LINE** (OH=0, BC API verified 2026-11-13) + **is_visible=false (storefront hidden)**: White Gold **MOSMCHK7UWG** (this SKU) / Black **MOSMCHK7UBK** (OH=0) / Iron Red **MOSMCHK7UIR** (OH=0). Do NOT recommend any K7 Ultra SKU.
+**Price:** NZD $179.00 (incl. GST) (list; sale ended)
 **URL:** https://www.extremepc.co.nz/mchose-k7-ultra-lightweight-wireless-gaming-mouse-white/

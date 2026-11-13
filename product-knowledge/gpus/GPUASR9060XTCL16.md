@@ -3,7 +3,7 @@
 **Price:** NZD $1,058.99 (incl. GST) — sale ended, back to list (was $989.00 sale from $1,058.99 on 11-03; $971.75 on 10-29; $920.00 on 10-23). BC API verified 2026-11-04
 **SKU:** GPUASR9060XTCL16
 **URL:** https://www.extremepc.co.nz/asrock-radeon-rx-9060-xt-16gb-challenger-oc-graphics-card/
-**Stock:** We have plenty in stock
+**Stock:** We have plenty in stock (OH=12, BC API verified 2026-11-14; was OH=9 on 11-13 — restocked +2)
 
 ## Quick Specs
 - GPU: AMD Radeon RX 9060 XT (RDNA 4)

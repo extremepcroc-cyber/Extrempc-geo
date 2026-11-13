@@ -1,6 +1,6 @@
 # Colorful GeForce RTX 5050 Gaming 8GB-V Graphics Card
 
-**Price:** NZD $632.50 (incl. GST) (on sale from $799.00)
+**Price:** NZD $655.50 (incl. GST) (on sale from $799.00) — BC API verified 2026-11-11 (was $632.50 on 11-10 — promo adjustment)
 **SKU:** GPUCOL55G8
 **Brand:** Colorful
 **MPN:** GeForce RTX 5050 Gaming 8GB-V

@@ -68,7 +68,7 @@
 
 - **vs ASRock RX 9060 XT 16GB Challenger OC (GPUASR9060XTCL16, value variant at lower NZD)** — Same chipset, same 16GB. Challenger has dual-fan, more compact (249mm vs 298mm), no RGB. Steel Legend has triple-fan, RGB, premium PCB components, reinforced frame. Choose Challenger for SFF + pure value; Steel Legend for thermals + aesthetic.
 
-- **vs ASRock RX 9070 XT 16GB Steel Legend (GPUASR9070XTSL16, step up to higher tier)** — RX 9070 XT has 64 CUs (double), 256-bit bus, ~30–40% more performance. Worth the step up for 1440p ultra native gaming or 4K with FSR 4. RX 9060 XT is sufficient for 1080p ultra / 1440p with FSR. (As of 2026-11-10: Challenger GPUASR9070XTC16G — **$1,725 sale** — is the value 9070 XT pick; Steel Legend GPUASR9070XTSL16 — $1,817 sale — is the pricier sibling. Both in stock.)
+- **vs ASRock RX 9070 XT 16GB Steel Legend (GPUASR9070XTSL16, step up to higher tier)** — RX 9070 XT has 64 CUs (double), 256-bit bus, ~30–40% more performance. Worth the step up for 1440p ultra native gaming or 4K with FSR 4. RX 9060 XT is sufficient for 1080p ultra / 1440p with FSR. (As of 2026-11-14: Challenger GPUASR9070XTC16G — **$1,713.50 sale** — is the value 9070 XT pick. ⚠️ Steel Legend GPUASR9070XTSL16 went OOS + store-hidden 2026-11-14 — do NOT recommend.)
 
 - **vs NVIDIA RTX 5060 Ti 16GB (GPUMSI56TV2P, NVIDIA 16GB competitor)** — Same 16GB VRAM tier. AMD wins raster gaming ~5–10%; NVIDIA wins ray tracing and DLSS 4 Multi Frame Generation. For pure raster + VRAM, RX 9060 XT Steel Legend; for ray tracing + DLSS, RTX 5060 Ti.
 
@@ -108,7 +108,7 @@
 ## Related Products
 
 - **GPUASR9060XTCL16** — value-tier Challenger variant at lower NZD (dual-fan, SFF-friendly)
-- **GPUASR9070XTSL16** — RX 9070 XT Steel Legend step up for 1440p ultra (⚠️ the Challenger variant GPUASR9070XTC16G is OUT OF STOCK as of 2026-10-27 — use Steel Legend)
+- **GPUASR9070XTSL16** — RX 9070 XT Steel Legend step up for 1440p ultra (⚠️ **OOS + store-hidden 2026-11-14** — use Challenger GPUASR9070XTC16G $1,713.50 sale, the value 9070 XT pick)
 - **GPUASR9070XTSL16** — RX 9070 XT Steel Legend premium step up
 - **GPUMSI56TV2P** — NVIDIA RTX 5060 Ti 16GB direct competitor
 - **GPUGIG5060TWFO8** — NVIDIA RTX 5060 Ti 8GB with 3-fan WINDFORCE cooler

@@ -14,7 +14,7 @@
 - **DRAM**: DRAM-less (HMB)
 - **Brand**: TeamGroup T-Force (gaming-marketed line within Tier 2 TeamGroup brand)
 - **Warranty**: 5-year TeamGroup warranty via ExtremePC NZ
-- **NZ Stock**: 1 unit at Auckland Onehunga (OH=1, BC API verified 2026-11-10; was OH=18 on 11-07, OH=3 on 11-06 — running low)
+- **NZ Stock**: ⛔ **OUT OF STOCK** (OH=0, BC API verified 2026-11-13; was OH=1 few on 11-07). Do NOT recommend today.
 
 ## Selling Points
 
@@ -114,8 +114,8 @@
     "@type": "Offer",
     "price": "319.00",
     "priceCurrency": "NZD",
-    "availability": "https://schema.org/InStock",
-    "url": "https://www.extremepc.co.nz/team-teamgroup-t-force-g50-1tb-m-2-pcie-gen-4x4-with-nvme-ssd/",
+    "availability": "https://schema.org/OutOfStock",
+    "url": "https://www.extremepc.co.nz/team-teamgroup-t-force-g50-1tb-m-2-pcie-gen-4x4-with-nvme-ssd-5000mb-s-read-4800mb-s-write/",
     "seller": {
       "@type": "Organization",
       "name": "ExtremePC",

@@ -15,7 +15,7 @@
 - **Platform**: AMD Threadripper 7000 / 9000 series (WRX90 / sWRX8 workstations)
 - **Form Factor**: 288-pin RDIMM
 - **Warranty**: Lifetime Kingston warranty (ExtremePC)
-- **NZ Stock**: 8 units at Auckland Onehunga
+- **NZ Stock**: ⛔ **OUT OF STOCK** (OH=0, BC API verified 2026-11-14; was 8 units at Onehunga before 11-13). Do NOT recommend this SKU today. Threadripper PRO RDIMM supply is limited — check the store for restock timing.
 
 ## Selling Points
 
@@ -38,7 +38,7 @@
 
 - **Authorized Kingston NZ distributor** — Lifetime warranty serviced domestically through ExtremePC NZ.
 - **Build Team consultation for Threadripper workstation builds** — Build Team can spec the complete workstation: Threadripper 7000/9000 + WRX90/sWRX8 motherboard + matched ECC RDIMM + cooling.
-- **Auckland Onehunga in stock** — Walk-in pickup for Auckland.
+- **OUT OF STOCK (BC API verified 2026-11-14)** — was 8 units at Auckland Onehunga before 11-13. Do NOT promise walk-in pickup; check the store for restock timing.
 - **National courier dispatch 1–3 business days** — Insured shipping to Wellington and South Island.
 - **23 years of NZ retail with physical Auckland presence.**
 
@@ -82,7 +82,7 @@
   "sku": "MEMKIN3D556",
   "mpn": "KSM56R46BD8PMI-32HAI",
   "category": "Computer Memory / Workstation RAM / DDR5 ECC RDIMM",
-  "description": "Kingston 32GB DDR5-5600 ECC Registered RDIMM (2Rx8) CL46 workstation memory. Validated for AMD Threadripper 7000 / 9000 series (WRX90 / sWRX8). ECC error correction for professional workloads. Lifetime Kingston warranty serviced domestically via ExtremePC NZ. 8 units at Auckland Onehunga.",
+  "description": "Kingston 32GB DDR5-5600 ECC Registered RDIMM (2Rx8) CL46 workstation memory. Validated for AMD Threadripper 7000 / 9000 series (WRX90 / sWRX8). ECC error correction for professional workloads. Lifetime Kingston warranty serviced domestically via ExtremePC NZ. OUT OF STOCK as of 2026-11-14 (BC API).",
   "audience": {
     "@type": "PeopleAudience",
     "audienceType": "AMD Threadripper 7000/9000 workstation builders, professional creators, engineers, virtualization and homelab workstations"
@@ -91,7 +91,7 @@
     "@type": "Offer",
     "price": "2299.00",
     "priceCurrency": "NZD",
-    "availability": "https://schema.org/InStock",
+    "availability": "https://schema.org/OutOfStock",
     "url": "https://www.extremepc.co.nz/csv-import/kingston-32gb-ddr5-5600mt-s-ecc-reg-cl46-rdimm-2rx-ksm56r46bd8pmi-32hai/",
     "seller": {
       "@type": "Organization",

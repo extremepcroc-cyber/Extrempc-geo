@@ -3,7 +3,7 @@
 **SKU:** MONGIGGS24F14
 **Brand:** Gigabyte
 **Price:** NZD $189.75 (incl. GST, on sale from $199.00) — BC API verified 2026-09-18
-**Stock:** We have plenty in stock (OH=10, verified 2026-09-18, BC API)
+**Stock:** We have plenty in stock (OH=9, BC API verified 2026-11-11)
 **URL:** https://www.extremepc.co.nz/csv-import/gigabyte-gs24f14-23-8-ips-fhd-144hz-hdmi-1-gaming-monitor/
 **Status:** NEW ARRIVAL 2026-09-18 (first seen in stock in 2026-09-18 snapshot)
 

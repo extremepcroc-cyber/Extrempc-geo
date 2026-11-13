@@ -19,6 +19,41 @@
 
 历史段落保留原样（当时写下的观测记录），但**以本声明为准**。
 
+## KB Backfill — Cron Run (2026-11-12)
+✔️ 已完成（2026-11-12）：EVA 知识补全 cron 运行（**Phase 2 — 库存/价格 diff + BC 实时核验 + 售罄/回库联动同步 + 兄弟款交叉引用修正**）。基准 **2026-11-11 → 2026-11-12** EVAcache（latest.txt → **2026-11-12**，03:02 构建，1557 → **1557** 品，**6 售罄 / 6 新增**，净零）。所有变动 SKU 均经 **BC API 实时核验**（query-product.py：price + OH + URL），以 BC 返回值为准。
+
+> ⚠️ **报告缺口说明**：todo.md 上一份 run 报告是 **2026-11-10**，但多张 KB 卡已带 **2026-11-11** 时间戳（11-11 那次运行更新了 GPU/PSU/Case/Keyboard/Mouse 卡却没落报告）。本次只处理 **11-11 → 11-12** 的净变动；11-11 的卡已在前一天同步到位，本 run 未重复改动。
+
+**📉 新售罄（4 个有 KB 卡的品从 11-11 缓存消失，全部 BC 实测 OH=0）:**
+- **COOABES3604844** Abee STEM360-4844 360 AIO（$899）— 标 **OUT OF STOCK**。
+- **COOJONTH240W** Jonsbo TH-240 ARGB 240 AIO White（$103.50 sale）— 标 **OUT OF STOCK** + 指向在售白 240 AIO 替代（Thermalright Aqua Elite 240 White V3 $86.25 OH=12 / Segotep BeVere 240 White $74.75 OH=19）。
+- **MOSHYPPH2CWH** HyperX Pulsefire Haste 2 Core 白（$98 list，sale $78.20 已结束）— 标 **OUT OF STOCK**；并修正 `mice/hyperx-pulsefire-haste-2.md` 里「白兄弟在库」的旧交叉引用 → 改「白已 OOS」。
+- **MOSMCHG7WH** MCHOSE G7 轻量人体工学鼠标 白（$79）— 标 **OUT OF STOCK**。
+- **CPUINT14400FOEM** i5-14400F OEM / **NETASTA40QSFDPI** StarTech XL710 40G 网卡 — 无 KB 卡，跳过。
+
+**📈 回库/新增（缓存 diff；整机/无卡类按约定处理）:**
+- **GPUGIG5070TWFOC16** Gigabyte RTX 5070 Ti WINDFORCE OC 16GB（**$2,599**）— **RESTOCKED**，OOS/隐藏自 09-10 → 现 OH=2 few，可用；卡已从「OOS/勿报价」翻转为「在库」。
+- **GPUGIG5080WFO16** Gigabyte RTX 5080 WINDFORCE OC 16GB（**$4,198.99**，涨价自 10-11 的 $3,219）— **RESTOCKED**，OOS 自 10-11 → 现 OH=3 few，可用；卡翻转为「在库」。
+- **GPUGIG5060WF8O** RTX 5060 WINDFORCE OC 8GB（$929, OH=11）/ **GPUGIG5090AM32** RTX 5090 AORUS MASTER（$17,250, OH=2）— 新增，**无 KB 卡**（GPU 卡按约定只给核心型号建档，这两款未达建档门槛/店主未要求），仅记录。
+- **DESASUAG1G14** ASUS Ascent GX10 GB10（**$22,999**，11-11 为 $16,999 后涨价）— 整机/工作站，无卡，跳过。
+- **PKG658 / PKG678**（Black November 整机）— 整机，按约定不进 KB。
+
+**💰 价格变动（BC 核验，有 KB 卡已同步）:**
+- **32GB DDR5-6000 套条全线上涨**（内存紧缺持续，市况非数据错误）：**RAMPREP32D56000C36B/S** Predator PALLAS II 黑/银 **$859→$999**；**RAMPREV32D56000C36RB** Vesta II RGB **$899→$999**；**RAMTEATC32D56** TeamGroup T-CREATE **$829→$899**。卡已同步，库存措辞更新（Vesta II 仅剩 1 条 OH=1）。
+- **MBGIGB550MDS3HAR2** Gigabyte B550M DS3H AC（**$197.80→$189.75** sale，OH 29→49 回补）— 卡同步。
+- **KEYEPOG84HBD** Epomaker G84 HE White-Blue（**$169 sale 结束 → $199 list**，OH 2→1 仅剩 1）— 卡同步。
+- **KEYLOGG3169B / 9W** Logitech G316 X 98 黑/白（**$199→$189** sale，OH=3）— 卡同步。
+- **MOSLOGG502XPW** Logitech G502 X PLUS White（**$239→$229** sale，OH=3）/ **MOSLOGM221BU** M221 Blue（**$34.99→$29** sale，OH 仅剩 2）— 卡补齐价格+库存。
+- **MONAOC24B153** AOC 24B15H3 24"（**$149.01→$159**，OH 4→2）— 卡同步。
+- **GPUGIG5060TEO8** RTX 5060 Ti EAGLE（$1,039 稳定，OH 6→7）/ **SSDHPFX900P512** HP FX900 512GB（$229 稳定，OH 3→2 仅剩 2）— 卡库存措辞更新。
+- **GPUASR9070XTSL16** Steel Legend（OH 37→36，价格 $1,794 稳定）— 无卡级变动，跳过。
+- 整机价格批量变动（XPC*/PKG* 约 30 个 SKU 涨/跌）— **整机类按约定不建 KB 卡**，仅在缓存层体现，不进产品知识库。
+
+**未处理 / 待店主确认:**
+1. **32GB DDR5-6000 内存 11-12 集体涨价**（$829–899 档 → $899–999 档）— 与 10-20 市况一致，趋势仍是上行；如近期持续请店主确认是否渠道结构性涨价。
+2. **⚠️ exie-web profile skill 参考文件价格快照已过时**：`profiles/exie-web/skills/productivity/extremepc-assistant/references/ram-desktop-memory-lookup.md` 的「2026-10-20 实测快照」仍写 TeamGroup $829 / Pallas $859 / Vesta $859，实际 11-12 已 $899 / $999 / $999。该文件在 **exie-web profile**（本 exie cron profile 的 cross-profile guard 拒绝直写）——**需店主在 exie-web profile 更新，或让 exie-web 会话自行 patch**。
+3. **EVAcache 双位置**：`profiles/exie-web/workspace/EVAcache/`（canonical，3am 重建，latest.txt 正常）与 `profiles/exie/workspace/EVAcache/`（**停在 2026-09-08 的旧副本**）并存。本 run 只 diff/读 canonical（exie-web）那份；旧副本勿用于报价。
+
 ## KB Backfill — Cron Run (2026-11-10)
 ✔️ 已完成（2026-11-10）：EVA 知识补全 cron 运行（**Phase 2 — 库存/价格 diff + BC 实时核验 + 促销结束/回库联动同步 + 兄弟款交叉引用修正**）。基准 **2026-11-09 → 2026-11-10** EVAcache。所有价格/库存变动 SKU 均经 **BC API 实时核验**（query-product.py：price + OH + URL），以 BC 返回值为准。
 

@@ -1,6 +1,6 @@
 # ASRock Intel Arc Pro B65 Creator 32GB GDDR6 Graphics Card
 
-**Price:** NZD $2,817.50 (incl. GST, on sale from $2,899.00) — BC API verified 2026-11-03 (was $2,899 list on 11-01; NEW ARRIVAL)
+**Price:** NZD $2,760.00 (incl. GST, on sale from $2,899.00) — BC API verified 2026-11-14 (was $2,783 sale 11-13; $2,817.50 sale on 11-03; $2,899 list on 11-01; NEW ARRIVAL)
 **SKU:** GPUASRB65C32
 **MPN:** B65 CT 32G
 **URL:** https://www.extremepc.co.nz/workstation/asrock-intel-arc-pro-b65-creator-32g-gddr6-graphics-card/

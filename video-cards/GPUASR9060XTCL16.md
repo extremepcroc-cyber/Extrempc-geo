@@ -68,7 +68,7 @@
 
 - **vs ASRock RX 9060 XT 16GB Steel Legend (GPUASR9060XTSL16, premium-tier variant)** — Same chipset, same 16GB. Steel Legend adds Polychrome SYNC RGB, triple-fan cooler (lower temps + quieter), reinforced metal frame, premium PCB. Slightly higher boost (3320 MHz vs 3290 MHz). Choose Steel Legend for thermals + aesthetic; Challenger for SFF + value.
 
-- **vs ASRock RX 9070 XT 16GB Steel Legend (GPUASR9070XTSL16, premium-tier step up)** — RX 9070 XT has 64 CUs (vs 32), 256-bit bus (vs 128-bit), and ~30–40% more performance. Worth the step up for 1440p ultra native gaming. (As of 2026-11-10: Challenger GPUASR9070XTC16G — **$1,725 sale** — is the value 9070 XT pick; Steel Legend GPUASR9070XTSL16 — $1,817 sale — is the pricier sibling. Both in stock.)
+- **vs ASRock RX 9070 XT 16GB Steel Legend (GPUASR9070XTSL16, premium-tier step up)** — RX 9070 XT has 64 CUs (vs 32), 256-bit bus (vs 128-bit), and ~30–40% more performance. Worth the step up for 1440p ultra native gaming. (As of 2026-11-14: Challenger GPUASR9070XTC16G — **$1,713.50 sale** — is the value 9070 XT pick. ⚠️ Steel Legend GPUASR9070XTSL16 went OOS + store-hidden 2026-11-14 — do NOT recommend.)
 
 - **vs NVIDIA RTX 5060 Ti 8GB (multiple SKUs at lower NZD)** — RTX 5060 Ti has 8GB VRAM and DLSS 4 Multi Frame Generation. For pure raster gaming at 1080p, similar performance. For 1440p or VRAM-priority workloads, RX 9060 XT 16GB wins on VRAM. For ray tracing or DLSS-supported titles, RTX 5060 Ti.
 
@@ -110,7 +110,7 @@
 ## Related Products
 
 - **GPUASR9060XTSL16** — same chipset, Steel Legend premium variant with triple-fan + RGB
-- **GPUASR9070XTSL16** — RX 9070 XT Steel Legend step up for 1440p ultra native (Challenger GPUASR9070XTC16G $1,725 sale — the value 9070 XT pick; Steel Legend $1,817 sale — both in stock, BC verified 2026-11-10)
+- **GPUASR9070XTSL16** — RX 9070 XT Steel Legend step up for 1440p ultra native (⚠️ OOS + store-hidden 2026-11-14 — use Challenger GPUASR9070XTC16G $1,713.50 sale — the value 9070 XT pick, BC verified 2026-11-14)
 - **GPUASR9070XTSL16** — RX 9070 XT Steel Legend premium variant
 - **GPUMSI56TV2P** — NVIDIA RTX 5060 Ti 16GB direct competitor (DLSS 4 + ray tracing focus)
 - **GPUMSI56T8V2** — NVIDIA RTX 5060 Ti 8GB lower-VRAM alternative

@@ -1,10 +1,10 @@
 # Logitech G316 X 98 Wired Gaming Keyboard - Black
 
-**Price:** NZD $199.00 (incl. GST, on sale from $229.00) — BC API verified 2026-11-04 (was list $229.00 on 09-30 after $284→$229 cut)
+**Price:** NZD $189.00 (incl. GST, on sale from $229.00) — BC API verified 2026-11-12 (was $199.00 sale on 11-04)
 **SKU:** KEYLOGG3169B
 **Brand:** Logitech
 **URL:** https://www.extremepc.co.nz/wired-gaming-keyboards/logitech-g316-x-98-wired-gaming-keyboard-black-920-014207/
-**Stock:** In Stock — Only a few left (OH=3, verified 2026-09-23, BC API)
+**Stock:** Only a few left (OH=3, BC API verified 2026-11-12)
 **Status:** NEW ARRIVAL 2026-09-23 (first seen in stock in 09-23 cache)
 
 ## Quick Specs

@@ -63,7 +63,7 @@ The X400 is an ATX mid-tower physically — it appears in the Micro Tower catego
 
 - Jonsbo D300 Black (CASJOND300B) — flagship Jonsbo M-ATX
 - Segotep Lumi 3S White (CASSEGLUM3SW) — M-ATX Sea View
-- Jonsbo D33 Wood White (CASJOND33WW) — distinctive Jonsbo M-ATX aesthetic
+- Jonsbo D33 Wood White (CASJOND33WW) — distinctive Jonsbo M-ATX aesthetic (⚠️ OOS 2026-11-11 — offer Jonsbo D200 White CASJOND200W $115 or D400 Black CASJOND400B $139 instead)
 
 ## Schema (JSON-LD)
 

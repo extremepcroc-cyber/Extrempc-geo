@@ -1,6 +1,6 @@
 # ASRock AMD Radeon RX9060 Challenger 8GB Graphics Card
 
-**Price:** NZD $724.50 (incl. GST, on sale from $729.00) — BC API verified 2026-11-10 (down from $729.00 on 11-09)
+**Price:** NZD $730.25 (incl. GST, on sale from $759.00) — BC API verified 2026-11-11 (was $724.50 sale on 11-10; $729 list on 11-09)
 **SKU:** GPUASR9060C8
 **URL:** https://www.extremepc.co.nz/video-cards/asrock-amd-rx9060-challenger-8gb-graphics-card/
 **Stock:** We have plenty in stock (OH=30, BC API verified 2026-11-09)

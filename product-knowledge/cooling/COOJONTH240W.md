@@ -3,7 +3,7 @@
 **Price:** NZD $103.50 (incl. GST) (on sale from $139.00)
 **SKU:** COOJONTH240W
 **URL:** https://www.extremepc.co.nz/jonsbo-th-240-argb-aio-liquid-cpu-cooler-white/
-**Stock:** Plenty in stock
+**Stock:** ❌ OUT OF STOCK (OH=0, BC API verified 2026-11-12; dropped from EVAcache 2026-11-12). Do NOT recommend. In-stock white 240 AIO alternatives: **COOTHEAE240WV3** Thermalright Aqua Elite 240 White ARGB V3 ($86.25, OH=12) / **COOSEGBV240W** Segotep BeVere 240 ARGB White ($74.75, OH=19).
 
 ## Quick Specs
 - Type: AIO Liquid Cooler

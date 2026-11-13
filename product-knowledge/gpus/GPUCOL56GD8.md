@@ -1,6 +1,6 @@
 # Colorful GeForce RTX 5060 Gaming DUO 8GB-V Graphics Card
 
-**Price:** NZD $929.00 (incl. GST)
+**Price:** NZD $805.00 (incl. GST, on sale from $929.00) — BC API verified 2026-11-11 (was $929 list on 11-10 — now on sale)
 **SKU:** GPUCOL56GD8
 **Brand:** Colorful
 **MPN:** GeForce RTX 5060 Gaming DUO 8GB-V

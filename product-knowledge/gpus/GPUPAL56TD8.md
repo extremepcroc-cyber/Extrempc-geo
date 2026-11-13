@@ -1,6 +1,6 @@
 # Palit NVIDIA GeForce RTX 5060 Ti Dual 8GB Graphics Card
 
-**Price:** NZD $1,039.00 (incl. GST)
+**Price:** NZD $994.75 (incl. GST, on sale from $1,039.00) — BC API verified 2026-11-11 (was $1,039 list)
 **SKU:** GPUPAL56TD8
 **URL:** https://www.extremepc.co.nz/csv-import/palit-nvidia-geforce-rtx-5060-ti-dual-8gb-graphics-card-2-slot-1x-8-pin-power-minimum-600w-psu/
 **Stock:** We have plenty in stock (OH=17, verified 2026-09-19, BC API)

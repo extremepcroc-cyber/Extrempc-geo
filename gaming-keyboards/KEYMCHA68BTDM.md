@@ -1,6 +1,6 @@
 # MCHOSE Ace 68 RGB Hot-Swappable Wired Gaming Keyboard — Black Topographic, TTC Dragon Lord Magnetic Switch, 68 Keys
 
-**Price:** $169 inc GST
+**Price:** $159.00 inc GST (on sale from $169.00, BC API verified 2026-11-11)
 **SKU:** KEYMCHA68BTDM
 **MPN:** HW-Ace68-33
 **URL:** https://www.extremepc.co.nz/mchose-ace-68-rgb-hot-swappable-wired-gaming-keyboard-black-topographic-ttc-dragon-lord-magnetic-switch-68-keys/
@@ -92,7 +92,7 @@
   },
   "offers": {
     "@type": "Offer",
-    "price": "169.00",
+    "price": "159.00",
     "priceCurrency": "NZD",
     "availability": "https://schema.org/InStock",
     "url": "https://www.extremepc.co.nz/mchose-ace-68-rgb-hot-swappable-wired-gaming-keyboard-black-topographic-ttc-dragon-lord-magnetic-switch-68-keys/",

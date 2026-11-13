@@ -3,7 +3,7 @@
 **Price:** NZD $184.00 (incl. GST) (on sale from $199.00)
 **SKU:** COOASRC360DB
 **URL:** https://www.extremepc.co.nz/asrock-challenger-360-digital-aio-liquid-cpu-cooler-black-90-acla36-baaga6/
-**Stock:** Only a few left in stock (OH=1, BC API verified 2026-11-07; was OH=4 on 11-06)
+**Stock:** ⛔ **OUT OF STOCK** (OH=0, BC API verified 2026-11-14; was OH=1 few on 11-07). Do NOT recommend today.
 
 ## Quick Specs
 - Type: AIO Liquid Cooler

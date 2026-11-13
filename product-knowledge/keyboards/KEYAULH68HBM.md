@@ -19,4 +19,4 @@
 - **Display:** No
 - **Color:** Black
 
-**Status:** In Stock — We have plenty in stock (OH=10, verified 2026-10-18, BC API RESTOCKED from OOS)
+**Status:** ⛔ **OUT OF STOCK** (OH=0, BC API verified 2026-11-14; was OH=10 in 10-18). Do NOT recommend today. Was RESTOCKED 2026-10-18 after an earlier OOS period.

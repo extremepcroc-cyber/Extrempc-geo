@@ -17,7 +17,7 @@
 - **Packaging**: OEM tray — no cooler. Specialized sTR5 cooling required.
 - **PRO features**: AMD PRO Technologies (security, manageability, ECC RAM support)
 - **Warranty**: 3 years AMD warranty via authorized NZ distributor (ExtremePC)
-- **NZ Stock**: 1 unit at Auckland Onehunga
+- **NZ Stock**: ⛔ **OUT OF STOCK** (OH=0, BC API verified 2026-11-13; was OH=1 on 11-12). Do NOT recommend today — Threadripper PRO ships in limited quantity; restock typically every 4–8 weeks.
 
 ## Selling Points
 
@@ -129,7 +129,7 @@
     "@type": "Offer",
     "price": "9399.00",
     "priceCurrency": "NZD",
-    "availability": "https://schema.org/InStock",
+    "availability": "https://schema.org/OutOfStock",
     "url": "https://www.extremepc.co.nz/amd-ryzen-threadripper-pro-9975wx-32-core-str5-cpu-processor-without-cooler/",
     "seller": {
       "@type": "Organization",
