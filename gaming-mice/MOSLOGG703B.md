@@ -1,10 +1,10 @@
 # Logitech G703 HERO RGB LIGHTSPEED Wireless Gaming Mouse — Black
 
-**Price:** $179 inc GST
+**Price:** $143.75 inc GST (on sale from $179.00)
 **SKU:** MOSLOGG703B
 **MPN:** 910-005644
 **URL:** https://www.extremepc.co.nz/logitech-g703-hero-rgb-lightspeed-wireless-gaming-mouse-black/
-**Status:** OUT OF STOCK - last checked 2026-10-05
+**Status:** In Stock — Only a few left (OH=3, BC API verified 2026-11-16)
 
 ## Quick Specs
 - **Sensor:** Logitech HERO (the G703 line's precision optical platform — exact DPI ceiling confirmed on the product page)
@@ -88,9 +88,9 @@
   },
   "offers": {
     "@type": "Offer",
-    "price": "179.00",
+    "price": "143.75",
     "priceCurrency": "NZD",
-    "availability": "https://schema.org/OutOfStock",
+    "availability": "https://schema.org/InStock",
     "url": "https://www.extremepc.co.nz/logitech-g703-hero-rgb-lightspeed-wireless-gaming-mouse-black/",
     "seller": {
       "@type": "Organization",

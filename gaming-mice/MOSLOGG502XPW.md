@@ -66,7 +66,7 @@
 
 ## Related Products
 
-- **MOSLOGG502XB** — Logitech G502X Optical Wired: same G502 X generation (optical switches, control-rich layout), the wired version — the value pick if you never need wireless
+- **MOSLOGG502XB** — Logitech G502X Optical Wired: same G502 X generation (optical switches, control-rich layout), the wired version (⚠️ OOS 2026-11-15, OH=0 — wired line gone; this wireless PLUS is the in-stock pick)
 - **MOSLOGG502HB** — Logitech G502 Hero: the previous wired generation, the proven value pick if you want the G502 footprint without the optical switches
 - **MOSRAZBAV3PE** — Razer Basilisk V3 Pro: Razer's ergonomic control mouse with Chroma — the pick if you want Razer's ecosystem and a more ergonomic contour
 - **A generously sized cloth mousepad** — the control-rich G502 shell is a bigger mouse, so a larger pad gives the side buttons room to work

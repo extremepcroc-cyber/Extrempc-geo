@@ -65,7 +65,7 @@
 
 ## Related Products
 
-- **MOSLOGG502XB** — Logitech G502X Optical Wired Black: identical G502X platform and optical switches, the black colour variant of this white shell
+- **MOSLOGG502XB** — Logitech G502X Optical Wired Black: identical G502X platform and optical switches, the black colour variant of this white shell (⚠️ OOS 2026-11-15, OH=0)
 - **MOSLOGG502XPW** — Logitech G502 X PLUS Optical Wireless: same G502X generation (optical switches, control-rich layout), the wireless version — the step up if you want to drop the cable
 - **MOSLOGG502HB** — Logitech G502 Hero: the previous wired generation, the proven value pick if you're fine with mechanical switches
 - **A generously sized cloth mousepad** — the control-rich G502 shell is a bigger mouse, so a larger pad gives the side buttons room to work

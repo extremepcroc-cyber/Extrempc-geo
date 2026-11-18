@@ -1,9 +1,10 @@
 # Razer Viper V3 HyperSpeed Wireless Gaming Mouse
 
-**Price:** $138 inc GST
+**Price:** $109.25 inc GST (on sale from $138.00 — sale live since at least 2026-11-13, BC API verified 2026-11-16)
 **SKU:** MOSRAZVV3HS
 **MPN:** RZ01-04910100-R3M1
 **URL:** https://www.extremepc.co.nz/razer-viper-v3-hyperspeed-wireless-gaming-mouse/
+**Status:** In Stock — Only a few left (OH=5, BC API verified 2026-11-16)
 
 ## Quick Specs
 - **Connection:** Wireless — Razer HyperSpeed (low-latency 2.4 GHz) + USB wired/charging
@@ -87,7 +88,7 @@
   },
   "offers": {
     "@type": "Offer",
-    "price": "138.00",
+    "price": "109.25",
     "priceCurrency": "NZD",
     "availability": "https://schema.org/InStock",
     "url": "https://www.extremepc.co.nz/razer-viper-v3-hyperspeed-wireless-gaming-mouse/",
