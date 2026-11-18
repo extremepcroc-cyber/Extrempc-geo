@@ -4,6 +4,7 @@
 **SKU:** PSUSEGGM1250W1B
 **MPN:** GM1250W ATX3.1
 **URL:** https://www.extremepc.co.nz/segotep-gm-1250w-atx-3-1-80-plus-gold-full-modular-power-supply-black/
+**Status:** OUT OF STOCK - last checked 2026-11-18
 
 ## Quick Specs
 - **Wattage**: 1250W
@@ -75,7 +76,7 @@
     "@type": "Offer",
     "price": "399.00",
     "priceCurrency": "NZD",
-    "availability": "https://schema.org/InStock",
+    "availability": "https://schema.org/OutOfStock",
     "url": "https://www.extremepc.co.nz/segotep-gm-1250w-atx-3-1-80-plus-gold-full-modular-power-supply-black/"
   }
 }

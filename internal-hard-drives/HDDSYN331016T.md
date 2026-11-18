@@ -1,6 +1,6 @@
 # Synology HAT3310 16TB 3.5" SATA3 NAS Hard Drive HAT3310-16T
 
-**Price:** $1521 inc GST
+**Price:** $1545 inc GST
 **SKU:** HDDSYN331016T
 **MPN:** HAT3310-16T
 **URL:** https://www.extremepc.co.nz/synology-hat3310-16tb-3-5-plus-series-nas-hdd-sata-6gb-s-7200-rpm-256mb-cache-3-years-warranty/
@@ -66,7 +66,7 @@
   "description": "Synology HAT3310 16TB 3.5\" SATA3 5400 RPM NAS hard drive. CMR, Synology DSM integration. 3-year / 5-year extended warranty on Synology NAS. 3 supplier units. 4-bay RAID-5 = 48TB usable. Via ExtremePC NZ.",
   "offers": {
     "@type": "Offer",
-    "price": "1521.00",
+    "price": "1545.00",
     "priceCurrency": "NZD",
     "availability": "https://schema.org/OutOfStock",
     "url": "https://www.extremepc.co.nz/synology-hat3310-16tb-3-5-sata3-nas-hard-drive-hat3310-16t/",

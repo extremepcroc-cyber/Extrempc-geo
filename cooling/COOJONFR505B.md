@@ -1,6 +1,6 @@
 # Jonsbo FR-505B (120mm PWM ARGB Case Fan, Black)
 
-**Price:** $19.55 inc GST (sale from $29.00, BC API verified 2026-11-01)
+**Price:** $29 inc GST (sale from $29.00, BC API verified 2026-11-01)
 **SKU:** COOJONFR505B
 **MPN:** FR-505B
 **URL:** https://www.extremepc.co.nz/jonsbo-fr-505b-25mm-argb-case-fan-black-positive/

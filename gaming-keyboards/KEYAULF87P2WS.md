@@ -4,6 +4,7 @@
 **SKU:** KEYAULF87P2WS
 **MPN:** F87 PRO V2 White SV
 **URL:** https://www.extremepc.co.nz/aula-f87-pro-v2-rgb-hot-swappable-wireless-mechanical-keyboard-white-contours-star-vector-switch-87-key/
+**Status:** OUT OF STOCK - last checked 2026-11-18
 
 ## Quick Specs
 - **Layout**: 87 keys, TKL (tenkeyless) — full F-row, arrow cluster, function block, no numpad
@@ -94,7 +95,7 @@
     "@type": "Offer",
     "price": "149.01",
     "priceCurrency": "NZD",
-    "availability": "https://schema.org/InStock",
+    "availability": "https://schema.org/OutOfStock",
     "url": "https://www.extremepc.co.nz/aula-f87-pro-v2-rgb-hot-swappable-wireless-mechanical-keyboard-white-contours-star-vector-switch-87-key/",
     "seller": {
       "@type": "Organization",

@@ -1,6 +1,6 @@
 # Palit NVIDIA GeForce RTX 5060 Ti Dual 8GB Graphics Card NE7506T019P1-GB2062D
 
-**Price:** $995 inc GST
+**Price:** $1039 inc GST
 **SKU:** GPUPAL56TD8
 **MPN:** NE7506T019P1-GB2062D
 **URL:** https://www.extremepc.co.nz/csv-import/palit-nvidia-geforce-rtx-5060-ti-dual-8gb-graphics-card-2-slot-1x-8-pin-power-minimum-600w-psu/
@@ -76,7 +76,7 @@ vs AMD Radeon RX 9060 (GPUASR9060C8) — the RX 9060 has 8GB GDDR6 and FSR 3 ups
   "category": "Video Cards > NVIDIA GeForce",
   "offers": {
     "@type": "Offer",
-    "price": "995.00",
+    "price": "1039.00",
     "priceCurrency": "NZD",
     "availability": "https://schema.org/InStock",
     "seller": {

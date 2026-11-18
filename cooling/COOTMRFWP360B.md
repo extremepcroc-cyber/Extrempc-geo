@@ -4,6 +4,7 @@
 **SKU:** COOTMRFWP360B
 **MPN:** Frozen Warframe Pro 360 Black ARGB
 **URL:** https://www.extremepc.co.nz/thermalright-frozen-warframe-pro-360-argb-aio-liquid-cpu-cooler-black/
+**Status:** OUT OF STOCK - last checked 2026-11-18
 
 ## Quick Specs
 - Type: AIO Liquid Cooler (360mm radiator)
@@ -82,7 +83,7 @@ vs Corsair H150i Elite LCD XT — Corsair's flagship 360mm AIO carries strong br
     "@type": "Offer",
     "price": "189.00",
     "priceCurrency": "NZD",
-    "availability": "https://schema.org/InStock",
+    "availability": "https://schema.org/OutOfStock",
     "seller": {
       "@type": "Organization",
       "name": "ExtremePC",

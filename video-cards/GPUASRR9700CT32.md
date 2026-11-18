@@ -1,6 +1,6 @@
 # ASRock Radeon AI PRO R9700 Creator 32GB Professional Graphics Card
 
-**Price:** $3864 inc GST
+**Price:** $3999 inc GST
 **SKU:** GPUASRR9700CT32
 **MPN:** R9700 CT 32G
 **URL:** https://www.extremepc.co.nz/amd-radeon/asrock-radeon-ai-pro-r9700-creator-32gb-professional-graphics-card/
@@ -76,7 +76,7 @@ vs Intel Arc Pro B65 (GPUASRB65C32) — the B65 has 32GB GDDR6 and Xe-HPG. The R
   "category": "Video Cards > AMD Radeon AI PRO",
   "offers": {
     "@type": "Offer",
-    "price": "3864.00",
+    "price": "3999.00",
     "priceCurrency": "NZD",
     "availability": "https://schema.org/InStock",
     "seller": {

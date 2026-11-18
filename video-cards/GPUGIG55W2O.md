@@ -1,6 +1,6 @@
 # Gigabyte GeForce RTX 5050 WINDFORCE OC V2 8GB GDDR6 Graphics Card
 
-**Price:** $690 inc GST
+**Price:** $799 inc GST
 **SKU:** GPUGIG55W2O
 **MPN:** GV-N5050WF2OCV2-8GD
 **URL:** https://www.extremepc.co.nz/rtx-50-series/gigabyte-geforce-rtx-5050-windforce-oc-v2-8gb-gddr6-graphics-card-gv-n5050wf2ocv2-8gd/
@@ -77,7 +77,7 @@ vs Intel Arc B570 (GPUASRB570C) — the B570 has 10GB GDDR6 and XeSS upscaling. 
   "category": "Video Cards > NVIDIA GeForce",
   "offers": {
     "@type": "Offer",
-    "price": "690.00",
+    "price": "799.00",
     "priceCurrency": "NZD",
     "availability": "https://schema.org/InStock",
     "seller": {

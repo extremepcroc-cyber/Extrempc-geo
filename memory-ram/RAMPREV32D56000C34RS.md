@@ -4,6 +4,7 @@
 **SKU:** RAMPREV32D56000C34RS
 **MPN:** BL.9BWWR.653
 **URL:** https://www.extremepc.co.nz/predator-vesta-ii-32gb-2-x-16gb-ddr5-6000mhz-desktop-memory-cl34-rgb-silver-intel-xpm-3-0-compliant-amd-expo-memory/
+**Status:** OUT OF STOCK - last checked 2026-11-18
 
 ## Quick Specs
 - **Capacity**: 32GB total (2× 16GB matched dual-channel kit)
@@ -128,7 +129,7 @@
     "@type": "Offer",
     "price": "859.00",
     "priceCurrency": "NZD",
-    "availability": "https://schema.org/InStock",
+    "availability": "https://schema.org/OutOfStock",
     "url": "https://www.extremepc.co.nz/predator-vesta-ii-32gb-2-x-16gb-ddr5-6000mhz-desktop-memory-cl34-rgb-silver-intel-xpm-3-0-compliant-amd-expo-memory/",
     "seller": {
       "@type": "Organization",

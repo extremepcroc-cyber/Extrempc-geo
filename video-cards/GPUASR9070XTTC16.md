@@ -1,6 +1,6 @@
 # ASRock AMD Radeon RX 9070 XT Taichi 16GB GDDR6 Graphics Card
 
-**Price:** $1771 inc GST
+**Price:** $1959 inc GST
 **SKU:** GPUASR9070XTTC16
 **MPN:** RX9070XT TC 16GO
 **URL:** https://www.extremepc.co.nz/asrock-amd-radeon-rx-9070-xt-taichi-16gb-gddr6-graphics-card/
@@ -76,7 +76,7 @@ vs NVIDIA GeForce RTX 5070 Ti 16GB (GPUASU5070TPO16) — the RTX 5070 Ti has 16G
   "category": "Video Cards > AMD Radeon",
   "offers": {
     "@type": "Offer",
-    "price": "1771.00",
+    "price": "1959.00",
     "priceCurrency": "NZD",
     "availability": "https://schema.org/InStock",
     "seller": {

@@ -4,6 +4,7 @@
 **SKU:** SSDHPFX900P512
 **MPN:** 7F617AA
 **URL:** https://www.extremepc.co.nz/hp-fx900-plus-512gb-gen4x4-nvme-m-2-r-w-7100-3800-ssd-plus-for-pc-and-laptops/
+**Status:** OUT OF STOCK - last checked 2026-11-18
 
 ## Quick Specs
 - **Capacity**: 512GB
@@ -116,7 +117,7 @@
     "@type": "Offer",
     "price": "229.00",
     "priceCurrency": "NZD",
-    "availability": "https://schema.org/InStock",
+    "availability": "https://schema.org/OutOfStock",
     "url": "https://www.extremepc.co.nz/hp-fx900-plus-512gb-gen4x4-nvme-m-2-r-w-7100-3800-ssd-plus-for-pc-and-laptops/",
     "seller": {
       "@type": "Organization",

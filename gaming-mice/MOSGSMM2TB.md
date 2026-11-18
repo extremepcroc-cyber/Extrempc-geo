@@ -4,6 +4,7 @@
 **SKU:** MOSGSMM2TB
 **MPN:** Mercury M2 Transparent Black
 **URL:** https://www.extremepc.co.nz/gravastar-mercury-m2-wireless-gaming-mouse-transparent-black/
+**Status:** OUT OF STOCK - last checked 2026-11-18
 
 ## Quick Specs
 - **Connection:** Wireless — 2.4 GHz via USB dongle + USB-C wired/charging
@@ -89,7 +90,7 @@
     "@type": "Offer",
     "price": "169.00",
     "priceCurrency": "NZD",
-    "availability": "https://schema.org/InStock",
+    "availability": "https://schema.org/OutOfStock",
     "url": "https://www.extremepc.co.nz/gravastar-mercury-m2-wireless-gaming-mouse-transparent-black/",
     "seller": {
       "@type": "Organization",

@@ -4,6 +4,7 @@
 **SKU:** COOJONZB36WR
 **MPN:** ZB-360WR
 **URL:** https://www.extremepc.co.nz/case-fans/jonsbo-zb-360wr-argb-360mm-reverse-case-fan-white/
+**Status:** OUT OF STOCK - last checked 2026-11-18
 **Status:** ⛔ **OUT OF STOCK** (OH=0, BC API verified 2026-11-16; was OH=2 on 11-15) — Do NOT recommend until restocked.
 ⚠️ Siblings still in stock (BC verified 2026-11-16): **COOJONZB360W** 白正转 (OH=2, $63.25) / **COOJONZB360B** 黑正转 (OH=1, $63.25) — 同系 360mm 正转款；反转需求请用 **COOJONZB36BR** 黑反转（⚠️ 该卡 10-30 起亦 OOS，推前核实）或 **COOJONZB24WR** 240mm 白反转 (OH=4, $51.75)。
 

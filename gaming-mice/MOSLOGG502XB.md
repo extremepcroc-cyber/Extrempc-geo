@@ -4,6 +4,7 @@
 **SKU:** MOSLOGG502XB
 **MPN:** 910-006140
 **URL:** https://www.extremepc.co.nz/logitech-g502-x-optical-wired-gaming-mouse---black/
+**Status:** OUT OF STOCK - last checked 2026-11-18
 **Status:** ❌ OUT OF STOCK (Onehunga OH=0, BC API verified 2026-11-15 — do NOT recommend). ⚠️ Wired G502X line fully gone (white MOSLOGG502XW also OOS). In-stock siblings: G502 X PLUS Wireless White (MOSLOGG502XPW, $229 sale) / X PLUS Wireless Black (MOSLOGG502XPBK, $249) / G502 Hero wired Black (MOSLOGG502HB, $86.25 sale).
 
 ## Quick Specs

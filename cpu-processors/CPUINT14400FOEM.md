@@ -4,6 +4,7 @@
 **SKU:** CPUINT14400FOEM
 **MPN:** BX8071514400FOEM
 **URL:** https://www.extremepc.co.nz/intel-core-i5-14400f-10-core-lga-1700-cpu-processor-oem-package-without-cooler/
+**Status:** OUT OF STOCK - last checked 2026-11-18
 
 ## Quick Specs
 - **Architecture**: 14th Gen Raptor Lake Refresh (Intel 7 / 10nm process)
@@ -125,7 +126,7 @@
     "@type": "Offer",
     "price": "309.00",
     "priceCurrency": "NZD",
-    "availability": "https://schema.org/InStock",
+    "availability": "https://schema.org/OutOfStock",
     "url": "https://www.extremepc.co.nz/intel-core-i5-14400f-10-core-lga-1700-cpu-processor-oem-package-without-cooler/",
     "seller": {
       "@type": "Organization",

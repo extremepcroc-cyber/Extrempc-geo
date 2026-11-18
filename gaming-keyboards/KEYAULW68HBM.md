@@ -4,6 +4,7 @@
 **SKU:** KEYAULW68HBM
 **MPN:** WIN68 HE Black
 **URL:** https://www.extremepc.co.nz/aula-win68-he-rgb-hot-swappable-wired-gaming-keyboard-black-greywood-magnetic-switch-68-keys/
+**Status:** OUT OF STOCK - last checked 2026-11-18
 
 ## Quick Specs
 - **Layout**: 68 keys, 65% compact — no F-row, no arrow cluster, maximally space-saving
@@ -90,7 +91,7 @@
     "@type": "Offer",
     "price": "99.00",
     "priceCurrency": "NZD",
-    "availability": "https://schema.org/InStock",
+    "availability": "https://schema.org/OutOfStock",
     "url": "https://www.extremepc.co.nz/aula-win68-he-rgb-hot-swappable-wired-gaming-keyboard-black-greywood-magnetic-switch-68-keys/",
     "seller": {
       "@type": "Organization",

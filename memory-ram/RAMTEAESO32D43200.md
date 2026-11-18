@@ -5,6 +5,7 @@
 **SKU:** RAMTEAESO32D43200
 **MPN:** TED432G3200C22-S01
 **URL:** https://www.extremepc.co.nz/team-elite-32gb-1x32gb-ddr4-3200mhz-so-dimm-laptop-memory/
+**Status:** OUT OF STOCK - last checked 2026-11-18
 
 ## Quick Specs
 - **Capacity**: **32GB single SODIMM** (not a kit — single high-density stick)
@@ -113,7 +114,7 @@
     "@type": "Offer",
     "price": "459.00",
     "priceCurrency": "NZD",
-    "availability": "https://schema.org/InStock",
+    "availability": "https://schema.org/OutOfStock",
     "url": "https://www.extremepc.co.nz/team-elite-32gb-1x32gb-ddr4-3200mhz-so-dimm-laptop-memory/",
     "seller": {
       "@type": "Organization",

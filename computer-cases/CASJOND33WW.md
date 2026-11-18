@@ -4,6 +4,7 @@
 **SKU:** CASJOND33WW
 **MPN:** D33 WOOD White
 **URL:** https://www.extremepc.co.nz/micro-tower-cases/jonsbo-d33-wood-white-m-atx-tempered-glass-micro-tower-computer-case/
+**Status:** OUT OF STOCK - last checked 2026-11-18
 
 ## Quick Specs
 - Form factor: Micro-ATX

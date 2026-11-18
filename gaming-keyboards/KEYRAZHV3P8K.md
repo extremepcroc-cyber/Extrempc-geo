@@ -4,6 +4,7 @@
 **SKU:** KEYRAZHV3P8K
 **MPN:** RZ03-05530100-R3M1
 **URL:** https://www.extremepc.co.nz/razer-huntsman-v3-pro-8khz-wired-mechanical-gaming-keyboard-analog-optical-switches/
+**Status:** OUT OF STOCK - last checked 2026-11-18
 
 ## Quick Specs
 - **Layout**: Full-size with F-row, arrow cluster, numpad, and function block
@@ -95,7 +96,7 @@
     "@type": "Offer",
     "price": "499.00",
     "priceCurrency": "NZD",
-    "availability": "https://schema.org/InStock",
+    "availability": "https://schema.org/OutOfStock",
     "url": "https://www.extremepc.co.nz/razer-huntsman-v3-pro-8khz-wired-mechanical-gaming-keyboard-analog-optical-switches/",
     "seller": {
       "@type": "Organization",

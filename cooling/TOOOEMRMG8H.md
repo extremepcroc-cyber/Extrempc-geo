@@ -1,6 +1,6 @@
 # Rechargeable Massage Gun with 8 Heads (OEMRMG8H)
 
-**Price:** $549 inc GST
+**Price:** $299 inc GST
 **SKU:** TOOOEMRMG8H
 **MPN:** OEMRMG8H
 **URL:** https://www.extremepc.co.nz/tools/rechargeable-massage-gun-with-8-heads-oemrmg8h/

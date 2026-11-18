@@ -1,6 +1,6 @@
 # Asrock Intel Arc Pro B65 Creator 32G GDDR6 Graphics Card
 
-**Price:** $2760 inc GST
+**Price:** $2899 inc GST
 **SKU:** GPUASRB65C32
 **MPN:** B65 CT 32G
 **URL:** https://www.extremepc.co.nz/workstation/asrock-intel-arc-pro-b65-creator-32g-gddr6-graphics-card/
@@ -76,7 +76,7 @@ vs AMD Radeon RX 7900 XTX (GPUASU7900XTX24) — the 7900 XTX has 24GB GDDR6 and 
   "category": "Video Cards > Intel Arc Pro",
   "offers": {
     "@type": "Offer",
-    "price": "2760.00",
+    "price": "2899.00",
     "priceCurrency": "NZD",
     "availability": "https://schema.org/InStock",
     "seller": {

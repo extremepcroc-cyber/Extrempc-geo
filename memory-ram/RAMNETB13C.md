@@ -1,6 +1,6 @@
 # Netac Basic 16GB DDR4-3200 SODIMM Laptop RAM
 
-**Price:** $299.00 inc GST
+**Price:** $315 inc GST
 **Stock:** 23 units in stock (Onehunga: 9)
 **SKU:** RAMNETB13C
 **MPN:** NTBSD4N32SP-16
@@ -114,7 +114,7 @@
   },
   "offers": {
     "@type": "Offer",
-    "price": "299.00",
+    "price": "315.00",
     "priceCurrency": "NZD",
     "availability": "https://schema.org/OutOfStock",
     "url": "https://www.extremepc.co.nz/netac-basic-16gb-ddr4-3200-sodimm-laptop-ram-ntbsd4n32sp-16/",

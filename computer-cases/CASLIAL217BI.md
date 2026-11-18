@@ -4,6 +4,7 @@
 **SKU:** CASLIAL217BI
 **MPN:** TBC
 **URL:** https://www.extremepc.co.nz/mid-tower-cases/lian-li-lancool-217-inf-tempered-glass-atx-mid-tower-gaming-case-black-infinity/
+**Status:** OUT OF STOCK - last checked 2026-11-18
 
 ## Quick Specs
 - Form factor: ATX mid-tower

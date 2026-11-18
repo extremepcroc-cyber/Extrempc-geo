@@ -4,6 +4,7 @@
 **SKU:** MOSLOGG502XW
 **MPN:** 910-006148
 **URL:** https://www.extremepc.co.nz/logitech-g502-x-optical-wired-gaming-mouse---white/
+**Status:** OUT OF STOCK - last checked 2026-11-18
 
 ## Quick Specs
 - **Switches:** Logitech optical switches — light-beam actuation, eliminates the mechanical double-click failure mode (named "Optical" in the G502X line)
@@ -89,7 +90,7 @@
     "@type": "Offer",
     "price": "139.00",
     "priceCurrency": "NZD",
-    "availability": "https://schema.org/InStock",
+    "availability": "https://schema.org/OutOfStock",
     "url": "https://www.extremepc.co.nz/logitech-g502-x-optical-wired-gaming-mouse---white/",
     "seller": {
       "@type": "Organization",

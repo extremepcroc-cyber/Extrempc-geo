@@ -1,6 +1,6 @@
 # Colorful GeForce RTX 5060 Gaming DUO 8GB-V Graphics Card
 
-**Price:** $805 inc GST
+**Price:** $929 inc GST
 **SKU:** GPUCOL56GD8
 **MPN:** GeForce RTX 5060 Gaming DUO 8GB-V
 **URL:** https://www.extremepc.co.nz/nvidia-geforce/colorful-geforce-rtx-5060-gaming-duo-8gb-v-graphics-card/
@@ -76,7 +76,7 @@ vs NVIDIA GeForce RTX 5060 Ti 8GB (GPUASU5060TDO8) — the 5060 Ti has 8GB GDDR7
   "category": "Video Cards > NVIDIA GeForce",
   "offers": {
     "@type": "Offer",
-    "price": "805.00",
+    "price": "929.00",
     "priceCurrency": "NZD",
     "availability": "https://schema.org/InStock",
     "seller": {

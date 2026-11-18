@@ -1,6 +1,6 @@
 # Colorful GeForce RTX 5050 Gaming 8GB-V Graphics Card
 
-**Price:** $656 inc GST
+**Price:** $799 inc GST
 **SKU:** GPUCOL55G8
 **MPN:** GeForce RTX 5050 Gaming 8GB-V
 **URL:** https://www.extremepc.co.nz/rtx-50-series/colorful-geforce-rtx-5050-gaming-8gb-v-graphics-card/
@@ -76,7 +76,7 @@ vs Intel Arc B570 (GPUASRB570C) — the B570 has 10GB GDDR6 and XeSS upscaling. 
   "category": "Video Cards > NVIDIA GeForce",
   "offers": {
     "@type": "Offer",
-    "price": "656.00",
+    "price": "799.00",
     "priceCurrency": "NZD",
     "availability": "https://schema.org/InStock",
     "seller": {

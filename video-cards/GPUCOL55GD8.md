@@ -1,6 +1,6 @@
 # Colorful GeForce RTX 5050 Gaming DUO 8GB-V
 
-**Price:** $632 inc GST
+**Price:** $799 inc GST
 **SKU:** GPUCOL55GD8
 **MPN:** GeForce RTX 5050 Gaming DUO 8GB-V
 **URL:** https://www.extremepc.co.nz/rtx-50-series/colorful-geforce-rtx-5050-gaming-duo-8gb-v/
@@ -76,7 +76,7 @@ vs AMD Radeon RX 9060 (GPUASR9060C8) — the RX 9060 has 8GB GDDR6 and FSR 3 ups
   "category": "Video Cards > NVIDIA GeForce",
   "offers": {
     "@type": "Offer",
-    "price": "632.00",
+    "price": "799.00",
     "priceCurrency": "NZD",
     "availability": "https://schema.org/InStock",
     "seller": {

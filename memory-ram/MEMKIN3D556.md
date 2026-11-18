@@ -4,6 +4,7 @@
 **SKU:** MEMKIN3D556
 **MPN:** KSM56R46BD8PMI-32HAI
 **URL:** https://www.extremepc.co.nz/csv-import/kingston-32gb-ddr5-5600mt-s-ecc-reg-cl46-rdimm-2rx-ksm56r46bd8pmi-32hai/
+**Status:** OUT OF STOCK - last checked 2026-11-18
 
 ## Quick Specs
 - **Capacity**: 32GB single module

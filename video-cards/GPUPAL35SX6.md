@@ -1,6 +1,6 @@
 # Palit GeForce RTX 3050 StormX 6GB GDDR6 Graphics Card NE63050018JE-1072F
 
-**Price:** $460 inc GST
+**Price:** $489 inc GST
 **SKU:** GPUPAL35SX6
 **MPN:** NE63050018JE-1072F
 **URL:** https://www.extremepc.co.nz/csv-import/palit-stormx-nvidia-geforce-rtx-3050-6gb-graphics-card-2-slot-displayport-hdmi-dvi-minimum-300w-psu/
@@ -76,7 +76,7 @@ vs AMD Radeon RX 7600 (if in stock) — the RX 7600 has 8GB GDDR6 and FSR 3. The
   "category": "Video Cards > NVIDIA GeForce",
   "offers": {
     "@type": "Offer",
-    "price": "460.00",
+    "price": "489.00",
     "priceCurrency": "NZD",
     "availability": "https://schema.org/InStock",
     "seller": {

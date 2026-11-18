@@ -1,6 +1,6 @@
 # ASRock AMD RX9060 Challenger 8GB Graphics Card
 
-**Price:** $713 inc GST
+**Price:** $759 inc GST
 **SKU:** GPUASR9060C8
 **MPN:** RX9060 CL 8GB
 **URL:** https://www.extremepc.co.nz/video-cards/asrock-amd-rx9060-challenger-8gb-graphics-card/
@@ -75,7 +75,7 @@ vs Intel Arc B570 (GPUASRB570C) — the B570 has 10GB GDDR6 and XeSS upscaling. 
   "category": "Video Cards > AMD Radeon",
   "offers": {
     "@type": "Offer",
-    "price": "713.00",
+    "price": "759.00",
     "priceCurrency": "NZD",
     "availability": "https://schema.org/InStock",
     "seller": {

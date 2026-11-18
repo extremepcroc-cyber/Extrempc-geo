@@ -4,6 +4,7 @@
 **SKU:** HDSRAZBSV2X
 **MPN:** RZ04-03240100-R3M1
 **URL:** https://www.extremepc.co.nz/razer-blackshark-v2-x-wired-gaming-headset/
+**Status:** OUT OF STOCK - last checked 2026-11-18
 
 ## Quick Specs
 - Type: Over-ear wired gaming headset
@@ -75,7 +76,7 @@ vs MCHOSE X9 Pro Wireless White — the MCHOSE is a wireless option at a similar
     "@type": "Offer",
     "price": "89.00",
     "priceCurrency": "NZD",
-    "availability": "https://schema.org/InStock",
+    "availability": "https://schema.org/OutOfStock",
     "seller": {
       "@type": "Organization",
       "name": "ExtremePC",

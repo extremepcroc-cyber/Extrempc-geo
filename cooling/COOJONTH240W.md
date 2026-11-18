@@ -4,6 +4,7 @@
 **SKU:** COOJONTH240W
 **MPN:** TH-240 White
 **URL:** https://www.extremepc.co.nz/jonsbo-th-240-argb-aio-liquid-cpu-cooler-white/
+**Status:** OUT OF STOCK - last checked 2026-11-18
 
 ## Quick Specs
 - Type: AIO Liquid Cooler (240mm radiator)
@@ -85,7 +86,7 @@
     "@type": "Offer",
     "price": "139.00",
     "priceCurrency": "NZD",
-    "availability": "https://schema.org/InStock",
+    "availability": "https://schema.org/OutOfStock",
     "seller": {
       "@type": "Organization",
       "name": "ExtremePC",

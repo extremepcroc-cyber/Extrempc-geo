@@ -4,6 +4,7 @@
 **SKU:** HDSRAZKV4X
 **MPN:** RZ04-05180100-R3M1
 **URL:** https://www.extremepc.co.nz/razer-kraken-v4-x-wired-gaming-headset/
+**Status:** OUT OF STOCK - last checked 2026-11-18
 
 ## Quick Specs
 - Type: Over-ear wired gaming headset
@@ -76,7 +77,7 @@ vs Razer Kraken V4 Wireless — the wireless version adds 2.4GHz HyperSpeed wire
     "@type": "Offer",
     "price": "159.00",
     "priceCurrency": "NZD",
-    "availability": "https://schema.org/InStock",
+    "availability": "https://schema.org/OutOfStock",
     "seller": {
       "@type": "Organization",
       "name": "ExtremePC",

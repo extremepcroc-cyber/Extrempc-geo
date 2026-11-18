@@ -1,6 +1,6 @@
 # ASRock Intel Arc B570 Challenger 10GB OC GDDR6 Graphics Card B570 CL 10GO
 
-**Price:** $488 inc GST
+**Price:** $529 inc GST
 **SKU:** GPUASRB570C
 **MPN:** B570 CL 10GO
 **URL:** https://www.extremepc.co.nz/intel-arc/asrock-intel-arc-b570-challenger-10gb-oc-gddr6-graphics-card-2-slot-1x-8-pin-power-minimum-600w-psu/
@@ -76,7 +76,7 @@ vs AMD Radeon RX 9070 GRE 12GB (GPUASR9070GSLD12) — the 9070 GRE has 12GB VRAM
   "category": "Video Cards > Intel Arc",
   "offers": {
     "@type": "Offer",
-    "price": "488.00",
+    "price": "529.00",
     "priceCurrency": "NZD",
     "availability": "https://schema.org/InStock",
     "seller": {

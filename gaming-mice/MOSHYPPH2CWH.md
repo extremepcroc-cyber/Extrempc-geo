@@ -4,6 +4,7 @@
 **SKU:** MOSHYPPH2CWH
 **MPN:** 8R2E7AA
 **URL:** https://www.extremepc.co.nz/hyperx-pulsefire-haste-2-core-wireless-gaming-mouse-white/
+**Status:** OUT OF STOCK - last checked 2026-11-18
 **Stock:** Only a few left in stock (Onehunga: 1)
 
 > **Note:** The exact sensor (DPI ceiling / IPS), switch type, and weight for this specific SKU are not in the local spec sheet — confirm on the product page or with the store (09 849 4888) before relying on any single spec. The Pulsefire Haste 2 line is HyperX's lightweight, flat esports-shape mouse.
@@ -95,7 +96,7 @@
     "@type": "Offer",
     "price": "98.00",
     "priceCurrency": "NZD",
-    "availability": "https://schema.org/InStock",
+    "availability": "https://schema.org/OutOfStock",
     "url": "https://www.extremepc.co.nz/hyperx-pulsefire-haste-2-core-wireless-gaming-mouse-white/",
     "seller": {
       "@type": "Organization",

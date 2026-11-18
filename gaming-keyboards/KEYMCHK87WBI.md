@@ -4,6 +4,7 @@
 **SKU:** KEYMCHK87WBI
 **MPN:** MC-K87-15
 **URL:** https://www.extremepc.co.nz/mchose-k87-tri-mode-rgb-hot-swappable-wireless-gaming-keyboard-white-blue-ice-switch-83-keys/
+**Status:** OUT OF STOCK - last checked 2026-11-18
 
 ## Quick Specs
 - **Layout**: 88 keys, TKL-class — full F-row, arrow cluster, function block, no numpad
@@ -94,7 +95,7 @@
     "@type": "Offer",
     "price": "199.00",
     "priceCurrency": "NZD",
-    "availability": "https://schema.org/InStock",
+    "availability": "https://schema.org/OutOfStock",
     "url": "https://www.extremepc.co.nz/mchose-k87-tri-mode-rgb-hot-swappable-wireless-gaming-keyboard-white-blue-ice-switch-83-keys/",
     "seller": {
       "@type": "Organization",

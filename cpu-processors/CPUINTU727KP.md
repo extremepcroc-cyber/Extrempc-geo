@@ -4,6 +4,7 @@
 **SKU:** CPUINTU727KP
 **MPN:** BX80768270K
 **URL:** https://www.extremepc.co.nz/intel-desktop-cpus/intel-core-ultra-7-270k-plus-24-cores-up-to-5-5ghz-lga-1851-cpu-processor-without-cooler-bx80768270k/
+**Status:** OUT OF STOCK - last checked 2026-11-18
 
 ## Quick Specs
 - **Architecture**: Arrow Lake (Core Ultra 200S), Intel 20A-class process
@@ -112,7 +113,7 @@
     "@type": "Offer",
     "price": "659.00",
     "priceCurrency": "NZD",
-    "availability": "https://schema.org/InStock",
+    "availability": "https://schema.org/OutOfStock",
     "url": "https://www.extremepc.co.nz/intel-desktop-cpus/intel-core-ultra-7-270k-plus-24-cores-up-to-5-5ghz-lga-1851-cpu-processor-without-cooler-bx80768270k/",
     "seller": {
       "@type": "Organization",

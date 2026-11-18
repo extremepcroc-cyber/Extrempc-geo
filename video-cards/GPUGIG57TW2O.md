@@ -4,6 +4,7 @@
 **SKU:** GPUGIG57TW2O
 **MPN:** GV-N507TWF3OCV2-16GD
 **URL:** https://www.extremepc.co.nz/csv-import/gigabyte-nvidia-geforce-rtx-5070-ti-windforce-oc-v2-16gb-gddr7-graphics-card-pcie-5-0-2-5-slot-1x-16-pin-power-minimum-750w-psu/
+**Status:** OUT OF STOCK - last checked 2026-11-18
 
 ## Quick Specs
 - GPU: NVIDIA GeForce RTX 5070 Ti
@@ -79,7 +80,7 @@ vs NVIDIA GeForce RTX 5080 16GB (GPUGIG5080WFO16) — the 5080 has more CUDA cor
     "@type": "Offer",
     "price": "2599.00",
     "priceCurrency": "NZD",
-    "availability": "https://schema.org/InStock",
+    "availability": "https://schema.org/OutOfStock",
     "seller": {
       "@type": "Organization",
       "name": "ExtremePC",

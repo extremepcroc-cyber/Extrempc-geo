@@ -1,6 +1,6 @@
 # ASRock Challenger Radeon RX 9070 XT 16GB GDDR6 Graphics Card
 
-**Price:** $1,713.50 inc GST (on sale 2026-11-11 from $1,859 list; $1,859 list on 11-09; $1748 sale on 11-05; $1702 on 11-04; $1696.25 on 11-01; BC API verified 2026-11-11)
+**Price:** $1859 inc GST (on sale 2026-11-11 from $1,859 list; $1,859 list on 11-09; $1748 sale on 11-05; $1702 on 11-04; $1696.25 on 11-01; BC API verified 2026-11-11)
 **SKU:** GPUASR9070XTC16G
 **MPN:** RX9070XT CL 16G
 **URL:** https://www.extremepc.co.nz/asrock-challenger-radeon-rx-9070-xt-16gb-gddr6-pci-express-5-0-x16-graphics-card/
@@ -135,7 +135,7 @@
   },
   "offers": {
     "@type": "Offer",
-    "price": "1713.50",
+    "price": "1859.00",
     "priceCurrency": "NZD",
     "availability": "https://schema.org/InStock",
     "url": "https://www.extremepc.co.nz/asrock-challenger-radeon-rx-9070-xt-16gb-gddr6-pci-express-5-0-x16-graphics-card/",

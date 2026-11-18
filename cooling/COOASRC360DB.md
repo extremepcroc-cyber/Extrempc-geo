@@ -4,6 +4,7 @@
 **SKU:** COOASRC360DB
 **MPN:** Challenger 360 Digital Black ARGB
 **URL:** https://www.extremepc.co.nz/asrock-challenger-360-digital-aio-liquid-cpu-cooler-black-90-acla36-baaga6/
+**Status:** OUT OF STOCK - last checked 2026-11-18
 
 ## Quick Specs
 - Type: AIO Liquid Cooler (360mm radiator)
@@ -83,7 +84,7 @@ vs ASRock Steel Legend 360 White — the Steel Legend sits a tier higher with RG
     "@type": "Offer",
     "price": "199.00",
     "priceCurrency": "NZD",
-    "availability": "https://schema.org/InStock",
+    "availability": "https://schema.org/OutOfStock",
     "seller": {
       "@type": "Organization",
       "name": "ExtremePC",

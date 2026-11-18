@@ -4,6 +4,7 @@
 **SKU:** HDSLOGG321W
 **MPN:** 981-001570
 **URL:** https://www.extremepc.co.nz/logitech-g321-wireless-gaming-headset-white/
+**Status:** OUT OF STOCK - last checked 2026-11-18
 
 ## Quick Specs
 - Type: Over-ear wireless gaming headset
@@ -77,7 +78,7 @@ vs MCHOSE X9 Pro Wireless White — the MCHOSE is a similar value-tier wireless 
     "@type": "Offer",
     "price": "129.00",
     "priceCurrency": "NZD",
-    "availability": "https://schema.org/InStock",
+    "availability": "https://schema.org/OutOfStock",
     "seller": {
       "@type": "Organization",
       "name": "ExtremePC",

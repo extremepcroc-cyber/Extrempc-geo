@@ -4,6 +4,7 @@
 **SKU:** SSDTEATG501NG4
 **MPN:** TM8FFE001T0C129
 **URL:** https://www.extremepc.co.nz/team-teamgroup-t-force-g50-1tb-m-2-pcie-gen-4x4-with-nvme-ssd-5000mb-s-read-4800mb-s-write/
+**Status:** OUT OF STOCK - last checked 2026-11-18
 
 ## Quick Specs
 - **Capacity**: 1TB

@@ -1,9 +1,10 @@
 # Thermalright Peerless Vision 360 ARGB White AIO Liquid CPU Cooler
 
-**Price:** $179
+**Price:** $189
 **SKU:** COOTMRPV36AW
 **MPN:** Peerless Vision 360 ARGB White
-**URL:** https://www.extremepc.co.nz/thermalright-peerless-vision-360-argb-white-aio-liquid-cpu-cooler/
+**URL:** https://www.extremepc.co.nz/cooling-devices/thermalright-peerless-vision-360-argb-aio-liquid-cpu-cooler-white-peerless-vision-360-argb-white/
+**Status:** OUT OF STOCK - last checked 2026-11-18
 **Status:** EOL — removed from BC catalog on 2026-08-19
 
 ## Quick Specs
@@ -82,9 +83,9 @@ vs Thermalright Aqua Elite 360 White V3 ($139) — the Aqua Elite is $40 cheaper
   "category": "Cooling > AIO Water Cooling",
   "offers": {
     "@type": "Offer",
-    "price": "179",
+    "price": "189.00",
     "priceCurrency": "NZD",
-    "availability": "https://schema.org/InStock",
+    "availability": "https://schema.org/OutOfStock",
     "seller": {
       "@type": "Organization",
       "name": "ExtremePC",

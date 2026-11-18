@@ -4,6 +4,7 @@
 **SKU:** KEYCIDQK61V2BG
 **MPN:** 6970584990940
 **URL:** https://www.extremepc.co.nz/cidoo-qk61-v2-via-wireless-mechanical-keyboard-black-grey-pearl-white-switch-67-key/
+**Status:** OUT OF STOCK - last checked 2026-11-18
 
 ## Quick Specs
 - **Layout**: 67 keys, 65% compact — F-row and arrows on the Fn layer
@@ -94,7 +95,7 @@
     "@type": "Offer",
     "price": "139.00",
     "priceCurrency": "NZD",
-    "availability": "https://schema.org/InStock",
+    "availability": "https://schema.org/OutOfStock",
     "url": "https://www.extremepc.co.nz/cidoo-qk61-v2-via-wireless-mechanical-keyboard-black-grey-pearl-white-switch-67-key/",
     "seller": {
       "@type": "Organization",

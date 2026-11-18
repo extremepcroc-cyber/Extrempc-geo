@@ -4,6 +4,7 @@
 **SKU:** PSUASRCL650G
 **MPN:** CL-650G
 **URL:** https://www.extremepc.co.nz/asrock-challenger-cl-650g-650w-80-plus-gold-atx3-1-ready-non-modular-power-supply/
+**Status:** OUT OF STOCK - last checked 2026-11-18
 
 ## Quick Specs
 - **Wattage**: 650W

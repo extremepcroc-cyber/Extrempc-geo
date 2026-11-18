@@ -4,6 +4,7 @@
 **SKU:** PSUSEGBN7505
 **MPN:** BN750W PCI-E5.1
 **URL:** https://www.extremepc.co.nz/segotep-bn750w-pci-e5-1-80-plus-bronze-power-supply/
+**Status:** OUT OF STOCK - last checked 2026-11-18
 
 ## Quick Specs
 - **Wattage**: 750W
@@ -69,7 +70,7 @@
     "@type": "Offer",
     "price": "129.00",
     "priceCurrency": "NZD",
-    "availability": "https://schema.org/InStock",
+    "availability": "https://schema.org/OutOfStock",
     "url": "https://www.extremepc.co.nz/segotep-bn750w-pci-e5-1-80-plus-bronze-power-supply/"
   }
 }

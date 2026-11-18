@@ -4,6 +4,7 @@
 **SKU:** CPUAMDR99950XOEM
 **MPN:** 100-000001277
 **URL:** https://www.extremepc.co.nz/amd-ryzen-9-9950x-16-core-am5-4-3-ghz-unlocked-cpu-processor-oem-without-cooler/
+**Status:** OUT OF STOCK - last checked 2026-11-18
 
 ## Quick Specs
 - **Architecture**: Zen 5, 4nm TSMC process
@@ -124,7 +125,7 @@
     "@type": "Offer",
     "price": "1138.99",
     "priceCurrency": "NZD",
-    "availability": "https://schema.org/InStock",
+    "availability": "https://schema.org/OutOfStock",
     "url": "https://www.extremepc.co.nz/amd-ryzen-9-9950x-16-core-am5-4-3-ghz-unlocked-cpu-processor-oem-without-cooler/",
     "seller": {
       "@type": "Organization",

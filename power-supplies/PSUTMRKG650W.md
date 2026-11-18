@@ -4,6 +4,7 @@
 **SKU:** PSUTMRKG650W
 **MPN:** TR-KG650W
 **URL:** https://www.extremepc.co.nz/thermalright-tr-kg650w-650w-atx3-1-80-plus-gold-fully-modular-power-supply-white/
+**Status:** OUT OF STOCK - last checked 2026-11-18
 
 ## Quick Specs
 - **Wattage**: 650W continuous output
@@ -106,7 +107,7 @@
     "@type": "Offer",
     "price": "129.00",
     "priceCurrency": "NZD",
-    "availability": "https://schema.org/InStock",
+    "availability": "https://schema.org/OutOfStock",
     "url": "https://www.extremepc.co.nz/thermalright-tr-kg650w-650w-atx3-1-80-plus-gold-fully-modular-power-supply-white/",
     "seller": {
       "@type": "Organization",

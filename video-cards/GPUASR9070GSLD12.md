@@ -1,6 +1,6 @@
 # ASRock Steel Legend Dark Radeon RX 9070 GRE 12GB GDDR6 OC Graphics Card
 
-**Price:** $1138 inc GST
+**Price:** $1219 inc GST
 **SKU:** GPUASR9070GSLD12
 **MPN:** RX9070GRE SLD 12GO
 **URL:** https://www.extremepc.co.nz/amd-radeon/asrock-steel-legend-dark-radeon-rx-9070-gre-12gb-gddr6-oc-graphics-card/
@@ -76,7 +76,7 @@ vs AMD Radeon RX 9060 (GPUASR9060C8) — the 9060 has 8GB VRAM and is for 1080p.
   "category": "Video Cards > AMD Radeon",
   "offers": {
     "@type": "Offer",
-    "price": "1138.00",
+    "price": "1219.00",
     "priceCurrency": "NZD",
     "availability": "https://schema.org/InStock",
     "seller": {

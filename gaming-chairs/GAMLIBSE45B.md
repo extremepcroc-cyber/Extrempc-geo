@@ -4,6 +4,7 @@
 **SKU:** GAMLIBSE45B
 **MPN:** CP-GW-100074-00-03
 **URL:** https://www.extremepc.co.nz/gaming-chairs/libernovo-omni-se-dynamic-ergonomic-chair-seat-depth-45cm-obsidian-black/
+**Status:** OUT OF STOCK - last checked 2026-11-18
 
 ## Quick Specs
 - **Recommended user**: Height 153–172cm (5'0"–5'8"), weight capacity 136kg (300 lbs)
@@ -117,7 +118,7 @@
     "@type": "Offer",
     "price": "1699.00",
     "priceCurrency": "NZD",
-    "availability": "https://schema.org/InStock",
+    "availability": "https://schema.org/OutOfStock",
     "url": "https://www.extremepc.co.nz/gaming-chairs/libernovo-omni-se-dynamic-ergonomic-chair-seat-depth-45cm-obsidian-black/",
     "seller": {
       "@type": "Organization",

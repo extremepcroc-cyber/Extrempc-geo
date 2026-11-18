@@ -1,6 +1,6 @@
 # Colorful GeForce RTX 3050 6GB V4-V Graphics Card
 
-**Price:** $448 inc GST
+**Price:** $489 inc GST
 **SKU:** GPUCOL356V4
 **MPN:** GeForce RTX 3050 6GB V4-V
 **URL:** https://www.extremepc.co.nz/rtx-30-series/colorful-geforce-rtx-3050-6gb-v4-v-graphics-card/
@@ -76,7 +76,7 @@ vs Intel Arc A580 (if in stock) — the A580 has 8GB GDDR6 and XeSS. The RTX 305
   "category": "Video Cards > NVIDIA GeForce",
   "offers": {
     "@type": "Offer",
-    "price": "448.00",
+    "price": "489.00",
     "priceCurrency": "NZD",
     "availability": "https://schema.org/InStock",
     "seller": {

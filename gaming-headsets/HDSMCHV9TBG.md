@@ -4,6 +4,7 @@
 **SKU:** HDSMCHV9TBG
 **MPN:** HW-V9-10
 **URL:** https://www.extremepc.co.nz/gaming-headsets/mchose-v9-turbo-wireless-rgb-gaming-headset-with-magnetic-charging-station-black-gold-hw-v9-10/
+**Status:** OUT OF STOCK - last checked 2026-11-18
 **Status:** ⛔ OUT OF STOCK (BC API verified 2026-11-05) — recommend WHITE GOLD HDSMCHV9TWG (OH=1) or V9 Pro HDSMCHV9PBR (OH=7)
 
 ## Quick Specs

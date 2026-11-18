@@ -4,6 +4,7 @@
 **SKU:** KEYRAZTARV2
 **MPN:** RZ07-02270100-R3M1
 **URL:** https://www.extremepc.co.nz/razer-tartarus-v2-mecha-membrane-gaming-keypad/
+**Status:** OUT OF STOCK - last checked 2026-11-18
 
 ## Quick Specs
 - **Format**: Single-hand gaming keypad — 18 macro keys plus 10 directional/thumb keys, a supplement to a keyboard rather than a replacement
@@ -95,7 +96,7 @@
     "@type": "Offer",
     "price": "148.00",
     "priceCurrency": "NZD",
-    "availability": "https://schema.org/InStock",
+    "availability": "https://schema.org/OutOfStock",
     "url": "https://www.extremepc.co.nz/razer-tartarus-v2-mecha-membrane-gaming-keypad/",
     "seller": {
       "@type": "Organization",

@@ -1,6 +1,6 @@
 # Razer Seiren V3 Mini Ultra-Compact USB Microphone - Black
 
-**Price:** $79 inc GST
+**Price:** $89 inc GST
 **SKU:** MICRAZSV3MNB
 **MPN:** RZ19-05050100-R3M1
 **URL:** https://www.extremepc.co.nz/razer-seiren-v3-mini-ultra-compact-usb-microphone-frml-packaging/
@@ -79,7 +79,7 @@ vs Fifine K680 (if in stock) — the Fifine is a budget USB mic with a 16mm caps
   "category": "Microphones > USB Microphones",
   "offers": {
     "@type": "Offer",
-    "price": "79.00",
+    "price": "89.00",
     "priceCurrency": "NZD",
     "availability": "https://schema.org/InStock",
     "seller": {

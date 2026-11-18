@@ -1,6 +1,6 @@
 # Palit GeForce RTX 5050 Dual 8GB GDDR6 Graphics Card NE65050019P1-GB2070D
 
-**Price:** $678 inc GST
+**Price:** $799 inc GST
 **SKU:** GPUPAL55D8
 **MPN:** NE65050019P1-GB2070D
 **URL:** https://www.extremepc.co.nz/nvidia-geforce/palit-geforce-rtx-5050-dual-8gb-gddr6-graphics-card-ne65050019p1-gb2070d/
@@ -76,7 +76,7 @@ vs Intel Arc B570 (GPUASRB570C) — the B570 has 10GB GDDR6 and XeSS upscaling. 
   "category": "Video Cards > NVIDIA GeForce",
   "offers": {
     "@type": "Offer",
-    "price": "678.00",
+    "price": "799.00",
     "priceCurrency": "NZD",
     "availability": "https://schema.org/InStock",
     "seller": {

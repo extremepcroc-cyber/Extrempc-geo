@@ -4,6 +4,7 @@
 **SKU:** CPUAMD9975WXO
 **MPN:** 100-100000723
 **URL:** https://www.extremepc.co.nz/amd-ryzen-threadripper-pro-9975wx-32-core-str5-cpu-processor-without-cooler/
+**Status:** OUT OF STOCK - last checked 2026-11-18
 
 ## Quick Specs
 - **Architecture**: Zen 5, 4nm TSMC process

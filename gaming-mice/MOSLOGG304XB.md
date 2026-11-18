@@ -1,6 +1,6 @@
 # Logitech G304 X LIGHTSPEED Wireless Gaming Mouse Black
 
-**Price:** $159 inc GST
+**Price:** $149 inc GST
 **SKU:** MOSLOGG304XB
 **MPN:** 910-007667
 **URL:** https://www.extremepc.co.nz/wireless-gaming-mice/logitech-g304-x-superlight-lightspeed-wireless-gaming-mouse-black-910-007667/
@@ -83,7 +83,7 @@ vs Razer Viper V3 HyperSpeed (MOSRAZVV3HS) — Razer's HyperSpeed wireless mouse
   "category": "Gaming Mice",
   "offers": {
     "@type": "Offer",
-    "price": "159.00",
+    "price": "149.01",
     "priceCurrency": "NZD",
     "availability": "https://schema.org/InStock",
     "seller": {

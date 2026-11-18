@@ -4,6 +4,7 @@
 **SKU:** PSUSEGGM850W3W
 **MPN:** GM850W White ATX3.0
 **URL:** https://www.extremepc.co.nz/segotep-gm-850w-atx-3-0-80-plus-gold-full-modular-power-supply-white/
+**Status:** OUT OF STOCK - last checked 2026-11-18
 
 ## Quick Specs
 - **Wattage**: 850W

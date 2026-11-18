@@ -4,6 +4,7 @@
 **SKU:** GPUCOL58U162
 **MPN:** iGame RTX 5080 Ultra OC 16GB V2-V
 **URL:** https://www.extremepc.co.nz/rtx-30-series/colorful-igame-geforce-rtx-5080-ultra-oc-16gb-v2-v-graphics-card/
+**Status:** OUT OF STOCK - last checked 2026-11-18
 
 ## Quick Specs
 - GPU: NVIDIA GeForce RTX 5080
@@ -78,7 +79,7 @@ vs AMD Radeon RX 7900 XTX (if in stock) — the 7900 XTX has 24GB GDDR6 and FSR 
     "@type": "Offer",
     "price": "4099.00",
     "priceCurrency": "NZD",
-    "availability": "https://schema.org/InStock",
+    "availability": "https://schema.org/OutOfStock",
     "seller": {
       "@type": "Organization",
       "name": "ExtremePC",

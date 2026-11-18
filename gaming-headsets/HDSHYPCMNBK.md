@@ -4,6 +4,7 @@
 **SKU:** HDSHYPCMNBK
 **MPN:** 7G8F4AA
 **URL:** https://www.extremepc.co.nz/hyperx-cloud-mini-wired-gaming-headset-black/
+**Status:** OUT OF STOCK - last checked 2026-11-18
 
 ## Quick Specs
 - Type: Over-ear wired gaming headset
@@ -77,7 +78,7 @@ vs MCHOSE X9 Pro Wireless — the MCHOSE is a wireless option at a higher price.
     "@type": "Offer",
     "price": "49.00",
     "priceCurrency": "NZD",
-    "availability": "https://schema.org/InStock",
+    "availability": "https://schema.org/OutOfStock",
     "seller": {
       "@type": "Organization",
       "name": "ExtremePC",

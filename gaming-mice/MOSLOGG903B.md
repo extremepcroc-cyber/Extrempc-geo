@@ -1,6 +1,6 @@
 # Logitech G903 HERO LIGHTSPEED Wireless Gaming Mouse — Black
 
-**Price:** $207.00 inc GST (on sale from $248.00)
+**Price:** $248 inc GST (on sale from $248.00)
 **SKU:** MOSLOGG903B
 **MPN:** 910-005676
 **URL:** https://www.extremepc.co.nz/logitech-g903-hero-lightspeed-wireless-gaming-mouse-black/
@@ -86,7 +86,7 @@
   },
   "offers": {
     "@type": "Offer",
-    "price": "207.00",
+    "price": "248.00",
     "priceCurrency": "NZD",
     "availability": "https://schema.org/InStock",
     "url": "https://www.extremepc.co.nz/logitech-g903-hero-lightspeed-wireless-gaming-mouse-black/",

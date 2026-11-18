@@ -4,6 +4,7 @@
 **SKU:** COOTMRFI360B
 **MPN:** Frozen Infinity 360 Black
 **URL:** https://www.extremepc.co.nz/thermalright-frozen-infinity-360-black-aio-liquid-cpu-cooler/
+**Status:** OUT OF STOCK - last checked 2026-11-18
 
 ## Quick Specs
 - Type: AIO Liquid Cooler (360mm radiator)

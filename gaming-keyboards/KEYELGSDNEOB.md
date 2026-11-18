@@ -4,6 +4,7 @@
 **SKU:** KEYELGSDNEOB
 **MPN:** 10GBJ9911
 **URL:** https://www.extremepc.co.nz/elgato-stream-deck-neo-black/
+**Status:** OUT OF STOCK - last checked 2026-11-18
 
 ## What It Is
 

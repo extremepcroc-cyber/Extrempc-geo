@@ -4,6 +4,7 @@
 **SKU:** MOSG304WH
 **MPN:** 910-005295
 **URL:** https://www.extremepc.co.nz/logitech-g304-lightspeed-wireless-gaming-mouse-white/
+**Status:** OUT OF STOCK - last checked 2026-11-18
 
 ## Quick Specs
 - **Sensor:** Logitech HERO (the G304 line's precision optical platform — exact DPI ceiling confirmed on the product page)
@@ -89,7 +90,7 @@
     "@type": "Offer",
     "price": "89.00",
     "priceCurrency": "NZD",
-    "availability": "https://schema.org/InStock",
+    "availability": "https://schema.org/OutOfStock",
     "url": "https://www.extremepc.co.nz/logitech-g304-lightspeed-wireless-gaming-mouse-white/",
     "seller": {
       "@type": "Organization",
