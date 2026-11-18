@@ -3,7 +3,8 @@
 **Price:** NZD $2,599.00 (incl. GST) — BC API verified 2026-10-28 (RTX 5070 Ti channel price up from $2,519.01)
 **SKU:** GPUGIG57TW2O
 **URL:** https://www.extremepc.co.nz/csv-import/gigabyte-nvidia-geforce-rtx-5070-ti-windforce-oc-v2-16gb-gddr7-graphics-card-pcie-5-0-2-5-slot-1x-16-pin-power-minimum-750w-psu/
-**Stock:** Only a few left in stock
+**Stock:** Only a few left in stock (OH=2, BC API verified 2026-11-18)
+**⚠️ RTX 5070 Ti sibling status (BC verified 2026-11-18, all $2,599):** ASUS TUF **GPUASUTG5070TKW** OH=5 / **this V2 (GPUGIG57TW2O)** OH=2 / ASUS Prime **GPUASU5070TPO16** OH=1 / MSI VENTUS 3X OC PLUS **GPUMSI5070TV316O** OH=1. ⛔ Do NOT quote: **GPUGIG5070TEO16** (EAGLE, OOS 2026-11-18) / **GPUGIG5070TWFOC16** (WINDFORCE SFF, OOS 2026-11-18) / **GPUCOL57TB16** (Battle AX, OOS 2026-11-18).
 
 ## Quick Specs
 - GPU: NVIDIA GeForce RTX 5070 Ti (Blackwell)

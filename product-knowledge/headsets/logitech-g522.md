@@ -2,7 +2,7 @@
 
 **SKU:** HDSLOGG522W
 **Brand:** Logitech
-**Price:** NZD $235.75 (incl. GST)
+**Price:** NZD $216.20 (incl. GST, on sale from $287.99) — BC API verified 2026-11-17 (Black November store-wide sale)
 **Status:** In Stock
 
 ## Quick Specs

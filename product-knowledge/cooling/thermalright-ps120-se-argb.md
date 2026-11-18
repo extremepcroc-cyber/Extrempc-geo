@@ -2,8 +2,8 @@
 
 **SKU:** COOTMRPS120SEA
 **Brand:** Thermalright
-**Price:** NZD $80.50 (incl. GST)
-**Status:** In Stock
+**Price:** NZD $80.50 (incl. GST, sale from $99.00) — BC API verified 2026-11-17
+**Status:** ⚠️ In Stock — only a few left (OH=2, BC API verified 2026-11-17; dropped from OH=5 on 11-15 / OH=7 on 11-14). Low stock — confirm before promising to a customer.
 
 ## Quick Specs
 

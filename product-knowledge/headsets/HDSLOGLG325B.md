@@ -1,6 +1,5 @@
 # Logitech LIGHTSPEED G325 Wireless Gaming Headset - Black
-
-**Price:** NZD $169.00 (incl. GST) — BC API verified 2026-09-30 (list price cut $234→$169)
+**Price:** NZD $155.25 (incl. GST, on sale from $169.00) — BC API verified 2026-11-17 (Black November store-wide sale)
 **SKU:** HDSLOGLG325B
 **Brand:** Logitech
 **URL:** https://www.extremepc.co.nz/g325-lightspeed-wl-headset-black/

@@ -10,6 +10,5 @@
 - **RGB:** No
 - **Ergonomic:** Yes
 - **Gaming:** Yes
-
-**Price:** NZD $199.00 (incl. GST)
+**Price:** NZD $138.00 (incl. GST, on sale from $199.00) — BC API verified 2026-11-17 (Black November store-wide sale)
 **Stock:** Only a few left (OH=1, BC API verified 2026-11-06; was OH=2 on 11-05)

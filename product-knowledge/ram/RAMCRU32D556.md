@@ -4,7 +4,7 @@
 **SKU:** RAMCRU32D556
 **MPN:** CT32G56C46U5
 **URL:** https://www.extremepc.co.nz/crucial-32gb-1x32gb-ddr5-5600mhz-cl46-desktop-memory/
-**Stock:** Only a few left in stock (OH=4, BC API verified 2026-11-14; was OH=9 on 11-13)
+**Stock:** Only a few left in stock (OH=1, BC API verified 2026-11-18; was OH=3 on 11-17 — last unit). 32GB single-stick DDR5-5600 — for kits see RAMCRU32D556 pair or the 64GB options.
 
 ## Quick Specs
 - Type: DDR5

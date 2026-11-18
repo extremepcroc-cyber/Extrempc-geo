@@ -3,7 +3,8 @@
 **Price:** NZD $229.00 (incl. GST)
 **SKU:** SSDHPFX900P512
 **URL:** https://www.extremepc.co.nz/hp-fx900-plus-512gb-gen4x4-nvme-m-2-r-w-7100-3800-ssd-plus-for-pc-and-laptops/
-**Stock:** Last one left (OH=2, BC API verified 2026-11-12; was OH=3 on 11-01)
+**Stock:** ⛔ **OUT OF STOCK** (Onehunga OH=0, BC API verified 2026-11-18; was OH=1 on 11-17, OH=2 on 11-12). Do NOT quote as available.
+**Siblings in stock (BC verified 2026-11-18):** HP FX900 Plus **2TB SSDHPFX900PS2T (OH=1, few)** / **4TB SSDHPFX900PS4T (OH=58, plenty)** — recommend stepping up in capacity.
 
 ## Quick Specs
 - Capacity: 512GB

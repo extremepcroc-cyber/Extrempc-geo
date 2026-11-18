@@ -4,7 +4,7 @@
 **SKU:** RAMWHA32G6000
 **Brand:** Whalekom
 **URL:** https://www.extremepc.co.nz/desktop-ram-32gb/whalekom-ddr5-32gb-6000mhz-desktop-memory-wkd32-6000/
-**Stock:** ✅ **RESTOCKED — Only a few left (OH=1, BC API verified 2026-11-14).** (Earlier 2026-11-13 OOS mark was wrong — BC confirmed 1 unit in stock on 11-14.) Do recommend, but flag low availability.
+**Stock:** ✅ **RESTOCKED — Only a few left (OH=2, BC API verified 2026-11-16; was OH=1 on 11-14).** (Earlier 2026-11-13 OOS mark was wrong — BC confirmed 1 unit in stock on 11-14.) Do recommend, but flag low availability.
 **⚠️ In-stock 32GB DDR5-6000 kits (BC verified 2026-11-13):** KingBank KRXB **RAMKBXB3D56B** ($943 sale from $999, OH=17 plenty) / Corsair Vengeance RGB **RAMCORV3D560** ($919, OH=2 few) / Predator PALLAS II CL36 **RAMPREP32D56000C36B** ($999, OH=5 few) / Predator Vesta II CL36 RGB **RAMPREV32D56000C36RB** ($999, OH=1 few) / TeamGroup T-CREATE **RAMTEATC32D56** ($899, OH=2 few) — 32GB kits are in range, see ram-desktop-memory-lookup.
 
 ## Quick Specs

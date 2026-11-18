@@ -2,8 +2,8 @@
 
 **SKU:** PSUGIGP550SS
 **Brand:** Gigabyte
-**Price:** NZD $89.00 (incl. GST) — BC API verified 2026-10-20 (was $80.50)
-**Status:** In Stock
+**Price:** NZD $89.00 (incl. GST) — BC API verified 2026-11-17 (was $80.50)
+**Status:** In Stock — Only a few left (OH=2, BC API verified 2026-11-17; was OH=3 on 11-16)
 
 ## Quick Specs
 

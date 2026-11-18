@@ -1,11 +1,11 @@
 # ASRock AMD Radeon RX 9070 XT Taichi 16GB GDDR6 Graphics Card
 
-**Price:** NZD $1,840.00 (incl. GST, on sale from $1,959.00) — BC API verified 2026-11-14 (was $1,817 sale 11-13→14 window; $1,897.50 sale on 11-10)
+**Price:** NZD $1,771.00 (incl. GST, on sale from $1,959.00) — BC API verified 2026-11-18 (was $1,840 sale 11-14; $1,817 sale 11-13; $1,897.50 sale on 11-10)
 **SKU:** GPUASR9070XTTC16
 **URL:** https://www.extremepc.co.nz/asrock-amd-radeon-rx-9070-xt-taichi-16gb-gddr6-graphics-card/
-**Stock:** We have plenty in stock (OH=40, BC API verified 2026-11-10)
+**Stock:** We have plenty in stock (OH=35, BC API verified 2026-11-18; was OH=40 on 11-10)
 **Status:** ✅ **NEW ARRIVAL 2026-11-08** (first seen in 2026-11-08 cache) — the flagship **Taichi** variant of the RX 9070 XT, now in our range alongside the Steel Legend / Challenger / GRE lines.
-**⚠️ 9070 XT family price tiers (BC verified 2026-11-14):** GRE 12GB **GPUASR9070GSLD12** $1,207.50 sale (OH=20) / **Challenger GPUASR9070XTC16G** $1,713.50 sale (OH=85, best value 16GB) / **Steel Legend GPUASR9070XTSL16** ⛔ **OOS + store-hidden (2026-11-14)** — do NOT recommend / **Taichi (this SKU)** $1,840 sale (OH=40, flagship).
+**⚠️ 9070 XT family price tiers (BC verified 2026-11-18):** GRE 12GB **GPUASR9070GSLD12** $1,138.50 sale (OH=20) / **Challenger GPUASR9070XTC16G** $1,725.00 sale (OH=85, best value 16GB) / **Steel Legend GPUASR9070XTSL16** ⛔ **OOS + store-hidden (2026-11-14)** — do NOT recommend / **Taichi (this SKU)** $1,771 sale (OH=35, flagship).
 
 ## Quick Specs
 - GPU: AMD Radeon RX 9070 XT (RDNA 4)

@@ -1,10 +1,10 @@
 # MCHOSE Ace 68 Turbo RGB Hot-Swappable Wired Gaming Keyboard - Cyber Black, Mount Tai Magnetic Switches GT, 68 Keys
 
-**Price:** NZD $249.00 (incl. GST) on sale from $269.00 — BC API verified 2026-10-01 (sale started; list raised $249→$269)
+**Price:** NZD $269.00 (incl. GST) — back to list, sale ended (was $249.00 sale from $269.00 on 10-01). BC API verified 2026-11-18
 **SKU:** KEYMCHA68TBM
 **Brand:** MCHOSE
 **URL:** https://www.extremepc.co.nz/wired-gaming-keyboards/mchose-ace-68-turbo-rgb-hot-swappable-wired-gaming-keyboard-cyber-black-mount-tai-magnetic-switches-gt-68-keys-hw-ace68turbo-5/
-**Stock:** In Stock — Only a few left (OH=3, verified 2026-09-23, BC API)
+**Stock:** Only a few left in stock (OH=1, BC API verified 2026-11-18; was OH=3 on 11-17 — last unit). Verify before promising.
 **Status:** NEW ARRIVAL 2026-09-23 (first seen in stock in 09-23 cache)
 
 ## Quick Specs

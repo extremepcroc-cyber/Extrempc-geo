@@ -3,7 +3,8 @@
 **Price:** NZD $2,599.00 (incl. GST) — BC API verified 2026-10-28 (RTX 5070 Ti channel price up from $2,519.01)
 **SKU:** GPUGIG5070TEO16
 **URL:** https://www.extremepc.co.nz/gigabyte-geforce-rtx-5070-ti-eagle-oc-16gb-graphics-card/
-**Stock:** Only a few left in stock (OH=1, BC API verified 2026-10-29; was OH=2 on 2026-10-28)
+**Stock:** ⛔ **OUT OF STOCK** (Onehunga OH=0, BC API verified 2026-11-18; was OH=1 on 11-17 — last unit sold). Do NOT quote as available.
+**⚠️ RTX 5070 Ti in-stock siblings (BC verified 2026-11-18, all $2,599):** ASUS TUF **GPUASUTG5070TKW** (OH=5, best stock) / Gigabyte WINDFORCE OC V2 **GPUGIG57TW2O** (OH=2) / MSI VENTUS 3X OC PLUS **GPUMSI5070TV316O** (OH=1, last unit). Do NOT quote GPUGIG5070TWFOC16 (WINDFORCE SFF) / GPUCOL57TB16 (Battle AX) — both OOS 2026-11-18.
 
 ## Quick Specs
 - GPU: NVIDIA GeForce RTX 5070 Ti (Blackwell)

@@ -3,7 +3,7 @@
 **Price:** NZD $109.0 (incl. GST)
 **SKU:** CASSEGLUM3SB
 **URL:** https://www.extremepc.co.nz/segotep-lumi-3s-curved-joint-glass-sea-view-room-style-matx-micro-tower-case-black/
-**Stock:** In Stock — RESTOCKED (OH=1, verified 2026-09-23, BC API inv=1). Was OOS 2026-09-22. 3rd restock cycle (09-10 OOS→09-15 RESTOCK→09-22 OOS→09-23 RESTOCK)
+**Stock:** We have plenty in stock (OH=6, BC API verified 2026-11-18; was OH=2 on 11-17 — restocked to plenty). 3rd+ restock cycle.
 **Price (sale):** NZD $97.75 (incl. GST, on sale from $109.00) — sale active 2026-09-23, BC API calc $85×1.15
 
 ## Quick Specs

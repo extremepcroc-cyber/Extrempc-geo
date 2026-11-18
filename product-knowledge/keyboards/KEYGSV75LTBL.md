@@ -4,8 +4,8 @@
 **SKU:** KEYGSV75LTBL
 **Brand:** GravaStar
 **URL:** https://www.extremepc.co.nz/gravastar-mercury-v75-lite-rgb-hot-swappable-wired-gaming-keyboard-transparent-black-linear-switch-80-keys/
-**Stock:** In Stock — Only a few left (OH=2, verified 2026-09-22, BC API)
-**Status:** NEW ARRIVAL 2026-09-22 (first seen in stock in 09-22 cache)
+**Stock:** ❌ OUT OF STOCK (Onehunga OH=0, BC API verified 2026-11-17; was OH=1 in the 11-16 cache). Do NOT recommend as in stock.
+**Status:** OUT OF STOCK as of 2026-11-17. In-stock GravaStar/MCHOSE 75-key alternatives — check the keyboards category for current options.
 
 ## Quick Specs
 - **Connection:** Wired (USB-C)

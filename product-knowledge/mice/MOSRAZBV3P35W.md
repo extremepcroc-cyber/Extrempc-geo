@@ -1,6 +1,5 @@
 # Razer Basilisk V3 Pro 35K Wireless Ergonomic Gaming Mouse White Edition
-
-**Price:** NZD $287.50 (incl. GST, on sale from $299.00) — BC API verified 2026-09-18
+**Price:** NZD $263.35 (incl. GST, on sale from $299.00) — BC API verified 2026-11-17 (Black November store-wide sale)
 **SKU:** MOSRAZBV3P35W
 **URL:** https://www.extremepc.co.nz/razer-basilisk-v3-pro-35k-ergonomic-wireless-gaming-mouse-white-edition/
 **Stock:** Only a few left in stock (BC API verified 2026-09-04, inv=1, OH=1)

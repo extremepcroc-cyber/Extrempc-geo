@@ -1,6 +1,7 @@
 # Razer DeathAdder V3 Pro Wireless Gaming Mouse - Black
 
 **SKU:** MOSRAZDAV3PBK
+**Price:** NZD $207.00 (incl. GST, on sale from $269.00) — BC API verified 2026-11-17 (Black November store-wide sale)
 
 **Brand:** Razer
 

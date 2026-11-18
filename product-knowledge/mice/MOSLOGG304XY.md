@@ -2,7 +2,7 @@
 
 **SKU:** MOSLOGG304XY
 **Brand:** Logitech
-**Price:** NZD $149.01 (incl. GST) — BC API verified 2026-10-22 (was $89.00)
+**Price:** NZD $115.00 (incl. GST, on sale from $149.01) — BC API verified 2026-11-17 (Black November store-wide sale)
 **URL:** https://www.extremepc.co.nz/wireless-gaming-mice/logitech-g304-lightspeed-wireless-gaming-mouse-yellow/
 
 ## Quick Specs

@@ -1,9 +1,10 @@
 # Thermalright Phantom Spirit 120 SE (ARGB CPU Air Cooler)
 
-**Price:** $99 inc GST
+**Price:** $99 inc GST (sale $80.50 from $99 active)
 **SKU:** COOTMRPS120SEA
 **MPN:** PHANTOM SPIRIT 120 SE ARGB
 **URL:** https://www.extremepc.co.nz/thermalright-phantom-spirit-120-se-argb-cpu-air-cooler/
+**Stock:** ⚠️ Only a few left in stock (OH=5, BC API verified 2026-11-15; was OH=7 on 11-14 — running low)
 
 ## What It Is
 

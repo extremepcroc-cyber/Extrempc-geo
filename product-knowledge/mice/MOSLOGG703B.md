@@ -3,7 +3,7 @@
 **SKU:** MOSLOGG703B
 
 **Brand:** Logitech
-**Price:** NZD $155.25 (incl. GST, on sale from $179.00) — BC API verified 2026-10-22
+**Price:** NZD $143.75 (incl. GST, on sale from $179.00) — BC API verified 2026-11-17 (Black November store-wide sale)
 
 ## Quick Specs
 

@@ -2,7 +2,7 @@
 
 **SKU:** MOSMOTG1B
 **Brand:** Motospeed
-**Price:** NZD $34.30 (incl. GST, on sale from $49.00) — BC API verified 2026-09-18
+**Price:** NZD $39.00 (incl. GST, on sale from $49.00) — BC API verified 2026-11-17 (Black November store-wide sale)
 **Stock:** Only a few left in stock (OH=5, verified 2026-09-18, BC API)
 **URL:** https://www.extremepc.co.nz/wireless-gaming-mice/motospeed-g1-lightweight-wireless-gaming-mouse-black/
 **Status:** NEW ARRIVAL 2026-09-17 (first seen in stock in 2026-09-17 snapshot; on sale from day one)

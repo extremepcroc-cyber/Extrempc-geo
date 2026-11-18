@@ -1,10 +1,10 @@
 # MCHOSE Ace 68 GT RGB Hot-Swappable Wired Gaming Keyboard - Black Gold, Mount Tai Pink Magnetic Switch, 68 Keys
 
-**Price:** NZD $269.00 (incl. GST) — BC API verified 2026-09-30 (list price increased $249→$269)
+**Price:** NZD $269.00 (incl. GST) — BC API verified 2026-11-18 (list; was $249 on 09-30 when price increased $249→$269)
 **SKU:** KEYMCHA68GBP
 **Brand:** MCHOSE
 **URL:** https://www.extremepc.co.nz/wired-gaming-keyboards/mchose-ace-68-gt-rgb-hot-swappable-wired-gaming-keyboard-black-gold-mount-tai-pink-magnetic-switch-gt-68-keys-hw-ace68gt-1/
-**Stock:** In Stock — Only a few left (OH=2, verified 2026-09-23, BC API)
+**Stock:** Only a few left in stock (OH=1, BC API verified 2026-11-18; was OH=2 on 11-17 — last unit). Verify before promising.
 **Status:** NEW ARRIVAL 2026-09-23 (first seen in stock in 09-23 cache)
 
 ## Quick Specs

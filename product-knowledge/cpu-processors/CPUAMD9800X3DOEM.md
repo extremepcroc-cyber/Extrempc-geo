@@ -1,11 +1,11 @@
 # AMD Ryzen 7 9800X3D OEM (No Cooler, No Retail Package)
 
-**Price:** NZD $869.00 (incl. GST, list) — BC API verified 2026-11-07 (up from $838.99 on 11-06)
+**Price:** NZD $869.00 (incl. GST) — BC API verified 2026-11-17
 **SKU:** CPUAMD9800X3DOEM
 **MPN:** 100-000001084
 **URL:** https://www.extremepc.co.nz/amd-ryzen-7-9800x3d-8-core-am5-unlocked-cpu-processor-oem-without-cooler/
-**Stock:** We have plenty in stock (OH=12, BC API verified 2026-11-10; was OH=11 on 11-07, OH=35 on 11-06)
-**Status:** NEW ARRIVAL 2026-11-06 (restocked after going OOS on 2026-10-29; was OH=2 on 10-28)
+**Stock:** ❌ OUT OF STOCK (Onehunga OH=0, BC API verified 2026-11-17; was OH=12 in the 11-16 cache, OH=35 on 11-06)
+**Status:** OUT OF STOCK as of 2026-11-17 — do NOT recommend. In-stock AM5 siblings: **CPUAMD9600XOEM** Ryzen 5 9600X ($373.75 sale, OH=5) and **CPUAMD9700XOEM** Ryzen 7 9700X ($557.75 sale, OH=19).
 
 ## Quick Specs
 - **Architecture:** Zen 5, 4nm TSMC process, with AMD 3D V-Cache (104MB L3)
@@ -23,5 +23,5 @@
 
 ## Siblings / Pairings
 - Step-up: **CPUAMD9950X3DOEM** Ryzen 9 9950X3D OEM (16C/32T, OH=15, $1,276.50 sale from $1,299.01 — 2026-11-07)
-- Budget AM5 alternative: **CPUAMD9600XOEM** Ryzen 5 9600X (OH=29)
+- Budget AM5 alternative: **CPUAMD9600XOEM** Ryzen 5 9600X ($373.75 sale, OH=5 — 2026-11-17)
 - Cooler options: Thermalright Peerless Assassin 120 (COOTMRPA120B), Thermalright Assassin Spirit 120 EVO (COOTMRAS120ED), or 240/360mm AIO

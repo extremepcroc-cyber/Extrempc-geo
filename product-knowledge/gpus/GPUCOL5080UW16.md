@@ -4,7 +4,7 @@
 **SKU:** GPUCOL5080UW16
 **Brand:** Colorful
 **URL:** https://www.extremepc.co.nz/colorful-igame-geforce-rtx-5080-ultra-w-oc-16gb-v-gddr7-graphics-card/
-**Stock:** Only a few left in stock (OH=5, BC API verified 2026-11-07)
+**Stock:** Only a few left in stock (OH=4, BC API verified 2026-11-18; was OH=5 on 11-17)
 **⚠️ Sibling black GPUCOL58U162** (Colorful iGame RTX 5080 Ultra OC 16GB V2-V) **RESTOCKED 2026-11-07** (OH=1 few) — both WHITE (this SKU) and BLACK variants are now in range again; pick by colour preference.
 
 ## Quick Specs

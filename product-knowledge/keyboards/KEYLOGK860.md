@@ -1,6 +1,5 @@
 # Logitech ERGO K860 Wireless Split Ergonomic Keyboard
-
-**Price:** NZD $209.00 (incl. GST)
+**Price:** NZD $202.40 (incl. GST, on sale from $229.00) — BC API verified 2026-11-17 (Black November store-wide sale)
 **SKU:** KEYLOGK860
 **URL:** https://www.extremepc.co.nz/logitech-ergo-k860-wireless-split-keyboard/
 **Stock:** Only a few left in stock

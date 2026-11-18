@@ -14,7 +14,7 @@
 - **Keys:** 81 (Hi75c PRO)
 - **Color:** Black Pink
 
-**Stock:** We have plenty in stock (OH=7, BC API verified 2026-11-07; was OH=8 on 11-06)
+**Stock:** Only a few left (OH=5, BC API verified 2026-11-16; was OH=7 on 11-07, OH=8 on 11-06)
 
 ## Notes
 

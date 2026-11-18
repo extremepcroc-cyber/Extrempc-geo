@@ -23,3 +23,5 @@ status: In Stock
 - **Color:** Black Grey
 - **Polling Rate:** 1000Hz (estimated)
 - **Anti-Ghosting:** Yes
+
+**Price:** NZD $41.40 (incl. GST, on sale from $55.00) — BC API verified 2026-11-17 (Black November store-wide sale)

@@ -1,6 +1,5 @@
 # MCHOSE G75 Pro Tri-mode RGB Hot-Swappable Wireless Gaming Keyboard - Blue, Cabbage Tofu Switch, 75 Keys
-
-**Price:** NZD $109.00 (incl. GST) on sale from $129.00 — BC API verified 2026-09-30 (list cut $149.01→$129.00, sale $109 started 09-30)
+**Price:** NZD $103.50 (incl. GST, on sale from $129.00) — BC API verified 2026-11-17 (Black November store-wide sale)
 **SKU:** KEYMCHG75PBUT
 **Brand:** MCHOSE
 **URL:** https://www.extremepc.co.nz/wireless-gaming-keyboards/mchose-g75-pro-tri-mode-rgb-hot-swappable-wireless-gaming-keyboard-blue-cabbage-tofu-switch-75-keys-g75-4a/

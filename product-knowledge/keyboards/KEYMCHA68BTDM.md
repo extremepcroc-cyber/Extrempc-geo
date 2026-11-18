@@ -17,6 +17,6 @@
 - **Display:** No
 - **Color:** Black
 
-**Price:** NZD $159.00 (incl. GST) on sale from $169.00 — BC API verified 2026-11-11 (was $149.01 sale on 09-30; promo repriced)
+**Price:** NZD $169.00 (incl. GST) — back to list, sale ended (was $159.00 sale on 11-11; $149.01 sale on 09-30). BC API verified 2026-11-18
 
-**Status:** In Stock — Only a few left (OH=4, BC API verified 2026-11-11; was OH=5 on 10-30)
+**Status:** In Stock — Only a few left (OH=2, BC API verified 2026-11-18; was OH=4 on 11-11)

@@ -3,8 +3,8 @@
 **SKU:** MOSLOGG502XB
 
 **Brand:** Logitech
-**Price:** NZD $120.75 (incl. GST, on sale from $139.00) — BC API verified 2026-09-22 (calc $105 ex-GST × 1.15)
-**Status:** In Stock — only a few left (BC API verified 2026-09-22, inv=2, OH=2)
+**Price:** NZD $139.00 (incl. GST) — BC API verified 2026-11-15 (sale ended, back to list)
+**Status:** ❌ OUT OF STOCK (Onehunga OH=0, BC API verified 2026-11-15 — do NOT recommend). ⚠️ The white wired variant **MOSLOGG502XW** is ALSO OOS — the entire wired G502X line is gone. In-stock siblings: **MOSLOGG502XPW** X PLUS Wireless White (OH=3, $229 sale) / **MOSLOGG502XPBK** X PLUS Wireless Black (OH=1, $249) / **MOSLOGG502HB** G502 Hero wired Black (OH=12, $86.25 sale) — recommend one of those instead.
 
 ## Quick Specs
 

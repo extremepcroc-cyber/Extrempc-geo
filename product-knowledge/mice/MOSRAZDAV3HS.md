@@ -12,4 +12,4 @@
 - **Gaming:** Yes
 
 **Status:** In Stock (BC API verified 2026-10-09, inventory_level=5)
-**Price:** NZD $208.00 (incl. GST)
+**Price:** NZD $138.00 (incl. GST, on sale from $208.00) — BC API verified 2026-11-17 (Black November store-wide sale)

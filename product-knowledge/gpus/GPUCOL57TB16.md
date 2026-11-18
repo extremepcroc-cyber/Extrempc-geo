@@ -5,7 +5,8 @@
 **Brand:** Colorful
 **MPN:** GeForce RTX 5070 Ti Battle AX 16GB-V
 **URL:** https://www.extremepc.co.nz/colorful-geforce-rtx-5070-ti-battle-ax-16gb-v-graphics-card/
-**Stock:** We have plenty in stock
+**Stock:** ⛔ **OUT OF STOCK** (Onehunga OH=0, BC API verified 2026-11-18; was OH=8 on 11-17). Do NOT quote as available.
+**⚠️ RTX 5070 Ti in-stock siblings (BC verified 2026-11-18, all $2,599):** ASUS TUF **GPUASUTG5070TKW** (OH=5) / Gigabyte WINDFORCE OC V2 **GPUGIG57TW2O** (OH=2) / ASUS Prime **GPUASU5070TPO16** (OH=1, last unit) / MSI VENTUS 3X OC PLUS **GPUMSI5070TV316O** (OH=1, last unit). Recommend the TUF or WINDFORCE V2 (best stock). Do NOT quote GPUGIG5070TEO16 (EAGLE) / GPUGIG5070TWFOC16 (WINDFORCE) — both went OOS 2026-11-18.
 
 ## Quick Specs
 - GPU: NVIDIA GeForce RTX 5070 Ti

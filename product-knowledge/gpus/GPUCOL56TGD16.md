@@ -5,7 +5,7 @@
 **Brand:** Colorful
 **MPN:** GeForce RTX 5060 Ti Gaming DUO 16GB-V
 **URL:** https://www.extremepc.co.nz/nvidia-geforce/colorful-geforce-rtx-5060-ti-gaming-duo-16gb-v-graphics-card/
-**Stock:** We have plenty in stock (OH=6, BC API verified 2026-11-07)
+**Stock:** ⚠️ Only a few left (OH=5, BC API verified 2026-11-15; was OH=6 on 11-14)
 
 ## Quick Specs
 - GPU: NVIDIA GeForce RTX 5060 Ti

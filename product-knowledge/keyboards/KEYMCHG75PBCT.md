@@ -2,7 +2,7 @@
 
 **SKU:** KEYMCHG75PBCT
 **Brand:** MCHOSE
-**Price:** NZD $120.75 (incl. GST, on sale from $149.01) — BC API verified 2026-11-07 (was $129.00 sale on 11-06)
+**Price:** NZD $103.50 (incl. GST, on sale from $149.01) — BC API verified 2026-11-17 (Black November store-wide sale)
 **URL:** https://www.extremepc.co.nz/mchose-g75-pro-tri-mode-rgb-hot-swappable-wireless-gaming-keyboard-black-cabbage-tofu-switch-75-keys/
 
 ## Quick Specs

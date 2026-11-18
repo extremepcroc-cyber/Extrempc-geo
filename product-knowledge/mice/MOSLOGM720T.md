@@ -11,4 +11,4 @@
 - **Ergonomic:** No
 - **Gaming:** No
 
-**Stock:** In Stock — We have plenty in stock (OH=5, verified 2026-10-18, BC API RESTOCKED from OOS)
+**Stock:** Only a few left in stock (OH=4, BC API verified 2026-11-18; was OH=5 on 11-17 — dropped from plenty to few)

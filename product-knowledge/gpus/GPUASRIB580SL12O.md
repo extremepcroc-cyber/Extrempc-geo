@@ -4,7 +4,8 @@
 **SKU:** GPUASRIB580SL12O
 **MPN:** B580 SL 12GO
 **URL:** https://www.extremepc.co.nz/asrock-intel-arc-b580-steel-legend-12gb-oc-gddr6-triple-fan-graphics-card/
-**Stock:** In Stock — Only a few left (OH=7, BC API verified 2026-11-14; was OH=8 on 11-13)
+**Stock:** ⛔ **OUT OF STOCK** (Onehunga OH=0, BC API verified 2026-11-18; was OH=6 on 11-17). Do NOT quote as available.
+**⚠️ Arc B580 line now fully OOS (2026-11-18):** **this Steel Legend SKU** (OOS) + Challenger **GPUASRIB580CL12O** (OOS 2026-11-18, was OH=2 on 11-17). Recommend an equivalent AMD/NVIDIA in-stock GPU instead (e.g. RX 9060 XT 16GB GPUASR9060XTSL16 $1,035, or Arc B570 GPUASRB570C $494.50 for budget Intel). Do NOT recommend any B580 variant.
 
 ## Quick Specs
 - **GPU:** Intel Arc B580 (Battlemage, Intel Xe2-HPG architecture)

@@ -2,8 +2,8 @@
 
 **SKU:** HDSHYPCMNBK
 **Brand:** HyperX
-**Price:** NZD $41.40 (incl. GST) (on sale from $49.00) — BC API verified 2026-09-24 (calc $36 ex-GST × 1.15; was $34.99 on sale on 09-23, $38.00 before)
-**Status:** In Stock (OH=1, only a few left, verified 2026-09-24)
+**Price:** NZD $34.99 (incl. GST, on sale from $49.00) — BC API verified 2026-11-17 (Black November sale)
+**Status:** ❌ OUT OF STOCK (Onehunga OH=0, BC API verified 2026-11-17; was OH=1 on 09-24). Do NOT recommend as in stock.
 
 ## Quick Specs
 

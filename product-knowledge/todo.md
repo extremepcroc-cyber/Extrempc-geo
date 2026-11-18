@@ -19,6 +19,150 @@
 
 历史段落保留原样（当时写下的观测记录），但**以本声明为准**。
 
+## KB Backfill — Cron Run (2026-11-17)
+✔️ 已完成（2026-11-17）：EVA 知识补全 cron 运行（**Phase 2 — 库存/价格 diff + BC 实时核验 + 售罄/回库联动同步 + 兄弟款交叉引用修正**）。基准 **2026-11-16 → 2026-11-17** EVAcache（latest.txt → **2026-11-17**，03:01 构建，5 文件齐备，**构建正常**）。1540 → **1535** 品，**-5 净减 = 7 售罄 / 2 新增**，品牌数不变。所有变动 SKU 均经 **BC API 实时核验**（query-product.py / BC 直查：price + OH + is_visible），以 BC 返回值为准。
+
+**🔥 本期核心事件 — Black November 从整机促销升级为「全店大促」:**
+- 首页 banner 新文案（11-17 抓取）：**"Black November sale at ExtremePC: our biggest sale in 2026, ends 30 November"** → 促销范围从「仅整机 bundle」扩到**全店**（耳机/鼠标/键盘/摄像头/音箱/CPU 全部 `on_sale=true`）。
+- 11-16 → 11-17 diff 共 **73 个 SKU 价格变动**（几乎全为降价，个别上行：Motospeed G1 $34.3→$39 / 7800X3D $667→$699 / 9900X $759→$768.99 / 9950X $1127→$1138.99）——这是近一个月最大规模的一次价格波动。
+- **处置**：`recent-deals.md` 的 Black November 段已从「prebuilt only」改写为**全店大促**（含逐 SKU 验证价 + 结束日 11-30 + EVA 报价指引），并登记 7 个 OOS 品与 1 个回库 RAM。
+- **KB 价格同步（39 张产品卡）**：headsets（G522/G325B/G325W）· keyboards（G316 X 98 B/W、K270、K400+、K580R、K860、G75 Pro C/U、K99 V3 ×5、AULA S500）· mice（G304 ×3、G304 X ×4、G402、G502 Hero、G703/G903、Motospeed G1、Basilisk V3 X / Mobile / V3 Pro ×2、Cobra、DeathAdder V3 HS/Pro/Essential、Naga V2、Viper V3）——每张卡的 `**Price:**` 行已刷新为 11-17 BC 实测 sale 价（原无价行的补插一行）。整机/摄像头/音箱/线材按约定不进 KB 卡。
+
+**📉 新售罄（7 个从 11-16 缓存消失，全部 BC 实测 OH=0 / out of stock）:**
+- **CPUAMD9800X3DOEM** AMD Ryzen 7 9800X3D OEM（$869，OH 12→0）— `cpu-processors/CPUAMD9800X3DOEM.md` 标 **OUT OF STOCK**（原卡「We have plenty in stock OH=12」严重失真）+ 兄弟款指引（**CPUAMD9600XOEM** 9600X $373.75 sale OH=5 / **CPUAMD9700XOEM** 9700X $557.75 sale OH=19）。Siblings 段 9600X 引用（原 OH=29）已刷新为 OH=5 + sale 价。
+- **CPUINTU727KP** Intel Core Ultra 7 270K Plus LGA1851（$659，OH 1→0）— **无 KB 卡**（按约定），仅记录；LGA1851 系在库仍有 Ultra 7 265K 等。
+- **HDSHYPCMNBK** HyperX Cloud Mini 有线耳机（sale $34.99，OH 1→0）— `headsets/hyperx-cloud-mini.md` 标 **OUT OF STOCK**（原卡「In Stock OH=1」失真）+ 价格刷新（$41.40→$34.99 sale）。
+- **KEYGSV75LTBL** GravaStar Mercury V75 Lite（$269，OH 1→0）— `keyboards/KEYGSV75LTBL.md` 标 **OUT OF STOCK**（原卡「Only a few left OH=2」失真）。
+- **MOSMCHAX5PMS** MCHOSE AX5 Pro Max 银（sale $119，OH 1→0）— `mice/MOSMCHAX5PMS.md` 标 **OUT OF STOCK** + 价行补 $119 sale。**⚠️ 整线联动：AX5 Pro Max 黑（MOSMCHAX5PMB，is_visible=false 隐藏+OOS）/ 粉（MOSMCHAX5PMPB，OOS）/ 银（本款 OOS）三色全售罄** —— 黑款卡（原「Siblings in stock: 粉 OH=1 / 银 OH=1」）与粉款卡已联动改写为「整线售罄，勿推任何 AX5 Pro Max 变体」。EVA 推 MCHOSE 鼠标改推 G7 / Infinity 97 等在售款。
+- **MONAOC24G42E** AOC 24G4 2E 「Display Unit NO BOX」24" FHD 180Hz 显示器（OH 1→0）— **无 KB 卡**（Display Unit 非零售 + 显示器按约定），仅记录。
+- **185546** Razer Gigantus v2 Soft 鼠标垫 XXL（OH 1→0）— **无 KB 卡**（配件类），仅记录。
+
+**📈 回库/新增（2 个，BC 实测 OH>0 / in stock）:**
+- **RAMCRUCP6456** Crucial Pro 64GB DDR5-5600 单条（**$2,070**，OH=1 few）— **回库**（自 10-17 起 OOS）：`ram/RAMCRUCP6456.md` 从「OUT OF STOCK」翻转为 **In Stock — Only a few left (OH=1)**。64GB 桌面内存重回在售，EVA 答「64GB」可给此款（单条 64GB，非 kit）+ 既有 64GB kit（如 RAMADA64D556 若仍库）。
+- **GAMASONPS5DB** Sony PS5 DualSense 无线手柄 Midnight Black（**$119**，OH=25 plenty）— **无 KB 卡**（配件类按约定不建卡），仅记录。⚠️ 手柄为新到货品线，如店主希望 EVA 可推，请确认建卡。
+
+**📉 库存跨档/刷新（需改 KB 措辞的已处理）:**
+- **CPUAMD9600XOEM** 9600X — OH 29→**5**（plenty→few），无专属卡；其被引用处（9800X3D 卡 Siblings 段）已刷新为 OH=5 + sale 价。
+- **COOTMRPS120SEA** Thermalright Phantom Spirit 120 SE ARGB — OH 5→**2**（few 档内刷新），`cooling/thermalright-ps120-se-argb.md` 数值刷新（few→few，措辞不变，仅刷新 OH/日期）。
+- **PSUGIGP550SS** Gigabyte P550SS 550W Silver — OH 3→**2**（few 内）/ **PSUTMRTB650B** Thermalright TB 650W Bronze — OH 2→**1**（few 内）— 数值刷新，措辞不变。
+- 其余 ~35 件库存 ±1~5 均在原档位内（Segotep/Thermalright 风扇冷头、AMD OEM CPU 9600X/9700X/9900X、ASRock 9060 XT SL/B580 SL、AULA/Epomaker/MCHOSE/Logitech 键鼠、SGL 线材、LiberNovo Omni 椅、Acer XZ270U、RAMPNYX32D43 等），措辞无需改。
+
+**🔗 兄弟款/交叉引用联动修正（防 EVA 推到缺货款）— 本次核心动作:**
+- **AX5 Pro Max 整线售罄**：`mice/MOSMCHAX5PMB.md`（黑，删「粉/银 in stock」残留改整线 OOS）· `mice/MOSMCHAX5PMPB.md`（粉，加整线 OOS 注记）· `mice/MOSMCHAX5PMS.md`（银，标 OOS + 整线提示）三卡互相对齐，EVA 勿推任何 AX5 Pro Max。
+- **9800X3D OOS**：`cpu-processors/CPUAMD9800X3DOEM.md` 自卡改 OOS + Siblings 段 9600X 引用刷新（OH=29→5，补 sale 价）。
+- **RAMCRUCP6456 回库**：`ram/RAMCRUCP6456.md` 状态翻转 OOS→In Stock (OH=1)；RAM 兄弟卡（RAMCRU32D556 32GB / RAMTEATC32D56 6000）未含「64GB 全 OOS」断言，无需联动改。
+
+**🔧 兼容缺口补全（Phase 2）:** 0 个新值 — 冻结缺口（机箱 8 + 主板 2 stub 数值规格 / 散热 1 TDP / 电源 6 件网络专用电源尺寸）沿用 11-16 结论。本期无新增候选值，遵守「只用官方页 + 绝不编造」，不写猜测值。
+
+**🚧 待店主（沿用 11-16 + 本次更新）:**
+1. **🔥 Black November 已确认全店大促 + 结束日 11-30**（banner 明示 "ends 30 November"）——此前「促销未登记/待确认起止」项可**关闭**：已按 banner + 73 SKU 实测价登记进 `recent-deals.md`。请店主确认：全店 sale 是否就是 "biggest sale in 2026" 这一档（无更大力度），以及 12-01 后价格是否全部回 list。
+2. **🆕 7 款同日售罄（本期最大库存事件）**——请店主确认补货/下架：9800X3D OEM / Ultra 7 270K Plus / HyperX Cloud Mini / GravaStar V75 Lite / **MCHOSE AX5 Pro Max 整线（黑+粉+银三色全没）** / AOC 24G4 Display Unit / Razer Gigantus XXL 垫。EVA 已按 OOS 对外、给兄弟款指引。
+3. **🆕 RAMCRUCP6456 64GB DDR5-5600 回库（OH=1）**——64GB 桌面内存重回在售，是否要 EVA 主动推？（单条 64GB，非 2×32 kit）
+4. **🆕 GAMASONPS5DB Sony PS5 DualSense（$119, OH=25）新到货**——手柄品线新 SKU，是否建 KB 卡供 EVA 推荐？
+5. **warranty-policy.md** — 仍阻塞，需店主逐项确认各品类保修年限（沿用 11-16，含 ProArt X870E-CREATOR「3-year」嫌疑项）。
+6. **git working tree 累积未提交** — 自 11-14 店主 commit（`f59b8f2`）起又累积本期 **49 处 KB 卡改动 + recent-deals 全店大促改写**（另有 ~8 处前几日遗留未提交改动：segotep-endura-1、COOTMRPS120SEB、GPUCOL56T ×2、KEYLEOH75PBP、MOSLOGG502XB、MBASUPAX870ECWF、RAMWHA32G6000），建议店主择机 commit。
+7. **⚠️ exie-web profile skill 参考文件价格快照已过时**（沿用 11-16）：`ram-desktop-memory-lookup.md` 10-20 快照 TeamGroup $829 等，实际已 $899+（Whalekom 64G 现回库）——需店主在 exie-web 更新。
+8. **32GB DDR5-6000 内存持续高位**（沿用 11-16）— $899–999 档；64GB 现回库 $2,070。
+9. **EVAcache 双位置**（沿用 11-16）— canonical（exie-web）正常 3am 重建；旧副本（exie profile，停在 09-08）勿用于报价。
+10. **RAM 瓶颈 skill 段落过期**（沿用 11-16）— 桌面 DDR5 在库 10+ 条，建议店主更新 skill。
+11. **9070 XT「最值」高频反复**（沿用 11-16）— Challenger↔Steel Legend 多次易主；话术「三兄弟价格接近，以当日页面为准」。
+12. **RTX 5070 Ti 兄弟款 2 卡** GPUASU5070TP16 / GPUGIG5070TWFOC16 — 仍 is_visible=false，KB 仍标旧价（沿用 11-16）。
+13. **白 850W / 650W 电源全线 OOS**（沿用 11-16）— 白系高端电源库存收紧。
+14. **MBASRX870PRS Quick Specs 脏数据**（沿用 11-16）— Chipset 误标 / Memory Slots / M.2。
+15. **G502X 有线整线（黑 + 白）售罄**（沿用 11-16）— EVA 改推 X PLUS 无线款 / G502 Hero（本期 G502 Hero 降价 $86.25→$64.40，更具竞争力）。
+
+**本次实际产出:** **49 个 KB 产品文件修改**（39 张价格同步（Black November 全店 sale，含 13 张补插价行）+ 6 张标 OOS（9800X3D / Cloud Mini / V75 Lite / AX5 银 / AX5 黑 / AX5 粉 整线联动）+ 1 张 RAMCRUCP6456 回库翻转 + 3 张库存档内刷新（PS120SE ARGB / TB650 / P550SS））；0 新建（7 售罄 + 2 新增均按约定不建卡，或无 KB 卡）；0 删除；0 兼容性数值补值（官方页仍不可达）。另 1 张兄弟款交叉引用同步（COOTMRPS120SEB → PS120SE ARGB OH 刷新）。`product-knowledge/recent-deals.md` 为本次**人工改写**（全店大促登记）+ 3am auto-deals 自动重生成（Biggest saving $650）。
+**知识库产品文件总数: 930（沿用 11-16 口径，本次 0 新建 / 0 删除）。**
+
+---
+## KB Backfill — Cron Run (2026-11-16)
+✔️ 已完成（2026-11-16）：EVA 知识补全 cron 运行（**Phase 2 — 库存/价格 diff + BC 实时核验 + 售罄/降档联动同步 + 兄弟款交叉引用修正**）。基准 **2026-11-15 → 2026-11-16** EVAcache（latest.txt → **2026-11-16**，03:02 构建，运行 03:01 时今日目录尚未产出，等待构建完成后 diff，**构建正常**，5 个文件齐备）。1542 → **1540** 品，**-2 净减 = 2 售罄 / 0 新增**，127 品牌不变。所有变动 SKU 均经 **BC API 实时核验**（query-product.py：price + OH），以 BC 返回值为准。
+
+**📉 新售罄（2 个从缓存消失，全部 BC 实测 OH=0 / out of stock）:**
+- **COOJONZB36WR** Jonsbo ZB-360WR ARGB 360mm 反转风扇 白（$69，OH 2→0）— `cooling/COOJONZB36WR.md` 标 **OUT OF STOCK** + 兄弟款指引（**COOJONZB360W** 白正转 OH=2 $63.25 / **COOJONZB360B** 黑正转 OH=1 $63.25 仍库；反转需求推 **COOJONZB24WR** 240mm 白反转 OH=4 $51.75）。**⚠️ 兄弟卡联动：`cooling/COOJONZB36BR.md`（黑反转，10-30 起 OOS）原「Siblings in stock」行仍把白反转列为在库（OH=2）— 已改写**：ZB-360 系现仅剩 2 款正转在库，两反转款全 OOS。EVA 推 360mm 风扇改用 ZB-360 正转款或 ZB-240WR。
+- **MBASUPAX870ECWF** ASUS ProArt X870E-CREATOR WIFI AM5 ATX（**$1,179**，OH 1→0）— `product-knowledge/motherboards/MBASUPAX870ECWF.md` 标 **OUT OF STOCK**（单件 SKU；原卡「We have plenty in stock」严重失真）。全仓扫描无其他卡引用此 SKU，无兄弟款残留需修。⚠️ **🆕 待店主**：此卡 Quick Specs 含「**3-year NZ manufacturer warranty**」表述 —— 与保修政策口径（主板=厂商保修，年限以产品页为准）存疑，请店主确认是否属实，否则按 11-15 遗留项 #1 warranty-policy 一并处理。
+
+**💰 价格变动（8 项缓存 diff，全部为整机 XPC*/Black November 系，按约定不进 KB）:**
+- 降价 6: XPC1111 3998→3995 / XPC11159 4499→**4249** / XPC1134 4399→4299 / XPC1253 4249→3995 / XPC13799 2999→2899 / XPC3313 4599→4499 / XPC3515 4198.99→**4089**（Black November 系继续走低）
+- 涨价 1: **XPC1197**（9850X3D / RX 9070 XT 整机）4899→**5199**
+- ⚠️ 整机价格随 Black November 促销节奏每日 ±$100~300 波动，EVA 推整机一律以当日 BC 页面为准（沿用 11-10 店主待办 #7 话术）。
+
+**📉 库存波动（31 件，均 ±1~5；2 件跨入 few 档需改 KB，已处理；其余原档位内无需改）:**
+- **KEYLEOH75PBP** LEOBOG Hi75c PRO 黑粉 — OH 7→**5**（plenty→few），`product-knowledge/keyboards/KEYLEOH75PBP.md` 降档。
+- **MOSRAZVV3HS** Razer Viper V3 HyperSpeed 无线 — OH 6→**5**（few 档内刷新），**双 KB 卡**（`product-knowledge/mice/` + `gaming-mice/`）刷新。**⚠️ 顺带修陈旧价**：`gaming-mice/` 卡原写 **$138 list**，实测自 11-13 起即 **$109.25 sale from $138**（连续 4 日缓存确认）— 已改正文价行 + schema price + 状态行；`product-knowledge/mice/` 卡补 price 行。
+- **RAMWHA32G6000** Whalekom 32GB DDR5-6000 — OH 1→**2**（few 档内回升），`product-knowledge/ram/RAMWHA32G6000.md` 刷新。
+- 其余 28 件 ±1~5（Segotep/Jonsbo/Thermalright 风扇冷头、AMD OEM CPU、ASRock 9060 XT 12→11、Gigabyte 650W 白/银 9→8、Whalekom 16GB 64→63、Kingston NV3 64→63、SGL 线材/垫、Lamzu/Epomaker/LEOBOG 键鼠、MSI 5060 Ti 8G Ventus 3 3→2、Acer EK251Q 3→2 等）均在原档位内，措辞无需改。
+
+**🔗 兄弟款/交叉引用联动修正（防 EVA 推到缺货款）— 本次核心动作:**
+- 全仓扫描 **COOJONZB36WR**（白反转 OOS）引用：**1 处**兄弟卡 `cooling/COOJONZB36BR.md`（黑反转卡）的「Siblings in stock」行已改写（原把白反转 OH=2 列为在库）。
+- 全仓扫描 **MBASUPAX870ECWF** 引用：无其他产品卡引用（仅 kb_skus 清单），无兄弟款残留。
+
+**🔧 兼容缺口补全（Phase 2）:** 0 个新值 — 冻结缺口（机箱 8 + 主板 2 stub 数值规格 / 散热 1 TDP / 电源 6 件网络专用电源尺寸）沿用 11-15 结论。今日（2026-11-16）重测官方页可达性：segotep.com **404**（较 11-15 的 200 恶化）/ jonsbo.com 301（非厂商重定向）/ thermalright.com 301 / asrock.com 200（产品页 JS 渲染，静态规格不可得）/ **lianli.com 000（超时）** / **gigabyte.com 301** / **msi.com 301**。遵守「只用官方页 + 绝不编造」，不写猜测值。
+
+**🚧 待店主（沿用 11-15 + 本次更新）:**
+1. **warranty-policy.md** — 仍阻塞，需店主逐项确认各品类保修年限。**🆕 新增嫌疑项**：`product-knowledge/motherboards/MBASUPAX870ECWF.md`（ProArt X870E-CREATOR）卡内「3-year NZ manufacturer warranty」表述待确认（该 SKU 本日 OOS，见上）。
+2. ~~git working tree 累积未提交~~ — **店主已于 11-14 03:57 commit（`f59b8f2`）**，遗留项关闭；本次 7 处改动 + 前日 13 处 KB 卡 + recent-deals auto 在 working tree，建议店主择机再 commit 一次。
+3. **⚠️ exie-web profile skill 参考文件价格快照已过时**（沿用 11-15）：`profiles/exie-web/skills/.../references/ram-desktop-memory-lookup.md` 的「2026-10-20 实测快照」TeamGroup $829 / Pallas $859 / Vesta $859，实际 11-12 已 $899 / $999 / $999（Whalekom 32G-6000 现 $897、OH 回补至 2）。该文件在 **exie-web profile**（cross-profile guard 拒绝直写）——需店主在 exie-web 更新。
+4. **32GB DDR5-6000 内存持续涨价**（沿用 11-15）— 11-12 已集体 $829–899→$899–999；如近期持续请店主确认是否渠道结构性涨价。
+5. **EVAcache 双位置**（沿用 11-15）— canonical（exie-web）正常 3am 重建；旧副本（exie profile，停在 09-08）勿用于报价。
+6. **RAM 瓶颈 skill 段落过期**（沿用 11-15）— 桌面 DDR5 在库仍 10+ 条，建议店主更新 skill。
+7. **9070 XT「最值」高频反复**（沿用 11-15）— Challenger↔Steel Legend 多次易主；EVA 话术建议「三兄弟价格接近，以当日页面为准」。
+8. **「Black November Sale」促销未登记**（沿用 11-15）— 请店主确认促销名称/起止/范围后登记。
+9. **RTX 5070 Ti 兄弟款 2 卡** GPUASU5070TP16 / GPUGIG5070TWFOC16 — 仍 is_visible=false，KB 仍标旧价。
+10. **白 850W / 650W 电源全线 OOS**（沿用 11-15）— 白系高端电源库存收紧，请店主关注补货。
+11. **MBASRX870PRS Quick Specs 脏数据**（沿用 11-15）— Chipset 误标 / Memory Slots / M.2，待店主确认后重写规格段。
+12. **G502X 有线整线（黑 + 白）售罄**（沿用 11-15）— 是否补货？EVA 目前对外一律答 OOS，改推 X PLUS 无线款 / G502 Hero。
+13. **🆕 ZB-360 系两反转款（黑 COOJONZB36BR + 白 COOJONZB36WR）全 OOS** — 360mm 反转风扇仅剩 ZB-240WR（240mm 白反转，OH=4）与 ZA-420BR/WR（420mm 系）；请店主关注 Jonsbo 360mm 反转补货。
+14. **🆕 ProArt X870E-CREATOR（MBASUPAX870ECWF，$1,179）OOS** — 单件 SKU 售罄，X870E 系在库仍有 X870 Pro-A / X870E NOVA 等，EVA 按兄弟款指引。
+
+**本次实际产出:** **7 个 KB 产品文件修改**（2 OOS 标售罄含 1 兄弟卡「Siblings in stock」行联动改写 + 1 陈旧价修正 $138→$109.25 sale 含 schema 价 + 2 库存降/刷档 + 1 few 回升刷新）；0 新建；0 删除；0 兼容性数值补值（官方页仍不可达）。`product-knowledge/recent-deals.md` 为 3am auto-deals 自动重生成，非 KB 人工改动。
+
+---
+## KB Backfill — Cron Run (2026-11-15)
+✔️ 已完成（2026-11-15）：EVA 知识补全 cron 运行（**Phase 2 — 库存/价格 diff + BC 实时核验 + 售罄/回库联动同步 + 兄弟款交叉引用修正**）。基准 **2026-11-14 → 2026-11-15** EVAcache（latest.txt → **2026-11-15**，03:0x 构建，运行 03:02 时今日目录尚未产出，等待构建完成后 diff，**构建正常**，5 个文件齐备）。1545 → **1542** 品，**-3 净减 = 4 售罄 / 1 新增**。所有变动 SKU 均经 **BC API 实时核验**（query-product.py：price + OH），以 BC 返回值为准。
+
+**📉 新售罄（4 个从缓存消失，全部 BC 实测 OH=0 / out of stock）:**
+- **MOSLOGG502XB** Logitech G502X Optical Wired 黑（$120.75 sale → BC 实测 **$139 回 list**，促销结束）— **双 KB 卡标 OUT OF STOCK**（`gaming-mice/` + `product-knowledge/mice/`），schema `InStock→OutOfStock` + 价 $120.75→$139。**⚠️ 关键联动：有线 G502X 整线无货** —— 白款 **MOSLOGG502XW** 亦 OOS（OH=0）。**4 处兄弟/对照卡已校准**：`gaming-mice/MOSLOGG502XW.md`（黑款注 OOS）· `MOSLOGG502XPW.md` / `MOSLOGG502XPBK.md`（X PLUS 无线款改标「无线款为在售首选」）· `MOSLOGG402B.md`（G402 对照行改「勿推」）。**在售替代**：X PLUS 无线白 MOSLOGG502XPW（$229 sale，OH=3）/ X PLUS 无线黑 MOSLOGG502XPBK（$249，OH=1）/ G502 Hero 有线黑 MOSLOGG502HB（$86.25 sale，OH=12）。
+- **CASSEGENDBK** Segotep Endura 1 钢化玻璃 ATX 中塔 黑（$51.75 sale → BC 实测 **$58.99 回 list**，促销结束，OH 1→0）— `product-knowledge/computer-cases/segotep-endura-1-black.md` 标 **OUT OF STOCK** + 价刷新。**无白款兄弟**。给出在库 Segotep 机箱替代：Endura Pro+ EATX 黑 CASSEGEPPB（$149.01，OH=11）/ Endura Pro+ EATX 白 CASSEGEPPW（$115，OH=6）/ Endura 240S M-ATX 黑 CASSEGE240SB（$74.75，OH=23）/ Endura 240S M-ATX 白 CASSEGE240SW（$80.50，OH=13）。
+- **LAPMSIK5I71555H** MSI Katana 15 HX B14WEK 15.6" QHD（$2,472.50 sale，OH 1→0）— **无 KB 卡**（笔记本按约定不建卡），跳过。
+- **ODDLGGP60NS50** LG GP60NS50 便携 USB 电源 DVD 刻录机（$58.99，OH 1→0）— **无 KB 卡**（配件类按约定不建卡），跳过。
+
+**📈 回库/新增（1 个，BC 实测 OH>0）:**
+- **CABMGUAMU120** MAX Guard MP01M USB-A 转 Micro USB 快充线 1.2M（**$15**，OH=15 plenty）— **无 KB 卡**（线材配件按约定不建卡），仅记录。
+
+**💰 价格变动:** 0 项 KB 卡受影响 —— 本期价格变动仅 G502X 黑（见上，促销结束回 list，已随 OOS 处理）+ Endura 1 黑（同上）。其余 2 项为整机/无 KB 卡。**无新增 price-only KB 同步。**
+
+**📉 库存跨档/刷新（4 件需改 KB，已全部处理）:**
+- **COOTMRPS120SEA** Thermalright Phantom Spirit 120 SE ARGB（$80.50 sale from $99）— OH 7→**5（few）**，**双 KB 卡**降档（`cooling/COOTMRPS120SEA.md` + `product-knowledge/cooling/thermalright-ps120-se-argb.md`）+ 兄弟卡 `product-knowledge/cooling/COOTMRPS120SEB.md` 的「在售兄弟 ARGB 款」数值 OH=12→**OH=5 only a few left** 联动刷新。
+- **GPUCOL56TGD16** Colorful RTX 5060 Ti Gaming DUO 16GB（$1,758.99）— OH 6→**5（few）**，`product-knowledge/gpus/GPUCOL56TGD16.md` 降 plenty→few。
+- **GPUCOL56TUW8** Colorful iGame RTX 5060 Ti Ultra W DUO OC 8GB（$1,039）— OH 6→**5（few）**，**双 KB 卡**降 plenty→few（`product-knowledge/gpus/GPUCOL56TUW8.md` + `video-cards/GPUCOL56TUW8.md`），后者「8 units」断言 + 「Same-day pickup (8 units)」两处改「limited stock OH=5」。
+- **ACCELE20WUAC** ELEKFONE 20W 双口 USB-C 充电器（$25）— OH 4→**34（回补 plenty）**，**无 KB 卡**（配件类按约定不建卡），无需改。
+
+**🔗 兄弟款/交叉引用联动修正（防 EVA 推到缺货款）— 本次核心动作:**
+- 全仓扫描 **MOSLOGG502XB**（黑款 OOS）引用，**4 处**兄弟/对照卡已加「⚠️ OOS 2026-11-15」注记：`gaming-mice/MOSLOGG502XW.md`·`MOSLOGG502XPW.md`·`MOSLOGG502XPBK.md`·`MOSLOGG402B.md`。
+- 全仓扫描 **COOTMRPS120SEA**（few 降档）引用，**1 处**兄弟卡（COOTMRPS120SEB 黑款 OOS 卡的「在售兄弟」）数值已刷新至 OH=5。
+- **G502X 有线整线无货**（黑 + 白均 OOS）已写入 G502X 黑双卡 Status，EVA 勿推有线 G502X，改推 X PLUS 无线款或 G502 Hero。
+
+**🔧 兼容缺口补全（Phase 2）:** 0 个新值 — 冻结缺口沿用前日结论。今日（2026-11-15）重测官方页可达性：segotep.com 200（仍 JS 壳）/ jonsbo.com 200（仍非厂商）/ thermalright.com 200 / asrock.com 200（产品页 JS 渲染，静态规格不可得）/ **lianli.com 000（超时）** / **gigabyte.com 403** / **msi.com 403**。遵守「只用官方页 + 绝不编造」，不写猜测值。
+
+**🚧 待店主（沿用 11-12 + 本次更新）:**
+1. **warranty-policy.md** — 仍阻塞，需店主逐项确认各品类保修年限。
+2. **git working tree 累积未提交** — 自 10-14 店主上次 commit（`7e0bdd7`）起已累积 **32 天，大量改动未提交**（含本次 13 处 KB 卡 + recent-deals auto），强烈建议店主 commit 一次。
+3. **⚠️ exie-web profile skill 参考文件价格快照已过时**（沿用 11-12）：`profiles/exie-web/skills/.../references/ram-desktop-memory-lookup.md` 的「2026-10-20 实测快照」TeamGroup $829 / Pallas $859 / Vesta $859，实际 11-12 已 $899 / $999 / $999。该文件在 **exie-web profile**（cross-profile guard 拒绝直写）——需店主在 exie-web 更新。
+4. **32GB DDR5-6000 内存持续涨价**（沿用 11-12）— 11-12 已集体 $829–899→$899–999；如近期持续请店主确认是否渠道结构性涨价。
+5. **EVAcache 双位置**（沿用 11-12）— canonical（exie-web）正常 3am 重建；旧副本（exie profile，停在 09-08）勿用于报价。
+6. **RAM 瓶颈 skill 段落过期**（沿用 11-06）— 桌面 DDR5 在库仍 10+ 条，建议店主更新 skill。
+7. **9070 XT「最值」高频反复**（沿用 11-10）— Challenger↔Steel Legend 多次易主；EVA 话术建议「三兄弟价格接近，以当日页面为准」。
+8. **「Black November Sale」促销未登记**（沿用 11-06）— 请店主确认促销名称/起止/范围后登记。
+9. **RTX 5070 Ti 兄弟款 2 卡** GPUASU5070TP16 / GPUGIG5070TWFOC16 — 仍 is_visible=false，KB 仍标旧价。
+10. **白 850W / 650W 电源全线 OOS**（沿用 11-05/11-04）— 白系高端电源库存收紧，请店主关注补货。
+11. **MBASRX870PRS Quick Specs 脏数据**（沿用 11-03）— Chipset 误标 / Memory Slots / M.2，待店主确认后重写规格段。
+12. **🆕 G502X 有线整线（黑 MOSLOGG502XB + 白 MOSLOGG502XW）售罄** — 是否补货？EVA 目前对外一律答 OOS，改推 X PLUS 无线款 / G502 Hero。
+
+**本次实际产出:** **13 个 KB 产品文件修改**（2 OOS 标售罄含双卡 MOSLOGG502XB + 单卡 CASSEGENDBK + 2 价格回 list + 1 schema InStock→OutOfStock + 4 兄弟款/对照卡 OOS 注记 + 3 库存降 few 档含 1 兄弟卡数值联动 + 2 件「8 units」断言刷新）；0 新建（新增 CABMGUAMU120 为线材配件 + LAPMSIK5I71555H 笔记本 + ODDLGGP60NS50 DVD 刻录机，均按约定不建卡）；0 删除；0 兼容性数值补值（官方页仍不可达）。`product-knowledge/recent-deals.md` 为 3am auto-deals 自动重生成（Biggest saving $501→$536），非 KB 人工改动。
+**知识库产品文件总数: 930（product-knowledge/ 产品子目录 .md，不含指南/FAQ/todo；本次 0 新建 / 0 删除，与前次持平）。**
+
+---
 ## KB Backfill — Cron Run (2026-11-12)
 ✔️ 已完成（2026-11-12）：EVA 知识补全 cron 运行（**Phase 2 — 库存/价格 diff + BC 实时核验 + 售罄/回库联动同步 + 兄弟款交叉引用修正**）。基准 **2026-11-11 → 2026-11-12** EVAcache（latest.txt → **2026-11-12**，03:02 构建，1557 → **1557** 品，**6 售罄 / 6 新增**，净零）。所有变动 SKU 均经 **BC API 实时核验**（query-product.py：price + OH + URL），以 BC 返回值为准。
 

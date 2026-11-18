@@ -3,8 +3,8 @@
 **SKU:** PSUSEGGM1250W1B
 **Brand:** Segotep
 **Price:** NZD $399.00 (incl. GST) — BC API verified 2026-10-01 (list $346.96 ex-GST × 1.15, no sale)
-**Stock:** In Stock — Only a few left (OH=5, verified 2026-10-01, BC API)
-**Status:** In Stock
+**Stock:** ⛔ **OUT OF STOCK** (Onehunga OH=0, BC API verified 2026-11-18; was OH=1 on 11-17 — last unit sold)
+**Status:** ⛔ **OUT OF STOCK (2026-11-18).** 1250W is a high-wattage unit — if the customer needs ~1250W, check the store for restock or pair a lower-wattage 850W unit for a 9070 XT/5070 Ti class build. Do NOT quote this SKU as available.
 
 ## Quick Specs
 

@@ -1,6 +1,5 @@
 # Logitech K400 Plus Wireless Keyboard with Touch Pad - Black
-
-**Price:** NZD $74.99 (incl. GST) — BC API verified 2026-09-23 (list, no sale)
+**Price:** NZD $63.25 (incl. GST, on sale from $74.99) — BC API verified 2026-11-17 (Black November store-wide sale)
 **SKU:** KEYLOGK400PBK
 **Brand:** Logitech
 **URL:** https://www.extremepc.co.nz/logitech-k400-plus-wireless-keyboard-with-touch-pad-black/

@@ -3,7 +3,7 @@
 **Price:** NZD $460.00 (incl. GST) — on sale from $480.00 (verified 2026-09-13, BC API calc $400 × 1.15)
 **SKU:** MBASRB850ILW
 **URL:** https://www.extremepc.co.nz/asrock-phantom-gaming-b850i-pg-lightning-wifi-itx-motherboard-for-amd-ryzen-cpus-socket-am5-ddr5/
-**Stock:** Only a few left in stock (OH=10, verified 2026-09-13, BC API)
+**Stock:** Only a few left in stock (OH=5, BC API verified 2026-11-18; was OH=6 on 11-17; was OH=10 on 09-13)
 **Status:** NEW ARRIVAL 2026-09-13 (first seen in stock in 09-13 cache)
 
 ## Quick Specs

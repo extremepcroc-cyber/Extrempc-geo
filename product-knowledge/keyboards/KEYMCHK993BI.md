@@ -1,6 +1,5 @@
 # MCHOSE K99 V3 RGB Hot-Swappable Wireless Gaming Keyboard - Sky Blue, Icy Creamsicle Switch, 99 Keys
-
-**Price:** NZD $189.00 (incl. GST) on sale from $209.00 — BC API verified 2026-09-30 (sale started 09-30)
+**Price:** NZD $172.50 (incl. GST, on sale from $209.00) — BC API verified 2026-11-17 (Black November store-wide sale)
 **SKU:** KEYMCHK993BI
 **Brand:** MCHOSE
 **URL:** https://www.extremepc.co.nz/mchose-k99-v3-rgb-hot-swappable-wireless-gaming-keyboard-sky-blue-icy-creamsicle-switch-99-keys-hw-k99v3-2/

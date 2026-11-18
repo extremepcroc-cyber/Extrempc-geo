@@ -1,6 +1,7 @@
 # Logitech G304 LIGHTSPEED Wireless Gaming Mouse Blue
 
 **SKU:** MOSG304BU
+**Price:** NZD $74.75 (incl. GST, on sale from $89.00) — BC API verified 2026-11-17 (Black November store-wide sale)
 
 **Brand:** Logitech
 

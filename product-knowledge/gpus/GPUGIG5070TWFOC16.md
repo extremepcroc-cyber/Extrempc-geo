@@ -3,8 +3,8 @@
 **Price:** NZD $2,599.00 (incl. GST, list) — BC API verified 2026-11-12 (was $2,519.01 on 09-08)
 **SKU:** GPUGIG5070TWFOC16
 **URL:** https://www.extremepc.co.nz/gigabyte-geforce-rtx-5070-ti-windforce-oc-sff-16gb-graphics-card/
-**Stock:** ✅ RESTOCKED (OH=2, few, BC API verified 2026-11-12; was OOS/hidden since 2026-09-10). Only 2 left — verify before promising.
-**Status:** IN STOCK again — available online as of 2026-11-12.
+**Stock:** ⛔ **OUT OF STOCK** (Onehunga OH=0, BC API verified 2026-11-18; was OH=2 on 11-17 — last 2 units sold). Do NOT quote as available.
+**⚠️ RTX 5070 Ti in-stock siblings (BC verified 2026-11-18, all $2,599):** ASUS TUF **GPUASUTG5070TKW** (OH=5, best stock) / Gigabyte WINDFORCE OC **V2 GPUGIG57TW2O** (OH=2, direct successor to this SFF card) / MSI VENTUS 3X OC PLUS **GPUMSI5070TV316O** (OH=1, last unit). Do NOT quote GPUGIG5070TEO16 (EAGLE) / GPUCOL57TB16 (Battle AX) — both OOS 2026-11-18.
 
 ## Quick Specs
 - GPU: NVIDIA GeForce RTX 5070 Ti (Blackwell)

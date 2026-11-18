@@ -3,7 +3,7 @@
 **SKU:** SSDHPFX900P512
 **Brand:** HP
 **Price:** NZD $229.00 (incl. GST)
-**Status:** In Stock
+**Status:** ⛔ **OUT OF STOCK** (Onehunga OH=0, BC API verified 2026-11-18; was OH=1 on 11-17 — last unit sold). FX900 Plus siblings in stock: **SSDHPFX900PS2T 2TB (OH=1)** / **SSDHPFX900PS4T 4TB (OH=58)** — recommend a larger capacity if the 512GB is needed.
 
 ## Quick Specs
 
