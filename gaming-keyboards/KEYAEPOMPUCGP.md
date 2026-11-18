@@ -1,5 +1,10 @@
 # Epomaker MIX Pro Coiled USB-C Cable 1.5m Gradiant Purple
 
+**Price:** $69 inc GST
+**SKU:** KEYAEPOMPUCGP
+**MPN:** 6975485162267
+**URL:** https://www.extremepc.co.nz/epomaker-mix-pro-coiled-usb-c-cable-1-5m-gradiant-purple/
+
 ## What It Is
 
 A USB-C, coiled cable, purple colorway from Epomaker. The Epomaker MIX Pro Coiled USB-C Cable 1.5m Gradiant Purple is built for gamers and typists who want USB-C, coiled cable, purple colorway.
@@ -23,14 +28,6 @@ A USB-C, coiled cable, purple colorway is a great choice for gamers and typists.
 - **Typists** who want a comfortable keyboard
 - **Anyone who wants a Epomaker keyboard**
 
-## Pricing at ExtremePC (incl. 15% GST)
-
-| Variant | Price (NZD) |
-|---|---|
-| Epomaker MIX Pro Coiled USB-C Cable 1.5m Gradiant Purple | **$69.00** |
-
-*Prices current as of November 2026. May vary with stock and promotions.*
-
 ## Where to Buy
 
 - **In-store**: ExtremePC Onehunga (Auckland)
@@ -44,6 +41,3 @@ A USB-C, coiled cable, purple colorway is a great choice for gamers and typists.
 ## Warranty
 
 Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page).
-
----
-*Last verified: 2026-11-17*

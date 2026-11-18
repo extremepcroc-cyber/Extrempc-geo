@@ -1,5 +1,10 @@
 # LOGITECH K270 Full-sized Wireless Keyboard
 
+**Price:** $59 inc GST
+**SKU:** KEYLOGK270
+**MPN:** 920-003058
+**URL:** https://www.extremepc.co.nz/logitech-k270-full-sized-wireless-keyboard/
+
 ## What It Is
 
 A wireless from Logitech. The LOGITECH K270 Full-sized Wireless Keyboard is built for gamers and typists who want wireless.
@@ -23,14 +28,6 @@ A wireless is a great choice for gamers and typists. The LOGITECH K270 Full-size
 - **Typists** who want a comfortable keyboard
 - **Anyone who wants a Logitech keyboard**
 
-## Pricing at ExtremePC (incl. 15% GST)
-
-| Variant | Price (NZD) |
-|---|---|
-| LOGITECH K270 Full-sized Wireless Keyboard | **$36.80** |
-
-*Prices current as of November 2026. May vary with stock and promotions.*
-
 ## Where to Buy
 
 - **In-store**: ExtremePC Onehunga (Auckland)
@@ -44,6 +41,3 @@ A wireless is a great choice for gamers and typists. The LOGITECH K270 Full-size
 ## Warranty
 
 Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page).
-
----
-*Last verified: 2026-11-17*

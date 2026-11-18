@@ -1,5 +1,10 @@
 # Epomaker HE108 Hot-Swappable RGB Wireless Mechanical Keyboard - Black, Creamy Jade HE Switch, 108 Keys
 
+**Price:** $209 inc GST
+**SKU:** KEYEPOH108BC
+**MPN:** HE108 Black CJ
+**URL:** https://www.extremepc.co.nz/wireless-gaming-keyboards/epomaker-he108-hot-swappable-rgb-wireless-mechanical-keyboard-black-creamy-jade-he-switch-108-keys/
+
 ## What It Is
 
 A hot-swappable switches, wireless, RGB lighting, mechanical switches, black colorway, cream colorway from Epomaker. The Epomaker HE108 Hot-Swappable RGB Wireless Mechanical Keyboard - Black, Creamy Jade HE Switch, 108 Keys is built for gamers and typists who want hot-swappable switches, wireless, RGB lighting, mechanical switches, black colorway, cream colorway.
@@ -23,14 +28,6 @@ A hot-swappable switches, wireless, RGB lighting, mechanical switches, black col
 - **Typists** who want a comfortable keyboard
 - **Anyone who wants a Epomaker keyboard**
 
-## Pricing at ExtremePC (incl. 15% GST)
-
-| Variant | Price (NZD) |
-|---|---|
-| Epomaker HE108 Hot-Swappable RGB Wireless Mechanical Keyboard - Black, Creamy Jade HE Switch, 108 Keys | **$189.00** |
-
-*Prices current as of November 2026. May vary with stock and promotions.*
-
 ## Where to Buy
 
 - **In-store**: ExtremePC Onehunga (Auckland)
@@ -44,6 +41,3 @@ A hot-swappable switches, wireless, RGB lighting, mechanical switches, black col
 ## Warranty
 
 Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page).
-
----
-*Last verified: 2026-11-17*

@@ -1,5 +1,10 @@
 # Marvo CM416 4-in-1 Keyboard, Mouse, Headset & Mouse Pad Combo
 
+**Price:** $159 inc GST
+**SKU:** KEYMARCM416
+**MPN:** CM416
+**URL:** https://www.extremepc.co.nz/marvo-cm416-4-in-1-keyboard-mouse-headset-mouse-pad-combo/
+
 ## What It Is
 
 A keyboard & mouse combo from MARVO. The Marvo CM416 4-in-1 Keyboard, Mouse, Headset & Mouse Pad Combo is built for gamers and typists who want keyboard & mouse combo.
@@ -23,14 +28,6 @@ A keyboard & mouse combo is a great choice for gamers and typists. The Marvo CM4
 - **Typists** who want a comfortable keyboard
 - **Anyone who wants a MARVO keyboard**
 
-## Pricing at ExtremePC (incl. 15% GST)
-
-| Variant | Price (NZD) |
-|---|---|
-| Marvo CM416 4-in-1 Keyboard, Mouse, Headset & Mouse Pad Combo | **$159.00** |
-
-*Prices current as of November 2026. May vary with stock and promotions.*
-
 ## Where to Buy
 
 - **In-store**: ExtremePC Onehunga (Auckland)
@@ -44,6 +41,3 @@ A keyboard & mouse combo is a great choice for gamers and typists. The Marvo CM4
 ## Warranty
 
 Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page).
-
----
-*Last verified: 2026-11-17*

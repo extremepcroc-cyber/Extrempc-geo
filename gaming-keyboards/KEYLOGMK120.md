@@ -1,5 +1,10 @@
 # Logitech MK120 Desktop Keyboard and Mouse Combo
 
+**Price:** $45 inc GST
+**SKU:** KEYLOGMK120
+**MPN:** 920-002586
+**URL:** https://www.extremepc.co.nz/logitech-mk120-desktop-keyboard-and-mouse-combo-sturdy-adjustable-tilt-legs-curved-space-bar-plug-and-play-usb-connection-logitech-conqueror/
+
 ## What It Is
 
 A keyboard & mouse combo from Logitech. The Logitech MK120 Desktop Keyboard and Mouse Combo is built for gamers and typists who want keyboard & mouse combo.
@@ -23,14 +28,6 @@ A keyboard & mouse combo is a great choice for gamers and typists. The Logitech 
 - **Typists** who want a comfortable keyboard
 - **Anyone who wants a Logitech keyboard**
 
-## Pricing at ExtremePC (incl. 15% GST)
-
-| Variant | Price (NZD) |
-|---|---|
-| Logitech MK120 Desktop Keyboard and Mouse Combo | **$29.00** |
-
-*Prices current as of November 2026. May vary with stock and promotions.*
-
 ## Where to Buy
 
 - **In-store**: ExtremePC Onehunga (Auckland)
@@ -44,6 +41,3 @@ A keyboard & mouse combo is a great choice for gamers and typists. The Logitech 
 ## Warranty
 
 Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page).
-
----
-*Last verified: 2026-11-17*

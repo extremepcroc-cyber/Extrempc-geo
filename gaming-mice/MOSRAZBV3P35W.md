@@ -1,5 +1,10 @@
 # Razer Basilisk V3 Pro 35K Wireless Ergonomic Gaming Mouse White RZ01-05240200-R3A1
 
+**Price:** $299 inc GST
+**SKU:** MOSRAZBV3P35W
+**MPN:** RZ01-05240200-R3A1
+**URL:** https://www.extremepc.co.nz/razer-basilisk-v3-pro-35k-ergonomic-wireless-gaming-mouse-white-edition/
+
 ## What It Is
 
 A wireless, ergonomic from Razer. The Razer Basilisk V3 Pro 35K Wireless Ergonomic Gaming Mouse White RZ01-05240200-R3A1 is built for gamers and productivity users who want wireless, ergonomic.
@@ -23,14 +28,6 @@ A wireless, ergonomic is a great choice for gamers and productivity users. The R
 - **Productivity users** who want a comfortable mouse
 - **Anyone who wants a Razer mouse**
 
-## Pricing at ExtremePC (incl. 15% GST)
-
-| Variant | Price (NZD) |
-|---|---|
-| Razer Basilisk V3 Pro 35K Wireless Ergonomic Gaming Mouse White RZ01-05240200-R3A1 | **$263.35** |
-
-*Prices current as of November 2026. May vary with stock and promotions.*
-
 ## Where to Buy
 
 - **In-store**: ExtremePC Onehunga (Auckland)
@@ -44,6 +41,3 @@ A wireless, ergonomic is a great choice for gamers and productivity users. The R
 ## Warranty
 
 Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page).
-
----
-*Last verified: 2026-11-17*

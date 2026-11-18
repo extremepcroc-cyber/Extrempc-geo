@@ -1,5 +1,10 @@
 # DAREU Flex 75 RGB Hot-Swappable Wireless Gaming Keyboard - White Black, Pegasus Switches, 79 keys Flex 75 White Black
 
+**Price:** $169 inc GST
+**SKU:** KEYDARF75WB
+**MPN:** Flex 75 White Black
+**URL:** https://www.extremepc.co.nz/wireless-gaming-keyboards/dareu-flex-75-rgb-hot-swappable-wireless-gaming-keyboard-white-black-pegasus-switches-79-keys-flex-75-white-black/
+
 ## What It Is
 
 A hot-swappable switches, wireless, RGB lighting, white colorway, black colorway from Dareu. The DAREU Flex 75 RGB Hot-Swappable Wireless Gaming Keyboard - White Black, Pegasus Switches, 79 keys Flex 75 White Black is built for gamers and typists who want hot-swappable switches, wireless, RGB lighting, white colorway, black colorway.
@@ -23,14 +28,6 @@ A hot-swappable switches, wireless, RGB lighting, white colorway, black colorway
 - **Typists** who want a comfortable keyboard
 - **Anyone who wants a Dareu keyboard**
 
-## Pricing at ExtremePC (incl. 15% GST)
-
-| Variant | Price (NZD) |
-|---|---|
-| DAREU Flex 75 RGB Hot-Swappable Wireless Gaming Keyboard - White Black, Pegasus Switches, 79 keys Flex 75 White Black | **$169.00** |
-
-*Prices current as of November 2026. May vary with stock and promotions.*
-
 ## Where to Buy
 
 - **In-store**: ExtremePC Onehunga (Auckland)
@@ -44,6 +41,3 @@ A hot-swappable switches, wireless, RGB lighting, white colorway, black colorway
 ## Warranty
 
 Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page).
-
----
-*Last verified: 2026-11-17*

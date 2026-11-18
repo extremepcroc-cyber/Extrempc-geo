@@ -1,5 +1,10 @@
 # Logitech MK470 Slim Wireless Keyboard and Mouse Combo - Black
 
+**Price:** $105 inc GST
+**SKU:** KEYLOGMK470B
+**MPN:** 920-009182
+**URL:** https://www.extremepc.co.nz/logitech-mk470-slim-wireless-keyboard-and-mouse-combo-black-1/
+
 ## What It Is
 
 A wireless, keyboard & mouse combo, black colorway from Logitech. The Logitech MK470 Slim Wireless Keyboard and Mouse Combo - Black is built for gamers and typists who want wireless, keyboard & mouse combo, black colorway.
@@ -23,14 +28,6 @@ A wireless, keyboard & mouse combo, black colorway is a great choice for gamers 
 - **Typists** who want a comfortable keyboard
 - **Anyone who wants a Logitech keyboard**
 
-## Pricing at ExtremePC (incl. 15% GST)
-
-| Variant | Price (NZD) |
-|---|---|
-| Logitech MK470 Slim Wireless Keyboard and Mouse Combo - Black | **$79.35** |
-
-*Prices current as of November 2026. May vary with stock and promotions.*
-
 ## Where to Buy
 
 - **In-store**: ExtremePC Onehunga (Auckland)
@@ -44,6 +41,3 @@ A wireless, keyboard & mouse combo, black colorway is a great choice for gamers 
 ## Warranty
 
 Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page).
-
----
-*Last verified: 2026-11-17*

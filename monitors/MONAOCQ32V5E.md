@@ -1,5 +1,10 @@
 # AOC Q32V5E 32" QHD 100Hz 1ms IPS Business Monitor
 
+**Price:** $399 inc GST
+**SKU:** MONAOCQ32V5E
+**MPN:** Q32V5E
+**URL:** https://www.extremepc.co.nz/csv-import/aoc-q32v5e-31-5-qhd-100hz-business-monitor-2560x1440-1ms-ips-displayport-hdmi-hdr10-tilt-adjustable-100x100-vesa/
+
 ## What It Is
 
 A 32" QHD business monitor from AOC. The Q32V5E delivers 2560x1440 resolution and 100Hz refresh rate with a 1ms response time IPS panel — ideal for productivity and general use.
@@ -25,14 +30,6 @@ A 32" QHD 100Hz business monitor is a great choice for professionals who want a 
 - **Designers** who need a large, high-resolution screen
 - **Anyone who wants a good business monitor**
 
-## Pricing at ExtremePC (incl. 15% GST)
-
-| Variant | Price (NZD) |
-|---|---|
-| Q32V5E 32" QHD 100Hz IPS | **$379.01** |
-
-*Prices current as of November 2026. May vary with stock and promotions.*
-
 ## Where to Buy
 
 - **In-store**: ExtremePC Onehunga (Auckland)
@@ -47,6 +44,3 @@ A 32" QHD 100Hz business monitor is a great choice for professionals who want a 
 ## Warranty
 
 Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page).
-
----
-*Last verified: 2026-11-17*

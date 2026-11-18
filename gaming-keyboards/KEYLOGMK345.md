@@ -1,5 +1,10 @@
 # Logitech MK345 Wireless Desktop Keyboard and Mouse Combo
 
+**Price:** $99 inc GST
+**SKU:** KEYLOGMK345
+**MPN:** 920-006491
+**URL:** https://www.extremepc.co.nz/logitech-mk345-wireless-desktop-keyboard-and-mouse-combo-the-powerful-combo-with-extra-long-battery-life/
+
 ## What It Is
 
 A wireless, keyboard & mouse combo from Logitech. The Logitech MK345 Wireless Desktop Keyboard and Mouse Combo is built for gamers and typists who want wireless, keyboard & mouse combo.
@@ -23,14 +28,6 @@ A wireless, keyboard & mouse combo is a great choice for gamers and typists. The
 - **Typists** who want a comfortable keyboard
 - **Anyone who wants a Logitech keyboard**
 
-## Pricing at ExtremePC (incl. 15% GST)
-
-| Variant | Price (NZD) |
-|---|---|
-| Logitech MK345 Wireless Desktop Keyboard and Mouse Combo | **$79.35** |
-
-*Prices current as of November 2026. May vary with stock and promotions.*
-
 ## Where to Buy
 
 - **In-store**: ExtremePC Onehunga (Auckland)
@@ -44,6 +41,3 @@ A wireless, keyboard & mouse combo is a great choice for gamers and typists. The
 ## Warranty
 
 1 year manufacturer warranty, claims handled through ExtremePC NZ.
-
----
-*Last verified: 2026-11-17*

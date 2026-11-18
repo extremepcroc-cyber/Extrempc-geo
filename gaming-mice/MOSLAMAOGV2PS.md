@@ -1,5 +1,10 @@
 # Lamzu Atlantis OG V2 Mouse PTFE Skates
 
+**Price:** $15 inc GST
+**SKU:** MOSLAMAOGV2PS
+**MPN:** Atlantis OG V2 PTFE Skate
+**URL:** https://www.extremepc.co.nz/lamzu-atlantis-og-v2-mouse-ptfe-skates/
+
 ## What It Is
 
 A gaming mouse from Lamzu. The Lamzu Atlantis OG V2 Mouse PTFE Skates is built for gamers and productivity users who want gaming mouse.
@@ -23,14 +28,6 @@ A gaming mouse is a great choice for gamers and productivity users. The Lamzu At
 - **Productivity users** who want a comfortable mouse
 - **Anyone who wants a Lamzu mouse**
 
-## Pricing at ExtremePC (incl. 15% GST)
-
-| Variant | Price (NZD) |
-|---|---|
-| Lamzu Atlantis OG V2 Mouse PTFE Skates | **$11.99** |
-
-*Prices current as of November 2026. May vary with stock and promotions.*
-
 ## Where to Buy
 
 - **In-store**: ExtremePC Onehunga (Auckland)
@@ -44,6 +41,3 @@ A gaming mouse is a great choice for gamers and productivity users. The Lamzu At
 ## Warranty
 
 Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page).
-
----
-*Last verified: 2026-11-17*

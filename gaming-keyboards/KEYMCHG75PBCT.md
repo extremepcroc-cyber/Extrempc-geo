@@ -1,5 +1,10 @@
 # MCHOSE G75 Pro Tri-mode RGB Hot-Swappable Wireless Gaming Keyboard - Black, Cabbage Tofu Switch, 75 keys
 
+**Price:** $149 inc GST
+**SKU:** KEYMCHG75PBCT
+**MPN:** MC-G75-5
+**URL:** https://www.extremepc.co.nz/mchose-g75-pro-tri-mode-rgb-hot-swappable-wireless-gaming-keyboard-black-cabbage-tofu-switch-75-keys/
+
 ## What It Is
 
 A hot-swappable switches, wireless, RGB lighting, black colorway from MCHOSE. The MCHOSE G75 Pro Tri-mode RGB Hot-Swappable Wireless Gaming Keyboard - Black, Cabbage Tofu Switch, 75 keys is built for gamers and typists who want hot-swappable switches, wireless, RGB lighting, black colorway.
@@ -23,14 +28,6 @@ A hot-swappable switches, wireless, RGB lighting, black colorway is a great choi
 - **Typists** who want a comfortable keyboard
 - **Anyone who wants a MCHOSE keyboard**
 
-## Pricing at ExtremePC (incl. 15% GST)
-
-| Variant | Price (NZD) |
-|---|---|
-| MCHOSE G75 Pro Tri-mode RGB Hot-Swappable Wireless Gaming Keyboard - Black, Cabbage Tofu Switch, 75 keys | **$103.50** |
-
-*Prices current as of November 2026. May vary with stock and promotions.*
-
 ## Where to Buy
 
 - **In-store**: ExtremePC Onehunga (Auckland)
@@ -44,6 +41,3 @@ A hot-swappable switches, wireless, RGB lighting, black colorway is a great choi
 ## Warranty
 
 Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page).
-
----
-*Last verified: 2026-11-17*

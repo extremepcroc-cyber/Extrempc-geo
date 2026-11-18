@@ -1,5 +1,10 @@
 # DAREU AE6 Pro 8K Wireless Tri-mode Gaming Mouse with Charging Dock White AE6 PRO White
 
+**Price:** $169 inc GST
+**SKU:** MOSDARAE6PW
+**MPN:** AE6 PRO White
+**URL:** https://www.extremepc.co.nz/wireless-gaming-mice/dareu-ae6-pro-8k-wireless-tri-mode-gaming-mouse-with-charging-dock-white-ae6-pro-white/
+
 ## What It Is
 
 A 8K polling rate, wireless from Dareu. The DAREU AE6 Pro 8K Wireless Tri-mode Gaming Mouse with Charging Dock White AE6 PRO White is built for gamers and productivity users who want 8K polling rate, wireless.
@@ -23,14 +28,6 @@ A 8K polling rate, wireless is a great choice for gamers and productivity users.
 - **Productivity users** who want a comfortable mouse
 - **Anyone who wants a Dareu mouse**
 
-## Pricing at ExtremePC (incl. 15% GST)
-
-| Variant | Price (NZD) |
-|---|---|
-| DAREU AE6 Pro 8K Wireless Tri-mode Gaming Mouse with Charging Dock White AE6 PRO White | **$169.00** |
-
-*Prices current as of November 2026. May vary with stock and promotions.*
-
 ## Where to Buy
 
 - **In-store**: ExtremePC Onehunga (Auckland)
@@ -44,6 +41,3 @@ A 8K polling rate, wireless is a great choice for gamers and productivity users.
 ## Warranty
 
 Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page).
-
----
-*Last verified: 2026-11-17*

@@ -1,5 +1,10 @@
 # Elgato Stream Deck MINI DISCORD 10GAI9931
 
+**Price:** $119 inc GST
+**SKU:** KEYELGSDMND
+**MPN:** 10GAI9931
+**URL:** https://www.extremepc.co.nz/elgato-stream-deck-mini-x-discord/
+
 ## What It Is
 
 A gaming keyboard from Elgato. The Elgato Stream Deck MINI DISCORD 10GAI9931 is built for gamers and typists who want gaming keyboard.
@@ -23,14 +28,6 @@ A gaming keyboard is a great choice for gamers and typists. The Elgato Stream De
 - **Typists** who want a comfortable keyboard
 - **Anyone who wants a Elgato keyboard**
 
-## Pricing at ExtremePC (incl. 15% GST)
-
-| Variant | Price (NZD) |
-|---|---|
-| Elgato Stream Deck MINI DISCORD 10GAI9931 | **$109.00** |
-
-*Prices current as of November 2026. May vary with stock and promotions.*
-
 ## Where to Buy
 
 - **In-store**: ExtremePC Onehunga (Auckland)
@@ -44,6 +41,3 @@ A gaming keyboard is a great choice for gamers and typists. The Elgato Stream De
 ## Warranty
 
 Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page).
-
----
-*Last verified: 2026-11-17*

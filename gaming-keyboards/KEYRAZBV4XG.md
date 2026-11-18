@@ -1,5 +1,10 @@
 # Razer Blackwidow V4 X Mechanical Gaming Keyboard - Razer Clicky Green Switches
 
+**Price:** $229 inc GST
+**SKU:** KEYRAZBV4XG
+**MPN:** RZ03-04700100-R3M1
+**URL:** https://www.extremepc.co.nz/razer-blackwidow-v4-x-mechanical-gaming-keyboard-green-switch-us-layout-frml/
+
 ## What It Is
 
 A mechanical switches, black colorway, green colorway from Razer. The Razer Blackwidow V4 X Mechanical Gaming Keyboard - Razer Clicky Green Switches is built for gamers and typists who want mechanical switches, black colorway, green colorway.
@@ -23,14 +28,6 @@ A mechanical switches, black colorway, green colorway is a great choice for game
 - **Typists** who want a comfortable keyboard
 - **Anyone who wants a Razer keyboard**
 
-## Pricing at ExtremePC (incl. 15% GST)
-
-| Variant | Price (NZD) |
-|---|---|
-| Razer Blackwidow V4 X Mechanical Gaming Keyboard - Razer Clicky Green Switches | **$178.25** |
-
-*Prices current as of November 2026. May vary with stock and promotions.*
-
 ## Where to Buy
 
 - **In-store**: ExtremePC Onehunga (Auckland)
@@ -44,6 +41,3 @@ A mechanical switches, black colorway, green colorway is a great choice for game
 ## Warranty
 
 Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page).
-
----
-*Last verified: 2026-11-17*

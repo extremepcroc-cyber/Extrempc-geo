@@ -1,5 +1,10 @@
 # HP CS10 Wireless Keyboard Mouse Combo Black
 
+**Price:** $39 inc GST
+**SKU:** KEYHPCS10BK
+**MPN:** CS10 Black
+**URL:** https://www.extremepc.co.nz/hp-cs10-wireless-keyboard-mouse-combo-black/
+
 ## What It Is
 
 A wireless, keyboard & mouse combo, black colorway from HP. The HP CS10 Wireless Keyboard Mouse Combo Black is built for gamers and typists who want wireless, keyboard & mouse combo, black colorway.
@@ -23,14 +28,6 @@ A wireless, keyboard & mouse combo, black colorway is a great choice for gamers 
 - **Typists** who want a comfortable keyboard
 - **Anyone who wants a HP keyboard**
 
-## Pricing at ExtremePC (incl. 15% GST)
-
-| Variant | Price (NZD) |
-|---|---|
-| HP CS10 Wireless Keyboard Mouse Combo Black | **$39.00** |
-
-*Prices current as of November 2026. May vary with stock and promotions.*
-
 ## Where to Buy
 
 - **In-store**: ExtremePC Onehunga (Auckland)
@@ -44,6 +41,3 @@ A wireless, keyboard & mouse combo, black colorway is a great choice for gamers 
 ## Warranty
 
 Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page).
-
----
-*Last verified: 2026-11-17*

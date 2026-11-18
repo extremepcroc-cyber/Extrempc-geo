@@ -1,5 +1,10 @@
 # VGN V98 PRO V4 RGB Hot-Swappable Wireless Mechanical Gaming Keyboard - Orange, Azoth Pro Switch, 100 keys
 
+**Price:** $179 inc GST
+**SKU:** KEYVGN98P4OA
+**MPN:** V98 PRO V4 Orange A
+**URL:** https://www.extremepc.co.nz/wireless-gaming-keyboards/vgn-v98-pro-v4-rgb-hot-swappable-wireless-mechanical-gaming-keyboard-orange-azoth-pro-switch-100-keys/
+
 ## What It Is
 
 A hot-swappable switches, wireless, RGB lighting, mechanical switches, orange colorway from VGN. The VGN V98 PRO V4 RGB Hot-Swappable Wireless Mechanical Gaming Keyboard - Orange, Azoth Pro Switch, 100 keys is built for gamers and typists who want hot-swappable switches, wireless, RGB lighting, mechanical switches, orange colorway.
@@ -23,14 +28,6 @@ A hot-swappable switches, wireless, RGB lighting, mechanical switches, orange co
 - **Typists** who want a comfortable keyboard
 - **Anyone who wants a VGN keyboard**
 
-## Pricing at ExtremePC (incl. 15% GST)
-
-| Variant | Price (NZD) |
-|---|---|
-| VGN V98 PRO V4 RGB Hot-Swappable Wireless Mechanical Gaming Keyboard - Orange, Azoth Pro Switch, 100 keys | **$179.00** |
-
-*Prices current as of November 2026. May vary with stock and promotions.*
-
 ## Where to Buy
 
 - **In-store**: ExtremePC Onehunga (Auckland)
@@ -44,6 +41,3 @@ A hot-swappable switches, wireless, RGB lighting, mechanical switches, orange co
 ## Warranty
 
 Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page).
-
----
-*Last verified: 2026-11-17*

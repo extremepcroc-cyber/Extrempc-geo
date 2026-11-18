@@ -1,5 +1,10 @@
 # DAREU A980 PRO MAX 8K+4K Wireless Tri-mode Gaming Mouse Black A980 PRO MAX Black
 
+**Price:** $169 inc GST
+**SKU:** MOSDAR980PMB
+**MPN:** A980 PRO MAX Black
+**URL:** https://www.extremepc.co.nz/wireless-gaming-mice/dareu-a980-pro-max-8k-4k-wireless-tri-mode-gaming-mouse-black-a980-pro-max-black/
+
 ## What It Is
 
 A 8K polling rate, wireless from Dareu. The DAREU A980 PRO MAX 8K+4K Wireless Tri-mode Gaming Mouse Black A980 PRO MAX Black is built for gamers and productivity users who want 8K polling rate, wireless.
@@ -23,14 +28,6 @@ A 8K polling rate, wireless is a great choice for gamers and productivity users.
 - **Productivity users** who want a comfortable mouse
 - **Anyone who wants a Dareu mouse**
 
-## Pricing at ExtremePC (incl. 15% GST)
-
-| Variant | Price (NZD) |
-|---|---|
-| DAREU A980 PRO MAX 8K+4K Wireless Tri-mode Gaming Mouse Black A980 PRO MAX Black | **$169.00** |
-
-*Prices current as of November 2026. May vary with stock and promotions.*
-
 ## Where to Buy
 
 - **In-store**: ExtremePC Onehunga (Auckland)
@@ -44,6 +41,3 @@ A 8K polling rate, wireless is a great choice for gamers and productivity users.
 ## Warranty
 
 Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page).
-
----
-*Last verified: 2026-11-17*

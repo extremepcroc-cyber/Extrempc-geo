@@ -1,5 +1,10 @@
 # Logitech MX Keys S Advanced Wireless Illuminated Keyboard - Graphite
 
+**Price:** $248 inc GST
+**SKU:** KEYLOGMXKSG
+**MPN:** 920-011563
+**URL:** https://www.extremepc.co.nz/logitech-mx-keys-s-advanced-wireless-illuminated-keyboard-graphite/
+
 ## What It Is
 
 A wireless from Logitech. The Logitech MX Keys S Advanced Wireless Illuminated Keyboard - Graphite is built for gamers and typists who want wireless.
@@ -23,14 +28,6 @@ A wireless is a great choice for gamers and typists. The Logitech MX Keys S Adva
 - **Typists** who want a comfortable keyboard
 - **Anyone who wants a Logitech keyboard**
 
-## Pricing at ExtremePC (incl. 15% GST)
-
-| Variant | Price (NZD) |
-|---|---|
-| Logitech MX Keys S Advanced Wireless Illuminated Keyboard - Graphite | **$248.00** |
-
-*Prices current as of November 2026. May vary with stock and promotions.*
-
 ## Where to Buy
 
 - **In-store**: ExtremePC Onehunga (Auckland)
@@ -44,6 +41,3 @@ A wireless is a great choice for gamers and typists. The Logitech MX Keys S Adva
 ## Warranty
 
 Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page).
-
----
-*Last verified: 2026-11-17*

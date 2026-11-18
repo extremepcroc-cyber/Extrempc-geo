@@ -1,5 +1,10 @@
 # Acer Nitro XZ270U 27" QHD 180Hz 1ms Curved Gaming Monitor
 
+**Price:** $399 inc GST
+**SKU:** MONACEXZ270U
+**MPN:** UM.HX0SA.301-RY0
+**URL:** https://www.extremepc.co.nz/acer-nitro-xv270u-27-qhd-180hz-1ms-curved-gaming-monitor/
+
 ## What It Is
 
 A 27" QHD curved gaming monitor from Acer Nitro. The XZ270U delivers 180Hz refresh rate and 1ms response time with a curved panel — ideal for immersive gaming.
@@ -25,14 +30,6 @@ A 27" QHD 180Hz curved monitor is a great choice for gamers who want an immersiv
 - **Esports players** who need fast response times
 - **Anyone who wants a good mid-range gaming monitor**
 
-## Pricing at ExtremePC (incl. 15% GST)
-
-| Variant | Price (NZD) |
-|---|---|
-| Nitro XZ270U 27" QHD 180Hz Curved | **$379.01** |
-
-*Prices current as of November 2026. May vary with stock and promotions.*
-
 ## Where to Buy
 
 - **In-store**: ExtremePC Onehunga (Auckland)
@@ -47,6 +44,3 @@ A 27" QHD 180Hz curved monitor is a great choice for gamers who want an immersiv
 ## Warranty
 
 Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page).
-
----
-*Last verified: 2026-11-17*

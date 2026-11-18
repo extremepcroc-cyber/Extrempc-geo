@@ -1,5 +1,10 @@
 # Razer Basilisk Mobile Portable Ergonomic Wireless Gaming Mouse RZ01-04310100-R3A1
 
+**Price:** $179 inc GST
+**SKU:** MOSRAZBMP
+**MPN:** RZ01-04310100-R3A1
+**URL:** https://www.extremepc.co.nz/razer-basilisk-mobile-wireless-mobile-gaming-mouse-ap-packaging/
+
 ## What It Is
 
 A wireless, ergonomic, portable from Razer. The Razer Basilisk Mobile Portable Ergonomic Wireless Gaming Mouse RZ01-04310100-R3A1 is built for gamers and productivity users who want wireless, ergonomic, portable.
@@ -23,14 +28,6 @@ A wireless, ergonomic, portable is a great choice for gamers and productivity us
 - **Productivity users** who want a comfortable mouse
 - **Anyone who wants a Razer mouse**
 
-## Pricing at ExtremePC (incl. 15% GST)
-
-| Variant | Price (NZD) |
-|---|---|
-| Razer Basilisk Mobile Portable Ergonomic Wireless Gaming Mouse RZ01-04310100-R3A1 | **$143.75** |
-
-*Prices current as of November 2026. May vary with stock and promotions.*
-
 ## Where to Buy
 
 - **In-store**: ExtremePC Onehunga (Auckland)
@@ -44,6 +41,3 @@ A wireless, ergonomic, portable is a great choice for gamers and productivity us
 ## Warranty
 
 Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page).
-
----
-*Last verified: 2026-11-17*

@@ -1,5 +1,10 @@
 # LEOBOG A80RT RGB Hot-Swappable Wired Gaming Keyboard - Black, White Jade Magnetic Switch, 82 keys A80RTB
 
+**Price:** $89 inc GST
+**SKU:** KEYLEOA80RTB
+**MPN:** A80RTB
+**URL:** https://www.extremepc.co.nz/csv-import/leobog-a80rt-wired-he-gaming-keyboard-black/
+
 ## What It Is
 
 A hot-swappable switches, RGB lighting, magnetic switches, white colorway, black colorway, red colorway from LEOBOG. The LEOBOG A80RT RGB Hot-Swappable Wired Gaming Keyboard - Black, White Jade Magnetic Switch, 82 keys A80RTB is built for gamers and typists who want hot-swappable switches, RGB lighting, magnetic switches, white colorway, black colorway, red colorway.
@@ -23,14 +28,6 @@ A hot-swappable switches, RGB lighting, magnetic switches, white colorway, black
 - **Typists** who want a comfortable keyboard
 - **Anyone who wants a LEOBOG keyboard**
 
-## Pricing at ExtremePC (incl. 15% GST)
-
-| Variant | Price (NZD) |
-|---|---|
-| LEOBOG A80RT RGB Hot-Swappable Wired Gaming Keyboard - Black, White Jade Magnetic Switch, 82 keys A80RTB | **$89.00** |
-
-*Prices current as of November 2026. May vary with stock and promotions.*
-
 ## Where to Buy
 
 - **In-store**: ExtremePC Onehunga (Auckland)
@@ -44,6 +41,3 @@ A hot-swappable switches, RGB lighting, magnetic switches, white colorway, black
 ## Warranty
 
 Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page).
-
----
-*Last verified: 2026-11-17*

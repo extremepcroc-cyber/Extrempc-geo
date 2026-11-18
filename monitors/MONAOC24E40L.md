@@ -1,5 +1,10 @@
 # AOC 24E40L 24" FHD 144Hz 0.5ms IPS Business Monitor (5-Year Warranty)
 
+**Price:** $189 inc GST
+**SKU:** MONAOC24E40L
+**MPN:** 24E40L/79
+**URL:** https://www.extremepc.co.nz/business-monitors/aoc-24e40l-24-fhd-144hz-0-5ms-ips-business-monitor-with-5-years-warranty-24e40l/
+
 ## What It Is
 
 A 24" FHD business monitor from AOC. The 24E40L delivers 144Hz refresh rate and 0.5ms response time with an IPS panel and a 5-year warranty — ideal for productivity and light gaming.
@@ -25,14 +30,6 @@ A 24" 144Hz business monitor is a great choice for professionals who want a smoo
 - **Students** who need a compact display
 - **Anyone who wants a good business monitor with a long warranty**
 
-## Pricing at ExtremePC (incl. 15% GST)
-
-| Variant | Price (NZD) |
-|---|---|
-| 24E40L 24" FHD 144Hz IPS (5-yr warranty) | **$178.25** |
-
-*Prices current as of November 2026. May vary with stock and promotions.*
-
 ## Where to Buy
 
 - **In-store**: ExtremePC Onehunga (Auckland)
@@ -47,6 +44,3 @@ A 24" 144Hz business monitor is a great choice for professionals who want a smoo
 ## Warranty
 
 5 years manufacturer warranty, claims handled through ExtremePC NZ.
-
----
-*Last verified: 2026-11-17*

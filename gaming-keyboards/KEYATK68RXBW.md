@@ -1,5 +1,10 @@
 # ATK 68 RX RGB Hot-Swappable Wired Mechanical Gaming Keyboard - Black, Wolf Switch, 68 keys
 
+**Price:** $169 inc GST
+**SKU:** KEYATK68RXBW
+**MPN:** 68 RX Black
+**URL:** https://www.extremepc.co.nz/atk-68-rx-hot-swappable-wired-mechanical-gaming-keyboard-black-wolf-switch-68-keys/
+
 ## What It Is
 
 A hot-swappable switches, RGB lighting, mechanical switches, black colorway, red colorway from ATK. The ATK 68 RX RGB Hot-Swappable Wired Mechanical Gaming Keyboard - Black, Wolf Switch, 68 keys is built for gamers and typists who want hot-swappable switches, RGB lighting, mechanical switches, black colorway, red colorway.
@@ -23,14 +28,6 @@ A hot-swappable switches, RGB lighting, mechanical switches, black colorway, red
 - **Typists** who want a comfortable keyboard
 - **Anyone who wants a ATK keyboard**
 
-## Pricing at ExtremePC (incl. 15% GST)
-
-| Variant | Price (NZD) |
-|---|---|
-| ATK 68 RX RGB Hot-Swappable Wired Mechanical Gaming Keyboard - Black, Wolf Switch, 68 keys | **$149.01** |
-
-*Prices current as of November 2026. May vary with stock and promotions.*
-
 ## Where to Buy
 
 - **In-store**: ExtremePC Onehunga (Auckland)
@@ -44,6 +41,3 @@ A hot-swappable switches, RGB lighting, mechanical switches, black colorway, red
 ## Warranty
 
 Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page).
-
----
-*Last verified: 2026-11-17*

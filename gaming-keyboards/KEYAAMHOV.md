@@ -1,5 +1,10 @@
 # Angry Miao Hover Ergonomic Maglev Wrist Rest
 
+**Price:** $169 inc GST
+**SKU:** KEYAAMHOV
+**MPN:** Hover
+**URL:** https://www.extremepc.co.nz/keyboards-accessories/angry-miao-hover-ergonomic-maglev-wrist-rest/
+
 ## What It Is
 
 A ergonomic design, wrist rest, magnetic levitation from Angry Miao. The Angry Miao Hover Ergonomic Maglev Wrist Rest is built for gamers and typists who want ergonomic design, wrist rest, magnetic levitation.
@@ -23,14 +28,6 @@ A ergonomic design, wrist rest, magnetic levitation is a great choice for gamers
 - **Typists** who want a comfortable keyboard
 - **Anyone who wants a Angry Miao keyboard**
 
-## Pricing at ExtremePC (incl. 15% GST)
-
-| Variant | Price (NZD) |
-|---|---|
-| Angry Miao Hover Ergonomic Maglev Wrist Rest | **$169.00** |
-
-*Prices current as of November 2026. May vary with stock and promotions.*
-
 ## Where to Buy
 
 - **In-store**: ExtremePC Onehunga (Auckland)
@@ -44,6 +41,3 @@ A ergonomic design, wrist rest, magnetic levitation is a great choice for gamers
 ## Warranty
 
 Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page).
-
----
-*Last verified: 2026-11-17*

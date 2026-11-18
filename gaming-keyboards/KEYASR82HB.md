@@ -1,5 +1,10 @@
 # Attack Shark R82 HE Rapid Trigger RGB Wired Gaming Keyboard - Black, Magnetic Switch, 80 keys
 
+**Price:** $129 inc GST
+**SKU:** KEYASR82HB
+**MPN:** R82 HE Black
+**URL:** https://www.extremepc.co.nz/wired-gaming-keyboards/attack-shark-r82-he-rapid-trigger-rgb-wired-gaming-keyboard-black-magnetic-switch-80-keys/
+
 ## What It Is
 
 A RGB lighting, magnetic switches, rapid trigger, black colorway, red colorway from Attack Shark. The Attack Shark R82 HE Rapid Trigger RGB Wired Gaming Keyboard - Black, Magnetic Switch, 80 keys is built for gamers and typists who want RGB lighting, magnetic switches, rapid trigger, black colorway, red colorway.
@@ -23,14 +28,6 @@ A RGB lighting, magnetic switches, rapid trigger, black colorway, red colorway i
 - **Typists** who want a comfortable keyboard
 - **Anyone who wants a Attack Shark keyboard**
 
-## Pricing at ExtremePC (incl. 15% GST)
-
-| Variant | Price (NZD) |
-|---|---|
-| Attack Shark R82 HE Rapid Trigger RGB Wired Gaming Keyboard - Black, Magnetic Switch, 80 keys | **$129.00** |
-
-*Prices current as of November 2026. May vary with stock and promotions.*
-
 ## Where to Buy
 
 - **In-store**: ExtremePC Onehunga (Auckland)
@@ -44,6 +41,3 @@ A RGB lighting, magnetic switches, rapid trigger, black colorway, red colorway i
 ## Warranty
 
 Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page).
-
----
-*Last verified: 2026-11-17*

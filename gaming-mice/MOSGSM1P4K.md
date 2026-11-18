@@ -1,5 +1,10 @@
 # GravaStar Mercury M1 Pro 4K Wireless Dongle
 
+**Price:** $49 inc GST
+**SKU:** MOSGSM1P4K
+**MPN:** M1 Pro 4K Receiver
+**URL:** https://www.extremepc.co.nz/mice-mouse-pad-accessories/gravastar-mercury-m1-pro-4k-wireless-dongle/
+
 ## What It Is
 
 A wireless from GravaStar. The GravaStar Mercury M1 Pro 4K Wireless Dongle is built for gamers and productivity users who want wireless.
@@ -23,14 +28,6 @@ A wireless is a great choice for gamers and productivity users. The GravaStar Me
 - **Productivity users** who want a comfortable mouse
 - **Anyone who wants a GravaStar mouse**
 
-## Pricing at ExtremePC (incl. 15% GST)
-
-| Variant | Price (NZD) |
-|---|---|
-| GravaStar Mercury M1 Pro 4K Wireless Dongle | **$49.00** |
-
-*Prices current as of November 2026. May vary with stock and promotions.*
-
 ## Where to Buy
 
 - **In-store**: ExtremePC Onehunga (Auckland)
@@ -44,6 +41,3 @@ A wireless is a great choice for gamers and productivity users. The GravaStar Me
 ## Warranty
 
 Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page).
-
----
-*Last verified: 2026-11-17*

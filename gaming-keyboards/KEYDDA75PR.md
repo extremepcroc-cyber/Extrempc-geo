@@ -1,5 +1,10 @@
 # DrunkDeer A75 Pro Rapid Trigger RGB Hot-Swappable Wired Gaming Keyboard - Red, Magnetic Switch, 82 keys
 
+**Price:** $299 inc GST
+**SKU:** KEYDDA75PR
+**MPN:** A75 Pro Red
+**URL:** https://www.extremepc.co.nz/wired-gaming-keyboards/drunkdeer-a75-pro-rapid-trigger-rgb-hot-swappable-wired-gaming-keyboard-red-magnetic-switch-82-keys/
+
 ## What It Is
 
 A hot-swappable switches, RGB lighting, magnetic switches, rapid trigger, red colorway from DRUNKDEER. The DrunkDeer A75 Pro Rapid Trigger RGB Hot-Swappable Wired Gaming Keyboard - Red, Magnetic Switch, 82 keys is built for gamers and typists who want hot-swappable switches, RGB lighting, magnetic switches, rapid trigger, red colorway.
@@ -23,14 +28,6 @@ A hot-swappable switches, RGB lighting, magnetic switches, rapid trigger, red co
 - **Typists** who want a comfortable keyboard
 - **Anyone who wants a DRUNKDEER keyboard**
 
-## Pricing at ExtremePC (incl. 15% GST)
-
-| Variant | Price (NZD) |
-|---|---|
-| DrunkDeer A75 Pro Rapid Trigger RGB Hot-Swappable Wired Gaming Keyboard - Red, Magnetic Switch, 82 keys | **$249.00** |
-
-*Prices current as of November 2026. May vary with stock and promotions.*
-
 ## Where to Buy
 
 - **In-store**: ExtremePC Onehunga (Auckland)
@@ -44,6 +41,3 @@ A hot-swappable switches, RGB lighting, magnetic switches, rapid trigger, red co
 ## Warranty
 
 Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page).
-
----
-*Last verified: 2026-11-17*

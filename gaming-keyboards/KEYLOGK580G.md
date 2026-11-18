@@ -1,5 +1,10 @@
 # Logitech K580 Multi-Device Wireless Keyboard - Grey
 
+**Price:** $99 inc GST
+**SKU:** KEYLOGK580G
+**MPN:** 920-009210
+**URL:** https://www.extremepc.co.nz/logitech-k580-multi-device-wireless-keyboard---grey/
+
 ## What It Is
 
 A wireless, multi-device, grey colorway from Logitech. The Logitech K580 Multi-Device Wireless Keyboard - Grey is built for gamers and typists who want wireless, multi-device, grey colorway.
@@ -23,14 +28,6 @@ A wireless, multi-device, grey colorway is a great choice for gamers and typists
 - **Typists** who want a comfortable keyboard
 - **Anyone who wants a Logitech keyboard**
 
-## Pricing at ExtremePC (incl. 15% GST)
-
-| Variant | Price (NZD) |
-|---|---|
-| Logitech K580 Multi-Device Wireless Keyboard - Grey | **$79.35** |
-
-*Prices current as of November 2026. May vary with stock and promotions.*
-
 ## Where to Buy
 
 - **In-store**: ExtremePC Onehunga (Auckland)
@@ -44,6 +41,3 @@ A wireless, multi-device, grey colorway is a great choice for gamers and typists
 ## Warranty
 
 Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page).
-
----
-*Last verified: 2026-11-17*

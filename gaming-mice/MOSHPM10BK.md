@@ -1,5 +1,10 @@
 # HP M10 Wired USB Silence Optical Mouse Black
 
+**Price:** $15 inc GST
+**SKU:** MOSHPM10BK
+**MPN:** M10 Silence BK
+**URL:** https://www.extremepc.co.nz/hp-m10-wired-usb-silence-optical-mouse-black/
+
 ## What It Is
 
 A gaming mouse from HP. The HP M10 Wired USB Silence Optical Mouse Black is built for gamers and productivity users who want gaming mouse.
@@ -23,14 +28,6 @@ A gaming mouse is a great choice for gamers and productivity users. The HP M10 W
 - **Productivity users** who want a comfortable mouse
 - **Anyone who wants a HP mouse**
 
-## Pricing at ExtremePC (incl. 15% GST)
-
-| Variant | Price (NZD) |
-|---|---|
-| HP M10 Wired USB Silence Optical Mouse Black | **$15.00** |
-
-*Prices current as of November 2026. May vary with stock and promotions.*
-
 ## Where to Buy
 
 - **In-store**: ExtremePC Onehunga (Auckland)
@@ -44,6 +41,3 @@ A gaming mouse is a great choice for gamers and productivity users. The HP M10 W
 ## Warranty
 
 Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page).
-
----
-*Last verified: 2026-11-17*

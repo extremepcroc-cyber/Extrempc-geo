@@ -1,5 +1,10 @@
 # Attack Shark X11 Lightweight Wireless Gaming Mouse with RGB Charging Dock Red
 
+**Price:** $79 inc GST
+**SKU:** MOSASX11R
+**MPN:** X11 Red
+**URL:** https://www.extremepc.co.nz/attack-shark-x11-lightweight-wireless-gaming-mouse-with-rgb-charging-dock-red/
+
 ## What It Is
 
 A wireless, lightweight, RGB lighting from Attack Shark. The Attack Shark X11 Lightweight Wireless Gaming Mouse with RGB Charging Dock Red is built for gamers and productivity users who want wireless, lightweight, RGB lighting.
@@ -23,14 +28,6 @@ A wireless, lightweight, RGB lighting is a great choice for gamers and productiv
 - **Productivity users** who want a comfortable mouse
 - **Anyone who wants a Attack Shark mouse**
 
-## Pricing at ExtremePC (incl. 15% GST)
-
-| Variant | Price (NZD) |
-|---|---|
-| Attack Shark X11 Lightweight Wireless Gaming Mouse with RGB Charging Dock Red | **$79.00** |
-
-*Prices current as of November 2026. May vary with stock and promotions.*
-
 ## Where to Buy
 
 - **In-store**: ExtremePC Onehunga (Auckland)
@@ -44,6 +41,3 @@ A wireless, lightweight, RGB lighting is a great choice for gamers and productiv
 ## Warranty
 
 Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page).
-
----
-*Last verified: 2026-11-17*

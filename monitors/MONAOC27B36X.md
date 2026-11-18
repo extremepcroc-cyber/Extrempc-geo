@@ -1,5 +1,10 @@
 # AOC 27B36X 27" FHD 144Hz 0.5ms IPS Business Monitor
 
+**Price:** $199 inc GST
+**SKU:** MONAOC27B36X
+**MPN:** 27B36X/79
+**URL:** https://www.extremepc.co.nz/aoc-27b36x-27-fhd-144hz-0-5ms-ips-business-monitor-27b36x/
+
 ## What It Is
 
 A 27" FHD business monitor from AOC. The 27B36X delivers 144Hz refresh rate and 0.5ms response time with an IPS panel — ideal for productivity and light gaming.
@@ -25,14 +30,6 @@ A 27" 144Hz business monitor is a great choice for professionals who want a larg
 - **Students** who need a larger display for notes and research
 - **Anyone who wants a good business monitor**
 
-## Pricing at ExtremePC (incl. 15% GST)
-
-| Variant | Price (NZD) |
-|---|---|
-| 27B36X 27" FHD 144Hz IPS | **$199** |
-
-*Prices current as of November 2026. May vary with stock and promotions.*
-
 ## Where to Buy
 
 - **In-store**: ExtremePC Onehunga (Auckland)
@@ -47,6 +44,3 @@ A 27" 144Hz business monitor is a great choice for professionals who want a larg
 ## Warranty
 
 Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page).
-
----
-*Last verified: 2026-11-17*

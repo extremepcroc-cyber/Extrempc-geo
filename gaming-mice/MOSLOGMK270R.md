@@ -1,5 +1,10 @@
 # Logitech MK270R Wireless Keyboard and Mouse COMBO
 
+**Price:** $69 inc GST
+**SKU:** MOSLOGMK270R
+**MPN:** 920-006314
+**URL:** https://www.extremepc.co.nz/logitech-mk270r-wireless-keyboard-and-mouse-combo/
+
 ## What It Is
 
 A wireless from Logitech. The Logitech MK270R Wireless Keyboard and Mouse COMBO is built for gamers and productivity users who want wireless.
@@ -23,14 +28,6 @@ A wireless is a great choice for gamers and productivity users. The Logitech MK2
 - **Productivity users** who want a comfortable mouse
 - **Anyone who wants a Logitech mouse**
 
-## Pricing at ExtremePC (incl. 15% GST)
-
-| Variant | Price (NZD) |
-|---|---|
-| Logitech MK270R Wireless Keyboard and Mouse COMBO | **$57.50** |
-
-*Prices current as of November 2026. May vary with stock and promotions.*
-
 ## Where to Buy
 
 - **In-store**: ExtremePC Onehunga (Auckland)
@@ -44,6 +41,3 @@ A wireless is a great choice for gamers and productivity users. The Logitech MK2
 ## Warranty
 
 Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page).
-
----
-*Last verified: 2026-11-17*

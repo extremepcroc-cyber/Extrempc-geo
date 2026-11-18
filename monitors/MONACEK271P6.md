@@ -1,5 +1,10 @@
 # Acer EK271 P6 27" FHD 144Hz 1ms IPS Gaming Monitor
 
+**Price:** $249 inc GST
+**SKU:** MONACEK271P6
+**MPN:** UM.HE1SA.602-RM0
+**URL:** https://www.extremepc.co.nz/gaming-monitors/acer-ek271-p6-27-fhd-144hz-1ms-ips-gaming-monitor/
+
 ## What It Is
 
 A 27" FHD gaming monitor from Acer. The EK271 P6 delivers 144Hz refresh rate and 1ms response time with an IPS panel — ideal for competitive gaming and smooth visuals.
@@ -25,14 +30,6 @@ A 144Hz gaming monitor is a great choice for competitive players who need fast r
 - **Esports players** who need fast response times
 - **Anyone who wants a good mid-range gaming monitor**
 
-## Pricing at ExtremePC (incl. 15% GST)
-
-| Variant | Price (NZD) |
-|---|---|
-| EK271 P6 27" FHD 144Hz 1ms IPS | **$209** |
-
-*Prices current as of November 2026. May vary with stock and promotions.*
-
 ## Where to Buy
 
 - **In-store**: ExtremePC Onehunga (Auckland)
@@ -47,6 +44,3 @@ A 144Hz gaming monitor is a great choice for competitive players who need fast r
 ## Warranty
 
 Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page).
-
----
-*Last verified: 2026-11-17*

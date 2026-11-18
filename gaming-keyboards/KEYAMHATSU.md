@@ -1,5 +1,10 @@
 # Angry Miao HATSU Ergonomics Split Wireless Mechanical Keyboard - Icy Silver Switches, 64 keys
 
+**Price:** $2499 inc GST
+**SKU:** KEYAMHATSU
+**MPN:** Hatsu
+**URL:** https://www.extremepc.co.nz/wireless-gaming-keyboards/angry-miao-hatsu-ergonomics-split-wireless-mechanical-keyboard-icy-silver-switches-64-keys/
+
 ## What It Is
 
 A wireless, mechanical switches, ergonomic design, split design, silver colorway from Angry Miao. The Angry Miao HATSU Ergonomics Split Wireless Mechanical Keyboard - Icy Silver Switches, 64 keys is built for gamers and typists who want wireless, mechanical switches, ergonomic design, split design, silver colorway.
@@ -23,14 +28,6 @@ A wireless, mechanical switches, ergonomic design, split design, silver colorway
 - **Typists** who want a comfortable keyboard
 - **Anyone who wants a Angry Miao keyboard**
 
-## Pricing at ExtremePC (incl. 15% GST)
-
-| Variant | Price (NZD) |
-|---|---|
-| Angry Miao HATSU Ergonomics Split Wireless Mechanical Keyboard - Icy Silver Switches, 64 keys | **$2,499.00** |
-
-*Prices current as of November 2026. May vary with stock and promotions.*
-
 ## Where to Buy
 
 - **In-store**: ExtremePC Onehunga (Auckland)
@@ -44,6 +41,3 @@ A wireless, mechanical switches, ergonomic design, split design, silver colorway
 ## Warranty
 
 Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page).
-
----
-*Last verified: 2026-11-17*

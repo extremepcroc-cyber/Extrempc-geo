@@ -1,5 +1,10 @@
 # Lamzu Thorn V2 8K Wireless Gaming Mouse White (EDG S1Mon Edition)
 
+**Price:** $249 inc GST
+**SKU:** MOSLAMTV2W
+**MPN:** Thorn V2 White
+**URL:** https://www.extremepc.co.nz/wireless-gaming-mice/lamzu-thorn-v2-8k-wireless-gaming-mouse-white/
+
 ## What It Is
 
 A 8K polling rate, wireless from Lamzu. The Lamzu Thorn V2 8K Wireless Gaming Mouse White (EDG S1Mon Edition) is built for gamers and productivity users who want 8K polling rate, wireless.
@@ -23,14 +28,6 @@ A 8K polling rate, wireless is a great choice for gamers and productivity users.
 - **Productivity users** who want a comfortable mouse
 - **Anyone who wants a Lamzu mouse**
 
-## Pricing at ExtremePC (incl. 15% GST)
-
-| Variant | Price (NZD) |
-|---|---|
-| Lamzu Thorn V2 8K Wireless Gaming Mouse White (EDG S1Mon Edition) | **$169.00** |
-
-*Prices current as of November 2026. May vary with stock and promotions.*
-
 ## Where to Buy
 
 - **In-store**: ExtremePC Onehunga (Auckland)
@@ -44,6 +41,3 @@ A 8K polling rate, wireless is a great choice for gamers and productivity users.
 ## Warranty
 
 Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page).
-
----
-*Last verified: 2026-11-17*

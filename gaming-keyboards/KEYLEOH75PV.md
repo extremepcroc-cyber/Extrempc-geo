@@ -1,5 +1,10 @@
 # LEOBOG Hi75c PRO RGB Hot-Swappable Wireless Gaming Keyboard - Vanilla Ice, Leobog Seiya Linear Switch, 81 keys HI75CPROV
 
+**Price:** $109 inc GST
+**SKU:** KEYLEOH75PV
+**MPN:** Hi75c PRO VI
+**URL:** https://www.extremepc.co.nz/csv-import/leobog-hi75c-pro-75-tri-mode-mechanical-keyboard-vanilla-ice-aluminium-alloy-cover-linear-switch-rgb-side-prined-pbt-keycaps-hot-swappable-gasket-mount/
+
 ## What It Is
 
 A hot-swappable switches, wireless, RGB lighting, vanilla colorway from LEOBOG. The LEOBOG Hi75c PRO RGB Hot-Swappable Wireless Gaming Keyboard - Vanilla Ice, Leobog Seiya Linear Switch, 81 keys HI75CPROV is built for gamers and typists who want hot-swappable switches, wireless, RGB lighting, vanilla colorway.
@@ -23,14 +28,6 @@ A hot-swappable switches, wireless, RGB lighting, vanilla colorway is a great ch
 - **Typists** who want a comfortable keyboard
 - **Anyone who wants a LEOBOG keyboard**
 
-## Pricing at ExtremePC (incl. 15% GST)
-
-| Variant | Price (NZD) |
-|---|---|
-| LEOBOG Hi75c PRO RGB Hot-Swappable Wireless Gaming Keyboard - Vanilla Ice, Leobog Seiya Linear Switch, 81 keys HI75CPROV | **$92.00** |
-
-*Prices current as of November 2026. May vary with stock and promotions.*
-
 ## Where to Buy
 
 - **In-store**: ExtremePC Onehunga (Auckland)
@@ -44,6 +41,3 @@ A hot-swappable switches, wireless, RGB lighting, vanilla colorway is a great ch
 ## Warranty
 
 Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page).
-
----
-*Last verified: 2026-11-17*

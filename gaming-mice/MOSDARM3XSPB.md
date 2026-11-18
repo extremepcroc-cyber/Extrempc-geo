@@ -1,5 +1,10 @@
 # Darmoshark M3XS PRO GhostCat Lightweight 8K Wireless Gaming Mouse Black
 
+**Price:** $149 inc GST
+**SKU:** MOSDARM3XSPB
+**MPN:** M3XS PRO Black
+**URL:** https://www.extremepc.co.nz/wireless-gaming-mice/darmoshark-m3xs-pro-ghostcat-light-weight-wireless-gaming-mouse-black/
+
 ## What It Is
 
 A 8K polling rate, wireless, lightweight from Darmoshark. The Darmoshark M3XS PRO GhostCat Lightweight 8K Wireless Gaming Mouse Black is built for gamers and productivity users who want 8K polling rate, wireless, lightweight.
@@ -23,14 +28,6 @@ A 8K polling rate, wireless, lightweight is a great choice for gamers and produc
 - **Productivity users** who want a comfortable mouse
 - **Anyone who wants a Darmoshark mouse**
 
-## Pricing at ExtremePC (incl. 15% GST)
-
-| Variant | Price (NZD) |
-|---|---|
-| Darmoshark M3XS PRO GhostCat Lightweight 8K Wireless Gaming Mouse Black | **$104.30** |
-
-*Prices current as of November 2026. May vary with stock and promotions.*
-
 ## Where to Buy
 
 - **In-store**: ExtremePC Onehunga (Auckland)
@@ -44,6 +41,3 @@ A 8K polling rate, wireless, lightweight is a great choice for gamers and produc
 ## Warranty
 
 Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page).
-
----
-*Last verified: 2026-11-17*

@@ -1,5 +1,10 @@
 # Logitech M330 Silent Plus Wireless Optical Mouse Black
 
+**Price:** $45 inc GST
+**SKU:** MOSLOGM330SPB
+**MPN:** 910-004924
+**URL:** https://www.extremepc.co.nz/logitech-m330-silent-plus-wireless-optical-mouse-black/
+
 ## What It Is
 
 A wireless from Logitech. The Logitech M330 Silent Plus Wireless Optical Mouse Black is built for gamers and productivity users who want wireless.
@@ -23,14 +28,6 @@ A wireless is a great choice for gamers and productivity users. The Logitech M33
 - **Productivity users** who want a comfortable mouse
 - **Anyone who wants a Logitech mouse**
 
-## Pricing at ExtremePC (incl. 15% GST)
-
-| Variant | Price (NZD) |
-|---|---|
-| Logitech M330 Silent Plus Wireless Optical Mouse Black | **$45.00** |
-
-*Prices current as of November 2026. May vary with stock and promotions.*
-
 ## Where to Buy
 
 - **In-store**: ExtremePC Onehunga (Auckland)
@@ -44,6 +41,3 @@ A wireless is a great choice for gamers and productivity users. The Logitech M33
 ## Warranty
 
 1 year manufacturer warranty, claims handled through ExtremePC NZ.
-
----
-*Last verified: 2026-11-17*

@@ -1,5 +1,10 @@
 # HyperX Pulsefire Haste 2 Gaming Mouse - Black
 
+**Price:** $109 inc GST
+**SKU:** MOSHYPPH2B
+**MPN:** 6N0A7AA
+**URL:** https://www.extremepc.co.nz/hyperx-pulsefire-haste-2-gaming-mouse-black/
+
 ## What It Is
 
 A gaming mouse from HyperX. The HyperX Pulsefire Haste 2 Gaming Mouse - Black is built for gamers and productivity users who want gaming mouse.
@@ -23,14 +28,6 @@ A gaming mouse is a great choice for gamers and productivity users. The HyperX P
 - **Productivity users** who want a comfortable mouse
 - **Anyone who wants a HyperX mouse**
 
-## Pricing at ExtremePC (incl. 15% GST)
-
-| Variant | Price (NZD) |
-|---|---|
-| HyperX Pulsefire Haste 2 Gaming Mouse - Black | **$75.00** |
-
-*Prices current as of November 2026. May vary with stock and promotions.*
-
 ## Where to Buy
 
 - **In-store**: ExtremePC Onehunga (Auckland)
@@ -44,6 +41,3 @@ A gaming mouse is a great choice for gamers and productivity users. The HyperX P
 ## Warranty
 
 Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page).
-
----
-*Last verified: 2026-11-17*

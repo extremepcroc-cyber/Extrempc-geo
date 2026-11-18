@@ -1,5 +1,10 @@
 # Dell Optical MS116 Mouse - White
 
+**Price:** $15 inc GST
+**SKU:** MOSDELMS116W
+**MPN:** 570-AAJN
+**URL:** https://www.extremepc.co.nz/dell-optical-ms116-mouse-white/
+
 ## What It Is
 
 A gaming mouse from DELL. The Dell Optical MS116 Mouse - White is built for gamers and productivity users who want gaming mouse.
@@ -23,14 +28,6 @@ A gaming mouse is a great choice for gamers and productivity users. The Dell Opt
 - **Productivity users** who want a comfortable mouse
 - **Anyone who wants a DELL mouse**
 
-## Pricing at ExtremePC (incl. 15% GST)
-
-| Variant | Price (NZD) |
-|---|---|
-| Dell Optical MS116 Mouse - White | **$14.98** |
-
-*Prices current as of November 2026. May vary with stock and promotions.*
-
 ## Where to Buy
 
 - **In-store**: ExtremePC Onehunga (Auckland)
@@ -44,6 +41,3 @@ A gaming mouse is a great choice for gamers and productivity users. The Dell Opt
 ## Warranty
 
 Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page).
-
----
-*Last verified: 2026-11-17*

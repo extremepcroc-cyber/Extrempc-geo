@@ -1,5 +1,10 @@
 # AULA S100 RGB Hot-Swappable Wired Mechanical Gaming Keyboard - White, Brown Switch, 99 keys
 
+**Price:** $79 inc GST
+**SKU:** KEYAULS100WB
+**MPN:** S100
+**URL:** https://www.extremepc.co.nz/wired-gaming-keyboards/aula-s100-rgb-hot-swappable-wired-mechanical-gaming-keyboard-white-brown-switch-99-keys/
+
 ## What It Is
 
 A hot-swappable switches, RGB lighting, mechanical switches, white colorway, red colorway, brown colorway from AULA. The AULA S100 RGB Hot-Swappable Wired Mechanical Gaming Keyboard - White, Brown Switch, 99 keys is built for gamers and typists who want hot-swappable switches, RGB lighting, mechanical switches, white colorway, red colorway, brown colorway.
@@ -23,14 +28,6 @@ A hot-swappable switches, RGB lighting, mechanical switches, white colorway, red
 - **Typists** who want a comfortable keyboard
 - **Anyone who wants a AULA keyboard**
 
-## Pricing at ExtremePC (incl. 15% GST)
-
-| Variant | Price (NZD) |
-|---|---|
-| AULA S100 RGB Hot-Swappable Wired Mechanical Gaming Keyboard - White, Brown Switch, 99 keys | **$78.99** |
-
-*Prices current as of November 2026. May vary with stock and promotions.*
-
 ## Where to Buy
 
 - **In-store**: ExtremePC Onehunga (Auckland)
@@ -44,6 +41,3 @@ A hot-swappable switches, RGB lighting, mechanical switches, white colorway, red
 ## Warranty
 
 Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page).
-
----
-*Last verified: 2026-11-17*

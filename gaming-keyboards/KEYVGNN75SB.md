@@ -1,5 +1,10 @@
 # VGN Neon 75 Super RGB Hot-Swappable Wireless Mechanical Gaming Keyboard - Black, Tianba Magnetic Switch, 83 keys
 
+**Price:** $199 inc GST
+**SKU:** KEYVGNN75SB
+**MPN:** Neon 75 Super B
+**URL:** https://www.extremepc.co.nz/wireless-gaming-keyboards/vgn-neon-75-super-rgb-hot-swappable-wireless-mechanical-gaming-keyboard-black-tianba-magnetic-switch-83-keys/
+
 ## What It Is
 
 A hot-swappable switches, wireless, RGB lighting, mechanical switches, magnetic switches, black colorway from VGN. The VGN Neon 75 Super RGB Hot-Swappable Wireless Mechanical Gaming Keyboard - Black, Tianba Magnetic Switch, 83 keys is built for gamers and typists who want hot-swappable switches, wireless, RGB lighting, mechanical switches, magnetic switches, black colorway.
@@ -23,14 +28,6 @@ A hot-swappable switches, wireless, RGB lighting, mechanical switches, magnetic 
 - **Typists** who want a comfortable keyboard
 - **Anyone who wants a VGN keyboard**
 
-## Pricing at ExtremePC (incl. 15% GST)
-
-| Variant | Price (NZD) |
-|---|---|
-| VGN Neon 75 Super RGB Hot-Swappable Wireless Mechanical Gaming Keyboard - Black, Tianba Magnetic Switch, 83 keys | **$199.00** |
-
-*Prices current as of November 2026. May vary with stock and promotions.*
-
 ## Where to Buy
 
 - **In-store**: ExtremePC Onehunga (Auckland)
@@ -44,6 +41,3 @@ A hot-swappable switches, wireless, RGB lighting, mechanical switches, magnetic 
 ## Warranty
 
 Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page).
-
----
-*Last verified: 2026-11-17*

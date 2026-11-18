@@ -1,5 +1,10 @@
 # Acer EK251Q P6 25" FHD 144Hz 1ms IPS Gaming Monitor
 
+**Price:** $199 inc GST
+**SKU:** MONACEK51QP6
+**MPN:** UM.KE1SA.601-RM0
+**URL:** https://www.extremepc.co.nz/gaming-monitors/acer-ek251q-p6-25-fhd-144hz-1ms-ips-gaming-monitor-rso0/
+
 ## What It Is
 
 A 25" FHD gaming monitor from Acer. The EK251Q P6 delivers 144Hz refresh rate and 1ms response time with an IPS panel — ideal for competitive gaming and smooth visuals in a compact size.
@@ -25,14 +30,6 @@ A 25" 144Hz gaming monitor is a great choice for competitive players who want a 
 - **Esports players** who need fast response times
 - **Anyone who wants a good budget gaming monitor**
 
-## Pricing at ExtremePC (incl. 15% GST)
-
-| Variant | Price (NZD) |
-|---|---|
-| EK251Q P6 25" FHD 144Hz 1ms IPS | **$169** |
-
-*Prices current as of November 2026. May vary with stock and promotions.*
-
 ## Where to Buy
 
 - **In-store**: ExtremePC Onehunga (Auckland)
@@ -47,6 +44,3 @@ A 25" 144Hz gaming monitor is a great choice for competitive players who want a 
 ## Warranty
 
 Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page).
-
----
-*Last verified: 2026-11-17*

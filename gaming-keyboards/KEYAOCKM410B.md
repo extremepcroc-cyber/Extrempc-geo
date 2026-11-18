@@ -1,5 +1,10 @@
 # AOC KM410 Wired Gaming Keyboard & Mouse Combo Black
 
+**Price:** $49 inc GST
+**SKU:** KEYAOCKM410B
+**MPN:** KM410
+**URL:** https://www.extremepc.co.nz/aoc-km410-wired-gaming-keyboard-mouse-combo-black/
+
 ## What It Is
 
 A keyboard & mouse combo, black colorway, red colorway from AOC. The AOC KM410 Wired Gaming Keyboard & Mouse Combo Black is built for gamers and typists who want keyboard & mouse combo, black colorway, red colorway.
@@ -23,14 +28,6 @@ A keyboard & mouse combo, black colorway, red colorway is a great choice for gam
 - **Typists** who want a comfortable keyboard
 - **Anyone who wants a AOC keyboard**
 
-## Pricing at ExtremePC (incl. 15% GST)
-
-| Variant | Price (NZD) |
-|---|---|
-| AOC KM410 Wired Gaming Keyboard & Mouse Combo Black | **$39.00** |
-
-*Prices current as of November 2026. May vary with stock and promotions.*
-
 ## Where to Buy
 
 - **In-store**: ExtremePC Onehunga (Auckland)
@@ -44,6 +41,3 @@ A keyboard & mouse combo, black colorway, red colorway is a great choice for gam
 ## Warranty
 
 Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page).
-
----
-*Last verified: 2026-11-17*

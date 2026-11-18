@@ -1,5 +1,10 @@
 # Horion 32MR1A Portable Mobile Smart Screen with Stand
 
+**Price:** $2299 inc GST
+**SKU:** MONHOR32MR1A
+**MPN:** 32MR1A
+**URL:** https://www.extremepc.co.nz/portable-monitors/horion-32mr1a-portable-mobile-smart-screen-with-stand/
+
 ## What It Is
 
 A 32" portable smart screen from Horion. The 32MR1A features a built-in stand — ideal for mobile presentations, digital signage, or portable displays.
@@ -23,14 +28,6 @@ A 32" portable smart screen is a great choice for businesses who need a mobile d
 - **Presenters** who want a portable screen
 - **Anyone who wants a portable smart screen**
 
-## Pricing at ExtremePC (incl. 15% GST)
-
-| Variant | Price (NZD) |
-|---|---|
-| 32MR1A 32" Portable Smart Screen | **$2,299** |
-
-*Prices current as of November 2026. May vary with stock and promotions.*
-
 ## Where to Buy
 
 - **In-store**: ExtremePC Onehunga (Auckland)
@@ -44,6 +41,3 @@ A 32" portable smart screen is a great choice for businesses who need a mobile d
 ## Warranty
 
 Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page).
-
----
-*Last verified: 2026-11-17*

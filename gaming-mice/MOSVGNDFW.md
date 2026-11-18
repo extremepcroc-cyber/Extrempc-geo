@@ -1,5 +1,10 @@
 # VGN Dragonfly King Magnesium Alloy Wireless Gaming Mouse Pearl White
 
+**Price:** $199 inc GST
+**SKU:** MOSVGNDFW
+**MPN:** Dragonfly King W
+**URL:** https://www.extremepc.co.nz/wireless-gaming-mice/vgn-dragonfly-king-magnesium-alloy-wireless-gaming-mouse-pearl-white/
+
 ## What It Is
 
 A wireless from VGN. The VGN Dragonfly King Magnesium Alloy Wireless Gaming Mouse Pearl White is built for gamers and productivity users who want wireless.
@@ -23,14 +28,6 @@ A wireless is a great choice for gamers and productivity users. The VGN Dragonfl
 - **Productivity users** who want a comfortable mouse
 - **Anyone who wants a VGN mouse**
 
-## Pricing at ExtremePC (incl. 15% GST)
-
-| Variant | Price (NZD) |
-|---|---|
-| VGN Dragonfly King Magnesium Alloy Wireless Gaming Mouse Pearl White | **$199.00** |
-
-*Prices current as of November 2026. May vary with stock and promotions.*
-
 ## Where to Buy
 
 - **In-store**: ExtremePC Onehunga (Auckland)
@@ -44,6 +41,3 @@ A wireless is a great choice for gamers and productivity users. The VGN Dragonfl
 ## Warranty
 
 Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page).
-
----
-*Last verified: 2026-11-17*

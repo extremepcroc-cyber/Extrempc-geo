@@ -1,5 +1,10 @@
 # Logitech K580 Slim Multi-Device Wireless Keyboard Rose
 
+**Price:** $89 inc GST
+**SKU:** KEYLOGK580R
+**MPN:** 920-011329
+**URL:** https://www.extremepc.co.nz/logitech-k580-slim-multi-device-wireless-keyboard-rose/
+
 ## What It Is
 
 A wireless, multi-device from Logitech. The Logitech K580 Slim Multi-Device Wireless Keyboard Rose is built for gamers and typists who want wireless, multi-device.
@@ -23,14 +28,6 @@ A wireless, multi-device is a great choice for gamers and typists. The Logitech 
 - **Typists** who want a comfortable keyboard
 - **Anyone who wants a Logitech keyboard**
 
-## Pricing at ExtremePC (incl. 15% GST)
-
-| Variant | Price (NZD) |
-|---|---|
-| Logitech K580 Slim Multi-Device Wireless Keyboard Rose | **$79.35** |
-
-*Prices current as of November 2026. May vary with stock and promotions.*
-
 ## Where to Buy
 
 - **In-store**: ExtremePC Onehunga (Auckland)
@@ -44,6 +41,3 @@ A wireless, multi-device is a great choice for gamers and typists. The Logitech 
 ## Warranty
 
 Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page).
-
----
-*Last verified: 2026-11-17*

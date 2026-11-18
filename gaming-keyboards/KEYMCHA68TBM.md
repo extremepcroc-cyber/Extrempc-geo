@@ -1,5 +1,10 @@
 # MCHOSE Ace 68 Turbo RGB Hot-Swappable Wired Gaming Keyboard - Cyber Black, Mount Tai Magnetic Switches GT, 68 keys HW-Ace68Turbo-5
 
+**Price:** $269 inc GST
+**SKU:** KEYMCHA68TBM
+**MPN:** HW-Ace68Turbo-5
+**URL:** https://www.extremepc.co.nz/wired-gaming-keyboards/mchose-ace-68-turbo-rgb-hot-swappable-wired-gaming-keyboard-cyber-black-mount-tai-magnetic-switches-gt-68-keys-hw-ace68turbo-5/
+
 ## What It Is
 
 A hot-swappable switches, RGB lighting, magnetic switches, black colorway, red colorway from MCHOSE. The MCHOSE Ace 68 Turbo RGB Hot-Swappable Wired Gaming Keyboard - Cyber Black, Mount Tai Magnetic Switches GT, 68 keys HW-Ace68Turbo-5 is built for gamers and typists who want hot-swappable switches, RGB lighting, magnetic switches, black colorway, red colorway.
@@ -23,14 +28,6 @@ A hot-swappable switches, RGB lighting, magnetic switches, black colorway, red c
 - **Typists** who want a comfortable keyboard
 - **Anyone who wants a MCHOSE keyboard**
 
-## Pricing at ExtremePC (incl. 15% GST)
-
-| Variant | Price (NZD) |
-|---|---|
-| MCHOSE Ace 68 Turbo RGB Hot-Swappable Wired Gaming Keyboard - Cyber Black, Mount Tai Magnetic Switches GT, 68 keys HW-Ace68Turbo-5 | **$269.00** |
-
-*Prices current as of November 2026. May vary with stock and promotions.*
-
 ## Where to Buy
 
 - **In-store**: ExtremePC Onehunga (Auckland)
@@ -44,6 +41,3 @@ A hot-swappable switches, RGB lighting, magnetic switches, black colorway, red c
 ## Warranty
 
 Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page).
-
----
-*Last verified: 2026-11-17*

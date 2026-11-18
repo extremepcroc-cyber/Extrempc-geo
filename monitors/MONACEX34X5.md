@@ -1,5 +1,10 @@
 # Acer Predator X34 X5 34" UWQHD 240Hz 0.03ms OLED Curved Gaming Monitor
 
+**Price:** $1699 inc GST
+**SKU:** MONACEX34X5
+**MPN:** UM.CXXSA.502-RY0
+**URL:** https://www.extremepc.co.nz/csv-import/acer-predator-x34-x5-34-oled-3440x1440-qhd-dp-hdmi-gaming-240hz/
+
 ## What It Is
 
 A 34" ultrawide QHD OLED gaming monitor from Acer Predator. The X34 X5 delivers 240Hz refresh rate and 0.03ms response time with a curved OLED panel — ideal for immersive gaming and productivity.
@@ -25,14 +30,6 @@ A 34" ultrawide OLED monitor is a premium choice for gamers who want an immersiv
 - **Productivity users** who want a large, fast display
 - **Anyone who wants a premium OLED monitor**
 
-## Pricing at ExtremePC (incl. 15% GST)
-
-| Variant | Price (NZD) |
-|---|---|
-| Predator X34 X5 34" UWQHD 240Hz OLED | **$1,552.50** |
-
-*Prices current as of November 2026. May vary with stock and promotions.*
-
 ## Where to Buy
 
 - **In-store**: ExtremePC Onehunga (Auckland)
@@ -47,6 +44,3 @@ A 34" ultrawide OLED monitor is a premium choice for gamers who want an immersiv
 ## Warranty
 
 Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page).
-
----
-*Last verified: 2026-11-17*

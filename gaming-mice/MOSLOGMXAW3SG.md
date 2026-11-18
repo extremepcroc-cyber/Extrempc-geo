@@ -1,5 +1,10 @@
 # Logitech MX Anywhere 3S Wireless Compact Optical Mouse - Graphite
 
+**Price:** $129 inc GST
+**SKU:** MOSLOGMXAW3SG
+**MPN:** 910-006932
+**URL:** https://www.extremepc.co.nz/logitech-mx-anywhere-3s-mouse-graphite/
+
 ## What It Is
 
 A wireless from Logitech. The Logitech MX Anywhere 3S Wireless Compact Optical Mouse - Graphite is built for gamers and productivity users who want wireless.
@@ -23,14 +28,6 @@ A wireless is a great choice for gamers and productivity users. The Logitech MX 
 - **Productivity users** who want a comfortable mouse
 - **Anyone who wants a Logitech mouse**
 
-## Pricing at ExtremePC (incl. 15% GST)
-
-| Variant | Price (NZD) |
-|---|---|
-| Logitech MX Anywhere 3S Wireless Compact Optical Mouse - Graphite | **$129.00** |
-
-*Prices current as of November 2026. May vary with stock and promotions.*
-
 ## Where to Buy
 
 - **In-store**: ExtremePC Onehunga (Auckland)
@@ -44,6 +41,3 @@ A wireless is a great choice for gamers and productivity users. The Logitech MX 
 ## Warranty
 
 Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page).
-
----
-*Last verified: 2026-11-17*

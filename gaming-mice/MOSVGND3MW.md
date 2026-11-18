@@ -1,5 +1,10 @@
 # VGN Dragonfly3 Master Ultra-Lightweight Wireless Gaming Mouse White
 
+**Price:** $109 inc GST
+**SKU:** MOSVGND3MW
+**MPN:** Dragonfly3 Master W
+**URL:** https://www.extremepc.co.nz/wireless-gaming-mice/vgn-dragonfly3-master-ultra-lightweight-wireless-mouse-white/
+
 ## What It Is
 
 A wireless, lightweight from VGN. The VGN Dragonfly3 Master Ultra-Lightweight Wireless Gaming Mouse White is built for gamers and productivity users who want wireless, lightweight.
@@ -23,14 +28,6 @@ A wireless, lightweight is a great choice for gamers and productivity users. The
 - **Productivity users** who want a comfortable mouse
 - **Anyone who wants a VGN mouse**
 
-## Pricing at ExtremePC (incl. 15% GST)
-
-| Variant | Price (NZD) |
-|---|---|
-| VGN Dragonfly3 Master Ultra-Lightweight Wireless Gaming Mouse White | **$109.00** |
-
-*Prices current as of November 2026. May vary with stock and promotions.*
-
 ## Where to Buy
 
 - **In-store**: ExtremePC Onehunga (Auckland)
@@ -44,6 +41,3 @@ A wireless, lightweight is a great choice for gamers and productivity users. The
 ## Warranty
 
 Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page).
-
----
-*Last verified: 2026-11-17*

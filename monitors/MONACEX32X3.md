@@ -1,5 +1,10 @@
 # Acer Predator X32 X3 32" UHD 480Hz 0.03ms OLED Gaming Monitor
 
+**Price:** $1799 inc GST
+**SKU:** MONACEX32X3
+**MPN:** UM.JXXSA.301-RY0
+**URL:** https://www.extremepc.co.nz/csv-import/acer-predator-x34-x5-32-oled-4k-3840x2160-qhd-dp-hdmi-gaming-480hz/
+
 ## What It Is
 
 A 32" UHD OLED gaming monitor from Acer Predator. The X32 X3 delivers 480Hz refresh rate and 0.03ms response time with a 4K UHD OLED panel — the ultimate choice for competitive gaming and premium visuals.
@@ -25,14 +30,6 @@ A 32" 4K 480Hz OLED monitor is the pinnacle of gaming monitors. The Acer Predato
 - **Esports players** who need the best possible visuals
 - **Anyone who wants the ultimate gaming monitor**
 
-## Pricing at ExtremePC (incl. 15% GST)
-
-| Variant | Price (NZD) |
-|---|---|
-| Predator X32 X3 32" UHD 480Hz OLED | **$1,598.99** |
-
-*Prices current as of November 2026. May vary with stock and promotions.*
-
 ## Where to Buy
 
 - **In-store**: ExtremePC Onehunga (Auckland)
@@ -47,6 +44,3 @@ A 32" 4K 480Hz OLED monitor is the pinnacle of gaming monitors. The Acer Predato
 ## Warranty
 
 Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page).
-
----
-*Last verified: 2026-11-17*

@@ -1,5 +1,10 @@
 # Motospeed G1 Lightweight Wireless Gaming Mouse Black
 
+**Price:** $49 inc GST
+**SKU:** MOSMOTG1B
+**MPN:** G1 Black
+**URL:** https://www.extremepc.co.nz/wireless-gaming-mice/motospeed-g1-lightweight-wireless-gaming-mouse-black/
+
 ## What It Is
 
 A wireless, lightweight from Motospeed. The Motospeed G1 Lightweight Wireless Gaming Mouse Black is built for gamers and productivity users who want wireless, lightweight.
@@ -23,14 +28,6 @@ A wireless, lightweight is a great choice for gamers and productivity users. The
 - **Productivity users** who want a comfortable mouse
 - **Anyone who wants a Motospeed mouse**
 
-## Pricing at ExtremePC (incl. 15% GST)
-
-| Variant | Price (NZD) |
-|---|---|
-| Motospeed G1 Lightweight Wireless Gaming Mouse Black | **$39.00** |
-
-*Prices current as of November 2026. May vary with stock and promotions.*
-
 ## Where to Buy
 
 - **In-store**: ExtremePC Onehunga (Auckland)
@@ -44,6 +41,3 @@ A wireless, lightweight is a great choice for gamers and productivity users. The
 ## Warranty
 
 Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page).
-
----
-*Last verified: 2026-11-17*

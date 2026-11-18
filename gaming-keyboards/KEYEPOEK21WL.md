@@ -1,5 +1,10 @@
 # Epomaker EK21 Bluetooth Hot Swappable Number pad - Epomaker Wisteria Switch Linear 6975485161345
 
+**Price:** $99 inc GST
+**SKU:** KEYEPOEK21WL
+**MPN:** 6975485161345
+**URL:** https://www.extremepc.co.nz/epomaker-ek21-bluetooth-hot-swappable-numpad-epomaker-wisteria-switch-linear/
+
 ## What It Is
 
 A hot-swappable switches, Bluetooth, blue colorway from Epomaker. The Epomaker EK21 Bluetooth Hot Swappable Number pad - Epomaker Wisteria Switch Linear 6975485161345 is built for gamers and typists who want hot-swappable switches, Bluetooth, blue colorway.
@@ -23,14 +28,6 @@ A hot-swappable switches, Bluetooth, blue colorway is a great choice for gamers 
 - **Typists** who want a comfortable keyboard
 - **Anyone who wants a Epomaker keyboard**
 
-## Pricing at ExtremePC (incl. 15% GST)
-
-| Variant | Price (NZD) |
-|---|---|
-| Epomaker EK21 Bluetooth Hot Swappable Number pad - Epomaker Wisteria Switch Linear 6975485161345 | **$99.00** |
-
-*Prices current as of November 2026. May vary with stock and promotions.*
-
 ## Where to Buy
 
 - **In-store**: ExtremePC Onehunga (Auckland)
@@ -44,6 +41,3 @@ A hot-swappable switches, Bluetooth, blue colorway is a great choice for gamers 
 ## Warranty
 
 Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page).
-
----
-*Last verified: 2026-11-17*

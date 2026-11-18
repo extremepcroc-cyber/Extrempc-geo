@@ -1,5 +1,10 @@
 # Angry Miao Infinity 97 Wireless Lightweight Gaming Mouse with Hatchback Neon Rosa
 
+**Price:** $499 inc GST
+**SKU:** MOSAMI97P
+**MPN:** INFINITY.97 PK
+**URL:** https://www.extremepc.co.nz/wireless-gaming-mice/angry-miao-infinity-97-wireless-lightweight-gaming-mouse-with-hatchback-neon-rosa/
+
 ## What It Is
 
 A wireless, lightweight from Angry Miao. The Angry Miao Infinity 97 Wireless Lightweight Gaming Mouse with Hatchback Neon Rosa is built for gamers and productivity users who want wireless, lightweight.
@@ -23,14 +28,6 @@ A wireless, lightweight is a great choice for gamers and productivity users. The
 - **Productivity users** who want a comfortable mouse
 - **Anyone who wants a Angry Miao mouse**
 
-## Pricing at ExtremePC (incl. 15% GST)
-
-| Variant | Price (NZD) |
-|---|---|
-| Angry Miao Infinity 97 Wireless Lightweight Gaming Mouse with Hatchback Neon Rosa | **$499.00** |
-
-*Prices current as of November 2026. May vary with stock and promotions.*
-
 ## Where to Buy
 
 - **In-store**: ExtremePC Onehunga (Auckland)
@@ -44,6 +41,3 @@ A wireless, lightweight is a great choice for gamers and productivity users. The
 ## Warranty
 
 Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page).
-
----
-*Last verified: 2026-11-17*

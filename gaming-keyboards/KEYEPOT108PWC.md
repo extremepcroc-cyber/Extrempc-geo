@@ -1,5 +1,10 @@
 # Epomaker TH108 Pro Hot-Swappable RGB Wireless Mechanical Keyboard - White Blue, Creamy Jade HE Switch, 104 Keys
 
+**Price:** $229 inc GST
+**SKU:** KEYEPOT108PWC
+**MPN:** TH108 Pro White Blue CJ
+**URL:** https://www.extremepc.co.nz/wireless-gaming-keyboards/epomaker-th108-pro-hot-swappable-rgb-wireless-mechanical-keyboard-white-blue-creamy-jade-he-switch-104-keys/
+
 ## What It Is
 
 A hot-swappable switches, wireless, RGB lighting, mechanical switches, white colorway, blue colorway, cream colorway from Epomaker. The Epomaker TH108 Pro Hot-Swappable RGB Wireless Mechanical Keyboard - White Blue, Creamy Jade HE Switch, 104 Keys is built for gamers and typists who want hot-swappable switches, wireless, RGB lighting, mechanical switches, white colorway, blue colorway, cream colorway.
@@ -23,14 +28,6 @@ A hot-swappable switches, wireless, RGB lighting, mechanical switches, white col
 - **Typists** who want a comfortable keyboard
 - **Anyone who wants a Epomaker keyboard**
 
-## Pricing at ExtremePC (incl. 15% GST)
-
-| Variant | Price (NZD) |
-|---|---|
-| Epomaker TH108 Pro Hot-Swappable RGB Wireless Mechanical Keyboard - White Blue, Creamy Jade HE Switch, 104 Keys | **$199.00** |
-
-*Prices current as of November 2026. May vary with stock and promotions.*
-
 ## Where to Buy
 
 - **In-store**: ExtremePC Onehunga (Auckland)
@@ -44,6 +41,3 @@ A hot-swappable switches, wireless, RGB lighting, mechanical switches, white col
 ## Warranty
 
 Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page).
-
----
-*Last verified: 2026-11-17*

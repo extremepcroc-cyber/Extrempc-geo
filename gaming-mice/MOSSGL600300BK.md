@@ -1,5 +1,10 @@
 # SGL Extra Long Gaming Mouse Mat 600 x 300 x 3 mm Black
 
+**Price:** $9 inc GST
+**SKU:** MOSSGL600300BK
+**MPN:** KS14
+**URL:** https://www.extremepc.co.nz/sgl-extra-long-gaming-mouse-mat-600-x-300-x-3-mm-black/
+
 ## What It Is
 
 A gaming mouse from SGL. The SGL Extra Long Gaming Mouse Mat 600 x 300 x 3 mm Black is built for gamers and productivity users who want gaming mouse.
@@ -23,14 +28,6 @@ A gaming mouse is a great choice for gamers and productivity users. The SGL Extr
 - **Productivity users** who want a comfortable mouse
 - **Anyone who wants a SGL mouse**
 
-## Pricing at ExtremePC (incl. 15% GST)
-
-| Variant | Price (NZD) |
-|---|---|
-| SGL Extra Long Gaming Mouse Mat 600 x 300 x 3 mm Black | **$9.00** |
-
-*Prices current as of November 2026. May vary with stock and promotions.*
-
 ## Where to Buy
 
 - **In-store**: ExtremePC Onehunga (Auckland)
@@ -44,6 +41,3 @@ A gaming mouse is a great choice for gamers and productivity users. The SGL Extr
 ## Warranty
 
 Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page).
-
----
-*Last verified: 2026-11-17*

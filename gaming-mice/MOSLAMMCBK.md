@@ -1,5 +1,10 @@
 # Lamzu Maya Cloth Speed 490*420*3mm Mousepad Black
 
+**Price:** $119 inc GST
+**SKU:** MOSLAMMCBK
+**MPN:** Maya Cloth
+**URL:** https://www.extremepc.co.nz/lamzu-maya-cloth-speed-490-420-3mm-mousepad-black/
+
 ## What It Is
 
 A gaming mouse from Lamzu. The Lamzu Maya Cloth Speed 490*420*3mm Mousepad Black is built for gamers and productivity users who want gaming mouse.
@@ -23,14 +28,6 @@ A gaming mouse is a great choice for gamers and productivity users. The Lamzu Ma
 - **Productivity users** who want a comfortable mouse
 - **Anyone who wants a Lamzu mouse**
 
-## Pricing at ExtremePC (incl. 15% GST)
-
-| Variant | Price (NZD) |
-|---|---|
-| Lamzu Maya Cloth Speed 490*420*3mm Mousepad Black | **$109.00** |
-
-*Prices current as of November 2026. May vary with stock and promotions.*
-
 ## Where to Buy
 
 - **In-store**: ExtremePC Onehunga (Auckland)
@@ -44,6 +41,3 @@ A gaming mouse is a great choice for gamers and productivity users. The Lamzu Ma
 ## Warranty
 
 Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page).
-
----
-*Last verified: 2026-11-17*

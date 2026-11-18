@@ -1,5 +1,10 @@
 # Samsung Odyssey G6 27" QHD 350Hz 1ms Fast IPS Gaming Monitor
 
+**Price:** $798 inc GST
+**SKU:** MONSAM27FG6
+**MPN:** LS27FG602EEXXY
+**URL:** https://www.extremepc.co.nz/samsung-odyssey-g6-27-qhd-350hz-1ms-fast-ips-gaming-monitor-ls27fg602eexxy/
+
 ## What It Is
 
 A 27" QHD gaming monitor from Samsung Odyssey. The G6 27" delivers 2560x1440 resolution and 350Hz refresh rate with a 1ms Fast IPS panel — the ultimate choice for competitive gaming.
@@ -25,14 +30,6 @@ A 27" QHD 350Hz gaming monitor is a top-tier choice for competitive players who 
 - **Esports players** who need the fastest response times
 - **Anyone who wants a premium gaming monitor**
 
-## Pricing at ExtremePC (incl. 15% GST)
-
-| Variant | Price (NZD) |
-|---|---|
-| G6 27" QHD 350Hz Fast IPS | **$549** |
-
-*Prices current as of November 2026. May vary with stock and promotions.*
-
 ## Where to Buy
 
 - **In-store**: ExtremePC Onehunga (Auckland)
@@ -47,6 +44,3 @@ A 27" QHD 350Hz gaming monitor is a top-tier choice for competitive players who 
 ## Warranty
 
 Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page).
-
----
-*Last verified: 2026-11-17*

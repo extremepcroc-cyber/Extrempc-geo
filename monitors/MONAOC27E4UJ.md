@@ -1,5 +1,10 @@
 # AOC 27E4UJ 27" FHD 120Hz IPS Business Monitor
 
+**Price:** $269 inc GST
+**SKU:** MONAOC27E4UJ
+**MPN:** 27E4UJ /79
+**URL:** https://www.extremepc.co.nz/aoc-27e4uj-27-fhd-120hz-ips-business-monitor/
+
 ## What It Is
 
 A 27" FHD business monitor from AOC. The 27E4UJ delivers 120Hz refresh rate with an IPS panel — ideal for productivity and general use.
@@ -24,14 +29,6 @@ A 27" 120Hz business monitor is a solid choice for professionals who want a larg
 - **Students** who need a larger display for notes and research
 - **Anyone who wants a good business monitor**
 
-## Pricing at ExtremePC (incl. 15% GST)
-
-| Variant | Price (NZD) |
-|---|---|
-| 27E4UJ 27" FHD 120Hz IPS | **$239** |
-
-*Prices current as of November 2026. May vary with stock and promotions.*
-
 ## Where to Buy
 
 - **In-store**: ExtremePC Onehunga (Auckland)
@@ -46,6 +43,3 @@ A 27" 120Hz business monitor is a solid choice for professionals who want a larg
 ## Warranty
 
 Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page).
-
----
-*Last verified: 2026-11-17*

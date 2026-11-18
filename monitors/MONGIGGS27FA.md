@@ -1,5 +1,10 @@
 # Gigabyte GS27FA 27" FHD 180Hz IPS 1ms Gaming Monitor
 
+**Price:** $299 inc GST
+**SKU:** MONGIGGS27FA
+**MPN:** GS27FA
+**URL:** https://www.extremepc.co.nz/gigabyte-gs27f-a-27-fhd-180hz-ips-1920x1080-2xhdmi-gaming-monitor/
+
 ## What It Is
 
 A 27" FHD gaming monitor from Gigabyte. The GS27FA delivers 180Hz refresh rate and 1ms response time with an IPS panel — ideal for competitive gaming.
@@ -25,14 +30,6 @@ A 27" 180Hz gaming monitor is a solid choice for competitive players who want fa
 - **Esports players** who need fast response times
 - **Anyone who wants a good gaming monitor**
 
-## Pricing at ExtremePC (incl. 15% GST)
-
-| Variant | Price (NZD) |
-|---|---|
-| GS27FA 27" FHD 180Hz IPS | **$241.50** |
-
-*Prices current as of November 2026. May vary with stock and promotions.*
-
 ## Where to Buy
 
 - **In-store**: ExtremePC Onehunga (Auckland)
@@ -47,6 +44,3 @@ A 27" 180Hz gaming monitor is a solid choice for competitive players who want fa
 ## Warranty
 
 Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page).
-
----
-*Last verified: 2026-11-17*

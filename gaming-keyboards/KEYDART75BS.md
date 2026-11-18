@@ -1,5 +1,10 @@
 # Darmoshark TOP75 RGB Hot-Swappable Wireless Mechanical Gaming Keyboard - Black, Silver Switch, 81 keys
 
+**Price:** $189 inc GST
+**SKU:** KEYDART75BS
+**MPN:** TOP75 Black S
+**URL:** https://www.extremepc.co.nz/wireless-gaming-keyboards/darmoshark-top75-rgb-hot-swappable-wireless-mechanical-gaming-keyboard-black-silver-switch-81-keys/
+
 ## What It Is
 
 A hot-swappable switches, wireless, RGB lighting, mechanical switches, black colorway, silver colorway from Darmoshark. The Darmoshark TOP75 RGB Hot-Swappable Wireless Mechanical Gaming Keyboard - Black, Silver Switch, 81 keys is built for gamers and typists who want hot-swappable switches, wireless, RGB lighting, mechanical switches, black colorway, silver colorway.
@@ -23,14 +28,6 @@ A hot-swappable switches, wireless, RGB lighting, mechanical switches, black col
 - **Typists** who want a comfortable keyboard
 - **Anyone who wants a Darmoshark keyboard**
 
-## Pricing at ExtremePC (incl. 15% GST)
-
-| Variant | Price (NZD) |
-|---|---|
-| Darmoshark TOP75 RGB Hot-Swappable Wireless Mechanical Gaming Keyboard - Black, Silver Switch, 81 keys | **$132.31** |
-
-*Prices current as of November 2026. May vary with stock and promotions.*
-
 ## Where to Buy
 
 - **In-store**: ExtremePC Onehunga (Auckland)
@@ -44,6 +41,3 @@ A hot-swappable switches, wireless, RGB lighting, mechanical switches, black col
 ## Warranty
 
 Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page).
-
----
-*Last verified: 2026-11-17*

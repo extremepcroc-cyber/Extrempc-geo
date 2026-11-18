@@ -1,5 +1,10 @@
 # Logitech Lift Vertical Ergonomic Mouse - Black
 
+**Price:** $138 inc GST
+**SKU:** MOSLOGLIFTB
+**MPN:** 910-006479
+**URL:** https://www.extremepc.co.nz/logitech-lift-vertical-ergonomic-mouse-black/
+
 ## What It Is
 
 A ergonomic, vertical from Logitech. The Logitech Lift Vertical Ergonomic Mouse - Black is built for gamers and productivity users who want ergonomic, vertical.
@@ -23,14 +28,6 @@ A ergonomic, vertical is a great choice for gamers and productivity users. The L
 - **Productivity users** who want a comfortable mouse
 - **Anyone who wants a Logitech mouse**
 
-## Pricing at ExtremePC (incl. 15% GST)
-
-| Variant | Price (NZD) |
-|---|---|
-| Logitech Lift Vertical Ergonomic Mouse - Black | **$138.00** |
-
-*Prices current as of November 2026. May vary with stock and promotions.*
-
 ## Where to Buy
 
 - **In-store**: ExtremePC Onehunga (Auckland)
@@ -44,6 +41,3 @@ A ergonomic, vertical is a great choice for gamers and productivity users. The L
 ## Warranty
 
 Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page).
-
----
-*Last verified: 2026-11-17*

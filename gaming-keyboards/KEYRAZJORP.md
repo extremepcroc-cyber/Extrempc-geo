@@ -1,5 +1,10 @@
 # Razer Joro Portable Wireless Gaming Keyboard RZ03-02360100-R3M1
 
+**Price:** $249 inc GST
+**SKU:** KEYRAZJORP
+**MPN:** RZ03-02360100-R3M1
+**URL:** https://www.extremepc.co.nz/csv-import/razer-joro-portable-wireless-gaming-keyboard/
+
 ## What It Is
 
 A wireless from Razer. The Razer Joro Portable Wireless Gaming Keyboard RZ03-02360100-R3M1 is built for gamers and typists who want wireless.
@@ -23,14 +28,6 @@ A wireless is a great choice for gamers and typists. The Razer Joro Portable Wir
 - **Typists** who want a comfortable keyboard
 - **Anyone who wants a Razer keyboard**
 
-## Pricing at ExtremePC (incl. 15% GST)
-
-| Variant | Price (NZD) |
-|---|---|
-| Razer Joro Portable Wireless Gaming Keyboard RZ03-02360100-R3M1 | **$199.00** |
-
-*Prices current as of November 2026. May vary with stock and promotions.*
-
 ## Where to Buy
 
 - **In-store**: ExtremePC Onehunga (Auckland)
@@ -44,6 +41,3 @@ A wireless is a great choice for gamers and typists. The Razer Joro Portable Wir
 ## Warranty
 
 Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page).
-
----
-*Last verified: 2026-11-17*

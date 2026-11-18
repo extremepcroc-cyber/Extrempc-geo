@@ -1,5 +1,10 @@
 # Horion 27H02QV 27" QHD 180Hz 1ms VA Curved Gaming Monitor
 
+**Price:** $329 inc GST
+**SKU:** MONHOR27H2QV
+**MPN:** 27H02QV
+**URL:** https://www.extremepc.co.nz/gaming-monitors/horion-27h02qv-27-qhd-180hz-1ms-va-curved-gaming-monitor/
+
 ## What It Is
 
 A 27" QHD curved gaming monitor from Horion. The 27H02QV delivers 2560x1440 resolution and 180Hz refresh rate with a 1ms VA curved panel — ideal for immersive gaming.
@@ -25,14 +30,6 @@ A 27" QHD 180Hz curved monitor is a great choice for gamers who want an immersiv
 - **Esports players** who need fast response times
 - **Anyone who wants a good curved gaming monitor**
 
-## Pricing at ExtremePC (incl. 15% GST)
-
-| Variant | Price (NZD) |
-|---|---|
-| 27H02QV 27" QHD 180Hz VA Curved | **$328.99** |
-
-*Prices current as of November 2026. May vary with stock and promotions.*
-
 ## Where to Buy
 
 - **In-store**: ExtremePC Onehunga (Auckland)
@@ -47,6 +44,3 @@ A 27" QHD 180Hz curved monitor is a great choice for gamers who want an immersiv
 ## Warranty
 
 Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page).
-
----
-*Last verified: 2026-11-17*

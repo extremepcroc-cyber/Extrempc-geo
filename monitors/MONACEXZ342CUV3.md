@@ -1,5 +1,10 @@
 # Acer Nitro XZ342CUV3 34" UWQHD 180Hz 1ms VA Curved Gaming Monitor
 
+**Price:** $569 inc GST
+**SKU:** MONACEXZ342CUV3
+**MPN:** UM.CX2SA.302-RY0
+**URL:** https://www.extremepc.co.nz/acer-nitro-xz342cuv3-34-uwqhd-180hz-1ms-va-curved-gaming-monitor/
+
 ## What It Is
 
 A 34" ultrawide QHD curved gaming monitor from Acer Nitro. The XZ342CUV3 delivers 180Hz refresh rate and 1ms response time with a VA curved panel — ideal for immersive gaming and productivity.
@@ -25,14 +30,6 @@ A 34" ultrawide 180Hz curved monitor is a great choice for gamers who want an im
 - **Productivity users** who want a large display
 - **Anyone who wants a good ultrawide gaming monitor**
 
-## Pricing at ExtremePC (incl. 15% GST)
-
-| Variant | Price (NZD) |
-|---|---|
-| Nitro XZ342CUV3 34" UWQHD 180Hz Curved | **$469** |
-
-*Prices current as of November 2026. May vary with stock and promotions.*
-
 ## Where to Buy
 
 - **In-store**: ExtremePC Onehunga (Auckland)
@@ -47,6 +44,3 @@ A 34" ultrawide 180Hz curved monitor is a great choice for gamers who want an im
 ## Warranty
 
 Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page).
-
----
-*Last verified: 2026-11-17*

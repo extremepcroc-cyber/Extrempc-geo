@@ -1,5 +1,10 @@
 # Dell P2425 24" WUXGA IPS Business Monitor
 
+**Price:** $345 inc GST
+**SKU:** MONDELP2425
+**MPN:** P2425
+**URL:** https://www.extremepc.co.nz/dell-p-series-24-16-10-ips-1920x1200-tv-eye-comfort-hdm-i-dp-vga-usb-3-2-h-adj-3yr/
+
 ## What It Is
 
 A 24" WUXGA business monitor from Dell. The P2425 delivers 1920x1200 resolution with an IPS panel — ideal for productivity and general use.
@@ -23,14 +28,6 @@ A 24" WUXGA business monitor is a solid choice for professionals who want a 16:1
 - **Students** who need a display for notes and research
 - **Anyone who wants a good business monitor**
 
-## Pricing at ExtremePC (incl. 15% GST)
-
-| Variant | Price (NZD) |
-|---|---|
-| P2425 24" WUXGA IPS | **$345** |
-
-*Prices current as of November 2026. May vary with stock and promotions.*
-
 ## Where to Buy
 
 - **In-store**: ExtremePC Onehunga (Auckland)
@@ -45,6 +42,3 @@ A 24" WUXGA business monitor is a solid choice for professionals who want a 16:1
 ## Warranty
 
 Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page).
-
----
-*Last verified: 2026-11-17*

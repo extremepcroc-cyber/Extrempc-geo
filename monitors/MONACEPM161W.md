@@ -1,5 +1,10 @@
 # Acer PM161W 16" WUXGA 60Hz USB-C IPS Portable Monitor
 
+**Price:** $299 inc GST
+**SKU:** MONACEPM161W
+**MPN:** UM.ZP1SA.003-RM0
+**URL:** https://www.extremepc.co.nz/acer-pm161w-16-wuxga-60hz-usb-c-ips-portable-monitor-um-zp1sa-003-rm0/
+
 ## What It Is
 
 A 16" WUXGA portable monitor from Acer. The PM161W features USB-C connectivity — ideal for extending your laptop display on the go with a slightly larger 16" panel.
@@ -25,14 +30,6 @@ A 16" portable monitor is a great choice for professionals who want a slightly l
 - **Students** who need a compact display for notes and research
 - **Anyone who wants a portable second screen**
 
-## Pricing at ExtremePC (incl. 15% GST)
-
-| Variant | Price (NZD) |
-|---|---|
-| PM161W 16" WUXGA Portable Monitor | **$299** |
-
-*Prices current as of November 2026. May vary with stock and promotions.*
-
 ## Where to Buy
 
 - **In-store**: ExtremePC Onehunga (Auckland)
@@ -47,6 +44,3 @@ A 16" portable monitor is a great choice for professionals who want a slightly l
 ## Warranty
 
 Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page).
-
----
-*Last verified: 2026-11-17*

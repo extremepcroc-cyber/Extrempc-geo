@@ -1,5 +1,10 @@
 # ATK VXE Dragonfly R1 SE+ Wireless Gaming Mouse Black
 
+**Price:** $69 inc GST
+**SKU:** MOSATKR1SEB
+**MPN:** R1 SE+ Black
+**URL:** https://www.extremepc.co.nz/atk-vxe-dragonfly-r1-se-wireless-gaming-mouse-black/
+
 ## What It Is
 
 A wireless from ATK. The ATK VXE Dragonfly R1 SE+ Wireless Gaming Mouse Black is built for gamers and productivity users who want wireless.
@@ -23,14 +28,6 @@ A wireless is a great choice for gamers and productivity users. The ATK VXE Drag
 - **Productivity users** who want a comfortable mouse
 - **Anyone who wants a ATK mouse**
 
-## Pricing at ExtremePC (incl. 15% GST)
-
-| Variant | Price (NZD) |
-|---|---|
-| ATK VXE Dragonfly R1 SE+ Wireless Gaming Mouse Black | **$69.00** |
-
-*Prices current as of November 2026. May vary with stock and promotions.*
-
 ## Where to Buy
 
 - **In-store**: ExtremePC Onehunga (Auckland)
@@ -44,6 +41,3 @@ A wireless is a great choice for gamers and productivity users. The ATK VXE Drag
 ## Warranty
 
 Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page).
-
----
-*Last verified: 2026-11-17*

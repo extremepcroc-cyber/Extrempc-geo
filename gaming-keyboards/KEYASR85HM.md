@@ -1,5 +1,10 @@
 # Attack Shark R85 HE Rapid Trigger RGB Wired Gaming Keyboard - Moonlight, Magnetic Switch, 79 keys
 
+**Price:** $169 inc GST
+**SKU:** KEYASR85HM
+**MPN:** R85 HE Moonlight
+**URL:** https://www.extremepc.co.nz/wired-gaming-keyboards/attack-shark-r85-he-rapid-trigger-rgb-wired-gaming-keyboard-moonlight-magnetic-switch-79-keys/
+
 ## What It Is
 
 A RGB lighting, magnetic switches, rapid trigger, red colorway from Attack Shark. The Attack Shark R85 HE Rapid Trigger RGB Wired Gaming Keyboard - Moonlight, Magnetic Switch, 79 keys is built for gamers and typists who want RGB lighting, magnetic switches, rapid trigger, red colorway.
@@ -23,14 +28,6 @@ A RGB lighting, magnetic switches, rapid trigger, red colorway is a great choice
 - **Typists** who want a comfortable keyboard
 - **Anyone who wants a Attack Shark keyboard**
 
-## Pricing at ExtremePC (incl. 15% GST)
-
-| Variant | Price (NZD) |
-|---|---|
-| Attack Shark R85 HE Rapid Trigger RGB Wired Gaming Keyboard - Moonlight, Magnetic Switch, 79 keys | **$169.00** |
-
-*Prices current as of November 2026. May vary with stock and promotions.*
-
 ## Where to Buy
 
 - **In-store**: ExtremePC Onehunga (Auckland)
@@ -44,6 +41,3 @@ A RGB lighting, magnetic switches, rapid trigger, red colorway is a great choice
 ## Warranty
 
 Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page).
-
----
-*Last verified: 2026-11-17*

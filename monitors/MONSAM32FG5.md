@@ -1,5 +1,10 @@
 # Samsung Odyssey G5 32" QHD 180Hz 1ms Flat IPS Gaming Monitor
 
+**Price:** $478 inc GST
+**SKU:** MONSAM32FG5
+**MPN:** LS32FG502EEXXY
+**URL:** https://www.extremepc.co.nz/samsung-odyssey-g5-32-qhd-180hz-1ms-flat-ips-gaming-monitor-ls32fg502eexxy/
+
 ## What It Is
 
 A 32" QHD gaming monitor from Samsung Odyssey. The G5 32" delivers 2560x1440 resolution and 180Hz refresh rate with a 1ms IPS panel — ideal for immersive gaming.
@@ -25,14 +30,6 @@ A 32" QHD 180Hz gaming monitor is a great choice for gamers who want a large, im
 - **Esports players** who need fast response times
 - **Anyone who wants a large gaming monitor**
 
-## Pricing at ExtremePC (incl. 15% GST)
-
-| Variant | Price (NZD) |
-|---|---|
-| G5 32" QHD 180Hz IPS | **$439** |
-
-*Prices current as of November 2026. May vary with stock and promotions.*
-
 ## Where to Buy
 
 - **In-store**: ExtremePC Onehunga (Auckland)
@@ -47,6 +44,3 @@ A 32" QHD 180Hz gaming monitor is a great choice for gamers who want a large, im
 ## Warranty
 
 Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page).
-
----
-*Last verified: 2026-11-17*

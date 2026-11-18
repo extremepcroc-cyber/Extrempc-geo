@@ -1,5 +1,10 @@
 # DAREU EK60 HE RGB Wired Gaming Keyboard - White, Fire Magnetic Switches, 61 keys EK60 HE White
 
+**Price:** $149 inc GST
+**SKU:** KEYDAREK60HW
+**MPN:** EK60 HE White
+**URL:** https://www.extremepc.co.nz/wired-gaming-keyboards/dareu-ek60-he-rgb-wired-gaming-keyboard-white-fire-magnetic-switches-61-keys-ek60-he-white/
+
 ## What It Is
 
 A RGB lighting, magnetic switches, white colorway, red colorway from Dareu. The DAREU EK60 HE RGB Wired Gaming Keyboard - White, Fire Magnetic Switches, 61 keys EK60 HE White is built for gamers and typists who want RGB lighting, magnetic switches, white colorway, red colorway.
@@ -23,14 +28,6 @@ A RGB lighting, magnetic switches, white colorway, red colorway is a great choic
 - **Typists** who want a comfortable keyboard
 - **Anyone who wants a Dareu keyboard**
 
-## Pricing at ExtremePC (incl. 15% GST)
-
-| Variant | Price (NZD) |
-|---|---|
-| DAREU EK60 HE RGB Wired Gaming Keyboard - White, Fire Magnetic Switches, 61 keys EK60 HE White | **$149.01** |
-
-*Prices current as of November 2026. May vary with stock and promotions.*
-
 ## Where to Buy
 
 - **In-store**: ExtremePC Onehunga (Auckland)
@@ -44,6 +41,3 @@ A RGB lighting, magnetic switches, white colorway, red colorway is a great choic
 ## Warranty
 
 Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page).
-
----
-*Last verified: 2026-11-17*

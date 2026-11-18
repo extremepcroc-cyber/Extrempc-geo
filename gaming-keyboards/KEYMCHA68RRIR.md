@@ -1,5 +1,10 @@
 # MCHOSE Ace 68 RGB Hot-Swappable Wired Gaming Keyboard - Rose Red, Ice Rhino Magnetic Switch, 68 keys
 
+**Price:** $129 inc GST
+**SKU:** KEYMCHA68RRIR
+**MPN:** HW-Ace68-28
+**URL:** https://www.extremepc.co.nz/mchose-ace-68-rgb-hot-swappable-wired-gaming-keyboard-rose-red-ice-rhino-magnetic-switch-68-keys/
+
 ## What It Is
 
 A hot-swappable switches, RGB lighting, magnetic switches, red colorway from MCHOSE. The MCHOSE Ace 68 RGB Hot-Swappable Wired Gaming Keyboard - Rose Red, Ice Rhino Magnetic Switch, 68 keys is built for gamers and typists who want hot-swappable switches, RGB lighting, magnetic switches, red colorway.
@@ -23,14 +28,6 @@ A hot-swappable switches, RGB lighting, magnetic switches, red colorway is a gre
 - **Typists** who want a comfortable keyboard
 - **Anyone who wants a MCHOSE keyboard**
 
-## Pricing at ExtremePC (incl. 15% GST)
-
-| Variant | Price (NZD) |
-|---|---|
-| MCHOSE Ace 68 RGB Hot-Swappable Wired Gaming Keyboard - Rose Red, Ice Rhino Magnetic Switch, 68 keys | **$119.00** |
-
-*Prices current as of November 2026. May vary with stock and promotions.*
-
 ## Where to Buy
 
 - **In-store**: ExtremePC Onehunga (Auckland)
@@ -44,6 +41,3 @@ A hot-swappable switches, RGB lighting, magnetic switches, red colorway is a gre
 ## Warranty
 
 Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page).
-
----
-*Last verified: 2026-11-17*

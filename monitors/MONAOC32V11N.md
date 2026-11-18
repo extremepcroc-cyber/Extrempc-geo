@@ -1,5 +1,10 @@
 # AOC U32V11N 32" 4K UHD VA Business Monitor
 
+**Price:** $429 inc GST
+**SKU:** MONAOC32V11N
+**MPN:** U32V11N /79
+**URL:** https://www.extremepc.co.nz/aoc-u32v11n-32-4k-uhd-va-business-monitor-u32v11n/
+
 ## What It Is
 
 A 32" 4K UHD business monitor from AOC. The U32V11N delivers 3840x2160 resolution with a VA panel — ideal for productivity and media consumption.
@@ -23,14 +28,6 @@ A 32" 4K business monitor is a premium choice for professionals who want a large
 - **Designers** who need a large, high-resolution screen
 - **Anyone who wants a premium business monitor**
 
-## Pricing at ExtremePC (incl. 15% GST)
-
-| Variant | Price (NZD) |
-|---|---|
-| U32V11N 32" 4K UHD VA | **$429** |
-
-*Prices current as of November 2026. May vary with stock and promotions.*
-
 ## Where to Buy
 
 - **In-store**: ExtremePC Onehunga (Auckland)
@@ -45,6 +42,3 @@ A 32" 4K business monitor is a premium choice for professionals who want a large
 ## Warranty
 
 Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page).
-
----
-*Last verified: 2026-11-17*

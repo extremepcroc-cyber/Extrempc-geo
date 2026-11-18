@@ -1,5 +1,10 @@
 # Gigabyte GS32QA 32" QHD SS IPS 180Hz 1ms Adaptive Sync Gaming Monitor
 
+**Price:** $549 inc GST
+**SKU:** MONGIGGS32QA
+**MPN:** GS32QA
+**URL:** https://www.extremepc.co.nz/csv-import/gigabyte-gs32qa-31-5-ss-ips-180hz-2560x-1440-qhd-hdmi-2-0-x-2-gaming-monitor/
+
 ## What It Is
 
 A 32" QHD gaming monitor from Gigabyte. The GS32QA delivers 2560x1440 resolution and 180Hz refresh rate with a Super Speed IPS panel and Adaptive Sync — ideal for immersive gaming.
@@ -26,14 +31,6 @@ A 32" QHD 180Hz gaming monitor is a great choice for gamers who want a large, im
 - **Productivity users** who want a large display
 - **Anyone who wants a good large gaming monitor**
 
-## Pricing at ExtremePC (incl. 15% GST)
-
-| Variant | Price (NZD) |
-|---|---|
-| GS32QA 32" QHD 180Hz SS IPS | **$517.50** |
-
-*Prices current as of November 2026. May vary with stock and promotions.*
-
 ## Where to Buy
 
 - **In-store**: ExtremePC Onehunga (Auckland)
@@ -48,6 +45,3 @@ A 32" QHD 180Hz gaming monitor is a great choice for gamers who want a large, im
 ## Warranty
 
 Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page).
-
----
-*Last verified: 2026-11-17*

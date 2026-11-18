@@ -1,5 +1,10 @@
 # Dry Studio Battleye 75 HE R2 Dog Tag RGB Hot-Swappable Wired Gaming Keyboard - Carbon Silver, WS Diamond HE Switches, 98 keys
 
+**Price:** $599 inc GST
+**SKU:** KEYDSB75H2DS
+**MPN:** Battleye 75 HE R2 DT
+**URL:** https://www.extremepc.co.nz/wired-gaming-keyboards/dry-studio-battleye-75-he-r2-dog-tag-rgb-hot-swappable-wired-gaming-keyboard-carbon-silver-bsun-light-sakura-silent-linear-switches-98-keys/
+
 ## What It Is
 
 A hot-swappable switches, RGB lighting, red colorway, silver colorway from Dry Studio. The Dry Studio Battleye 75 HE R2 Dog Tag RGB Hot-Swappable Wired Gaming Keyboard - Carbon Silver, WS Diamond HE Switches, 98 keys is built for gamers and typists who want hot-swappable switches, RGB lighting, red colorway, silver colorway.
@@ -23,14 +28,6 @@ A hot-swappable switches, RGB lighting, red colorway, silver colorway is a great
 - **Typists** who want a comfortable keyboard
 - **Anyone who wants a Dry Studio keyboard**
 
-## Pricing at ExtremePC (incl. 15% GST)
-
-| Variant | Price (NZD) |
-|---|---|
-| Dry Studio Battleye 75 HE R2 Dog Tag RGB Hot-Swappable Wired Gaming Keyboard - Carbon Silver, WS Diamond HE Switches, 98 keys | **$599.00** |
-
-*Prices current as of November 2026. May vary with stock and promotions.*
-
 ## Where to Buy
 
 - **In-store**: ExtremePC Onehunga (Auckland)
@@ -44,6 +41,3 @@ A hot-swappable switches, RGB lighting, red colorway, silver colorway is a great
 ## Warranty
 
 Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page).
-
----
-*Last verified: 2026-11-17*

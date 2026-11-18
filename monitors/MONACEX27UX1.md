@@ -1,5 +1,10 @@
 # Acer Predator X27U X1 27" QHD 240Hz 0.001ms OLED Gaming Monitor
 
+**Price:** $999 inc GST
+**SKU:** MONACEX27UX1
+**MPN:** UM.GXXSA.101-RY0
+**URL:** https://www.extremepc.co.nz/csv-import/acer-predator-x27u-x1-27-oled-2560x1440-qhd-dp-hdmi-gaming-240hz/
+
 ## What It Is
 
 A 27" QHD OLED gaming monitor from Acer Predator. The X27U X1 delivers 240Hz refresh rate and 0.001ms response time with an OLED panel — ideal for competitive gaming and premium visuals.
@@ -25,14 +30,6 @@ A 27" QHD OLED monitor is a premium choice for gamers who want the best possible
 - **Esports players** who need the best possible visuals
 - **Anyone who wants a premium gaming monitor**
 
-## Pricing at ExtremePC (incl. 15% GST)
-
-| Variant | Price (NZD) |
-|---|---|
-| Predator X27U X1 27" QHD 240Hz OLED | **$899** |
-
-*Prices current as of November 2026. May vary with stock and promotions.*
-
 ## Where to Buy
 
 - **In-store**: ExtremePC Onehunga (Auckland)
@@ -47,6 +44,3 @@ A 27" QHD OLED monitor is a premium choice for gamers who want the best possible
 ## Warranty
 
 Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page).
-
----
-*Last verified: 2026-11-17*

@@ -1,5 +1,10 @@
 # ThundeRobot ML903 Black 4K Polling  Wireless  65g (Mouse) Ultra-Light  26000 DPI Gaming Mouse With Charging Base
 
+**Price:** $109 inc GST
+**SKU:** MOSTHUML903B
+**MPN:** ML903 4K Black
+**URL:** https://www.extremepc.co.nz/thunderobot-ml903-black-4k-polling-wireless-65g-mouse-ultra-light-26000-dpi-gaming-mouse-with-charging-base/
+
 ## What It Is
 
 A wireless from THUNDEROBOT. The ThundeRobot ML903 Black 4K Polling  Wireless  65g (Mouse) Ultra-Light  26000 DPI Gaming Mouse With Charging Base is built for gamers and productivity users who want wireless.
@@ -23,14 +28,6 @@ A wireless is a great choice for gamers and productivity users. The ThundeRobot 
 - **Productivity users** who want a comfortable mouse
 - **Anyone who wants a THUNDEROBOT mouse**
 
-## Pricing at ExtremePC (incl. 15% GST)
-
-| Variant | Price (NZD) |
-|---|---|
-| ThundeRobot ML903 Black 4K Polling  Wireless  65g (Mouse) Ultra-Light  26000 DPI Gaming Mouse With Charging Base | **$92.00** |
-
-*Prices current as of November 2026. May vary with stock and promotions.*
-
 ## Where to Buy
 
 - **In-store**: ExtremePC Onehunga (Auckland)
@@ -44,6 +41,3 @@ A wireless is a great choice for gamers and productivity users. The ThundeRobot 
 ## Warranty
 
 Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page).
-
----
-*Last verified: 2026-11-17*

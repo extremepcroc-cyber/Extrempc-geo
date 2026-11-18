@@ -1,5 +1,10 @@
 # Logitech Wave Keys Wireless Ergonomic Keyboard - Black
 
+**Price:** $149 inc GST
+**SKU:** KEYLOGWAVEB
+**MPN:** 920-012281
+**URL:** https://www.extremepc.co.nz/logitech-wave-keys-wireless-ergo-keyboard-black/
+
 ## What It Is
 
 A wireless, ergonomic design, black colorway from Logitech. The Logitech Wave Keys Wireless Ergonomic Keyboard - Black is built for gamers and typists who want wireless, ergonomic design, black colorway.
@@ -23,14 +28,6 @@ A wireless, ergonomic design, black colorway is a great choice for gamers and ty
 - **Typists** who want a comfortable keyboard
 - **Anyone who wants a Logitech keyboard**
 
-## Pricing at ExtremePC (incl. 15% GST)
-
-| Variant | Price (NZD) |
-|---|---|
-| Logitech Wave Keys Wireless Ergonomic Keyboard - Black | **$129.00** |
-
-*Prices current as of November 2026. May vary with stock and promotions.*
-
 ## Where to Buy
 
 - **In-store**: ExtremePC Onehunga (Auckland)
@@ -44,6 +41,3 @@ A wireless, ergonomic design, black colorway is a great choice for gamers and ty
 ## Warranty
 
 1 year manufacturer warranty, claims handled through ExtremePC NZ.
-
----
-*Last verified: 2026-11-17*

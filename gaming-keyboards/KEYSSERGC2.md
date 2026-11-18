@@ -1,5 +1,10 @@
 # Sanwa Supply ERGC2 Bluetooth Ergonomic Keyboard Black
 
+**Price:** $199 inc GST
+**SKU:** KEYSSERGC2
+**MPN:** ERGC2
+**URL:** https://www.extremepc.co.nz/sanwa-supply-ergc2-bluetooth-ergonomic-keyboard-black/
+
 ## What It Is
 
 A ergonomic design, Bluetooth, black colorway, blue colorway from Sanwa Supply. The Sanwa Supply ERGC2 Bluetooth Ergonomic Keyboard Black is built for gamers and typists who want ergonomic design, Bluetooth, black colorway, blue colorway.
@@ -23,14 +28,6 @@ A ergonomic design, Bluetooth, black colorway, blue colorway is a great choice f
 - **Typists** who want a comfortable keyboard
 - **Anyone who wants a Sanwa Supply keyboard**
 
-## Pricing at ExtremePC (incl. 15% GST)
-
-| Variant | Price (NZD) |
-|---|---|
-| Sanwa Supply ERGC2 Bluetooth Ergonomic Keyboard Black | **$199.00** |
-
-*Prices current as of November 2026. May vary with stock and promotions.*
-
 ## Where to Buy
 
 - **In-store**: ExtremePC Onehunga (Auckland)
@@ -44,6 +41,3 @@ A ergonomic design, Bluetooth, black colorway, blue colorway is a great choice f
 ## Warranty
 
 Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page).
-
----
-*Last verified: 2026-11-17*

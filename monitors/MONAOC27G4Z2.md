@@ -1,5 +1,10 @@
 # AOC CQ27G4 27" QHD 260Hz 1ms VA Curved Gaming Monitor
 
+**Price:** $399 inc GST
+**SKU:** MONAOC27G4Z2
+**MPN:** CQ27G4Z2/79
+**URL:** https://www.extremepc.co.nz/gaming-monitors/aoc-cq27g4-27-qhd-260hz-1ms-va-curved-gaming-monitor/
+
 ## What It Is
 
 A 27" QHD curved gaming monitor from AOC. The CQ27G4 delivers 260Hz refresh rate and 1ms response time with a VA curved panel — ideal for immersive competitive gaming.
@@ -25,14 +30,6 @@ A 27" QHD 260Hz curved monitor is a top-tier choice for competitive players who 
 - **Esports players** who need fast response times
 - **Anyone who wants a premium curved gaming monitor**
 
-## Pricing at ExtremePC (incl. 15% GST)
-
-| Variant | Price (NZD) |
-|---|---|
-| CQ27G4 27" QHD 260Hz VA Curved | **$379.01** |
-
-*Prices current as of November 2026. May vary with stock and promotions.*
-
 ## Where to Buy
 
 - **In-store**: ExtremePC Onehunga (Auckland)
@@ -47,6 +44,3 @@ A 27" QHD 260Hz curved monitor is a top-tier choice for competitive players who 
 ## Warranty
 
 Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page).
-
----
-*Last verified: 2026-11-17*

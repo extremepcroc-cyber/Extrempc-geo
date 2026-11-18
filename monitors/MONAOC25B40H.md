@@ -1,5 +1,10 @@
 # AOC 25B40HM 25" FHD 100Hz VA Business Monitor
 
+**Price:** $149 inc GST
+**SKU:** MONAOC25B40H
+**MPN:** 25B40HM/79
+**URL:** https://www.extremepc.co.nz/business-monitors/aoc-25b40hm-25-fhd-100hz-va-business-monitor/
+
 ## What It Is
 
 A 25" FHD business monitor from AOC. The 25B40HM delivers 100Hz refresh rate with a VA panel — ideal for productivity and general use.
@@ -24,14 +29,6 @@ A 25" 100Hz business monitor is a solid choice for professionals who want a slig
 - **Students** who need a display for notes and research
 - **Anyone who wants a good budget business monitor**
 
-## Pricing at ExtremePC (incl. 15% GST)
-
-| Variant | Price (NZD) |
-|---|---|
-| 25B40HM 25" FHD 100Hz VA | **$149.01** |
-
-*Prices current as of November 2026. May vary with stock and promotions.*
-
 ## Where to Buy
 
 - **In-store**: ExtremePC Onehunga (Auckland)
@@ -46,6 +43,3 @@ A 25" 100Hz business monitor is a solid choice for professionals who want a slig
 ## Warranty
 
 Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page).
-
----
-*Last verified: 2026-11-17*

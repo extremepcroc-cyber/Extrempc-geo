@@ -1,5 +1,10 @@
 # Attack Shark R98 HE Carbon Fiber Rapid Trigger RGB Hot-Swappable Wired Gaming Keyboard - Black, Magnetic Switch, 98 keys
 
+**Price:** $169 inc GST
+**SKU:** KEYASR98HB
+**MPN:** R98HE Black
+**URL:** https://www.extremepc.co.nz/wired-gaming-keyboards/attack-shark-r98-he-carbon-fiber-rapid-trigger-rgb-hot-swappable-wired-gaming-keyboard-black-magnetic-switch-98-keys/
+
 ## What It Is
 
 A hot-swappable switches, RGB lighting, magnetic switches, rapid trigger, black colorway, red colorway from Attack Shark. The Attack Shark R98 HE Carbon Fiber Rapid Trigger RGB Hot-Swappable Wired Gaming Keyboard - Black, Magnetic Switch, 98 keys is built for gamers and typists who want hot-swappable switches, RGB lighting, magnetic switches, rapid trigger, black colorway, red colorway.
@@ -23,14 +28,6 @@ A hot-swappable switches, RGB lighting, magnetic switches, rapid trigger, black 
 - **Typists** who want a comfortable keyboard
 - **Anyone who wants a Attack Shark keyboard**
 
-## Pricing at ExtremePC (incl. 15% GST)
-
-| Variant | Price (NZD) |
-|---|---|
-| Attack Shark R98 HE Carbon Fiber Rapid Trigger RGB Hot-Swappable Wired Gaming Keyboard - Black, Magnetic Switch, 98 keys | **$169.00** |
-
-*Prices current as of November 2026. May vary with stock and promotions.*
-
 ## Where to Buy
 
 - **In-store**: ExtremePC Onehunga (Auckland)
@@ -44,6 +41,3 @@ A hot-swappable switches, RGB lighting, magnetic switches, rapid trigger, black 
 ## Warranty
 
 Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page).
-
----
-*Last verified: 2026-11-17*

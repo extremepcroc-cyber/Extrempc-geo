@@ -1,5 +1,10 @@
 # SGL Gaming Mouse Pad 300 x 250 x 3 mm Black
 
+**Price:** $3 inc GST
+**SKU:** MOSSGL300250BK
+**MPN:** KS12
+**URL:** https://www.extremepc.co.nz/sgl-gaming-mouse-mat-300-x-250-x-3-mm-black/
+
 ## What It Is
 
 A mouse pad from SGL. The SGL Gaming Mouse Pad 300 x 250 x 3 mm Black is built for gamers and productivity users who want mouse pad.
@@ -23,14 +28,6 @@ A mouse pad is a great choice for gamers and productivity users. The SGL Gaming 
 - **Productivity users** who want a comfortable mouse
 - **Anyone who wants a SGL mouse**
 
-## Pricing at ExtremePC (incl. 15% GST)
-
-| Variant | Price (NZD) |
-|---|---|
-| SGL Gaming Mouse Pad 300 x 250 x 3 mm Black | **$3.00** |
-
-*Prices current as of November 2026. May vary with stock and promotions.*
-
 ## Where to Buy
 
 - **In-store**: ExtremePC Onehunga (Auckland)
@@ -44,6 +41,3 @@ A mouse pad is a great choice for gamers and productivity users. The SGL Gaming 
 ## Warranty
 
 Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page).
-
----
-*Last verified: 2026-11-17*

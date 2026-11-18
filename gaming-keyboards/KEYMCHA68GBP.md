@@ -1,5 +1,10 @@
 # MCHOSE Ace 68 GT RGB Hot-Swappable Wired Gaming Keyboard - Black Gold, Mount Tai Pink Magnetic Switch GT, 68 keys HW-Ace68GT-1
 
+**Price:** $269 inc GST
+**SKU:** KEYMCHA68GBP
+**MPN:** HW-Ace68GT-1
+**URL:** https://www.extremepc.co.nz/wired-gaming-keyboards/mchose-ace-68-gt-rgb-hot-swappable-wired-gaming-keyboard-black-gold-mount-tai-pink-magnetic-switch-gt-68-keys-hw-ace68gt-1/
+
 ## What It Is
 
 A hot-swappable switches, RGB lighting, magnetic switches, black colorway, red colorway, pink colorway, gold colorway from MCHOSE. The MCHOSE Ace 68 GT RGB Hot-Swappable Wired Gaming Keyboard - Black Gold, Mount Tai Pink Magnetic Switch GT, 68 keys HW-Ace68GT-1 is built for gamers and typists who want hot-swappable switches, RGB lighting, magnetic switches, black colorway, red colorway, pink colorway, gold colorway.
@@ -23,14 +28,6 @@ A hot-swappable switches, RGB lighting, magnetic switches, black colorway, red c
 - **Typists** who want a comfortable keyboard
 - **Anyone who wants a MCHOSE keyboard**
 
-## Pricing at ExtremePC (incl. 15% GST)
-
-| Variant | Price (NZD) |
-|---|---|
-| MCHOSE Ace 68 GT RGB Hot-Swappable Wired Gaming Keyboard - Black Gold, Mount Tai Pink Magnetic Switch GT, 68 keys HW-Ace68GT-1 | **$269.00** |
-
-*Prices current as of November 2026. May vary with stock and promotions.*
-
 ## Where to Buy
 
 - **In-store**: ExtremePC Onehunga (Auckland)
@@ -44,6 +41,3 @@ A hot-swappable switches, RGB lighting, magnetic switches, black colorway, red c
 ## Warranty
 
 Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page).
-
----
-*Last verified: 2026-11-17*

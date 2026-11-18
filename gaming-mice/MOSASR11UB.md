@@ -1,5 +1,10 @@
 # Attack Shark R11 ULTRA Carbon Fiber Wireless 8K Gaming Mouse Black
 
+**Price:** $209 inc GST
+**SKU:** MOSASR11UB
+**MPN:** R11 Ultra Black
+**URL:** https://www.extremepc.co.nz/wireless-gaming-mice/attack-shark-r11-ultra-carbon-fiber-wireless-8k-gaming-mouse-black/
+
 ## What It Is
 
 A 8K polling rate, wireless, carbon fiber from Attack Shark. The Attack Shark R11 ULTRA Carbon Fiber Wireless 8K Gaming Mouse Black is built for gamers and productivity users who want 8K polling rate, wireless, carbon fiber.
@@ -23,14 +28,6 @@ A 8K polling rate, wireless, carbon fiber is a great choice for gamers and produ
 - **Productivity users** who want a comfortable mouse
 - **Anyone who wants a Attack Shark mouse**
 
-## Pricing at ExtremePC (incl. 15% GST)
-
-| Variant | Price (NZD) |
-|---|---|
-| Attack Shark R11 ULTRA Carbon Fiber Wireless 8K Gaming Mouse Black | **$209.00** |
-
-*Prices current as of November 2026. May vary with stock and promotions.*
-
 ## Where to Buy
 
 - **In-store**: ExtremePC Onehunga (Auckland)
@@ -44,6 +41,3 @@ A 8K polling rate, wireless, carbon fiber is a great choice for gamers and produ
 ## Warranty
 
 Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page).
-
----
-*Last verified: 2026-11-17*

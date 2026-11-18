@@ -1,5 +1,10 @@
 # AOC C32G42ZE 32" FHD 260Hz 0.3ms VA Curved Gaming Monitor
 
+**Price:** $368 inc GST
+**SKU:** MONAOCCG42ZE
+**MPN:** C32G42ZE/79
+**URL:** https://www.extremepc.co.nz/aoc-c32g42ze-32-curved-1920x1080-0-3ms-hdmi-dp-260hz-gaming-monitor/
+
 ## What It Is
 
 A 32" FHD curved gaming monitor from AOC. The C32G42ZE delivers 260Hz refresh rate and 0.3ms response time with a VA curved panel — ideal for immersive competitive gaming.
@@ -25,14 +30,6 @@ A 32" 260Hz curved monitor is a great choice for gamers who want a large, immers
 - **Esports players** who need fast response times
 - **Anyone who wants a large curved gaming monitor**
 
-## Pricing at ExtremePC (incl. 15% GST)
-
-| Variant | Price (NZD) |
-|---|---|
-| C32G42ZE 32" FHD 260Hz VA Curved | **$348** |
-
-*Prices current as of November 2026. May vary with stock and promotions.*
-
 ## Where to Buy
 
 - **In-store**: ExtremePC Onehunga (Auckland)
@@ -47,6 +44,3 @@ A 32" 260Hz curved monitor is a great choice for gamers who want a large, immers
 ## Warranty
 
 Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page).
-
----
-*Last verified: 2026-11-17*

@@ -1,5 +1,10 @@
 # Kensington SmartFit Ergo Dual Extended Monitor Arm - Up to 32"
 
+**Price:** $109 inc GST
+**SKU:** MONAKENSFE32
+**MPN:** K55409WW
+**URL:** https://www.extremepc.co.nz/monitor-mounts/kensington-smartfit-ergo-dual-extended-monitor-arm-up-to-32-k55409ww/
+
 ## What It Is
 
 A dual monitor arm from Kensington. The SmartFit Ergo K55409WW supports two monitors up to 32" each — ideal for a dual-screen setup with ergonomic adjustment.
@@ -22,14 +27,6 @@ A dual monitor arm is a practical accessory for anyone who wants a dual-screen s
 - **Gamers** who want a second display for strategy or chat
 - **Anyone who wants an ergonomic monitor arm**
 
-## Pricing at ExtremePC (incl. 15% GST)
-
-| Variant | Price (NZD) |
-|---|---|
-| SmartFit Ergo Dual Monitor Arm (up to 32") | **$99** |
-
-*Prices current as of November 2026. May vary with stock and promotions.*
-
 ## Where to Buy
 
 - **In-store**: ExtremePC Onehunga (Auckland)
@@ -44,6 +41,3 @@ A dual monitor arm is a practical accessory for anyone who wants a dual-screen s
 ## Warranty
 
 Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page).
-
----
-*Last verified: 2026-11-17*

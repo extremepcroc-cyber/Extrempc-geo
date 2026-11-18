@@ -1,5 +1,10 @@
 # BT304 22 Keys Numeric Keypad Bluetooth / Wireless number pad
 
+**Price:** $49 inc GST
+**SKU:** KEYOEMBT304
+**MPN:** BT304
+**URL:** https://www.extremepc.co.nz/keypads/bt304-22-keys-numeric-keypad-wireless-mini-keyboard/
+
 ## What It Is
 
 A wireless, Bluetooth, blue colorway from OEM. The BT304 22 Keys Numeric Keypad Bluetooth / Wireless number pad is built for gamers and typists who want wireless, Bluetooth, blue colorway.
@@ -23,14 +28,6 @@ A wireless, Bluetooth, blue colorway is a great choice for gamers and typists. T
 - **Typists** who want a comfortable keyboard
 - **Anyone who wants a OEM keyboard**
 
-## Pricing at ExtremePC (incl. 15% GST)
-
-| Variant | Price (NZD) |
-|---|---|
-| BT304 22 Keys Numeric Keypad Bluetooth / Wireless number pad | **$49.00** |
-
-*Prices current as of November 2026. May vary with stock and promotions.*
-
 ## Where to Buy
 
 - **In-store**: ExtremePC Onehunga (Auckland)
@@ -44,6 +41,3 @@ A wireless, Bluetooth, blue colorway is a great choice for gamers and typists. T
 ## Warranty
 
 Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page).
-
----
-*Last verified: 2026-11-17*

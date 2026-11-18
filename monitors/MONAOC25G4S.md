@@ -1,5 +1,10 @@
 # AOC 25G4S 25" FHD 310Hz 0.3ms Fast IPS Gaming Monitor
 
+**Price:** $399 inc GST
+**SKU:** MONAOC25G4S
+**MPN:** 25G4S
+**URL:** https://www.extremepc.co.nz/csv-import/aoc-25g4s-25-fhd-310hz-fast-ips-gaming-monitor-1920x1080-0-3ms-hdr400-2x-hdmi-dp-1-4-height-adjustable-100x100-vesa/
+
 ## What It Is
 
 A 25" FHD gaming monitor from AOC. The 25G4S delivers 310Hz refresh rate and 0.3ms response time with a Fast IPS panel — ideal for competitive gaming.
@@ -25,14 +30,6 @@ A 25" 310Hz gaming monitor is a top-tier choice for competitive players who want
 - **Esports players** who need the fastest response times
 - **Anyone who wants a premium gaming monitor**
 
-## Pricing at ExtremePC (incl. 15% GST)
-
-| Variant | Price (NZD) |
-|---|---|
-| 25G4S 25" FHD 310Hz Fast IPS | **$399** |
-
-*Prices current as of November 2026. May vary with stock and promotions.*
-
 ## Where to Buy
 
 - **In-store**: ExtremePC Onehunga (Auckland)
@@ -47,6 +44,3 @@ A 25" 310Hz gaming monitor is a top-tier choice for competitive players who want
 ## Warranty
 
 Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page).
-
----
-*Last verified: 2026-11-17*

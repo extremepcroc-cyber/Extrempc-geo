@@ -1,5 +1,10 @@
 # Epomaker Cypher 96 RGB Hot-swappable Wireless Mechanical Keyboard - White Blue, Wisteria Linear Switch, 96 keys
 
+**Price:** $219 inc GST
+**SKU:** KEYEPOC96WBL
+**MPN:** Cypher96 Wisteria Linear
+**URL:** https://www.extremepc.co.nz/epomaker-cypher-96-rgb-hot-swappable-wireless-mechanical-keyboard-white-blue-wisteria-linear-switch-96-keys/
+
 ## What It Is
 
 A hot-swappable switches, wireless, RGB lighting, mechanical switches, white colorway, blue colorway from Epomaker. The Epomaker Cypher 96 RGB Hot-swappable Wireless Mechanical Keyboard - White Blue, Wisteria Linear Switch, 96 keys is built for gamers and typists who want hot-swappable switches, wireless, RGB lighting, mechanical switches, white colorway, blue colorway.
@@ -23,14 +28,6 @@ A hot-swappable switches, wireless, RGB lighting, mechanical switches, white col
 - **Typists** who want a comfortable keyboard
 - **Anyone who wants a Epomaker keyboard**
 
-## Pricing at ExtremePC (incl. 15% GST)
-
-| Variant | Price (NZD) |
-|---|---|
-| Epomaker Cypher 96 RGB Hot-swappable Wireless Mechanical Keyboard - White Blue, Wisteria Linear Switch, 96 keys | **$139.00** |
-
-*Prices current as of November 2026. May vary with stock and promotions.*
-
 ## Where to Buy
 
 - **In-store**: ExtremePC Onehunga (Auckland)
@@ -44,6 +41,3 @@ A hot-swappable switches, wireless, RGB lighting, mechanical switches, white col
 ## Warranty
 
 Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page).
-
----
-*Last verified: 2026-11-17*

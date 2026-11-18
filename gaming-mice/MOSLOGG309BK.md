@@ -1,5 +1,10 @@
 # Logitech G309 Lightspeed Wireless Gaming Mouse - Black
 
+**Price:** $129 inc GST
+**SKU:** MOSLOGG309BK
+**MPN:** 910-007203
+**URL:** https://www.extremepc.co.nz/logitech-g309-lightspeed-wireless-gaming-mouse-black-9ndg/
+
 ## What It Is
 
 A wireless from Logitech. The Logitech G309 Lightspeed Wireless Gaming Mouse - Black is built for gamers and productivity users who want wireless.
@@ -23,14 +28,6 @@ A wireless is a great choice for gamers and productivity users. The Logitech G30
 - **Productivity users** who want a comfortable mouse
 - **Anyone who wants a Logitech mouse**
 
-## Pricing at ExtremePC (incl. 15% GST)
-
-| Variant | Price (NZD) |
-|---|---|
-| Logitech G309 Lightspeed Wireless Gaming Mouse - Black | **$103.50** |
-
-*Prices current as of November 2026. May vary with stock and promotions.*
-
 ## Where to Buy
 
 - **In-store**: ExtremePC Onehunga (Auckland)
@@ -44,6 +41,3 @@ A wireless is a great choice for gamers and productivity users. The Logitech G30
 ## Warranty
 
 2 years manufacturer warranty, claims handled through ExtremePC NZ.
-
----
-*Last verified: 2026-11-17*

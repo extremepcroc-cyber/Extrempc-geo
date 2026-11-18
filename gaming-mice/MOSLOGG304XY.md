@@ -1,5 +1,10 @@
 # Logitech G304 X LIGHTSPEED Wireless Gaming Mouse Yellow 910-007691
 
+**Price:** $149 inc GST
+**SKU:** MOSLOGG304XY
+**MPN:** 910-007691
+**URL:** https://www.extremepc.co.nz/wireless-gaming-mice/logitech-g304-lightspeed-wireless-gaming-mouse-yellow/
+
 ## What It Is
 
 A wireless from Logitech. The Logitech G304 X LIGHTSPEED Wireless Gaming Mouse Yellow 910-007691 is built for gamers and productivity users who want wireless.
@@ -23,14 +28,6 @@ A wireless is a great choice for gamers and productivity users. The Logitech G30
 - **Productivity users** who want a comfortable mouse
 - **Anyone who wants a Logitech mouse**
 
-## Pricing at ExtremePC (incl. 15% GST)
-
-| Variant | Price (NZD) |
-|---|---|
-| Logitech G304 X LIGHTSPEED Wireless Gaming Mouse Yellow 910-007691 | **$115.00** |
-
-*Prices current as of November 2026. May vary with stock and promotions.*
-
 ## Where to Buy
 
 - **In-store**: ExtremePC Onehunga (Auckland)
@@ -44,6 +41,3 @@ A wireless is a great choice for gamers and productivity users. The Logitech G30
 ## Warranty
 
 Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page).
-
----
-*Last verified: 2026-11-17*

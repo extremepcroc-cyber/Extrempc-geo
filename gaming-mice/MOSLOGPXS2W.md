@@ -1,5 +1,10 @@
 # Logitech Pro X Superlight 2 DEX Wireless Gaming Mouse White
 
+**Price:** $269 inc GST
+**SKU:** MOSLOGPXS2W
+**MPN:** 910-007367
+**URL:** https://www.extremepc.co.nz/logitech-pro-x-superlight-2-dex-wireless-gaming-mouse-white/
+
 ## What It Is
 
 A wireless from Logitech. The Logitech Pro X Superlight 2 DEX Wireless Gaming Mouse White is built for gamers and productivity users who want wireless.
@@ -23,14 +28,6 @@ A wireless is a great choice for gamers and productivity users. The Logitech Pro
 - **Productivity users** who want a comfortable mouse
 - **Anyone who wants a Logitech mouse**
 
-## Pricing at ExtremePC (incl. 15% GST)
-
-| Variant | Price (NZD) |
-|---|---|
-| Logitech Pro X Superlight 2 DEX Wireless Gaming Mouse White | **$241.50** |
-
-*Prices current as of November 2026. May vary with stock and promotions.*
-
 ## Where to Buy
 
 - **In-store**: ExtremePC Onehunga (Auckland)
@@ -44,6 +41,3 @@ A wireless is a great choice for gamers and productivity users. The Logitech Pro
 ## Warranty
 
 2 years manufacturer warranty, claims handled through ExtremePC NZ.
-
----
-*Last verified: 2026-11-17*

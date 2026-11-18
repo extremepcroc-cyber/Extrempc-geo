@@ -1,5 +1,10 @@
 # Philips 346B1C/75 34" Ultrawide Curved USB-C Docking Monitor with Built-in KVM Switch
 
+**Price:** $900 inc GST
+**SKU:** MONPH346B1C
+**MPN:** 346B1C/75
+**URL:** https://www.extremepc.co.nz/philips-346b1c-34-ultrawide-qhd-curved-monitor/
+
 ## What It Is
 
 A 34" ultrawide curved business monitor from Philips. The 346B1C/75 features USB-C docking and a built-in KVM switch — ideal for productivity and multi-device connectivity.
@@ -24,14 +29,6 @@ A 34" ultrawide USB-C docking monitor is a premium choice for professionals who 
 - **Laptop users** who want USB-C docking
 - **Anyone who wants a premium business monitor**
 
-## Pricing at ExtremePC (incl. 15% GST)
-
-| Variant | Price (NZD) |
-|---|---|
-| 346B1C/75 34" Ultrawide Curved USB-C Docking | **$799** |
-
-*Prices current as of November 2026. May vary with stock and promotions.*
-
 ## Where to Buy
 
 - **In-store**: ExtremePC Onehunga (Auckland)
@@ -46,6 +43,3 @@ A 34" ultrawide USB-C docking monitor is a premium choice for professionals who 
 ## Warranty
 
 Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page).
-
----
-*Last verified: 2026-11-17*

@@ -1,5 +1,10 @@
 # MCHOSE Mix 87 RGB Hot-Swappable Wired Gaming Keyboard - White, Apollo Magnetic Switch, 87 keys Mix87-4
 
+**Price:** $159 inc GST
+**SKU:** KEYMCHM87WA
+**MPN:** Mix87-4
+**URL:** https://www.extremepc.co.nz/mchose-mix-87-rgb-hot-swappable-wired-gaming-keyboard-white-apollo-magnetic-switch-87-keys-mix87-4/
+
 ## What It Is
 
 A hot-swappable switches, RGB lighting, magnetic switches, white colorway, red colorway from MCHOSE. The MCHOSE Mix 87 RGB Hot-Swappable Wired Gaming Keyboard - White, Apollo Magnetic Switch, 87 keys Mix87-4 is built for gamers and typists who want hot-swappable switches, RGB lighting, magnetic switches, white colorway, red colorway.
@@ -23,14 +28,6 @@ A hot-swappable switches, RGB lighting, magnetic switches, white colorway, red c
 - **Typists** who want a comfortable keyboard
 - **Anyone who wants a MCHOSE keyboard**
 
-## Pricing at ExtremePC (incl. 15% GST)
-
-| Variant | Price (NZD) |
-|---|---|
-| MCHOSE Mix 87 RGB Hot-Swappable Wired Gaming Keyboard - White, Apollo Magnetic Switch, 87 keys Mix87-4 | **$119.00** |
-
-*Prices current as of November 2026. May vary with stock and promotions.*
-
 ## Where to Buy
 
 - **In-store**: ExtremePC Onehunga (Auckland)
@@ -44,6 +41,3 @@ A hot-swappable switches, RGB lighting, magnetic switches, white colorway, red c
 ## Warranty
 
 Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page).
-
----
-*Last verified: 2026-11-17*

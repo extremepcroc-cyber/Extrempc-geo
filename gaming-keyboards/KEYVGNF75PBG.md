@@ -1,5 +1,10 @@
 # VGN Flash 75 PRO RGB Hot-Swappable Wired Mechanical Gaming Keyboard - Black, Gateron Magnetic Jade Pro Switch, 81 keys
 
+**Price:** $369 inc GST
+**SKU:** KEYVGNF75PBG
+**MPN:** Flash 75 PRO Black G
+**URL:** https://www.extremepc.co.nz/wired-gaming-keyboards/vgn-flash-75-pro-rgb-hot-swappable-wired-mechanical-gaming-keyboard-black-gateron-magnetic-jade-pro-switch-81-keys/
+
 ## What It Is
 
 A hot-swappable switches, RGB lighting, mechanical switches, magnetic switches, Gateron switches, black colorway, red colorway from VGN. The VGN Flash 75 PRO RGB Hot-Swappable Wired Mechanical Gaming Keyboard - Black, Gateron Magnetic Jade Pro Switch, 81 keys is built for gamers and typists who want hot-swappable switches, RGB lighting, mechanical switches, magnetic switches, Gateron switches, black colorway, red colorway.
@@ -23,14 +28,6 @@ A hot-swappable switches, RGB lighting, mechanical switches, magnetic switches, 
 - **Typists** who want a comfortable keyboard
 - **Anyone who wants a VGN keyboard**
 
-## Pricing at ExtremePC (incl. 15% GST)
-
-| Variant | Price (NZD) |
-|---|---|
-| VGN Flash 75 PRO RGB Hot-Swappable Wired Mechanical Gaming Keyboard - Black, Gateron Magnetic Jade Pro Switch, 81 keys | **$369.00** |
-
-*Prices current as of November 2026. May vary with stock and promotions.*
-
 ## Where to Buy
 
 - **In-store**: ExtremePC Onehunga (Auckland)
@@ -44,6 +41,3 @@ A hot-swappable switches, RGB lighting, mechanical switches, magnetic switches, 
 ## Warranty
 
 Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page).
-
----
-*Last verified: 2026-11-17*

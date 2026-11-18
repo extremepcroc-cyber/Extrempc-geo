@@ -1,5 +1,10 @@
 # MCHOSE G3 V2 Lightweight Wireless Gaming Mouse Blue
 
+**Price:** $59 inc GST
+**SKU:** MOSMCHG3V2BU
+**MPN:** MC-G3V2-6
+**URL:** https://www.extremepc.co.nz/mchose-g3-v2-lilghtweight-wireless-gaming-mouse-blue/
+
 ## What It Is
 
 A wireless, lightweight from MCHOSE. The MCHOSE G3 V2 Lightweight Wireless Gaming Mouse Blue is built for gamers and productivity users who want wireless, lightweight.
@@ -23,14 +28,6 @@ A wireless, lightweight is a great choice for gamers and productivity users. The
 - **Productivity users** who want a comfortable mouse
 - **Anyone who wants a MCHOSE mouse**
 
-## Pricing at ExtremePC (incl. 15% GST)
-
-| Variant | Price (NZD) |
-|---|---|
-| MCHOSE G3 V2 Lightweight Wireless Gaming Mouse Blue | **$58.99** |
-
-*Prices current as of November 2026. May vary with stock and promotions.*
-
 ## Where to Buy
 
 - **In-store**: ExtremePC Onehunga (Auckland)
@@ -44,6 +41,3 @@ A wireless, lightweight is a great choice for gamers and productivity users. The
 ## Warranty
 
 Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page).
-
----
-*Last verified: 2026-11-17*

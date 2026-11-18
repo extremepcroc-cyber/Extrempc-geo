@@ -1,5 +1,10 @@
 # Epomaker EK21 Bluetooth Hot Swappable Numpad - Retro White, Zebra Switch
 
+**Price:** $99 inc GST
+**SKU:** KEYEPOEK21WZ
+**MPN:** EK21 White Z
+**URL:** https://www.extremepc.co.nz/keypads/epomaker-ek21-bluetooth-hot-swappable-numpad-retro-white-zebra-switch/
+
 ## What It Is
 
 A hot-swappable switches, Bluetooth, white colorway, blue colorway from Epomaker. The Epomaker EK21 Bluetooth Hot Swappable Numpad - Retro White, Zebra Switch is built for gamers and typists who want hot-swappable switches, Bluetooth, white colorway, blue colorway.
@@ -23,14 +28,6 @@ A hot-swappable switches, Bluetooth, white colorway, blue colorway is a great ch
 - **Typists** who want a comfortable keyboard
 - **Anyone who wants a Epomaker keyboard**
 
-## Pricing at ExtremePC (incl. 15% GST)
-
-| Variant | Price (NZD) |
-|---|---|
-| Epomaker EK21 Bluetooth Hot Swappable Numpad - Retro White, Zebra Switch | **$99.00** |
-
-*Prices current as of November 2026. May vary with stock and promotions.*
-
 ## Where to Buy
 
 - **In-store**: ExtremePC Onehunga (Auckland)
@@ -44,6 +41,3 @@ A hot-swappable switches, Bluetooth, white colorway, blue colorway is a great ch
 ## Warranty
 
 Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page).
-
----
-*Last verified: 2026-11-17*

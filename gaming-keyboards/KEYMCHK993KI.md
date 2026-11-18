@@ -1,5 +1,10 @@
 # MCHOSE K99 V3 RGB Hot-Swappable Wireless Gaming Keyboard - Black Gold, Icy Creamsicle Switch, 99 keys HW-K99V3-7
 
+**Price:** $209 inc GST
+**SKU:** KEYMCHK993KI
+**MPN:** HW-K99V3-7
+**URL:** https://www.extremepc.co.nz/wireless-gaming-keyboards/mchose-k99-v3-rgb-hot-swappable-wireless-gaming-keyboard-black-gold-icy-creamsicle-switch-99-keys-hw-k99v3-7/
+
 ## What It Is
 
 A hot-swappable switches, wireless, RGB lighting, black colorway, gold colorway, cream colorway from MCHOSE. The MCHOSE K99 V3 RGB Hot-Swappable Wireless Gaming Keyboard - Black Gold, Icy Creamsicle Switch, 99 keys HW-K99V3-7 is built for gamers and typists who want hot-swappable switches, wireless, RGB lighting, black colorway, gold colorway, cream colorway.
@@ -23,14 +28,6 @@ A hot-swappable switches, wireless, RGB lighting, black colorway, gold colorway,
 - **Typists** who want a comfortable keyboard
 - **Anyone who wants a MCHOSE keyboard**
 
-## Pricing at ExtremePC (incl. 15% GST)
-
-| Variant | Price (NZD) |
-|---|---|
-| MCHOSE K99 V3 RGB Hot-Swappable Wireless Gaming Keyboard - Black Gold, Icy Creamsicle Switch, 99 keys HW-K99V3-7 | **$172.50** |
-
-*Prices current as of November 2026. May vary with stock and promotions.*
-
 ## Where to Buy
 
 - **In-store**: ExtremePC Onehunga (Auckland)
@@ -44,6 +41,3 @@ A hot-swappable switches, wireless, RGB lighting, black colorway, gold colorway,
 ## Warranty
 
 Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page).
-
----
-*Last verified: 2026-11-17*

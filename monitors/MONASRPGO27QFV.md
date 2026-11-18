@@ -1,5 +1,10 @@
 # ASRock Phantom Gaming 27" 360Hz QHD 2K 0.03ms 99%DCI-P3 OLED HDR400 Gaming Monitor
 
+**Price:** $1299 inc GST
+**SKU:** MONASRPGO27QFV
+**MPN:** PGO27QFV
+**URL:** https://www.extremepc.co.nz/asrock-phantom-gaming-27-360hz-qhd-2k-0-03ms-gaming-monitor/
+
 ## What It Is
 
 A 27" QHD OLED gaming monitor from ASRock Phantom Gaming. The PGO27QFV delivers 360Hz refresh rate and 0.03ms response time with a 99% DCI-P3 color OLED panel and HDR400 — the ultimate choice for competitive gaming and premium visuals.
@@ -27,14 +32,6 @@ A 27" QHD 360Hz OLED monitor is the pinnacle of gaming monitors. The ASRock Phan
 - **Esports players** who need the best possible visuals
 - **Anyone who wants a premium gaming monitor**
 
-## Pricing at ExtremePC (incl. 15% GST)
-
-| Variant | Price (NZD) |
-|---|---|
-| Phantom Gaming PGO27QFV 27" QHD 360Hz OLED | **$1,150** |
-
-*Prices current as of November 2026. May vary with stock and promotions.*
-
 ## Where to Buy
 
 - **In-store**: ExtremePC Onehunga (Auckland)
@@ -49,6 +46,3 @@ A 27" QHD 360Hz OLED monitor is the pinnacle of gaming monitors. The ASRock Phan
 ## Warranty
 
 Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page).
-
----
-*Last verified: 2026-11-17*

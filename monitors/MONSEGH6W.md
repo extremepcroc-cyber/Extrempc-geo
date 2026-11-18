@@ -1,5 +1,10 @@
 # Segotep HiPHANT 6 inch LCD Sub Screen - White
 
+**Price:** $69 inc GST
+**SKU:** MONSEGH6W
+**MPN:** HiPHANT Secondary Screen white
+**URL:** https://www.extremepc.co.nz/segotep-hiphant-6-inch-lcd-sub-screen-white/
+
 ## What It Is
 
 A 6" LCD sub screen from Segotep HiPHANT. This compact white display is ideal for use as a secondary screen, secondary monitor, or display for specific applications.
@@ -23,14 +28,6 @@ A 6" LCD sub screen is a great choice for anyone who wants a compact secondary d
 - **Multi-taskers** who want a small display
 - **Anyone who wants a small LCD screen**
 
-## Pricing at ExtremePC (incl. 15% GST)
-
-| Variant | Price (NZD) |
-|---|---|
-| HiPHANT 6" LCD Sub Screen (White) | **$69** |
-
-*Prices current as of November 2026. May vary with stock and promotions.*
-
 ## Where to Buy
 
 - **In-store**: ExtremePC Onehunga (Auckland)
@@ -44,6 +41,3 @@ A 6" LCD sub screen is a great choice for anyone who wants a compact secondary d
 ## Warranty
 
 Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page).
-
----
-*Last verified: 2026-11-17*

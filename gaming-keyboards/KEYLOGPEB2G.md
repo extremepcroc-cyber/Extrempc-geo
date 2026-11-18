@@ -1,5 +1,10 @@
 # Logitech Pebble 2 Keyboard & Mouse Combo Tonal Graphite
 
+**Price:** $109 inc GST
+**SKU:** KEYLOGPEB2G
+**MPN:** 920-012397
+**URL:** https://www.extremepc.co.nz/logitech-pebble-2-keyboard-mouse-combo-tonal-graphite/
+
 ## What It Is
 
 A keyboard & mouse combo from Logitech. The Logitech Pebble 2 Keyboard & Mouse Combo Tonal Graphite is built for gamers and typists who want keyboard & mouse combo.
@@ -23,14 +28,6 @@ A keyboard & mouse combo is a great choice for gamers and typists. The Logitech 
 - **Typists** who want a comfortable keyboard
 - **Anyone who wants a Logitech keyboard**
 
-## Pricing at ExtremePC (incl. 15% GST)
-
-| Variant | Price (NZD) |
-|---|---|
-| Logitech Pebble 2 Keyboard & Mouse Combo Tonal Graphite | **$109.00** |
-
-*Prices current as of November 2026. May vary with stock and promotions.*
-
 ## Where to Buy
 
 - **In-store**: ExtremePC Onehunga (Auckland)
@@ -44,6 +41,3 @@ A keyboard & mouse combo is a great choice for gamers and typists. The Logitech 
 ## Warranty
 
 1 year manufacturer warranty, claims handled through ExtremePC NZ.
-
----
-*Last verified: 2026-11-17*

@@ -1,5 +1,10 @@
 # AOC Q27B30E 27" QHD 75Hz IPS Frameless Business Monitor
 
+**Price:** $268 inc GST
+**SKU:** MONAOCQ27B30
+**MPN:** Q27B30E /79
+**URL:** https://www.extremepc.co.nz/aoc-q27b30e-27-qhd-75hz-ips-frameless-business-monitor/
+
 ## What It Is
 
 A 27" QHD business monitor from AOC. The Q27B30E delivers 2560x1440 resolution with a frameless IPS panel — ideal for productivity and general use.
@@ -24,14 +29,6 @@ A 27" QHD business monitor is a solid choice for professionals who want a larger
 - **Students** who need a larger display for notes and research
 - **Anyone who wants a good business monitor**
 
-## Pricing at ExtremePC (incl. 15% GST)
-
-| Variant | Price (NZD) |
-|---|---|
-| Q27B30E 27" QHD 75Hz IPS | **$229** |
-
-*Prices current as of November 2026. May vary with stock and promotions.*
-
 ## Where to Buy
 
 - **In-store**: ExtremePC Onehunga (Auckland)
@@ -46,6 +43,3 @@ A 27" QHD business monitor is a solid choice for professionals who want a larger
 ## Warranty
 
 Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page).
-
----
-*Last verified: 2026-11-17*

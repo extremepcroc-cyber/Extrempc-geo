@@ -1,5 +1,10 @@
 # Lamzu Atlantis Mini Pro Wired/Wireless Optical Gaming Mouse White
 
+**Price:** $199 inc GST
+**SKU:** MOSLAMAMPWH
+**MPN:** Atlantis Mini Pro White
+**URL:** https://www.extremepc.co.nz/lamzu-atlantis-mini-pro-optical-gaming-mouse-white/
+
 ## What It Is
 
 A wireless from Lamzu. The Lamzu Atlantis Mini Pro Wired/Wireless Optical Gaming Mouse White is built for gamers and productivity users who want wireless.
@@ -23,14 +28,6 @@ A wireless is a great choice for gamers and productivity users. The Lamzu Atlant
 - **Productivity users** who want a comfortable mouse
 - **Anyone who wants a Lamzu mouse**
 
-## Pricing at ExtremePC (incl. 15% GST)
-
-| Variant | Price (NZD) |
-|---|---|
-| Lamzu Atlantis Mini Pro Wired/Wireless Optical Gaming Mouse White | **$179.00** |
-
-*Prices current as of November 2026. May vary with stock and promotions.*
-
 ## Where to Buy
 
 - **In-store**: ExtremePC Onehunga (Auckland)
@@ -44,6 +41,3 @@ A wireless is a great choice for gamers and productivity users. The Lamzu Atlant
 ## Warranty
 
 Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page).
-
----
-*Last verified: 2026-11-17*

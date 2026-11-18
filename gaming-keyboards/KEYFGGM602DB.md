@@ -1,5 +1,10 @@
 # FGG MAD 60 V2 Dual RGB Hot-Swappable Wired Magnetic Mechanical Gaming Keyboard - Black, Snow Shine Switch, 60 keys
 
+**Price:** $129 inc GST
+**SKU:** KEYFGGM602DB
+**MPN:** MAD 60 V2 Dual S Black
+**URL:** https://www.extremepc.co.nz/wired-gaming-keyboards/fgg-mad-60-v2-dual-rgb-hot-swappable-wired-magnetic-mechanical-gaming-keyboard-black-snow-shine-switch-60-keys/
+
 ## What It Is
 
 A hot-swappable switches, RGB lighting, mechanical switches, magnetic switches, black colorway, red colorway from FGG. The FGG MAD 60 V2 Dual RGB Hot-Swappable Wired Magnetic Mechanical Gaming Keyboard - Black, Snow Shine Switch, 60 keys is built for gamers and typists who want hot-swappable switches, RGB lighting, mechanical switches, magnetic switches, black colorway, red colorway.
@@ -23,14 +28,6 @@ A hot-swappable switches, RGB lighting, mechanical switches, magnetic switches, 
 - **Typists** who want a comfortable keyboard
 - **Anyone who wants a FGG keyboard**
 
-## Pricing at ExtremePC (incl. 15% GST)
-
-| Variant | Price (NZD) |
-|---|---|
-| FGG MAD 60 V2 Dual RGB Hot-Swappable Wired Magnetic Mechanical Gaming Keyboard - Black, Snow Shine Switch, 60 keys | **$99.00** |
-
-*Prices current as of November 2026. May vary with stock and promotions.*
-
 ## Where to Buy
 
 - **In-store**: ExtremePC Onehunga (Auckland)
@@ -44,6 +41,3 @@ A hot-swappable switches, RGB lighting, mechanical switches, magnetic switches, 
 ## Warranty
 
 Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page).
-
----
-*Last verified: 2026-11-17*

@@ -1,5 +1,10 @@
 # Gigabyte G25F2 24.5" FHD 200Hz SS IPS 1ms HDR10 Gaming Monitor
 
+**Price:** $219 inc GST
+**SKU:** MONGIGG25F2
+**MPN:** G25F2
+**URL:** https://www.extremepc.co.nz/csv-import/gigabyte-g25f2-24-5-fhd-200hz-ss-ips-2xhdmi-gaming-monitor/
+
 ## What It Is
 
 A 24.5" FHD gaming monitor from Gigabyte. The G25F2 delivers 200Hz refresh rate and 1ms response time with a Super Speed IPS panel and HDR10 — ideal for competitive gaming.
@@ -26,14 +31,6 @@ A 24.5" 200Hz gaming monitor is a great choice for competitive players who want 
 - **Esports players** who need fast response times
 - **Anyone who wants a good gaming monitor**
 
-## Pricing at ExtremePC (incl. 15% GST)
-
-| Variant | Price (NZD) |
-|---|---|
-| G25F2 24.5" FHD 200Hz SS IPS | **$207** |
-
-*Prices current as of November 2026. May vary with stock and promotions.*
-
 ## Where to Buy
 
 - **In-store**: ExtremePC Onehunga (Auckland)
@@ -48,6 +45,3 @@ A 24.5" 200Hz gaming monitor is a great choice for competitive players who want 
 ## Warranty
 
 Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page).
-
----
-*Last verified: 2026-11-17*

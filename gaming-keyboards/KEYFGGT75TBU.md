@@ -1,5 +1,10 @@
 # FGG Titan 75 Turbo RGB Hot-Swappable Wired Mechanical Gaming Keyboard - Black, Unionwell Float Glow HE Switch, 75 keys
 
+**Price:** $169 inc GST
+**SKU:** KEYFGGT75TBU
+**MPN:** Titan 75 Turbo Black
+**URL:** https://www.extremepc.co.nz/wired-gaming-keyboards/fgg-titan-75-turbol-rgb-hot-swappable-wired-mechanical-gaming-keyboard-black-unionwell-float-glow-he-switch-75-keys/
+
 ## What It Is
 
 A hot-swappable switches, RGB lighting, mechanical switches, black colorway, red colorway, tan colorway from FGG. The FGG Titan 75 Turbo RGB Hot-Swappable Wired Mechanical Gaming Keyboard - Black, Unionwell Float Glow HE Switch, 75 keys is built for gamers and typists who want hot-swappable switches, RGB lighting, mechanical switches, black colorway, red colorway, tan colorway.
@@ -23,14 +28,6 @@ A hot-swappable switches, RGB lighting, mechanical switches, black colorway, red
 - **Typists** who want a comfortable keyboard
 - **Anyone who wants a FGG keyboard**
 
-## Pricing at ExtremePC (incl. 15% GST)
-
-| Variant | Price (NZD) |
-|---|---|
-| FGG Titan 75 Turbo RGB Hot-Swappable Wired Mechanical Gaming Keyboard - Black, Unionwell Float Glow HE Switch, 75 keys | **$169.00** |
-
-*Prices current as of November 2026. May vary with stock and promotions.*
-
 ## Where to Buy
 
 - **In-store**: ExtremePC Onehunga (Auckland)
@@ -44,6 +41,3 @@ A hot-swappable switches, RGB lighting, mechanical switches, black colorway, red
 ## Warranty
 
 Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page).
-
----
-*Last verified: 2026-11-17*

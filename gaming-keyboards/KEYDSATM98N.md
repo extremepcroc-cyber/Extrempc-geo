@@ -1,5 +1,10 @@
 # Dry Studio by Angry Miao ATM 98 RGB Hot-Swappable Wired Gaming Keyboard - Night Ink, Bsun Light Sakura Silent Linear Switches, 98 keys
 
+**Price:** $799 inc GST
+**SKU:** KEYDSATM98N
+**MPN:** ATM 98 Night Ink
+**URL:** https://www.extremepc.co.nz/wireless-gaming-keyboards/angry-miao-atm-98-rgb-hot-swappable-wired-gaming-keyboard-night-ink-bsun-light-sakura-silent-linear-switches-98-keys/
+
 ## What It Is
 
 A hot-swappable switches, RGB lighting, silent switches, red colorway from Dry Studio. The Dry Studio by Angry Miao ATM 98 RGB Hot-Swappable Wired Gaming Keyboard - Night Ink, Bsun Light Sakura Silent Linear Switches, 98 keys is built for gamers and typists who want hot-swappable switches, RGB lighting, silent switches, red colorway.
@@ -23,14 +28,6 @@ A hot-swappable switches, RGB lighting, silent switches, red colorway is a great
 - **Typists** who want a comfortable keyboard
 - **Anyone who wants a Dry Studio keyboard**
 
-## Pricing at ExtremePC (incl. 15% GST)
-
-| Variant | Price (NZD) |
-|---|---|
-| Dry Studio by Angry Miao ATM 98 RGB Hot-Swappable Wired Gaming Keyboard - Night Ink, Bsun Light Sakura Silent Linear Switches, 98 keys | **$799.00** |
-
-*Prices current as of November 2026. May vary with stock and promotions.*
-
 ## Where to Buy
 
 - **In-store**: ExtremePC Onehunga (Auckland)
@@ -44,6 +41,3 @@ A hot-swappable switches, RGB lighting, silent switches, red colorway is a great
 ## Warranty
 
 Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page).
-
----
-*Last verified: 2026-11-17*

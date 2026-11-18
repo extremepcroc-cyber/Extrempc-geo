@@ -1,5 +1,10 @@
 # Razer Huntsman V3 Pro Mini Analog Optical Mechanical Gaming Keyboard
 
+**Price:** $348 inc GST
+**SKU:** KEYRAZHV3PM
+**MPN:** RZ03-04990100-R3M1
+**URL:** https://www.extremepc.co.nz/razer-huntsman-v3-pro-mini-60-analog-optical-esports-keyboard-us-layout-frml/
+
 ## What It Is
 
 A mechanical switches from Razer. The Razer Huntsman V3 Pro Mini Analog Optical Mechanical Gaming Keyboard is built for gamers and typists who want mechanical switches.
@@ -23,14 +28,6 @@ A mechanical switches is a great choice for gamers and typists. The Razer Huntsm
 - **Typists** who want a comfortable keyboard
 - **Anyone who wants a Razer keyboard**
 
-## Pricing at ExtremePC (incl. 15% GST)
-
-| Variant | Price (NZD) |
-|---|---|
-| Razer Huntsman V3 Pro Mini Analog Optical Mechanical Gaming Keyboard | **$299.00** |
-
-*Prices current as of November 2026. May vary with stock and promotions.*
-
 ## Where to Buy
 
 - **In-store**: ExtremePC Onehunga (Auckland)
@@ -44,6 +41,3 @@ A mechanical switches is a great choice for gamers and typists. The Razer Huntsm
 ## Warranty
 
 2 years manufacturer warranty, claims handled through ExtremePC NZ.
-
----
-*Last verified: 2026-11-17*

@@ -1,5 +1,10 @@
 # AOC C27G4Z 27" FHD 280Hz 0.3ms Curved Gaming Monitor
 
+**Price:** $399 inc GST
+**SKU:** MONAOCC27G4Z
+**MPN:** C27G4Z/79
+**URL:** https://www.extremepc.co.nz/aoc-c27g4z-27-fhd-280hz-curved-gaming-monitor/
+
 ## What It Is
 
 A 27" FHD curved gaming monitor from AOC. The C27G4Z delivers 280Hz refresh rate and 0.3ms response time with a curved panel — ideal for immersive competitive gaming.
@@ -25,14 +30,6 @@ A 27" 280Hz curved monitor is a top-tier choice for competitive players who want
 - **Esports players** who need the fastest response times
 - **Anyone who wants a premium curved gaming monitor**
 
-## Pricing at ExtremePC (incl. 15% GST)
-
-| Variant | Price (NZD) |
-|---|---|
-| C27G4Z 27" FHD 280Hz Curved | **$339** |
-
-*Prices current as of November 2026. May vary with stock and promotions.*
-
 ## Where to Buy
 
 - **In-store**: ExtremePC Onehunga (Auckland)
@@ -47,6 +44,3 @@ A 27" 280Hz curved monitor is a top-tier choice for competitive players who want
 ## Warranty
 
 Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page).
-
----
-*Last verified: 2026-11-17*

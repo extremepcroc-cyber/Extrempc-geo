@@ -1,5 +1,10 @@
 # Acer PM161QT 15.6" FHD 60Hz 6ms USB-C IPS Multi-Touch Portable Monitor
 
+**Price:** $299 inc GST
+**SKU:** MONACEPM161Q
+**MPN:** UM.ZP1SA.101-RM0
+**URL:** https://www.extremepc.co.nz/portable-monitors/acer-pm161qt-15-6-fhd-60hz-6ms-usb-c-ips-multi-touch-portable-monitor/
+
 ## What It Is
 
 A 15.6" FHD portable monitor from Acer. The PM161QT features USB-C connectivity and multi-touch support — ideal for extending your laptop display on the go.
@@ -26,14 +31,6 @@ A portable monitor is a great choice for professionals, students, and gamers who
 - **Students** who need a compact display for notes and research
 - **Gamers** who want to extend their laptop display
 
-## Pricing at ExtremePC (incl. 15% GST)
-
-| Variant | Price (NZD) |
-|---|---|
-| PM161QT 15.6" FHD Portable Monitor | **$299** |
-
-*Prices current as of November 2026. May vary with stock and promotions.*
-
 ## Where to Buy
 
 - **In-store**: ExtremePC Onehunga (Auckland)
@@ -48,6 +45,3 @@ A portable monitor is a great choice for professionals, students, and gamers who
 ## Warranty
 
 Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page).
-
----
-*Last verified: 2026-11-17*

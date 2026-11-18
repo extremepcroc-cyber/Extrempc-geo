@@ -1,5 +1,10 @@
 # Epomaker G84 HE Hot-Swappable RGB Wireless Mechanical Keyboard - White Blue, Duskrise Magnetic Switch, 84 Keys
 
+**Price:** $199 inc GST
+**SKU:** KEYEPOG84HBD
+**MPN:** G84 HE White Blue D
+**URL:** https://www.extremepc.co.nz/wireless-gaming-keyboards/epomaker-g84-he-hot-swappable-rgb-wireless-mechanical-keyboard-white-blue-duskrise-magnetic-switch-84-keys/
+
 ## What It Is
 
 A hot-swappable switches, wireless, RGB lighting, mechanical switches, magnetic switches, white colorway, blue colorway from Epomaker. The Epomaker G84 HE Hot-Swappable RGB Wireless Mechanical Keyboard - White Blue, Duskrise Magnetic Switch, 84 Keys is built for gamers and typists who want hot-swappable switches, wireless, RGB lighting, mechanical switches, magnetic switches, white colorway, blue colorway.
@@ -23,14 +28,6 @@ A hot-swappable switches, wireless, RGB lighting, mechanical switches, magnetic 
 - **Typists** who want a comfortable keyboard
 - **Anyone who wants a Epomaker keyboard**
 
-## Pricing at ExtremePC (incl. 15% GST)
-
-| Variant | Price (NZD) |
-|---|---|
-| Epomaker G84 HE Hot-Swappable RGB Wireless Mechanical Keyboard - White Blue, Duskrise Magnetic Switch, 84 Keys | **$199.00** |
-
-*Prices current as of November 2026. May vary with stock and promotions.*
-
 ## Where to Buy
 
 - **In-store**: ExtremePC Onehunga (Auckland)
@@ -44,6 +41,3 @@ A hot-swappable switches, wireless, RGB lighting, mechanical switches, magnetic 
 ## Warranty
 
 Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page).
-
----
-*Last verified: 2026-11-17*

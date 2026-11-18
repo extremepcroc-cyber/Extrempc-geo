@@ -1,5 +1,10 @@
 # Logitech MX Master 4 Wireless Mouse For Business Graphite
 
+**Price:** $209 inc GST
+**SKU:** MOSLOGMM4BG
+**MPN:** 910-007619
+**URL:** https://www.extremepc.co.nz/logitech-mx-master-4-wireless-mouse-for-business-graphite/
+
 ## What It Is
 
 A wireless from Logitech. The Logitech MX Master 4 Wireless Mouse For Business Graphite is built for gamers and productivity users who want wireless.
@@ -23,14 +28,6 @@ A wireless is a great choice for gamers and productivity users. The Logitech MX 
 - **Productivity users** who want a comfortable mouse
 - **Anyone who wants a Logitech mouse**
 
-## Pricing at ExtremePC (incl. 15% GST)
-
-| Variant | Price (NZD) |
-|---|---|
-| Logitech MX Master 4 Wireless Mouse For Business Graphite | **$209.00** |
-
-*Prices current as of November 2026. May vary with stock and promotions.*
-
 ## Where to Buy
 
 - **In-store**: ExtremePC Onehunga (Auckland)
@@ -44,6 +41,3 @@ A wireless is a great choice for gamers and productivity users. The Logitech MX 
 ## Warranty
 
 Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page).
-
----
-*Last verified: 2026-11-17*

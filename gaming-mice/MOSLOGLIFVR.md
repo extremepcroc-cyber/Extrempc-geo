@@ -1,5 +1,10 @@
 # Logitech Lift Vertical Ergonomic Wireless Mouse Rose
 
+**Price:** $138 inc GST
+**SKU:** MOSLOGLIFVR
+**MPN:** 910-006487
+**URL:** https://www.extremepc.co.nz/logitech-lift-vertical-ergonomic-wireless-mouse-rose/
+
 ## What It Is
 
 A wireless, ergonomic, vertical from Logitech. The Logitech Lift Vertical Ergonomic Wireless Mouse Rose is built for gamers and productivity users who want wireless, ergonomic, vertical.
@@ -23,14 +28,6 @@ A wireless, ergonomic, vertical is a great choice for gamers and productivity us
 - **Productivity users** who want a comfortable mouse
 - **Anyone who wants a Logitech mouse**
 
-## Pricing at ExtremePC (incl. 15% GST)
-
-| Variant | Price (NZD) |
-|---|---|
-| Logitech Lift Vertical Ergonomic Wireless Mouse Rose | **$138.00** |
-
-*Prices current as of November 2026. May vary with stock and promotions.*
-
 ## Where to Buy
 
 - **In-store**: ExtremePC Onehunga (Auckland)
@@ -44,6 +41,3 @@ A wireless, ergonomic, vertical is a great choice for gamers and productivity us
 ## Warranty
 
 Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page).
-
----
-*Last verified: 2026-11-17*

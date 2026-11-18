@@ -1,5 +1,10 @@
 # AOC 24B15H3 24" FHD 120Hz IPS Business Monitor
 
+**Price:** $159 inc GST
+**SKU:** MONAOC24B153
+**MPN:** 24B15H3
+**URL:** https://www.extremepc.co.nz/aoc-24b15h3-24-fhd-120hz-ips-business-monitor/
+
 ## What It Is
 
 A 24" FHD business monitor from AOC. The 24B15H3 delivers 120Hz refresh rate with an IPS panel — ideal for productivity and general use.
@@ -24,14 +29,6 @@ A 24" 120Hz business monitor is a solid choice for professionals who want a smoo
 - **Students** who need a compact display for notes and research
 - **Anyone who wants a good business monitor**
 
-## Pricing at ExtremePC (incl. 15% GST)
-
-| Variant | Price (NZD) |
-|---|---|
-| 24B15H3 24" FHD 120Hz IPS | **$159** |
-
-*Prices current as of November 2026. May vary with stock and promotions.*
-
 ## Where to Buy
 
 - **In-store**: ExtremePC Onehunga (Auckland)
@@ -46,6 +43,3 @@ A 24" 120Hz business monitor is a solid choice for professionals who want a smoo
 ## Warranty
 
 Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page).
-
----
-*Last verified: 2026-11-17*

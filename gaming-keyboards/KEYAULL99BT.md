@@ -1,5 +1,10 @@
 # AULA L99 RGB Hot-Swappable Wireless Mechanical Keyboard with 3.98" IPS Display - Black Transparent, Caramel Latte Switch, 84 Key
 
+**Price:** $219 inc GST
+**SKU:** KEYAULL99BT
+**MPN:** L99 Black Transparent
+**URL:** https://www.extremepc.co.nz/aula-l99-rgb-hot-swappable-wireless-mechanical-keyboard-with-3-98-ips-display-black-transparent-caramel-latte-switch-84-key/
+
 ## What It Is
 
 A hot-swappable switches, wireless, RGB lighting, mechanical switches, transparent keycaps, black colorway, caramel colorway from AULA. The AULA L99 RGB Hot-Swappable Wireless Mechanical Keyboard with 3.98" IPS Display - Black Transparent, Caramel Latte Switch, 84 Key is built for gamers and typists who want hot-swappable switches, wireless, RGB lighting, mechanical switches, transparent keycaps, black colorway, caramel colorway.
@@ -23,14 +28,6 @@ A hot-swappable switches, wireless, RGB lighting, mechanical switches, transpare
 - **Typists** who want a comfortable keyboard
 - **Anyone who wants a AULA keyboard**
 
-## Pricing at ExtremePC (incl. 15% GST)
-
-| Variant | Price (NZD) |
-|---|---|
-| AULA L99 RGB Hot-Swappable Wireless Mechanical Keyboard with 3.98" IPS Display - Black Transparent, Caramel Latte Switch, 84 Key | **$199.00** |
-
-*Prices current as of November 2026. May vary with stock and promotions.*
-
 ## Where to Buy
 
 - **In-store**: ExtremePC Onehunga (Auckland)
@@ -44,6 +41,3 @@ A hot-swappable switches, wireless, RGB lighting, mechanical switches, transpare
 ## Warranty
 
 Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page).
-
----
-*Last verified: 2026-11-17*

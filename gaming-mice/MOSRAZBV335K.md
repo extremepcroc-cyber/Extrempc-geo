@@ -1,5 +1,10 @@
 # Razer Basilisk V3 35K Ergonomic WIred Gaming Mouse RZ01-05230100-R3M1
 
+**Price:** $139 inc GST
+**SKU:** MOSRAZBV335K
+**MPN:** RZ01-05230100-R3M1
+**URL:** https://www.extremepc.co.nz/razer-basilisk-v3-35k-ergonomic-wired-gaming-mouse/
+
 ## What It Is
 
 A ergonomic from Razer. The Razer Basilisk V3 35K Ergonomic WIred Gaming Mouse RZ01-05230100-R3M1 is built for gamers and productivity users who want ergonomic.
@@ -23,14 +28,6 @@ A ergonomic is a great choice for gamers and productivity users. The Razer Basil
 - **Productivity users** who want a comfortable mouse
 - **Anyone who wants a Razer mouse**
 
-## Pricing at ExtremePC (incl. 15% GST)
-
-| Variant | Price (NZD) |
-|---|---|
-| Razer Basilisk V3 35K Ergonomic WIred Gaming Mouse RZ01-05230100-R3M1 | **$126.50** |
-
-*Prices current as of November 2026. May vary with stock and promotions.*
-
 ## Where to Buy
 
 - **In-store**: ExtremePC Onehunga (Auckland)
@@ -44,6 +41,3 @@ A ergonomic is a great choice for gamers and productivity users. The Razer Basil
 ## Warranty
 
 Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page).
-
----
-*Last verified: 2026-11-17*

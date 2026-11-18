@@ -1,5 +1,10 @@
 # AOC 27G4ZR 27" FHD 260Hz 0.3ms Fast IPS Gaming Monitor
 
+**Price:** $299 inc GST
+**SKU:** MONAOC27G4ZR
+**MPN:** 27G4ZR
+**URL:** https://www.extremepc.co.nz/csv-import/aoc-27g4zr-27-fhd-260hz-fast-ips-gaming-monitor-1920x1080-0-3ms-hdmi-dp-1-4-g-sync-compatible-height-adjustable-100x100-vesa/
+
 ## What It Is
 
 A 27" FHD gaming monitor from AOC. The 27G4ZR delivers 260Hz refresh rate and 0.3ms response time with a Fast IPS panel — ideal for competitive gaming.
@@ -25,14 +30,6 @@ A 27" 260Hz Fast IPS monitor is a top-tier choice for competitive players who wa
 - **Esports players** who need fast response times
 - **Anyone who wants a premium gaming monitor**
 
-## Pricing at ExtremePC (incl. 15% GST)
-
-| Variant | Price (NZD) |
-|---|---|
-| 27G4ZR 27" FHD 260Hz Fast IPS | **$299** |
-
-*Prices current as of November 2026. May vary with stock and promotions.*
-
 ## Where to Buy
 
 - **In-store**: ExtremePC Onehunga (Auckland)
@@ -47,6 +44,3 @@ A 27" 260Hz Fast IPS monitor is a top-tier choice for competitive players who wa
 ## Warranty
 
 Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page).
-
----
-*Last verified: 2026-11-17*
