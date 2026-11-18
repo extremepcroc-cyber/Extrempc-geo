@@ -66,7 +66,6 @@
 ## Related Products
 
 - **HDDSEABC8T35** — BarraCuda 8TB 3.5" step up (deepest retail stock)
-- **HDDSEABC4T25** — BarraCuda 4TB 2.5" (laptop form factor)
 - **HDDSEAIW4T** — IronWolf 4TB (NAS-rated alternative)
 
 ## Schema

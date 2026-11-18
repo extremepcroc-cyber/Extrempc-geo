@@ -54,7 +54,6 @@
 
 - **vs SkyHawk AI 8TB (HDDSEASKYAI8T, half capacity at lower NZD)** — 8TB suits standard 8–16 camera commercial deployments. 16TB doubles the retention window for higher channel counts or longer retention.
 
-- **vs SkyHawk AI 24TB (HDDSEASKYAI24T, 1.5× capacity flagship)** — 24TB is for high-density enterprise surveillance with 60–90 day retention at high channel counts. 16TB is the value step down.
 
 - **vs WD Purple PRO (HDDWDPRO10T, competing AI surveillance tier)** — WD Purple PRO also targets AI NVR with a 360 TB/year workload. For Seagate-validated AI NVR systems, SkyHawk AI.
 
@@ -79,7 +78,6 @@
 
 - **HDDSEASKYAI8T** — SkyHawk AI 8TB (lower capacity)
 - **HDDSEASKYAI18T** — SkyHawk AI 18TB step up
-- **HDDSEASKYAI24T** — SkyHawk AI 24TB flagship
 - **HDDWDPRO10T** — WD Purple PRO 10TB AI surveillance alternative
 
 ## Schema

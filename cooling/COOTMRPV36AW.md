@@ -5,7 +5,6 @@
 **MPN:** Peerless Vision 360 ARGB White
 **URL:** https://www.extremepc.co.nz/cooling-devices/thermalright-peerless-vision-360-argb-aio-liquid-cpu-cooler-white-peerless-vision-360-argb-white/
 **Status:** OUT OF STOCK - last checked 2026-11-18
-**Status:** EOL — removed from BC catalog on 2026-08-19
 
 ## Quick Specs
 - Type: AIO Liquid Cooler (360mm radiator)

@@ -60,7 +60,6 @@
 - **HDDSEASKY4TS6** — SkyHawk 4TB step down
 - **HDDSEASKYAI8T** — SkyHawk AI 8TB step up (AI NVR support)
 - **HDDWDSUPU6T** — WD Purple 6TB equivalent
-- **HDDSEASKYAI24T** — SkyHawk AI 24TB flagship surveillance
 
 ## Schema
 ```json

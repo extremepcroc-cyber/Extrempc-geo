@@ -42,7 +42,6 @@
 ## Comparison
 
 - **vs SkyHawk AI 8TB (HDDSEASKYAI8T, 10TB less at lower NZD)** — For medium commercial setups, 8TB. For high-channel enterprise or long retention policies, 18TB.
-- **vs SkyHawk AI 24TB (HDDSEASKYAI24T, 6TB more at premium NZD)** — 24TB flagship with retail stock at Onehunga. For maximum single-drive capacity, 24TB.
 
 ## FAQ
 
@@ -54,7 +53,6 @@
 ## Related Products
 
 - **HDDSEASKYAI8T** — SkyHawk AI 8TB step down
-- **HDDSEASKYAI24T** — SkyHawk AI 24TB flagship (retail stocked)
 
 ## Schema
 ```json

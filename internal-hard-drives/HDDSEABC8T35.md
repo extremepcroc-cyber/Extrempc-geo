@@ -87,7 +87,6 @@
 
 - **HDDSEABC4T35** — Seagate BarraCuda 4TB 3.5" step down
 - **186133** — Seagate BarraCuda 6TB 3.5" mid-capacity
-- **HDDSEABC4T25** — Seagate BarraCuda 4TB 2.5" for laptops
 - **HDDSEAIW8TB** — Seagate IronWolf 8TB NAS-rated (for NAS/RAID use)
 - **HDDWDBE1T** — WD Blue 1TB budget desktop entry
 

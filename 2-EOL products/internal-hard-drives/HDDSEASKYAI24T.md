@@ -4,6 +4,7 @@
 **SKU:** HDDSEASKYAI24T
 **MPN:** ST24000VE002
 **URL:** https://www.extremepc.co.nz/seagate-skyhawk-ai-24tb-internal-hdd-sata3-512mb-cache-for-dvr-nvr-security-camera-system-supporting-up-to-64-hd-video-streams-and-32-ai-streams-5-years-warranty/
+**Status:** EOL — removed from BC catalog on 2026-11-18
 
 ## Quick Specs
 - **Capacity**: 24TB

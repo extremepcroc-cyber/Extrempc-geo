@@ -4,6 +4,7 @@
 **SKU:** HDDSEABC4T25
 **MPN:** ST4000LM024
 **URL:** https://www.extremepc.co.nz/shop-all/seagate-barracuda-4tb-2-5-15mm-internal-laptop-hard-drive/
+**Status:** EOL — removed from BC catalog on 2026-11-18
 
 ## Quick Specs
 - **Capacity**: 4TB

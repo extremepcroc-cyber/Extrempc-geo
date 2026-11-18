@@ -51,7 +51,6 @@
 
 - **vs SkyHawk 6TB standard (HDDSEASKY6TST, lower capacity non-AI at lower NZD)** — Standard SkyHawk is sufficient for traditional HD NVR. SkyHawk AI is required for AI NVR edge computing platforms (higher workload rating + 7200 RPM).
 
-- **vs SkyHawk AI 24TB (HDDSEASKYAI24T, 3× capacity flagship surveillance retail stocked)** — 24TB is for high-density enterprise surveillance with 30–90 day retention at high channel counts. 8TB for standard commercial deployments.
 
 - **vs WD Purple PRO 10TB (HDDWDPRO10T, competing AI surveillance at similar tier)** — WD Purple PRO also targets AI NVR with 360 TB/year workload. 10TB WD Purple PRO vs 8TB SkyHawk AI — for more capacity, WD Purple PRO. For Seagate-validated AI NVR systems, SkyHawk AI.
 
@@ -75,7 +74,6 @@
 
 - **HDDSEASKY6TST** — SkyHawk 6TB standard (non-AI NVR)
 - **HDDSEASKYAI18T** — SkyHawk AI 18TB step up
-- **HDDSEASKYAI24T** — SkyHawk AI 24TB flagship
 - **HDDWDPRO10T** — WD Purple PRO 10TB AI surveillance alternative
 
 ## Schema

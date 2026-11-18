@@ -46,7 +46,6 @@
 
 - **vs WD Purple PRO 10TB (HDDWDPRO10T, less capacity at significantly lower NZD)** — 10TB for mid-tier commercial AI CCTV. 22TB for maximum-capacity enterprise installations or 90-day retention mandates.
 
-- **vs Seagate SkyHawk AI 24TB (HDDSEASKYAI24T, 2TB more capacity, Seagate ecosystem)** — SkyHawk AI 24TB has slightly more capacity (2TB) and 12 retail units at Onehunga. Both at premium tier. For Seagate-validated AI NVR, SkyHawk AI 24TB. For WD/Hikvision ecosystem and 5-year warranty, WD Purple PRO 22TB.
 
 - **vs Seagate IronWolf Pro 22TB (HDDSEAIWP22T, NAS-rated same capacity)** — IronWolf Pro 22TB is NAS-rated (AgileArray, vibration compensation). For NAS/RAID, IronWolf Pro. For enterprise CCTV NVR, WD Purple PRO.
 
@@ -66,7 +65,6 @@
 ## Related Products
 
 - **HDDWDPRO10T** — WD Purple PRO 10TB (mid-tier AI surveillance)
-- **HDDSEASKYAI24T** — SkyHawk AI 24TB (Seagate flagship, 12 retail units)
 - **HDDSEAIWP22T** — IronWolf Pro 22TB (NAS alternative)
 
 ## Schema
