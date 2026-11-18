@@ -11,7 +11,7 @@ A 27" 4K gaming monitor from Gigabyte. The G27U delivers 3840x2160 resolution wi
 - **Refresh Rate**: 160Hz (UHD) / 320Hz (FHD Dual Mode)
 - **Response Time**: 1ms
 - **Panel**: SS IPS
-- **Warranty**: 3 years
+- **Warranty**: Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page)
 
 ## Why It Matters
 
@@ -35,7 +35,7 @@ A 27" 4K Dual Mode gaming monitor is a premium choice for gamers who want the be
 
 ## Where to Buy
 
-- **In-store**: ExtremePC Onehunga (Auckland) or ExtremePC Wellington
+- **In-store**: ExtremePC Onehunga (Auckland)
 - **Online**: [extremepc.co.nz](https://www.extremepc.co.nz/csv-import/gigabyte-g27u-4k-27-ss-ips-3840-x-2160-uhd-hdmi-2-1-x2-160hz-uhd-320hz-fhd-gaming-monitor/)
 
 ## Compatibility
@@ -46,7 +46,7 @@ A 27" 4K Dual Mode gaming monitor is a premium choice for gamers who want the be
 
 ## Warranty
 
-3 years from date of purchase.
+Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page).
 
 ---
 *Last verified: 2026-11-17*

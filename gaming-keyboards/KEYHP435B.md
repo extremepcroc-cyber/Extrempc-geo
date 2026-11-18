@@ -9,7 +9,7 @@ A wireless, Bluetooth, blue colorway from HP. The HP 435 Programmable Bluetooth 
 - **Type**: Gaming keyboard
 - **Features**: wireless, Bluetooth, blue colorway
 - **Brand**: HP
-- **Warranty**: 3 years
+- **Warranty**: Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page)
 
 ## Why It Matters
 
@@ -33,7 +33,7 @@ A wireless, Bluetooth, blue colorway is a great choice for gamers and typists. T
 
 ## Where to Buy
 
-- **In-store**: ExtremePC Onehunga (Auckland) or ExtremePC Wellington
+- **In-store**: ExtremePC Onehunga (Auckland)
 - **Online**: [extremepc.co.nz](https://www.extremepc.co.nz/csv-import/hp-7n7c3aa-435-programmable-bluetooth-wireless-keypad/)
 
 ## Compatibility
@@ -43,7 +43,7 @@ A wireless, Bluetooth, blue colorway is a great choice for gamers and typists. T
 
 ## Warranty
 
-3 years from date of purchase.
+Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page).
 
 ---
 *Last verified: 2026-11-17*

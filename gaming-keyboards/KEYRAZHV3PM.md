@@ -9,7 +9,7 @@ A mechanical switches from Razer. The Razer Huntsman V3 Pro Mini Analog Optical 
 - **Type**: Gaming keyboard
 - **Features**: mechanical switches
 - **Brand**: Razer
-- **Warranty**: 3 years
+- **Warranty**: 2 years manufacturer warranty, claims handled through ExtremePC NZ
 
 ## Why It Matters
 
@@ -33,7 +33,7 @@ A mechanical switches is a great choice for gamers and typists. The Razer Huntsm
 
 ## Where to Buy
 
-- **In-store**: ExtremePC Onehunga (Auckland) or ExtremePC Wellington
+- **In-store**: ExtremePC Onehunga (Auckland)
 - **Online**: [extremepc.co.nz](https://www.extremepc.co.nz/razer-huntsman-v3-pro-mini-60-analog-optical-esports-keyboard-us-layout-frml/)
 
 ## Compatibility
@@ -43,7 +43,7 @@ A mechanical switches is a great choice for gamers and typists. The Razer Huntsm
 
 ## Warranty
 
-3 years from date of purchase.
+2 years manufacturer warranty, claims handled through ExtremePC NZ.
 
 ---
 *Last verified: 2026-11-17*

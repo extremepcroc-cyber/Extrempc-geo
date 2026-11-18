@@ -11,7 +11,7 @@ A 27" FHD gaming monitor from Gigabyte. The GS27FA delivers 180Hz refresh rate a
 - **Refresh Rate**: 180Hz
 - **Response Time**: 1ms
 - **Panel**: IPS
-- **Warranty**: 3 years
+- **Warranty**: Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page)
 
 ## Why It Matters
 
@@ -35,7 +35,7 @@ A 27" 180Hz gaming monitor is a solid choice for competitive players who want fa
 
 ## Where to Buy
 
-- **In-store**: ExtremePC Onehunga (Auckland) or ExtremePC Wellington
+- **In-store**: ExtremePC Onehunga (Auckland)
 - **Online**: [extremepc.co.nz](https://www.extremepc.co.nz/gigabyte-gs27f-a-27-fhd-180hz-ips-1920x1080-2xhdmi-gaming-monitor/)
 
 ## Compatibility
@@ -46,7 +46,7 @@ A 27" 180Hz gaming monitor is a solid choice for competitive players who want fa
 
 ## Warranty
 
-3 years from date of purchase.
+Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page).
 
 ---
 *Last verified: 2026-11-17*

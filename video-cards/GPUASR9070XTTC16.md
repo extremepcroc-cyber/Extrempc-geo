@@ -16,7 +16,7 @@
 - UpScaling: FSR 3 (AMD)
 - Ray Tracing: Yes (RDNA 4)
 - Cooling: Taichi series (ASRock's premium line)
-- Warranty: 3 years manufacturer via ASRock NZ
+- Warranty: Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page)
 
 ## Selling Points
 
@@ -33,9 +33,9 @@ For NZ gamers building a 1440p/4K setup, the RX 9070 XT offers strong performanc
 - Builders who want RDNA 4 architecture with 16GB VRAM
 
 ## Why Buy From ExtremePC
-- ASRock products carry 3-year NZ warranty through ExtremePC — local warranty service, no international shipping
+- Warranty claims are handled locally through ExtremePC NZ: send the item to us and we manage the claim and send it back to you
 - Auckland Build Team can verify case clearance and PSU adequacy before purchase
-- In stock at Onehunga and Wellington stores for same-day pickup or Afterpay
+- Click and collect at our Onehunga store; Afterpay and Zip Payment are available at online checkout
 
 ## Comparison
 
@@ -53,7 +53,7 @@ vs NVIDIA GeForce RTX 5070 Ti 16GB (GPUASU5070TPO16) — the RTX 5070 Ti has 16G
 
 **Q: What PSU do I need?** — ASRock recommends a 750W minimum PSU. A quality 850W unit provides headroom for future CPU upgrades.
 
-**Q: Is the 3-year warranty local?** — Yes, ASRock provides 3-year NZ warranty through ExtremePC. No need to ship internationally for warranty service.
+**Q: Is warranty handled locally?** — Yes. Warranty claims are handled through ExtremePC NZ: send the item to us and we manage the claim with the manufacturer. The warranty term is set by the manufacturer; see the product page.
 
 ## Related Products
 - NVIDIA GeForce RTX 5080 (GPUASU5080DO16) — competing NVIDIA card

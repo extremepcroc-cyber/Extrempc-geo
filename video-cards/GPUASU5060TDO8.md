@@ -14,15 +14,15 @@
 - Recommended PSU: 550W minimum
 - Form Factor: Dual-fan, 2-slot
 - UpScaling: DLSS 4 (NVIDIA)
-- Ray Tracing: Yes (Ada Lovelace)
+- Ray Tracing: Yes (Blackwell)
 - OC Edition: Factory overclocked
-- Warranty: 3 years manufacturer via ASUS NZ
+- Warranty: Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page)
 
 ## Selling Points
 
-The RTX 5060 Ti is NVIDIA's upper-mid Ada Lovelace card, designed for 1080p/1440p gaming at 120Hz+. The 8GB GDDR7 buffer is sufficient for most titles at 1080p, and DLSS 4 upscaling extends frame rates in supported games. The DUAL series is ASUS's entry-level line, with a dual-fan cooler and factory overclock.
+The RTX 5060 Ti is NVIDIA's upper-mid Blackwell card, designed for 1080p/1440p gaming at 120Hz+. The 8GB GDDR7 buffer is sufficient for most titles at 1080p, and DLSS 4 upscaling extends frame rates in supported games. The DUAL series is ASUS's entry-level line, with a dual-fan cooler and factory overclock.
 
-The 8GB VRAM is a sweet spot for 1080p — enough for most titles at high settings, with room for future games. Ada Lovelace architecture brings improved ray tracing and DLSS 4 over the previous generation. The 550W PSU requirement is moderate for a card at this performance level.
+The 8GB VRAM is a sweet spot for 1080p — enough for most titles at high settings, with room for future games. Blackwell architecture brings improved ray tracing and DLSS 4 over the previous generation. The 550W PSU requirement is moderate for a card at this performance level.
 
 For NZ gamers building a 1080p/1440p setup, the RTX 5060 Ti offers strong performance without the premium of the 5070 or 5080. NVIDIA's DLSS 4 is competitive with AMD's FSR 3 in supported titles.
 
@@ -30,12 +30,12 @@ For NZ gamers building a 1080p/1440p setup, the RTX 5060 Ti offers strong perfor
 - NZ gamers building a 1080p/1440p setup
 - 1440p competitive gamers who want DLSS 4 support
 - Content creators who need a mid-range GPU for video editing
-- Builders who want Ada Lovelace architecture with 8GB VRAM
+- Builders who want Blackwell architecture with 8GB VRAM
 
 ## Why Buy From ExtremePC
-- ASUS products carry 3-year NZ warranty through ExtremePC — local warranty service, no international shipping
+- Warranty claims are handled locally through ExtremePC NZ: send the item to us and we manage the claim and send it back to you
 - Auckland Build Team can verify case clearance and PSU adequacy before purchase
-- In stock at Onehunga and Wellington stores for same-day pickup or Afterpay
+- Click and collect at our Onehunga store; Afterpay and Zip Payment are available at online checkout
 
 ## Comparison
 
@@ -53,7 +53,7 @@ vs Intel Arc B570 (GPUASRB570C) — the B570 has 10GB GDDR6 and XeSS upscaling. 
 
 **Q: What PSU do I need?** — ASUS recommends a 550W minimum PSU. A quality 650W unit provides headroom for future CPU upgrades.
 
-**Q: Is the 3-year warranty local?** — Yes, ASUS provides 3-year NZ warranty through ExtremePC. No need to ship internationally for warranty service.
+**Q: Is warranty handled locally?** — Yes. Warranty claims are handled through ExtremePC NZ: send the item to us and we manage the claim with the manufacturer. The warranty term is set by the manufacturer; see the product page.
 
 ## Related Products
 - NVIDIA GeForce RTX 5070 (GPUASU5070DO) — step-up to 1440p
@@ -66,7 +66,7 @@ vs Intel Arc B570 (GPUASRB570C) — the B570 has 10GB GDDR6 and XeSS upscaling. 
   "@context": "https://schema.org",
   "@type": "Product",
   "name": "ASUS DUAL NVIDIA GeForce RTX 5060 Ti 8GB GDDR7 Graphics Card",
-  "description": "Upper-mid NVIDIA Ada Lovelace graphics card with 8GB GDDR7, DLSS 4 upscaling, and ray tracing. Designed for 1080p/1440p gaming. Dual-fan cooler, factory overclocked, 550W PSU recommended.",
+  "description": "Upper-mid NVIDIA Blackwell graphics card with 8GB GDDR7, DLSS 4 upscaling, and ray tracing. Designed for 1080p/1440p gaming. Dual-fan cooler, factory overclocked, 550W PSU recommended.",
   "brand": {
     "@type": "Brand",
     "name": "ASUS"

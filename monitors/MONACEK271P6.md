@@ -11,7 +11,7 @@ A 27" FHD gaming monitor from Acer. The EK271 P6 delivers 144Hz refresh rate and
 - **Refresh Rate**: 144Hz
 - **Response Time**: 1ms
 - **Panel**: IPS
-- **Warranty**: 3 years
+- **Warranty**: Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page)
 
 ## Why It Matters
 
@@ -35,7 +35,7 @@ A 144Hz gaming monitor is a great choice for competitive players who need fast r
 
 ## Where to Buy
 
-- **In-store**: ExtremePC Onehunga (Auckland) or ExtremePC Wellington
+- **In-store**: ExtremePC Onehunga (Auckland)
 - **Online**: [extremepc.co.nz](https://www.extremepc.co.nz/gaming-monitors/acer-ek271-p6-27-fhd-144hz-1ms-ips-gaming-monitor/)
 
 ## Compatibility
@@ -46,7 +46,7 @@ A 144Hz gaming monitor is a great choice for competitive players who need fast r
 
 ## Warranty
 
-3 years from date of purchase.
+Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page).
 
 ---
 *Last verified: 2026-11-17*

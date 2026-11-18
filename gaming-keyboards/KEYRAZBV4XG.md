@@ -9,7 +9,7 @@ A mechanical switches, black colorway, green colorway from Razer. The Razer Blac
 - **Type**: Gaming keyboard
 - **Features**: mechanical switches, black colorway, green colorway
 - **Brand**: Razer
-- **Warranty**: 3 years
+- **Warranty**: Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page)
 
 ## Why It Matters
 
@@ -33,7 +33,7 @@ A mechanical switches, black colorway, green colorway is a great choice for game
 
 ## Where to Buy
 
-- **In-store**: ExtremePC Onehunga (Auckland) or ExtremePC Wellington
+- **In-store**: ExtremePC Onehunga (Auckland)
 - **Online**: [extremepc.co.nz](https://www.extremepc.co.nz/razer-blackwidow-v4-x-mechanical-gaming-keyboard-green-switch-us-layout-frml/)
 
 ## Compatibility
@@ -43,7 +43,7 @@ A mechanical switches, black colorway, green colorway is a great choice for game
 
 ## Warranty
 
-3 years from date of purchase.
+Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page).
 
 ---
 *Last verified: 2026-11-17*

@@ -11,7 +11,7 @@ A 34" ultrawide QHD OLED gaming monitor from Acer Predator. The X34 X5 delivers 
 - **Refresh Rate**: 240Hz
 - **Response Time**: 0.03ms
 - **Panel**: OLED (curved)
-- **Warranty**: 3 years
+- **Warranty**: Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page)
 
 ## Why It Matters
 
@@ -35,7 +35,7 @@ A 34" ultrawide OLED monitor is a premium choice for gamers who want an immersiv
 
 ## Where to Buy
 
-- **In-store**: ExtremePC Onehunga (Auckland) or ExtremePC Wellington
+- **In-store**: ExtremePC Onehunga (Auckland)
 - **Online**: [extremepc.co.nz](https://www.extremepc.co.nz/csv-import/acer-predator-x34-x5-34-oled-3440x1440-qhd-dp-hdmi-gaming-240hz/)
 
 ## Compatibility
@@ -46,7 +46,7 @@ A 34" ultrawide OLED monitor is a premium choice for gamers who want an immersiv
 
 ## Warranty
 
-3 years from date of purchase.
+Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page).
 
 ---
 *Last verified: 2026-11-17*

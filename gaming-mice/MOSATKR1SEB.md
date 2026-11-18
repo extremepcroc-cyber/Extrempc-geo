@@ -9,7 +9,7 @@ A wireless from ATK. The ATK VXE Dragonfly R1 SE+ Wireless Gaming Mouse Black is
 - **Type**: Gaming mouse
 - **Features**: wireless
 - **Brand**: ATK
-- **Warranty**: 3 years
+- **Warranty**: Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page)
 
 ## Why It Matters
 
@@ -33,7 +33,7 @@ A wireless is a great choice for gamers and productivity users. The ATK VXE Drag
 
 ## Where to Buy
 
-- **In-store**: ExtremePC Onehunga (Auckland) or ExtremePC Wellington
+- **In-store**: ExtremePC Onehunga (Auckland)
 - **Online**: [extremepc.co.nz](https://www.extremepc.co.nz/atk-vxe-dragonfly-r1-se-wireless-gaming-mouse-black/)
 
 ## Compatibility
@@ -43,7 +43,7 @@ A wireless is a great choice for gamers and productivity users. The ATK VXE Drag
 
 ## Warranty
 
-3 years from date of purchase.
+Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page).
 
 ---
 *Last verified: 2026-11-17*

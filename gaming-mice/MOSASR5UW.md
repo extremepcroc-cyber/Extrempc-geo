@@ -9,7 +9,7 @@ A 8K polling rate, wireless from Attack Shark. The Attack Shark R5 Ultra Wireles
 - **Type**: Gaming mouse
 - **Features**: 8K polling rate, wireless
 - **Brand**: Attack Shark
-- **Warranty**: 3 years
+- **Warranty**: Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page)
 
 ## Why It Matters
 
@@ -33,7 +33,7 @@ A 8K polling rate, wireless is a great choice for gamers and productivity users.
 
 ## Where to Buy
 
-- **In-store**: ExtremePC Onehunga (Auckland) or ExtremePC Wellington
+- **In-store**: ExtremePC Onehunga (Auckland)
 - **Online**: [extremepc.co.nz](https://www.extremepc.co.nz/attack-shark-r5-ultra-wireless-8k-gaming-mouse-white/)
 
 ## Compatibility
@@ -43,7 +43,7 @@ A 8K polling rate, wireless is a great choice for gamers and productivity users.
 
 ## Warranty
 
-3 years from date of purchase.
+Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page).
 
 ---
 *Last verified: 2026-11-17*

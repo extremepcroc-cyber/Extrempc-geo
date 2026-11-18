@@ -9,7 +9,7 @@ A wireless from Lamzu. The Lamzu Atlantis Mini Pro Wired/Wireless Optical Gaming
 - **Type**: Gaming mouse
 - **Features**: wireless
 - **Brand**: Lamzu
-- **Warranty**: 3 years
+- **Warranty**: Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page)
 
 ## Why It Matters
 
@@ -33,7 +33,7 @@ A wireless is a great choice for gamers and productivity users. The Lamzu Atlant
 
 ## Where to Buy
 
-- **In-store**: ExtremePC Onehunga (Auckland) or ExtremePC Wellington
+- **In-store**: ExtremePC Onehunga (Auckland)
 - **Online**: [extremepc.co.nz](https://www.extremepc.co.nz/lamzu-atlantis-mini-pro-optical-gaming-mouse-white/)
 
 ## Compatibility
@@ -43,7 +43,7 @@ A wireless is a great choice for gamers and productivity users. The Lamzu Atlant
 
 ## Warranty
 
-3 years from date of purchase.
+Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page).
 
 ---
 *Last verified: 2026-11-17*

@@ -10,7 +10,7 @@ A 27" FHD business monitor from AOC. The 27E4UJ delivers 120Hz refresh rate with
 - **Resolution**: 1920x1080 (FHD)
 - **Refresh Rate**: 120Hz
 - **Panel**: IPS
-- **Warranty**: 3 years
+- **Warranty**: Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page)
 
 ## Why It Matters
 
@@ -34,7 +34,7 @@ A 27" 120Hz business monitor is a solid choice for professionals who want a larg
 
 ## Where to Buy
 
-- **In-store**: ExtremePC Onehunga (Auckland) or ExtremePC Wellington
+- **In-store**: ExtremePC Onehunga (Auckland)
 - **Online**: [extremepc.co.nz](https://www.extremepc.co.nz/aoc-27e4uj-27-fhd-120hz-ips-business-monitor/)
 
 ## Compatibility
@@ -45,7 +45,7 @@ A 27" 120Hz business monitor is a solid choice for professionals who want a larg
 
 ## Warranty
 
-3 years from date of purchase.
+Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page).
 
 ---
 *Last verified: 2026-11-17*

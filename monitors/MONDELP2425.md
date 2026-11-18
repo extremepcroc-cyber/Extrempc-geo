@@ -9,7 +9,7 @@ A 24" WUXGA business monitor from Dell. The P2425 delivers 1920x1200 resolution 
 - **Size**: 24"
 - **Resolution**: 1920x1200 (WUXGA)
 - **Panel**: IPS
-- **Warranty**: 3 years
+- **Warranty**: Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page)
 
 ## Why It Matters
 
@@ -33,7 +33,7 @@ A 24" WUXGA business monitor is a solid choice for professionals who want a 16:1
 
 ## Where to Buy
 
-- **In-store**: ExtremePC Onehunga (Auckland) or ExtremePC Wellington
+- **In-store**: ExtremePC Onehunga (Auckland)
 - **Online**: [extremepc.co.nz](https://www.extremepc.co.nz/dell-p-series-24-16-10-ips-1920x1200-tv-eye-comfort-hdm-i-dp-vga-usb-3-2-h-adj-3yr/)
 
 ## Compatibility
@@ -44,7 +44,7 @@ A 24" WUXGA business monitor is a solid choice for professionals who want a 16:1
 
 ## Warranty
 
-3 years from date of purchase.
+Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page).
 
 ---
 *Last verified: 2026-11-17*

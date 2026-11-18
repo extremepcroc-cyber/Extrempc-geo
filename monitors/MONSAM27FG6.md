@@ -11,7 +11,7 @@ A 27" QHD gaming monitor from Samsung Odyssey. The G6 27" delivers 2560x1440 res
 - **Refresh Rate**: 350Hz
 - **Response Time**: 1ms
 - **Panel**: Fast IPS
-- **Warranty**: 3 years
+- **Warranty**: Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page)
 
 ## Why It Matters
 
@@ -35,7 +35,7 @@ A 27" QHD 350Hz gaming monitor is a top-tier choice for competitive players who 
 
 ## Where to Buy
 
-- **In-store**: ExtremePC Onehunga (Auckland) or ExtremePC Wellington
+- **In-store**: ExtremePC Onehunga (Auckland)
 - **Online**: [extremepc.co.nz](https://www.extremepc.co.nz/samsung-odyssey-g6-27-qhd-350hz-1ms-fast-ips-gaming-monitor-ls27fg602eexxy/)
 
 ## Compatibility
@@ -46,7 +46,7 @@ A 27" QHD 350Hz gaming monitor is a top-tier choice for competitive players who 
 
 ## Warranty
 
-3 years from date of purchase.
+Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page).
 
 ---
 *Last verified: 2026-11-17*

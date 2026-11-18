@@ -9,7 +9,7 @@ A hot-swappable switches, wireless, RGB lighting, mechanical switches, blue colo
 - **Type**: Gaming keyboard
 - **Features**: hot-swappable switches, wireless, RGB lighting, mechanical switches, blue colorway
 - **Brand**: Epomaker
-- **Warranty**: 3 years
+- **Warranty**: Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page)
 
 ## Why It Matters
 
@@ -33,7 +33,7 @@ A hot-swappable switches, wireless, RGB lighting, mechanical switches, blue colo
 
 ## Where to Buy
 
-- **In-store**: ExtremePC Onehunga (Auckland) or ExtremePC Wellington
+- **In-store**: ExtremePC Onehunga (Auckland)
 - **Online**: [extremepc.co.nz](https://www.extremepc.co.nz/wireless-gaming-keyboards/epomaker-f75-hot-swappable-rgb-wireless-mechanical-keyboard-light-blue-leobog-reaper-switch-80-keys/)
 
 ## Compatibility
@@ -43,7 +43,7 @@ A hot-swappable switches, wireless, RGB lighting, mechanical switches, blue colo
 
 ## Warranty
 
-3 years from date of purchase.
+Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page).
 
 ---
 *Last verified: 2026-11-17*

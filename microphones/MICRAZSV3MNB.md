@@ -17,7 +17,7 @@
 - Driver: 14mm condenser capsule
 - Weight: ~200g (ultra-compact design)
 - Stand: Foldable, space-saving
-- Warranty: 2 years manufacturer via Razer NZ
+- Warranty: Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page)
 
 ## Selling Points
 
@@ -31,12 +31,12 @@ At its price point, it sits below the full-size Seiren V3 and V3 Pro, making it 
 - NZ streamers and content creators who want quality USB audio without a full-size mic
 - Remote workers on Zoom/Teams calls who need clearer pickup than a laptop mic
 - Gamers recording gameplay commentary in a shared room — cardioid pattern rejects side/rear noise
-- First-time streamers in Auckland or Wellington who want a reliable brand with local warranty support
+- First-time streamers in Auckland who want a reliable brand with local warranty support
 
 ## Why Buy From ExtremePC
-- Razer products carry 2-year NZ warranty through ExtremePC — local warranty service, no international shipping
+- Warranty claims are handled locally through ExtremePC NZ: send the item to us and we manage the claim and send it back to you
 - Auckland Build Team can recommend compatible headsets and audio interfaces if you're setting up a full streaming station
-- In stock at Onehunga and Wellington stores for same-day pickup or Afterpay
+- Click and collect at our Onehunga store; Afterpay and Zip Payment are available at online checkout
 
 ## Comparison
 
@@ -56,7 +56,7 @@ vs Fifine K680 (if in stock) — the Fifine is a budget USB mic with a 16mm caps
 
 **Q: How long is the cable?** — The USB-A cable is approximately 1.5m, long enough to reach from a desk to a PC tower without strain.
 
-**Q: Is the warranty local?** — Yes, Razer provides 2-year NZ warranty through ExtremePC. No need to ship internationally for warranty service.
+**Q: Is the warranty local?** — Claims are handled through ExtremePC NZ: send the item to us and we manage the claim with the manufacturer.
 
 ## Related Products
 - Razer Seiren V3 Full-Size (MICRAZSV3) — same series, larger capsule and stand

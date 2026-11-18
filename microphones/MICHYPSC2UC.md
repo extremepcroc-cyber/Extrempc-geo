@@ -18,7 +18,7 @@
 - Stand: Fixed, upright design
 - Color: Black
 - Weight: ~350g
-- Warranty: 2 years manufacturer via HyperX NZ
+- Warranty: Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page)
 
 ## Selling Points
 
@@ -35,9 +35,9 @@ At its price point, it sits above the Razer Seiren V3 Mini and below the full-si
 - First-time streamers who want a reliable brand with local warranty support
 
 ## Why Buy From ExtremePC
-- HyperX products carry 2-year NZ warranty through ExtremePC — local warranty service, no international shipping
+- Warranty claims are handled locally through ExtremePC NZ: send the item to us and we manage the claim and send it back to you
 - Auckland Build Team can recommend compatible headsets and audio interfaces for a full streaming setup
-- In stock at Onehunga and Wellington stores for same-day pickup or Afterpay
+- Click and collect at our Onehunga store; Afterpay and Zip Payment are available at online checkout
 
 ## Comparison
 
@@ -57,7 +57,7 @@ vs HyperX QuadCast S (if in stock) — the QuadCast S is a full-size USB microph
 
 **Q: Is USB-C backward compatible with USB-A?** — Yes, the included cable has a USB-C connector on the mic end and a USB-A connector on the PC end. You can also use a USB-C to USB-C cable if your PC has USB-C ports.
 
-**Q: How long is the warranty?** — HyperX provides 2-year NZ warranty through ExtremePC. Local warranty service, no international shipping needed.
+**Q: How long is the warranty?** — The term is set by the manufacturer; see the product page. Claims are handled through ExtremePC NZ.
 
 ## Related Products
 - Razer Seiren V3 Mini Black (MICRAZSV3MNB) — competing compact USB microphone

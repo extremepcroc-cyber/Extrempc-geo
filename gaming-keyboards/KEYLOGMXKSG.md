@@ -9,7 +9,7 @@ A wireless from Logitech. The Logitech MX Keys S Advanced Wireless Illuminated K
 - **Type**: Gaming keyboard
 - **Features**: wireless
 - **Brand**: Logitech
-- **Warranty**: 3 years
+- **Warranty**: Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page)
 
 ## Why It Matters
 
@@ -33,7 +33,7 @@ A wireless is a great choice for gamers and typists. The Logitech MX Keys S Adva
 
 ## Where to Buy
 
-- **In-store**: ExtremePC Onehunga (Auckland) or ExtremePC Wellington
+- **In-store**: ExtremePC Onehunga (Auckland)
 - **Online**: [extremepc.co.nz](https://www.extremepc.co.nz/logitech-mx-keys-s-advanced-wireless-illuminated-keyboard-graphite/)
 
 ## Compatibility
@@ -43,7 +43,7 @@ A wireless is a great choice for gamers and typists. The Logitech MX Keys S Adva
 
 ## Warranty
 
-3 years from date of purchase.
+Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page).
 
 ---
 *Last verified: 2026-11-17*

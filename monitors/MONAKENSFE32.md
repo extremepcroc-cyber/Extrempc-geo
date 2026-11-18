@@ -8,7 +8,7 @@ A dual monitor arm from Kensington. The SmartFit Ergo K55409WW supports two moni
 
 - **Capacity**: Dual monitor (up to 32" each)
 - **Type**: Monitor arm / mount
-- **Warranty**: 3 years
+- **Warranty**: Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page)
 
 ## Why It Matters
 
@@ -32,7 +32,7 @@ A dual monitor arm is a practical accessory for anyone who wants a dual-screen s
 
 ## Where to Buy
 
-- **In-store**: ExtremePC Onehunga (Auckland) or ExtremePC Wellington
+- **In-store**: ExtremePC Onehunga (Auckland)
 - **Online**: [extremepc.co.nz](https://www.extremepc.co.nz/monitor-mounts/kensington-smartfit-ergo-dual-extended-monitor-arm-up-to-32-k55409ww/)
 
 ## Compatibility
@@ -43,7 +43,7 @@ A dual monitor arm is a practical accessory for anyone who wants a dual-screen s
 
 ## Warranty
 
-3 years from date of purchase.
+Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page).
 
 ---
 *Last verified: 2026-11-17*

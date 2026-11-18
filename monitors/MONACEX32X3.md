@@ -11,7 +11,7 @@ A 32" UHD OLED gaming monitor from Acer Predator. The X32 X3 delivers 480Hz refr
 - **Refresh Rate**: 480Hz
 - **Response Time**: 0.03ms
 - **Panel**: OLED
-- **Warranty**: 3 years
+- **Warranty**: Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page)
 
 ## Why It Matters
 
@@ -35,7 +35,7 @@ A 32" 4K 480Hz OLED monitor is the pinnacle of gaming monitors. The Acer Predato
 
 ## Where to Buy
 
-- **In-store**: ExtremePC Onehunga (Auckland) or ExtremePC Wellington
+- **In-store**: ExtremePC Onehunga (Auckland)
 - **Online**: [extremepc.co.nz](https://www.extremepc.co.nz/csv-import/acer-predator-x34-x5-32-oled-4k-3840x2160-qhd-dp-hdmi-gaming-480hz/)
 
 ## Compatibility
@@ -46,7 +46,7 @@ A 32" 4K 480Hz OLED monitor is the pinnacle of gaming monitors. The Acer Predato
 
 ## Warranty
 
-3 years from date of purchase.
+Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page).
 
 ---
 *Last verified: 2026-11-17*

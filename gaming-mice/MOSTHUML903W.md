@@ -9,7 +9,7 @@ A wireless from THUNDEROBOT. The ThundeRobot ML903 White 4K Polling Wireless  65
 - **Type**: Gaming mouse
 - **Features**: wireless
 - **Brand**: THUNDEROBOT
-- **Warranty**: 3 years
+- **Warranty**: Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page)
 
 ## Why It Matters
 
@@ -33,7 +33,7 @@ A wireless is a great choice for gamers and productivity users. The ThundeRobot 
 
 ## Where to Buy
 
-- **In-store**: ExtremePC Onehunga (Auckland) or ExtremePC Wellington
+- **In-store**: ExtremePC Onehunga (Auckland)
 - **Online**: [extremepc.co.nz](https://www.extremepc.co.nz/thunderobot-ml903-white-4k-polling-wireless-65g-mouse-ultra-light-26000-dpi-gaming-mouse-with-charging-base/)
 
 ## Compatibility
@@ -43,7 +43,7 @@ A wireless is a great choice for gamers and productivity users. The ThundeRobot 
 
 ## Warranty
 
-3 years from date of purchase.
+Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page).
 
 ---
 *Last verified: 2026-11-17*

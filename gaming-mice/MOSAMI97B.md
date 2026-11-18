@@ -16,7 +16,7 @@
 - Switches: Optical switches
 - Ergonomics: Symmetrical, lightweight
 - Color: Basalt Black
-- Warranty: 1 year manufacturer via Angry Miao NZ
+- Warranty: Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page)
 
 ## Selling Points
 
@@ -33,9 +33,9 @@ The 70-hour battery life is excellent for a wireless mouse — you can game for 
 - Builders who want a premium wireless gaming mouse
 
 ## Why Buy From ExtremePC
-- Angry Miao products carry 1-year NZ warranty through ExtremePC — local warranty service, no international shipping
+- Warranty claims are handled locally through ExtremePC NZ: send the item to us and we manage the claim and send it back to you
 - Auckland Build Team can recommend compatible desk pads and mouse accessories
-- In stock at Onehunga and Wellington stores for same-day pickup or Afterpay
+- Click and collect at our Onehunga store; Afterpay and Zip Payment are available at online checkout
 
 ## Comparison
 
@@ -53,7 +53,7 @@ vs Zowie EC2-CV (if in stock) — the EC2-CV is ~65g with 1000Hz polling. Choose
 
 **Q: What's the difference between 2.4GHz and Bluetooth?** — 2.4GHz offers lower latency and is recommended for gaming. Bluetooth has higher latency and is better for everyday use. The Infinity 97 supports both.
 
-**Q: Is the 1-year warranty local?** — Yes, Angry Miao provides 1-year NZ warranty through ExtremePC. No need to ship internationally for warranty service.
+**Q: Is warranty handled locally?** — Yes. Warranty claims are handled through ExtremePC NZ: send the item to us and we manage the claim with the manufacturer. The warranty term is set by the manufacturer; see the product page.
 
 ## Related Products
 - Angry Miao Infinity (MOSAMINFB) — heavier, 65g version

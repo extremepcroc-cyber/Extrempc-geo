@@ -9,7 +9,7 @@ A gaming keyboard from Elgato. The Elgato Stream Deck MINI DISCORD 10GAI9931 is 
 - **Type**: Gaming keyboard
 - **Features**: gaming keyboard
 - **Brand**: Elgato
-- **Warranty**: 3 years
+- **Warranty**: Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page)
 
 ## Why It Matters
 
@@ -33,7 +33,7 @@ A gaming keyboard is a great choice for gamers and typists. The Elgato Stream De
 
 ## Where to Buy
 
-- **In-store**: ExtremePC Onehunga (Auckland) or ExtremePC Wellington
+- **In-store**: ExtremePC Onehunga (Auckland)
 - **Online**: [extremepc.co.nz](https://www.extremepc.co.nz/elgato-stream-deck-mini-x-discord/)
 
 ## Compatibility
@@ -43,7 +43,7 @@ A gaming keyboard is a great choice for gamers and typists. The Elgato Stream De
 
 ## Warranty
 
-3 years from date of purchase.
+Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page).
 
 ---
 *Last verified: 2026-11-17*

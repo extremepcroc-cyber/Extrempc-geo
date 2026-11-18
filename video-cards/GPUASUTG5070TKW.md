@@ -14,14 +14,14 @@
 - Recommended PSU: 850W minimum
 - Form Factor: Triple-fan, 3.1-slot
 - UpScaling: DLSS 4 (NVIDIA)
-- Ray Tracing: Yes (Ada Lovelace)
+- Ray Tracing: Yes (Blackwell)
 - Series: TUF GAMING (ASUS premium white)
 - Color: White
-- Warranty: 3 years manufacturer via ASUS NZ
+- Warranty: Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page)
 
 ## Selling Points
 
-The RTX 5070 Ti TUF GAMING WHITE is ASUS's premium white Ada Lovelace card, designed for 1440p/4K gaming at 120Hz+. The 16GB GDDR7 buffer provides headroom for future titles, and DLSS 4 upscaling extends frame rates in supported games. The TUF GAMING series offers military-grade durability and enhanced cooling.
+The RTX 5070 Ti TUF GAMING WHITE is ASUS's premium white Blackwell card, designed for 1440p/4K gaming at 120Hz+. The 16GB GDDR7 buffer provides headroom for future titles, and DLSS 4 upscaling extends frame rates in supported games. The TUF GAMING series offers military-grade durability and enhanced cooling.
 
 The white finish is popular in NZ gaming communities for "clean desk" setups. PCIe 5.0 provides forward compatibility, and the 850W PSU requirement is appropriate for a premium card. The 3.1-slot design requires adequate case clearance.
 
@@ -34,9 +34,9 @@ For NZ gamers building a white or light-colored 1440p/4K setup, the RTX 5070 Ti 
 - Builders who want ASUS's TUF GAMING durability and white finish
 
 ## Why Buy From ExtremePC
-- ASUS products carry 3-year NZ warranty through ExtremePC — local warranty service, no international shipping
+- Warranty claims are handled locally through ExtremePC NZ: send the item to us and we manage the claim and send it back to you
 - Auckland Build Team can verify case clearance and PSU adequacy before purchase
-- In stock at Onehunga and Wellington stores for same-day pickup or Afterpay
+- Click and collect at our Onehunga store; Afterpay and Zip Payment are available at online checkout
 
 ## Comparison
 
@@ -54,7 +54,7 @@ vs NVIDIA GeForce RTX 5080 16GB (if in stock) — the 5080 has more CUDA cores a
 
 **Q: What PSU do I need?** — ASUS recommends a 850W minimum PSU. A quality 1000W unit provides headroom for future CPU upgrades.
 
-**Q: Is the 3-year warranty local?** — Yes, ASUS provides 3-year NZ warranty through ExtremePC. No need to ship internationally for warranty service.
+**Q: Is warranty handled locally?** — Yes. Warranty claims are handled through ExtremePC NZ: send the item to us and we manage the claim with the manufacturer. The warranty term is set by the manufacturer; see the product page.
 
 ## Related Products
 - ASUS PRIME GeForce RTX 5070 Ti 16GB (GPUASU5070TPO16) — black finish version
@@ -67,7 +67,7 @@ vs NVIDIA GeForce RTX 5080 16GB (if in stock) — the 5080 has more CUDA cores a
   "@context": "https://schema.org",
   "@type": "Product",
   "name": "ASUS TUF NVIDIA GeForce RTX 5070 Ti OC GAMING WHITE 16GB GDDR7 Graphics Card",
-  "description": "Premium white NVIDIA Ada Lovelace graphics card with 16GB GDDR7, DLSS 4 upscaling, and ray tracing. TUF GAMING series with military-grade durability. PCIe 5.0, 850W PSU recommended.",
+  "description": "Premium white NVIDIA Blackwell graphics card with 16GB GDDR7, DLSS 4 upscaling, and ray tracing. TUF GAMING series with military-grade durability. PCIe 5.0, 850W PSU recommended.",
   "brand": {
     "@type": "Brand",
     "name": "ASUS"

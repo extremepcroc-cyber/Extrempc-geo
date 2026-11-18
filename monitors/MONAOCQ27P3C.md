@@ -10,7 +10,7 @@ A 27" QHD business monitor from AOC. The Q27P3CV delivers 2560x1440 resolution w
 - **Resolution**: 2560x1440 (QHD)
 - **Panel**: IPS
 - **Connectivity**: USB-C docking
-- **Warranty**: 3 years
+- **Warranty**: Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page)
 
 ## Why It Matters
 
@@ -34,7 +34,7 @@ A 27" QHD USB-C docking monitor is a great choice for professionals who want a c
 
 ## Where to Buy
 
-- **In-store**: ExtremePC Onehunga (Auckland) or ExtremePC Wellington
+- **In-store**: ExtremePC Onehunga (Auckland)
 - **Online**: [extremepc.co.nz](https://www.extremepc.co.nz/aoc-q27p3cv-27-qhd-ips-usb-c-docking-business-monitor/)
 
 ## Compatibility
@@ -45,7 +45,7 @@ A 27" QHD USB-C docking monitor is a great choice for professionals who want a c
 
 ## Warranty
 
-3 years from date of purchase.
+Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page).
 
 ---
 *Last verified: 2026-11-17*

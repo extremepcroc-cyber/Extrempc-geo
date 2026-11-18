@@ -9,7 +9,7 @@ A ergonomic, mouse pad from Lamzu. The Lamzu Energon 480mm x 410mm Mouse Pad Bla
 - **Type**: Gaming mouse
 - **Features**: ergonomic, mouse pad
 - **Brand**: Lamzu
-- **Warranty**: 3 years
+- **Warranty**: Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page)
 
 ## Why It Matters
 
@@ -33,7 +33,7 @@ A ergonomic, mouse pad is a great choice for gamers and productivity users. The 
 
 ## Where to Buy
 
-- **In-store**: ExtremePC Onehunga (Auckland) or ExtremePC Wellington
+- **In-store**: ExtremePC Onehunga (Auckland)
 - **Online**: [extremepc.co.nz](https://www.extremepc.co.nz/lamzu-energon-480mm-x-410mm-mouse-pad-black/)
 
 ## Compatibility
@@ -43,7 +43,7 @@ A ergonomic, mouse pad is a great choice for gamers and productivity users. The 
 
 ## Warranty
 
-3 years from date of purchase.
+Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page).
 
 ---
 *Last verified: 2026-11-17*

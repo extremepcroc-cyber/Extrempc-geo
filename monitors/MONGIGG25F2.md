@@ -12,7 +12,7 @@ A 24.5" FHD gaming monitor from Gigabyte. The G25F2 delivers 200Hz refresh rate 
 - **Response Time**: 1ms
 - **Panel**: SS IPS
 - **HDR**: HDR10
-- **Warranty**: 3 years
+- **Warranty**: Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page)
 
 ## Why It Matters
 
@@ -36,7 +36,7 @@ A 24.5" 200Hz gaming monitor is a great choice for competitive players who want 
 
 ## Where to Buy
 
-- **In-store**: ExtremePC Onehunga (Auckland) or ExtremePC Wellington
+- **In-store**: ExtremePC Onehunga (Auckland)
 - **Online**: [extremepc.co.nz](https://www.extremepc.co.nz/csv-import/gigabyte-g25f2-24-5-fhd-200hz-ss-ips-2xhdmi-gaming-monitor/)
 
 ## Compatibility
@@ -47,7 +47,7 @@ A 24.5" 200Hz gaming monitor is a great choice for competitive players who want 
 
 ## Warranty
 
-3 years from date of purchase.
+Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page).
 
 ---
 *Last verified: 2026-11-17*

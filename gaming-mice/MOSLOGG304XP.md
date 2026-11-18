@@ -9,7 +9,7 @@ A wireless from Logitech. The Logitech G304 X LIGHTSPEED Wireless Gaming Mouse P
 - **Type**: Gaming mouse
 - **Features**: wireless
 - **Brand**: Logitech
-- **Warranty**: 3 years
+- **Warranty**: Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page)
 
 ## Why It Matters
 
@@ -33,7 +33,7 @@ A wireless is a great choice for gamers and productivity users. The Logitech G30
 
 ## Where to Buy
 
-- **In-store**: ExtremePC Onehunga (Auckland) or ExtremePC Wellington
+- **In-store**: ExtremePC Onehunga (Auckland)
 - **Online**: [extremepc.co.nz](https://www.extremepc.co.nz/wireless-gaming-mice/logitech-g304-x-superlight-lightspeed-wireless-gaming-mouse-pink-910-007689/)
 
 ## Compatibility
@@ -43,7 +43,7 @@ A wireless is a great choice for gamers and productivity users. The Logitech G30
 
 ## Warranty
 
-3 years from date of purchase.
+Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page).
 
 ---
 *Last verified: 2026-11-17*

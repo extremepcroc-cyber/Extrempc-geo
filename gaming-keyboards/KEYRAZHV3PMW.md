@@ -9,7 +9,7 @@ A mechanical switches, white colorway from Razer. The Razer Huntsman V3 Pro Mini
 - **Type**: Gaming keyboard
 - **Features**: mechanical switches, white colorway
 - **Brand**: Razer
-- **Warranty**: 3 years
+- **Warranty**: Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page)
 
 ## Why It Matters
 
@@ -33,7 +33,7 @@ A mechanical switches, white colorway is a great choice for gamers and typists. 
 
 ## Where to Buy
 
-- **In-store**: ExtremePC Onehunga (Auckland) or ExtremePC Wellington
+- **In-store**: ExtremePC Onehunga (Auckland)
 - **Online**: [extremepc.co.nz](https://www.extremepc.co.nz/wired-gaming-keyboards/razer-huntsman-v3-pro-mini-analog-optical-mechanical-gaming-keyboard-white-rz03-04991700-r3m1/)
 
 ## Compatibility
@@ -43,7 +43,7 @@ A mechanical switches, white colorway is a great choice for gamers and typists. 
 
 ## Warranty
 
-3 years from date of purchase.
+Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page).
 
 ---
 *Last verified: 2026-11-17*

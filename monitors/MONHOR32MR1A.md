@@ -9,7 +9,7 @@ A 32" portable smart screen from Horion. The 32MR1A features a built-in stand â€
 - **Size**: 32"
 - **Type**: Portable smart screen
 - **Stand**: Built-in
-- **Warranty**: 3 years
+- **Warranty**: Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page)
 
 ## Why It Matters
 
@@ -33,7 +33,7 @@ A 32" portable smart screen is a great choice for businesses who need a mobile d
 
 ## Where to Buy
 
-- **In-store**: ExtremePC Onehunga (Auckland) or ExtremePC Wellington
+- **In-store**: ExtremePC Onehunga (Auckland)
 - **Online**: [extremepc.co.nz](https://www.extremepc.co.nz/portable-monitors/horion-32mr1a-portable-mobile-smart-screen-with-stand/)
 
 ## Compatibility
@@ -43,7 +43,7 @@ A 32" portable smart screen is a great choice for businesses who need a mobile d
 
 ## Warranty
 
-3 years from date of purchase.
+Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page).
 
 ---
 *Last verified: 2026-11-17*

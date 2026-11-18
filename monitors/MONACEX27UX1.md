@@ -11,7 +11,7 @@ A 27" QHD OLED gaming monitor from Acer Predator. The X27U X1 delivers 240Hz ref
 - **Refresh Rate**: 240Hz
 - **Response Time**: 0.001ms
 - **Panel**: OLED
-- **Warranty**: 3 years
+- **Warranty**: Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page)
 
 ## Why It Matters
 
@@ -35,7 +35,7 @@ A 27" QHD OLED monitor is a premium choice for gamers who want the best possible
 
 ## Where to Buy
 
-- **In-store**: ExtremePC Onehunga (Auckland) or ExtremePC Wellington
+- **In-store**: ExtremePC Onehunga (Auckland)
 - **Online**: [extremepc.co.nz](https://www.extremepc.co.nz/csv-import/acer-predator-x27u-x1-27-oled-2560x1440-qhd-dp-hdmi-gaming-240hz/)
 
 ## Compatibility
@@ -46,7 +46,7 @@ A 27" QHD OLED monitor is a premium choice for gamers who want the best possible
 
 ## Warranty
 
-3 years from date of purchase.
+Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page).
 
 ---
 *Last verified: 2026-11-17*

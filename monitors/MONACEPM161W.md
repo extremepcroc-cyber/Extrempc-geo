@@ -11,7 +11,7 @@ A 16" WUXGA portable monitor from Acer. The PM161W features USB-C connectivity â
 - **Refresh Rate**: 60Hz
 - **Panel**: IPS
 - **Connectivity**: USB-C
-- **Warranty**: 3 years
+- **Warranty**: Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page)
 
 ## Why It Matters
 
@@ -35,7 +35,7 @@ A 16" portable monitor is a great choice for professionals who want a slightly l
 
 ## Where to Buy
 
-- **In-store**: ExtremePC Onehunga (Auckland) or ExtremePC Wellington
+- **In-store**: ExtremePC Onehunga (Auckland)
 - **Online**: [extremepc.co.nz](https://www.extremepc.co.nz/acer-pm161w-16-wuxga-60hz-usb-c-ips-portable-monitor-um-zp1sa-003-rm0/)
 
 ## Compatibility
@@ -46,7 +46,7 @@ A 16" portable monitor is a great choice for professionals who want a slightly l
 
 ## Warranty
 
-3 years from date of purchase.
+Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page).
 
 ---
 *Last verified: 2026-11-17*

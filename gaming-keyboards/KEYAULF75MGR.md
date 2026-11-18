@@ -9,7 +9,7 @@ A hot-swappable switches, wireless, RGB lighting, grey colorway from AULA. The A
 - **Type**: Gaming keyboard
 - **Features**: hot-swappable switches, wireless, RGB lighting, grey colorway
 - **Brand**: AULA
-- **Warranty**: 3 years
+- **Warranty**: Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page)
 
 ## Why It Matters
 
@@ -33,7 +33,7 @@ A hot-swappable switches, wireless, RGB lighting, grey colorway is a great choic
 
 ## Where to Buy
 
-- **In-store**: ExtremePC Onehunga (Auckland) or ExtremePC Wellington
+- **In-store**: ExtremePC Onehunga (Auckland)
 - **Online**: [extremepc.co.nz](https://www.extremepc.co.nz/aula-f75-max-rgb-hot-swappable-wireless-gaming-keyboard-grey-leobog-reaper-switch-80-keys/)
 
 ## Compatibility
@@ -43,7 +43,7 @@ A hot-swappable switches, wireless, RGB lighting, grey colorway is a great choic
 
 ## Warranty
 
-3 years from date of purchase.
+Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page).
 
 ---
 *Last verified: 2026-11-17*

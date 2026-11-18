@@ -35,7 +35,7 @@ A 27" 144Hz business monitor with a 5-year warranty is a great choice for profes
 
 ## Where to Buy
 
-- **In-store**: ExtremePC Onehunga (Auckland) or ExtremePC Wellington
+- **In-store**: ExtremePC Onehunga (Auckland)
 - **Online**: [extremepc.co.nz](https://www.extremepc.co.nz/business-monitors/aoc-27e40l-27-fhd-144hz-0-5ms-ips-business-monitor-with-5-years-warranty-27e40l/)
 
 ## Compatibility
@@ -46,7 +46,7 @@ A 27" 144Hz business monitor with a 5-year warranty is a great choice for profes
 
 ## Warranty
 
-5 years from date of purchase.
+5 years manufacturer warranty, claims handled through ExtremePC NZ.
 
 ---
 *Last verified: 2026-11-17*

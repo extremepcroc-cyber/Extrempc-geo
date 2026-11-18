@@ -11,7 +11,7 @@ A 27" FHD gaming monitor from AOC. The 27G4ZR delivers 260Hz refresh rate and 0.
 - **Refresh Rate**: 260Hz
 - **Response Time**: 0.3ms
 - **Panel**: Fast IPS
-- **Warranty**: 3 years
+- **Warranty**: Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page)
 
 ## Why It Matters
 
@@ -35,7 +35,7 @@ A 27" 260Hz Fast IPS monitor is a top-tier choice for competitive players who wa
 
 ## Where to Buy
 
-- **In-store**: ExtremePC Onehunga (Auckland) or ExtremePC Wellington
+- **In-store**: ExtremePC Onehunga (Auckland)
 - **Online**: [extremepc.co.nz](https://www.extremepc.co.nz/csv-import/aoc-27g4zr-27-fhd-260hz-fast-ips-gaming-monitor-1920x1080-0-3ms-hdmi-dp-1-4-g-sync-compatible-height-adjustable-100x100-vesa/)
 
 ## Compatibility
@@ -46,7 +46,7 @@ A 27" 260Hz Fast IPS monitor is a top-tier choice for competitive players who wa
 
 ## Warranty
 
-3 years from date of purchase.
+Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page).
 
 ---
 *Last verified: 2026-11-17*

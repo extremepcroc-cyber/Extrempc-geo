@@ -9,7 +9,7 @@ A wireless from Logitech. The Logitech Pro X Superlight 2 DEX Wireless Gaming Mo
 - **Type**: Gaming mouse
 - **Features**: wireless
 - **Brand**: Logitech
-- **Warranty**: 3 years
+- **Warranty**: 2 years manufacturer warranty, claims handled through ExtremePC NZ
 
 ## Why It Matters
 
@@ -33,7 +33,7 @@ A wireless is a great choice for gamers and productivity users. The Logitech Pro
 
 ## Where to Buy
 
-- **In-store**: ExtremePC Onehunga (Auckland) or ExtremePC Wellington
+- **In-store**: ExtremePC Onehunga (Auckland)
 - **Online**: [extremepc.co.nz](https://www.extremepc.co.nz/logitech-pro-x-superlight-2-dex-wireless-gaming-mouse-white/)
 
 ## Compatibility
@@ -43,7 +43,7 @@ A wireless is a great choice for gamers and productivity users. The Logitech Pro
 
 ## Warranty
 
-3 years from date of purchase.
+2 years manufacturer warranty, claims handled through ExtremePC NZ.
 
 ---
 *Last verified: 2026-11-17*

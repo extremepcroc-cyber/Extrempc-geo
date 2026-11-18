@@ -9,7 +9,7 @@ A hot-swappable switches, wireless, RGB lighting, vanilla colorway from LEOBOG. 
 - **Type**: Gaming keyboard
 - **Features**: hot-swappable switches, wireless, RGB lighting, vanilla colorway
 - **Brand**: LEOBOG
-- **Warranty**: 3 years
+- **Warranty**: Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page)
 
 ## Why It Matters
 
@@ -33,7 +33,7 @@ A hot-swappable switches, wireless, RGB lighting, vanilla colorway is a great ch
 
 ## Where to Buy
 
-- **In-store**: ExtremePC Onehunga (Auckland) or ExtremePC Wellington
+- **In-store**: ExtremePC Onehunga (Auckland)
 - **Online**: [extremepc.co.nz](https://www.extremepc.co.nz/csv-import/leobog-hi75c-pro-75-tri-mode-mechanical-keyboard-vanilla-ice-aluminium-alloy-cover-linear-switch-rgb-side-prined-pbt-keycaps-hot-swappable-gasket-mount/)
 
 ## Compatibility
@@ -43,7 +43,7 @@ A hot-swappable switches, wireless, RGB lighting, vanilla colorway is a great ch
 
 ## Warranty
 
-3 years from date of purchase.
+Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page).
 
 ---
 *Last verified: 2026-11-17*

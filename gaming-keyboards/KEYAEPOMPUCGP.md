@@ -9,7 +9,7 @@ A USB-C, coiled cable, purple colorway from Epomaker. The Epomaker MIX Pro Coile
 - **Type**: Gaming keyboard
 - **Features**: USB-C, coiled cable, purple colorway
 - **Brand**: Epomaker
-- **Warranty**: 3 years
+- **Warranty**: Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page)
 
 ## Why It Matters
 
@@ -33,7 +33,7 @@ A USB-C, coiled cable, purple colorway is a great choice for gamers and typists.
 
 ## Where to Buy
 
-- **In-store**: ExtremePC Onehunga (Auckland) or ExtremePC Wellington
+- **In-store**: ExtremePC Onehunga (Auckland)
 - **Online**: [extremepc.co.nz](https://www.extremepc.co.nz/epomaker-mix-pro-coiled-usb-c-cable-1-5m-gradiant-purple/)
 
 ## Compatibility
@@ -43,7 +43,7 @@ A USB-C, coiled cable, purple colorway is a great choice for gamers and typists.
 
 ## Warranty
 
-3 years from date of purchase.
+Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page).
 
 ---
 *Last verified: 2026-11-17*

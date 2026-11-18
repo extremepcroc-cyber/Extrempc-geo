@@ -14,16 +14,16 @@
 - Recommended PSU: 850W minimum
 - Form Factor: Triple-fan, 2.5-slot
 - UpScaling: DLSS 4 (NVIDIA)
-- Ray Tracing: Yes (Ada Lovelace)
+- Ray Tracing: Yes (Blackwell)
 - Series: SOLID Core (Zotac premium)
 - OC Edition: Factory overclocked
-- Warranty: 3 years manufacturer via Zotac NZ
+- Warranty: Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page)
 
 ## Selling Points
 
-The RTX 5080 SOLID Core is Zotac's premium Ada Lovelace flagship, designed for 4K gaming at 120Hz+. The 16GB GDDR7 buffer provides headroom for future titles, and DLSS 4 upscaling extends frame rates in supported games. The SOLID Core series offers enhanced cooling and build quality.
+The RTX 5080 SOLID Core is Zotac's premium Blackwell flagship, designed for 4K gaming at 120Hz+. The 16GB GDDR7 buffer provides headroom for future titles, and DLSS 4 upscaling extends frame rates in supported games. The SOLID Core series offers enhanced cooling and build quality.
 
-The 16GB VRAM is future-proof for 4K — enough for most titles at ultra settings, with room for newer games. Ada Lovelace architecture brings improved ray tracing and DLSS 4 over the previous generation. The 850W PSU requirement is appropriate for a flagship card.
+The 16GB VRAM is future-proof for 4K — enough for most titles at ultra settings, with room for newer games. Blackwell architecture brings improved ray tracing and DLSS 4 over the previous generation. The 850W PSU requirement is appropriate for a flagship card.
 
 For NZ gamers building a 4K setup, the RTX 5080 SOLID Core offers flagship performance with Zotac's premium cooling. NVIDIA's DLSS 4 is competitive with AMD's FSR 3 in supported titles.
 
@@ -34,9 +34,9 @@ For NZ gamers building a 4K setup, the RTX 5080 SOLID Core offers flagship perfo
 - Builders who want Zotac's SOLID Core series
 
 ## Why Buy From ExtremePC
-- Zotac products carry 3-year NZ warranty through ExtremePC — local warranty service, no international shipping
+- Warranty claims are handled locally through ExtremePC NZ: send the item to us and we manage the claim and send it back to you
 - Auckland Build Team can verify case clearance and PSU adequacy before purchase
-- In stock at Onehunga and Wellington stores for same-day pickup or Afterpay
+- Click and collect at our Onehunga store; Afterpay and Zip Payment are available at online checkout
 
 ## Comparison
 
@@ -54,7 +54,7 @@ vs NVIDIA GeForce RTX 5090 (GPUGIG5090AM32) — the 5090 has 32GB GDDR7 and more
 
 **Q: What PSU do I need?** — Zotac recommends a 850W minimum PSU. A quality 1000W unit provides headroom for future CPU upgrades.
 
-**Q: Is the 3-year warranty local?** — Yes, Zotac provides 3-year NZ warranty through ExtremePC. No need to ship internationally for warranty service.
+**Q: Is warranty handled locally?** — Yes. Warranty claims are handled through ExtremePC NZ: send the item to us and we manage the claim with the manufacturer. The warranty term is set by the manufacturer; see the product page.
 
 ## Related Products
 - Gigabyte GeForce RTX 5080 WINDFORCE (GPUGIG5080WFO16) — competing flagship card
@@ -67,7 +67,7 @@ vs NVIDIA GeForce RTX 5090 (GPUGIG5090AM32) — the 5090 has 32GB GDDR7 and more
   "@context": "https://schema.org",
   "@type": "Product",
   "name": "Zotac GAMING NVIDIA GeForce RTX 5080 SOLID Core OC 16GB GDDR7 Graphics Card",
-  "description": "Premium NVIDIA Ada Lovelace flagship graphics card with 16GB GDDR7, DLSS 4 upscaling, and ray tracing. SOLID Core series with triple-fan cooler, factory overclocked, PCIe 5.0. Designed for 4K/120Hz+ gaming.",
+  "description": "Premium NVIDIA Blackwell flagship graphics card with 16GB GDDR7, DLSS 4 upscaling, and ray tracing. SOLID Core series with triple-fan cooler, factory overclocked, PCIe 5.0. Designed for 4K/120Hz+ gaming.",
   "brand": {
     "@type": "Brand",
     "name": "Zotac"

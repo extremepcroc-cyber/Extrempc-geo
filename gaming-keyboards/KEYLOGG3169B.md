@@ -9,7 +9,7 @@ A black colorway, red colorway from Logitech. The Logitech G316 X 98 Wired Gamin
 - **Type**: Gaming keyboard
 - **Features**: black colorway, red colorway
 - **Brand**: Logitech
-- **Warranty**: 3 years
+- **Warranty**: Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page)
 
 ## Why It Matters
 
@@ -33,7 +33,7 @@ A black colorway, red colorway is a great choice for gamers and typists. The Log
 
 ## Where to Buy
 
-- **In-store**: ExtremePC Onehunga (Auckland) or ExtremePC Wellington
+- **In-store**: ExtremePC Onehunga (Auckland)
 - **Online**: [extremepc.co.nz](https://www.extremepc.co.nz/wired-gaming-keyboards/logitech-g316-x-98-wired-gaming-keyboard-black-920-014207/)
 
 ## Compatibility
@@ -43,7 +43,7 @@ A black colorway, red colorway is a great choice for gamers and typists. The Log
 
 ## Warranty
 
-3 years from date of purchase.
+Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page).
 
 ---
 *Last verified: 2026-11-17*

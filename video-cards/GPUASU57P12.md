@@ -14,15 +14,15 @@
 - Recommended PSU: 650W minimum
 - Form Factor: Triple-fan, 2.5-slot
 - UpScaling: DLSS 4 (NVIDIA)
-- Ray Tracing: Yes (Ada Lovelace)
+- Ray Tracing: Yes (Blackwell)
 - Series: PRIME (ASUS mid-tier)
-- Warranty: 3 years manufacturer via ASUS NZ
+- Warranty: Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page)
 
 ## Selling Points
 
-The RTX 5070 PRIME is ASUS's mid-tier Ada Lovelace card, designed for 1440p gaming at 120Hz+. The 12GB GDDR7 buffer provides headroom for newer titles, and DLSS 4 upscaling extends frame rates in supported games. The PRIME series offers enhanced cooling and build quality over the DUAL series.
+The RTX 5070 PRIME is ASUS's mid-tier Blackwell card, designed for 1440p gaming at 120Hz+. The 12GB GDDR7 buffer provides headroom for newer titles, and DLSS 4 upscaling extends frame rates in supported games. The PRIME series offers enhanced cooling and build quality over the DUAL series.
 
-The 12GB VRAM is a sweet spot for 1440p — enough for most titles at high settings, with room for future games. Ada Lovelace architecture brings improved ray tracing and DLSS 4 over the previous generation. The 650W PSU requirement is moderate for a card at this performance level.
+The 12GB VRAM is a sweet spot for 1440p — enough for most titles at high settings, with room for future games. Blackwell architecture brings improved ray tracing and DLSS 4 over the previous generation. The 650W PSU requirement is moderate for a card at this performance level.
 
 For NZ gamers building a 1440p setup, the RTX 5070 PRIME offers strong performance with ASUS's mid-tier cooling. NVIDIA's DLSS 4 is competitive with AMD's FSR 3 in supported titles.
 
@@ -33,9 +33,9 @@ For NZ gamers building a 1440p setup, the RTX 5070 PRIME offers strong performan
 - Builders who want ASUS's PRIME tier cooling and build quality
 
 ## Why Buy From ExtremePC
-- ASUS products carry 3-year NZ warranty through ExtremePC — local warranty service, no international shipping
+- Warranty claims are handled locally through ExtremePC NZ: send the item to us and we manage the claim and send it back to you
 - Auckland Build Team can verify case clearance and PSU adequacy before purchase
-- In stock at Onehunga and Wellington stores for same-day pickup or Afterpay
+- Click and collect at our Onehunga store; Afterpay and Zip Payment are available at online checkout
 
 ## Comparison
 
@@ -53,7 +53,7 @@ vs NVIDIA GeForce RTX 5070 Ti 16GB (GPUASU5070TPO16) — the 5070 Ti has 16GB VR
 
 **Q: What PSU do I need?** — ASUS recommends a 650W minimum PSU. A quality 750W unit provides headroom for future CPU upgrades.
 
-**Q: Is the 3-year warranty local?** — Yes, ASUS provides 3-year NZ warranty through ExtremePC. No need to ship internationally for warranty service.
+**Q: Is warranty handled locally?** — Yes. Warranty claims are handled through ExtremePC NZ: send the item to us and we manage the claim with the manufacturer. The warranty term is set by the manufacturer; see the product page.
 
 ## Related Products
 - ASUS GeForce RTX 5070 DUAL (GPUASU5070DO) — entry-level RTX 5070
@@ -66,7 +66,7 @@ vs NVIDIA GeForce RTX 5070 Ti 16GB (GPUASU5070TPO16) — the 5070 Ti has 16GB VR
   "@context": "https://schema.org",
   "@type": "Product",
   "name": "ASUS GeForce RTX 5070 PRIME 12GB GDDR7 Graphics Card",
-  "description": "Mid-range NVIDIA Ada Lovelace graphics card with 12GB GDDR7, DLSS 4 upscaling, and ray tracing. PRIME series with triple-fan cooler. Designed for 1440p/120Hz+ gaming.",
+  "description": "Mid-range NVIDIA Blackwell graphics card with 12GB GDDR7, DLSS 4 upscaling, and ray tracing. PRIME series with triple-fan cooler. Designed for 1440p/120Hz+ gaming.",
   "brand": {
     "@type": "Brand",
     "name": "ASUS"

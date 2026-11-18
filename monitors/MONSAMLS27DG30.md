@@ -10,7 +10,7 @@ A 27" FHD gaming monitor from Samsung Odyssey. The G3 G30D delivers 180Hz refres
 - **Resolution**: 1920x1080 (FHD)
 - **Refresh Rate**: 180Hz
 - **Panel**: VA
-- **Warranty**: 3 years
+- **Warranty**: Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page)
 
 ## Why It Matters
 
@@ -34,7 +34,7 @@ A 27" 180Hz gaming monitor is a great choice for competitive players who want fa
 
 ## Where to Buy
 
-- **In-store**: ExtremePC Onehunga (Auckland) or ExtremePC Wellington
+- **In-store**: ExtremePC Onehunga (Auckland)
 - **Online**: [extremepc.co.nz](https://www.extremepc.co.nz/samsung-odyssey-g3-g30d-27-fhd-180hz-va-gaming-monitor/)
 
 ## Compatibility
@@ -45,7 +45,7 @@ A 27" 180Hz gaming monitor is a great choice for competitive players who want fa
 
 ## Warranty
 
-3 years from date of purchase.
+Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page).
 
 ---
 *Last verified: 2026-11-17*

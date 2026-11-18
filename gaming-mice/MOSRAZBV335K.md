@@ -9,7 +9,7 @@ A ergonomic from Razer. The Razer Basilisk V3 35K Ergonomic WIred Gaming Mouse R
 - **Type**: Gaming mouse
 - **Features**: ergonomic
 - **Brand**: Razer
-- **Warranty**: 3 years
+- **Warranty**: Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page)
 
 ## Why It Matters
 
@@ -33,7 +33,7 @@ A ergonomic is a great choice for gamers and productivity users. The Razer Basil
 
 ## Where to Buy
 
-- **In-store**: ExtremePC Onehunga (Auckland) or ExtremePC Wellington
+- **In-store**: ExtremePC Onehunga (Auckland)
 - **Online**: [extremepc.co.nz](https://www.extremepc.co.nz/razer-basilisk-v3-35k-ergonomic-wired-gaming-mouse/)
 
 ## Compatibility
@@ -43,7 +43,7 @@ A ergonomic is a great choice for gamers and productivity users. The Razer Basil
 
 ## Warranty
 
-3 years from date of purchase.
+Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page).
 
 ---
 *Last verified: 2026-11-17*

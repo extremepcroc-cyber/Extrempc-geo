@@ -14,15 +14,15 @@
 - Recommended PSU: 650W minimum
 - Form Factor: Dual-fan, 2.5-slot
 - UpScaling: DLSS 4 (NVIDIA)
-- Ray Tracing: Yes (Ada Lovelace)
+- Ray Tracing: Yes (Blackwell)
 - OC Edition: Factory overclocked
-- Warranty: 3 years manufacturer via ASUS NZ
+- Warranty: Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page)
 
 ## Selling Points
 
-The RTX 5060 Ti 16GB is NVIDIA's upper-mid Ada Lovelace card with a larger memory buffer, designed for 1440p gaming at 120Hz+. The 16GB GDDR7 buffer provides headroom for future titles, and DLSS 4 upscaling extends frame rates in supported games. The DUAL series is ASUS's entry-level line, with a dual-fan cooler and factory overclock.
+The RTX 5060 Ti 16GB is NVIDIA's upper-mid Blackwell card with a larger memory buffer, designed for 1440p gaming at 120Hz+. The 16GB GDDR7 buffer provides headroom for future titles, and DLSS 4 upscaling extends frame rates in supported games. The DUAL series is ASUS's entry-level line, with a dual-fan cooler and factory overclock.
 
-The 16GB VRAM is future-proof for 1440p/4K — enough for most titles at ultra settings, with room for newer games. Ada Lovelace architecture brings improved ray tracing and DLSS 4 over the previous generation. The 650W PSU requirement is appropriate for a card with 16GB VRAM.
+The 16GB VRAM is future-proof for 1440p/4K — enough for most titles at ultra settings, with room for newer games. Blackwell architecture brings improved ray tracing and DLSS 4 over the previous generation. The 650W PSU requirement is appropriate for a card with 16GB VRAM.
 
 For NZ gamers building a 1440p setup, the RTX 5060 Ti 16GB offers strong performance with more VRAM than the 8GB version. NVIDIA's DLSS 4 is competitive with AMD's FSR 3 in supported titles.
 
@@ -30,12 +30,12 @@ For NZ gamers building a 1440p setup, the RTX 5060 Ti 16GB offers strong perform
 - NZ gamers building a 1440p/120Hz+ setup
 - 1440p competitive gamers who want DLSS 4 support
 - Content creators who need a GPU with 16GB VRAM for video editing
-- Builders who want Ada Lovelace architecture with 16GB VRAM at a mid-range price
+- Builders who want Blackwell architecture with 16GB VRAM at a mid-range price
 
 ## Why Buy From ExtremePC
-- ASUS products carry 3-year NZ warranty through ExtremePC — local warranty service, no international shipping
+- Warranty claims are handled locally through ExtremePC NZ: send the item to us and we manage the claim and send it back to you
 - Auckland Build Team can verify case clearance and PSU adequacy before purchase
-- In stock at Onehunga and Wellington stores for same-day pickup or Afterpay
+- Click and collect at our Onehunga store; Afterpay and Zip Payment are available at online checkout
 
 ## Comparison
 
@@ -53,7 +53,7 @@ vs AMD Radeon RX 9070 GRE 12GB (GPUASR9070GSLD12) — the RX 9070 GRE has 12GB G
 
 **Q: What PSU do I need?** — ASUS recommends a 650W minimum PSU. A quality 750W unit provides headroom for future CPU upgrades.
 
-**Q: Is the 3-year warranty local?** — Yes, ASUS provides 3-year NZ warranty through ExtremePC. No need to ship internationally for warranty service.
+**Q: Is warranty handled locally?** — Yes. Warranty claims are handled through ExtremePC NZ: send the item to us and we manage the claim with the manufacturer. The warranty term is set by the manufacturer; see the product page.
 
 ## Related Products
 - ASUS GeForce RTX 5060 Ti 8GB (GPUASU5060TDO8) — step-down to 1080p
@@ -66,7 +66,7 @@ vs AMD Radeon RX 9070 GRE 12GB (GPUASR9070GSLD12) — the RX 9070 GRE has 12GB G
   "@context": "https://schema.org",
   "@type": "Product",
   "name": "ASUS GeForce RTX 5060 Ti Dual 16GB OC GDDR7 Graphics Card",
-  "description": "Upper-mid NVIDIA Ada Lovelace graphics card with 16GB GDDR7, DLSS 4 upscaling, and ray tracing. DUAL series with dual-fan cooler. Designed for 1440p/120Hz+ gaming with future-proof VRAM.",
+  "description": "Upper-mid NVIDIA Blackwell graphics card with 16GB GDDR7, DLSS 4 upscaling, and ray tracing. DUAL series with dual-fan cooler. Designed for 1440p/120Hz+ gaming with future-proof VRAM.",
   "brand": {
     "@type": "Brand",
     "name": "ASUS"

@@ -9,7 +9,7 @@ A wireless, carbon fiber from Attack Shark. The Attack Shark RS6 ULTRA Carbon Fi
 - **Type**: Gaming mouse
 - **Features**: wireless, carbon fiber
 - **Brand**: Attack Shark
-- **Warranty**: 3 years
+- **Warranty**: Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page)
 
 ## Why It Matters
 
@@ -33,7 +33,7 @@ A wireless, carbon fiber is a great choice for gamers and productivity users. Th
 
 ## Where to Buy
 
-- **In-store**: ExtremePC Onehunga (Auckland) or ExtremePC Wellington
+- **In-store**: ExtremePC Onehunga (Auckland)
 - **Online**: [extremepc.co.nz](https://www.extremepc.co.nz/wireless-gaming-mice/attack-shark-rs6-ultra-carbon-fiber-wireless-gaming-mouse-black/)
 
 ## Compatibility
@@ -43,7 +43,7 @@ A wireless, carbon fiber is a great choice for gamers and productivity users. Th
 
 ## Warranty
 
-3 years from date of purchase.
+Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page).
 
 ---
 *Last verified: 2026-11-17*

@@ -35,7 +35,7 @@ For NZ gamers building a budget 1080p setup, the RTX 3050 offers entry-level per
 ## Why Buy From ExtremePC
 - Colorful products carry 3-year NZ warranty through ExtremePC — local warranty service, no international shipping
 - Auckland Build Team can verify case clearance and PSU adequacy before purchase
-- In stock at Onehunga and Wellington stores for same-day pickup or Afterpay
+- Click and collect at our Onehunga store; Afterpay and Zip Payment are available at online checkout
 
 ## Comparison
 

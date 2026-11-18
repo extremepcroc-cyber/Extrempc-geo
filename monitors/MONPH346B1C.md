@@ -10,7 +10,7 @@ A 34" ultrawide curved business monitor from Philips. The 346B1C/75 features USB
 - **Resolution**: 3440x1440 (UWQHD)
 - **Panel**: Curved
 - **Connectivity**: USB-C docking, built-in KVM switch
-- **Warranty**: 3 years
+- **Warranty**: Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page)
 
 ## Why It Matters
 
@@ -34,7 +34,7 @@ A 34" ultrawide USB-C docking monitor is a premium choice for professionals who 
 
 ## Where to Buy
 
-- **In-store**: ExtremePC Onehunga (Auckland) or ExtremePC Wellington
+- **In-store**: ExtremePC Onehunga (Auckland)
 - **Online**: [extremepc.co.nz](https://www.extremepc.co.nz/philips-346b1c-34-ultrawide-qhd-curved-monitor/)
 
 ## Compatibility
@@ -45,7 +45,7 @@ A 34" ultrawide USB-C docking monitor is a premium choice for professionals who 
 
 ## Warranty
 
-3 years from date of purchase.
+Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page).
 
 ---
 *Last verified: 2026-11-17*

@@ -9,7 +9,7 @@ A hot-swappable switches, RGB lighting, silent switches, red colorway from Dry S
 - **Type**: Gaming keyboard
 - **Features**: hot-swappable switches, RGB lighting, silent switches, red colorway
 - **Brand**: Dry Studio
-- **Warranty**: 3 years
+- **Warranty**: Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page)
 
 ## Why It Matters
 
@@ -33,7 +33,7 @@ A hot-swappable switches, RGB lighting, silent switches, red colorway is a great
 
 ## Where to Buy
 
-- **In-store**: ExtremePC Onehunga (Auckland) or ExtremePC Wellington
+- **In-store**: ExtremePC Onehunga (Auckland)
 - **Online**: [extremepc.co.nz](https://www.extremepc.co.nz/wireless-gaming-keyboards/angry-miao-atm-98-rgb-hot-swappable-wired-gaming-keyboard-night-ink-bsun-light-sakura-silent-linear-switches-98-keys/)
 
 ## Compatibility
@@ -43,7 +43,7 @@ A hot-swappable switches, RGB lighting, silent switches, red colorway is a great
 
 ## Warranty
 
-3 years from date of purchase.
+Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page).
 
 ---
 *Last verified: 2026-11-17*

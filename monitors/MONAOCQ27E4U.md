@@ -10,7 +10,7 @@ A 27" QHD business monitor from AOC. The Q27E4UJ delivers 2560x1440 resolution a
 - **Resolution**: 2560x1440 (QHD)
 - **Refresh Rate**: 120Hz
 - **Panel**: IPS
-- **Warranty**: 3 years
+- **Warranty**: Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page)
 
 ## Why It Matters
 
@@ -34,7 +34,7 @@ A 27" QHD 120Hz business monitor is a great choice for professionals who want a 
 
 ## Where to Buy
 
-- **In-store**: ExtremePC Onehunga (Auckland) or ExtremePC Wellington
+- **In-store**: ExtremePC Onehunga (Auckland)
 - **Online**: [extremepc.co.nz](https://www.extremepc.co.nz/aoc-q27e4uj-27-qhd-120hz-ips-business-monitor/)
 
 ## Compatibility
@@ -45,7 +45,7 @@ A 27" QHD 120Hz business monitor is a great choice for professionals who want a 
 
 ## Warranty
 
-3 years from date of purchase.
+Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page).
 
 ---
 *Last verified: 2026-11-17*

@@ -9,7 +9,7 @@ A hot-swappable switches, RGB lighting, magnetic switches, red colorway from MCH
 - **Type**: Gaming keyboard
 - **Features**: hot-swappable switches, RGB lighting, magnetic switches, red colorway
 - **Brand**: MCHOSE
-- **Warranty**: 3 years
+- **Warranty**: Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page)
 
 ## Why It Matters
 
@@ -33,7 +33,7 @@ A hot-swappable switches, RGB lighting, magnetic switches, red colorway is a gre
 
 ## Where to Buy
 
-- **In-store**: ExtremePC Onehunga (Auckland) or ExtremePC Wellington
+- **In-store**: ExtremePC Onehunga (Auckland)
 - **Online**: [extremepc.co.nz](https://www.extremepc.co.nz/mchose-ace-68-rgb-hot-swappable-wired-gaming-keyboard-rose-red-ice-rhino-magnetic-switch-68-keys/)
 
 ## Compatibility
@@ -43,7 +43,7 @@ A hot-swappable switches, RGB lighting, magnetic switches, red colorway is a gre
 
 ## Warranty
 
-3 years from date of purchase.
+Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page).
 
 ---
 *Last verified: 2026-11-17*

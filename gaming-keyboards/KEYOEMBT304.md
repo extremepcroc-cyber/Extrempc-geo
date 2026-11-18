@@ -9,7 +9,7 @@ A wireless, Bluetooth, blue colorway from OEM. The BT304 22 Keys Numeric Keypad 
 - **Type**: Gaming keyboard
 - **Features**: wireless, Bluetooth, blue colorway
 - **Brand**: OEM
-- **Warranty**: 3 years
+- **Warranty**: Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page)
 
 ## Why It Matters
 
@@ -33,7 +33,7 @@ A wireless, Bluetooth, blue colorway is a great choice for gamers and typists. T
 
 ## Where to Buy
 
-- **In-store**: ExtremePC Onehunga (Auckland) or ExtremePC Wellington
+- **In-store**: ExtremePC Onehunga (Auckland)
 - **Online**: [extremepc.co.nz](https://www.extremepc.co.nz/keypads/bt304-22-keys-numeric-keypad-wireless-mini-keyboard/)
 
 ## Compatibility
@@ -43,7 +43,7 @@ A wireless, Bluetooth, blue colorway is a great choice for gamers and typists. T
 
 ## Warranty
 
-3 years from date of purchase.
+Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page).
 
 ---
 *Last verified: 2026-11-17*

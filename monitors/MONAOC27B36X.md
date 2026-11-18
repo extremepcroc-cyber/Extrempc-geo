@@ -11,7 +11,7 @@ A 27" FHD business monitor from AOC. The 27B36X delivers 144Hz refresh rate and 
 - **Refresh Rate**: 144Hz
 - **Response Time**: 0.5ms
 - **Panel**: IPS
-- **Warranty**: 3 years
+- **Warranty**: Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page)
 
 ## Why It Matters
 
@@ -35,7 +35,7 @@ A 27" 144Hz business monitor is a great choice for professionals who want a larg
 
 ## Where to Buy
 
-- **In-store**: ExtremePC Onehunga (Auckland) or ExtremePC Wellington
+- **In-store**: ExtremePC Onehunga (Auckland)
 - **Online**: [extremepc.co.nz](https://www.extremepc.co.nz/aoc-27b36x-27-fhd-144hz-0-5ms-ips-business-monitor-27b36x/)
 
 ## Compatibility
@@ -46,7 +46,7 @@ A 27" 144Hz business monitor is a great choice for professionals who want a larg
 
 ## Warranty
 
-3 years from date of purchase.
+Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page).
 
 ---
 *Last verified: 2026-11-17*

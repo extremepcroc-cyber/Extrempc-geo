@@ -11,7 +11,7 @@ A 25" FHD gaming monitor from AOC. The 25G4S delivers 310Hz refresh rate and 0.3
 - **Refresh Rate**: 310Hz
 - **Response Time**: 0.3ms
 - **Panel**: Fast IPS
-- **Warranty**: 3 years
+- **Warranty**: Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page)
 
 ## Why It Matters
 
@@ -35,7 +35,7 @@ A 25" 310Hz gaming monitor is a top-tier choice for competitive players who want
 
 ## Where to Buy
 
-- **In-store**: ExtremePC Onehunga (Auckland) or ExtremePC Wellington
+- **In-store**: ExtremePC Onehunga (Auckland)
 - **Online**: [extremepc.co.nz](https://www.extremepc.co.nz/csv-import/aoc-25g4s-25-fhd-310hz-fast-ips-gaming-monitor-1920x1080-0-3ms-hdr400-2x-hdmi-dp-1-4-height-adjustable-100x100-vesa/)
 
 ## Compatibility
@@ -46,7 +46,7 @@ A 25" 310Hz gaming monitor is a top-tier choice for competitive players who want
 
 ## Warranty
 
-3 years from date of purchase.
+Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page).
 
 ---
 *Last verified: 2026-11-17*

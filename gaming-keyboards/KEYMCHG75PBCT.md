@@ -9,7 +9,7 @@ A hot-swappable switches, wireless, RGB lighting, black colorway from MCHOSE. Th
 - **Type**: Gaming keyboard
 - **Features**: hot-swappable switches, wireless, RGB lighting, black colorway
 - **Brand**: MCHOSE
-- **Warranty**: 3 years
+- **Warranty**: Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page)
 
 ## Why It Matters
 
@@ -33,7 +33,7 @@ A hot-swappable switches, wireless, RGB lighting, black colorway is a great choi
 
 ## Where to Buy
 
-- **In-store**: ExtremePC Onehunga (Auckland) or ExtremePC Wellington
+- **In-store**: ExtremePC Onehunga (Auckland)
 - **Online**: [extremepc.co.nz](https://www.extremepc.co.nz/mchose-g75-pro-tri-mode-rgb-hot-swappable-wireless-gaming-keyboard-black-cabbage-tofu-switch-75-keys/)
 
 ## Compatibility
@@ -43,7 +43,7 @@ A hot-swappable switches, wireless, RGB lighting, black colorway is a great choi
 
 ## Warranty
 
-3 years from date of purchase.
+Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page).
 
 ---
 *Last verified: 2026-11-17*

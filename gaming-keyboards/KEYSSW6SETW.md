@@ -9,7 +9,7 @@ A wireless, ergonomic design, keyboard & mouse combo, white colorway from Sanwa 
 - **Type**: Gaming keyboard
 - **Features**: wireless, ergonomic design, keyboard & mouse combo, white colorway
 - **Brand**: Sanwa Supply
-- **Warranty**: 3 years
+- **Warranty**: Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page)
 
 ## Why It Matters
 
@@ -33,7 +33,7 @@ A wireless, ergonomic design, keyboard & mouse combo, white colorway is a great 
 
 ## Where to Buy
 
-- **In-store**: ExtremePC Onehunga (Auckland) or ExtremePC Wellington
+- **In-store**: ExtremePC Onehunga (Auckland)
 - **Online**: [extremepc.co.nz](https://www.extremepc.co.nz/sanwa-supply-w6set-wireless-ergonomic-keyboard-and-mouse-combo-white/)
 
 ## Compatibility
@@ -43,7 +43,7 @@ A wireless, ergonomic design, keyboard & mouse combo, white colorway is a great 
 
 ## Warranty
 
-3 years from date of purchase.
+Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page).
 
 ---
 *Last verified: 2026-11-17*

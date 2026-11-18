@@ -11,7 +11,7 @@ A 32" QHD gaming monitor from Samsung Odyssey. The G5 32" delivers 2560x1440 res
 - **Refresh Rate**: 180Hz
 - **Response Time**: 1ms
 - **Panel**: IPS (flat)
-- **Warranty**: 3 years
+- **Warranty**: Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page)
 
 ## Why It Matters
 
@@ -35,7 +35,7 @@ A 32" QHD 180Hz gaming monitor is a great choice for gamers who want a large, im
 
 ## Where to Buy
 
-- **In-store**: ExtremePC Onehunga (Auckland) or ExtremePC Wellington
+- **In-store**: ExtremePC Onehunga (Auckland)
 - **Online**: [extremepc.co.nz](https://www.extremepc.co.nz/samsung-odyssey-g5-32-qhd-180hz-1ms-flat-ips-gaming-monitor-ls32fg502eexxy/)
 
 ## Compatibility
@@ -46,7 +46,7 @@ A 32" QHD 180Hz gaming monitor is a great choice for gamers who want a large, im
 
 ## Warranty
 
-3 years from date of purchase.
+Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page).
 
 ---
 *Last verified: 2026-11-17*

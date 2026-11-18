@@ -9,7 +9,7 @@ A wireless, black colorway from Logitech. The Logitech K400 Plus Wireless Keyboa
 - **Type**: Gaming keyboard
 - **Features**: wireless, black colorway
 - **Brand**: Logitech
-- **Warranty**: 3 years
+- **Warranty**: 1 year manufacturer warranty, claims handled through ExtremePC NZ
 
 ## Why It Matters
 
@@ -33,7 +33,7 @@ A wireless, black colorway is a great choice for gamers and typists. The Logitec
 
 ## Where to Buy
 
-- **In-store**: ExtremePC Onehunga (Auckland) or ExtremePC Wellington
+- **In-store**: ExtremePC Onehunga (Auckland)
 - **Online**: [extremepc.co.nz](https://www.extremepc.co.nz/logitech-k400-plus-wireless-keyboard-with-touch-pad-black/)
 
 ## Compatibility
@@ -43,7 +43,7 @@ A wireless, black colorway is a great choice for gamers and typists. The Logitec
 
 ## Warranty
 
-3 years from date of purchase.
+1 year manufacturer warranty, claims handled through ExtremePC NZ.
 
 ---
 *Last verified: 2026-11-17*

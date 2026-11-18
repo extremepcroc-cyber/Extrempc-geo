@@ -14,15 +14,15 @@
 - Recommended PSU: 1000W minimum
 - Form Factor: Triple-fan, 3.5-slot
 - UpScaling: DLSS 4 (NVIDIA)
-- Ray Tracing: Yes (Ada Lovelace)
+- Ray Tracing: Yes (Blackwell)
 - Series: AORUS MASTER (Gigabyte top-tier)
-- Warranty: 3 years manufacturer via Gigabyte NZ
+- Warranty: Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page)
 
 ## Selling Points
 
-The RTX 5090 AORUS MASTER is Gigabyte's top-tier Ada Lovelace flagship, designed for 8K gaming and professional AI workloads. The 32GB GDDR7 buffer is the largest in the consumer market, and DLSS 4 upscaling extends frame rates in supported games. The AORUS MASTER series offers premium cooling and build quality.
+The RTX 5090 AORUS MASTER is Gigabyte's top-tier Blackwell flagship, designed for 8K gaming and professional AI workloads. The 32GB GDDR7 buffer is the largest in the consumer market, and DLSS 4 upscaling extends frame rates in supported games. The AORUS MASTER series offers premium cooling and build quality.
 
-The 32GB VRAM is future-proof for 8K and AI workloads — enough for large AI models, 8K video editing, and professional 3D rendering. Ada Lovelace architecture brings improved ray tracing and DLSS 4 over the previous generation. The 1000W PSU requirement is appropriate for a top-tier card.
+The 32GB VRAM is future-proof for 8K and AI workloads — enough for large AI models, 8K video editing, and professional 3D rendering. Blackwell architecture brings improved ray tracing and DLSS 4 over the previous generation. The 1000W PSU requirement is appropriate for a top-tier card.
 
 For NZ professionals and enthusiasts who need the absolute best GPU for gaming, AI, or creative work, the RTX 5090 AORUS MASTER is the pinnacle. NVIDIA's DLSS 4 is the most advanced upscaling technology available.
 
@@ -33,9 +33,9 @@ For NZ professionals and enthusiasts who need the absolute best GPU for gaming, 
 - Enthusiasts who want the absolute best GPU available
 
 ## Why Buy From ExtremePC
-- Gigabyte products carry 3-year NZ warranty through ExtremePC — local warranty service, no international shipping
+- Warranty claims are handled locally through ExtremePC NZ: send the item to us and we manage the claim and send it back to you
 - Auckland Build Team can recommend compatible PSUs and cooling solutions for this high-power card
-- In stock at Onehunga and Wellington stores for same-day pickup or Afterpay
+- Click and collect at our Onehunga store; Afterpay and Zip Payment are available at online checkout
 
 ## Comparison
 
@@ -53,7 +53,7 @@ vs Intel Arc A770 (if in stock) — the A770 has 16GB GDDR6 and XeSS. The RTX 50
 
 **Q: What PSU do I need?** — Gigabyte recommends a 1000W minimum PSU. A quality 1200W unit provides headroom for future CPU upgrades.
 
-**Q: Is the 3-year warranty local?** — Yes, Gigabyte provides 3-year NZ warranty through ExtremePC. No need to ship internationally for warranty service.
+**Q: Is warranty handled locally?** — Yes. Warranty claims are handled through ExtremePC NZ: send the item to us and we manage the claim with the manufacturer. The warranty term is set by the manufacturer; see the product page.
 
 ## Related Products
 - NVIDIA GeForce RTX 5080 (GPUGIG5080WFO16) — step-down to 4K
@@ -66,7 +66,7 @@ vs Intel Arc A770 (if in stock) — the A770 has 16GB GDDR6 and XeSS. The RTX 50
   "@context": "https://schema.org",
   "@type": "Product",
   "name": "Gigabyte GeForce RTX 5090 AORUS MASTER 32GB Graphics Card",
-  "description": "Top-tier NVIDIA Ada Lovelace flagship graphics card with 32GB GDDR7, DLSS 4 upscaling, and ray tracing. AORUS MASTER series with premium cooling. PCIe 5.0, 1000W PSU recommended.",
+  "description": "Top-tier NVIDIA Blackwell flagship graphics card with 32GB GDDR7, DLSS 4 upscaling, and ray tracing. AORUS MASTER series with premium cooling. PCIe 5.0, 1000W PSU recommended.",
   "brand": {
     "@type": "Brand",
     "name": "Gigabyte"

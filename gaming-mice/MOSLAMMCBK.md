@@ -9,7 +9,7 @@ A gaming mouse from Lamzu. The Lamzu Maya Cloth Speed 490*420*3mm Mousepad Black
 - **Type**: Gaming mouse
 - **Features**: gaming mouse
 - **Brand**: Lamzu
-- **Warranty**: 3 years
+- **Warranty**: Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page)
 
 ## Why It Matters
 
@@ -33,7 +33,7 @@ A gaming mouse is a great choice for gamers and productivity users. The Lamzu Ma
 
 ## Where to Buy
 
-- **In-store**: ExtremePC Onehunga (Auckland) or ExtremePC Wellington
+- **In-store**: ExtremePC Onehunga (Auckland)
 - **Online**: [extremepc.co.nz](https://www.extremepc.co.nz/lamzu-maya-cloth-speed-490-420-3mm-mousepad-black/)
 
 ## Compatibility
@@ -43,7 +43,7 @@ A gaming mouse is a great choice for gamers and productivity users. The Lamzu Ma
 
 ## Warranty
 
-3 years from date of purchase.
+Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page).
 
 ---
 *Last verified: 2026-11-17*

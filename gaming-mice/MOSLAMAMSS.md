@@ -9,7 +9,7 @@ A gaming mouse from Lamzu. The Lamzu Atlantis Mini Mouse Sapphire Skates is buil
 - **Type**: Gaming mouse
 - **Features**: gaming mouse
 - **Brand**: Lamzu
-- **Warranty**: 3 years
+- **Warranty**: Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page)
 
 ## Why It Matters
 
@@ -33,7 +33,7 @@ A gaming mouse is a great choice for gamers and productivity users. The Lamzu At
 
 ## Where to Buy
 
-- **In-store**: ExtremePC Onehunga (Auckland) or ExtremePC Wellington
+- **In-store**: ExtremePC Onehunga (Auckland)
 - **Online**: [extremepc.co.nz](https://www.extremepc.co.nz/lamzu-atlantis-mini-mouse-sapphire-skates/)
 
 ## Compatibility
@@ -43,7 +43,7 @@ A gaming mouse is a great choice for gamers and productivity users. The Lamzu At
 
 ## Warranty
 
-3 years from date of purchase.
+Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page).
 
 ---
 *Last verified: 2026-11-17*

@@ -15,7 +15,7 @@
 - Form Factor: Low-profile, 1-slot
 - UpScaling: None
 - Ray Tracing: No (Pascal architecture)
-- Warranty: 3 years manufacturer via Gigabyte NZ
+- Warranty: Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page)
 
 ## Selling Points
 
@@ -32,9 +32,9 @@ For NZ users who need a basic display output card for an HTPC or office PC, the 
 - Media center builders who want 4K display output
 
 ## Why Buy From ExtremePC
-- Gigabyte products carry 3-year NZ warranty through ExtremePC — local warranty service, no international shipping
+- Warranty claims are handled locally through ExtremePC NZ: send the item to us and we manage the claim and send it back to you
 - Auckland Build Team can recommend compatible low-profile cases and PSUs
-- In stock at Onehunga and Wellington stores for same-day pickup or Afterpay
+- Click and collect at our Onehunga store; Afterpay and Zip Payment are available at online checkout
 
 ## Comparison
 
@@ -52,7 +52,7 @@ vs Intel Arc A310 (if in stock) — the A310 has 6GB GDDR6 and is more modern. T
 
 **Q: What PSU do I need?** — The GT 1030 draws power from the PCIe slot, so a 300W PSU is sufficient.
 
-**Q: Is the 3-year warranty local?** — Yes, Gigabyte provides 3-year NZ warranty through ExtremePC. No need to ship internationally for warranty service.
+**Q: Is warranty handled locally?** — Yes. Warranty claims are handled through ExtremePC NZ: send the item to us and we manage the claim with the manufacturer. The warranty term is set by the manufacturer; see the product page.
 
 ## Related Products
 - NVIDIA GeForce GT 1030 DDR5 (if in stock) — DDR5 version

@@ -10,7 +10,7 @@ A 27" QHD business monitor from Horion. The 27H01QG delivers 2560x1440 resolutio
 - **Resolution**: 2560x1440 (QHD)
 - **Refresh Rate**: 100Hz
 - **Response Time**: 4ms
-- **Warranty**: 3 years
+- **Warranty**: Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page)
 
 ## Why It Matters
 
@@ -34,7 +34,7 @@ A 27" QHD 100Hz business monitor is a great choice for professionals who want a 
 
 ## Where to Buy
 
-- **In-store**: ExtremePC Onehunga (Auckland) or ExtremePC Wellington
+- **In-store**: ExtremePC Onehunga (Auckland)
 - **Online**: [extremepc.co.nz](https://www.extremepc.co.nz/business-monitors/horion-27h01qg-27-qhd-100hz-4ms-business-monitor/)
 
 ## Compatibility
@@ -44,7 +44,7 @@ A 27" QHD 100Hz business monitor is a great choice for professionals who want a 
 
 ## Warranty
 
-3 years from date of purchase.
+Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page).
 
 ---
 *Last verified: 2026-11-17*

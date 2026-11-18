@@ -9,7 +9,7 @@ A white colorway from Elgato. The Elgato Stream Deck MK.2 White is built for gam
 - **Type**: Gaming keyboard
 - **Features**: white colorway
 - **Brand**: Elgato
-- **Warranty**: 3 years
+- **Warranty**: Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page)
 
 ## Why It Matters
 
@@ -33,7 +33,7 @@ A white colorway is a great choice for gamers and typists. The Elgato Stream Dec
 
 ## Where to Buy
 
-- **In-store**: ExtremePC Onehunga (Auckland) or ExtremePC Wellington
+- **In-store**: ExtremePC Onehunga (Auckland)
 - **Online**: [extremepc.co.nz](https://www.extremepc.co.nz/elgato-stream-deck-mk-2-white/)
 
 ## Compatibility
@@ -43,7 +43,7 @@ A white colorway is a great choice for gamers and typists. The Elgato Stream Dec
 
 ## Warranty
 
-3 years from date of purchase.
+Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page).
 
 ---
 *Last verified: 2026-11-17*

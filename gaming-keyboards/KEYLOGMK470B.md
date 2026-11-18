@@ -9,7 +9,7 @@ A wireless, keyboard & mouse combo, black colorway from Logitech. The Logitech M
 - **Type**: Gaming keyboard
 - **Features**: wireless, keyboard & mouse combo, black colorway
 - **Brand**: Logitech
-- **Warranty**: 3 years
+- **Warranty**: Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page)
 
 ## Why It Matters
 
@@ -33,7 +33,7 @@ A wireless, keyboard & mouse combo, black colorway is a great choice for gamers 
 
 ## Where to Buy
 
-- **In-store**: ExtremePC Onehunga (Auckland) or ExtremePC Wellington
+- **In-store**: ExtremePC Onehunga (Auckland)
 - **Online**: [extremepc.co.nz](https://www.extremepc.co.nz/logitech-mk470-slim-wireless-keyboard-and-mouse-combo-black-1/)
 
 ## Compatibility
@@ -43,7 +43,7 @@ A wireless, keyboard & mouse combo, black colorway is a great choice for gamers 
 
 ## Warranty
 
-3 years from date of purchase.
+Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page).
 
 ---
 *Last verified: 2026-11-17*

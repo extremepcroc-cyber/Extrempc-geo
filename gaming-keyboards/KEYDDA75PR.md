@@ -9,7 +9,7 @@ A hot-swappable switches, RGB lighting, magnetic switches, rapid trigger, red co
 - **Type**: Gaming keyboard
 - **Features**: hot-swappable switches, RGB lighting, magnetic switches, rapid trigger, red colorway
 - **Brand**: DRUNKDEER
-- **Warranty**: 3 years
+- **Warranty**: Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page)
 
 ## Why It Matters
 
@@ -33,7 +33,7 @@ A hot-swappable switches, RGB lighting, magnetic switches, rapid trigger, red co
 
 ## Where to Buy
 
-- **In-store**: ExtremePC Onehunga (Auckland) or ExtremePC Wellington
+- **In-store**: ExtremePC Onehunga (Auckland)
 - **Online**: [extremepc.co.nz](https://www.extremepc.co.nz/wired-gaming-keyboards/drunkdeer-a75-pro-rapid-trigger-rgb-hot-swappable-wired-gaming-keyboard-red-magnetic-switch-82-keys/)
 
 ## Compatibility
@@ -43,7 +43,7 @@ A hot-swappable switches, RGB lighting, magnetic switches, rapid trigger, red co
 
 ## Warranty
 
-3 years from date of purchase.
+Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page).
 
 ---
 *Last verified: 2026-11-17*

@@ -9,7 +9,7 @@ A hot-swappable switches, RGB lighting, magnetic switches, white colorway, black
 - **Type**: Gaming keyboard
 - **Features**: hot-swappable switches, RGB lighting, magnetic switches, white colorway, black colorway, red colorway
 - **Brand**: LEOBOG
-- **Warranty**: 3 years
+- **Warranty**: Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page)
 
 ## Why It Matters
 
@@ -33,7 +33,7 @@ A hot-swappable switches, RGB lighting, magnetic switches, white colorway, black
 
 ## Where to Buy
 
-- **In-store**: ExtremePC Onehunga (Auckland) or ExtremePC Wellington
+- **In-store**: ExtremePC Onehunga (Auckland)
 - **Online**: [extremepc.co.nz](https://www.extremepc.co.nz/csv-import/leobog-a80rt-wired-he-gaming-keyboard-black/)
 
 ## Compatibility
@@ -43,7 +43,7 @@ A hot-swappable switches, RGB lighting, magnetic switches, white colorway, black
 
 ## Warranty
 
-3 years from date of purchase.
+Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page).
 
 ---
 *Last verified: 2026-11-17*

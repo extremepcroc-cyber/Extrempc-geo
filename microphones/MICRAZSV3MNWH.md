@@ -18,7 +18,7 @@
 - Weight: ~200g (ultra-compact design)
 - Stand: Foldable, space-saving
 - Color: White
-- Warranty: 2 years manufacturer via Razer NZ
+- Warranty: Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page)
 
 ## Selling Points
 
@@ -35,9 +35,9 @@ At its price point, it's the same audio hardware as the other two colorways. Cho
 - First-time streamers who want a reliable brand with local warranty support
 
 ## Why Buy From ExtremePC
-- Razer products carry 2-year NZ warranty through ExtremePC — local warranty service, no international shipping
+- Warranty claims are handled locally through ExtremePC NZ: send the item to us and we manage the claim and send it back to you
 - Auckland Build Team can recommend matching white Razer peripherals for a cohesive setup
-- In stock at Onehunga and Wellington stores for same-day pickup or Afterpay
+- Click and collect at our Onehunga store; Afterpay and Zip Payment are available at online checkout
 
 ## Comparison
 
@@ -53,7 +53,7 @@ vs HyperX SoloCast 2 USB-C (MICHYPSC2UC) — the SoloCast 2 is a standalone micr
 
 **Q: Does the color affect audio quality?** — No, all three colorways (Black, Quartz, White) have identical audio hardware.
 
-**Q: Is the warranty the same as the other colorways?** — Yes, all Razer Seiren V3 Mini colorways carry 2-year NZ warranty through ExtremePC.
+**Q: Is the warranty the same as the other colourways?** — The term is set by the manufacturer; see the product page. Claims are handled through ExtremePC NZ.
 
 **Q: Will the white show fingerprints or dust?** — The white finish is a matte plastic, which hides fingerprints better than a glossy finish. Regular dusting is recommended.
 

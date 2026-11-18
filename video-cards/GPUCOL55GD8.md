@@ -14,15 +14,15 @@
 - Recommended PSU: 500W minimum
 - Form Factor: Dual-fan, 2-slot
 - UpScaling: DLSS 4 (NVIDIA)
-- Ray Tracing: Yes (Ada Lovelace)
+- Ray Tracing: Yes (Blackwell)
 - Series: Gaming DUO (Colorful entry-level)
-- Warranty: 3 years manufacturer via Colorful NZ
+- Warranty: Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page)
 
 ## Selling Points
 
-The RTX 5050 Gaming DUO is Colorful's entry-level Ada Lovelace card, designed for 1080p gaming at 100Hz+. The 8GB GDDR6 buffer is sufficient for most titles at 1080p, and DLSS 4 upscaling extends frame rates in supported games. The Gaming DUO series offers a compact dual-fan design.
+The RTX 5050 Gaming DUO is Colorful's entry-level Blackwell card, designed for 1080p gaming at 100Hz+. The 8GB GDDR6 buffer is sufficient for most titles at 1080p, and DLSS 4 upscaling extends frame rates in supported games. The Gaming DUO series offers a compact dual-fan design.
 
-The 8GB VRAM is a sweet spot for 1080p — enough for most titles at high settings, with room for future games. Ada Lovelace architecture brings improved ray tracing and DLSS 4 over the previous generation. The 500W PSU requirement is modest.
+The 8GB VRAM is a sweet spot for 1080p — enough for most titles at high settings, with room for future games. Blackwell architecture brings improved ray tracing and DLSS 4 over the previous generation. The 500W PSU requirement is modest.
 
 For NZ gamers building a budget 1080p setup, the RTX 5050 Gaming DUO offers entry-level performance with Colorful's compact dual-fan design. NVIDIA's DLSS 4 is competitive with AMD's FSR 3 in supported titles.
 
@@ -33,9 +33,9 @@ For NZ gamers building a budget 1080p setup, the RTX 5050 Gaming DUO offers entr
 - Builders who want a compact dual-fan design for small cases
 
 ## Why Buy From ExtremePC
-- Colorful products carry 3-year NZ warranty through ExtremePC — local warranty service, no international shipping
+- Warranty claims are handled locally through ExtremePC NZ: send the item to us and we manage the claim and send it back to you
 - Auckland Build Team can verify case clearance and PSU adequacy before purchase
-- In stock at Onehunga and Wellington stores for same-day pickup or Afterpay
+- Click and collect at our Onehunga store; Afterpay and Zip Payment are available at online checkout
 
 ## Comparison
 
@@ -53,7 +53,7 @@ vs AMD Radeon RX 9060 (GPUASR9060C8) — the RX 9060 has 8GB GDDR6 and FSR 3 ups
 
 **Q: What PSU do I need?** — Colorful recommends a 500W minimum PSU. A quality 600W unit provides headroom for future CPU upgrades.
 
-**Q: Is the 3-year warranty local?** — Yes, Colorful provides 3-year NZ warranty through ExtremePC. No need to ship internationally for warranty service.
+**Q: Is warranty handled locally?** — Yes. Warranty claims are handled through ExtremePC NZ: send the item to us and we manage the claim with the manufacturer. The warranty term is set by the manufacturer; see the product page.
 
 ## Related Products
 - Colorful GeForce RTX 5050 Gaming 8GB-V (GPUCOL55G8) — standard dual-fan design
@@ -66,7 +66,7 @@ vs AMD Radeon RX 9060 (GPUASR9060C8) — the RX 9060 has 8GB GDDR6 and FSR 3 ups
   "@context": "https://schema.org",
   "@type": "Product",
   "name": "Colorful GeForce RTX 5050 Gaming DUO 8GB-V",
-  "description": "Entry-level NVIDIA Ada Lovelace graphics card with 8GB GDDR6, DLSS 4 upscaling, and ray tracing. Gaming DUO series with compact dual-fan design. Designed for 1080p gaming.",
+  "description": "Entry-level NVIDIA Blackwell graphics card with 8GB GDDR6, DLSS 4 upscaling, and ray tracing. Gaming DUO series with compact dual-fan design. Designed for 1080p gaming.",
   "brand": {
     "@type": "Brand",
     "name": "Colorful"

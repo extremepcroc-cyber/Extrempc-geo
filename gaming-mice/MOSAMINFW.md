@@ -9,7 +9,7 @@ A wireless, lightweight from Angry Miao. The Angry Miao Infinity Wireless Lightw
 - **Type**: Gaming mouse
 - **Features**: wireless, lightweight
 - **Brand**: Angry Miao
-- **Warranty**: 3 years
+- **Warranty**: Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page)
 
 ## Why It Matters
 
@@ -33,7 +33,7 @@ A wireless, lightweight is a great choice for gamers and productivity users. The
 
 ## Where to Buy
 
-- **In-store**: ExtremePC Onehunga (Auckland) or ExtremePC Wellington
+- **In-store**: ExtremePC Onehunga (Auckland)
 - **Online**: [extremepc.co.nz](https://www.extremepc.co.nz/wireless-gaming-mice/angry-miao-infinity-wireless-lightweight-gaming-mouse-cloud-white/)
 
 ## Compatibility
@@ -43,7 +43,7 @@ A wireless, lightweight is a great choice for gamers and productivity users. The
 
 ## Warranty
 
-3 years from date of purchase.
+Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page).
 
 ---
 *Last verified: 2026-11-17*

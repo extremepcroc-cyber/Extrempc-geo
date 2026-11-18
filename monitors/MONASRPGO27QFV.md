@@ -13,7 +13,7 @@ A 27" QHD OLED gaming monitor from ASRock Phantom Gaming. The PGO27QFV delivers 
 - **Color**: 99% DCI-P3
 - **Panel**: OLED
 - **HDR**: HDR400
-- **Warranty**: 3 years
+- **Warranty**: Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page)
 
 ## Why It Matters
 
@@ -37,7 +37,7 @@ A 27" QHD 360Hz OLED monitor is the pinnacle of gaming monitors. The ASRock Phan
 
 ## Where to Buy
 
-- **In-store**: ExtremePC Onehunga (Auckland) or ExtremePC Wellington
+- **In-store**: ExtremePC Onehunga (Auckland)
 - **Online**: [extremepc.co.nz](https://www.extremepc.co.nz/asrock-phantom-gaming-27-360hz-qhd-2k-0-03ms-gaming-monitor/)
 
 ## Compatibility
@@ -48,7 +48,7 @@ A 27" QHD 360Hz OLED monitor is the pinnacle of gaming monitors. The ASRock Phan
 
 ## Warranty
 
-3 years from date of purchase.
+Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page).
 
 ---
 *Last verified: 2026-11-17*

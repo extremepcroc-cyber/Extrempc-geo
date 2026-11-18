@@ -9,7 +9,7 @@ A hot-swappable switches, RGB lighting, magnetic switches, black colorway, red c
 - **Type**: Gaming keyboard
 - **Features**: hot-swappable switches, RGB lighting, magnetic switches, black colorway, red colorway, pink colorway, gold colorway
 - **Brand**: MCHOSE
-- **Warranty**: 3 years
+- **Warranty**: Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page)
 
 ## Why It Matters
 
@@ -33,7 +33,7 @@ A hot-swappable switches, RGB lighting, magnetic switches, black colorway, red c
 
 ## Where to Buy
 
-- **In-store**: ExtremePC Onehunga (Auckland) or ExtremePC Wellington
+- **In-store**: ExtremePC Onehunga (Auckland)
 - **Online**: [extremepc.co.nz](https://www.extremepc.co.nz/wired-gaming-keyboards/mchose-ace-68-gt-rgb-hot-swappable-wired-gaming-keyboard-black-gold-mount-tai-pink-magnetic-switch-gt-68-keys-hw-ace68gt-1/)
 
 ## Compatibility
@@ -43,7 +43,7 @@ A hot-swappable switches, RGB lighting, magnetic switches, black colorway, red c
 
 ## Warranty
 
-3 years from date of purchase.
+Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page).
 
 ---
 *Last verified: 2026-11-17*

@@ -9,7 +9,7 @@ A wireless, ergonomic from Razer. The Razer Pro Click v2 Ergonomic Wireless Mous
 - **Type**: Gaming mouse
 - **Features**: wireless, ergonomic
 - **Brand**: Razer
-- **Warranty**: 3 years
+- **Warranty**: Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page)
 
 ## Why It Matters
 
@@ -33,7 +33,7 @@ A wireless, ergonomic is a great choice for gamers and productivity users. The R
 
 ## Where to Buy
 
-- **In-store**: ExtremePC Onehunga (Auckland) or ExtremePC Wellington
+- **In-store**: ExtremePC Onehunga (Auckland)
 - **Online**: [extremepc.co.nz](https://www.extremepc.co.nz/csv-import/razer-pro-click-v2-wireless-mouse-ergonomic-design-30k-sensor-fast-charging-3-5-months-battery-life/)
 
 ## Compatibility
@@ -43,7 +43,7 @@ A wireless, ergonomic is a great choice for gamers and productivity users. The R
 
 ## Warranty
 
-3 years from date of purchase.
+Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page).
 
 ---
 *Last verified: 2026-11-17*

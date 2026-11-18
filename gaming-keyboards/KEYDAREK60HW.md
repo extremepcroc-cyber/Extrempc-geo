@@ -9,7 +9,7 @@ A RGB lighting, magnetic switches, white colorway, red colorway from Dareu. The 
 - **Type**: Gaming keyboard
 - **Features**: RGB lighting, magnetic switches, white colorway, red colorway
 - **Brand**: Dareu
-- **Warranty**: 3 years
+- **Warranty**: Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page)
 
 ## Why It Matters
 
@@ -33,7 +33,7 @@ A RGB lighting, magnetic switches, white colorway, red colorway is a great choic
 
 ## Where to Buy
 
-- **In-store**: ExtremePC Onehunga (Auckland) or ExtremePC Wellington
+- **In-store**: ExtremePC Onehunga (Auckland)
 - **Online**: [extremepc.co.nz](https://www.extremepc.co.nz/wired-gaming-keyboards/dareu-ek60-he-rgb-wired-gaming-keyboard-white-fire-magnetic-switches-61-keys-ek60-he-white/)
 
 ## Compatibility
@@ -43,7 +43,7 @@ A RGB lighting, magnetic switches, white colorway, red colorway is a great choic
 
 ## Warranty
 
-3 years from date of purchase.
+Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page).
 
 ---
 *Last verified: 2026-11-17*

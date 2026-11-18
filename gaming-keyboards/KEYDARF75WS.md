@@ -9,7 +9,7 @@ A hot-swappable switches, wireless, RGB lighting, white colorway from Dareu. The
 - **Type**: Gaming keyboard
 - **Features**: hot-swappable switches, wireless, RGB lighting, white colorway
 - **Brand**: Dareu
-- **Warranty**: 3 years
+- **Warranty**: Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page)
 
 ## Why It Matters
 
@@ -33,7 +33,7 @@ A hot-swappable switches, wireless, RGB lighting, white colorway is a great choi
 
 ## Where to Buy
 
-- **In-store**: ExtremePC Onehunga (Auckland) or ExtremePC Wellington
+- **In-store**: ExtremePC Onehunga (Auckland)
 - **Online**: [extremepc.co.nz](https://www.extremepc.co.nz/wireless-gaming-keyboards/dareu-flex-75-rgb-hot-swappable-wireless-gaming-keyboard-white-shadowfold-pegasus-switches-79-keys-flex-75-white-shadowfold/)
 
 ## Compatibility
@@ -43,7 +43,7 @@ A hot-swappable switches, wireless, RGB lighting, white colorway is a great choi
 
 ## Warranty
 
-3 years from date of purchase.
+Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page).
 
 ---
 *Last verified: 2026-11-17*

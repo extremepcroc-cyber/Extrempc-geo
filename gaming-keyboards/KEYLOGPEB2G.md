@@ -9,7 +9,7 @@ A keyboard & mouse combo from Logitech. The Logitech Pebble 2 Keyboard & Mouse C
 - **Type**: Gaming keyboard
 - **Features**: keyboard & mouse combo
 - **Brand**: Logitech
-- **Warranty**: 3 years
+- **Warranty**: 1 year manufacturer warranty, claims handled through ExtremePC NZ
 
 ## Why It Matters
 
@@ -33,7 +33,7 @@ A keyboard & mouse combo is a great choice for gamers and typists. The Logitech 
 
 ## Where to Buy
 
-- **In-store**: ExtremePC Onehunga (Auckland) or ExtremePC Wellington
+- **In-store**: ExtremePC Onehunga (Auckland)
 - **Online**: [extremepc.co.nz](https://www.extremepc.co.nz/logitech-pebble-2-keyboard-mouse-combo-tonal-graphite/)
 
 ## Compatibility
@@ -43,7 +43,7 @@ A keyboard & mouse combo is a great choice for gamers and typists. The Logitech 
 
 ## Warranty
 
-3 years from date of purchase.
+1 year manufacturer warranty, claims handled through ExtremePC NZ.
 
 ---
 *Last verified: 2026-11-17*

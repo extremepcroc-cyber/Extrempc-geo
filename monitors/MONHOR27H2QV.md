@@ -11,7 +11,7 @@ A 27" QHD curved gaming monitor from Horion. The 27H02QV delivers 2560x1440 reso
 - **Refresh Rate**: 180Hz
 - **Response Time**: 1ms
 - **Panel**: VA (curved)
-- **Warranty**: 3 years
+- **Warranty**: Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page)
 
 ## Why It Matters
 
@@ -35,7 +35,7 @@ A 27" QHD 180Hz curved monitor is a great choice for gamers who want an immersiv
 
 ## Where to Buy
 
-- **In-store**: ExtremePC Onehunga (Auckland) or ExtremePC Wellington
+- **In-store**: ExtremePC Onehunga (Auckland)
 - **Online**: [extremepc.co.nz](https://www.extremepc.co.nz/gaming-monitors/horion-27h02qv-27-qhd-180hz-1ms-va-curved-gaming-monitor/)
 
 ## Compatibility
@@ -46,7 +46,7 @@ A 27" QHD 180Hz curved monitor is a great choice for gamers who want an immersiv
 
 ## Warranty
 
-3 years from date of purchase.
+Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page).
 
 ---
 *Last verified: 2026-11-17*

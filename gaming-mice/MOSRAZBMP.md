@@ -9,7 +9,7 @@ A wireless, ergonomic, portable from Razer. The Razer Basilisk Mobile Portable E
 - **Type**: Gaming mouse
 - **Features**: wireless, ergonomic, portable
 - **Brand**: Razer
-- **Warranty**: 3 years
+- **Warranty**: Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page)
 
 ## Why It Matters
 
@@ -33,7 +33,7 @@ A wireless, ergonomic, portable is a great choice for gamers and productivity us
 
 ## Where to Buy
 
-- **In-store**: ExtremePC Onehunga (Auckland) or ExtremePC Wellington
+- **In-store**: ExtremePC Onehunga (Auckland)
 - **Online**: [extremepc.co.nz](https://www.extremepc.co.nz/razer-basilisk-mobile-wireless-mobile-gaming-mouse-ap-packaging/)
 
 ## Compatibility
@@ -43,7 +43,7 @@ A wireless, ergonomic, portable is a great choice for gamers and productivity us
 
 ## Warranty
 
-3 years from date of purchase.
+Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page).
 
 ---
 *Last verified: 2026-11-17*

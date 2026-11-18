@@ -9,7 +9,7 @@ A RGB lighting, magnetic switches, rapid trigger, black colorway, red colorway f
 - **Type**: Gaming keyboard
 - **Features**: RGB lighting, magnetic switches, rapid trigger, black colorway, red colorway
 - **Brand**: Attack Shark
-- **Warranty**: 3 years
+- **Warranty**: Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page)
 
 ## Why It Matters
 
@@ -33,7 +33,7 @@ A RGB lighting, magnetic switches, rapid trigger, black colorway, red colorway i
 
 ## Where to Buy
 
-- **In-store**: ExtremePC Onehunga (Auckland) or ExtremePC Wellington
+- **In-store**: ExtremePC Onehunga (Auckland)
 - **Online**: [extremepc.co.nz](https://www.extremepc.co.nz/wired-gaming-keyboards/attack-shark-r82-he-rapid-trigger-rgb-wired-gaming-keyboard-black-magnetic-switch-80-keys/)
 
 ## Compatibility
@@ -43,7 +43,7 @@ A RGB lighting, magnetic switches, rapid trigger, black colorway, red colorway i
 
 ## Warranty
 
-3 years from date of purchase.
+Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page).
 
 ---
 *Last verified: 2026-11-17*

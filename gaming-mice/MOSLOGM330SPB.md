@@ -9,7 +9,7 @@ A wireless from Logitech. The Logitech M330 Silent Plus Wireless Optical Mouse B
 - **Type**: Gaming mouse
 - **Features**: wireless
 - **Brand**: Logitech
-- **Warranty**: 3 years
+- **Warranty**: 1 year manufacturer warranty, claims handled through ExtremePC NZ
 
 ## Why It Matters
 
@@ -33,7 +33,7 @@ A wireless is a great choice for gamers and productivity users. The Logitech M33
 
 ## Where to Buy
 
-- **In-store**: ExtremePC Onehunga (Auckland) or ExtremePC Wellington
+- **In-store**: ExtremePC Onehunga (Auckland)
 - **Online**: [extremepc.co.nz](https://www.extremepc.co.nz/logitech-m330-silent-plus-wireless-optical-mouse-black/)
 
 ## Compatibility
@@ -43,7 +43,7 @@ A wireless is a great choice for gamers and productivity users. The Logitech M33
 
 ## Warranty
 
-3 years from date of purchase.
+1 year manufacturer warranty, claims handled through ExtremePC NZ.
 
 ---
 *Last verified: 2026-11-17*

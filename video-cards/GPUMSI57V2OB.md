@@ -14,16 +14,16 @@
 - Recommended PSU: 650W minimum
 - Form Factor: Dual-fan, 2.5-slot
 - UpScaling: DLSS 4 (NVIDIA)
-- Ray Tracing: Yes (Ada Lovelace)
+- Ray Tracing: Yes (Blackwell)
 - Series: VENTUS (MSI mid-tier)
 - OC Edition: Factory overclocked
-- Warranty: 3 years manufacturer via MSI NZ
+- Warranty: Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page)
 
 ## Selling Points
 
-The RTX 5070 VENTUS is MSI's mid-tier Ada Lovelace card, designed for 1440p gaming at 120Hz+. The 12GB GDDR7 buffer provides headroom for newer titles, and DLSS 4 upscaling extends frame rates in supported games. The VENTUS series offers a dual-fan cooler and factory overclock.
+The RTX 5070 VENTUS is MSI's mid-tier Blackwell card, designed for 1440p gaming at 120Hz+. The 12GB GDDR7 buffer provides headroom for newer titles, and DLSS 4 upscaling extends frame rates in supported games. The VENTUS series offers a dual-fan cooler and factory overclock.
 
-The 12GB VRAM is a sweet spot for 1440p — enough for most titles at high settings, with room for future games. Ada Lovelace architecture brings improved ray tracing and DLSS 4 over the previous generation. The 650W PSU requirement is moderate.
+The 12GB VRAM is a sweet spot for 1440p — enough for most titles at high settings, with room for future games. Blackwell architecture brings improved ray tracing and DLSS 4 over the previous generation. The 650W PSU requirement is moderate.
 
 For NZ gamers building a 1440p setup, the RTX 5070 VENTUS offers strong performance with MSI's mid-tier cooling. NVIDIA's DLSS 4 is competitive with AMD's FSR 3 in supported titles.
 
@@ -34,9 +34,9 @@ For NZ gamers building a 1440p setup, the RTX 5070 VENTUS offers strong performa
 - Builders who want MSI's VENTUS series
 
 ## Why Buy From ExtremePC
-- MSI products carry 3-year NZ warranty through ExtremePC — local warranty service, no international shipping
+- Warranty claims are handled locally through ExtremePC NZ: send the item to us and we manage the claim and send it back to you
 - Auckland Build Team can verify case clearance and PSU adequacy before purchase
-- In stock at Onehunga and Wellington stores for same-day pickup or Afterpay
+- Click and collect at our Onehunga store; Afterpay and Zip Payment are available at online checkout
 
 ## Comparison
 
@@ -54,7 +54,7 @@ vs AMD Radeon RX 9070 GRE 12GB (GPUASR9070GSLD12) — the RX 9070 GRE has 12GB G
 
 **Q: What PSU do I need?** — MSI recommends a 650W minimum PSU. A quality 750W unit provides headroom for future CPU upgrades.
 
-**Q: Is the 3-year warranty local?** — Yes, MSI provides 3-year NZ warranty through ExtremePC. No need to ship internationally for warranty service.
+**Q: Is warranty handled locally?** — Yes. Warranty claims are handled through ExtremePC NZ: send the item to us and we manage the claim with the manufacturer. The warranty term is set by the manufacturer; see the product page.
 
 ## Related Products
 - MSI GeForce RTX 5070 SHADOW 2X (GPUMSI57S2OC) — competing mid-range card
@@ -67,7 +67,7 @@ vs AMD Radeon RX 9070 GRE 12GB (GPUASR9070GSLD12) — the RX 9070 GRE has 12GB G
   "@context": "https://schema.org",
   "@type": "Product",
   "name": "MSI GeForce RTX 5070 VENTUS 2X OC 12GB Graphics Card",
-  "description": "Mid-range NVIDIA Ada Lovelace graphics card with 12GB GDDR7, DLSS 4 upscaling, and ray tracing. VENTUS series with dual-fan cooler, factory overclocked. Designed for 1440p/120Hz+ gaming.",
+  "description": "Mid-range NVIDIA Blackwell graphics card with 12GB GDDR7, DLSS 4 upscaling, and ray tracing. VENTUS series with dual-fan cooler, factory overclocked. Designed for 1440p/120Hz+ gaming.",
   "brand": {
     "@type": "Brand",
     "name": "MSI"

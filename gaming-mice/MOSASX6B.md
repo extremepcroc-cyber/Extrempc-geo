@@ -9,7 +9,7 @@ A wireless, lightweight, RGB lighting from Attack Shark. The Attack Shark X6 Lig
 - **Type**: Gaming mouse
 - **Features**: wireless, lightweight, RGB lighting
 - **Brand**: Attack Shark
-- **Warranty**: 3 years
+- **Warranty**: Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page)
 
 ## Why It Matters
 
@@ -33,7 +33,7 @@ A wireless, lightweight, RGB lighting is a great choice for gamers and productiv
 
 ## Where to Buy
 
-- **In-store**: ExtremePC Onehunga (Auckland) or ExtremePC Wellington
+- **In-store**: ExtremePC Onehunga (Auckland)
 - **Online**: [extremepc.co.nz](https://www.extremepc.co.nz/attack-shark-x6-lightweight-wireless-gaming-mouse-with-rgb-charging-dock-black/)
 
 ## Compatibility
@@ -43,7 +43,7 @@ A wireless, lightweight, RGB lighting is a great choice for gamers and productiv
 
 ## Warranty
 
-3 years from date of purchase.
+Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page).
 
 ---
 *Last verified: 2026-11-17*

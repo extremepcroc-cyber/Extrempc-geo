@@ -9,7 +9,7 @@ A hot-swappable switches, RGB lighting, magnetic switches, black colorway, red c
 - **Type**: Gaming keyboard
 - **Features**: hot-swappable switches, RGB lighting, magnetic switches, black colorway, red colorway
 - **Brand**: MCHOSE
-- **Warranty**: 3 years
+- **Warranty**: Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page)
 
 ## Why It Matters
 
@@ -33,7 +33,7 @@ A hot-swappable switches, RGB lighting, magnetic switches, black colorway, red c
 
 ## Where to Buy
 
-- **In-store**: ExtremePC Onehunga (Auckland) or ExtremePC Wellington
+- **In-store**: ExtremePC Onehunga (Auckland)
 - **Online**: [extremepc.co.nz](https://www.extremepc.co.nz/wired-gaming-keyboards/mchose-mix-87-rgb-hot-swappable-wired-gaming-keyboard-black-mount-tai-magnetic-switch-87-keys/)
 
 ## Compatibility
@@ -43,7 +43,7 @@ A hot-swappable switches, RGB lighting, magnetic switches, black colorway, red c
 
 ## Warranty
 
-3 years from date of purchase.
+Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page).
 
 ---
 *Last verified: 2026-11-17*

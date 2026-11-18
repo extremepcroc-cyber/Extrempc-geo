@@ -14,16 +14,16 @@
 - Recommended PSU: 600W minimum
 - Form Factor: Dual-fan, 2-slot
 - UpScaling: DLSS 4 (NVIDIA)
-- Ray Tracing: Yes (Ada Lovelace)
+- Ray Tracing: Yes (Blackwell)
 - Series: OC (PNY mid-tier)
 - OC Edition: Factory overclocked
-- Warranty: 3 years manufacturer via PNY NZ
+- Warranty: Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page)
 
 ## Selling Points
 
-The RTX 5060 Ti OC is PNY's mid-tier Ada Lovelace card, designed for 1080p/1440p gaming at 120Hz+. The 8GB GDDR7 buffer is sufficient for most titles at 1080p, and DLSS 4 upscaling extends frame rates in supported games. The OC series offers a dual-fan cooler and factory overclock.
+The RTX 5060 Ti OC is PNY's mid-tier Blackwell card, designed for 1080p/1440p gaming at 120Hz+. The 8GB GDDR7 buffer is sufficient for most titles at 1080p, and DLSS 4 upscaling extends frame rates in supported games. The OC series offers a dual-fan cooler and factory overclock.
 
-The 8GB VRAM is a sweet spot for 1080p — enough for most titles at high settings, with room for future games. Ada Lovelace architecture brings improved ray tracing and DLSS 4 over the previous generation. The 600W PSU requirement is moderate.
+The 8GB VRAM is a sweet spot for 1080p — enough for most titles at high settings, with room for future games. Blackwell architecture brings improved ray tracing and DLSS 4 over the previous generation. The 600W PSU requirement is moderate.
 
 For NZ gamers building a 1080p/1440p setup, the RTX 5060 Ti OC offers strong performance with PNY's mid-tier cooling. NVIDIA's DLSS 4 is competitive with AMD's FSR 3 in supported titles.
 
@@ -34,9 +34,9 @@ For NZ gamers building a 1080p/1440p setup, the RTX 5060 Ti OC offers strong per
 - Builders who want PNY's OC series
 
 ## Why Buy From ExtremePC
-- PNY products carry 3-year NZ warranty through ExtremePC — local warranty service, no international shipping
+- Warranty claims are handled locally through ExtremePC NZ: send the item to us and we manage the claim and send it back to you
 - Auckland Build Team can verify case clearance and PSU adequacy before purchase
-- In stock at Onehunga and Wellington stores for same-day pickup or Afterpay
+- Click and collect at our Onehunga store; Afterpay and Zip Payment are available at online checkout
 
 ## Comparison
 
@@ -54,7 +54,7 @@ vs AMD Radeon RX 9060 (GPUASR9060C8) — the RX 9060 has 8GB GDDR6 and FSR 3 ups
 
 **Q: What PSU do I need?** — PNY recommends a 600W minimum PSU. A quality 700W unit provides headroom for future CPU upgrades.
 
-**Q: Is the 3-year warranty local?** — Yes, PNY provides 3-year NZ warranty through ExtremePC. No need to ship internationally for warranty service.
+**Q: Is warranty handled locally?** — Yes. Warranty claims are handled through ExtremePC NZ: send the item to us and we manage the claim with the manufacturer. The warranty term is set by the manufacturer; see the product page.
 
 ## Related Products
 - Palit NVIDIA GeForce RTX 5060 Ti Dual (GPUPAL56TD8) — competing mid-range card
@@ -67,7 +67,7 @@ vs AMD Radeon RX 9060 (GPUASR9060C8) — the RX 9060 has 8GB GDDR6 and FSR 3 ups
   "@context": "https://schema.org",
   "@type": "Product",
   "name": "PNY NVIDIA GeForce RTX 5060 Ti OC 8GB GDDR7 Graphics Card",
-  "description": "Mid-range NVIDIA Ada Lovelace graphics card with 8GB GDDR7, DLSS 4 upscaling, and ray tracing. OC series with dual-fan cooler, factory overclocked, PCIe 5.0. Designed for 1080p/1440p gaming.",
+  "description": "Mid-range NVIDIA Blackwell graphics card with 8GB GDDR7, DLSS 4 upscaling, and ray tracing. OC series with dual-fan cooler, factory overclocked, PCIe 5.0. Designed for 1080p/1440p gaming.",
   "brand": {
     "@type": "Brand",
     "name": "PNY"

@@ -9,7 +9,7 @@ A hot-swappable switches, wireless, RGB lighting, mechanical switches, black col
 - **Type**: Gaming keyboard
 - **Features**: hot-swappable switches, wireless, RGB lighting, mechanical switches, black colorway, silver colorway
 - **Brand**: Darmoshark
-- **Warranty**: 3 years
+- **Warranty**: Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page)
 
 ## Why It Matters
 
@@ -33,7 +33,7 @@ A hot-swappable switches, wireless, RGB lighting, mechanical switches, black col
 
 ## Where to Buy
 
-- **In-store**: ExtremePC Onehunga (Auckland) or ExtremePC Wellington
+- **In-store**: ExtremePC Onehunga (Auckland)
 - **Online**: [extremepc.co.nz](https://www.extremepc.co.nz/wireless-gaming-keyboards/darmoshark-top75-rgb-hot-swappable-wireless-mechanical-gaming-keyboard-black-silver-switch-81-keys/)
 
 ## Compatibility
@@ -43,7 +43,7 @@ A hot-swappable switches, wireless, RGB lighting, mechanical switches, black col
 
 ## Warranty
 
-3 years from date of purchase.
+Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page).
 
 ---
 *Last verified: 2026-11-17*

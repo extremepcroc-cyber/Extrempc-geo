@@ -35,7 +35,7 @@ A 24" 144Hz business monitor is a great choice for professionals who want a smoo
 
 ## Where to Buy
 
-- **In-store**: ExtremePC Onehunga (Auckland) or ExtremePC Wellington
+- **In-store**: ExtremePC Onehunga (Auckland)
 - **Online**: [extremepc.co.nz](https://www.extremepc.co.nz/business-monitors/aoc-24e40l-24-fhd-144hz-0-5ms-ips-business-monitor-with-5-years-warranty-24e40l/)
 
 ## Compatibility
@@ -46,7 +46,7 @@ A 24" 144Hz business monitor is a great choice for professionals who want a smoo
 
 ## Warranty
 
-5 years from date of purchase.
+5 years manufacturer warranty, claims handled through ExtremePC NZ.
 
 ---
 *Last verified: 2026-11-17*

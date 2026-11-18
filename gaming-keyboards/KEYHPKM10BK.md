@@ -9,7 +9,7 @@ A keyboard & mouse combo, black colorway, red colorway from HP. The HP KM10 Wire
 - **Type**: Gaming keyboard
 - **Features**: keyboard & mouse combo, black colorway, red colorway
 - **Brand**: HP
-- **Warranty**: 3 years
+- **Warranty**: Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page)
 
 ## Why It Matters
 
@@ -33,7 +33,7 @@ A keyboard & mouse combo, black colorway, red colorway is a great choice for gam
 
 ## Where to Buy
 
-- **In-store**: ExtremePC Onehunga (Auckland) or ExtremePC Wellington
+- **In-store**: ExtremePC Onehunga (Auckland)
 - **Online**: [extremepc.co.nz](https://www.extremepc.co.nz/hp-km10-wired-usb-keyboard-mouse-combo-black/)
 
 ## Compatibility
@@ -43,7 +43,7 @@ A keyboard & mouse combo, black colorway, red colorway is a great choice for gam
 
 ## Warranty
 
-3 years from date of purchase.
+Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page).
 
 ---
 *Last verified: 2026-11-17*

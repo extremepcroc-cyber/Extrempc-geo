@@ -9,7 +9,7 @@ A wireless, keyboard & mouse combo from Logitech. The Logitech MK345 Wireless De
 - **Type**: Gaming keyboard
 - **Features**: wireless, keyboard & mouse combo
 - **Brand**: Logitech
-- **Warranty**: 3 years
+- **Warranty**: 1 year manufacturer warranty, claims handled through ExtremePC NZ
 
 ## Why It Matters
 
@@ -33,7 +33,7 @@ A wireless, keyboard & mouse combo is a great choice for gamers and typists. The
 
 ## Where to Buy
 
-- **In-store**: ExtremePC Onehunga (Auckland) or ExtremePC Wellington
+- **In-store**: ExtremePC Onehunga (Auckland)
 - **Online**: [extremepc.co.nz](https://www.extremepc.co.nz/logitech-mk345-wireless-desktop-keyboard-and-mouse-combo-the-powerful-combo-with-extra-long-battery-life/)
 
 ## Compatibility
@@ -43,7 +43,7 @@ A wireless, keyboard & mouse combo is a great choice for gamers and typists. The
 
 ## Warranty
 
-3 years from date of purchase.
+1 year manufacturer warranty, claims handled through ExtremePC NZ.
 
 ---
 *Last verified: 2026-11-17*

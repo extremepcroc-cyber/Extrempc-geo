@@ -10,7 +10,7 @@ A 25" FHD business monitor from AOC. The 25B40HM delivers 100Hz refresh rate wit
 - **Resolution**: 1920x1080 (FHD)
 - **Refresh Rate**: 100Hz
 - **Panel**: VA
-- **Warranty**: 3 years
+- **Warranty**: Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page)
 
 ## Why It Matters
 
@@ -34,7 +34,7 @@ A 25" 100Hz business monitor is a solid choice for professionals who want a slig
 
 ## Where to Buy
 
-- **In-store**: ExtremePC Onehunga (Auckland) or ExtremePC Wellington
+- **In-store**: ExtremePC Onehunga (Auckland)
 - **Online**: [extremepc.co.nz](https://www.extremepc.co.nz/business-monitors/aoc-25b40hm-25-fhd-100hz-va-business-monitor/)
 
 ## Compatibility
@@ -45,7 +45,7 @@ A 25" 100Hz business monitor is a solid choice for professionals who want a slig
 
 ## Warranty
 
-3 years from date of purchase.
+Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page).
 
 ---
 *Last verified: 2026-11-17*

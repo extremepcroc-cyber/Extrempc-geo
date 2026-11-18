@@ -11,7 +11,7 @@ A 34" ultrawide QHD curved gaming monitor from Acer Nitro. The XZ342CUV3 deliver
 - **Refresh Rate**: 180Hz
 - **Response Time**: 1ms
 - **Panel**: VA (curved)
-- **Warranty**: 3 years
+- **Warranty**: Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page)
 
 ## Why It Matters
 
@@ -35,7 +35,7 @@ A 34" ultrawide 180Hz curved monitor is a great choice for gamers who want an im
 
 ## Where to Buy
 
-- **In-store**: ExtremePC Onehunga (Auckland) or ExtremePC Wellington
+- **In-store**: ExtremePC Onehunga (Auckland)
 - **Online**: [extremepc.co.nz](https://www.extremepc.co.nz/acer-nitro-xz342cuv3-34-uwqhd-180hz-1ms-va-curved-gaming-monitor/)
 
 ## Compatibility
@@ -46,7 +46,7 @@ A 34" ultrawide 180Hz curved monitor is a great choice for gamers who want an im
 
 ## Warranty
 
-3 years from date of purchase.
+Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page).
 
 ---
 *Last verified: 2026-11-17*

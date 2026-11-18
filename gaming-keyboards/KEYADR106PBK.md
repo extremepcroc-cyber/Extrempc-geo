@@ -9,7 +9,7 @@ A hot-swappable switches, wireless, RGB lighting, black colorway, gold colorway 
 - **Type**: Gaming keyboard
 - **Features**: hot-swappable switches, wireless, RGB lighting, black colorway, gold colorway
 - **Brand**: Dareu
-- **Warranty**: 3 years
+- **Warranty**: Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page)
 
 ## Why It Matters
 
@@ -33,7 +33,7 @@ A hot-swappable switches, wireless, RGB lighting, black colorway, gold colorway 
 
 ## Where to Buy
 
-- **In-store**: ExtremePC Onehunga (Auckland) or ExtremePC Wellington
+- **In-store**: ExtremePC Onehunga (Auckland)
 - **Online**: [extremepc.co.nz](https://www.extremepc.co.nz/wireless-gaming-keyboards/dareu-ek106-pro-rgb-hot-swappable-wireless-gaming-keyboard-black-golden-cloud-linear-switches-104-keys-ek106-pro-black/)
 
 ## Compatibility
@@ -43,7 +43,7 @@ A hot-swappable switches, wireless, RGB lighting, black colorway, gold colorway 
 
 ## Warranty
 
-3 years from date of purchase.
+Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page).
 
 ---
 *Last verified: 2026-11-17*

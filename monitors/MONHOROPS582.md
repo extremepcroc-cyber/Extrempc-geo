@@ -11,7 +11,7 @@ An OPS (Open Pluggable Specification) module from Horion for interactive flat pa
 - **Storage**: 256GB SSD
 - **OS**: Windows 11 Pro
 - **Type**: OPS module for interactive flat panels
-- **Warranty**: 3 years
+- **Warranty**: Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page)
 
 ## Why It Matters
 
@@ -35,7 +35,7 @@ An OPS module is a great choice for businesses who want to add a PC to an intera
 
 ## Where to Buy
 
-- **In-store**: ExtremePC Onehunga (Auckland) or ExtremePC Wellington
+- **In-store**: ExtremePC Onehunga (Auckland)
 - **Online**: [extremepc.co.nz](https://www.extremepc.co.nz/digital-signage/horion-i5-8gb-256gb-ssd-win11pro-ops-for-interactive-flat-panels-hops-15cwbc/)
 
 ## Compatibility
@@ -45,7 +45,7 @@ An OPS module is a great choice for businesses who want to add a PC to an intera
 
 ## Warranty
 
-3 years from date of purchase.
+Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page).
 
 ---
 *Last verified: 2026-11-17*

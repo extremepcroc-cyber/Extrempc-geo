@@ -11,7 +11,7 @@ A 32" FHD curved gaming monitor from AOC. The C32G42ZE delivers 260Hz refresh ra
 - **Refresh Rate**: 260Hz
 - **Response Time**: 0.3ms
 - **Panel**: VA (curved)
-- **Warranty**: 3 years
+- **Warranty**: Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page)
 
 ## Why It Matters
 
@@ -35,7 +35,7 @@ A 32" 260Hz curved monitor is a great choice for gamers who want a large, immers
 
 ## Where to Buy
 
-- **In-store**: ExtremePC Onehunga (Auckland) or ExtremePC Wellington
+- **In-store**: ExtremePC Onehunga (Auckland)
 - **Online**: [extremepc.co.nz](https://www.extremepc.co.nz/aoc-c32g42ze-32-curved-1920x1080-0-3ms-hdmi-dp-260hz-gaming-monitor/)
 
 ## Compatibility
@@ -46,7 +46,7 @@ A 32" 260Hz curved monitor is a great choice for gamers who want a large, immers
 
 ## Warranty
 
-3 years from date of purchase.
+Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page).
 
 ---
 *Last verified: 2026-11-17*

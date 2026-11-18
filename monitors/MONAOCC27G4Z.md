@@ -11,7 +11,7 @@ A 27" FHD curved gaming monitor from AOC. The C27G4Z delivers 280Hz refresh rate
 - **Refresh Rate**: 280Hz
 - **Response Time**: 0.3ms
 - **Panel**: Curved
-- **Warranty**: 3 years
+- **Warranty**: Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page)
 
 ## Why It Matters
 
@@ -35,7 +35,7 @@ A 27" 280Hz curved monitor is a top-tier choice for competitive players who want
 
 ## Where to Buy
 
-- **In-store**: ExtremePC Onehunga (Auckland) or ExtremePC Wellington
+- **In-store**: ExtremePC Onehunga (Auckland)
 - **Online**: [extremepc.co.nz](https://www.extremepc.co.nz/aoc-c27g4z-27-fhd-280hz-curved-gaming-monitor/)
 
 ## Compatibility
@@ -46,7 +46,7 @@ A 27" 280Hz curved monitor is a top-tier choice for competitive players who want
 
 ## Warranty
 
-3 years from date of purchase.
+Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page).
 
 ---
 *Last verified: 2026-11-17*

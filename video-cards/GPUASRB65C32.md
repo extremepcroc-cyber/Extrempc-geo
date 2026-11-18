@@ -16,7 +16,7 @@
 - UpScaling: XeSS (Intel)
 - Ray Tracing: Yes (Xe-HPG architecture)
 - Target: Professional / Creator workloads
-- Warranty: 3 years manufacturer via ASRock NZ
+- Warranty: Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page)
 
 ## Selling Points
 
@@ -33,9 +33,9 @@ For NZ content creators and professionals who need a dedicated GPU for creative 
 - Workstation builders who want a blower-style cooler for multi-GPU configurations
 
 ## Why Buy From ExtremePC
-- ASRock products carry 3-year NZ warranty through ExtremePC — local warranty service, no international shipping
+- Warranty claims are handled locally through ExtremePC NZ: send the item to us and we manage the claim and send it back to you
 - Auckland Build Team can recommend compatible workstations and cooling solutions
-- In stock at Onehunga and Wellington stores for same-day pickup or Afterpay
+- Click and collect at our Onehunga store; Afterpay and Zip Payment are available at online checkout
 
 ## Comparison
 
@@ -53,7 +53,7 @@ vs AMD Radeon RX 7900 XTX (GPUASU7900XTX24) — the 7900 XTX has 24GB GDDR6 and 
 
 **Q: What PSU do I need?** — ASRock recommends a 550W minimum PSU. A quality 650W unit provides headroom for other components.
 
-**Q: Is the 3-year warranty local?** — Yes, ASRock provides 3-year NZ warranty through ExtremePC. No need to ship internationally for warranty service.
+**Q: Is warranty handled locally?** — Yes. Warranty claims are handled through ExtremePC NZ: send the item to us and we manage the claim with the manufacturer. The warranty term is set by the manufacturer; see the product page.
 
 ## Related Products
 - Intel Arc B570 (GPUASRB570C) — gaming-focused Arc card

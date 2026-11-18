@@ -9,7 +9,7 @@ A wireless, ergonomic design, black colorway from Logitech. The Logitech Wave Ke
 - **Type**: Gaming keyboard
 - **Features**: wireless, ergonomic design, black colorway
 - **Brand**: Logitech
-- **Warranty**: 3 years
+- **Warranty**: 1 year manufacturer warranty, claims handled through ExtremePC NZ
 
 ## Why It Matters
 
@@ -33,7 +33,7 @@ A wireless, ergonomic design, black colorway is a great choice for gamers and ty
 
 ## Where to Buy
 
-- **In-store**: ExtremePC Onehunga (Auckland) or ExtremePC Wellington
+- **In-store**: ExtremePC Onehunga (Auckland)
 - **Online**: [extremepc.co.nz](https://www.extremepc.co.nz/logitech-wave-keys-wireless-ergo-keyboard-black/)
 
 ## Compatibility
@@ -43,7 +43,7 @@ A wireless, ergonomic design, black colorway is a great choice for gamers and ty
 
 ## Warranty
 
-3 years from date of purchase.
+1 year manufacturer warranty, claims handled through ExtremePC NZ.
 
 ---
 *Last verified: 2026-11-17*

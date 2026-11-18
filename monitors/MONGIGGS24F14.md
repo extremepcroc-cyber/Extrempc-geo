@@ -10,7 +10,7 @@ A 23.8" FHD gaming monitor from Gigabyte. The GS24F14 delivers 144Hz refresh rat
 - **Resolution**: 1920x1080 (FHD)
 - **Refresh Rate**: 144Hz
 - **Panel**: IPS
-- **Warranty**: 3 years
+- **Warranty**: Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page)
 
 ## Why It Matters
 
@@ -34,7 +34,7 @@ A 23.8" 144Hz gaming monitor is a great choice for competitive players who want 
 
 ## Where to Buy
 
-- **In-store**: ExtremePC Onehunga (Auckland) or ExtremePC Wellington
+- **In-store**: ExtremePC Onehunga (Auckland)
 - **Online**: [extremepc.co.nz](https://www.extremepc.co.nz/csv-import/gigabyte-gs24f14-23-8-ips-fhd-144hz-hdmi-1-gaming-monitor/)
 
 ## Compatibility
@@ -45,7 +45,7 @@ A 23.8" 144Hz gaming monitor is a great choice for competitive players who want 
 
 ## Warranty
 
-3 years from date of purchase.
+Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page).
 
 ---
 *Last verified: 2026-11-17*

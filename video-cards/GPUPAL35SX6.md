@@ -16,7 +16,7 @@
 - UpScaling: DLSS 3 (NVIDIA)
 - Ray Tracing: Yes (Ampere)
 - Series: StormX (Palit entry-level)
-- Warranty: 3 years manufacturer via Palit NZ
+- Warranty: Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page)
 
 ## Selling Points
 
@@ -33,9 +33,9 @@ For NZ gamers building a budget 1080p setup, the RTX 3050 StormX offers entry-le
 - Budget builders who want NVIDIA's ecosystem at the lowest entry point
 
 ## Why Buy From ExtremePC
-- Palit products carry 3-year NZ warranty through ExtremePC — local warranty service, no international shipping
+- Warranty claims are handled locally through ExtremePC NZ: send the item to us and we manage the claim and send it back to you
 - Auckland Build Team can verify case clearance and PSU adequacy before purchase
-- In stock at Onehunga and Wellington stores for same-day pickup or Afterpay
+- Click and collect at our Onehunga store; Afterpay and Zip Payment are available at online checkout
 
 ## Comparison
 
@@ -53,7 +53,7 @@ vs AMD Radeon RX 7600 (if in stock) — the RX 7600 has 8GB GDDR6 and FSR 3. The
 
 **Q: What PSU do I need?** — Palit recommends a 300W minimum PSU. A quality 450W unit provides headroom for future CPU upgrades.
 
-**Q: Is the 3-year warranty local?** — Yes, Palit provides 3-year NZ warranty through ExtremePC. No need to ship internationally for warranty service.
+**Q: Is warranty handled locally?** — Yes. Warranty claims are handled through ExtremePC NZ: send the item to us and we manage the claim with the manufacturer. The warranty term is set by the manufacturer; see the product page.
 
 ## Related Products
 - Colorful GeForce RTX 3050 (GPUCOL356V4) — competing budget card

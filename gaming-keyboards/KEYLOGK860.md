@@ -9,7 +9,7 @@ A wireless, ergonomic design, split design from Logitech. The Logitech ERGO K860
 - **Type**: Gaming keyboard
 - **Features**: wireless, ergonomic design, split design
 - **Brand**: Logitech
-- **Warranty**: 3 years
+- **Warranty**: Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page)
 
 ## Why It Matters
 
@@ -33,7 +33,7 @@ A wireless, ergonomic design, split design is a great choice for gamers and typi
 
 ## Where to Buy
 
-- **In-store**: ExtremePC Onehunga (Auckland) or ExtremePC Wellington
+- **In-store**: ExtremePC Onehunga (Auckland)
 - **Online**: [extremepc.co.nz](https://www.extremepc.co.nz/logitech-ergo-k860-wireless-split-keyboard/)
 
 ## Compatibility
@@ -43,7 +43,7 @@ A wireless, ergonomic design, split design is a great choice for gamers and typi
 
 ## Warranty
 
-3 years from date of purchase.
+Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page).
 
 ---
 *Last verified: 2026-11-17*

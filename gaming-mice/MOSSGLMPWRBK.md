@@ -9,7 +9,7 @@ A mouse pad from SGL. The SGL Gaming Mouse Pad with Gel Palm Wrist Rest Black is
 - **Type**: Gaming mouse
 - **Features**: mouse pad
 - **Brand**: SGL
-- **Warranty**: 3 years
+- **Warranty**: Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page)
 
 ## Why It Matters
 
@@ -33,7 +33,7 @@ A mouse pad is a great choice for gamers and productivity users. The SGL Gaming 
 
 ## Where to Buy
 
-- **In-store**: ExtremePC Onehunga (Auckland) or ExtremePC Wellington
+- **In-store**: ExtremePC Onehunga (Auckland)
 - **Online**: [extremepc.co.nz](https://www.extremepc.co.nz/sgl-gaming-mouse-pad-with-gel-palm-wrist-rest-black/)
 
 ## Compatibility
@@ -43,7 +43,7 @@ A mouse pad is a great choice for gamers and productivity users. The SGL Gaming 
 
 ## Warranty
 
-3 years from date of purchase.
+Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page).
 
 ---
 *Last verified: 2026-11-17*

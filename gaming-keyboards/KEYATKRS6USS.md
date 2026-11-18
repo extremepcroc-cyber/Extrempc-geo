@@ -9,7 +9,7 @@ A hot-swappable switches, RGB lighting, mechanical switches, magnetic switches, 
 - **Type**: Gaming keyboard
 - **Features**: hot-swappable switches, RGB lighting, mechanical switches, magnetic switches, red colorway
 - **Brand**: ATK
-- **Warranty**: 3 years
+- **Warranty**: Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page)
 
 ## Why It Matters
 
@@ -33,7 +33,7 @@ A hot-swappable switches, RGB lighting, mechanical switches, magnetic switches, 
 
 ## Where to Buy
 
-- **In-store**: ExtremePC Onehunga (Auckland) or ExtremePC Wellington
+- **In-store**: ExtremePC Onehunga (Auckland)
 - **Online**: [extremepc.co.nz](https://www.extremepc.co.nz/wired-gaming-keyboards/atk-rs6-ultra-rgb-hot-swappable-wired-magnetic-mechanical-gaming-keyboard-spectral-ranger-snow-blade-pro-switch-68-keys/)
 
 ## Compatibility
@@ -43,7 +43,7 @@ A hot-swappable switches, RGB lighting, mechanical switches, magnetic switches, 
 
 ## Warranty
 
-3 years from date of purchase.
+Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page).
 
 ---
 *Last verified: 2026-11-17*

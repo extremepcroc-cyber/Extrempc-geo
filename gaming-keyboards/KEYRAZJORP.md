@@ -9,7 +9,7 @@ A wireless from Razer. The Razer Joro Portable Wireless Gaming Keyboard RZ03-023
 - **Type**: Gaming keyboard
 - **Features**: wireless
 - **Brand**: Razer
-- **Warranty**: 3 years
+- **Warranty**: Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page)
 
 ## Why It Matters
 
@@ -33,7 +33,7 @@ A wireless is a great choice for gamers and typists. The Razer Joro Portable Wir
 
 ## Where to Buy
 
-- **In-store**: ExtremePC Onehunga (Auckland) or ExtremePC Wellington
+- **In-store**: ExtremePC Onehunga (Auckland)
 - **Online**: [extremepc.co.nz](https://www.extremepc.co.nz/csv-import/razer-joro-portable-wireless-gaming-keyboard/)
 
 ## Compatibility
@@ -43,7 +43,7 @@ A wireless is a great choice for gamers and typists. The Razer Joro Portable Wir
 
 ## Warranty
 
-3 years from date of purchase.
+Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page).
 
 ---
 *Last verified: 2026-11-17*

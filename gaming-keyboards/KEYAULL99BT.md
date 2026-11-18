@@ -9,7 +9,7 @@ A hot-swappable switches, wireless, RGB lighting, mechanical switches, transpare
 - **Type**: Gaming keyboard
 - **Features**: hot-swappable switches, wireless, RGB lighting, mechanical switches, transparent keycaps, black colorway, caramel colorway
 - **Brand**: AULA
-- **Warranty**: 3 years
+- **Warranty**: Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page)
 
 ## Why It Matters
 
@@ -33,7 +33,7 @@ A hot-swappable switches, wireless, RGB lighting, mechanical switches, transpare
 
 ## Where to Buy
 
-- **In-store**: ExtremePC Onehunga (Auckland) or ExtremePC Wellington
+- **In-store**: ExtremePC Onehunga (Auckland)
 - **Online**: [extremepc.co.nz](https://www.extremepc.co.nz/aula-l99-rgb-hot-swappable-wireless-mechanical-keyboard-with-3-98-ips-display-black-transparent-caramel-latte-switch-84-key/)
 
 ## Compatibility
@@ -43,7 +43,7 @@ A hot-swappable switches, wireless, RGB lighting, mechanical switches, transpare
 
 ## Warranty
 
-3 years from date of purchase.
+Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page).
 
 ---
 *Last verified: 2026-11-17*

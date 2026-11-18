@@ -9,7 +9,7 @@ A ergonomic design, Bluetooth, black colorway, blue colorway from Sanwa Supply. 
 - **Type**: Gaming keyboard
 - **Features**: ergonomic design, Bluetooth, black colorway, blue colorway
 - **Brand**: Sanwa Supply
-- **Warranty**: 3 years
+- **Warranty**: Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page)
 
 ## Why It Matters
 
@@ -33,7 +33,7 @@ A ergonomic design, Bluetooth, black colorway, blue colorway is a great choice f
 
 ## Where to Buy
 
-- **In-store**: ExtremePC Onehunga (Auckland) or ExtremePC Wellington
+- **In-store**: ExtremePC Onehunga (Auckland)
 - **Online**: [extremepc.co.nz](https://www.extremepc.co.nz/sanwa-supply-ergc2-bluetooth-ergonomic-keyboard-black/)
 
 ## Compatibility
@@ -43,7 +43,7 @@ A ergonomic design, Bluetooth, black colorway, blue colorway is a great choice f
 
 ## Warranty
 
-3 years from date of purchase.
+Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page).
 
 ---
 *Last verified: 2026-11-17*

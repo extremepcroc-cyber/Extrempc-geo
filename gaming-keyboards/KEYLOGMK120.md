@@ -9,7 +9,7 @@ A keyboard & mouse combo from Logitech. The Logitech MK120 Desktop Keyboard and 
 - **Type**: Gaming keyboard
 - **Features**: keyboard & mouse combo
 - **Brand**: Logitech
-- **Warranty**: 3 years
+- **Warranty**: Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page)
 
 ## Why It Matters
 
@@ -33,7 +33,7 @@ A keyboard & mouse combo is a great choice for gamers and typists. The Logitech 
 
 ## Where to Buy
 
-- **In-store**: ExtremePC Onehunga (Auckland) or ExtremePC Wellington
+- **In-store**: ExtremePC Onehunga (Auckland)
 - **Online**: [extremepc.co.nz](https://www.extremepc.co.nz/logitech-mk120-desktop-keyboard-and-mouse-combo-sturdy-adjustable-tilt-legs-curved-space-bar-plug-and-play-usb-connection-logitech-conqueror/)
 
 ## Compatibility
@@ -43,7 +43,7 @@ A keyboard & mouse combo is a great choice for gamers and typists. The Logitech 
 
 ## Warranty
 
-3 years from date of purchase.
+Manufacturer warranty, claims handled through ExtremePC NZ (term set by the manufacturer; see the product page).
 
 ---
 *Last verified: 2026-11-17*
