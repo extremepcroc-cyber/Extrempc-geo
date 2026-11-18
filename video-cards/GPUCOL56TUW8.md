@@ -23,7 +23,7 @@
 - **Weight**: 0.75 kg
 - **One-Key Overclock**: Push-button factory OC profile
 - **Warranty**: 3 years Colorful warranty via authorized NZ distributor (ExtremePC)
-- **NZ Stock**: 8 units at Auckland Onehunga
+- **NZ Stock**: Only a few left at Auckland Onehunga (OH=5, BC API verified 2026-11-15)
 
 ## Selling Points
 
@@ -55,7 +55,7 @@
 
 - **Build Team consultation for themed builds** — White/pink builds require deliberate coordination (motherboard, RAM heat spreader, RGB tone). Build Team can spec the matching components.
 
-- **Same-day Auckland pickup from Onehunga (8 units)** — Walk-in pickup realistic.
+- **Same-day Auckland pickup from Onehunga (limited stock — OH=5 as of 2026-11-15, order soon)** — Walk-in pickup realistic while it lasts.
 
 - **National courier dispatch 1–3 business days** — Insured shipping to Wellington and South Island.
 
