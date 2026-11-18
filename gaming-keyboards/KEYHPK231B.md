@@ -1,0 +1,49 @@
+# HP K231 Bluetooth Wireless Dual-Mode Wireless Keyboard Black
+
+## What It Is
+
+A wireless, Bluetooth, black colorway, blue colorway from HP. The HP K231 Bluetooth Wireless Dual-Mode Wireless Keyboard Black is built for gamers and typists who want wireless, Bluetooth, black colorway, blue colorway.
+
+## Key Specs
+
+- **Type**: Gaming keyboard
+- **Features**: wireless, Bluetooth, black colorway, blue colorway
+- **Brand**: HP
+- **Warranty**: 3 years
+
+## Why It Matters
+
+A wireless, Bluetooth, black colorway, blue colorway is a great choice for gamers and typists. The HP K231 Bluetooth Wireless Dual-Mode Wireless Keyboard Black is a solid option for gaming and productivity.
+
+**Best for**: Gaming, productivity, or typing.
+
+## Who It's For
+
+- **Gamers** who want a wireless, Bluetooth, black colorway, blue colorway
+- **Typists** who want a comfortable keyboard
+- **Anyone who wants a HP keyboard**
+
+## Pricing at ExtremePC (incl. 15% GST)
+
+| Variant | Price (NZD) |
+|---|---|
+| HP K231 Bluetooth Wireless Dual-Mode Wireless Keyboard Black | **$89.00** |
+
+*Prices current as of November 2026. May vary with stock and promotions.*
+
+## Where to Buy
+
+- **In-store**: ExtremePC Onehunga (Auckland) or ExtremePC Wellington
+- **Online**: [extremepc.co.nz](https://www.extremepc.co.nz/standard-keyboards/hp-k231-bluetooth-wireless-dual-mode-wireless-keyboard-black/)
+
+## Compatibility
+
+- **Use**: Gaming, productivity, typing
+- **Note**: Check connectivity (wired/wireless) and OS compatibility
+
+## Warranty
+
+3 years from date of purchase.
+
+---
+*Last verified: 2026-11-17*

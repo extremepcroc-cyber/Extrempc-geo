@@ -1,0 +1,49 @@
+# Darmoshark SK88 Pro RGB Hot-Swappable Wireless Mechanical Gaming Keyboard - White, Huano Switch, 88 keys
+
+## What It Is
+
+A hot-swappable switches, wireless, RGB lighting, mechanical switches, white colorway from Darmoshark. The Darmoshark SK88 Pro RGB Hot-Swappable Wireless Mechanical Gaming Keyboard - White, Huano Switch, 88 keys is built for gamers and typists who want hot-swappable switches, wireless, RGB lighting, mechanical switches, white colorway.
+
+## Key Specs
+
+- **Type**: Gaming keyboard
+- **Features**: hot-swappable switches, wireless, RGB lighting, mechanical switches, white colorway
+- **Brand**: Darmoshark
+- **Warranty**: 3 years
+
+## Why It Matters
+
+A hot-swappable switches, wireless, RGB lighting, mechanical switches, white colorway is a great choice for gamers and typists. The Darmoshark SK88 Pro RGB Hot-Swappable Wireless Mechanical Gaming Keyboard - White, Huano Switch, 88 keys is a solid option for gaming and productivity.
+
+**Best for**: Gaming, productivity, or typing.
+
+## Who It's For
+
+- **Gamers** who want a hot-swappable switches, wireless, RGB lighting, mechanical switches, white colorway
+- **Typists** who want a comfortable keyboard
+- **Anyone who wants a Darmoshark keyboard**
+
+## Pricing at ExtremePC (incl. 15% GST)
+
+| Variant | Price (NZD) |
+|---|---|
+| Darmoshark SK88 Pro RGB Hot-Swappable Wireless Mechanical Gaming Keyboard - White, Huano Switch, 88 keys | **$97.30** |
+
+*Prices current as of November 2026. May vary with stock and promotions.*
+
+## Where to Buy
+
+- **In-store**: ExtremePC Onehunga (Auckland) or ExtremePC Wellington
+- **Online**: [extremepc.co.nz](https://www.extremepc.co.nz/wireless-gaming-keyboards/darmoshark-sk88-pro-rgb-hot-swappable-wireless-mechanical-gaming-keyboard-white-huano-switch-88-keys/)
+
+## Compatibility
+
+- **Use**: Gaming, productivity, typing
+- **Note**: Check connectivity (wired/wireless) and OS compatibility
+
+## Warranty
+
+3 years from date of purchase.
+
+---
+*Last verified: 2026-11-17*
