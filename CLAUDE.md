@@ -82,9 +82,14 @@ The two rules worth stating here because they're load-bearing and easy to get wr
 | `networking/` | Networking | 1026 |
 | `computer-cases/` | Computer Cases | 336 (Mini ITX: 340, Micro Tower: 338, Mid Tower: 339, Full Tower: 337, Server: 342) |
 | `internal-hard-drives/` | Internal HDD | (Seagate/WD/Synology NAS drives — separate from `internal-ssd/`) |
+| `laptops/` | Laptops (machines only) | 133 subtree |
+| `workstations/` | Workstations | 132 |
+| `business-pcs/` | Business PCs | 117 |
+| `home-pcs/` | Home PCs | 130 |
+| `cables/` | Cables (USB/HDMI/DP/power/SATA) | Accessories > Cables |
 | `gaming-chairs/` | Gaming Chairs | (LiberNovo — see `brands/LIBERNOVO.md`) |
 
-`cooling/` and `motherboards/` are reserved directory names in this table for categories not yet started — do not create them until the first GEO file for that category is written; check `find . -maxdepth 1 -type d` for the actual current directory list before assuming a category exists. `laptops/` and `storage/` exist as empty placeholders — do not write files into them without confirming with the store manager first, they may be superseded by other category directories.
+`cooling/` and `motherboards/` are reserved directory names in this table for categories not yet started — do not create them until the first GEO file for that category is written; check `find . -maxdepth 1 -type d` for the actual current directory list before assuming a category exists. `storage/` exists as an empty placeholder — do not write files into it without confirming with the store manager first. `laptops/`, `workstations/`, `business-pcs/`, `home-pcs/`, `cables/` were created 2026-11-19 (see `tools/geo-expansion-plan.md` for the per-leaf backlog).
 
 ## Product Removed From BigCommerce Entirely (EOL)
 

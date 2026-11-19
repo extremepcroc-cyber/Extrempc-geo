@@ -30,7 +30,12 @@ geo/
 ├── streaming-creator/           ← Streaming & Creator (ID:227)
 ├── networking/                  ← Networking (ID:1026)
 ├── 2-EOL products/              ← 已从 BC 完全下架的产品（不删除，移到这里保留内容）
-├── laptops/  storage/           ← 空占位目录，暂未启用，写文件前先跟店长确认
+├── laptops/                     ← 笔记本整机（BC 133；配件另议）
+├── workstations/                ← 工作站（BC 132）
+├── business-pcs/                ← 商用 PC（BC 117）
+├── home-pcs/                    ← 家用 PC（BC 130）
+├── cables/                      ← 线材：USB / HDMI / DP / 电源 / SATA（BC Accessories > Cables）
+├── storage/                     ← 空占位目录，暂未启用，写文件前先跟店长确认
 ├── company/                     ← ExtremePC 公司层面资料（非产品），见下方「公司资料」
 ├── brands/                      ← 品牌背景资料（不是产品列表），目前 21 个文件
 ├── product-knowledge/           ← 技术调研笔记，供写 GEO 前参考
